@@ -1,0 +1,60 @@
+<a name="Jan"></a>
+<a name="Feb"></a>
+<a name="Mar"></a>
+<a name="Apr"></a>
+<a name="May"></a>
+<a name="Jun"></a>
+<a name="Jul"></a>
+<a name="Aug"></a>
+<a name="Sep"></a>
+<a name="Oct"></a>
+<a name="Nov"></a>
+<a name="Dec"></a>
+
+<a href="http://www.adobe.com/prodindex/acrobat/readstep.html"><img width=88 height=31 src="getacro.gif"></a>
+
+<html>
+<head>
+<title>SJAA Ephemeris Archive 19XX</TITLE>
+</HEAD>
+<body bgcolor="#FFFFFF" text="#000000">
+<center>
+<img width=637 height=153 src="eph_arc.gif" >
+</center>
+<hr>
+<h1><center>1994</center></H1>
+<h2><center>XYZZY</center></h2>
+<center>
+ <a href="#Jan">January</a>&nbsp;
+ <a href="#Feb">February</a>&nbsp;
+ <a href="#Mar">March</a>&nbsp;
+ <a href="#Apr">April</a>&nbsp;
+ <a href="#May">May</a>&nbsp;
+ <a href="#Jun">June</a>&nbsp;
+ <a href="#Jul">July</a>&nbsp;
+ <a href="#Aug">August</a>&nbsp;
+ <a href="#Sep">September</a>&nbsp;
+ <a href="#Oct">October</a>&nbsp;
+ <a href="#Nov">November</a>&nbsp;
+ <a href="#Dec">December</a>
+</center>
+<hr>
+
+<hr>
+<center>
+<a href="../Fifties/Fifties.html">Fifties</a>
+ ... <a href="../Sixties/Sixties.html">Sixties</a>
+ ... <a href="../Seventies/Seventies.html">Seventies</a>
+ ... <a href="../Eighties/Eighties.html">Eighties</a>
+ ... <a href="../Nineties/Nineties.html">Nineties</a>
+ ... <a href="../Naughts/Naughts.html">Naughts</a>
+ </center>
+
+<hr size=6>
+<a href="http://www.sjaa.net/"><img align=right border=0 width=79 height=32 src="icon.gif"></a>
+Copyright &copy; 2004 <a href="http://www.sjaa.net/">San Jose Astronomical
+Association</a>
+and the respective authors.
+<br>
+</BODY>
+</HTML>

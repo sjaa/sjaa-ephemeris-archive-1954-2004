@@ -1,0 +1,12 @@
+# File format:
+# pretitle, title, byline, user, domain
+# byline, user, and domain are optional
+#
+;SJAA activities calendar;Jim Van Nuland;jvn;svpal.org
+;Costa Rica Star Party;Rob Hawley;;
+;Foothill College Lecture Series;Andy Fraknoi;;
+Mooning;The Lunar Bush;Dave North;north;znet.com
+The shallow sky;Jupiter for Dummies(and Everybody Else, Too!);Akkana Peck;observer;shallowsky.com
+;Editor's Semi-Dark Matter;;;
+Out There;A Sampling of Planetaries;Mark Wagner;mgwagner;resource-intl.com
+Celestial calendar;March 2004;Richard Stanton;lionhert;garret.net

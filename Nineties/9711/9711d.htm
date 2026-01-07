@@ -1,0 +1,68 @@
+<html><head><title>Ephemeris</TITLE></HEAD><body>
+
+<table border=1 width=100%><tr><td valign=top align=center width=79>
+<a href="../eph.html" webstripperlinkwas="../eph.html"><img border=0 src="../img/icon.gif" webstripperlinkwas="../img/icon.gif" height=32 width=79></a><br>
+<br><font size=-1><a href="../sjaa.html" webstripperlinkwas="../sjaa.html">SJAA</a><br>
+<br><a href="../eph.html" webstripperlinkwas="../eph.html">Ephemeris</a></font>
+</td><td align=center>
+<h1 align=center>Automating A David Malin Astrophotography Technique</H1>
+<h2 align=center>Ernie Piini</H2>
+</td></tr></table>
+<br clear=all>
+
+<p>
+
+	I was very impressed when I first saw some step-focus photographs of stars by David Malin, a world renowned astrophotographer from Sydney, Australia. This is a new twist to star trail photography which reveals the true colors of the stars. 
+<p>
+	With ordinary star trail photography, many stars are just too bright to reveal their colors. The images are burned out and appear white. Malin¹s technique involves changing the focus of a camera lens by a predetermined amount following short periods of exposure during a star trail photograph. 
+<p>
+	His illustrated technique which I read in the Quantas AIRWAYS magazine (March/April 1986), while returning home from a trip to Ayers Rock to view Halley's Comet, was an eye opener. My first reaction was that it would be lots of fun to try and duplicate.
+<p>
+	My first attempt was under fairly dark skies at Pebble Beach. The winter constellations graced the heavens at that time and one of the best targets was of course, the fabulous Orion constellation. I used a Pentax 35-mm camera loaded with Extachrome-200 slide film as starters. I experimented with 50mm and 135mm lenses. 
+<p>
+	My lens was initially set at infinity (sharpest image) and the field of stars so positioned as to remain in the field of view after a 21-minute exposure. My 135mm lens, for example, has marked focus settings of: infinity, 100, 50, 30, 20, 15, 12, 10, 9, 8, 7, and 6-feet. 
+<p>
+	I defocused the lens downward, a mark at a time, after every 3-minutes of exposure, (at f/2.8) seven times (ending with the12-feet mark) making the total exposure lasting 21-minutes.
+<p>
+	The initial results were colorful and pleasing but with many disappointing errors. For instance, timing each 3-minute sequence and changing the lens focus setting in the dark provides a perfect opportunity for Murphy's Law to creep in. 
+<p>
+	At times I forgot which way to rotate the focus ring, I found it difficult to read the focus marks in the dark, I forgot to reset my time clock, I bumped or moved my camera while defocusing, and forgot to release my shutter at the end of my exposure run. These gremlins got worse as the night progressed! There must be a better way...
+<p>
+	Being a former electronic engineer and having a passion for developing mechanical gimmicks, I decided to investigate a way to do the David Malin thing in a more automated way. Why not build something that would allow me to program the sequence, press the START button, go have coffee, and come back later, and set up for the next photo. 
+<p>
+	And WOW - did I have fun!
+<p>
+	My Automated Step-Focus Photography project took on several design changes before arriving at a suitable solution. (Typical engineering.) 
+<p>
+	I began with a platform which resembles the good ole' slide rule; the sliding piece of wood, lined with a narrow strip of rubber matting, rotates the lens in the correct direction. The slide is driven by a 1/4-20 threaded screw which is in turn driven by a 12-volt DC motor. Limit switches are arranged at both ends to control slide travel. 
+<p>
+	This provides a basic starting point (sets lens focus ring to infinity) and an end point (tells electronics when to stop). The time intervals between focus changes (which determine the length of the star trail between focus changes) and the length of time for the DC motor to rotate (which determine the size of the star trail step-width) are programmed into the control box. 
+<p>
+	The camera's shutter release cable is attached to a specially designed releasing mechanism located near the end of the slide rule travel. To begin an exposure, the shutter release cable is depressed and locked in the "Bulb" exposure mode. When the slide reaches a predetermined point, an aluminum arm pushes on a swivel plate which in turn causes the release cable to trip and end the exposure. Works great. The predetermined release point is adjustable on the "slide-rule" arm.
+<p>
+	The electronics consists mainly of a dual 556 Timer chip, a 393 (divide by 256) chip, a 4069 inverter chip, and a IRF-9Z30 FET switch. One-halve of the 556 Timer is used to establish the basic clock pulses to the 393 divider chip. This divides the incoming clock pulses by 256 which puts out a pulse after every 256th count. A rotary switch selects the appropriate timing resistor to the 556 Timer chip which adjusts the interval between step-focus changes. The interval selections I use are 0.5, 1, 2, 3, 4, and 5-minutes. The output of the 393 divider chip is sent through a 4069 inverter chip before going to the second halve of the 556 Timer chip. This logic circuit allows blanking out undesirable transient noises from the DC motor start up which will disturb the dividing action of the 393, and also undesirable transients from the clock "ON" switch. The second halve of the 556 Timer chip is used as a "one-shot" and puts out a pulse width commensurate with the length of time to keep the DC motor turning. This pulse width length is determined by another rotary switch labeled Step-Width Select. I selected timing resistor values for 4, 5, 6, 7, and 8-second motor drive durations. The FET switch is a p-channel field effect transistor ideal for delivering the necessary drive power to the DC motor.
+<p>
+	Once a step-focus sequence of exposures are completed, a reversing slide switch is activated to reverse the motor drive and return the slide and lens focus setting to the normal starting position.
+<p>
+	Suitable step-focus profiles can now be set with selected combinations of the two rotary switch settings and adjusting the cable release mechanism positioning. 
+<p>
+	To capture the beauty of the entire constellation of Orion requires a 50mm lens, whereas, the "Belt" portion with the Great Nebula of Orion is best photographed using a 135mm lens. I also found the 135mm lens is best used on single or bright objects like the star, Sirius or Vega. The longest possible length of a step-focus exposure depends on the sky fog limit which can degrade the richness of a star color if made too long.
+<p>
+	An inherent fault in the optical construction of a lens shows up when step-focusing on stars away from the center of the field. The images tend to move out and away from a straight line, becoming more pronounced the further away from center. 
+<p>
+	The
+"slide-rule" mechanism attaches to my tripod with the standard 1/4-20 camera screw. I used a 9-pin "D" connector to detach the "slide-rule" cable with the Electronic Control Box. This simplifies handling and to make improvements during the design effort. 
+<p>
+	I use two 6-volt DC batteries connected in series. The 6-volt connection powers the electronic box and the total 12-volt connection powers the DC motor. 
+<p>
+	There are probably different and better ways to do the same thing  but my intentions were to utilize available components and knowledge. 
+<p>
+	I have taken my step-focus machine to various dark-sky sites including Fremont Peak, Mt. Hamilton, Pebble Beach and Chew's Ridge in California and to Stellafane in Vermont. 
+<p>
+	I am very happy and proud of my results. I'd like to tell David Malin to quit wasting his time changing focus ring settings on his camera, and instead use my machine and come have coffee with me. 
+
+<p>
+
+<hr size=6>
+<a href="indexw.html" webstripperlinkwas=""><a href="mailto:EWPiini@aol.com">Ernie Piini</a></a>; last updated: 1997 Oct 21
+</BODY></HTML>

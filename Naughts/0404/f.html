@@ -1,0 +1,282 @@
+<html><head>
+<title>Editor's Semi-Dark Matter</TITLE>
+<style>
+<!-- body, p, td { font-family: verdona, arial, helvetica, sans-serif; background-color: white; } .pretitle { font-family: times, serif; font-style: italic; font-weight: normal; margin: 15 5 5 5; } .headline { font-family: times, serif; font-style: normal; font-weight: bold; margin: 5; } .headline2 { font-family: times, serif; font-style: normal; font-weight: normal; margin: 5; } .byline { font-family: times, serif; font-style: normal; font-weight: normal; margin: 5; } .story { font-size: small; line-height: 130%; } .caption { font-size: x-small; font-style: normal; font-weight: normal; text-align: left; } .pullquote { font-size: medium; font-weight: bold; font-family: times, serif; border-top: solid black 2px; border-bottom: solid black 2px; text-align: center; } .copyright { font-size: x-small; } table.bodytable { cell-spacing: 0; border-collapse: collapse; margin-left: 25; margin-right: 25; } th.bodytable { background-color: lightblue; } td.bodytable, th.bodytable { font-family: verdana, sans-serif; font-size: 10pt; border: 1 solid darkred; padding: 3; } -->
+</STYLE>
+</HEAD>
+<body>
+<img width=100 height=88 src="../hamilton-icon.gif" webstripperlinkwas="../hamilton-icon.gif" align=center onclick="location = '../WebStripper/protected.html#link=http://www.sjaa.net/';">
+SJAA Ephemeris April 2004 | 
+<a href="http://www.sjaa.net/">SJAA Home</a> | 
+<a href="../indexw.html" webstripperlinkwas="/">Contents</A> | 
+<a href="e.html" webstripperlinkwas="e.html">Previous</A> | 
+<a href="g.html" webstripperlinkwas="g.html">Next</A>
+
+
+<h1 class="headline">Editor's Semi-Dark Matter</H1>
+
+
+<hr>
+
+<table>
+<tr>
+
+<!-- change this width to 50 if there are no pictures or quotes! -->
+<td valign=top width=50>
+
+<!-- <p>&nbsp;
+<p class="pullquote">
+   Pullquote here
+   ldquo: &#8220; rdquo: &#8221;
+</P>
+<p>&nbsp;
+-->
+
+<p>
+<!-- photo sample <table>
+<caption class="caption" align="bottom">
+   CAPTION
+</CAPTION>
+<tr><td>
+<a href="http://ephemeris.sjaa.net/0404/b1.jpg"><img width=150 webstripperattrwas="src" webstripperlinkwas="http://ephemeris.sjaa.net/0404/t/b1.jpg"></A>
+</TD><tr>
+</TABLE>
+
+-->
+
+</TD>
+<td width=15>&nbsp;</TD>
+<td valign=top>
+<div style="line-height: 130%;">
+
+<!-- text here -->
+
+
+<li dingbat="bullet.gif">	If you are stumped by what NGC means, if your astro friends toss around IC and PK and Abell with numbers after them, try <a href="http://home.earthlink.net/~mcgermano/Prefix.html"> this site</A>.</LI>
+<li>	NASA Ames has initiated a quarterly speaker series. The first one was Andrew Chaikin (the major source for Tom Hanks' HBO series From the Earth to the Moon) on March 11. For more information see <a href="http://www.arc.nasa.gov"> NASA Ames</A>.</LI>
+<li>	AstroCon 2004 will be a truly amazing event. It combines the national meetings of the ASP, the Astronomical League, the AAVSO and ALPO. The website is fully functional as of March 5. If you visited the website earlier, you should return.  Go to <a href="http://www.astrocon2004.org">Astrocon2004</A>.</LI>
+<li>	Don't forget the Auction - Houge Park on April 4. Doors open at noon.</LI>
+<li>	Lick Observatory is hiring an assistant to help with the summer programs. <a href="http://www.ucolick.org/general/employment/index.html"> Click here for the Lick Observatory Employment page.</A></LI>
+
+
+<!-- one step to install elastic bullets: 1. copy the coding into the body of your html document -->
+
+<!-- step one: paste this code webstripperlinkwas="" into the body of your html document -->
+
+<body>
+
+<div id="dot0" style="position: absolute; visibility: hidden; height: 11; width: 11;"><img src="bullet.gif" webstripperlinkwas="bullet.gif" height=11 width=11></div>
+<div id="dot1" style="position: absolute; height: 11; width: 11;"><img src="bullet.gif" webstripperlinkwas="bullet.gif" height=11 width=11></div>
+<div id="dot2" style="position: absolute; height: 11; width: 11;"><img src="bullet.gif" webstripperlinkwas="bullet.gif" height=11 width=11></div>
+<div id="dot3" style="position: absolute; height: 11; width: 11;"><img src="bullet.gif" webstripperlinkwas="bullet.gif" height=11 width=11></div>
+<div id="dot4" style="position: absolute; height: 11; width: 11;"><img src="bullet.gif" webstripperlinkwas="bullet.gif" height=11 width=11></div>
+<div id="dot5" style="position: absolute; height: 11; width: 11;"><img src="bullet.gif" webstripperlinkwas="bullet.gif" height=11 width=11></div>
+<div id="dot6" style="position: absolute; height: 11; width: 11;"><img src="bullet.gif" webstripperlinkwas="bullet.gif" height=11 width=11></div>
+
+<script language="JavaScript">
+<!-- Original:  Philip Winston (pwinston@yahoo.com) -->
+<!-- Web Site:  http://members.xoom.com/ebullets -->
+<!-- 'Scrolling Fix' by Troels Jakobsen <tjak@get2net.dk> -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var nDots = 7;
+var Xpos = 0;
+var Ypos = 0;
+
+var DELTAT = .01;
+var SEGLEN = 10;
+var SPRINGK = 10;
+var MASS = 1;
+var GRAVITY = 50;
+var RESISTANCE = 10;
+var STOPVEL = 0.1;
+var STOPACC = 0.1;
+var DOTSIZE = 11;
+var BOUNCE = 0.75;
+var isNetscape = navigator.appName=="Netscape";
+var followmouse = true;
+var dots = new Array();
+init();
+function init() {
+var i = 0;
+for (i = 0; i < nDots; i++) {
+dots[i] = new dot(i);
+}
+if (!isNetscape) {
+// I only know how to read the locations of the 
+// <LI> items in IE
+//skip this for now
+// setInitPositions(dots)
+}
+for (i = 0; i < nDots; i++) {
+dots[i].obj.left = dots[i].X;
+dots[i].obj.top = dots[i].Y;
+}
+if (isNetscape) {
+startanimate();
+} else {
+// let dots sit there for a few seconds
+// since they're hiding on the real bullets'
+setTimeout("startanimate()", 3000);
+   }
+}
+function dot(i) {
+this.X = Xpos;
+this.Y = Ypos;
+this.dx = 0;
+this.dy = 0;
+if (isNetscape) {	
+this.obj = eval("../WebStripper/protected.html#link=http://ephemeris.sjaa.net/0404/document.dot" + i);
+} else {
+this.obj = eval("dot" + i + ".style");
+   }
+}
+function startanimate() {	
+setInterval("animate()", 20);
+}
+function setInitPositions(dots) {
+var startloc = document.all.tags("LI");
+var i = 0;
+for (i = 0; i < startloc.length && i < (nDots - 1); i++) {
+dots[i+1].X = startloc[i].offsetLeft
+startloc[i].offsetParent.offsetLeft - DOTSIZE;
+dots[i+1].Y = startloc[i].offsetTop +
+startloc[i].offsetParent.offsetTop + 2*DOTSIZE;
+}
+dots[0].X = dots[1].X;
+dots[0].Y = dots[1].Y - SEGLEN;
+}
+function MoveHandler(e) {
+Xpos = e.pageX;
+Ypos = e.pageY;	  
+return true;
+}
+function MoveHandlerIE() {
+Xpos = window.event.x + document.body.scrollLeft;
+Ypos = window.event.y + document.body.scrollTop;	  
+}
+if (isNetscape) {
+document.captureEvents(Event.MOUSEMOVE);
+document.onMouseMove = MoveHandler;
+} else {
+document.onmousemove = MoveHandlerIE;
+}
+function vec(X, Y)
+{
+this.X = X;
+this.Y = Y;
+}
+
+// adds force in X and Y to spring for dot[i] on dot[j]
+function springForce(i, j, spring)
+{
+var dx = (dots[i].X - dots[j].X);
+var dy = (dots[i].Y - dots[j].Y);
+var len = Math.sqrt(dx*dx + dy*dy);
+if (len > SEGLEN) {
+var springF = SPRINGK * (len - SEGLEN);
+spring.X += (dx / len) * springF;
+spring.Y += (dy / len) * springF;
+   }
+}
+function animate() {	
+var start = 0;
+if (followmouse) {
+dots[0].X = Xpos;
+dots[0].Y = Ypos;	
+start = 1;
+}
+for (i = start ; i < nDots; i++ ) {
+var spring = new vec(0, 0);
+if (i > 0) {
+springForce(i-1, i, spring);
+}
+if (i < (nDots - 1)) {
+springForce(i+1, i, spring);
+}
+var resist = new vec(-dots[i].dx * RESISTANCE, -dots[i].dy * RESISTANCE);
+var accel = new vec((spring.X + resist.X)/ MASS, (spring.Y + resist.Y)/ MASS + GRAVITY);
+dots[i].dx += (DELTAT * accel.X);
+dots[i].dy += (DELTAT * accel.Y);
+if (Math.abs(dots[i].dx) < STOPVEL &&
+Math.abs(dots[i].dy) < STOPVEL &&
+Math.abs(accel.X) < STOPACC &&
+Math.abs(accel.Y) < STOPACC) {
+dots[i].dx = 0;
+dots[i].dy = 0;
+}
+dots[i].X += dots[i].dx;
+dots[i].Y += dots[i].dy;
+var height, width;
+if (isNetscape) {
+height = window.innerHeight + document.scrollTop;
+width = window.innerWidth + document.scrollLeft;
+} else {	
+height = document.body.clientHeight + document.body.scrollTop;
+width = document.body.clientWidth + document.body.scrollLeft;
+}
+if (dots[i].Y >=  height - DOTSIZE - 1) {
+if (dots[i].dy > 0) {
+dots[i].dy = BOUNCE * -dots[i].dy;
+}
+dots[i].Y = height - DOTSIZE - 1;
+}
+if (dots[i].X >= width - DOTSIZE) {
+if (dots[i].dx > 0) {
+dots[i].dx = BOUNCE * -dots[i].dx;
+}
+dots[i].X = width - DOTSIZE - 1;
+}
+if (dots[i].X < 0) {
+if (dots[i].dx < 0) {
+dots[i].dx = BOUNCE * -dots[i].dx;
+}
+dots[i].X = 0;
+}
+dots[i].obj.left = dots[i].X;			
+dots[i].obj.top =  dots[i].Y;		
+   }
+}
+// End --></script>
+
+<p><center>
+<font face="arial, helvetica" size="-2">Free JavaScripts provided<br>
+by <a href="http://javascriptsource.com">The JavaScript Source</a></font>
+</center><p>
+
+<!-- script size: 6.05 kb -->
+
+</DIV>
+</TD>
+<td width=100>&nbsp;</TD>
+</TR>
+</TABLE>
+<p><hr>
+<div class="copyright">
+Mail to: 
+<script>
+<!--
+	var n1 = 'ephemeris';
+	var n2 = '../WebStripper/protected.html#link=http://ephemeris.sjaa.net/0404/sjaa.net';
+	document.write('<A HREF="mail' + 'to:' + n1 + 
+		'@' + n2 + '">');
+// --></SCRIPT>
+<noscript>
+(ephemeris at sjaa.net)
+</NOSCRIPT>
+Editors</A><br>
+Copyright &copy; 2004 San Jose Astronomical Association<br>
+Last updated:
+
+March 27, 2004
+</DIV>
+<p>
+<a href="e.html" webstripperlinkwas="e.html">Previous</A> | <a href="..html" webstripperlinkwas="..">Contents</A> | <a href="g.html" webstripperlinkwas="g.html">Next</A>
+
+
+</DIV>
+</BODY>
+</HTML>

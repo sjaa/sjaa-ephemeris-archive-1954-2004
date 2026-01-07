@@ -1,0 +1,15 @@
+<table border="2"><TR><TD><B> ObjectID<TD><B>R.A.(h m s)</TD><TD><B>Dec.(d m
+s)</TD><TD><B>Const</TD><TD><B>Size</TD><TD><B>Mag </TD></TR></B><TR><TD>PK 245+1.1</TD><TD>08 02
+30.0</TD><TD>27 42 00.0</TD><TD>Pup</TD><TD>0.12</TD><TD>14.2 </TD></TR><TR><TD>NGC
+2610 (Turtle Planetary)</TD><TD>08 33 24.0</TD><TD>16 09
+00.0</TD><TD>Hya</TD><TD>0.83</TD><TD>13 </TD></TR><TR><TD>PK 254+ 5.1 </TD><TD>08 40
+42.0</TD><TD>32 23 00.0</TD><TD>Pyx</TD><TD>0.18</TD><TD>11 </TD></TR><TR><TD>PK 261+
+2.1 </TD><TD>08 53 30.0</TD><TD>40 04 00.0</TD><TD>Vel</TD><TD>0.33</TD><TD>13
+</TD></TR><TR><TD>Abell 31</TD><TD>08 54 12.0</TD><TD>08 55
+00.0</TD><TD>Cnc</TD><TD>16.8</TD><TD>12.2 </TD></TR><TR><TD>NGC 2818A</TD><TD>09 16
+00.0</TD><TD>36 36 00.0</TD><TD>Pyx</TD><TD>0.6</TD><TD>11.9 </TD></TR><TR><TD>PK
+238+34.1</TD><TD>09 39 06.0</TD><TD>02 48
+00.0</TD><TD>Hya</TD><TD>4.47</TD><TD>13.4 </TD></TR><TR><TD>PK 248+29.1 </TD><TD>09 45
+36.0</TD><TD>13 10 00.0</TD><TD>Hya</TD><TD>4.68</TD><TD>12.9 </TD></TR><TR><TD>NGC 3132</TD><TD>10 07 00.0</TD><TD>40 26 00.0</TD><TD>Vel</TD><TD>1.4</TD><TD>8.2 </TD></TR><TR><TD>NGC 3242</TD><TD>10 24 48.0</TD><TD>18 39 00.0</TD><TD>Hya</TD><TD>0.67</TD><TD>8.6 </TD></TR><TR><TD>NGC 3587</TD><TD>11 14 48.0</TD><TD>55 01 00.0</TD><TD>Uma</TD><TD>3.37</TD><TD>11 </TD></TR><TR><TD>PK 283+25.1 (Southern Owl Nebula)</TD><TD>11 26 42.0</TD><TD>34 22 00.0</TD><TD>Hya </TD><TD>3.13</TD><TD>12.1 </TD></TR><TR><TD>NGC 4361</TD><TD>12 24 30.0</TD><TD>18 47 00.0</TD><TD>Crv </TD><TD>1.33</TD><TD>10.9 </TD></TR><TR><TD>IC 3568 (Baby Eskimo)</TD><TD>12 33 06.0</TD><TD>82 34 00.0</TD><TD>Cam </TD><TD>0.3</TD><TD>11.6 </TD></TR><TR><TD>Abell 36 </TD><TD>13 40 36.0</TD><TD>19 53
+00.0</TD><TD>Vir</TD><TD>7.97</TD><TD>13</TD>
+</table>
