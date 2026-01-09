@@ -38,7 +38,32 @@ pip install -e .
 
 ## Usage
 
-### 1. Extract Text from PDF
+### 1. Batch Process (Recommended)
+
+Process entire directory trees with one command:
+
+```bash
+# Set your API key
+export ANTHROPIC_API_KEY='your-key-here'
+
+# Process all PDFs, creating *_searchable.pdf files
+pdf-batch /path/to/pdfs
+
+# Overwrite original PDFs with searchable versions
+pdf-batch --overwrite /path/to/pdfs
+
+# Reprocess everything (ignore existing .txt files)
+pdf-batch --no-skip /path/to/pdfs
+```
+
+This will:
+- Recursively find all PDFs in the directory
+- Extract text and save as `.txt` next to each PDF
+- Create searchable PDFs (either new `*_searchable.pdf` or overwrite originals)
+- Skip already-processed files by default
+- Show progress for each file
+
+### 2. Extract Text from PDF
 
 ```bash
 # Set your API key
@@ -64,7 +89,7 @@ The output file will contain page-separated text:
 [text from page 2]
 ```
 
-### 2. Inject Text into PDF
+### 3. Inject Text into PDF
 
 Create a searchable PDF by injecting the extracted text as an invisible layer:
 
@@ -78,7 +103,22 @@ The resulting PDF will:
 - Allow text selection and copying
 - Work with `pdftotext` and other tools
 
-## Example Workflow
+## Example Workflows
+
+### Batch Process an Archive
+
+```bash
+# Set your API key once
+export ANTHROPIC_API_KEY='your-key-here'
+
+# Process entire directory tree
+pdf-batch ~/Documents/scanned-archive
+
+# Result: All PDFs get .txt files and *_searchable.pdf versions
+# Existing files are skipped automatically
+```
+
+### Single File
 
 ```bash
 # 1. Extract text from scanned PDF

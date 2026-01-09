@@ -2,7 +2,8 @@
 
 ## Installation
 
-The package is already installed! It provides two command-line tools:
+The package is already installed! It provides three command-line tools:
+- `pdf-batch` - Batch process entire directories (recommended!)
 - `pdf-extract` - Extract text from PDFs using Claude vision
 - `pdf-inject` - Inject text into PDFs as searchable layer
 
@@ -25,6 +26,25 @@ source ~/.zshrc
 
 ## Usage
 
+### Batch process directory (EASIEST!)
+
+```bash
+# Process all PDFs in Seventies folder and subfolders
+pdf-batch Seventies
+
+# This creates:
+# - Seventies/7007/Eph70_07.txt (extracted text)
+# - Seventies/7007/Eph70_07_searchable.pdf (searchable PDF)
+# And so on for all PDFs...
+```
+
+### Batch with overwrite (replace originals)
+
+```bash
+# WARNING: This replaces original PDFs!
+pdf-batch --overwrite Seventies
+```
+
 ### Extract text from a single PDF
 
 ```bash
@@ -37,7 +57,7 @@ pdf-extract Seventies/7007/Eph70_07.pdf ocr-output/Eph70_07.txt
 pdf-inject Seventies/7007/Eph70_07.pdf Seventies/7007/Eph70_07_searchable.pdf ocr-output/Eph70_07.txt
 ```
 
-### Complete workflow
+### Complete workflow (single file)
 
 ```bash
 # 1. Extract text
@@ -48,15 +68,6 @@ pdf-inject input.pdf searchable.pdf extracted.txt
 
 # 3. Test it
 pdftotext searchable.pdf - | head -20
-```
-
-## Batch Processing
-
-See `examples/batch_process.py` for batch processing multiple PDFs:
-
-```bash
-cd examples
-python3 batch_process.py ../Seventies/7007 ../processed
 ```
 
 ## Cost Estimate

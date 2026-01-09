@@ -20,6 +20,7 @@ dependencies = [
 [project.scripts]
 pdf-extract = "pdf_text_extractor.cli:main"
 pdf-inject = "pdf_text_extractor.inject:main"
+pdf-batch = "pdf_text_extractor.batch:main"
 
 [project.urls]
 Homepage = "https://github.com/yourusername/pdf-text-extractor"
