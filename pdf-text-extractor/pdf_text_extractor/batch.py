@@ -5,6 +5,7 @@ Command-line interface for batch processing PDFs.
 import sys
 import os
 from pathlib import Path
+import fitz  # PyMuPDF
 from .extractor import extract_pdf_text
 from .injector import inject_text_to_pdf
 
@@ -15,7 +16,47 @@ def find_pdfs(directory):
     return sorted(path.rglob("*.pdf"))
 
 
-def batch_process(directory, api_key, overwrite=False, skip_existing=True):
+def estimate_cost(pdf_files, skip_existing=True):
+    """
+    Estimate the cost of processing PDFs.
+
+    Returns:
+        (total_pdfs, pdfs_to_process, total_pages, estimated_cost)
+    """
+    total_pdfs = len(pdf_files)
+    pdfs_to_process = []
+    total_pages = 0
+
+    print("Analyzing PDFs for cost estimation...")
+
+    for pdf_file in pdf_files:
+        # Check if already processed
+        txt_file = pdf_file.with_suffix('.txt')
+        if skip_existing and txt_file.exists():
+            continue
+
+        pdfs_to_process.append(pdf_file)
+
+        # Count pages
+        try:
+            doc = fitz.open(str(pdf_file))
+            page_count = len(doc)
+            doc.close()
+            total_pages += page_count
+        except Exception:
+            # Assume average of 5 pages if we can't open it
+            total_pages += 5
+
+    # Cost calculation: $3 per 1000 input tokens, ~750 tokens per page (image)
+    # Plus $15 per 1M output tokens, ~500 tokens output per page
+    # Approximate: $0.003 per page all-in
+    cost_per_page = 0.003
+    estimated_cost = total_pages * cost_per_page
+
+    return total_pdfs, len(pdfs_to_process), total_pages, estimated_cost
+
+
+def batch_process(directory, api_key, overwrite=False, skip_existing=True, auto_confirm=False):
     """
     Batch process all PDFs in a directory tree.
 
@@ -24,6 +65,7 @@ def batch_process(directory, api_key, overwrite=False, skip_existing=True):
         api_key: Anthropic API key
         overwrite: If True, overwrite original PDFs. If False, create *_searchable.pdf
         skip_existing: If True, skip PDFs that already have text files
+        auto_confirm: If True, skip confirmation prompt
     """
 
     pdf_files = find_pdfs(directory)
@@ -32,10 +74,43 @@ def batch_process(directory, api_key, overwrite=False, skip_existing=True):
         print(f"No PDF files found in {directory}")
         return
 
-    print(f"Found {len(pdf_files)} PDF files")
+    # Estimate cost
+    total_pdfs, pdfs_to_process, total_pages, estimated_cost = estimate_cost(pdf_files, skip_existing)
+
+    # Show summary
+    print()
+    print("=" * 60)
+    print("BATCH PROCESSING SUMMARY")
+    print("=" * 60)
+    print(f"Total PDFs found:        {total_pdfs}")
+    print(f"Already processed:       {total_pdfs - pdfs_to_process}")
+    print(f"To be processed:         {pdfs_to_process}")
+    print(f"Total pages:             {total_pages}")
+    print(f"Estimated cost:          ${estimated_cost:.2f}")
+    print()
     print(f"Mode: {'OVERWRITE originals' if overwrite else 'Create new files (*_searchable.pdf)'}")
     print(f"Skip existing: {'Yes' if skip_existing else 'No'}")
+    print("=" * 60)
     print()
+
+    if pdfs_to_process == 0:
+        print("✓ All PDFs already processed! Use --no-skip to reprocess.")
+        return
+
+    # Prompt user to continue (unless auto-confirm)
+    if not auto_confirm:
+        try:
+            response = input(f"Process {pdfs_to_process} PDFs (~${estimated_cost:.2f})? [y/N]: ")
+            if response.lower() not in ['y', 'yes']:
+                print("Cancelled.")
+                return
+        except (KeyboardInterrupt, EOFError):
+            print("\nCancelled.")
+            return
+        print()
+    else:
+        print(f"Auto-confirming: Processing {pdfs_to_process} PDFs (~${estimated_cost:.2f})")
+        print()
 
     processed = 0
     skipped = 0
@@ -135,6 +210,9 @@ Examples:
   # Reprocess everything, even if text files exist
   pdf-batch --no-skip /path/to/pdfs
 
+  # Skip confirmation prompt (auto-confirm)
+  pdf-batch --yes /path/to/pdfs
+
 Environment Variables:
   ANTHROPIC_API_KEY    Required. Your Anthropic API key.
         '''
@@ -162,6 +240,12 @@ Environment Variables:
         help='Anthropic API key (or set ANTHROPIC_API_KEY env var)'
     )
 
+    parser.add_argument(
+        '--yes', '-y',
+        action='store_true',
+        help='Skip confirmation prompt (auto-confirm)'
+    )
+
     args = parser.parse_args()
 
     # Get API key
@@ -181,8 +265,8 @@ Environment Variables:
         print(f"Error: Not a directory: {args.directory}", file=sys.stderr)
         sys.exit(1)
 
-    # Confirm overwrite mode
-    if args.overwrite:
+    # Confirm overwrite mode (unless --yes)
+    if args.overwrite and not args.yes:
         print("⚠️  WARNING: --overwrite mode will REPLACE original PDF files!")
         response = input("Are you sure? Type 'yes' to continue: ")
         if response.lower() != 'yes':
@@ -195,7 +279,8 @@ Environment Variables:
             args.directory,
             api_key,
             overwrite=args.overwrite,
-            skip_existing=not args.no_skip
+            skip_existing=not args.no_skip,
+            auto_confirm=args.yes
         )
     except KeyboardInterrupt:
         print("\n\nInterrupted by user")
