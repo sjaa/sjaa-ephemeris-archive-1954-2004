@@ -1,0 +1,91 @@
+=== PAGE 1 ===
+SAN JOSE AMATEUR ASTRONOMERS, INC.
+MONTHLY BULLETIN
+MARCH 1972
+
+PRES: David Erickson 269-4838         SECR: Jerry Rattley 262-5350
+VICE-PRES: Tom Halliday 296-3169      TRES: Emmet Murphy 287-6378
+
+MARCH 3, REGULAR MEETING
+
+The March meeting will be held at the Community Bank Building,
+second floor in the executive conference room (enter from the
+rear). Starting at eight o'clock Ralph Bridge will discuss
+"The Calendar and Proposal for an Eight-Day Week," followed by
+Dave Aguilar and "How Stars are Born and Croak."
+
+MARCH 10, BOARD MEETING
+
+The March board meeting will be held at Dr. A.B. Gregory's,
+5480 Fairway Dr., San Jose, beginning at eight o'clock. The
+spring calendar of events will be discussed. All interested
+persons are urged to attend. For directions call Dr. Gregory
+at 258-6095.
+
+MARCH 18, STARPARTY
+
+For the next few months club starparties will be held at a
+more convenient location. The March starparty will be held
+at our Skyline site on Hwy. 9, 1.8 miles past Skyline Blvd.
+on the left. (Refer to the map for directions).
+
+ANNOUNCEMENT OF TWO UPCOMING CONFERENCES
+
+The Astronomical Association of Northern California is having
+a conference and telescope competition in September. Also
+Star Observers of Marin are having their eighth annual "Bay
+Area Astronomical Meeting" Saturday, April 15, 1972. For more
+information contact Dave at a meeting or call 269-4838.
+
+[THIS IS FIGURE: Hand-drawn map showing directions with landmarks including "Loma Chiquita", "1.8 miles", "Skyline Blvd", "Los Gatos", "Los Gatos Saratoga Rd", and "Saratoga". The map includes a note "Good Viewing!"]
+
+=== PAGE 2 ===
+ORBITS OF VISUAL BINARY STARS--part 3     contributed by Jerry Rattley
+
+Elements of the orbits as listed in the Skalnate Pleso Atlas Catalogue
+star name  RA    dec     P    T     a    a    i    Ω    ω    l-y  calculator
+           1950 pos    yrs                                  name        date
+36 And 00 52 /22 22  165 1957 .61  1.01  46   5 172 163  P.Muller   1956
+8 And 01 07 /46 59  314 1974 .16  0.61 127  14 147 466  Vidal      1956
+γ² And 02 01 /42 06   61 1856 .53  0.30 111  171 104 163 P.Muller  1957
+Σ228 And 02 11 /47 16  145 1898 .28  0.91  63 321  98 160  W.D.Heintz 1954
+
+[THIS IS FIGURE: Multiple orbital diagrams showing binary star systems with dates and positions marked. The diagrams include technical details about magnitudes, spectral types, and orbital elements for several binary star systems including Σ6 Andromedae, γ² And, Σ228 And, and others. The diagrams show orbital paths with various dates marked along them.]
+
+Σ6 Andromedae (ADS 755); located between Zeta and Eta Andromeda, this fine binary has components of magnitudes 6.2 & 6.6,
+both being golden-orange stars of spectral type G1. A minimum
+separation of 0"57 is due in 1975, after which the system will
+slowly open to a maximum of 1"34 in 2035. The motion in this
+system is direct. Ephemeris:
+1971  282°  0"58      1995  278°  0"66      2000  314°  0"55
+1975  241   0.57      1990  295   0.77      2015  334   1.17
+1980  261   0.61      1995  305   0.86      2065  360   1.34
+
+Phi Andromedae (ADs 940); located west of the midpoint of a
+line drawn from Rose Andromedae to Alpha Cassiopeiae, this binary
+is a popular test for larger amateur telescopes, 10 to 12 inches.
+Its components are of magnitudes 4.8 & 5.4, both bluish of spectral class B5. The P.A. is well as the separation are decreasing,
+with periastron passage in 1974 and a minimum separation of
+0"27 to be reached in 2033. The greatest separation of 0"58 will
+not occur until about the year 2100. Ephemeris:
+1971  142°  0"43; 1990  153°  0"41; 1550  119°  0°??;2000  106°
+
+Gamma-2 Andromedae (ADS 1630); γ¹ and γ² are, of course, one of
+the most famous and beautiful doubles in the heavens. γ¹ being a
+golden (K-type) star of magnitude 2.3, and γ², located at P.A. 63°
+separation 10"0 from γ¹, is a close binary system, both components
+being bluish, A-type stars of magnitudes 5.5 and 6.3. The motion
+
+[Additional technical details and orbital diagrams continue with ephemeris data for various dates]
+
+Struve 228 (ADs 1708);
+located north-east of Gamma
+Andromedae, this small but lovely binary has components of magnitudes 6.5 and 7.1
+which are both creamy white in colour having spectra of F2. This star has just
+passed apastron and is now heading for a maximum of
+1°07 in about 1990. The next minimum (.5) is not due
+until 2032. Motion of the companion in this system is
+direct. Ephemeris:
+1971  256°  0"91      1990  272°  1°07
+1980  264   1.02      2000  279   1.02
+                      2010  290   0.94
