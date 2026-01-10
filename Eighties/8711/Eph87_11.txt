@@ -1,0 +1,35 @@
+=== PAGE 1 ===
+[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABrKKgxnp3zD5focyB'}]
+
+=== PAGE 2 ===
+[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABt7j3NFqYKdvUHT5Y'}]
+
+=== PAGE 3 ===
+[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABtjvZepeM7pgPRPYx'}]
+
+=== PAGE 4 ===
+[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABuJAVsvAZvx3pYobg'}]
+
+=== PAGE 5 ===
+[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABv7GtPcxBALK6k7UU'}]
+
+=== PAGE 6 ===
+[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABvcYEQLHAxEx5Bztb'}]
+
+=== PAGE 7 ===
+[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABwEVp228haqsYt5Gx'}]
+
+=== PAGE 8 ===
+[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABwqxbSe8H5WtFKaFi'}]
+
+=== PAGE 9 ===
+[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABxRBWBuLAuyu4AqVo'}]
+
+=== PAGE 10 ===
+[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABxxBg2fUUcgZcq6WH'}]
+
+=== PAGE 11 ===
+[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAByWREvWY9ueLXKzYt'}]
+
+=== PAGE 12 ===
+[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAByzgwbzD1UBVgDE1m'}]

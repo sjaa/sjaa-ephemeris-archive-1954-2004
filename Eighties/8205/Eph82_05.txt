@@ -1,0 +1,20 @@
+=== PAGE 1 ===
+[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yU3ndffJhGAoVRzvc'}]
+
+=== PAGE 2 ===
+[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yUhUdodRQEiif9111'}]
+
+=== PAGE 3 ===
+[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yVox9oXpFkriZBb1h'}]
+
+=== PAGE 4 ===
+[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yWTtwjtTMLNAkFgmn'}]
+
+=== PAGE 5 ===
+[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yX7q6KZEVzYbxtTZS'}]
+
+=== PAGE 6 ===
+[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yXfa9Gnjm5GyAkWAm'}]
+
+=== PAGE 7 ===
+[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yYD4s73N8JyxTa81E'}]
