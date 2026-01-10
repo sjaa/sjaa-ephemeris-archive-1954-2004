@@ -1,29 +1,762 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zpRR6T2hJygeL2oG1'}]
+# the san jose
+# astronomical association
+
+**bulletin**
+
+# Ephemeris
+
+**december 1982**
+
+Dec. 4    General Meeting. DE ANZA COLLEGE. Room S-34 (across from the Planetarium). Lewis 
+          Epstein, author of the book Physics Made Fun, and lecturer at San Francisco State
+          University, will give a talk entitled "Relativity Realized". 8 PM.
+
+Dec. 10   Board Meeting at Chris and Shea Pratt's, 474 Safari Drive, San Jose, 8 PM. Everyone
+          welcome. For directions, call (408) 629-2994.
+
+Dec. 11   Indoor Star Party at the Los Gatos Red Cross, 8 PM. (See map on the cover for
+          location.)
+
+Dec. 14-15 The Geminid Meteor shower peaks at 4 AM on Wednesday morning at 50 to 80 meteors per
+          hour. No interference from the moon, so this could be the best shower of the year.
+
+Dec. 18   Star Party at Sanborn Canyon. Go south on Hy. 17, take the Hy. 9 exit, through Los
+          Gatos, and continue on 9 through Saratoga, following signs for Big Basin. After 1.8
+          miles of mountain road, you pass Saratoga Springs campground on the right, then take
+          Sanborn Canyon Road on the left. Go 1.0 miles to the second right, where there's a
+          sign. Turn, climb a short hill, and enter the parking lot on the left.
+
+Dec. 25   No scheduled Club activities. (For a description of an interesting astronomical event
+          on this date in 2 BCE, see Clarence Funk's article inside.)
+
+Dec. 30   Total eclipse of the moon. Totality begins at 2:58 AM and ends at 3:59 AM. (Thursday
+          morning.)
+
+Jan. 1    No coordinated Club activities scheduled. (I'm sure there will be a number of
+          uncoordinated activities this evening.)
+
+Jan. 7    Board meeting at Jim Van Nuland's, 3509 Calico Ave., in San Jose. Everyone welcome.
+          Call (408) 371-1307 for directions. 8:00 PM.
+
+Jan. 8    Indoor star party at the Los Gatos Red Cross building; 13011 Los Gatos - Saratoga
+          Road. Ongoing telescope mirror making and design. Watch Murphy's Laws in action? Or,
+          can Murphy be outwitted?
+
+Jan. 15   Star Party at Henry Coe State Park. (One-day-old moon.) Take 101 south to the Gilroy
+          area; get off at the East Dunne Av. exit; go east past Anderson Reservoir; wind up
+          the mountain for 12 miles; go past the park entrance to the old ranch buildings. A
+          horse trough stands near the locked gate on the left that leads to the SJAA site. As
+          usual, the SJAA lock combo is 4565. Please relock the gate after you enter. In case
+          of rain or fog there will be a fallback to Cindy's restaurant.
+
+Jan. 22   General Meeting AT A NEW PERMANENT LOCATION at the University of Santa Clara's Daly
+          Science Center. Norm Sperling will speak on the subject of LandSat, the Earth from
+          Space.
+
+Jan. 29   Indoor Star Party at the Los Gatos Red Cross. While away another long winter's night
+          with convivial company, a winter's tale (or two), accompanied by personalized music
+          of the spheres with your own grits and glass combo.
+
+Feb. 5    Star Party at Henry Coe State Park.
+
+Feb. 12   Star Party at Fremont Peak State Park, at Coulter Group Camp. Take 101 south to San
+          Juan Bautista (Hwy 156); take 156 east for three miles; turn right at the flashing
+          yellow light (road G-1). Go about a quarter mile, then take the middle fork, and wind
+          your way up to the park.
+
+The SJAA Bulletin is published monthly by the SAN JOSE ASTRONOMICAL ASSOCIATION, 3509 Calico
+Avenue, San Jose, CA 95124. The membership year runs from July to June; dues are pro-rated if
+you join after June. Membership rates: $18/year for adults, $12/year for children under 12.
+Subscriptions to the Bulletin are available to non-members for $7/year.
+
+SJAA President: Denni Prerichs, 15022 Broadway Terrace, Oakland, CA 94611; (415) 654-6796.
+
+Bulletin Editor: Steve Greenberg, P.O. Box 292 Livermore, CA  94550; (415) 443-8638.
+
+BULLETIN DEADLINE IS THE 15TH OF THE MONTH PRECEDING PUBLICATION.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zq8L6NoLP9wE5AMxq'}]
+-2-
+
+PRESIDENT'S COLUMN
+
+by DENNI FRERICHS
+
+A few months ago a number of the Chabot Telescope
+Makers Workshop people were sitting at Denny's
+Restaurant, after our usual Friday night grind and
+bull session, when the subject of telescope mirror
+blanks and their standard sizes came up. The question
+of, "Why are mirror diameters the sizes they are?"
+has popped up occasionally in telescope-making
+circles for many years.
+
+"Standard" Pyrex blanks have been commercially
+available at 4-1/2, 6, 8, 10, 12-1/2, 14-1/4, 16, and
+all the way up to 22-1/8 inches. What we wondered
+about was why the odd fractions were attached to some
+of the blanks. (After all, 12-2/8?)
+
+Many theories came out over dessert that evening.
+Some said that the original molds at Corning were
+already in use for some other purpose in the glass
+industry, and were convenient to use for the blanks.
+Others said that it had to do with ratios concerning
+light-gathering power of the surface area and star
+magnitudes. A few even suggested that Murphy's Law
+was working and the sizes reflect someone's desire to
+confuse the issue!
+
+Well, my curiosity was piqued, and in an effort
+to clear up this small mystery, I followed through
+with a letter addressed to the Pyrex Product
+Specialist at the Corning Glass Works in Corning, New
+York. Within days I received a phone call from
+Product-Specialist Al Decker, who has been with the
+Pyrex Division at Corning for the past 32 years. Now,
+here was a man perfectly suited for answering such a
+historical question!
+
+He had a wealth of information about the
+astronomical application of Pyrex glass. For one
+thing, he told me that those beautiful, clear, molded
+blanks that are so prized but rare since the early
+1970's were individually molded at Corning all the
+way up to the spring of 1981. The hazy, raw-edged
+blanks usually obtainable now are actually from
+United Lens, of Southridge, Massachusetts, which
+buys Pyrex sheets from Corning, cuts them up, and
+repours them into their own molds.
+
+Another bit of trivia he mentioned was that the
+glass used for the 4-1/4 to 12-1/2 inch mirror blanks
+is type 7740 Pyrex. From 14-1/4 inches on up, it is
+type 7160 Pyrex, the same as was used in the 200-inch
+at Palomar. The difference is in the chemical
+composition because of annealing and phase-separation
+characteristics. (Pull out your material science
+textbooks for a further explanation of that one, or
+give me a call.)
+
+But, to answer my original question, Mr. Decker
+could make only an educated guess. At the very
+beginning, most amateurs were looking for clear
+aperture figures, so when they said four inches, it
+meant a clear aperture of four inches. So Corning
+oversized an extra quarter inch to take care of
+normal, turned-down for up) edging, masking, etc.
+
+But what about 6", 8", 10", etc.? Well, if you
+look closely at the original Corning blanks of these
+sizes they have an extra few 32nds of an inch or so.
+Ah ha!
+
+Not much of a mystery, but I know some people out
+there who are not going to be satisfied with that
+explanation. Got one of your own? Let me know about
+it, and maybe we can change tradition a bit.
+
+
+Observations
+by Steve Greenberg
+
+December 4th General Meeting. Besides his book
+Physics Made Fun, Lewis Epstein, our guest lecturer
+for December, has co-authored a book with Paul Hewitt
+called Thinking Physics. This is a lively work, with
+lots of clear illustrations, done with a nice style
+and good humor (and no math, for those of you who
+wish to learn about physics without deciphering and
+following formulas). If his writing style is any
+guide, his relativity lecture should be interesting
+and entertaining.
+
+Furthermore, this will be the LAST SJAA GENERAL
+MEETING HELD AT DE ANZA COLLEGE.
+
+NEW GENERAL MEETING SITE FOR 1983. For the last
+few months, the SJAA Board has been interested in
+finding a more congenial location with a friendlier
+(i.e. less sterile) atmosphere, in which to hold our
+general meetings.
+
+Thanks to the help of Frank Dibbell, who made the
+arrangements with Dr. John Drahmann of the University
+of Santa Clara, we will be holding our 1983 General
+meetings at their Daly Science Center. As I understand it, their location is not too far from our old
+meeting place at-the Rosicrucian Planetarium. Frank
+has promised to send me detailed directions for
+publication in the next Bulletin.
+
+January General Meeting. On January 22nd, our
+first guest lecturer at our new location will be Norm
+Sperling. Norm has taught astronomy and was an editor
+at Sky & Telescope magazine for a number of years,
+before heeding Horace Greeley's advice.
+
+His lecture topic will be Searching Planet Earth.
+As Norm says: "Once upon a time, texts skipped from
+Venus to Mars as if nothing astronomical lay between.
+Now, our planet is studied as an astronomical body,
+and the astronomer can look either to or through the
+atmosphere for worthy observations. Searching Planet
+Earth, my most popular lecture, displays beautiful
+and informative false-color infra-red imagery from
+LandSat. A hero of American Technology, LandSat
+analyzes Earth in 18S-km chunks. Come see mineralogy,
+crops and foliage, tectonics, hydrology, demographics,
+and the complex inter-relationships of our planet's
+surface."
+
+As a recent arrival in Oakland, he has created
+"Everything in the Universe", an astronomical
+startup that presently sells everything from astronomy
+books (and lecture series) to meteorites. (If you've yet
+figured out how to furnish your own apartment yet in
+just a house and van, particularly since no black
+holes have been reported in the Bay area, but Norm
+does have a goodly number of inexpensive astro-items,
+suitable for Channukah and Christmas gifts (plus some
+expensive ones). (Write to Norm at: 429 43rd Street,
+Oakland, CA 94609 for a free catalogue.)
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zsYw2xjqcpNRcaVHT'}]
+November Board Meeting. The Board is open to suggestions from members for lecturers or topics for lectures for future General Meetings.
+
+In addition, we wish that you would all start thinking about possible nominees for the WAA's G. Bruce Blair Award in 1983. (More on this subject next month.)
+
+One of the most interesting topics of discussion was the general modus operandi for a club observing site and/or a permanent telescope. Wayne Rosing recently bought a 40" telescope blank (which I have been informed is made of Aero-Duph. He is willing, once the SJAA receives its tax-exempt/tax-deductible status, to donate this blank to the club for use in a permanent observatory, at a dark-sky location. This is definitely a research-level mirror blank and it deserves a good home. What ideas do you, the club membership, have for: (1) acquiring a dark-sky site, (2) keeping it dark-sky, (3) planning and building infrastructure, (4) grinding the mirror, designing and building the telescope and mount, and (5) raising money for it all?
+
+Please contact the Board members, or better yet come to the next few Board meetings to help us decide what to do. Remember it's your club, and this will be your observatory too. Help us to do it right!
+
+January's Bulletin. Since I will be in New Mexico for the last two weeks of December, will all those who are going to contribute material for the January Bulletin, please send it to Denni, at the address given on the Ephemeris page? She will handle the January Bulletin in my absence. (Thank you, on beneficent life-saving one!)
+
+Andrew Fraknoi Joins KGO-FM Radio. Andrew Fraknoi has joined ABC's KGO Newstsik Radio FM 104 as the host of a new science program, Exploring the Universe, Sundays from 11 AM to 1 PM.
+
+This is the first regularly scheduled science talk show originating from a commercial radio station in the Bay Area, and it will include discussions with local and visiting scientists, science news of the week, and a calendar of events, lectures, and exhibits that are open to the public. Mr. Fraknoi has stated that, "My aim is to convey the excitement of modern science in language the average person can understand."
+
+He is a professor of astronomy and physics at San Francisco State University, the executive officer of the Astronomical Society of the Pacific, and the editor of its magazine, Mercury.
+
+SJAA BOARD OF DIRECTORS
+
+GENE CISNEROS                    (408) 923-6800
+BILL COOKE                       (408) 739-6319
+FRANK DIBBELL (Days)            (408) 746-6493
+DENNI FERRICKS                   (415) 654-6796
+STEVE GREENBERG                  (415) 443-6638
+CHRIS PRATT                      (408) 629-2394
+SHEA PRATT                       (408) 629-2994
+JIM VAN NULAND                   (408) 371-1307
+JACK ZEIDERS                     (408) 246-6189
+    TREASURER:
+BOB FINGERHUT                    (408) 263-4455
+
+-3-
+
+MAN-MADE SHADOW BANDS?
+
+by DON MACHHOLZ
+
+I have noticed a strange phenomenon during the past six years, and maybe some of you could help shad some light on it.
+
+Occasionally, when I am observing from Loma Prieta, a large airplane or jet, flying northward, will turn on its landing lights while it is still some 20 miles south of me. These are not little Christmas-tree lights; they are gigantic, brilliant headlights. (Some planes have one and some have two.) They illuminate the landscape. I do not know why they turn them on when they are still over Watsonville, but they do.
+
+As I watch this light shining on my telescope tube, or notsepecr, I notice that the light is actually broken up into triangular or irregular-shaped patterns, and these patterns move together across the surface. As the plane gets closer, the shapes move faster.
+
+Not being an eclipse-chaser, I have learned about eclipses from books and from people who have been there, and I have gotten the impression that shadow bands appear much as I've just described. Shadow bands occur in the instants just before and after a total eclipse, when there is only a shimmer of sun peaking around the moon peaks. They are believed to be caused by the movement of air cells in our atmosphere.
+
+So, is this what I am seeing? -- man-made shadow bands? Their faintness and speed make them difficult to photograph, but perhaps some of you have seen these waves caused by bright airplane (or other) lights, or maybe you have some ideas on their cause. Let us know.
+
+ASTRONOMY AT INDOOR STAR PARTIES
+
+by JACK ZEIDERS
+
+There have been rumblings of late that the Club is not doing enough astronomy at the Red Cross meetings. Having just completed grinding the secondary for a small Cassegrain at such meetings, I wonder why. There are a number of projects that could be started, if you care to take the initiative and do them.
+
+It has been suggested that a class in observational astronomy for the neophyte would be well received. An assembly project, such as a making a drive corrector, or illuminated finders, might go well at the indoor star parties. Mirror-making is often mentioned, until the cost and effort are explained.
+
+I have also heard that a clique exists that's impossible for newcomers to breach. This Club is like many others, in that it's only what all of us make it. Perhaps a group of friends has evolved by participating in similar activities. These may include taking the time and effort to attend Club functions, do the business of running this outfit, writing for and producing the Bulletin, and arranging for star party sites, etc. The SJAA needs the gift of time that only you can give. The secret of being "in" is very simple: Participate! I have never heard
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9ztWyeJ2VZ4p5nMzbY'}]
+anyone refuse to help a newcomer if asked. I am in
+astronomy because I enjoy it, and I wish to share the
+pleasure I have found in the night skies.
+
+What astronomy is going on? I don't have all the
+answers. However, I have finished the primary for the
+one-fifth scale mockup of a 20-inch Cass, and have
+started polishing the secondary. Bob Fingerhut
+continues to polish his 16 inch. Kevin Wedlock is
+grinding his 30 inch by hand. Denny has almost
+finished refiguring an 18-inch f/4 ex-porthole. So
+much for optics!
+
+Don Machholz, our current comet seeker, is doing
+a continuing search. Jim Van Nuland is frequently out
+in his backyard timing occultations, keeping track of
+the Red Spot, and looking for graze. He and Uncle
+Editor (Steve Greenberg) are also pursuing our legal
+tax-exempt status.
+
+These are just a few things that I know about. If
+you currently have an ongoing project, maybe someone
+else needs your expertise. If you have an interest in
+any of the projects listed here or have others, let
+me know: or better yet, write a short article for the
+Bulletin.
+
+If anyone disagrees with me, please feel free to
+make your viewpoint known. Any comments, criticisms,
+cudos, or bitches can be made in person, by phone, or
+by letter.
+
+All the great ideas and projects in the world are
+worthless unless someone (you) makes an effort to do
+them. Anyway, what do you think?
+
+Comet Comments
+by Don Machholz
+
+As we close out 1982, two periodic comets remain
+visible in our telescopes, while Comet Austin fades
+out in the morning sky. Meanwhile, a very well-known
+periodic comet has been recovered.
+
+I wish to thank Jim McMahon for his letter last
+month, concerning comets found during casual
+observations. While studying Charles Messier's
+objects, I've learned that (conversely) he discovered
+a few while observing comets. Last month I mentioned
+how he discovered M1 while observing the comet of
+1758. When he was plotting the comet of 1772 he found
+M50; in 1773 he happened upon M51 while following a
+comet, and likewise the next year he found M52. On
+January 19, 1779 he independently discovered a comet
+(Comet Bode) on the same night that he discovered
+M56. While following this comet he located M57, M58,
+M59, and M60. De Siltoch Mol for the comet on May 5th
+and 6th, 1779, Messier did not always pick up Messier
+objects while observing comets: On November 2, 1773,
+a comet passed right between two galaxies (now known
+as M65 and M66), which he failed to detect. (He later
+discovered them on March 1, 1780.)
+
+Comet Kobayashi-Berger-Milon was discovered near
+M2. At that time, some people thought they were
+observing a comet and some thought they were
+observing M2. On September 11, 1746, the observer
+Jean-Dominique Maraldi saw M2 and thought he was
+observing a comet!
+
+Periodic Comet Halley (1982i). At 11.04 AU from
+the sun, this comet was recovered on October 16th by
+an eight-member team at Mt. Palomar. Using the
+200-inch telescope and a specially-made camera, the
+comet appeared as a fuzzy dot, magnitude about 24 at 7h
+11m 02s +07°31', only 0.8" from the position
+predicted by Dr. Yeomans. (Assuming the comet reflects
+50 percent of the light that strikes it, the nucleus
+is only 1.4 km in radius, or 1.7 miles in diameter.
+The comet will be closest to the sun on February 9.3,
+1986, but it should be visible in smaller scopes in
+early September 1985.) The recovery was confirmed on
+October 18th by astronomers at Kitt Peak using the
+158-inch telescope.
+
+Periodic Comet D'Arrest (1982e)
+
+DATE (UT)    R.A.        DEC.       MAG.
+11-27     22h 12.5m    -29°14'     10.9
+12-07     23h 03.7m    -26°36'     11.8
+12-17     23h 32.0m    -23°44'     12.3
+12-27     23h 58.0m    -20°46'     12.7
+01-06     00h 22.0m    -17°47'     13.1
+
+Rapidly getting fainter, this very diffuse
+comet will be 1.8 AU from both the Earth and Sun on
+January 6th, and getting further away from both.
+Time for observing it is running out. (Adapted from:
+MPC 6535.)
+
+Periodic Comet Churyumov-Gerasimenko (1982f)
+
+DATE (UT)    R.A.        DEC.       MAG.
+11-27     06h 49.8m    +33°42'    10.0
+12-07     07h 02.9m    +35°33'    10.1
+12-17     07h 09.7m    +37°50'    10.2
+12-27     07h 11.3m    +39°21'    10.5
+01-06     07h 10.3m    +40°02'    11.0
+
+Only 0.4 AU from the Earth, this comet may be
+about one magnitude fainter than the published
+magnitudes. It will be nearly overhead at midnight
+in December and is very small, roughly 1' in
+diameter. (Adapted from: MPC 6535.)
+
+Great Comets: Notes on Reporting a Comet
+Discovery. Should you feel that you have discovered
+a new comet, send a message to the Smithsonian
+Astrophysical Observatory (SAO) by telegram and
+telex. Call Western Union, and ask to send your
+message to this telex address: "TWX 710-320-6842
+ASTRONOMY CAM". Send this information:
+
+Object: (comet or nova)
+Position: (Right Ascension and Declination)
+Magnitude estimate:
+Appearance: (diffuse, condensed, tail or no
+         tail)
+Daily motion: Right Ascension (east or west,
+                distance in minutes);
+         and
+                Declination (north or south in
+                arc minutes);
+Your name, address, and phone number.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zu3UUkjgY9vq5p4b2'}]
+Within two hours, this message will appear on the telex machines at the SAO and at Dr. Brian Marsden's home. Observers around the world will be asked to confirm it, although they prefer that you confirm it yourself by checking for further motion.
+
+About 80 percent of all reported "discoveries" are not valid, so be sure you are not observing a nebula or galaxy, a small cluster of faint stars, a ghost image, or a known comet. A comet should show signs of motion in under two hours.
+
+After you send the telegram, write a letter with additional information and send it to:
+
+Central Bureau for Astronomical Telegrams
+Smithsonian Astrophysical Observatory
+Cambridge, MA 02138.
+
+You could also encode the information for the telegram, but the above should suffice. The August 1980 issue of Sky & Telescope includes an article on the SAO.
+
+This concludes the "Great Comets" series, which I have been running for the last two years. During 1980, I ran a series on comet hunters and discoverers of the past and present. Between August 1978 (two months after this column began) and December 1979 I included tidbits of comet information under the heading: "Comet Tails".
+
+Beginning next month I will begin discussing in detail the amateur comet discoveries of the last eight years, each one in the month during which it was discovered. This retrospective look will be most informative.
+
+Letter to the Editor
+
+Dear Steve:
+
+It is now November 15th and I have not yet received my November bulletin. What gives, did it get lost in the mail? I am curious to see my Arizona article in print.
+
+I have moved again. This time it is to a new house. This move should be permanent for quite a while. It is a very nice home (4 bedrooms, 2 baths, central air conditioner/heater, fireplace, 2 barbecue pits and a swimming pool).
+
+Because of the move and some awfully bad weather lately, I haven't done a lot of astronomy worth writing about, so I do not have an article for you this month. I should have something to report by January though.
+
+Please send me a copy of the November bulletin if you can, or ask Jim to send me a xeroxed copy. Well, that's about it for this time. Thank you much for whatever!
+
+Astronomically yours,
+Gerald W. Rattley
+
+Gerry,
+
+The November Bulletins were mailed via bulk mail on the afternoon of the 22nd of October. Normally, this means they would go to San Francisco Airport that evening, and then to one of the main postal stations on the next day (San Francisco, Oakland, San Jose), then to the local post offices. At each stage the post office can hold them undelivered for two days. Theoretically this means delivery to your house in four to eight working days (plus weekends), or by about November 1st.
+
+However, a number of bulletins were delayed an unconscionable amount of time. (Mine, for instance, was mailed from San Francisco on the 14th of November, (21 days to go 35 miles)!) Needless to say, I can walk faster...so can my turtle.
+
+An explanation was given to me on November 2nd by a harried postal clerk watching postal inspectors crawling through mailsacks to count the number of undelivered election fliers, posters, and other electoral ephemera. He said that so much election material had been sent through the mails (Federal law mandates its delivery by election day) that even first-class mail "service" had suffered locally, and that bulk mailings at the end of October had to be backlogged till the beginning of November.
+
+Space Program Update
+by Bob Fingerhut
+
+Shuttle Starts Trucking. Columbia launched its first two commercial payloads on November 11th and 12th after a flawless liftoff from the Kennedy Space Center on the 11th. The satellites were ejected from the orbiter's payload bay by a spring, following a spinup to 52 revolutions per minute. They were later sent into geosynchronous transfer orbits by their Payload Assist Module engines.
+
+The spacewalk for the 15th of November was cancelled due to faulty spacesuits. (The cost per spacesuit is now $2 million, up from the original $500,000. I wonder how much the broken fan and stuck valve cost? Ed.) The Shuttle landed on Tuesday, November 16th at Edwards AFB. Columbia's next mission is STS Spec-3, which should carry Spacelab-1 into orbit in October 1983.
+
+New Shuttles for Old. On November 24th, the Challenger, America's second space shuttle, was wheeled into position to be hooked up to its fuel tank and twin solid-fuel rocket boosters for its first mission.
+
+Challenger was lifted into the "high bay" inside the Vehicle Assembly Building at the Kennedy Space Center, where aerospace workers will also test the space plane's electric, gas, and hydraulic connections.
+
+Challenger was brought out of the Orbiter Processing Facility just 17 hours after the return of space-veteran Columbia from California. Columbia took Challenger's place in the hangar-like structure for nine months of modifications to convert it from a test and research craft to an operational one.
+
+Challenger spent almost five months being outfitted to take over the space-ferry job from Columbia for the next three missions.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zuu58jtKuXXePYSMm'}]
+"Things are really going smoother than they did for Columbia," said spokesman Hugh Harris. "I think this reflects the crews' experience." Ed.)
+
+STS-6 Delayed Four Days. STS-6 is now scheduled for a January 24th launch, but a slip into February is possible. On this three-day mission, Challenger will launch the first of NASA's Tracking and Data Relay Satellites (TDRS-A) by using an Inertial Upper Stage (IUS). Challenger's engine tests have been completed, and they have been installed. Two are qualified for "full power", 109 percent of rated power, and one for 104 percent. A flight readiness firing of the engines on the launch pad is scheduled for just after Christmas. (Challenger will land at Edwards AFB.)
+
+Second Launch Platform Ready. The second mobile launch platform at Kennedy Space Center has been converted from its Saturn configuration to be used with the Shuttle. Its first use will be for the STS-6 launch of the orbiter Challenger.
+
+Shuttle-Landing Aids in Dakar "Unassembled". Landing aids shipped to Dakar, Senegal, to support possible Shuttle abort landings have not been assembled. Final agreement for the site has not been reached between bureaucrats of the two nations. The aids include a precision approach-path indicator, a ball/bar light array, and 40 gallons of white paint. (The paint is for a runway marker to aid in visual acquisition.)
+
+First Titan 34D/IUS Launched. The first Titan 34D/IUS was launched on October 30th from Kennedy Space Center's Complex 40. It carried the Air Force's ICS-2 and ISCS-3 communications and reconnaissance satellites. The IUS put the satellites into the proper orbit on this, its first launch, although telemetry data was not received.
+
+Sixth Ariane Launch Postponed Until April 1983. This delay will allow extra inspections, and modifications to the third-stage turbopump, the failure of which caused the destruction of the last Ariane. The Exosat satellite will be moved to a later launch, and the European ECS-1 communications satellite and AMSAT (Amateur Communications Satellite) will be substituted for the next launch.
+
+(Ariane's sixth. The official Board of Inquiry concluded that the turbopump failure was most likely "damage to the gearing due to insufficient lubrication...during a ground test...and an unfavorable combination of tolerances" in the gearing. Indeed, it is believed that a different combination of gears would not have been damaged in testing or flight, since the tolerances would have added up to an adequate safety margin. Ed.)
+
+Astronaut-Hams. The ARRL NASA is considering a proposal from the Amateur Radio Relay League to include an informal amateur radio "activity" on the STS-9 shuttle mission, scheduled for October 1983.
+
+Dr. Owen Garriot, one of the four crew members scheduled to fly the mission, is a radio amateur (W5LFL) and may be asked to do some "hamming" from orbit with an amateur transceiver, during his leisure time. Attempts to include such activities date from the Apollo Moonshots when prominent radio amateurs, such as Roy Neal (K6DUE) of NBC News, first tried to interest NASA in the concept. Ed.)
+
+More Orbiters? NASA has promised to give Space Trans an answer within a month to its proposal for buying a fifth Shuttle Orbiter, in exchange for marketing rights. Meanwhile, Citicorp has expressed interest in financing the orbiter.
+
+Government financing of the orbiter has been thrown in doubt by a recent policy statement by Office of Management and Budget director David Stockman. He said that only enough orbiters to support U.S. Government use should be purchased. The defeat of several pro-space congressmen in November's elections won't help the situation.
+
+Lassocraft Platform Agreement Signed. Fairchild has signed an agreement with NASA for developing Fairchild's Lassocraft concept. This consists of parking a spacecraft control, power, and communications bus in low Earth orbit. Payloads could be changed in space, and the bus leased to customers. The spacecraft would be based on the Multi-Mission Modular Spacecraft (MMS).
+
+Russian "Navstar" Started. The Soviet Union launched three navigation satellites on October 12th, to begin forming a global positioning system similar to the U.S. Navstar project. They were deployed into an 11,866-mile circular orbit with an inclination of 64.8 degrees. The orbital period is 11 hours 13 minutes.
+
+(Endurance Record Set. On November 14th, two Soviet cosmonauts, Anatoly Berezovoy and Valentin Lebedev, both 40, set a new space endurance record under the standards established by the International Aeronautics Federation. For two years, the Russians have held the 18-day 1980 flight of Valery Ryumin and Leonid Popov as the world record. Ed.)
+
+(Huge Soviet Rocket Tests Next Year? According to authoritative sources in the Russian Space program, by 1985 they hope to perfect a 300-foot tall rocket (code named "G") with 11-million pounds of thrust, and launch a 270,000 pound (110 ton) cylindrical space station "core" into orbit. Eventually, the space station will be expanded, but at first it will only have crew of 10 to 12 people. (In contrast: the present Salyut space station weighs 42,000 lbs; Skylab weighs 100 tons, and its Saturn-5 rocket generated 7.5 millions pounds of thrust.) According to one Soviet source, a two-year long test program will begin in 1983. Ed.)
+
+Direct Satellite to TV. The Satellite Television Corporation has ordered two direct broadcast satellites for satellite-to-home pay-television service, which will begin in 1986.
+
+Nuclear Power Source Dispute. The development of a 100-kilowatt nuclear-reactor space-power source is being delayed by a disagreement between the Department of Energy, which began the project, and the Defense Advanced Research Projects Agency, over who will manage it. The reactor could be ready by the early 1990's if the dispute is settled soon. The operational goals for the reactor, called the SP-100, are:
+
+• 100-kW output for seven years at full power, and longer at lower power levels.
+• High reliability, and no single-failure points.
+• Strike safety features designed into the reactor.
+• Voltage levels of from 100 to 400 volts DC.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zvSZa3zbyBTzZqze2'}]
+The reactor will contain 330 pounds of uranium oxide, and would not be operating during its launch.
+
+(Shuttle launches OK'ed by California Panel. Plans to launch space shuttles from Vandenberg Air Force Base were unanimously endorsed by the state Coastal Commission. The Commission has the authority to review and deny permission for any Federal activities, if they are inconsistent with state coastal management plans.
+
+The commission's staff originally recommended rejecting the shuttle launch site plans, claiming the Air Force was not making sufficient effort to reduce water consumption. But it changed its recommendation after the Air Force agreed to submit a water conservation plan for the Base.
+
+The Commission did not address concern about the impact of the shuttle's sonic boom on seals, sea lions, and other wildlife on nearby San Miguel Island, or of Santa Barbara, nor did it consider launch noise or air pollution resulting from the solid-rocket booster exhausts. Ed.)
+
+
+EXPLORING THE UNIVERSE SEMINARS
+
+by BILL DELLINGES
+
+Some of you may recall my remarks about Dr. William Kaufmann's "Exploring the Universe" seminar in the September '81 Bulletin. (Four sessions of twenty people, using a C-12 at a private observatory on Mt. Rosa - at 8000 feet.) Well, this summer I was invited to assist him by bringing my C-14 to all four weekend seminars, thereby alleviating a problem: though each class is limited to twenty persons, the C-22 dome accommodates only ten people comfortably. My job was to entertain those waiting their turn on the 22. I did so enthusiastically! Many of my brood commented on how great it was to have another telescope available, for it provided additional observing time, which might otherwise have been spent peering into a coffee cup.
+
+I also spent much time pointing out constellations and identifying stars: it's amazing how many questions I get like that. Most people seemed more concerned about learning their way around the night sky than understanding the physical nature of celestial objects. In some strange way, I found that encouraging.
+
+Next summer there will be six sessions of this seminar and I've been invited back to assist again. I warmly accepted the invitation. The dates are as follows:
+
+Session 1 July 8 to 10
+Session 2 Aug. 5 to 7
+Session 3 Sept. 2 to 4
+Session 4 Sept. 9 to 11
+Session 5 Sept. 30 to Oct. 2
+Session 6 Oct. 7 to 9
+
+Basically the classes go all night long on Friday and Saturday nights. Last year the tuition was $185.00. This does not include housing or food, and I suggest staying with Haskel Strausberg at his Northshore condo. It's a neat communal experience for
+
+$15.00 a night. (I stayed there; you meet some interesting people.) For further information write to:
+
+Astronomy Weekend
+c/o Dr. Greg Voge
+Sierra Nevada College
+P.O. Box 4269
+Incline Village, Nevada 89450.
+
+There will be only one advertisement for this seminar in a spring issue of Mercury magazine.
+
+
+THE STAR OF BETHLEHEM
+
+by CLARENCE FUNK
+Central Valley Astronomers, Inc.
+
+From August 1st, 3 BCE, to December 25th, 2 BCE, the motions of heavenly bodies caused a number of planetary and stellar relationships that could not fail to excite observers who saw significance in such things.
+
+And God said, "Let there be lights -- and let them be for signs..." (Gen. 1:14)
+
+Perhaps these unusual conjunctions were intended to signal the Christ Child's advent into the world. One thing is certain: the time from 3 to 2 BCE was remarkable for its naked-eye astronomical occurrences.
+
+August 1st, 3 BCE -- Jupiter became a morning star;
+August 12th (5 AM) -- Jupiter/Venus separated by 0.23 degrees;
+August 17th -- Mercury became a morning star; September 1st -- Mercury/Venus - 0.36 degrees;
+September 14th -- Jupiter/Regulus - 0.63 degrees;
+December 1st -- Jupiter retrogressed;
+December 20th -- Venus emerged as an evening star, progressing higher each day on a "collision course" with Jupiter, which took place on June 17th, 2 BCE - 0.02 degrees!
+
+Meanwhile, Jupiter headed straight back to Regulus:
+
+February 17th, 2 BCE -- Jupiter/Regulus - 1.19 degree retrograde continuing until March 28th;
+May 8th -- Jupiter/Regulus - 1.06 degrees. (Three Jupiter/Regulus conjunctions a year are not uncommon.)
+
+After this third conjunction with Regulus, Jupiter continued westward to re-unite with Venus (June 17th, 2 BCE, listed earlier). But that wasn't all!
+
+August 27th, 2 BCE -- Jupiter, again a morning star, meets Mars - 0.14 degrees. Such nearness is not an ordinary occurrence. Since the planets were only eight degrees ahead of the Sun, the predawn light probably dimmed the display. But, because of the close conjunction, their combined light could have shown through.
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zw13n5JHNZDSUqk5z'}]
+These astronomical indications show that seven major conjunctions took place in the years 3 to 2 BCE, that must have been an unusual and exciting time for astronomers and astrologers alike. ENTER: The Wise Men.
+
+The Bible says that wise men from the East (Maji were astrologers) came to Jerusalem looking for a newborn king, whom they wished to worship. (Matt. 2:2)
+
+There had long been a belief throughout the East that a king would be born of the Jews, who was destined to rule the world. Since such a belief was widespread, there is little doubt that the astrologers looked for signs concerning the arrival of the prophesied king. They were certain enough of their interpretations to make a long and arduous trip with costly gifts to present to the new king. The Bible says that Herod and all Jerusalem also took the sign of the star seriously. What star could that have been?
+
+The Bible says that the star rose in the east; therefore it was a morning star. Christ said of Himself, "I am...the bright and morning star." (Rev. 22:16)
+
+Recall that on August 12th, 3 BCE (80 minutes before sunrise), Jupiter rose as a morning star in conjunction with Venus. How would astrologers have interpreted such a phenomenon? Perhaps, in terms such as these, "Jupiter (Father of the Gods) left the Sun and joined Venus. Jupiter was often associated with the birth of kings, and therefore was the the 'King planet'. Jupiter and Venus were in union. While this was occurring, the Sun (Supreme Father), the Moon (considered a Mother), and Mercury (the Messenger of the Gods) were clustering in Leo the Lion. The Lion was well-known as the symbol of the Hebrew tribe of Judah (Rev. 5:5).
+
+September 1st, 3 BCE (listed earlier), Mercury (the Messenger) left the Sun (Supreme Father) and moved into close conjunction with Venus, who, to the Chaldeans was Ishtar -- the Virgin Mother. (Venus was held to be masculine as a morning star and feminine as an evening star.) During conjunction the Sun (Father) entered Virgo (the Virgin). Mercury (the Father's Messenger) was conjoined in Leo (the Lion), and Jupiter was just entering Leo. All these astrological signs have Biblical themes associated with them. The Supreme Father in the Bible is God the Father. His Son was to be born of a virgin, according to prophecy. He was to be a descendant of Judah (the Lion) and He was to be introduced by a messenger -- "Behold, I send my messenger before thy face." (Mark 1:12)
+
+After these conjunctions Jupiter moved on (as listed earlier) to unite with Regulus on September 14th, 3 BCE. Besides being the chief star in Leo, which was connected with Judah in the Hebrew zodiac, Regulus was known as the "Heart of the Lion." Babylonians called Regulus "the King"; Romans, Rex. "King"; Greeks, Basilicos Aster, "King Star." Regulus was universally connected by ancient astrologers with greatness and power, as well as the birth and/or conception of kings.
+
+Here was the King planet, recently united with Venus, now associating with the King star in Leo (tribe of Judah). At the same time the Sun (Supreme
+
+Father) was in Virgo (the Virgin)!! All these features are very reminiscent of Biblical themes associated with the Messiah. But there were not all of the astrological signs in 3 to 2 BCE. After three conjunctions with Regulus, Jupiter continued westward to its reunion with Venus (now an evening star and called a Mother), on June 17th, 2 BCE, who was now extended as far east as possible to meet her consort, Jupiter, the King planet, for a splendid conjunction visible to all on earth: 0.02 degree, in Leo (Judah). Could it be that the same planets that introduced the prophesied king, when they were both morning stars some 9-2/3 months before, were now finalizing the introductions with an impressive evening-star union?
+
+This, however, was not the end. On August 27th, 2 BCE, 72 days later, the extremely close conjunction of Jupiter with Mars (the war god), listed earlier, occurred.
+
+As a matter of fact, there were actually four planets near the same longitude (Jupiter - 142.6°; Mars - 140.46°; Venus: 141.51°; and Mercury: 144.28°). An unusual occurrence -- all in Leo -- while the Sun was entering Virgo!! (Jupiter and Mars, having just become new morning stars, could well signify that war would break out on earth just before the prophesied messianic day could come to its final fruition. The Bible predicts that this will happen.)
+
+The Magi arrived in Jerusalem some time after Christ was born (Matt. 2:2) and was living in a house, not a manger (Matt. 2:11). Christ was circumcised and presented at the Temple (Luke 2:21-24) and was called a galion (child) not a brephon (infant). The Magi presented their gifts, returned by a different route, and Herod responded by killing the infants around Bethlehem (Matt. 2:16) who were two years old (Matt. 2:16), since it was difficult to interpret whether the signs indicated conception or birth.
+
+This leads to the final indication that Jupiter may be the "Star of Bethlehem." The Magi saw "His star in the east." Jupiter rose as a morning star in conjunction with Venus in August of 3 BC, starting a series of conjunctions with other planets and Regulus. Jupiter proceeded westward. The Bible says, "the star went ahead of them." (Matt. 2:9) The precise second westward of Jupiter began on December 25th, 2 BC! On that day Jupiter, as well as the Sun, "stood still!" (Winter Solstice - sun stands still.)
+
+How was it possible for Jupiter to be stationary over Bethlehem? Easy. The Bible says the Magi saw the star while they were still in Jerusalem. (Matt. 2:8-9) Bethlehem is five miles south of Jerusalem. On December 25th, 2 BC, at the ordinary time of the Magi's predawn observations, Jupiter was at the meridian 68 degrees above the southern horizon. They would have seen Jupiter shining right down on Bethlehem. General observance required a celebration on December 25th, the birth of a "new Sun." The Magi could have interpreted this as the destined time to give their gifts to the "new Sun," this time the "Sun of Righteousness" (Mal. 4:2) born of the Virgin Mary.
+
+The astrological interpretations advanced in this article may or may not be correct, but the occurrences of the astronomical phenomena are certain. They no doubt caused a great deal of excitement and wonder.
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zwcWYxnYn8VBWkDhQ'}]
+and say well indicate that the early Christian
+historians were correct when they said Christ was
+born sometime in the period from 3 to 2 BC.
+
+(Printed with the author's permission, from the
+Central Valley Astronomers' Bulletin as assembled by
+clarence Funk in 1980, and submitted by Jim Van
+Nuland.)
+
+
+Ads
+
+For Sale: Celestron 2" Star Diagonal for C5/8/11
+with reducer plate for 1 1/4" visual back, mint.
+$125.00.
+
+Hood box: Once housed a 2.4-inch Lafayette
+refractor, the remains are still within. Forget the
+scope, it has had it. But the box still could be put
+to work. $5.00 (yes, five dollars for the works). I
+can't bear to take it to the dump.
+                                        Bill Dellinger
+                                 5271 Dupont Avenue
+                                 Newark,CA 94560
+
+For Sale: 55 gallon steel drums. Can be used for
+traditional barrel-top mirror grinding, $5 each.
+                          Penny Pinschbidt, 354-5545.
+
+For Sale: many, many pounds of brass gear stock.
+Suitable for large telescope drives; cuttable into
+smaller sizes suitable for smaller telescope drives.
+Sizes are roughly 10 inches by 10 inches by 1/2 inch,
+and 12 by 12 by 1 inch. Call me for prices.
+                       Uncle Editor, (415) 443-6638.
+
+
+A THRILLING, CHILLING AUTUMN STAR PARTY
+
+by BRUCE SWAYZE
+
+The star party at Fremont Peak on the night of
+November 17th was not heavily attended, but what a
+splendid night it turned out to be! Earl Watts and I
+came down from the north to join in on the fun.
+Arriving right at sunset, we quickly set up my 15-inch
+Dobsonian and Earl's 12-1/2 inch. The 15-inch was the
+largest scope present, followed by a C-14, Earl's
+12-1/2 inch, and a few smaller instruments.
+
+As anticipated, a chilly breeze met us when we
+stepped out of the van, but I was prepared. I had
+heavy wool socks on, my thermals, ski pants, a warm
+wool shirt over my thermal top, followed by a down
+vest, and a ski parka. A stocking cap, with a pair of
+earmuffs added, topped it all off. I have found that
+my limiting factors on cold autumn or winter nights
+are either my fingers or toes. A simple pair of
+rubber overshoes over my shoes works incredibly well
+at holding in the heat. No cold toes this time!
+
+The nice thing about late autumn star parties is
+that the sun goes down early, allowing a longer
+viewing night. You also have a chance to see most of
+the summer Milky Way objects one more time, as well
+as seeing the winter objects later in the evening. We
+
+had already observed a number of objects in the Milky
+Way when someone asked what time it was. It was only
+7:15 PM!
+
+Around 7:30, a few folks were already starting to
+leave, no doubt due to the chilly breeze. More people
+had gone by 9:00. For those who dress warmly and
+persist, though, there are some tremendous rewards
+in store at an autumn star party. We were especially
+rewarded around 9:30 or so when the breeze stopped
+and it actually warmed up. I had to remove my
+earmuffs and open my coat to keep from overheating.
+We quickly noticed that the seeing improved
+dramatically. It was near exceptional, and Earl and I
+took advantage of the occasion to split some nice
+double stars. We looked first at Rigel in Orion.
+Burnham calls Rigel "a true supergiant, a blazing
+white-hot star of intense brilliance and dazzling
+beauty." The magnitude 0.14 primary has a magnitude
+6.7 companion about 9" away, which is itself a
+spectroscopic binary. The companion was plain and easy in
+the 15-inch, although I found it to be an even better
+sight with my 6-inch off-axis 16-mm aperture stop. We were
+even more thrilled by the Trapezium, which was easily
+split into all six components.
+
+We were unable to split Sirius, but we looked at
+many others. Castor was spectacular.
+
+For deep-sky viewing, we saw at least two dozen
+Messier objects as I have never seen them, along with
+some fine NGC objects, such as NGC 891 in Andromeda,
+a splendid edge-on galaxy. NGC 2371, 2372 is a unique
+double planetary nebula a few degrees from Castor and
+Pollux. NGC 2392, in Gemini (also known as the Eskimo
+Nebula"), was a real surprise. In the 15-inch, it is
+an incredible example of how averted vision works.
+The nebula is an eerie green with an unusually bright
+central star. When you look at the star, the nebula
+pops into view. But try to look directly at the
+nebula and it disappears entirely, leaving only the
+star! It is just the opposite of the famous "blinking
+planetary" in Cygnus.
+
+The highlight of the whole night came when Orion
+had climbed up to the meridian. An astronomer's dream
+came true – I had my first visual observation of the
+Horsehead Nebula! The secret was in using the right
+power. My 2-inch 32-mm Koenig eyepiece was useless,
+but with a 24-mm Meade Plossl the contrast was better,
+though, the contrast was increased dramatically,
+bringing out the lighter nebula surrounding the
+Horsehead. It was difficult, but definitely there.
+Earl had never seen it before either. The nice thing
+about observing the Horsehead, or any dark nebula, is
+that you can look directly at it. This way, the
+surrounding brighter nebula is seen with averted
+vision, making it easier to observe.
+
+When I finally finished observing, it was almost
+5:00 AM and we had gone through most of the galaxies
+in Leo. We had also seen the Rosette Nebula for the
+first time ever, again using the nebula filter and
+low power. All in all, this was definitely one of the
+most rewarding star parties I have ever been to.
+
+(President's note: Bruce Swayze, an active member
+of the SJAA for the past three years, has just moved
+back to Portland, Oregon, to accept a new job there.
+I'd like to say many thanks, and wish Bruce and his
+wife Barbara the best of luck. Denni)
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9zx91kko6KhKnpQPTu'}]
+TIME VALUE - DATED
+NEWS MATERIAL
+
+SIAA Bulletin
+
+San Jose Astronomical Association
+3509 Calico Avenue
+San Jose, CA 95124
+
++$94-
+
+STAR MEETING & STAR PARTY SITES

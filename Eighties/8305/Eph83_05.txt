@@ -1,47 +1,715 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1iMpCgDJuLpNt7Rpy'}]
+MAY'85
+
+SJAA
+
+EPHEMERIS
+
+[The image shows the cover page of what appears to be a publication called "EPHEMERIS" from May 1985, published by SJAA (San Jose Astronomical Association). The main feature is a black and white astronomical photograph showing what appears to be a nebula or cosmic cloud formation against a starry background.]
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1iv3wniGRrYwcA6Z8'}]
+# CALENDAR
+
+MAY 7    STAR-PARTY, HENRY COE PARK
+
+MAY 14   STAR-PARTY, FREMONT PEAK STATE PARK
+
+MAY 21   GENERAL  MEMBERSHIP MEETING, U of SANTA CLARA, RM 102
+         JOHN GLEASON, "ASTROPHOTOGRAPHY WITH COLD CAMERA AND
+         GASSING TECHNIQUES"                            8:00PM
+
+MAY 28   INDOOR STAR-PARTY, LOS GATOS RED CROSS, 7:30 PM ON
+         ALL ARE WELCOME, BRING SCOPES, QUESTIONS, SLIDES...
+
+MAY 27-30 RIVERSIDE TELESCOPE MAKERS CONVENTION
+
+JUN 4    STAR-PARTY, HENRY COE STATE PARK
+
+JUN 10   BOARD MEETING, JIM VAN NULAND HOST, 8:00PM 408/371-1307
+
+JUN 11   STAR-PARTY, FREMONT PEAK,
+
+JUN 18   GENERAL MEMBERSHIP MEETING, U OF SANTA CLARA, RM 102
+         SLIDE NIGHT / ANNUAL ELECTION OF BOARD MEMBERS
+
+JUN 25   INDOOR STAR PARTY, LOS GATOS RED CROSS BLDG. 7:30PM
+
+# ADDS
+
+FOR SALE
+
+C-8 IN LIKE-NEW CONDITION, WITH VARIOUS EYEPIECES,ZOOM,BARLOW,ETC.
+OVER $1200.00 WORTH. ASKING $800.00 OR BEST OFFER.
+                    CALL  HUBAR, (415) 533-1514
+
+FOR SALE:
+12 INCH PVC IRRIGATION TUBING, .4 INCH WALL. IDEAL FOR 10 INCH
+TELESCOPE.  $ 7.00 PER FOOT APPROX 9 FEET AVAILABLE.
+                    CALL ANDY GUDAS (408) 272-7976
+
+     EPHEMERIS, is published monthly by the San Jose Astronomical
+Association, 3509 Calico Ave, San Jose, Ca. 95124  (408) 246-6189
+     All contributions are welcome and must be received by the 15th
+of the preceeding month.  Please type to a width of 6.5", if this
+is not possible, handwritten articles are welcome, single space.
+     EPHEMERIS also welcomes your black and white photos of astro-
+nomical interest.  8x10 prints > 5x7 print min
+     All submissions may be sent to SJAA EPHEMERIS editor c/o Jack
+Zeiders  2961 Magliocco Dr #3, San Jose, Ca. 95128 (408) 246-6189
+
+SJAA President; Debra Frerichs
+15022 Broadway Terrace, Oakland, CA 94611 (415) 654-6796
+SJAA Treasurer; Bob Fingerhut
+340 Rio Verde Pl #4, Milpitas, Ca. 95035
+
+Board of Directors:                      Bill Cooke  (408) 739-6319
+Eugene Disperos (408) 923-6800  D.Frerichs-Medlock (415) 654-6796
+Frank Dibbell (408) 746-6493 day      Chris Pratt (408) 629-2994
+Steve Greenberg (415) 443-6638        Jim Van Nuland (408) 371-1307
+Shea Pratt (408) 629-2994             Jack Zeiders (408) 246-6189
+
+MAY COVER: THE EAGLE NEBULA, PHOTO BY JOHN GLEASON
+
+1
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1jRoiAgiqbQeLhLLm'}]
+OBSERVATIONS
+BY DENNI FRERICHS-MEDLOCK
+
+A few quick notes about what is coming up in the next few months around
+the club. June is election month, with voting for the four open board
+positions occuring at the general meeting June 18th. (That will also be a
+slide night.) Nominations from the floor will be taken at that time, but
+if you have someone in mind (yourself, perhaps?) you can give any member
+of the election committee a call and nominate. To be a board member one
+must have been a SJAA member for at least one year, or be a member and
+have attended 6 board meetings in the last year. Election committee members
+are: Gene Cisneros (408) 923-6800, Frank Dibbell (408) 746-6493 days, and
+Steve Greenberg (415) 443-6638. If you are concerned about what the SJAA does,
+consider running for a board position.
+
+June is also membership renewal month. Located somewhere in this bulletin
+is a handy, dandy, renewal form which you can fill out and send to SJAA,
+Bob Fingerhut, 340 Rio Verde Pl. #4, Milpitas, Ca. 95035. Please include the
+proper amount (check or money order), and if you're renewing Sky & Telescope
+along with your membership, the renewal card sent by the magazine.
+
+The SJAA has restructured its membership status because of the recent jump
+in Sky & Telescope fees. The catagories are:
+
+Membership with Sky & Telescope            $21
+Junior membership (under 12) w/ S & T      15
+Membership only                             8 (formerly bulletin
+                                             subscription only)
+
+July is the annual picnic (location as yet unknown), and also the present-
+ation of the Dr. A. B. Gregory Award. Dr. Gregory was a long time member and
+past president of the SJAA and very much a symbol of the enthusiasm one can
+find in amateur astronomy. The club annually presents a plaque to the club
+member it feels has helped other SJAA members the most in the pursuit of their
+hobby. A nomination committee has been formed to receive your choice. Contact
+Bob Fingerhut or Denni Frerichs by the June board meeting (June 10th). Last
+year's recepient was Gerry Rattley!
+
+In the SJAA's agreement with the University of Santa Clara on using one of
+its classrooms for our meetings is the term that no food or litter be left in
+the room afterwards. As careful as we have been about this some litter was
+evidently found after the last general meeting in March. Therefore, to avoid
+this problem in the future we are going to refrain from making refreshments
+available after the meetings.
+
+I want to whole heartily thank Rita Miram for the many times she has kept
+us supplied with goodies and coffee afterwards. Her efforts were greatly
+appreciated by those of us who consumed them!
+
+2
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1jxJwc7zzCAoSfuDW'}]
+Entries are coming in for the caption contest announced in last month -
+so where is yours? (No, it wasn't a joke!) If you're too lazy to mail one
+in, phone any of the board members by the May board meeting. Again, winner
+will receive a T-shirt from the 10 Meter Telescope group.
+
+The SJAA is looking for someone who can store (temporarily) its 14"
+telescope mount. It's 5' tall and weighs 350 lbs. (You'll get help moving
+it). So if you don't mind a large paperweight in one corner of your garage
+please give Bill Cooke a call at (408) 739-6319. His family would very much
+appreciate it.
+
+CLEAR SKIES!!
+
+═══════════════════════════════════════════════════════════════════════════
+
+APRIL 16 STAR-PARTY
+BY GEORGE DEIWERT
+
+After being deterred from previous star parties this year due to inclement
+weather, this was my first star party of 1983. There were only 6 or 7 club
+members present, accompanied by two Coulter 13.1" Odesseys, two 8" Celestrons
+and one 4" richfield telescopes.
+
+Despite all the weather reports of impending rain and cloudy skies, we were
+blessed with clear skies and fairly comfortable weather for most of the evening.
+The moon was in it's first phases and the sky didn't really get dark until
+about 2300 hours. Despite a threatening build up of cloud cover the sky remained
+quite clear, providing for several hours of enjoyable observing.
+
+I had intended to do my best to make up for missing the Messier Marathon scheduled
+in March and spent the first few hours observing Messier objects as well as a
+few of the planets. Later I turned my attention, along with the other observers,
+on the galaxies in Leo and Coma Berinices. Most of us engaged in this activity
+until about 200 hours when the wind and clouds picked up enough to make observing
+untenable. We all felt fortunate and grateful for the several hours of good
+observing time we had and hope that the April 16 star party will be the beginning
+of a year of good skies.
+
+═══════════════════════════════════════════════════════════════════════════
+
+GREAT RED SPOT EPHEMERIDES
+BY JIM VAN NULAND
+
+Recent attempts to observe the Spot have been only partly
+successful. On one occasion I was clouded out about 15 minutes too
+soon; a couple of other times seeing was too awful even for the
+apodizing screen. I've been able to estimate that the predictions are
+not far wrong, probably within several minutes.
+
+The Spot seems to be somewhat more distinct (less indistinct?)
+than in recent years. One must look carefully along the southern edge
+of the SEB, seeking an oval dent. Then wait for moments of excellent
+seeing. The apodizing screen is very helpful. The spot is darker
+than the zone south of it, and somewhat lighter than the belt north of
+it.
+
+3
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1kXYG1876uunrAcc3'}]
+Great Red Spot on Meridian PDT
+
+da mo d h m
+Su 5 1 4 6 am
+M 5 2 0 4 am
+W 5 4 1 32 am
+F 5 6 3 17 am
+M 5 9 0 40 am
+W 5 11 2 24 am
+
+da mo d h m
+F 5 13 3 55 am
+F 5 13 11 50 pm
+M 5 16 1 32 am
+F - - - -
+W 5 18 3 7 am
+W 5 18 10 55 pm
+Sa 5 21 0 36 am
+
+da mo d h m
+M 5 23 2 17 am
+W 5 25 3 48 am
+W 5 25 11 46 pm
+Sa 5 28 1 21 am
+M 5 30 2 60 am
+M 5 30 10 51 pm
+
+SPACE PROGRAM UPDATE
+BY BOB FINGERHUT
+
+FIRST MISSION OF CHALLENGER, STS-6, SUCESSFULL.
+
+The second space shuttle orbiter, Challenger, performed beautifully in its first flight from April 4 to April 9. The orbiter will be returned to Kennedy Space Center and prepared for launch on mission 7 with a turnaround of 54 days.
+
+LOSS OF TDRS-A AVERTED
+
+The Tracking and Data Relay Satellite, TDRS-A, is now under control following serious problems with its upper stage booster following its launch by the space shuttle. In an incredible drama the satellite stabilized out after being given up for dead by ground based controllers. The problem which appears to have developed with the second stage or its Inertial Upper Stage (IUS) booster left the satellite tumbling in a 21,950 x 13,540 mi. orbit. Fortunatley the satellite is carrying 1,300 lb of propellant. About 850 lb of fuel will be needed to change the orbit over the next several weeks to the desired 22,335 mi. circular orbit, there will still be enough fuel for the satellites ten year life.
+
+STS-7 SHUTTLE MISSION
+
+The STS-7 mission, which is scheduled for the second week in June, will be a six day flight. The Challenger will contain a German SPAS-01 shuttle pallet, the NASA Office of Space and Terrestial Applications scientific payload, Anik-F Canadian communications satellite, and the Indonesion Palpa B communications satellite. Both communications satellites are to be placed into geosynchronous orbits using solid spinning upper stages. A continuous flow electrophoresis experiment will also be carried.
+
+RUSSIAN SPACE STATION ENLARGED
+
+The Salute 7 space-station has been enlarged with the Cosmos 1443 space station module. Manned operations to the Salute 7 are expected to resume at the next launch window in late April.
+
+SOVIET MODEL SPACEPLANE LAUNCHED
+
+U.S. reconnaisance spacecraft have sighted a Soviet heavy space shuttle orbiter which resembles the double delta winged NASA orbiter. The Soviet shuttle has the engines mounted on the external tank not in the orbiter tail, all engines, the strap-on boosters, and the external tank will be expendable. Two Bison bombers have been spotted with racks on top of their fuselages to carry piggyback either the Soviet shuttle orbiter or the large Saturn 5 - class stage elements. Both have been seen atop the Bisons. New launch pad construction at Tyuratam is believed associated with the Saturn 5 - class booster which is under development.
+
+4
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1mHBHddi1oVNGYhXi'}]
+LANDSAT LOSES THEMATIC MAPPER TRANSMITTER
+
+The X-band transmitter on Landsat 4 that was used to send
+thematic mapper data to ground stations: was lost Feb.15. When
+the TDRS-A is working it will restore data reception from the
+thematic mapper.
+
+VIKING I STILL SILENT
+
+JPL is still trying to reestablish communications with the
+Viking I lander on the surface of Mars. It has been silent since
+late last year when a command was sent which over wrote a portion
+of the computer memory where the location of Earth was stored.
+
+SOLAR SYSTEM EXPLORATION COMMITTEE RECOMMENDATIONS
+
+The committee. formed by NASA in 1980. has recommended a
+"core program" for a long-term mission strategy for solar system
+exploration. It includes a Mars orbiter (1990 launch), a comet
+rendezvous, a Titan flyby with probe. The program could be acco-
+mplished with a annual budget of $300 million in 1984 dollars.
+
+ESA SELECTS ITS NEXT PROJECT
+
+The European Space Agency (ESA) has selected an infrared
+astronomy spacecraft as its next scientific mission. The Infrared
+Space Observatory (ISO) will carry a 60-cm diameter telescope.
+Lifetime in orbit is expected to be 18 months. The launch will
+be in the 1990's.
+
+COMET COMMENTS
+
+BY DON MACHHOLZ
+
+The past month has seen no new comet discoveries or comet re-
+coveries, but two periodic comets, recovered last year, are now
+bright enough for amateur-sized telescope observation. Their
+positions are included below. Our "Past Discoveries" department
+is empty this month..No amateur comet discoveries have been
+made in the month of May during the years 1975 through 1982.
+
+Periodic Comet Tempel 1 (1982i)
+Date (1983)  R.A.      Dec.       Mag.     This comet is clos-
+04-26        12h 35.8  +14° 55'   11.7     in on the sun and
+05-06        12  33.3  +13  16    11.5     Earth, and is vis-
+05-16        12  31.6  +10  50    11.4     ible on M 90 on May
+05-26        12  34 2  +07  49    11.3     5 and on NGC 4570
+06-05        12  41.0  +04  21    11.3     on May 27. Positions
+                                            end mag. from IAU
+                                            Circular 3773.
+
+Periodic Comet Kopff (1982k)                This comet retro
+04-26        15h 46.3  -10° 18'   11.0     grades in central
+05-06        15  43.4  -09  46    10.6     Libra as it nears
+05-16        15  38.3  -09  20    10.3     both the Earth and
+05-26        15  32.2  -09  08    10.0     The Sun. Data from
+06-05        15  26.7  -09  18     9.9     IAU Circular 3779.
+
+BEGINNER'S CORNER
+
+BY BRUCE DE GRAAF
+
+The previous edition of this column dealt with the polar
+alignment of your astronomical telescope. This edition deals with
+the synchronization of your right ascension (RA) circle with the
+observed sky. Once the RA circle has been set, locating most
+objects is simply a matter of "dialing them up".
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1n2aHDv8FBUaDQsY3'}]
+It is assumed that you have aligned your equatorial mount with
+the polar axis of the planet. The process of setting your RA
+circle now becomes one of locating a suitably bright star with a
+known RA, acquiring it in the main field of the telescope, and
+adjusting the RA circle so that it presents the same value as the
+known RA of the star. Does that sound easy? It is! However,
+there is one hitch:
+
+                to locate that "suitably bright star",
+        you must have at least minimal knowledge of the night sky.
+
+        Said knowledge can be gained only by going outside and looking.
+Learn to recognize the major constellations, especially those
+which, at times, appear directly overhead. The bright stars in
+these stellar conglomerations are the guideposts by which you set
+your RA circle. Where can you find descriptions of the
+constellations and the stars? Try looking through the following
+sources:
+
+        "Rambling through the Skies", SKY AND TELESCOPE
+        Each month, this column presents both historical and
+observational information for the month of the
+magazine's edition. Along with the text is a map of the
+night sky as seen from the northern latitudes of Earth.
+The constellations and their brighter, constituent stars
+are well marked. Using this map and a suitable star
+chart, you can align your RA circle.
+
+        deGraaf's Ad Hoc Star Chart of Twenty Bright Stars
+Star's Name      RA    Dec            Star's Name      RA    Dec
+-----------      ---   ---            -----------      ---   ---
+Sirius           06:4  -16            beta Centauri    14:0  -60
+Canopus          06:2  -53            Altair           19:5    9
+alpha Centauri   14:4  -61            Alpha Crucis     12:2  -63
+Arcturus         14:1   19            Aldebaran        04:3   16
+Vega             18:4   39            Spica            13:2  -11
+
+Capella          05:1   46            Antares          16:3  -26
+Rigel            05:1   -8            Pollux           07:4   28
+Procyon          07:4    5            Fomalhaut        23:0  -30
+Betelgeuse       05:5    7            Deneb            20:4   45
+Achernar         01:4  -57            beta Crucis      12:5  -59
+
+        For your curiousity, future articles for the "Beginner's Corner"
+will include tirades on star party etiquette and a drive corrector
+construction article. If you have any ideas for the "Beginner's
+Corner", please contact me at one of the equipment night meetings.
+
+        Everybody has heard terms such as "kilometer" or "megaton".
+The prefixes "kilo" and "mega" used in these terms are from the
+Systeme International d'Unites (SI)s the so-called "metric system"
+of measurements. Out of curiousity, I tracked down all of the
+defined prefixes in the SI. From smallest to largest, they are:
+
+        atto   (0.000000000000000001 x)
+        femto  (0.000000000000001 x)
+        pico   (0.000000000001 x)
+        nano   (0.000000001 x)
+        micro  (0.00001 x)
+        milli  (0.001 x)
+        centi  (0.01 x)
+        deci   (0.1 x)
+        deca   (10 x)
+        hecto  (100 x)
+        kilo   (1,000 x)
+
+                                                                           6
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1nWMG2S4cxq5ytwgB'}]
+```
+                mega    (1,000,000 x)
+                giga    (1,000,000,000 x)
+                tera    (1,000,000,000,000 x)
+                peta    (1,000,000,000,000,000 x)
+                exa     (1,000,000,000,000,000,000 x)
+                     I presented this astounding information to Jack Zeiders and    we
+                decided    that  with  the  current   attention   being   paid  to high
+                technology by the political types we should have at least three
+                more prefixes at the high end:
+                     biga     (1,000,000,000,000,000,000,000 x)
+                     mo'biga (1,000,000,000,000,000,000,000,000 x)
+                                                     and
+                     qu'mental  (open ended...   often called "assa'nomical"...)
+
+                        MESSIER OBJECT VISIBILITY
+                              BY DON MACHHOLZ
+                     For observers in the mid-Northern latitudes, most of the
+                110 Messier Objects are visible through the year, if one is
+                willing to stay awake all night to observe them.  From 40º
+                N. Latitude, 11 Messier Objects are circumpolar (above the
+                horizon all night) and an additional 17 objects are far
+                enough north so that although they set, they quickly rise and
+                are still observable any night of the year.  The other 82
+                objects indepently hid in the sun's glare for anywhere from
+                3½ months (M 53 and M 93) to a few days (M 15).  The Virgo
+                group of galaxies is hidden from mid-Sept. to mid-Oct., while
+                the Scorpio/Sagittarius region is hidden from mid-Nov. to mid-
+                Jan.
+                     Below are two charts showing the number of Messier ob-
+                jects visible for each half-month for Latitude 40º and 25º N.
+                For those of us who are occasionally clouded out during the
+                traditional March Messier Marathon, we could schedule one for
+                mid-July and one for late-Oct./early-Nov.  The July Marathon
+                would be better weather-wise (fewer clouds and warmer temps.)
+                would last only about 7 hours, and would have the Scorpio/Sag-
+                ittarius region well-placed.  The disadvantage is that only
+                about 95 Messier Objects are visible at that time.
+                     A late-Oct./early Nov. Marathon would likely have good
+                weather with about 105 Messier Objects visible, the hindrance
+                being that the "Summer" Milk Way objects set early and the
+                Virgo galaxies rise late.
+                     It seems clear that anyone wishing to feast on the Messier
+                Objects can cover a large majority of them any time of the year.
+
+
+                     Number of Messier Objects Visible  40°N
+                110                                                               110
+
+
+                100                                                               100
+
+
+                 90                                                               90
+
+
+                     J    F    M    A    m    J    J    A    S    O    N    D
+                7
+```
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1o1cNLqS1em8LJDwp'}]
+
+
+Number of Messier Objects Visible 25°N
+
+THE CELESTIAL TOURIST SPEAKS
+BY JAY REYNOLDS FREEMAN
+
+Many amateur astronomers carry some kind of tool kit or ditty bag
+with them when they go out to observe. The contents are typically as
+follows:
+
+(A) Two blown drive-corrector fuses (the original and the spare)
+(B) A lensless eyepiece from an old toy refractor (this is used as
+    a chart paperweight.)
+(C) A deck of 37 playing cards (the others have been used to bush
+    out the star diagonal so it won't fall out of the focuser tube.)
+(D) Nine useless Allen wenches ( the ones that fit anything have
+    long since been lost.)
+(E) A year-old piece of vegetable pizza (it used to be pepperoni.)
+
+In case you haven't guessed, the subject of this month's column is the
+small bits and pieces of hardware that might usefully go into an observing
+kit. I'll omit eyepieces, because I discussed them at great length in the
+last few columns I wrote, last summer. I'll subdivide the rest into two
+catagories: Things you are certain to need every time you observe, and
+things you will need less often. This subdivision not only lets me organize
+my column, but it is also a useful way to organize an observing kit physi-
+cally. You might have two tool kits or ditty bags, one for the stuff you
+always need and the other for the occasional-use items.
+
+The things you need every time will include a red flashlight, any
+small telescope parts that for some reason you cannot leave permanently
+attached to bigger subassemblies, plus all the tools and fasteners (nuts,
+bolts, washers...) required to out your telescope together.
+
+8
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1oVt1sE8kFEGeQFnu'}]
+Requirements for tools will vary. Some Dobson telescopes won't need any. Mechanically complicated units, like my Celestron 14, needs quite a handful. There are a few general principles:
+
+Tools should be large and light-colored, or at least have handles that are large and light-colored; so that you can find them when you drop them at night. Large handles also make life easier when you are trying to disassemble your telescope with fingers that have gone numb from the cold.
+
+It is nice if your tools are corrosion-resistant, so that the dew doesn't reduce them to a pile of rust, but not strictly necessary if you oil them now and then.
+
+Don't buy a complicated tool when a simple one will do. For example, if you only need to tighten one size of nuts when setting up your telescope, you will only need one size of wrench. Buy a non-adjustable wrench of the correct size, and you won't have to waste time fiddling with an adjustable wrench, or in cleaning grit out of its adjustment mechanism.
+
+Do buy special-purpose tools if they can save you some effort. I have one size of "ball-driver" -- a tool that looks like a screwdriver but has its working end cut to fit into Allen-head screws. It saves me five minutes of fumbling and grumbling every time I put the fork arms on my C-14, because it lets me turn screws in a place where there isn't enough clearance to swing a conventional Allen wrench.
+
+And speaking of Allen wrenches, the usual kind -- tiny and dull black -- are classic examples of tools that are easy to lose when dropped in the dark. Large hardware stores carry sets of Allen wrenches built like a jackknife: All the different sizes fold up into a big shiny handle. This is the one case in which I recommend the more complicated tool.
+
+Now let us discuss fasteners. The basic rul is to use stainless steel wherever possible, mainly for corrosion resistance, but also because shiny parts are easier to find when dropped in the dark. Even large hardware stores don't always carry a lot of stainless, so you may need to make a trip to a marine hardware store or an industrial supply place to find what you need.
+
+If you need a lot of fasteners to set up your telescope, it is probably worth it to organize them in one of those clear plastic boxes with lots of compartments, so you can find the one you need when you want it.
+
+The usual reasons why small components cannot be left permanently attached to the telescope are that they are too fragile, like some finders; or too gangly, like electrical cables. Fragile parts should be packed carefully. If you haven't got a box that will fit, get some thin sheet foam (try Standard Brands paint stores), cut a piece the right size to wrap the part in, and hold it in place with rubber bands. Electrical cables should be coiled up and put into plastic bags that aren't much bigger than the coils -- that way they won't uncoil and snarl.
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1p3cr5T5NTS8epMg9'}]
+Stuff you will need only once in a while will include spare parts, equipment for making repairs, and things having to do with special conditions. The most commonly needed spares will probably be fasteners. When an original gets lost or gets too dirty to clean. A useful rule of thumb for quantity is to count the number of each kind of fastener used on your telescope, and carry half that number as spares; but never less than two. You may also need spare fuses, or a few extras of easily-lost small parts like eyepiece covers. Spare electrical cables can be useful, and you will certainly want a spare flashlight, but much more in the way of spares is probably overkill.
+
+Special conditions mean mostly weather and dirt. You might want a taupaul in to throw over your equipment if you wake up in the middle of the night and find it's raining, or if you set up early, while other people's wheels are still kicking up dust. And if your optics dew, be prepared to cope: Battery-powered "dew guns" and small propane heaters are the likeliest solutions. You might also want a sponge for wiping off non-optical surfaces on s very wet night.
+
+By and large, field maintenance of a telescope is better avoided, particularly if it means cleaning or disassembling optics, but there are some exceptions. See that the tool kit contains the equipment you need to collimate your telescope. (Note that I optimistically include these tools in the section of things you won't need every time.) Be prepared to clean grit out of threads when you drop nuts and bolts on the ground: A small spray can of the light oil called WD-40 is useful here, as is a roll of paper towels and an old pen knife. Be prepared to clean electrical contacts, too: These don't last long in the field, and at the low voltages used by telescopes, even a little corrosion is a serious problem. An old pen knife and some steel wool are indicated.
+
+Other useful maintenance equipment might include a small rattail file for dressing threads, a roll of duct tape for miscellaneous patching and fastening, and a little tube of high-quality grease, such as the "Lubriplate" brand of white lithium grease.
+
+1983 MESSIER MARATHON
+
+BY DON MACHHOLZ
+
+The month of March was a very cloudy and rainy month for California, clouding out the 1983 Messier Marathon planned for the weekends of March 11-13 and 18-20. There will be other times later this year when a great number of Messier Objects will be visible in one night, but March is the only month when 109 of the 110 Objects can be observed and has been the traditional time for the Marathon.
+
+10
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1pY8yH1sCYmiQsMJv'}]
+The weather in Arizona was clear during the second weekend and many observers took part in the Marathon. David Levy, near Tucson, observed 109 Messier Objects on the night of March 15-16 with a variety of telescopes, missing only M 30. He also saw 35 non-Messier deep-sky objects.
+
+Wally Brown of the Saguaro Astronomy Club near Phoenix is the chairman of the Deep-Sky Group. He reports of 30 observers and 18 telescopes, with 10 people Marathoning and four of them observing all 109 Objects. The four are: Wally Brown, Ron Gsciolek, Ron Hatcher (all using Celestron 8's) and Gerry Rattley. Four others observed more than 100 Objects.
+
+Next Spring there will be two windows open for the Marathon, one in early March and one in early April. Between now and then don't forget the Messier Objects, they are always there for observation and perhaps we can set aside a couple of observing sessions for mini-marathons. Watch for details on this.
+
+
+APPODIZING SCREEN
+
+BY JIM VAN NULAND
+
+Here is some follow-up information regarding the apodizing filter which I've been promoting. My thanks to Dennis DiCicco and Richard Berry for their help.
+
+I hope you have your copy of Sky & Telescope, August 1982. The photo there is a considerable help in seeing how to build the filter. If not, please see me.
+
+The screen layers are circular, cut to the outer diameter of the telescope tube. After turning each of the layers to the correct orientation, and centering the group on the frame, they are simply stapled to the wood.
+
+Next, four small blocks are glued or tacked onto the frame, surrounding the screens. The blocks should fit snugly when the assembly is slipped over the mouth of the tube. In practice, I've built the frame and blocks first, then dropped the screens between the blocks. A few tacks are enough to hold them.
+
+The central obstruction, in theory, needs to be apodized separately, but I don't know the mathematical theory needed to calculate it. My feeling is that it probably isn't very necessary.
+
+Regarding the question of full-aperture vs. off axis, I suppose that if you had a large, fast scope with a big secondary, it would be useful to try an off-axis stop nearly 1/2 the mirror diameter. This would give an unobstructed scope with double the f/ratio. If I owned such an instrument I would build both the full-size and reduced-size filters and try it out. My guess is that the larger aperture would work better but I'm not at all sure.
+
+Perhaps among your friends you have both a C-8 and an Odyssey II (17.5 inch). Build full size filters for each. Then for the O-2, make an off-axis stop with an 8 inch opening. Be sure that the C-8's filter can be attached to the stop on the O-2.
+
+When Saturn is up, try all combinations. Look for details. You may find that one combination is better for a sharp detail such as Cassini's division, and another is better for the soft markings on the planet, or for Jupiter's Great Red Spot.
 
 === PAGE 13 ===
-[Error extracting page 13: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1q58iPGBeV2njaJB9'}]
+I must stress that I've little feel for the theory of the
+device. The original was shown to me, suggested as a way to im-
+prove resolution on double stars. I built it and found that it
+helped resolution all right, but that it seemed to cut through
+seeing troubles even more. Then another person tried some vari-
+ations and that worked even better.
+
+I've built the screen proposed in my letter in TM#18. It is
+made of screening that has 10 wires/inch. The five screens are
+scaled to 64, 72, 80, 88, and 960 of my 8 inch aperture. Each
+screen is cautiously sprayed with flat black paint after cutting.
+The layers are rotated 18 degrees each from the preceding. It
+looks very much like my original seen in Sky & Scope.
+
+But it does work better. I've had only a few nights to try
+it, and in every case the seeing was extremely bad.
+Nevertheless, both screens were a considerable help! The newer
+one did help more, and also gave much less-obvious diffraction
+images.
+
+I have not had enough clear nights to try these under vari-
+ous conditions. It may be that each of them works best under
+different conditions, or maybe one of them will always be the
+better.
+
+When do I remove the screen? I use the apodizing screen un-
+der all conditions, whenever I'm observing planets. It is very
+rare that we have a night of perfect seeing, and the last time
+that happened, I was so taken staring at Saturn that made only a
+single quick comparison. The filter was helping. I should have
+tried regular filters, too.
+
+I should discuss the "blobs of color" that Mr. Berry men-
+tioned in the original article in TM#16. The filter produces six
+bright, wide radial diffraction spikes, extending pretty well to
+the edge of the field. These are spectra of the object. They
+begin a few minutes from the planet, and obscure the rest of the
+field. But only the moon is too big to fit down inside this pat-
+tern. Yes, this makes a mess of the field. If what you are
+looking for planetary details, it doesn't matter; if you are
+looking to enjoy the overall impression, take off the filter.
+The 5-layer screen produces less-obvious spikes and somewhat less
+color. For a kick, try the filter on the Pleiades at low power!
+
+The filter can be used to advantage on the moon, even though
+the immediate result is a great smear of color. If seeing is
+very bad, the improvement due to the filter will outweigh the
+smeariness. As seeing improves, one quickly reaches the point
+where the filter is better removed. But even then, I've some-
+times been able to study a small region with better resolution by
+using the filter! Since the moon has mostly sharp colorless de-
+tails, the out-of-focus color blur can be ignored after a while.
+
+Let me answer Mr. Berry's rather doubting comment that he
+can't understand how removal of information (i.e., photons) can
+contribute to the performance of a scope. May I point out that
+the use of color filters on cameras and telescopes may also be
+viewed as "removal" of information. In each case, you are remov-
+ing unwanted interfering information, and the result is to
+improve the signal-to-noise ratio and therefore to improve the
+performance.
+
+I reject the suggestion that the improvement may be due to
+the "Questar effect". No, the filter is NOT an aperture stop!
+I've compared with a stop and the result is always to diminish
+resolution. Under poor conditions, one gets a steadier image,
+
+12
 
 === PAGE 14 ===
-[Error extracting page 14: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1qYf3mv6p8ZeviK39'}]
+and that may be useful. But along with it you will also find
+that resolution of detail and small contrasts, has been
+decreased.
+
+The Questar effect depends on the fact that a small instru-
+ment, due to its limited resolving power, requires less-steady
+air to reach its maximum performance. But that is not at all the
+same thing as saying that a small instrument is better than a
+large one. Stopping down results in a generally more stable im-
+age, and that may be very useful. But it will not show the
+details such as planetary markings, especially if one is willing
+to watch for the moments of good seeing.
+
+I rather wish that Mr. Berry had gone and cobbled one to-
+gether and tried it first, rather than rejecting it out of hand
+as he (and nearly everybody else at Riverside) did. When I find
+time I'll make a C-8 version and send it to Milwaukee.
+
+Yes, Virginia, there is a seeing filter!! It is such a com-
+ically simple, indeed silly, device that most are tempted to
+laugh it off. But try it! We've all been complaining about the
+seeing. Now at last there is a way to do something about it.
+
+SJAA PROFILES
+BY FRANK DIBBELL
+
+The most interesting part of doing these interviews is finding out how
+people (1) developed an interest in Astronomy, and (2) how they happened to
+join the SJAA. In Gary Cervo's case, the seeds of interest were planted in
+a doctor's office one day several years ago. While in the doctor's waiting
+room, he happened to pick up and browse through an old issue of SKY & TEL
+(now THAT'S a doctor's office with class). The magazine interested him, so
+he resolved to find out more about amateur astronomy.
+
+As most of us do when we develop an interest in something, Gary began
+frequenting establishments that cater to astronomical interests. While in
+one such establishment, he noticed an SJAA Bulletin posted on the wall, so
+he took note of the mailing address and a phone number in order to inquire
+about our activities.
+
+An Indoor Star Party was Gary's first exposure to an SJAA function.
+His initial impression of these loosely organized events was one of interest,
+specifically because of the looseness and informality. He was impressed with
+what seemed to be a lot of different activities; specifically the small tele-
+scope making workshop (which evaporated due to lack of organization?). Gary
+thinks the club ought to sponsor more such events.
+
+Gary owns a C-5, which he used extensively until last October (the be-
+ginning of the reign of rain). Deep sky and planetary observing top his list
+of astronomical interests. Since he didn't have much of an opportunity for
+observing, Gary took advantage of the bad weather to build himself a cold
+
+13
 
 === PAGE 15 ===
-[Error extracting page 15: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1tAAxx7Lv6L5pp5A5'}]
+camera. He recently tested the completed camera with a hypered roll of 2415
+on M-42. Considering it was a first attempt, the results were quite good
+(I took his word for it). Ah, another budding club astrophotographer!
+
+A frequentor of Fremont Peak Star Parties, Gary related an experience
+he had at his very first night on the mountain. Like any true neophyte, he
+arrived with his C-8, chart, flashlight, etc. etc., all ready to tackle
+the myriad of celestial objects. After several frustrating tries at finding
+objects, he gave up, and began to do what the rest of us did (still do!):
+go look at what other people have in their telescopes. Eventually, he wound
+up at someone's large Dobsonian, and spent literally the rest of the night
+observing through it.
+
+Astronomy is not Gary's only interest. He also enjoys amateur radio,
+though he admits astronomy currently holds more interest, and is a member of
+a local radio club. In the summer he enjoys fast-pitch softball; in the
+winter, skiing of course. Somewhere in between he likes to spend an evening
+on a mountain top with a dozen or so peculiar people. I suspect he is also
+quite relieved that this interview is almost over. Thank you for consenting
+to the interview, Gary, and good luck on your astrophotographical endeavors.
+
+[THIS IS IMAGE: A grainy black and white photograph showing what appears to be a starfield or astronomical image with various white spots and clusters against a dark background]
+
+SJAA MEMBERSHIP APPLICATION/RENEWAL
+
+NAME _______________________________________________________________________________
+
+ADDRESS _____________________________________________ CITY _______________________________
+
+PHONE ______________________________________________ STATE _____________ ZIP ______________
+
+AREA OF INTEREST____________________________________________________________________
+
+MEMBERSHIP/S&T □ $21.00          JUNIOR (UNDER 12) □ $15.00
+
+MEMBERSHIP ONLY □ $8.00
+
+14
 
 === PAGE 16 ===
-[Error extracting page 16: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1uK8F4JL99nb7avJ2'}]
+SUMA - EPHEMERIS
+3509 CALICO AVE
+SAN JOSE, CA 95124
+
+TIME VALUE - DATED
+NEWS MATERIAL
+
+U.S. POSTAGE PAID
+PERMIT NO.5531
+SAN JOSE, CA 95125

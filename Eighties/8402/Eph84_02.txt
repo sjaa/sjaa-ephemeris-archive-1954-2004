@@ -1,44 +1,687 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3jULw52gJjtvA7PBv'}]
+FEBRUARY '84                                                    SJAA
+
+EPHEMERIS
+
+[Star chart showing positions of celestial objects including Comet Ikeya 1964, Comet Crommelin, Cetus, Pisces, Pegasus, and Aquarius constellations. Various numbered points and dates are marked throughout, ranging from dates like 2-22, 3-6, 3-14, 3-18, 3-30, 4-6, 6-6, 7-17, 7-21, etc. The chart includes coordinate markers at +20°, +15°, +10°, +5°, 0°, -5°, and -10°.]
+
+COVER STORY by JACK MARLING page 3
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3kB1c4tNRKBgxu1sP'}]
+# Observations
+
+## UPCOMING EVENTS
+
+The SJAA General Meeting for February 11 will have Jeff Scargle talking to us on "Activity in the Crab Nebula." Jeff is a returning speaker to the club and was very well received for his previous lecture. Bring your family and friends to enjoy this evening of astronomy. University of Santa Clara, Alumni Science Hall, room 202. Note: this is a change of room numbers. 8:00 PM. Everyone is welcome to attend.
+
+The Astronomical Society of the Pacific is sponsoring a three evening lecture series by William Kaufmann on "Stars, Their Birth, Life, and Death." to be held at the Physical Science Lecture Hall, UC Berkeley on March 14, 21, and 28, 1984 from 7:30 to 10 PM. The program is designed for both the novice who wants a clear, comprehensive survey of the life story of the stars, and for the more experienced astronomy buff who would like to know about recent progress we have made in piecing together that story. Dr. Kaufmann will illustrate his lectures with a beautiful collection of slides, gathered from the world's largest telescopes and from new astronomical observatories in space.
+
+There is a registration fee and pre-registration is strongly recommended. For a program and brochure write to: Kaufmann Lectures, ASP, 1290-24th Ave. San Francisco, CA. 94122.
+
+Jim Harrell tells me that tickets for the Lick Summer Visitors Program are now available. The program will be held every second Friday night of the month from July to September and will include a film or slides and observing through some of the larger telescopes. To receive tickets send a stamped-self addressed envelope to: Lick Summer Visitors Program, Lick Observatory, Mt. Hamilton, CA. 95140. Specify your first and second choice of dates and no more than 6 tickets.
+
+Astronomy Day was scheduled for April 7 by the Astronomical Association of Northern California. The SJAA Board, looking at the sky calendar for that Saturday, realized that there were no planets up at that time to show the public, so we decided to wait until later in May to hold public viewing sessions - perhaps even another run at Marriott's.
+
+The SJAA's 4th Annual Astronomical Auction has been scheduled for April 14. An auction committee has been set up and if you would like to help contact any one of the following people: Denni Frerichs, Publicity; Jim van Nuland, Computer registration; Bob Fingerhut, Finances; Kevin Medlock, Auctioneer; Dave and Mary Ambrose, Refreshments; Gene Cisneros, Site selection; Jack Zeiders, Artwork. There are always plenty of jobs available for people who just want to help, such as set-up and go-fering.
+
+Frank Dibbell has been doing some work with the Columbia Middle School in Sunnyvale, helping them set up an astronomy program for this year. With the science instructor there he has put together a telescope and has given a few astronomy talks. What are needed are star charts and eyepieces. If anyone has any to donate, please call Frank Dibbell at (408) 746-6493 days.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3kfmyY5UrmKfa7t7m'}]
+Donations would really be appreciated and would help the kids get a decent education in astronomy. By-the-way, the name Columbia came from the Space Shuttle, not directly from Columbus. They even had a NASA astronaut at the school dedication.
+
+_____________________________________________________________
+
+The San Jose Astronomical Association would like to note the passing of long time member Thomas M. Edwards, who passed away after a lengthy illness on January 3rd. He was, by profession, a research scientist at NASA and had at one time worked on the Mercury project.
+
+George Cook, Jackie and Gary Rice wrote to say, "The September star party at Fremont Peak was the last time Tom had his Dynamax 8 up at Fremont Peak. He will always be in our hearts."
+
+_____________________________________________________________
+
+The indoor star parties have been going on for years now, and often new members, or just interested people, show up to see what's happening. Often not much is. We would like to put together a slide show that could be shown on the spur of the moment at an indoor star party, basically giving these newcomers a n idea of what's up in the sky and with the club. If you have any astronomical or star party-related slides you would like to donate give any one of the officers or board members a call. It will definitely be used.
+
+_____________________________________________________________
+
+I would like to thank the many contributors this month: Don Machholz, Bob Fingerhut, Jack Marling, Dick Barrett, Kevin Medlock, and Fred Braniff, who's returned with SK3WORD. I'll have the answers next month. Have fun with it until then, and
+                                                Clear skies,
+                                                    Denni
+
+
+Letter to the Editor
+
+
+Dear Denni,
+
+    Don Machholz's account of what he goes through to keep warm while looking for comets reminds me of an incident that occured quite a few years ago at the Lick Observatory during the tenure of the late Dr. C. D. Shane as director.
+
+    Dr. Shane was hosting the Astronomer Royal of Great Britain, H.(?) Spencer-Jones, a typically reserved gentleman, who, remarked that astronomers suffered much from the cold in England.
+
+    "You should get electrically-heated flying suits, such as are used in this country," Dr. Shane told him.
+
+    "Our observatories are wired for 220 volts and the suits operate on 110 volts," Spencer-Jones said.
+
+    "Well," the spritely Dr. Shane suggested, "you could hook up two astronomers in series."
+
+    Relating this story later, Dr. Shane said Speceer-Jones looked at him as if he were crazy. So much for the difference in the American and British sense of humor.
+
+                                                                    2
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3mA3mkjzLuyZZps6d'}]
+I have many fond memories of the great gentlemen on the Lick staff
+during the period when I covered it for the San Jose News -- William H. Wright,
+Robert G. Aitken, Fritz Neubauer, H.M. Jeffers, Gerry Kron, Robert Wyse, Bill
+Baustian, Fred Chapelle, and one of the greatest, Joe Moore, of whom Wright
+once said that if the observatory was destroyed, Joe would be out the next
+night making some sort of useful observations. (The observatory was very
+nearly destroyed one night back around 1940 when an Army Corps pursuit plane
+entered a cloud and tore into the side of the building. There was no fire,
+which averted the loss of a valuable library, which included some old books
+that Neubauer told me, "not even the Vatican has.")
+
+Best wishes,
+
+(signed) Dick Barrett
+
+Thanks, Dick, for sharing that with us!
+
+_________________________________________________________________
+
+THE 1984 MESSIER MARATHON
+
+The 1984 Messier Marathon will be held on the weekend of Friday
+March 30 through Sunday April 1. The Moon will be New and during that week-
+end 109 of the 110 Messier Objects should be visible in one night with M-74
+being missed in the evening sky. Meanwhile, M-77, M-33, and M-110 should be
+visible, but difficult, in the evening sky, while M-30 will have just become
+visible in the morning sky.
+
+Perhaps a better time for observing 109 of the Messier Objects this
+year would be during the weekdays of March 5-9, just before the Moon becomes
+too bright to obscure the objects. This doesn't fall during the weekend,
+though, and all-night observations may be difficult for some. Only M-30
+would not be visible at this time.
+
+Once again we will be setting up at Loma Prieta, in the Santa Cruz
+Mountains. To get there, take Hwy 17 south to Summit Rd. Go east on this
+road for 5.5 miles to your first stop sign. From here go left onto Mt. Bache
+Rd. for 3.3 miles. At this point the pavement ends; keep going 1.2 miles to
+the observing site - a wide area along the dirt road. In our area astronomical
+twilight is at 7:30 PM PST in early March, and 8:00 PM PST in early April.
+
+I'm hoping to be up there during both observing windows. Please call
+if you want observing order sheets or additional notes on the Marathon.
+
+Don Machholz
+(408) 448-7077
+
+_________________________________________________________________
+
+RARE CONJUNCTION OF TWO COMETS
+
+by Jack Marling
+
+In early February, 1984, there will be a rare conjunction of two
+comets in the constellation of Pisces. For the evenings of February 3,
+4, and 5 both Comet Encke and Comet Crommelin will be within 3° of each
+other, just 3° to the west of the bright star Omega Pisces. Using a Cele-
+stron Comet Catcher with a Televue 24mm wide-field eyepiece (this combina-
+tion yields a 3.1° true field) it should be possible to see both comets in
+the same eyepiece field-of-view! Since Pisces is setting early, the best
+time to see these comets is in the early evening just after dusk. Comet
+Encke will be about magnitude 11.5 and Comet Crommelin will be about
+magnitude 10.0
+
+8
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3myALrgsjUtqVsNvg'}]
+Just for fun I will try to photograph this conjunction using my new
+Takahashi FC100 fluorite astrographic refractor I got myself for Christmas.
+At f/8 using my medium format Mamaya 645 camera, I get a 5° true field at
+F=800mm focal length. Thus both comets will appear in the same photo! Users
+of 35mm cameras could use a 400mm lens (5° field) or a Comet Catcher (4°
+field). 10 minute exposure with normal VR1000 or 5 minutes with hyppered
+VR1000 will show the comets well.
+
+As shown on the front cover, both Comet Encke and Comet Crommelin
+will get much brighter in late February and early March. Comet Crommelin
+will reach 6th magnitude in Cetus around March 1-6, 1984, and Comet Encke
+will reach 6th magnitude around March 20-30, before getting lost in the
+evening glare. I will have fun trying to photograph and see these comets
+using some of the new film techniques and comet filters I have been devel-
+oping.
+
+Since these are gaseous comets, a DEEP-SKY Filter will help in photo-
+graphy where light pollution is a problem.
+
+Call me at (415) 443-7579 for any questions on film or filter tech-
+niques; call Don Machholz at (408) 448-7077 if you have any further comet
+questions.
+                                        Dr. Jack Marling
+                                        891 Laguna St.
+                                        Livermore, CA. 94550
+
+_______________________________________________________________________________
+
+
+                 VENUS CASTS A SHADOW AND MORE ON SHADOW BANDS
+
+James Muirden, in his book: "The Amateu Astronomer Handbook", mentions
+concerning the planet Venus: "...there are records of its casting a shadow
+on those occasions when it can be seen against a dark sky." Now, I had read
+this many years ago but had never really tried to see if it's true until
+just a few weeks ago. To my surprise I found that Venus is indeed bright
+enough to cast a shadow which can be easily observed.
+
+My first attempts the morning of January 1 of this year. I was
+comet hunting at Arnold, California, not far from Angle's Camp, in the
+Sierra Nevada foothills, when Venus rose. It was quite bright so I held up
+my note paper (atteched to a clipboard) and placed my hand a few inches
+away. I could see a distinct, faint shadow of it on the white paper. I in-
+creased the distance and the shadow remained sharp, as Venus' shadow would
+since it is such a small object. I then put an object onto the corner of
+the truck and followed the shadow to a distance of more than 15 feet.
+
+Two mornings later I tried it again and got the same results. The next
+morning, from Loma Prieta, in the Santa Cruz Mountains, the same thing hap-
+pened. At these times Venus was -4.1 magnitude and 40 degrees from the Sun.
+
+I would therefore suppose that anyone could observe a shadow, assuming
+that Venus is bright (it gets even brighter than -4.1), more than a few
+degrees above the horizon, and the sky and local environment is otherwise
+dark. Venus will remain bright and fairly high in the morning sky through
+February, then reappear in the evening sky in mid-September of this year.
+It would be interesting to see if anyone could photograph the shadow cast
+by Venus with one of the fast and high-contrast films now available.
+
+In December, 1982, I wrote an article describing a "shadow band" effect
+caused by bright airline landing lights as they fly toward an observer at
+night. While watching Venus on January 1, I noticed its light being cast on
+the paper was not steady light, but scintillating in an upward direction. At
+that time the air temperature was 21°F and the planet was about 10° above
+the horizon, some 1 mile away (I was in a local valley). I also noticed the
+
+                                     4
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3nUAxgmxCs3sCA8kH'}]
+same thing the next evening - this time the light sources were house lights,
+just a few feet off the ground, and about 200 yards away. These seem to be
+caused by air movement near the ground. Perhaps other observers have seen
+these effects too.
+
+Don Machholz
+
+COMET COMMENTS
+
+BY DON MACHHOLZ
+
+One comet has been recovered and one new comet discovered recently as
+we move into 1984. Today we look at these two comets, take a quick glance
+at Halley's Comet, and prepare to observe two periodic and one newly-discov-
+ered comet. Then, in our Past Discoveries department, we'll search the records
+of amateur comet discoverers to see the number of finds each year, month and
+day of week.
+
+The year 1983 was the most active year ever for comets; with 23 of them
+being discovered or recovered. This breaks down to:
+
+11: No comet- an error
+10: Returning comets picked up by professional astronomers
+4: New comets discovered by professional astronomers alone
+2: New comets found by amateur astronomers alone
+4: New comets found by the satellite IRAS alone
+1: New comet found by IRAS and amateur astronomers
+1: New comet found by IRAS and a professional astronomer
+
+Periodic Comet Clark (1983w): The last comet if 1983 was recovered by J. Gibson
+of Palomar on December 15. At that time the magnitude was 19.5 and the comet
+was in the constellation Virgo. It has an orbital period of 5.5 years and is
+not expected to get much brighter.
+
+Comet Bradfiled (1984a): Preliminary reports indicate that the first comet
+of 1984 was discovered by William Bradfield of Australia on January 7, in
+the morning sky about 20° south of the star Antares. It was then at magni-
+tude 11, and moving south, (already it is too far south for us to see).
+Little else is known at this time.
+
+Halley's Comet on February 14, 1984: R.A. 06 hr. 04.3 min; Dec.:+11° 07'.
+Distance from Sun: 7.89 AU. Distance from Earth: 7.26 AU. Magnitude: about
+21.0.
+
+Ephemerides:
+
+Date         R.A.        Dec.     Elong.    Mag. Est.
+Periodic Comet Crommelin (1983n)
+01-31     23h20.7m     +04°32'    44°      10.3     This comet brightens in
+02-05     23h43.4m     +03°51'    43°       9.9     the evening sky in Pisces &
+02-10     00h07.5m     +02°57'    43°       9.7     Cetus. It's close to the
+02-15     00h33.0m     +01°45'    43°       9.4     Sun so you should get out to
+02-20     00h59.8m     +00°15'    44°       9.3     see it soon after twilight.
+02-25     01h27.6m     -01°32'    45°       9.2     This comet moves rapidly
+03-01     01h56.5m     -03°36'    47°       9.2     against the stars. It may be
+03-06     02h26.4m     -05°52'    50°       9.3     brighter than predicted.
+
+Periodic Comet Encke
+01-31     23h38.2m     +06°06'    48°      13.3     This comet brightens in our
+02-05     23h46.2m     +06°48'    45°      12.9     evening sky and may be a
+02-10     23h54.7m     +07°34'    42°      12.6     sixth mag. object in March
+02-15     00h04.0m     +08°23'    40°      12.2     but by then it will be
+02-20     00h14.0m     +09°14'    37°      11.7     close to the Sun. Dr. Marling
+02-25     00h25.0m     +10-07'    35°      11.1     points out that this comet
+03-01     00h36.0m     +11°00'    33°      10.5     & Comet Crommelin will be
+
+3
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3nxgppBaYthDiyUt4'}]
+# 03-06    00h48.9m    +11°48'    31°    9.8    within 3° of each other
+                                           in early February.
+
+Periodic Comet Hartley-IRAS (1983v)
+01-03    20h47.0m    +23°59'    42°    11.1    This comet moves north
+02-10    20h47.5m    +28°44'    45°    11.2    at a constant rate of
+02-20    20h47.5m    +34°00'    49°    11.3    about 0.6°/day. It is
+03-01    20h46.4m    +39°57'    55°    11.4    technically in the morn-
+03-11    20h43.0m    +46°41'    62°    11.5    ing sky but observable
+                                           in the evening, too.
+
+PAST DISCOVERIES:
+
+A mystery in comet discovery is that they are not found at regular intervals,
+even though comet hunters are constanly looking for comets. Here is a break-
+down of comet discoveries by amateurs:
+
+        1975:  7     1976:  2     1977:  1     1978:  7     1979:  3
+        1980:  4     1981:  0     1982:  1     1983:  3
+
+Nor is there an even distribution of comet discoveries by month:
+
+Month      Morn. Disc.  Even. Disc.      Total
+Jan.           0            1              1
+Feb.           1            1              2
+Mar.           1            1              2
+Apr.           0            1              1
+May            2            0              2
+June           1            1              2
+Jul.           2            1              3
+Aug.           0            0              0
+Sep.           1            3              4
+Oct.           5            0              5
+Nov.           1            1              2
+Dec.           3            1              4
+
+TOTAL         17           11             28
+
+We find that ten comets were found in the first six months of the year,
+with 18 found in thelatter half of the year. Worldwide weather may have
+someting to do with this, but more important, perhaps, is the fact that the
+morning sky in the autum reveals more near-sun area to the Northern Hemi-
+sphere observers. This is due to longer periods of darkness each morning
+and the additional southern sky visible as the ecliptic rises higher in the
+sky.
+
+What do comet hunters do on Monday evenings? Apparently not comet-hunt as
+these figures show.
+
+Day    Morn.    Even.    Total
+Sun.     1        1        2
+Mon.     5        0        5
+Tues.    3        1        4
+Wed.     2        4        6
+Thur.    2        3        5
+Fri.     1        1        2
+Sat.     2        2        4
+
+Total 16        12       28
+
+These show the times of the first discoveries of the comets, co-discoverers
+are not included here. One comet: IRAS-Araki-Alcock was found by Araki in
+the evening sky although it was in the morning sky and coutns as a morning
+comet. Incidently, Rolf Meier found all three of his comets on Wednesday
+evenings.
+
+                                                        Don Machholz
+
+                                                                            6
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3oSxi9XMNub5M7XPw'}]
+# CALENDAR
+
+**Feb. 4** Star party at Henry Coe State Park (Directions are on back). The gate will be locked with the SJAA combination lock. Use 4565 to open. It's best to arrive before dark so you can find a place to set up easier. If you arrive after dark, please park at the gate and walk up first to scout out a place. Always lock the gate after yourself, coming and going.
+
+**Feb. 11** General Meeting. Our speaker will be Jeff Scargle, talking to us about "Activity in the Crab Nebula." Jeff is a return speaker and his topic should be one of interest for the members and friends. University of Santa Clara, Alumni Science Hall, room 202. Note the change in room number. It is directly upstairs from the previous one. 8:00 PM. Everyone welcome.
+
+**Feb. 18** Indoor Star Party at the Los Gatos Red Cross building. (Directions are on back). 7:30 PM on. There will be a Board Meeting at 8:00 PM. Everyone is welcome to attend. We will have a star party in the parking lot if the weather cooperates!
+
+**Feb. 25** Star Party at the Sanbourn County Park, upper parking lot. This is a local sight many of us favor for close in winter star parties. To get there, take Hwy 9 towards Saratoga, turning right towards Big Basin at the intersection in Saratoga. Proceed to the white bridge and turn left once you've crossed it. (There's a campground on the right). If there's a lock on the parking lot gate use 4565 to get in.
+
+If the weather doesn't cooperate, there will be an indoor star party at the Los Gatos Red Cross building.
+
+**Mar. 3** Star Party at Fremont Peak State Park. (Directions on back).
+
+**Mar. 9** Electronics Oriented Astronomy seminar at Cypress College in Orange County. Sponsored by the Orange County Astronomers. For more information contact John Sanford, 2215 Martha Ave., Orange, Ca. 92667. Registration fee is $15.
+
+**Mar. 10** SJAA General Meeting, University of Santa Clara, Alumni Science Hall, room 202. 8:00 PM. Subject to be announced.
+
+**Mar. 14** "The Stars: Their Birth, Life, and Death", is a series by William Kaufmann, sponsored by the Astronomical Society of the Pacific, to be held at UC Berkeley March 14, 21, and 28 from 7:30 to 10 PM. For more information write: Kaufmann Lectures, A.S.P., 1290-24th Ave., San Francisco Ca. 94122.
+
+**Mar. 17** Indoor star party at the Los Gatos Red Cross building. 7:30 PM on. Board meeting at 8:00 PM.
+
+**Mar. 24** Indoor Star Party at the Los Gatos Red Cross building. 7:30 PM on.
+
+**Mar 30-Apr. 1**
+Messier Marathon at Loma Prieta. Details in the Ephemeris.
+
+**Mar. 31** Star Party for those who don't want to go to the Messier Marathon at the J.D. Grant Ranch County Park.
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3oxy9FPHWzdUASSXT'}]
+DIRECTIONS & MAPS TO ALL SJAA REGULAR EVENTS
+
+General meetings:
+
+University of Santa Clara, Alumni Science Hall, room 102
+Heading north on Hwy 17, exit at Bascum/Washington Ave (north), proceed
+to Franklin, then turn right.
+Heading south on Hwy 17, exit at the Alameda (north), proceed to Franklin,
+then turn left.
+Go two blocks and turn left into parking lot. Alumni Science Hall is the
+3 story building that borders the east end of the lot. Room 102 is on the
+ground floor and is best gotten to by entering the first door on the right
+side of the building when walking in from the parking lot.
+
+[THIS IS FIGURE: Simple map showing The Alameda, Alumni Science building, Park Ave, and connection to Hwy 17 and Bascom]
+
+Indoor Star Parties:
+
+Los Gatos Red Cross Building, 18011 Los Gatos-Saratoga Rd., Los Gatos
+From Hwy 17 south take the Hwy 9 (Saratoga) exit and continue up Los Gatos-
+Saratoga Rd. for about 1.5 miles. Turn right at Rose Ave., and turn right
+immediately into the parking lot of the Red Cross Building.
+
+[THIS IS FIGURE: Simple map showing Los Gatos-Saratoga Rd intersection with Hwy 17, University Ave, and Rose Ave, with Red Cross building marked]
+
+Henry Coe State Park:
+
+Take Hwy 101 south towards Gilroy and take the East Dunne exit. Continue
+east towards the hills (past Anderson Reservoir) for about twelve miles
+to the park. Past the park entrance you will see old ranch buildings on
+the right and a horse trough on the left. The gate to the SJAA site is
+on a dirt road just before the trough. The gate is locked but the club
+combination is 4565. Always lock the gate after yourself. If arriving
+after dark, please park outside gate and hike in first to find an obser-
+ving site before driving in. Parking lights only after dark, please.
+
+[THIS IS FIGURE: Map showing COE area, Hwy 101 South, Gilroy, bypass section, and roads to campground and San Luis area]
+
+Fremont Peak State Park:
+
+Take Hwy 101 south towards Salinas. Take Hwy 156 East (San Juan Bautista)
+for two miles to a yellow flashing light. Turn right and go about ¼ mile
+to were road curves slightly to left and splits. Stay left for about 50 yards
+and then bear right when road splits again. Follow road for about 11 miles
+into park. SJAA sets up at Coulter Camp overflow area - it's visible as you
+drive up into main area of camp. Parking lights after dark, please.
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3pSVF1RBBTCrscbhk'}]
+OBSERVATORY PLEDGE FUND
+
+For several years now the SJAA has been talking about a permanent observing site, this site to possibly include a permanently housed telescope for use by members and friends. Some work towards this goal has been accomplished in the form of fund raising through the yearly astronomical auction. Progress has been slow but steady. Now the time has come for all members to show their support and help make the Observatory Project a reality. Consider the following:
+
+The pricipal goal of this project is to obtain a site to permanently house a 30 inch equatorially mounted reflecting telescope for use by the club members and friends. The telescope is currently under construction by Kevin Medlock. The possibility of housing more than one large instrument exists, as well as providing a meeting place for the SJAA. Also, at the site a series of concrete pads could be constructed for members to set up personal instruments to carry out their various observing and photographic programs. Along these lines the permanent building would provide a place to warm up between observations, perhaps a few cots to catch a few hours sleep, or even a small darkroom to develop that (hopefully) incredible 4 hour astrophoto you just shot! The possibilities here are endless and your input as to what you would like to see at the site is going to be requested and welcomed.
+
+The SJAA would like to here from its members suggestions as to where the site should be, keeping in mind accessability and dark, or relative dark, sky conditions. (Remember, not everyone is willing to drive 3 hours to get to a site.)
+
+This is not going to happen overnight and we hope the ideas presented above get you excited andmake you want to help make them a reality.
+
+Towards these goals the SJAA has set up a pledge program to raise funds for the observatory project. We are asking members to pledge to the project a contribution' of $5, $10, $15, $20, or more a month for the next 12 months. The funds raised are to be used only for the observatory project. The goal for the first year of this pledge program is to sign up the equivalent of 50 members pledging $20 a month. Over the next 12 months this could raise $12,000 towards making this project a reality. Please support this project. We need your ideas and suggestions. We need your pledges.
+
+The Board of the S.J.A.A.
+
+[Form section:]
+I _________________________________ pledge [ ] $5, [ ] $10, [ ] $15,
+[ ] $20, [ ]$ _____ a month for the next _______ months. I understand that
+the funds raised are to be used solely toward establishing a permanent site
+for the S.J.A.A.
+
+                                    _____________________     _________
+                                          signed              date
+
+Please make checks out to the San Jose Astronomical Association and mail to:
+                        Robert Fingerhut
+                        340 Rio Verde Place #4
+                        Milpitas, Ca. 95035
+
+10
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3pw1N73W1LamoYZWj'}]
+# SKYWORD
+by
+FRED BRANIFF
+
+## CLUES DOWN
+
+1. A submarine
+2. Not the mysterious but a covering action
+3. Cygnus, Aquilae
+5 Reflector type
+6. Soun of Saturn
+7. Brightness
+9. Mount type
+10. Cellullod
+13. Serpent holder
+15. The 6583.3 day period
+16. 10⁻⁸ centimeters
+18. Delta Scorpii
+19. The way of one down
+21.
+23. Planet images
+25. An old name for Denebola
+26. Berenice has some
+
+## CLUES ACROSS
+
+1. A moon of Saturn
+4. -------- conjunction
+8. The Lizard
+11. Grasp
+12 Lunar Valley
+13. Surrounds Trapezium
+14. Another of Saturn's
+17. Opposite Zenith
+19. 1853-2620
+20. N
+22. Vernal Equinox
+24. Adjustable eye hole
+27. Son of Zeus
+28. Greek 11th
+29. Chronology
+30. Base over the hypotenuse
+31. Atmosphere
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3qQHUhY5GUzuarKLA'}]
+SPACE PROGRAM UPDATE
+BY BOB FINGERHUT
+
+Shuttle Mission 41-B (STS-11) Scheduled for February 3
+
+On this eight day mission, the five astronauts will deploy two communications satellites, Palapa B-2 for Indonesia and Westar 6 for Western Union. They will practice for the repair of the Solar Maximum satellite in April and the Landsat 4 satellite also. To do this they will deploy a pallet and practice aquiring and rendezvousing with it. They will fly up to 300 feet from the shuttle using the new manual maneuvering units and practice docking the maneuvering units with the rotating SPAS pallet. The SPAS will be deployed and retrieved with the shuttle's remote manipulator arm. The astronauts will ride atop the arm and practice the activities necessary to repair the Solar Maximum satellite. They will also practice a satellite refueling process that will be needed for repairing Landsat 4 in October, 1985. It is planned to land the Columbia at the Kennedy Space Center for the first time.
+
+Columbia/Spacelab Failures Identified
+
+The failure of the two computers on Columbia has been traced to small metal particles sandwiched between electronic components. Two of Challenger's computers are being screened to ensure that they do not contain any foriegn particles. The two APU's that leaked and caught fire during the Mission 9 reentry have been found to have propellant line cracks and leaky seals. Both are due to age and the APU's running warmer than expected. For the next flight Challenger will use new APU's from Discovery.
+
+Comet Mission Performs Critical Maneuver
+
+The International Sun-Earth Explorer, ISEE-3, passed within 62 miles of the surface of the Moon on December 22 to obtain a gravity assist. It is scheduled for a September 1985 intercept of the comet Giacobini-Zinner. This was the last critical maneuver for the spacecraft, which has been renamed the International Cometary Explorer.
+
+Soviets Launch U.S. Sensors on Satellite
+
+The Soviets launched a biological satellite on December 14 carrying a monkey eqipped with NASA sensors and two other Russian experiments with U.S. contributions. The monkey carried a carotid artery sensor to study the performance of the cardiovascular system in xero-g. The effects of zero-g and space radiation on rat embryos is also being studied.
+
+Soviets Test Winged Spacecraft
+
+The third orbital test flight of a unmanned subscale winged shuttle-type spacecraft was made the last week in December. It was recovered successfully inthe Black Sea.
+
+IRAS Discovers Material Orbiting Fomalhaut
+
+Scientists studying data from the now inactive IRAS satellite have found solid material around the star Fomalhaut. The size of the material is thought to range upward from the size of grains of sands.
+
+Enterprise May be Displayed at Louisiana 1984 World Exposition
+
+NASA is considering giving permission for Enterprise to be displayed in New Orleans from May 12-November 11.
+
+Weather Stations Will Not Be Sold
+
+An appropriations bill with a prohibition against selling the U.S.'s weather satellites to private industry has been signed by President Reagan.
+
+Space Station Decision Possible January 24th.
+
+President Reagan may request the start of a U.S. Space Station project when he gives the State of the Union speach this year. It is also possible that he will commit to a return to the Moon , but this is less likely.
 
 === PAGE 13 ===
-[Error extracting page 13: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3quo6KcCVsCHyxPmy'}]
+ADS
+
+Wanted: New Bulletin Editor. Job duties include assembling, typing,
+and writing articles for the SJAA Ephemeris. No experience necessary.
+Typing a definite asset but not required. Does require about one free
+week of evenings a month. South Bay locale desirable because of proximity
+to post office. Person must be willing to write articles about club events
+when no one else will. Will be working with a lot of other people who
+are willing to do typing, leg work, artwork, assembly, etc. Rewards:
+a lot of fun and knowledge of what's happening in and about the club.
+The SJAA Ephemeris has had national recognition time after time. How
+would you like the opportunity to contribute to that? If interested,
+please call Denni Frerichs at (415) 654-6796.
+
+(Present bulletin editor is not paniced YET. However, with a new daughter
+and school responsibilities we aren't sure how long the calm is going to
+last. Also, it is felt that consolidation of the editor, printer, labeling,
+assembly, and mailing into the south bay area and not spread throughout
+the Bay Area as it now will help get the bulletin out earlier in the
+month to our members.)
+
+*******************************
+
+For sale: Meade Model 826, 8" f/6 reflector, with moter drive, 50mm Celes-
+tron Plossl (no 2"), 5-Meade 1¼" filters (#24A, 8, 47, 23A, polar), Meade
+1¼" camera adapter T-ring for Nikon, Atlas 2000 field edition.
+
+All for $500. Call Michael Worsham at (408) 371-1608
+
+_________________________________
+
+For Sale: C-8 with special coatings, 3 eyepieces, 8X50 finder, solar
+filter, adjustable tripod, accessory tray, dew cap. 1 year old. $750
+
+Accutrak 2120 Dual-Axis drive corrector, $150.
+
+Lumicon Cassegrain Easy-Guider with f/5.6 Telecompressor, $150.
+
+Lumicon Solar prominance filter (Hydrogen-Alpha), $250.
+
+Call Steve Mandel at (408) 425-0930
+
+*******************************
+
+Celestron C-90 with 5X24 viewer, 18mm ocular, Barlow, extender, star dia-
+gonal, case. Rarely used. Asking $275.
+Call Ken Gardner at (408) 266-4616
+
+*******************************
+
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│ EPHEMERIS is published monthly by the San Jose Astronomical Association,│
+│ 3509 Calico Ave., San Jose, Ca. 95124                                 │
+│                                                                        │
+│ Officers:                                                             │
+│ President    Dave Ambrose    816 Everett St., El Cerrito, Ca. 94530  │
+│              (415) 524-0869                                           │
+│ Vice-Pres    Denni Frerichs 15022 Broadway Terrace, Oakland, Ca. 94611│
+│              (415) 654-6796                                           │
+│ Sec.         James van Nuland  3509 Calico Ave., San Jose, Ca. 95124 │
+│              (408) 371-1307                                           │
+│ Treas.       Robert Fingerhut  340 Rio Verde Pl., #4, Milpitas, Ca. 95035│
+│ Board of Directors:                                                   │
+│ Paul Mancuso      (408) 946-0738          Steve Greenberg    (415) 443-6638│
+│ Tom Ahl           (408) 997-1383          Gene Cismeros      (408) 923-6800│
+│ Jim Eiselt        (408) 984-8687          Chris Pratt        (415) 629-2994│
+│ Bulletin Editor: Denni Frerichs, 15022 Broadway Terrace, Oakland, Ca. 94611│
+└────────────────────────────────────────────────────────────────────────┘
 
 === PAGE 14 ===
-[Error extracting page 14: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3rTYB5Wo3fMtCyZ1X'}]
+Commercial ads are priced according to size and may be placed by contacting:
+Gene Cisneros at (408) 923-6800.
+
+LUMICON®
+"Innovation In Astronomy"
+Visit or call LUMICON
+for the most complete selection
+of IN STOCK Telescopes and
+Accessories in the West.
+
+WORLD CENTER FOR
+★ ASTROPHOTOGRAPHY ★
+
+(415) 447-9570
+2111 Research Dr #5E,
+Livermore CA 94550
+
+Note: Models NGC2238 in Monoceros. This Hum-
+bel region is a beautiful deep red color in excellent
+8 o'clock UHC Filter. "Prato by Dr. J. Warning using
+Red CLIO-C Red CLIO" is Mounted on Excellent
+Lum ground in LUMICON Model SIX0 HI-TECH
+Mini prepared by Dr. Joseph LUMICON Astronomical Easy-GUIDER®.
+
+ATA coatings
+
+15022 BROADWAY TERRACE, OAKLAND, CA 94611
+
+Specializing In Aluminum Coatings with silicon monoxide
+over-coating for telescope mirrors.
+
+4¼"          $8.00
+6"           $12.00
+8"           $16.00
+14½"         $28.00
+16"          $50.00
+
+10"          $20.00
+12½"         $24.00
+
+Secondaries, when sent with primary mirror, free.
+To remove old coatings $3.00. Minimum charge $8.00.
+Include postage and insurance for return mail.
+Mirror will be shipped in container received.
+
+[THIS IS TABLE: Bottom border showing company names]
+BUSHNELL OPTICAL | UNIVERSITY OPTICS | EDMUND SCIENTIFIC
+CELESTRON
+ACCUTRACK
+LUMICON
+
+OPTRON SYSTEMS
+Everything For Astronomers
+
+Visit Our Showroom Soon!
+
+704 Charcot Avenue, San Jose, CA 95131 USA (408)946-4797
+
+MEADE | KALT CORPORATION | STAR ATLASES | TELE-VUE OPTICS
+
+DYNAMAX
+ODYSSEY
+SWIFT
+SWIFT INSTRUMENTS
 
 === PAGE 15 ===
-[Error extracting page 15: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3rupNVt8pPyeQNNm4'}]
+NEWS MATERIAL
+
+TIME VALUE - DATED
+
+SMA EPHEMERS
+3509 CALIFORNIA
+SAN JOSE, CA. 95124
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO.5381
+SAN JOSE, CA. 95125

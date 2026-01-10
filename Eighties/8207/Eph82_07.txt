@@ -1,29 +1,576 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yqA35wHChSDAK83Yp'}]
+# the san jose
+# astronomical association
+
+**Bulletin**
+
+**July 1982**
+
+## Ephemeris
+
+**July 3** No scheduled SJAA activities due to the holiday weekend, but several members are planning to attend the fourth landing of Columbia, scheduled for July 4th.
+
+**July 9** Board Meeting. At Gene Cismeros' Opt-on Systems store, 704 Charcot, San Jose. Call Gene at (408) 923-6800 for directions.
+
+**July 10** SJAA Annual Picnic. Installation of new SJAA officers; presentation of the A.B. Gregory Award. At Portal Park in Cupertino, beginning at 11 am.
+
+**July 17** Star Party at Fremont Peak. The SJAA traditionally sets up at Coulter Group Camp for visual observations. See map elsewhere in this Bulletin.
+
+**July 24** Star Party at Mt. Umunhum. Please do not arrive before 6 pm! The gate will not have our lock on it until then, and the caretaker will not allow individuals in before then. Combination for the SJAA lock is #565; please remember to RE-LOCK the gate after you enter. We set up 'scopes on the helipad. (Read toward the large radar building, and then veer left.)
+
+**July 25** Space Day. Doug Buettner would like volunteers to run solar telescopes at De Anza College; please call him at (408) 997-1783 for more information.
+
+**July 31** Indoor Star Party; Los Gatos Red Cross. Going-away party for Gerry Rattley, and a star party in the parking lot. 7:30 pm on.
+
+**August 7** General Meeting. "Light Pollution" -- by someone who won a battle against it! Our speaker will be Dr. Sandra Faber of Lick Observatory. NOTE: THIS MEETING WILL BE HELD AT THE LOS GATOS RED CROSS, NOT AT DE ANZA COLLEGE! 8 pm.
+
+**August 13** Board Meeting; at Optron Systems (see July 9th listing).
+
+**August 14** Star Party at Henry Coe State Park. As usual the SJAA lock code is #565 (as in NGC #565, the famous "Combination Galaxy"). This is only two days past the peak of the Perseid meteor shower, so plan on spending a lot of time on your back.
+
+**August 21** Star Party at Fremont Peak State Park, at Coulter Group Camp.
+
+**Aug. 27-29** AAA/AANC/NASA joint Conference on Astronomy at NASA Ames Research Center in Mountain View. Space is filling fast (!). See application form included in this Bulletin.
+
+No scheduled SJAA club activities this weekend.
+
+**Sept. 4** Indoor Star Party; Los Gatos Red Cross building. 7:30 pm.
+
+**Sept. 10** Board Meeting. Don van Zandt's, 168 Waverley, Palo Alto. (415) 327-3158 for info.
+
+**Sept. 11** General Meeting. Dr. Sy Stein of Ames Research Center will discuss past and present space medicine research. Room S-34 at De Anza College; 8 pm.
+
+**Sept. 18** Star Party at Fremont Peak. Also, the annual Tehachapi Star Party; call Denni if you're interested in convoying down.
+
+**Sept. 25** Indoor Star Party at the Los Gatos Red Cross. 7:30 pm.
+
+The SJAA Bulletin is published monthly by the SAN JOSE ASTRONOMICAL ASSOCIATION, 3509 Calico Avenue, San Jose, CA 95124. The membership year runs from July to June; dues are pro-rated if you join after June. Membership rates: $18/year for adults, $12/year for children under 12. Subscriptions to the Bulletin are available to non-members for $7/year.
+
+SJAA President: Denni Frerichs, 15022 Broadway Terrace, Oakland, CA 94611; (415) 654-6796.
+
+Bulletin Editor: Steve Greenberg, P.O. Box 262, Menlo Park, CA 94025; (415) 326-5614.
+
+BULLETIN DEADLINE IS THE 15TH DAY OF THE MONTH PRECEDING PUBLICATION.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yqwfVwgYBMNqWYCnp'}]
+# Observations
+
+**by Steve Greenberg**
+
+We struck paydirt on new contributors this month! Many thanks to them, and please let them be an example to the rest of you!
+
+At the June General Meeting, one "newcomer" and three incumbents were elected to the SJAA Board of Directors. Congratulations to Gene Cisneros, Shea Pratt, Frank Dibbell, and Steve Greenberg. Just before the new Board elected the 1982-83 SJAA officers, Rolf Strohm resigned from the Board and was replaced by Bill Cooke. Officers are now: Denni Frerichs, President; Chris Pratt, V.P.; Jim van Nuland, Secretary; and Bob Fingerhut, Treasurer.
+
+## SJAA BOARD OF DIRECTORS
+
+| Gene Cisneros | (408) 923-6880 |
+| Bill Cooke | (408) 739-8319 |
+| Frank Dibbell | (415) 746-6493 |
+| Denni Frerichs | (415) 554-6736 |
+| Steve Greenberg | (415) 326-8614 |
+| Chris Pratt | (408) 629-2654 |
+| Shea Pratt | (408) 629-2654 |
+| Jim van Nuland | (408) 371-1387 |
+| Jack Zeiders | (408) 246-6189 |
+
+**Volcanic Ash Obscures the Stars.** So says a small article gleaned from a May, 1982 Chronicle. "Volcanic ash, combined with a problem of pollen fallout on telescope mirrors, has dimmed the view of astronomers and caused temporary telescope shut-downs, Kitt Peak National Observatory announced yesterday."
+
+I've noticed the same problem every spring from February to May. Chief offenders are the acacia trees. (Contributed by Donald D. Stone.)
+
+**Astronomical Real Estate Bargains: Pt. II.** If you thought that last month's real estate bargains on Mercury were hot, wait till you read this one: The next star you wish upon could be your very own. Prices for transportation to your property would be out of this world, but the property itself is reasonably priced. Quitclaim "deeds" are being offered by Boston's Museum of Science and the Charles Haydan Planetarium, as fund raisers. For $10 (tax-deductible), the museum will sell you a deed to a real and already catalogued Milky Way star.
+
+Besides identifying your specific star, the deed gives you "Rights of Way" through the Milky Way, and it is suitable for framing. Even though the stars are really hot real estate (several thousand have already been sold), the museum reports that there are still lots left.
+
+To purchase your star, write to: Star Sales, Museum of Science, Science Park, Boston, MA 02114.
+
+**Why Hardly Any Other Name Would Still Stick the Same.** Not having a famous name such as Gauss, Cauchy, Riemann, or Euclid, I had never found a single mention of a Geenberg's postulate, space, integral, or theorem in over 30 years of reading and working in the sciences and mathematics. The fact that no Greenberg had made a really BIG historical splash in the discoveries department became somewhat vexing to me a few years ago, so I decided to put the whole matter on a back burner until I could do something about it. However, let's too late for me now! I've been beaten to it. However, all the Greenbergs of the world can still rejoice: For, now there is:
+
+[THIS IS FIGURE: A grainy black and white photograph showing what appears to be a comet or celestial object]
+
+**Greenberg Glue.** Perhaps the best way for us to infer the structure and chemical makeup of a comet, short of tracking out to one and sampling it, is to model it in the laboratory. That is precisely what J. Mayo Greenberg has been doing recently, at Leiden University, in the Netherlands.
+
+At the University of Chicago in the 1950s, Stanley Miller mixed a "primitive atmosphere", composed of simple gases (including methane and ammonia), in a flask. He and Harold C. Urey discovered that by passing sparks through the mixture, the simple gases combined into very complex organic compounds. In other variants of this classic experiment, ultraviolet light has been used as the energy source. Miller, and many others, have thus shown that biologically produced chemicals (such as amino acids) could conceivably have arisen non-biologically on the early earth, and then perhaps "evolved" into self-replicating molecules and primitive life.
+
+In the 1970s, Greenberg has done a similar experiment, which mimics conditions in the dark, ultra-cold interstellar gas and dust clouds, where stars and comets are thought to form. Greenberg believes that simple organic gases collide with (and stick to) tiny particulates ("cores"), forming icy mantles on the "cores." Comets are probably metallic oxide particles and ice (silicates), in the 0.1-micron size range. However, these icy mantles can themselves remain single ices for long. Greenberg believes that, even in dense clouds, there is enough ultraviolet light striking the ices to break chemical bonds in them, producing high-energy free radicals. Some of these may combine with neighboring molecules to form more complex substances. These "ultraviolet processed" core/mantle grains will eventually accrete (along with other bare, 0.1-micron, refractory grains) into comets. According to this model, comets would consist (by volume) of: 5% bare refractory grains; 5% silicate "cores"; and 90% "processed" ices.
+
+To simulate conditions in the dense clouds, Greenberg built a small glass-windowed vacuum chamber, which he could cool to ten degrees above absolute zero (10 K). He inserted a glass rod (the equivalent of the interstellar refactory grains) into the chamber. He calls this rod a "cold finger". Then he introduced carbon monoxide, ammonia, water, and
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yrb7VJdhsUd9ihnAY'}]
+carbon dioxide gases into the chamber (all of which
+condensed out onto the glass cold finger). In the
+next few hours, he irradiated the mixture with an
+amount of ultraviolet light equivalent to that which
+the cloud grains should receive over a period of
+thousands of years: a short, perhaps a week; or their
+estimated life spans of 10⁵ years. After the
+irradiation was stopped, Greenberg was left with
+either a yellow viscous fluid or a solid, made of
+very complex organic molecules. He called it "yellow
+stuff". But, at last March's Tucson conference on
+"Comets and the Origin of Planets", it was
+christened "Greenberg glue", perhaps because in
+comets, it would be the cement between the solid
+"cores".
+
+As Greenberg heated this material from 10 K to
+only 40 K, a remarkable thing happened. It began
+glimmering, at the stored energy of the recombining
+free radicals and molecules radiated as visible
+light. Greenberg brought a movie of the process (see
+photo) to the conference. Like something out of a
+science fiction film, as it slowly "warmed" up, his
+glue fluoresced eerily. It shimmered, popped, and
+boiled as if it were alive. Then, unexpectedly, an
+explosion! A flash of light: a pulse of pressure in
+the vacuum; and afterwards; a mini-crater where the
+unstable glue had rested on the cold finger only an
+instant before. The audience's attention was riveted
+to the film, and they bombarded Greenberg with a
+fusillade of questions afterwards.
+
+If Greenberg glue is actually found in comets,
+the implications are great. Such a substance could
+account for the anomalous activity of comets that
+are still quite far from the sun. Could the glue
+help explain the prodigious outbursts of periodic
+comet Schwassmann-Wachmann 1 beyond the orbit of Jupiter? The cosmologists pondered in small groups.
+They knew that at the conference Harlie Moore and
+Bertram Donn had reported that much the same kind of
+substance formed after similar ices were bombarded
+with protons, instead of ultraviolet light. But,
+whisper ("father" of the "icy" comet theory) wondered aloud, how long does it take for light or
+protons jets, such as those observed in bright
+comets like p/Swift Tuttle 1862 III. And, if the
+answer were yes, how do the jets turn off? Greenberg
+himself was cautious. He was unconvinced that his
+glue was stable in comets, and he worried that it
+might decay to less energetic states over times as
+long as the age of the solar system, through
+quantum-mechanical tunneling effects. Nonetheless,
+his glue appeared to be "sticking" in many
+cosmologists' thinking.
+
+Adapted from The Comet News Service, No.81-2,
+Apr. 23, 1982.
+
+Riverside!
+
+by Jeff Horne
+
+Big, really big! That is the only way to describe some of the telescopes that were at the
+Riverside Telescope Maker's Conference this year.
+There were no fewer than four telescopes at least 20
+inches in diameter, and at least another half dozen
+in the 17-inch class. The biggest of the bunch was
+the much awaited 29-inch Dobsonian from Coulter Optical Co. This telescope, dubbed the Cosmos 1, gave
+
+fair images, but I think the 24-inch had better
+views. The sheer size of these optics made it possible one night to refuse to look through any telescope less than 17 inches in diameter. Big
+telescopes were not always so common, however.
+
+In 1969, when I first joined an astronomy club,
+big optics were almost nonexistent. I remember the
+largest telescope anyone owned was an eight inch,
+and the club project was so build a "monstrous"
+12-1/2 inch Newtonian. One summer, while at a star
+party, I had the opportunity to view objects through
+a 14-inch Cassegrain, the largest telescope most
+people had ever seen outside of a professional observatory. Also, during that night, I had the privilege of looking through one of the two Celestrons
+on the field. Drive correctors were almost unheard
+of at that time, and even simple inverters were not
+common.
+
+Telescope makers seem more knowledgeable about
+their craft these days. Mirror making seems as much
+an art as ever, but there seem to be far more people
+who can provide competent help if it's needed. Similarly, myriads of companies are eager to provide
+telescope makers with everything from raw materials
+to finished products.
+
+Telescope making seems to be traveling in two
+directions at once. One trend is toward high technology telescopes, with aspheric multiple mirrorlens systems exquisitely machined, and dripping
+with electronic gear.
+
+The other trend is toward simple (but still
+elegant) systems of the Dobsonian design. While this
+trend has pushed the advent of large optics, it has
+also allowed many amateurs to start their hobby with
+a minimum of investment leading to a maximum of
+enjoyment.
+
+But, back to Riverside. Some of the more novel
+telescopes on display included one that spoke its
+position with synthetic speech, one with a tube made
+from steel 50-gallon drums, and one mounted on a
+poncat modeled after a porch swing. Superb craftsmanship was evident in many telescopes, as well as
+sheer genius in the design of some. However big
+these telescopes seemed, it was also readily apparent that even bigger telescopes were possible and
+only another RTMC away.
+
+Astro-quotes. Part of two discussions about the
+new Coulter 29-inch Dobson:
+
+"If it rains while you're observing, five people could probably sleep in it."
+                                    Steve Greenberg.
+
+"How much is the ammo for it?"
+                                    Jay Freeman.
+
+"It's the ultimate in portablity: if you've got
+a Semi-trailer rig."
+                                    Anon.
+
+"It might have been better if Coulter had spent
+the same amount of time and effort getting out their
+thirteen and seventeen inch mirrors on time, ... and
+corrected to the right figure!"
+                                    Anon.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9ysGnntB485xsFsAb4'}]
+# The Celestial Tourist Speaks
+## by Jay Reynolds Freeman
+
+Just south of the "teapot" of Sagittarius lies the beautiful circlet of Corona Australis. Although the southernmost extremity of this constellation never rises even ten degrees above the horizon for viewers at the popular SJAA observing sites, the region nevertheless contains several interesting deep sky objects.
+
+Surely, the foremost among these is the globular cluster, NGC 6541. This sixth-magnitude object has only a small fraction of the angular extent of our northern "showpiece" globular, M13, but it is just about as bright. Consequently, its high surface brightness makes NGC 6541 show up well through the haze near the southern horizon. At 1950 coordinates of 18h 04.4m, 43°44's, NGC 6541 is prominent enough to be shown in Norton's Star Atlas. This globular must be a prize object from more southerly sites.
+
+At a more northerly position in the same constellation is a complex region of bright and dark nebulae. The three brightest lobes are listed as NGC numbers 6726, 6727, and 6729. This area is possibly one of recent star formation, with the young hot stars illuminating the remnants of the dust clouds from which they condensed. There three bright lobes did indeed look like stars in blobs when I viewed them through my Celestron 14 at 122x. The 1950 coordinates for the region are 18h 58.3m to 18h 51.4m, 36°57'S to 37°01'S.
+
+Burnham's Celestial Handbook lists one planetary nebula in Corona Australis: IC 1297, at 19h 11.0m, 39°42'S (epoch 1950). This tiny (two arc-second) magnitude 11.5 object appeared round and homogeneous in the C-14 at 313x.
+
+It takes both patience and timing to observe objects located so far south that they never rise more than 10° or 15° above the horizon. Patience, because you must wait for a night when the air is particularly transparent and dust-free; and timing, because on that night, you must make your observations during the hour or two when the objects are nearest to the upper limit of their brief celestial passage. The problem becomes worse as you peer farther into southerly skies. During the May star party at Mount Damunum, several persons were able to observe the great southern globular cluster Omega Centauri, but we had to peer between swiftly-moving clouds during an interval of no more than an hour.
+
+During the last several months, I have continued to try to observe deep-sky objects (through the skyglow above Belmont) with various apertures. It can be done. I was able to find all the Messier galaxies in Virgo, Coma Berenices, and Canes Venatici with a three-inch refractor. But, there is no doubt that more aperture helps a lot. It also helps if the object you are looking for is not too far from the zenith. With the three-inch, I could not find either M68 (a moderately easy globular cluster) or M83 (a big fuzzy spiral galaxy). These are in southern Hydra, well down in the skyglow, near the southern horizon. Yet, out in the boondocks both of these objects were easy with the three-inch.
+
+And, Still More about Eyepieces. This time I will discuss some of the things you get in an eyepiece, and some of the things you pay for.
+
+The first thing that anybody wants to know about an eyepiece is, what is its focal length? That's important, because the magnification of a telescope is the ratio of its focal length to the focal length of the eyepiece being used. Thus a six-inch f/8 Newtonian, with a focal length of 1200 mm, is used with a 25 mm eyepiece, the magnification is equal to 1200/25, or 48X.
+
+If you look through a number of catalogs, you will find that for a given type of eyepiece design (Kellner, Orthoscopic, etc.) there is usually no extra expense for very short focal lengths. However, there may be a premium for very long ones. On closer inspection, though, the premium seems to have more to do with the physical size of the eyepiece than with its focal length. Possibly, this is because a huge eyepiece in a two-inch barrel needs more glass, more machining, and more labor to manufacture than a smaller unit.
+
+Now, imagine that you are looking through an eyepiece toward one edge of the field of view: not at the center of the field. Swivel your eyeball so that you are looking at the opposite edge of the field of view. The angle through which your eyeball just rotated is the eyepiece's apparent field of view. A large field of view makes it easier to find things when sweeping, allows easier inspection of large objects, and provides a somewhat more aesthetic view: like looking through a porthole rather than through a tunnel. On the other hand, eyepieces with large fields of view tend to be rather complicated designs—lots of glass pieces that have to be held to close tolerances. Thus, they tend to be expensive. I am inclined to think that large apparent fields of view are much less important in low-power eyepieces (for sweeping and looking at faint fuzzies) than in high-power ones. (When we look at a double star or a planet, we tend to center it in the field of view anyway.)
+
+Focal length and apparent field of view are simple numbers. But, image quality (the most important aspect of eyepiece performance) is not so easy to quantify. Image quality subdivides into two topics: image quality near the center of the field of view, and image quality out at the edge. I have already mentioned that it is more difficult (and more expensive) to make an eyepiece with a wide apparent field of view than with a narrow one. But, there is more to it than just that. It turns out that it is much more difficult to make an eyepiece that will give good images with a "fast" telescope (small f/number) than with a "slow" one. These two effects combine. It is easy and cheap to make an eyepiece with a modest apparent field of view (e.g., 40°) that gives good images with an f/15 refractor. It is difficult and expensive to make an eyepiece with a 70° apparent field of view, which works well with an f/4 Newtonian. The problem is not that the fast Newtonian has lots of coma, either: even though it doesn't if we were using a fancy optical system, with no aberrations in the focal plane, it would still be hard to come up with an eyepiece that worked at f/4.
+
+Thus, there is a "Catch-22" in contemporary telescope design. There are lots of inexpensive telescopes that are quite "fast"; many Dobsons are f/5 and under. Most of the time, these will require very expensive eyepieces (Orthoscopics, Erfles, Plössls, and the like) to work well. More expensive telescopes tend to be slower. Schmidt-Cassegrains, Maksutovs, and refractors are normally at least
+
+See pag. 5
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yst12v3meBbtA5syd'}]
+# Comet Comments
+## by Dan Machholz
+
+Two returning comets have been recovered, both of which will be visible with smaller telescopes later this year. No bright comets are presently visible, but I will give the ephemerides for Comets Bowell and Grigg-Skjellerup for the next few weeks.
+
+**Periodic Comet D'Arrest (1982e).** This comet was recovered by J. Gibson of Palomar on April 23rd, and confirmed by E. Everhart of Colorado on May 16th. This 19th magnitude comet is presently in Serpens Caput, and will continue moving southwest before curving to the southeast. In mid-September, at about magnitude 10.5, it will enter Sagittarius and continue to brighten. It might reach 9th magnitude in October. (I will write more about this comet in future columns.)
+
+**Periodic Comet Churyumov-Gerasimenko (1982f).** This comet was also recovered by J Gibson, on May 31st, when it was a 19th magnitude object. It may also get as bright as 9th magnitude, in November of this year. It is presently in Gemini, and will move (in late October) through the field of M1, and will only be 30 million miles from earth. (More will appear about this comet in future issues.)
+
+**Great Comets.** Comet Ikeya-Seki (1965VIII) was discovered on September 18th, 1962, by Kaoru Ikeya and Tsutomu Seki of Japan. These two comet hunters found this 8th magnitude object in the morning sky within 15 minutes of one another. This comet is a member of the Kreutz Sungrazing Group. There were predictions that it would brighten to 9th magnitude. As it neared the sun it became increasingly difficult to see it against the glare; and then its close passage to the sun (30/,000 miles) disrupted the nucleus. In the first part of November, it was easily visible in the Southern Hemisphere with a 40° long tail. It will return in about 880 years.
+
+## Comet Bowell (1980b)
+
+| DATE (UT) | R. A. | DEC. | MAG. |
+|-----------|---------|---------|------|
+| 06-30 | 18h 07.0m | -22°57' | 12.0 |
+| 07-10 | 18h 03.4m | -22°42' | 12.3 |
+| 07-20 | 18h 00.7m | -22°48' | 12.5 |
+| 07-30 | 17h 59.3m | -22°54' | 12.7 |
+| 08-09 | 17h 59.5m | -22°59' | 13.0 |
+
+Not far from M20, Comet Bowell is small (less than 1' in diameter) and faint. It is about 3.3 Astronomical Units (AU) from the sun, and 2.6 AU from the earth. Both distances are increasing.
+
+## Periodic Comet Grigg-Skjellerup (1982a)
+
+| DATE (UT) | R. A. | DEC. | MAGNITUDE (ESTIMATED) |
+|-----------|---------|---------|------|
+| 06-30 | 14h 42.0m | +36°14' | 11.0 |
+| 07-05 | 15h 09.4m | +34°17' | |
+| 07-10 | 15h 33.0m | +32°05' | 12.0 |
+| 07-15 | 15h 53.4m | +29°48' | |
+| 07-20 | 16h 11.3m | +27°28' | 12.8 |
+| 07-25 | 16h 27.2m | +25°09' | |
+| 07-30 | 16h 41.6m | +22°53' | 13.7 |
+
+Now pulling away from both the earth and the sun, Comet Grigg-Skjellerup is rather large and diffuse. The magnitude estimates are based on current observations and projections. It is moving from Boötes through Hercules.
+
+---
+
+## From pg. 4
+
+**£/10.** But, people who buy them also usually buy a set of gas-whizmo eyepieces. And, most of the time, they don't need them!
+
+It's obviously hard to generalize about what eyepiece types will work with which telescopes, but it is (in general) true that wide apparent fields and small f/numbers require cleverer and more elaborate eyepiece designs.
+
+# Letters to the Editor
+
+**I.** On the subject of eyepieces: What Jay Freeman says about the 35-mm Plössl and the 32-mm Erfle is quite correct. I've found these two oculars to be my most frequently used eyepieces, and for the same reasons. For my third ocular, I use the 13-mm Televue MONOSTAR, or the 16.3-mm Galco 1-1/4 inch eyepiece. Both require fine-to-superior evenings, ranking at least II on the Antoniadi scale. (In short, this scale, named after the famous Italian astronomer, is: I = Perfect seeing; II = Some quivering of the image; III = Much quivering, unusable image; IV = Poor; V = Very bad, hardly worth observing. Ed.)
+
+**II.** The Celestial Equinox is a comment on the 20-mm Erfle are correct. When using a C-8, I routinely use the 32-mm 1-1/4 inch and the 16.3-mm Galco, skipping the 20 mm.
+
+I have tried using the 7.4-mm and 10.4-mm Televue Plössls without significant success. Perhaps I am using them on the wrong objects?
+
+One item that is quite useful is the filter adapter for two-inch eyepieces, from Celestron. It's very nice to be able to change oculars without fumbling in the dark to remove filters!
+
+**II. En Passant:** I think that the dates chosen in the past for Astronomy Day are quite disadvantageous for the Western States on two grounds. For us in particular, it always seems to come during foggy periods, and it comes too late to make effective use of the Orion Nebulas. Shouldn't we be thinking of reviving a show EARLIER in the year, like early- to mid-April?
+
+(Do any readers have other comments on this subject, or weather data? Ed.)
+
+**III. Finally...** that Bulletin-without-a-name is one of my most eagerly awaited pieces of mail! Witty, humorous, and interestingly informative!! Keep up the good work, SJAA!
+
+The Oakland Amateur Rambling Rock,  
+Donald D. Stone
+
+(Thank you for your contributions to this month's Bulletin, and the compliment. Ed.)
+
+# Ads
+
+**For Sale:** C-8; coatings; wedge; tripod; Accutrak Compact two-axis; five eyepieces, Barlow, prime focus adapter, tele-extender, off-axis guider, University Optics Omniguide reticle, deluxe telecompressor; and, a Celestron-Williams cold camera. All in new condition: $1700 for everything. Contact: Gary Hethcoat, at (408) 251-4719, evenings.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9ytTUSkS6dmQMnTsPV'}]
+Space Program Update
+
+by Bob Fingerhut
+
+Fourth Shuttle Flight. All is going well for a June 27th launch of the space shuttle Columbia. The Defense Department's infrared sensor payload was in­stalled in the Columbia while it was on the launch pad, a first.
+
+The landing has been rescheduled to 9:15 AM PDT, on July 4th, so that President Reagan could have an extra hour of sleep (or a bigger TV audi­lence, or both. Ed.)
+
+After the landing, three shuttle orbiters will serve as the backdrop for the President's Space Policy Address.
+
+Second Shuttle Orbiter. The final acceptance tests on the Challenger are complete. It will be delivered to NASA before late July.
+
+Private Funding for Shuttle? The Space Trans­portation Company, which has submitted a proposal to NASA to fly the fifth shuttle orbiter now has the Prudential Insurance Company as its primary financ­ing partner.
+
+Salyut 7 Space Station. Two Russian cosmonauts are currently manning Salyut 7. They are Lt. Col. Anatoly Berazovoy and Valentin Lebedev. A Progress tanker spacecraft was launched May 23rd with sup­plies, and it docked with Salyut 7 on May 25th. The Progress carried water, fuel, a Kristall furnace for materials processing, and an electrophotometer. It has been announced by the Russians that the nine-day mission to Salyut 7 of Jean-Loulls Cretien (the French "spacionaut") will be launched on June 24th. (An advance announcement of a launch is an extremely rare event in the Russian space program. Note the proximity to the scheduled shuttle launch. Ed.)
+
+Russian Shuttle Space Tested. Cosmos 1374 was an unmanned test of a small shuttle-type winged spacecraft. It was launched on a 105-minute flight on June 3rd, and recovered after an ocean landing. It is smaller than the U.S. shuttle orbiters, weigh­ing in at about 20,000 lbs. (It is similar to the U.S.A.F. Dyna-Soar project, which was cancelled 20 years ago.) It was launched on top of an expendable booster, but it will eventually be used with a re­coverable flyback booster, and will land on a runway at the Turatam launch site.
+
+The Soviets are expected to begin manned flights in this craft by 1983, and to use it as a space-station resupply vehicle.
+
+Westar 5 Satellite Launched. Western Union's Westar 5 satellite was launched June 8th, by a Delta 3910/PAM launch vehicle. The satellite was scheduled to be put into a geosynchronous orbit on June 11th, by a firing of its apogee kick motor. It will re­place Westar 2, located at 123° West longitude, and is designed to last ten years. It will be used to relay digital, voice, and television signals.
+
+Lighter Solid Rockets. Hercules Aerospace Di­vision has been selected to begin developing light­weight filament-wound graphite composite cases for the space shuttle's solid rocket motors. Each pair of these rocket casings will increase the lift cap­acity (payload) of the shuttle by about 6000 lbs.
+
+Australian Satellites. Three satellites, the first of which is scheduled to be launched in mid-
+
+1985, will be built by Hughes Aircraft Company for Australia.
+
+ESA's Free Flying Carrier. The European Space Agency (ESA) has decided to fund a Spacelab follow­on program. It will include a European Retrievable Carrier (Eurcal; an unmanned lab) to be launched and retrieved by the American space shuttle.
+
+White Sands Space Harbor. The President recent­ly signed legislation renaming Northrup Airstrip, at White Sands Missile Test Range, the "White Sands Space Harbor."
+
+Galaxy
+
+—the Bulletin's miscellany department.
+by Jim van Nuland
+
+The following table gives the times at which the Great Red Spot is in transit across the face of Jupiter, and is therefore facing directly toward Earth. Try to detect the Spot, east of the central meridian, about a half an hour before the times given. You should be able to follow it for a little longer afterward.
+
+         da mo d    h m           da mo d    h m
+         Th 7  1   10  4 pm       Su 7 25   9  55 pm
+         Sa 7  3   11 40 pm       F  7 30   9   3 pm
+         Tu 7  6    9 11 pm       W  8 11   8  57 pm
+         Th 7  8   10 51 pm       M  8 16   8   5 pm
+         Tu 7 13    9 54 pm       Sa 8 28   8   6 pm
+         Su 7 18    9  6 pm
+
+Jupiter is now well-placed during twilight, but will soon slide behind the sun. I have moved the limits to include mid-twilight transits of the Spot, and I have also included some transits for which Jupiter may be too low for adequate seeing.
+
+I see the Spot as bright yellow, though other observers at Riverside called it pink. You might try some comparisons using various apertures. Let me know what you find out.
+
+This will be the last Red Spot ephemeris for the current apparition. Recovery will be attempted when Jupiter watchings resumes in November.
+
+Ads
+
+TIRION ATLASES: Field and desk editions available from SIAA at a good discount. Contact Shea Pratt, (408) 629-2994.
+
+FOR SALE: Celestron binoculars, 11x80; $125. Coulter 17-1/2" mirror and diagonal; in box--never used; will sell at cost. 10" f/5.6, 1/10-wave tube assembly; 2" focuser; 30mm finder; 2.14 diagonal; professional components; $225 or best offer. 12-1/2" f/5, 1/20-wave Parks mirror and 3.10" diagonal; new in box; $25 below cost.
+
+5-1/4" Jaegers refractor RFT; 2-1/2" focuser; polished aluminum tube; 6x30 finder; on Meade equatorial mount; slow motion; mint condition; $385 or best offer. 6" Coulter f/5 Newtonian; Novak mirror cell; Meade 1-1/4" focuser; $110. 4-1/4" f/15 Jaegers refractor; tube assembly; 2" guide scope; 6x24 finder; Pacifics mount only; 4" images; .50 caliber WWII machine gun tripod; $375 or best offer. 3-1/4" f/75 refractor; Jaegers objective; 1-1/4" star diagonal; mint condition; $135 or best offer.
+
+Prices on all of the above items negotiable. Contact Carlton Perry at (408) 395-1352 or (408) 293-6011.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yu2x7HXj5RMaSw4uz'}]
+# Rattley Rattles
+
+**by Gerry Rattley**
+
+## "The Herschel Catalogue"
+
+The first real effort at compiling a catalogue of nebulae and star clusters was accomplished by Charles Messier. Messier's efforts started when he discovered the Crab nebula on September 12, 1758. At first, he mistook it for a comet and watched it for several nights to detect its movement relative to the stars. Finding that it was perfectly stationary, he decided to keep a catalogue of comet-like objects so that other comet seekers could ignore them. Messier's final catalogue (published in 1781) contained 103 entries. But, other objects have been added since then; so that today, Messier's catalogue contains 110 entries.
+
+The next effort to discover and catalogue nebulae and star clusters was begun in 1783 by Sir William Herschel. After obtaining a copy of Messier's catalogue and completing his 18.7-inch telescope (with a speculum metal mirror) at Datchet, England (near Windsor), he started his famous "sweep" of the heavens. William Herschel was ably assisted in this work by his sister, Caroline. During these sweeps, they discovered and catalogued about 2500 new nebulae and star clusters. The catalogue was published in three parts, in 1786, 1789, and 1802.
+
+John Herschel continued his father's work in England, and later traveled to South Africa to sweep the southern skies for new nebulae and star clusters. In 1864, John published the General Catalogue of Nebulae and Star Clusters (G.C.), which contained about 5000 objects: all those known to that date.
+
+By 1882, many more discoveries by a number of other observers led Dr. Dreyer to compile and publish the New General Catalogue of Nebulae and Star Clusters (N.G.C.). It contained nearly 8000 objects: once again, all those that were known to that date. Discoveries of new objects did not stop (or slow down), so Dreyer compiled and published two Index Catalogues, which were added to the N.G.C. in 1888 and 1908. Their publication added another 5000+ objects to those that he had previously catalogued.
+
+(Today, the Revised New General Catalogue of Nebulae and Star Clusters (RNGC, 1973), by Sulentic and Tifft, is in popular use; and a Revised Index Catalogue is (hopefully) being prepared by Corvin.)
+
+William Herschel was also the first to attempt to classify the nebulae and star clusters. His "sweep" method of searching consisted of pointing his telescope at different declinations on the meridian. For each declination, with the telescope stationary, he would watch the star fields drift through the eyepiece field. As he did this, he dictated notes to his sister on all that he saw. He commented on nebulae, star clusters, and double stars, as well as star counts. Their appearance in his eyepiece field was also described. In addition to describing it, he attempted to assign each object to one of eight categories, denoted by Roman numerals. Objects listed in these categories were numbered consecutively, starting with 1 in each group. The eight categories and their general characteristics were:
+
+Class I = bright nebulae;
+* II = faint nebulae;
+* III = very faint nebulae;
+* IV = planetary nebulae;
+* V = very large nebulae;
+* VI = very compressed and rich star clusters;
+* VII = compressed clusters of bright and faint stars; and,
+* VIII = loose and scattered clusters of stars.
+
+The number of objects in each category is: 288 in I; 910 in II; 985 in III; 79 in IV; 52 in V; 42 in VI; 67 in VII; and, 88 in VII. This adds up to 2511 objects. However, due to duplicated, missing, unidentifiable, and double objects, the actual number of Herschel objects is 2439.
+
+William Herschel had great respect for Messier's work. He did not want his catalogue to supersede Messier's, so he did not include the Messier objects in it. However, for various reasons, a number of the currently accepted Messier objects also have Herschel numbers:
+
+Herschel saw M20 as having four different portions, and assigned each one a number: H.V 10, 11, 12, and H.IV 41.
+
+A large faint clump in the south preceding arm of M31 was listed as H.V 18 (NGC 206).
+
+Perhaps because of its mottled appearance, M33 became H.V 17 in his catalogue. A small nebulous knot in its northern arm (NGC 604) was listed as H.III 150.
+
+The small compressed star cluster in M35 was assigned its own number, H.VI 17 (NGC 2158).
+
+Although there is some question about it, for some unknown reason, Herschel seems to have assigned the listing H.III 1 to M43.
+
+The small planetary nebula in M46 (NGC 2438) became H.IV 39.
+
+In Herschel's time, M47 was an unidentified object. It was later shown to be identical to H.VIII 38 (NGC 2422).
+
+M48 was also unidentified in Herschel's day. It was later shown to be identical with H.VI 22 (NGC 2548).
+
+Because a mistake was made in reducing its position, H.I 7 is now identified as being the same object as M49.
+
+Herschel assigned the companion of M51 its own number, H.I 186 (NGC 5194).
+
+Probably because of its mottled appearance, Herschel gave M61 his number H.I 139.
+
+Because he saw M76 as a double nebula, Herschel catalogued the second part (NGC 651) as H.I 193.
+
+For its mottled appearance, Herschel also gave M82 a number in his catalogue: H.IV 79.
+
+M91 was one of the missing Messier objects until just a few years ago, when it was
+
+**See pg. 8**
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yuu3TDVupe9XfpMmN'}]
+-8-
+
+From pg. 7
+
+shown that it could very easily be the same object as H.II 120 (NGC 6543). (In the past, it has also been believed that M91 was identical to either M58, or H.III 602 [NGC 4571].)
+
+Three knots in the spiral arms of M101 received numbers: H.III 787, H.III 788, and H.III 789+ (NGC 5447, 5461, and 5462, respectively).
+
+It is currently believed that M102 is identical to M101. (However, in the past, it has also been shown that M102 may have been identical to H.I 215 [NGC 5866], or to H.II 757 [NGC 5879].)
+
+The following objects were not known to Herschel as Messier objects, because they were later additions to Messier's catalogue:
+
+M104 is H.I 43 (NGC 4594);
+M105 is H.I 17 (NGC 3379);
+M106 is H.V 43 (NGC 4258);
+M107 is H.VI 40 (NGC 6171);
+M108 is H.V 46 (NGC 3556);
+M109 is H.IV 61 (NGC 3992); and,
+M110 is H.V 18 (NGC 205).
+
+(To be continued.)
+
+Astronomy Day
+
+Astronomy Day a la SJAA. Last month's Bulletin had Jack Gaidies' report on Astronomy Day at the SJAA station on Fremont Peak. It was the first time the club has tried a dark sky locales and with the local colleges' response, it was a success.
+
+Two other telescope stations were planned, one at DeAnza College, and one at the University of Santa Clara. But, literally at the last moment, we learned that the U. of Santa Clara's Benson Activity Center (and the adjoining parking lot) had been reserved on top of us by the college's event coordinator. Frank Dibbell and I spent a few frantic hours on the phone establishing a new site at the Sunnyvale K-Mart. We were also able to contact the most everyone for Saturday night. (Apologies to Rich Page, who could not be reached, and who evidently showed up at OSC with his 14 inch.)
+
+The K-Mart telescope tenders that I can recall included Garry Bartley (and his carton of malisedmilk balls), Bill Cooke, Jim van Nuland, Frank Dibbell, Kim McIvelvy, Dave Ambrose, Mike Henderson, and myself. Many thanks should go to these people for their efforts. Special thanks should also go to Mark and Rolf Strobus, who set up a solar scope during the day, and who helped arrange the last minute permission from K-Mart for the site. We averaged a steady four to five people at a time, for a total of around fifty viewers. Many local SJAA members came by to see what was happening. Ex-member Debbie Moore also showed up, home for the weekend from college in Santa Barbara.
+
+The other site, at DeAnza College, was manned by Bob Fingerhut and Jack Peterson. (Further details in Bob's report, below. Ed.) With the laser light show normally drawing a large crowd to the Planetarium, they had a captive audience of over 200 for the scopes, and for Bob's slide show. Once again, it seems that the SJAA telescopes herded towards the locals with the least number of public!
+
+I'll admit it. I really like Astronomy Day, or any other time that I can show Saturn (or the Moon, or Jupiter, etc.) to someone who has never seen it before through a telescope. Their excitement brings back the feeling I first had at the same sight--and that makes all the "How far can you see?" questions worth it!
+                                          Denni Medlock
+
+DeAnza Station. Jack Peterson and I arrived early in the afternoon, and set up solar telescopes in the parking lot near the planetarium. Around ten people came by to look at the sun.
+
+In the evening, we moved over to the planetarium to meet the crowd that came to the laser light show. Jack Peterson set up a C-8, a C-90, and a pair of 11 by 80 binoculars. Jack's one-man station entertained several dozens of people with great views of the moon and planets.
+
+I ran a slide show all evening, and had a continuous crowd of about 10 to 15 people, for a total of perhaps a hundred people.
+
+It was fun to entertain so many curious and interested people. Several people were disappointed when we packed up at about 12:30 AM.
+
+Our station was a big success, although we could have used a couple more telescopes: or at least some more people to instruct the public looking through the scopes that were there. My vocal chords could also have used some relief from narrating the slide show. I hope the turnout from our club will be better next year. The sight is well worth the effort.
+                                          Bob Fingerhut
+
+Chabot Observatory. The clouds were such a pest that all that could be seen were Jupiter, Saturn, Mars, and Luna. Oddly enough, in spite of the increasingly persistent nature of the clouds, the air was quite calm: II to III on the Antoniadi scale, allowing fine views of the Moon and Saturn with the 13-mm TVM (Televue Monster). (See the definition of the scale in the ZeLetters section. Ed.) Appearing tawnily brown, Saturn showed faint belt apparitions. Titan was quite easily seen, along with perhaps three other moons.
+
+On one occasion, after I had finagled to "get" Saturn between two cloud banks, I hurriedly set the 13-mm TVM on it, and stepped back to allow others a view. The first observer spent perhaps three to four minutes, effectively "hogging" the best sight that evening! It is one thing to be "enthralled" to the point of wanting to "drink in" the sight, and quite another to deprive others of their turn at the eyepiece!
+
+Mars was seen with some dusky markings. A red filter stripped out haze.
+
+Jupiter was seen only early on for about ten minutes. Fog blotted out the view the rest of the evening!
+
+The 55-mm Plossl provided some nice sights for viewers of the Moon. Later on, using the 13-mm TVM gave an extraordinary view of the Lunar orb. Rays of sunlight breaking thru the mountain passes were crisp and unforgettable!
+                                          Donald D. Stone
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9yvsqF5CvfhxaAe3Z4'}]
+# Focus on Astronomy
+
+WAA / AANC / NASA
+JOINT CONFERENCE ON ASTRONOMY
+
+WESTERN AMATEUR ASTRONOMERS / ASTRONOMICAL ASSOCIATION OF NORTHERN CALIFORNIA
+NATIONAL AERONAUTICS & SPACE ADMINISTRATION
+
+NASA/Ames Research Center....Moffett Field, Ca....Fri, Aug 27-Sun, Aug 29,1982
+
+Dear Fellow Astronomer:
+
+Several times in the past the AANC, in conjunction with NASA, has held meetings at the AMES Research Center. These all proved to be excellent meetings, and were sell-outs, with our attendance limited by NASA to 394. This year the AANC is pleased to be in joint conference with and host for the Western Amateur Astronomers annual summer convention. I sincerely urge you to register upon receipt of this form as I personally assure you that it will be an excellent program. Registration is $9.00 per person, and all attendees must be pre-registered. It is also mandatory that you indicate whether you are a U.S. citizen, as any non-citizen will require 30 days of processing time for clearance by NASA.
+
+Upon receipt of your registration, information will be provided to you regarding motels, restaurants, parking areas, and the like.
+
+There will be a banquet and proceedings. When the prices are firmed up for these items, information will be forwarded to all registered attendees so that you can indicate if you want to participate.
+
+Individuals wishing to present papers should so indicate on this form, with the approximate time required. I will then contact you personally to discuss your paper and how it would fit into the program schedule.
+
+Please don't miss this event. Looking forward to seeing you there.
+
+# REGISTRATION!
+# AND CALL FOR PAPERS
+
+Sincerely yours,
+Frank A. Miller
+
+Name_____________________
+Name_____________________ Are you a U.S. citizen? ____ ____
+Last First Middle Int. Yes No
+Address_____________________
+Number Street City State Zip
+Telephone_________________ I would like to present a paper _________________
+Area Number Time Requested
+Fill out and send check to AANC for $9.00 for each person attending.
+
+RETURN TO: Registrar/Papers Chairman,
+Frank A. Miller
+c/o 1110 Petaluma Hill Road
+Santa Rosa, CA 95404 Phone: (707) 528-8114
+
+HOSTED BY
+AANC ASTRONOMICAL ASSOCIATION OF NORTHERN CALIFORNIA
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWz9ywP64sFWnsrWjdzqx'}]
+TIME VALUE - DATED
+NEWS MATERIAL
+
+U.S. POSTAGE PAID
+PERMIT NO. 757
+MENLO PARK, CA 94025
+
+SJAA Bulletin
+
+San Jose Astronomical Association
+3509 Calico Avenue
+San Jose, CA 95124
+
+SJAA MEETING & STAR PARTY SITES
+
+4-28-84

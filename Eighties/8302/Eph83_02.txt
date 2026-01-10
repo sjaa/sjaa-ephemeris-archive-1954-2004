@@ -1,35 +1,548 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA16mB33khw9mBvxcL5'}]
+FEBRUARY '83
+
+EPHEMERIS
+
+[The image shows what appears to be a nebula or cosmic cloud formation with stars in the background]
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA17HRqzSuJvGQBYHgF'}]
+# CALENDER
+
+**FEB 5** *Star-party, Henry Coe State Park lock comb. 4565
+
+**FEB 11** Board of Directors meeting, Bob Fingerhut, host 8:00 PM
+(408) 263-4455
+
+**FEB 12** *Star-party, Fremont Peak State Park, Coulter Camp
+new moon
+
+**FEB 19** General Meeting, NASA films 8:00 PM
+rm 102, Alumni Science Center, University of Santa Clara
+
+**FEB 26** Indoor Star-party, Los Gatos Red Cross 7:30 PM
+Don Machholz' preparation for the Messier Marathon
+Public *Star-Party in the parking lot
+
+**FEB 27** Full noon
+
+**MAR 4** Board of Directors meeting, Gene Cisneros, host 8:00 PM
+
+**MAR 5** *Star-Party 3rd. qtr., Henry Coe State Park
+lock combo 4565
+
+**MAR 11** 1st night of the Messier Marathon, Loma Prieta
+**MAR 12** 2nd night of the Messier Marathon, Loma Prieta
+
+**MAR 14** New moon
+
+**MAR 18** 3rd night of the Messier Marathon
+**MAR 19** General Meeting , U of S.C.
+**Mar 19** 4th night of the Messier Marathon (after the meeting)
+
+**MAR 26** Indoor Star-Party, Los Gatos Red Cross 7:30 PM
+
+EPHEMERIS, is published monthly by the San Jose Astronomical
+Association, 3509 Calico Ave, San Jose, Ca. 95124 (408) 246-8189
+All contributions are welcome and must be received by the 15th
+of the preceeding month. Please type to a width of 6.5", if this
+is not possible, handwritten contributions are welcome.
+EPHEMERIS also welcomes your black and white photos of astro-
+nomical interest. 8x10 prints > 5x7 prints min
+All submissions may be sent to SJAA EPHEMERIS editor c/o Jack
+Zeiders 2961 Hagliocco Dr #3, San Jose, Ca. 95128 (408) 246-8189
+
+SJAA President: Debra Frerichs
+15022 Broadway Terrace, Oakland, CA 94611 (415) 654-6796
+SJAA Treasurer: Bob Fingerhut
+340 Rio Verde Pl #4, Milpitas, Ca. 95035
+
+Board of Directors: Bill Cooke (408) 739-6319
+Eugene Cisneros (408) 923-6800 Denni Frerichs (415) 654-6796
+Frank Dibbell (408) 746-6493 day Chris Pratt (408) 629-2994
+Steve Greenberg (415) 443-4638 Jim Van Nuland (408) 371-1307
+Shea Pratt (408) 629-2994 Jack Zeiders (408) 246-8189
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA17oSJdYbyPzXuWdn9'}]
+# BAY AREA ASTRONOMICAL AUCTION
+
+April 30- Mark your calender, check your wallet, and start digging around in your garage. Why? Because that saturday has been reserved for the 3rd annual BAY AREA ASTRONOMICAL AUCTION.
+
+This SJAA - sponsored event has grown every year, & this year should be bigger & better than ever before. That's why this early notice. Announcements of the auction will be sent out to all the northern California astronomy clubs and businesses, calling for early registration of items to be auctioned off. This is a great opportunity for all to clean out the garage, attic, and library and turn around for cash any astronomical item you no longer have use for. Telescopes, books, camera equipment, eyepieces, mirrors-you name it. It's all to be auctioned off by our expert auctioneer.
+
+Last year over 150 items were bid on by almost a hundred bargain hunters. New and next to new items went at incredibly good prices - and a great time was had by all.
+
+So look for future announcements in the SJAA Bulletin on how to pre-register items and bids for great deals. We recommend preregistration for larger more expensive items (like complete telescopes) in order to allow the SJAA to publish a pre-auction list that will be distributed throughout the Bay area.
+
+The auction will be held in the usual locale - the Los Gatos Red Cross building - all proceeds go to support the SJAA's activities in furthering amateur astronomy.
+
+Denni Frerichs
+
+# OPPORTUNITIES
+
+## OBSERVE FROM MAUNA KEA
+
+You are invited to observe and photograph from the splendid skies of Mauna Kea, Hawaii. For an idea of what this is like, please see my article in April 1982 ASTRONOMY, "The Magnificent Skies of Mauna Kea". I have received permission to again use the University of Hawaii 24" telescope on top of 13,000' high Mauna Kea during the dark moon period March 8-14, 1983. I extend an invitation to any serious observer or astrophotographer to join me on top of the mountain.
+
+Costs (payable to University of Hawaii) are $43/day to stay at Hale Pohaku plus $25/day rental on a land rover to go up and down. I have a spare round-trip ticket available for $200.
+
+Call me at (415) 443-7597 or write me at 891 Laguna St., Livermore, Cal. 94550
+
+Jack Marling
+
+2
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA18GDZ6kqBvRUPSHnn'}]
+# COMET COMMENTS
+
+In the last month of 1982 two more comets were picked-up, re-
+coveries of two periodic comets. So 1982 closes out with 11 comet
+and discoveries, slightly fewer than the average for the past few
+years. One comet was an amateur discovery - Comet Austin in June.
+With the exception of this comet there have been no other amateur
+discoveries for over two years. Only three other comets were dis-
+covered in 1982, all three by a professional named Hartly of Aus-
+tralia while he was involved in other astronomical activity. Two
+were found on one photo and were later proved to be Comet DuToit,
+divided into two since it's last visit. Hartley's third discovery
+later was shown to be Comet Peters, also on an unexpected return
+trip. The remaining seven comets were recoveries of known return-
+ing comets, the most famous of which Halley's, being discovered
+Oct.16. t6
+
+One comet remains visible in our skies, it's a dandy comet
+and I urge you to get out and see it soon. It's positions are
+given below. We also discuss in our "Past Discoveries" section,
+two comets discovered by William Bradfield in past Februarys.
+
+Periodic Comet Tanpel -1 (1982J): Recovered in Virgo, not far
+from M98, this comet was recorded as 19 mag. on Dec.11 it was pi-
+cked-up by T. Seki in Japan. In the spring of 1983 it should be
+visible in amateur telescopes and remain so until August or Sept.
+It has an orbital period of 5.6 years and barely gets within Mars'
+orbit.
+
+Periodic Comet Kopff (1982k): This comet was recovered on Dec.
+20 by Barker and Odenwabn at the McDonald Observatory in Texas.
+It to was in Virgo, not far from Spica, and at mag 20. It has an
+orbital period of 6.6 years and should be visible in telescopes
+this summer.
+
+Periodic Comet Churyumov-Gerasimenko (1982f)
+Date (J0h+ UT) RA DEC MAG
+01-26 07:09.5 39 13 11.9 Moving away from both
+02-05 07:13.0 38 05 12.4 the Earth & Sun, this
+02-15 07:19.5 36 44 13.0 small comet is rapidly
+02-25 07:28.5 35 17 13.4 getting fainter.
+
+Past Discoveries: Comet Bradfield (1976a): Discovered by William
+Bradfield on thursday evening, Feb. 19, 1976, this comet could
+have been discovered from the U.S. before that date. Bradfield
+his 6-inch, f/5.5 reflector at 26 power to find this his fifth
+comet. he has since found six additional comets. The moon had just
+cleared out of the sky, being four days past full, and the comet
+was 55 degrees away from the sun.
+
+The comet was at mag. 9.4 at discovery position 01:55.0, -37
+17'. On Feb 1, with no moon in the sky, the comet was at 00:50 in
+R.A., with dec. at -39.5degrees. at mag.11.7. This would have pl-
+aced it a few degrees above our southern horizon at evening twili-
+ight. South of our latitude it would have been even higher in the
+sky. Twenty days before that (Jan.11) the comet was at23:55,-42.0
+& mag. 11.7. This would have been faint for us but high enough in
+the sky to have been discoverable from the Southern Hemisphere.
+After discovery the comet moved north and was well visible to us.
+
+3
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA18nUGxxXL9FGnJJ6r'}]
+Comet Bradfield (1978s): William Bradfield discovered this comet
+on Saturday morning, Feb.4, 1978. This was his seventh comet dis-
+covery. He had searched 360 hours since his previous discovery 3-
+3-76. At the time of discovery it was too far south for us to ob-
+serve from this latitude, as it was during the pre-discovery days.
+
+The discovery day was three days before new moon, the moon
+had just cleared the morning sky and this was probably the second
+morning since the moon left the area. The comet was at mag.8.0 at
+R.A. 18:21.2, Dec. -49 degrees56',51 degrees from the sun, thirty
+three days before the discovery the comet was 53 degrees from the
+sun at mag. 10.4 and R.A.14:51, Dec. -54 28'. On Dec.10, 1977 it
+passed two degrees S of Omega Centari at mag.11.8. Exactly it was
+picked up earlier we do not know. Southern Hemisphere observers
+had a couple of months when it was discoverable.
+
+Don Machholz
+(408) 448-7077
+
+LUNAR ECLIPSE
+
+The 1982 Dec. 30 lunar eclipse was seen in a cloudless sky
+here in San Jose, California. My own time was spent principally
+with occultation timings, that being my major interest, so I
+obtained only two crater timings.
+
+I was able to obtain 20 occultation timings, my own record
+for a single night! Later, I found that Rick Baldridge, using
+an 18-inch and trained assistant, had done 60!!
+
+As the partial phase progressed, I noted a slight blue edge
+on the advancing shadow, but no other color. My wife Florence
+joined me shortly before second contact, and commented, too, on
+the absence of any redness. She described that last moment
+before second contact as "looking like a diamond ring".
+
+The contrast between the lighted and unlighted portions was
+stark.
+
+With the onset of totality, the 4-1/4" at 15x showed a
+rich star field with a grey disk obstructing the center.
+Florence regarded the starry field as "well worth the cold and
+the hour", and soon went back inside!
+
+At the eight inch, I timed several more occultations, noting
+the absence of color. The view very much resembled the unlighted
+limb i'm used to seeing when doing timings near new moon.
+
+Stepping away at 11:31, just after mid-eclipse, I could not
+find the moonlighting along the telescope I found it only by
+averted vision. A zero on the Danjon scale -- the darkest I'd
+ever seen. How does it compare to the 1963 eclipse, I wondered?
+
+By 11:40 I noticed that the eastern limb was getting bright
+enough to interfere with occultations of the dimmer stars, and
+when I looked up at 11:54, I could again see the moon, albeit
+with some difficulty, by direct vision.
+
+By 12:04 the moon was again a pretty crescent, and few stars
+could be seen surrounding it. The unlighted portion was nowhere
+to be seen, even with the eight inch.
+
+I packed it in after my last occultation at 12:45 -- cold,
+tired, and hungry, but very amply rewarded for my troubles. What
+a grand spectacle!
+
+
+Clear Skies,
+Jim Van Nuland.
+
+4
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA19JUZHMZ5rP4poPEC'}]
+SPACE PROGRAM UPDATE
+
+ASTRONAUT / CONGRESSMAN DIES - U.S. Rep.-elect John L. Swigert, Apollo 13 pilot, died on Dec. 27 of bone marrow cancer.
+
+SIXTH SHUTTLE FLIGHT - The earliest possible launch date is late Feb. because of excess hydrogen found in the engine compartment after the flight readiness firing of the main engines last month. Another firing will be conducted to determine the location of the leak.
+
+RUSSIAN NUCLEAR REACTOR SOON TO REENTER - Cosmos 1402, a Russian nuclear powered ocean surveillance spacecraft has malfunctioned & is expected to reenter the atmosphere between Jan. 23 and Jan. 25. The reactor was supposed be separated and fired into a safe, high altitude orbit, but is now tumbling out of control. The Russians say the reactor will completely burn up and therefore not be a safety problem.
+
+MILITARY WEATHER SATELLITE ORBITED - The first of five Defense Meteorological Satellite Program (DMSP) spacecraft was launched from Vandenberg Dec. 20 on an Atlas E booster. It is in a sun-synchronous orbit at an altitude of 450 miles.
+
+IRAS LAUNCH SCHEDULED FOR JAN 25 - The Infrared Astronomical Satellite (IRAS) is scheduled to be launched from Vandenberg at 6:15 P.M. Jan.25 on a Delta booster. The satellite, a joint project by the U.S. , U.K., and the Netherlands, is designed to conduct an all sky survey in the infrared. It is hoped that it will provide a map of one million infared.sources in the universe.
+
+1983 LAUNCH SCHEDULE - NASA has scheduled five shuttle flights and eighteen expendable launch vehicle flights for 1983. I will bring the schedule to the next Red Cross meeting so anyone may see it.
+
+NASA'S FY'84 BUDGET - According to an unconfirmed source, a compromise has been reached with the Office of Management and Budget, (OMB) on the FY'84 budget. NASA will receive $100 million to begin the fifth shuttle orbiter (they requested $200 million) and the critical go-ahead. They also got the okay to initiate fabrication of a Venus Radar Mapper (VRM) spacecraft. This spacecraft will use many leftover Viking, Voyager and Galileo parts. Projects deleted by the OMB are the Teleoperator Manuvering System, the 30 /20GHz demonstration satellite, the Upper Atmosphere Research Satellite (UARS), the Numeric Herodynamic Simulator, and the tether system for the Tethered Satellite program (Italy is to provide the satellite).
+
+Bob Fingerhut
+
+
+EMPLOYMENT POSITION AT LUMICON
+
+LUMICON is seeking a versitle individual, male or female, for a permanent position. Work will be varied and involve orders, inventory, record keeping, sales, typing, purchasing, and activities essential in day to day operation of a small business.
+
+Beginning salary is $1000 per month and up, depending on prior experiences. Familiarity with astronomy would be helpful, but not essential.
+
+Send your resume to Dr. Jack Marling, c/o Lumicon, 2111 Research Drive,#5, Livermore, Cal. 94550 Tel. (415) 447-9570
+
+6
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA19mkJYjYDhm2JnVS9'}]
+# WEATHER IN THE BAY AREA
+
+What are the clearest months in the San Francisco Bay area? Which months are the cloudiest? How has the cloud cover varied through the year?
+
+Below are my weather records for the past eight years, during which I recorded whether it was cloudy or not each night. This was done in conjunction with my comet hunting.
+
+The figures for 1975 reflect once-a-night weather observation those after 1975 are for two observations per night -- one about two hours after sunset and again about two hours before sunrise. These figures are then divided by two for the number of cloudy nights. Any evening or morning in which I did some comet hunting was recorded as "clear"; even if clouds came in a few hours later or the observations were cut short by clouds.
+
+Before April 1976, I was in Concord, Calif., 50 miles NE of San Jose, and "cloudy" indicates foggy or cloudy weather. After that time the observations were made at Loma Prieta, in the Santa Cruz Mtns., at 3800 feet elevation. Here a foggy night in San Jose would be classified as "clear" if Loma Prieta was above the fog and there were no clouds above it. This happens about 10% of all nights, and occurs mostly, in the morning. Those times I went on vacation I took the logbook with me, but this has little effect overall accuracy.
+
+Even a night labeled as "cloudy" may not be entirely useless for astronomical work. Planetary and lunar observations can be done through the high thin clouds even though they may hamper comet hunting. On the other hand, a clear night may be degraded by moonlight, high winds, or haze.
+
+The number of cloudy nights per year varies (in part) due to my comet-hunting program changes. In my first four years I was observing 180-200 nights a year, those nights would be classified as "clear" even if clouds came in later. In the past four years a partly-to-mostly cloudy night would be recorded as "cloudy".
+
+Despite the variance in weather, I have still been able to get at least 5.5 hours of comet hunting in each month for the past eight years. (The months were 8.0 hours and the rest were over 10.0 hours / month). If we keep our eyes on the weather we can always find an opportunity to observe the sky, it's merely a matter of dodging the clouds. After all, there far more clear than cloudy nights.
+
+CLOUDY NIGHTS PER MONTH, 1975-1982
+
+| month | ave. | % | min/max |
+|-------|-------|------|-----------|
+| Jan | 16.44 | 53.0 | 8.0-22.0 |
+| Feb | 18.31 | 64.8 | 9.5-22.5 |
+| Mar | 16.88 | 54.5 | 10.0-24.5 |
+| Apr | 13.19 | 44.0 | 7.5-17.5 |
+| May | 8.31 | 26.8 | 2.0-17.0 |
+| Jun | 6.06 | 20.2 | 1.0-10.0 |
+| Jul | 4.06 | 13.1 | 2.0- 7.0 |
+| Aug | 6.13 | 19.8 | 2.0-10.5 |
+| Sep | 7.56 | 25.2 | 2.0-12.5 |
+| Oct | 10.50 | 33.9 | 4.0-20.0 |
+| Nov | 13.75 | 45.8 | 5.5-20.5 |
+| Dec | 13.25 | 42.7 | 5.0-20.0 |
+
+CLOUDY NIGHTS PER YEAR
+
+| 1975 | 101.0 |
+|------|--------|
+| 1976 | 107.0 |
+| 1977 | 123.0 |
+| 1979 | 162.5 |
+| 1980 | 147.0 |
+| 1981 | 158.5 |
+| tot | 1075.5 |
+
+Don Machholz
+(408) 448-7077
+
+6
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1AKVUKWzxnngmsaNJ'}]
+# THE LAST GREAT LUNAR ECLIPSE OF '83
+
+My son and I arrived at Iona Prietka about 5:00 P.M., set up my Odyssey I (a lot of work there, you know) and then, after an abortive attempt to get the t.v. to work, laid out in the back of my truck for the long vigil.
+
+Very quickly it became apparent that the moon wasn't going to allow any deep sky observing.
+
+By midnight we were being vigorously attacked by the Brrrrs. The wind had picked up to where it was rocking my truck (and telescope) quite a lot.
+
+Bill Cooke and Jeff Horne arrived around 1:00. Jeff set up his 4.5" f5 on a Poncat mount built by their new company "Astrometals".
+
+Reduction in moon light became apparent around 1:30, and the first nibble appeared at 1:48. Slow, bit by bit, (or bite by bite) the moon began to disappear from sight. At approximately 3:28 the last portion of the moon was gobbled up by the earth's shadow. The whole process reversed itself shortly after 4:00.
+
+Throughout the eclipse, Jeff Horne attempted to take photos of the event. Any exposures over 30 seconds will probably not turn out because of the Gusties which frequently attacked our telescopes.
+
+Shortly after 4:00, Bill and Jeff gave up the battle of the Brrrrs and Gusties, packed up and left for warmer places. I remained, zipped up in my sleeping bag in the back of the truck, watched the rest of the event untill 5:00, then I too packed up and slowly crept down the mountain for home.
+
+All night long the sky was very clear, and after the moon was fully eclipsed, the stars at the periphery of the moon gave it a 3D effect.
+
+I had planned on doing some deep sky observing that night, but the Gusties kept rocking my scope so much that, I gave it up as a lost cause.
+
+Tom Ahl
+
+# MY FAVORITE NON-MESSIER GALAXIES
+
+All of the Messier galaxies are fairly bright and with a little experience it is not too difficult a task to find them all in as small as a four-inch scope (though I and several others that I know of have seen them all in a 60mm refractor). There are in our night skies several galaxies which are comparable with most of the Messier galaxies and are well worth the trouble to look for. The following list contains those galaxies which are my favorites among those which are beyond the Messier objects. In this list I give only the galaxies NGC number and a short description of why it is in the list along with some observing tips and notes on the individual object. If you need information on magnitude, size or co-ordinates I will refer you to Burnham's
+
+7
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1ApWN85MAMNKj2kEm'}]
+My Favorite Non-Messier Galaxies, continued
+
+Celestial Handbook (all of these galaxies are in it). I will
+point out from time to time that a certain object is best seen in
+'dark skies with larger apertures'. This comment actually ap-
+plies to any of these objects, but if it is mentioned specifi-
+cally for any object, it means that the object will show a wealth
+of detail under these conditions. My criteria for selecting the
+objects in this list were magnitude (brighter than 10.0 visual in
+the Skalnate Pleso), size (larger than 10' in the Skalnate Pleso)
+or favoritism (whatever I like, explained in the text with the
+object).
+
+NGC 45 is large but faint. It is also a little far south and is
+      often overlooked because of its brighter neighbor, NGC 253.
+NGC 55 is very large and very bright. It is very elongated in an
+      east-west direction and appears to have two parts. It is a
+      little far south, but it is well worth the trouble to find.
+NGC 147, NGC 185 and NGC 278 are three small elliptical galaxies
+      located in the "W" of Cassiopeia. NGC 147 and NGC 185
+      are both nearby dwarf ellipticals and are believed to be
+      members of our Local Group of Galaxies.
+NGC 205 is also known today as Messier 110 (not everyone accepts
+      this position in the Messier catalogue though). It is the
+      north preceding companion galaxy to the Great Nebula of And-
+      romeda.
+NGC 247 is very large but has a very low surface brightness. It
+      shows a wealth of detail under dark skies with larger tele-
+      scopes.
+NGC 253 is one of the finest showpieces in the sky. It is large,
+      it is bright and it shows detail in almost any scope in al-
+      most any sky condition. It is visible in 50mm binoculars.
+NGC 300 is a very large broadside spiral. It has a very low sur-
+      face brightness and is pretty far south making it a little
+      hard to observe; but it is worth a look anyway.
+NGC 404 is in the same moderate power eyepiece field (100-150x)
+      as Beta Andromedae. It is a visual treat to see this tiny
+      fuzz-ball so close to a dazzling reddish star.
+NGC 772 is a fine broadside spiral galaxy in Aries. Try it on a
+      dark night with a large aperture. It has a bright northern
+      arm and an extremely faint southern arm.
+NGC 891 is a beautiful edge-on spiral. It is a little faint but
+      set into a star studded field as it is makes it a visual de-
+      light. With dark skies and moderate apertures the central
+      dust lane is not too difficult to observe.
+NGC 1300 is one of the largest, brightest barred spirals in the
+      sky. It is the only barred spiral that I have observed as a
+      barred spiral. With John Dobson's 24-inch at Fremont Peak I
+      saw this galaxy as a very distinct "Z" structure. If any-
+      one knows of any other barred spirals that are easy to ob-
+      serve as such, I would certainly like to know of them.
+NGC 1365 is the brightest member of the Fornax Galaxy Cluster.
+      The Fornax Atlas plots about a dozen galaxies within a two
+      degree circle here centered on RA 3hr 35min, dec -35deg
+      (year 2000 co-ordinates). This is a great area to see how
+      many galaxies you can get in your field at one time.
+NGC 2403 is a large, bright, almost broadside spiral. It is set
+      into a star studded field of moderately bright stars which
+      are spotted and embedded over it in such a way that to me
+      this galaxy appears as a diamond-studded broach pin.
+NGC 2683 is a large, bright, almost edge-on spiral. I haven't
+      looked at this one recently and I don't recall anything out-
+      standing about it.
+NGC 2841 is a large, tilted spiral. Photographs show it to have
+      many thin spiral arms. In a moderate size scope it gradual-
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1BKGjPahoAH6ov8WT'}]
+My Favorite Non-Messier Galaxies, continued
+
+ly tapers off from a bright core to the blackness of space.
+NGC 2903 is large and bright and is not too difficult to locate
+as it is right under Leo's nose. This highly tilted spiral
+shows a wealth of detail in dark skies with large scopes.
+NGC 3109 is a large irregular galaxy located down in Hydra. I
+have not viewed this object in several years.
+NGC 3115 is one of my absolute favorites. It is bright, large
+and shows quite a bit of detail for an elliptical system.
+It is football or saucer shaped and has fuzzy wings when
+viewed in larger instruments.
+NGC 3379, NGC 3384 and NGC 3389 are located in Leo. NGC 3379 is
+Messier 105. I have mentioned it in this list because it
+has two NGC companions which one cannot help but observe
+whenever one looks at it. The three form a triangle in the
+eyepiece with the brightest being the Messier object. NGC
+3384 is the next brightest and is to the east (following)
+the Messier objects. The faintest of the three is NGC 3389.
+NGC 3521 is in Leo. It is bright enough to be included in this
+list though I have not observed it in years.
+NGC 3628 is a very large edge-on spiral located just north of M65
+and M66 in Leo. It is a little faint but dark skies will
+reveal a lot of detail even in moderate instruments. Look
+for the large central dust lane.
+NGC 4236 is very large but it is also very faint. It appears as
+a thin lane of cloudiness extending across your low power
+field. It can only be seen from dark sky sites. I have
+seen it from Fremont Peak in an 8-inch before. This one
+offers a real challenge to your observing skills.
+NGC 4244 is large but faint. I have not viewed this one in re-
+cent years but it seems interesting. It is a very elongated
+system. It is an edge-on spiral. It's photo in the Hubble
+Atlas does not show it to have a prominent dark dust lane.
+NGC 4449 is a bright irregular galaxy in Canes Venatici. It is a
+little squarish and appears to be a Magellanic Cloud type of
+system.
+NGC 4374 (M84), NGC 4388, NGC 4486 (M86), NGC 4435, NGC 4438, NGC
+4461, NGC 4473, NGC 4477, NGC 4459 and NGC 4474 form a chain
+of galaxies in the heart of the Coma-Virgo realm of nebulae.
+It is fun to sweep this region with low power.
+NGC 4548 is nowadays considered to be Messier 91. It is fairly
+bright and fairly large. It is not too difficult to locate
+as it is just following Messier 88 about two-thirds of a de-
+gree. This is a nearly broadside barred spiral.
+NGC 4559 is a large, fairly bright, almost broadside spiral. I
+usually stumble onto it when I am searching for NGC 4565.
+NGC 4565 is a very beautiful edge-on spiral. It is large, bright
+and has a very distinct central dust lane. Because it is
+very elongated and is located in Coma Berenices, it has been
+nicknamed Berenices' Hair-cilip.
+NGC 4631 is very large, bright and very elongated. Even though
+it is classified as a spiral, it has no trace of a central
+dust lane. It also has no concentrated central core. To me
+this galaxy looks like a slug. It has a nearby companion
+galaxy, NGC 4627, to the north.
+NGC 4656/7 is a very large irregular system. It is very elong-
+ated and the small detached portion on the north following
+end is NGC 4657.
+NGC 4697 is small but fairly bright. I have not viewed this one
+in the last few years.
+NGC 4699 is a broadside multiarmed spiral in Virgo. I have not
+observed it recently.
+NGC 4725 is a large, bright, nearly broadside spiral in Coma Be-
+renices. I have not viewed this one in many years.
+
+9
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1BpXpEHqzYTg8f5tq'}]
+My Favorite Non-Messier Galaxies, continued
+
+NGC 5005 in Canes Venatici is quite bright but is not large. It
+    is not to far nor the preceding from NGC 5033. I have not ob-
+    served this one in many years.
+NGC 5033 is south following NGC 5005. It is larger but a little
+    bit fainter than its neighbor. I have not viewed this one
+    in several years.
+NGC 5128 is very large but has a low surface brightness. It is
+    bright enough for small and moderate scopes though and it
+    shows some detail such as a broad central dark lane dividing
+    it into two pieces. This one is a little far south but is
+    well worth a look.
+NGC 5195 is the small, but bright, galaxy attached to the north
+    following arm of Messier 51, the Whirlpool Nebula. It is
+    visible in even small instruments, but moderate to large ap-
+    ertures will show the connecting bridge between the two col-
+    liding galaxies.
+NGC 5253 is not large and only fairly bright but it is a favorite
+    of mine because back in 1972 I observed a supernova of 8th
+    magnitude in it. This is the second supernova this galaxy
+    has had within a century.
+NGC 5322 is a small but bright elliptical galaxy located above
+    the handle of the Big Dipper. It is only a round fuzz ball
+    but I always like to look at it. It looks like a distant
+    unresolved globular star cluster.
+NGC 5866 is sometimes accepted as Messier 102 even though it can-
+    not be (Mechain himself admits that M102 was a mistaken re-
+    observation of M101). This is a football shaped elliptical
+    system with a small star superimposed on its north preceding
+    tip. It is small but it is quite bright.
+NGC 5907 is a long thin streak. It is an edge-on spiral. I do
+    not remember seeing the central dust lane on this one. It
+    would be interesting to see how much detail can be seen with
+    a large aperture on this little splinter of a galaxy.
+NGC 6503 is not large but is fairly bright. It is located in a
+    region of Draco where it does not have much competition
+    for being viewed (though the planetary nebula, NGC 6543, is
+    nearby).
+NBC 6822 is Barnard's Galaxy in Sagittarius. It is very large
+    but has a low surface brightness and is located in the rich
+    star clouds of the Milky Way. It is a little difficult to
+    find but once it is spotted it is not to hard to observe.
+    It is a member of the Local Group of Galaxies.
+NGC 6946 is a large, fairly bright, broadside spiral located in
+    the star clouds of the Milky Way on the Cygnus-Cepheus bor-
+    der. The rich star studded field and the open star cluster
+    NGC 6939 which is north preceding from it make this galaxy
+    even more worth a look.
+NGC 7331 is a large, bright, tilted spiral. It is surrounded by
+    many smaller galaxies and nearby is the famous Stephan's
+    Quintet (NGCs 7317, 7318A, 7318B, 7319 and 7320). NGC 7331
+    looks very much like a miniature Messier 31.
+NGC 7793 is fairly large and bright. It is located in Sculptor
+    but is often overlooked because this area of the sky has
+    several better known showpieces to observe. This galaxy is
+    well worth a look though when you're in the area.
+
+
+                            by Gerry Rattley
+
+
+                                                                   10
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA1CHokMzxmKCD1nDfV'}]
+I can see this appears to be a scanned document page, but the image quality and contrast make it very difficult to read most of the text clearly. What I can make out are:
+
+- Some numbers/text in the top right corner that appear to include "693" and possibly other characters
+- A circular postmark stamp that reads "SAN JOSE" with what appears to be a date "NOV 11 1953" and "CALIF"
+- Text near the stamp that looks like "Rec" and possibly "1/14"
+- A postage stamp in the bottom right corner showing an American flag design with "20¢" visible
+
+The majority of the page appears to be blank or contains text that is too faint or unclear to reliably transcribe from this image quality. If you need an accurate transcription of this document, a higher quality scan would be helpful.

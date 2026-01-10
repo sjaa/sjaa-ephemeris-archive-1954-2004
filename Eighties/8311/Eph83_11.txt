@@ -1,44 +1,691 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA31CcZVJ6dckVzjCMz'}]
+NOVEMBER '83
+
+EPHEMERIS
+
+[The image shows a title page with "EPHEMERIS" as the main heading, dated "NOVEMBER '83" in the top left corner, and what appears to be "SJAA" in the top right corner. The main image appears to be an astronomical photograph, possibly of a nebula or galaxy, shown in black and white with a cloudy, irregular structure against a dark background with visible stars.]
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA31i8MHrdZXBwNTeq1'}]
+# Observations
+
+## UPCOMING EVENTS
+
+November 5 will see a SJAA star party at the J.D. Grant Ranch County Park, located halfway between San Jose and Lick Observatory on Mt. Hamilton Road. This is a new site for the club and is considered fairly dark skied besides being easily located from most members. We have permission to use the main parking lot. If you arrive after sunset you will probably find the main gate closed, but the SJAA combination lock will be in place and can be opened using 4565. Please lock the gate behind you coming or going. Remember, since this is our first official star party there let's fully cooperate with the park officials. We may want to go back! There is a possible $3 a night fee, but we may be able to negotiate that into a group rate. Please be prepared for that, just in case.
+
+If you can't make the November 5 star party, we will try it again on December 3rd, weather always permitting.
+
+The November 12 SJAA General Meeting should be one to attend. The club is always fortunate to obtain a speaker whose topic is at the forefront of modern astronomy. Jeff Scargle from NASA will be with us to speak on "The Detection of Extra-Solar Planets." The search for other planetary systems has been, in the last few years, one of excitement in popular astronomy because of its "other intelligent life" implications. Come attend and find out what methods are used to detect other planets, how other systems are chosen as candidates for having planetary systems circling them, and what to expect in the future.
+
+The meeting will be held at the University of Santa Clara in the Alumni Science Hall, room 102. 8:00 PM. Please attend.
+
+The grazing occultation expedition mentioned in the October's Ephemeris has hit a slight snag in the planning stages. The star to be occulted is a double star. Jim van Nuland has receive location and timing information from David Dunham, head of IOTA, the organization that distributes and gathers occultation data, but has not been able to receive word from IOTA whether or not the times and place are for the primary star or the average of the two. Jim is still willing to lead a dedicated group out into the Livermore valley area the evening of November 13 but wants those people to be aware they could be a possible twenty + miles away from the proper center line. If still interested, call Jim van Nuland at 371-1307.
+
+## CLUB TELESCOPES
+
+The SJAA maintains three telescopes for the use by its members. Loan periods are two months, and all arrangements must be made between the person wanting to borrow the scope and the person having it. If your two months are up and no one indicates an interest in borrowing the telescope at that time it's yours until someone does. All that is asked is that a board member or bulletin editor is notified when a telescope changes hands.
+
+Ready for borrowing are: 6" newtonian on an equatorial mount. Contact George Diewert at (408) 257-6658; a 12" Dobson, which is with Tom Stravolone at (408) 277-4711; and a 14" f/6 Dobson-type is with Chris & Shea Pratt, at (408) 629-2994. They would love to get rid of it!
+
+Other club equipment notes: Bill Cooke has the club's mount for a 14"
+
+1
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA32C9X6CrkMfFagPB2'}]
+Cassegrain/refractor-type (high pier) telescope and really needs to get
+it out of his parent's garage. If there are any volunteers please call
+Bill at (408) 733-9773.
+
+ENDING NOTES
+
+As always, the editor would like to thank the many contributors to the
+monthly Ephemeris. I am always looking for articles and black and white
+astronomy photographs for the front cover. Please don't hesitate to contri-
+bute!
+
+Many apologies to the membership for suffering through a very late bulletin
+last month. Due to editor, printer, and post office problems it managed to
+arrive in your mailbox three weeks late.
+
+Clear skies,
+Denni
+
+ADS
+
+For sale: Basic Celestron C-5 package, special coatings, wedge, 11" occulars,
+tripod, T-adaptor, T-rings for Canon and Konica cameras, tele-extender, eye-
+piece filter set, lens hood and weights, Tele-Phase IV drive, all in mint
+condition. Value $1600, sale price $750.
+Contact Lloyd E. West at (408) 274-4382
+
+**************************************************
+
+For Sale: C-8 with 8 X 50 right angle finder, special coatings, altitude
+adjusters, Barlow and 25mm eyepiece, tripod, clock drive. Asking $850.
+Contact Ken Gardner at (408) 266-4616
+
+**************************************************
+
+For sale: Tube for 6" mirror, 48" focal length - $12.00; Brandon 5 piece
+ocular set with wood case and 4 filters - $200.00; Meade variable barlow
+- $30.00; Eyepieces - 12mm Celestron Ortho - $18.00, 40mm Celestron Kelner
+- 12.00, 28mm Celestron Kelner - 12.00; Right angle finder for Celestron-
+$75.00; Tuthill pole finder - $35.00; C-8 latitude adjuster - $25.00; 32mm
+Konig eyepiece - $40.00; 6" f/1.8 reflector with 20mm Erfle - $55.00; 8X50
+University finder with Celestron bracket- $50.00; 2X elbow scope with illu-
+minated reticle - $3.00.
+Contact Jim Eiselt at (408) 984-8687.
+
+(With all of that stuff maybe we should have the auction early!)
+**************************************************
+
+Concerning want ads: All SJAA members and friends may place astronomically-
+related ads in the Ephemeris free of charge. All ads will run for two months
+unless the editor is notified otherwise. Please submit by sending to :
+Ephemeris, 15022 Broadway Terrace, Oakland, Ca. 94611, or calling Denni at
+(415) 654-6796 day/eve. Thanks.
+
+[THIS IS FIGURE: Simple line drawing of a flying saucer/UFO with Saturn-like rings]
+
+2
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA32iPyB4TpZHqHULwF'}]
+# COMET COMMENTS
+
+## BY DON MACHHOLZ
+
+In the past month six comets have been reported, three being new discoveries and three being recoveries of returning comets. Comet Cernis remains visible in the evening sky, although it is fading as it moves southward. And, in our Past Discoveries department, we look at three more comets discovered by amateurs during the past few years.
+
+Comets IRAS (1983o): The IRAS satellite discovered its fifth comet on July 28, but it wasn't until the object was again detected by IRAS on Spetember 1 that its nature was confirmed. This 16th magnitude object will closest the Sun (2.2 AU) late this month but is not expected to get any brighter.
+
+Comet Shoemaker (1983n): This comet was discovered by Carolyn Shoemaker using the 18-inch Schmidt at Mt. Palomar on Sept. 7. But as with the last discovery, this one wasn't simple either. First, R. Dunbar discovered an asteroid on plates taken Sept. 12 with the 48" Schmidt. While looking for (and finding) pre-discovery images of this asteroid, Carolyn happened to find this comet on the same plate, taken in an area of the Great Square of Pegasus. The comet will be closest the Sun late this month (3.3 AU) and will remain fainter than magnitude 11.5.
+
+Periodic Comet Arend (1983q): This periodic comet was recovered by J. Gibson with the 48" Schmidt at magnitude 20.5. This comet will not be very well seen since it will be opposite the Sun when it is closest the Sun next year.
+
+Periodic Comet Harrington-Abell (1983r): Recovered by Gibson on Sept. 17, the day after the previous discovery. Then at magnitude 20.5, this comet is also expected to remain quite faint.
+
+Periodic Comet Wild (1983s): Recovered by Gibson Sept. 18, this 20th magnitude object presently has a short tail. It may be visible in smaller telescopes next year.
+
+Comet Kowal-Vávrová (1983t): On Sept. 23, it was announced that Charles Kowal had picked up a comet on a few plates taken between May 8 and 15 of this year. It was magnitude 16 and in Libra at the time, not far from Comet Kopff. Several days later it was noticed that this comet is the same object identified as asteroid 1983JG, on plates taken by Zdenka Vávrová on May 14. The orbit is presently uncertain.
+
+## PAST DISCOVERIES
+
+Comet Bowell (1975n): This comet was discovered by William Bradfield of Australia on Wednesday morning, November 11, 1975. This was his fourth comet discovery; he has since found seven more. He found it 106 search hours since his previous discovery eight months before. The comet was magnitude 9.5 and 58° from the Sun at the time of discovery., two days after first quarter Moon. It was discovered at R.A.: 10hr 57m, Dec. -37° 41'.
+
+One month before discovery the comet was at 9hrs 09m, -18°, some 61° from the Sun. At that time is was in a good position to be discovered by both North and South Hemisphere observers but its faintness (magnitude 12.3) made it difficult. Two weeks later it had brightened to magnitude 10.7 but its more southernly declination (-27°) made it more difficult for Northern Hemisphere observers but easier for those in the South.
+
+It seems that the comet's faintness while above the Northern observers' horizons and the lack of comet hunters to the South prevented the discovery
+
+**3**
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA33CR6EgoCJgJAU3sJ'}]
+of the object for the month prior to its actual discovery date. Bradfield
+found it on one of his last morning observing sessions before the full moon
+interfered.
+
+
+Comet Sato (1975q): This comet was found December 5, 1975 by Yasuo Sato,
+early on this Saturday morning, two days after New Moon. The comet was at
+magnitude 9.0 at 12hr 14m, +19°15', 74° from the Sun. At this time it was
+rapidly approaching the earth.
+
+Three weeks previous, just before the Full Moon, the comet was due north
+20 degrees from its eventual discovery position and at magnitude 11.3. It
+would have been a difficult object to discover, but possible. There were a
+few reasons why it wasn't found earlier. First, it was brightening rapidly.
+Second, it was bordering the Coma Bernenices galaxy region, an area which
+many comet hunters avoid. Thirdly, there were several other bright comets
+visible and vying for attention of comet hunters.
+
+Some 12 hours before Sato discovered this comet, I swept within 5 degrees
+of it. I stopped sweeping due to dawn of the optics as a fog bank was moving
+in as I swept from the small town of Clyde, California, six miles north of
+my (then) home in Concord. I stopped sweeping near the 12hr R.A. line, some
+some four sweeps from the then-undiscovered comet.
+
+Comet Meier(1980n): Rolf Meier of Canada discovered this comet on Wednesday
+evening, November 5, 1980. That was the day of New Moon. The comet was 75°
+from the Sun, at RA 18:06, Dec. +42° 09', about 5° from the star Vega. The
+comet was magnitude 10.3. This was Meier's third comet discovery. He was
+using a 16", f/5 reflector.
+
+For nearly two months prior to discovery the comet was brighter than magnitude
+11.0. It was travelling through Cassiopia and Cepheus at that time, yet remained
+undiscovered. A good question is: Why?
+
+There may be several reasons for this. First, we are assuming the comet did
+not brighten rapidly before it was found - we guess that its magnitude curve
+was normal. But if the comet did brighten rapidly this could explain why it
+remained undetected. Secondly, it was in the Milky Way for those two months.
+This background made it difficult to see. Finally, being more than 100° from
+the Sun, the comet was not in the usual comet hunting grounds during most of
+this time.
+
+_______________________________________________________________________________
+
+Comet Ephemeris
+
+Comet Cernis (1983L)
+Date(UT)      R.A.      Dec.      Est. Mag.      Comet Cernis is some 3½ AU
+10-23      00:45.5   -23°11'   10.4            from the Sun as it goes back
+11-02      00:26.8    25 58    10.6            into deep space. It may be
+11-12      00:10.6    27 58    10.7            about 1.0 magnitudes brighter
+11-22      23:57.7    29 19    10.9            than predicted here.
+12-02      23:47.9    30 09    11.1            Data from Cir. 3869
+12-12      23:41.2    30 39    11.3
+
+                                              Don Machholz
+                                              (408) 448-7077
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA33hvtq2psuMpyczcX'}]
+COMPARISON TESTS of NEW POLAROID 35mm AUTOPROCESS FILM
+                                                    by Jack Marling
+
+
+     Polaroid has introduced a new 35mm auto process slide film. Called Polaroid
+Polagraph 35mm film, it is developedinto a slide in only 1-2 minutes, using
+a convenient Polaroid autoprocessor. The new Polaroid 35mm films come in 3
+types: ASA 40 color film, medium contrast ASA 125 B+W film, and high contrast
+ASA 400 B+W film. Since high speed and high contrast film is ideal for astro-
+nomical pgotography, I tested the speed of the Polaroid ASA 400 film in 20
+minute duration exposures. This is representative of a typical deep-sky
+astronomical exposure.
+     If it worked, the Polaroid film would be ideal for education and testing,
+since the finished slide would be rapidly available for evaluation and feed-
+back. Also, the ASA 400 B+W film comes in convenient 12 exposure rolls, just
+the right size. To test the Polaroid film, I exposed it successively through
+3 different filters to measure blue, green, and deep red sensitivity (H-alpha
+light). To hypersensitize the film, I baked it 8 hours in 8% Forming Gas at
+50° C. 16 hours baking time was too much, and it fogged the film. Test results
+are shown in Table 1 compared to other popular films. Neutral density filters
+reduced the light level to achieve 20 minute exposures, and the energy required
+to achieve identical densities served as the measure of relative film speed.
+
+Table 1 - Film Speed Comparison in 20 Minute Exposures
+                              Blue Speed    Green Speed    H-Alpha Red Speed
+ASA 400 Polaroid HC-1 5-12      0.07           0.2            0.06
+Kodak Technical Pan 2415        n.m            0.4            1
+Ektachrome 400*                 1              3              1.5
+Fujichrome 400*                 2              3              4
+
+          *Developed as a negative in Unicolor K-2 Kit
+
+     Table 1 shows that the new Polaroid is a dismal failure in long exposure,
+and is NOT SUITABLE for Deep-sky astrophotography. It is ten times slower
+than other common films, and apparently suffers from reciprocity failure that
+is not overcome by hypersensitization in forming gas.
+     Incidentally, Table 1 shows why Ektachrome 400 gives green slides; namely
+it has a much higher green response compared to its blue and red response.
+2415 film is relatively insensitive to light pollution precisely because it
+has weak response in the green pollution band. Fujichrome 400 is the fastest
+color film, and would be the best choice in deep-sky color photography. I
+developed the color films as a negative to provide a better comparison with
+other films, but Table 1 shows that this is in fact a way to get high per-
+formance from Fujichrome 400. Deep-Sky photos taken with Fujichrome 400 show
+incredible detail in faint nebulosity due to its extremely high speed for
+red H-Alpha light. I can highly recommend Fujichrome 400 for all deep-sky
+photography.
+     The new Polaroid ASA 400 35mm B+W is not suitable for Deep-Sky photography
+because of its severe reciprocity failure, but would be excellent for expo-
+sures of bright objects like the Moon and planets, and may be ideal as an
+educational tool.
+
+
+     For further information, please call me at (415) 447-9570 or write to me at
+LUMICON at 2111 Research Dr., Suite 5,Livermore, CA. 94550.
+
+5
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA34Axch2ovqWnUmhmC'}]
+Commercial ads are priced according to size and may be placed by contacting:
+Gene Cisneros at (408) 923-6800.
+
+[IMAGE: Nebula NGC2728 in Auragus. The faint nebula appears to be a nova remnant. The bright star is J. Marilyn Wong, 5 NGC2722. The Ghost as Jeri J. Marilyn using a Lumicon. Jones 8½" f/6 Newtonian. Exposure was 30 minutes in Lumicon Oxygen III Filter. Mr. Bill Heigh used a CCD and LUMICON Narrowband G4S Filters.]
+
+LUMICON®
+"Innovation in Astronomy"
+Visit or call LUMICON
+for the most complete selection
+of IN STOCK Telescopes and
+Accessories in the West.
+
+WORLD CENTER FOR
+★ ASTROPHOTOGRAPHY ★
+(415) 447-9570
+2111 Research Dr #5E,
+Livermore CA 94550
+
+ATA coatings
+
+15022 BROADWAY TERRACE, OAKLAND, CA 94611
+
+Specializing in Aluminum Coatings with silicon monoxide
+over-coating for telescope mirrors.
+
+4¼"        $8.00
+6"          $12.00
+8"          $16.00
+14¼"      $28.00
+16"         $50.00
+
+10"         $20.00
+12½"       $24.00
+
+Secondaries, when sent with primary mirror, free.
+To remove old coatings $3.00. Minimum charge $8.00.
+Include postage and insurance for return mail.
+Mirror will be shipped in container received.
+
+[IMAGE: Black advertisement box]
+BUSHNELL OPTICAL    UNIVERSITY OPTICS    EDMUND SCIENTIFIC
+
+CELESTRON
+ACCUTRACK
+LUMICON
+
+OPTRON SYSTEMS
+
+Everything For Astronomers
+
+Visit Our Showroom Soon!
+
+704 Charcot Avenue, San Jose, CA 95131 USA (408)946-4797
+
+MEADE    KALT CORPORATION    STAR ATLASES    TELE-VUE OPTICS
+
+DYNAMAX
+ORION
+OBSESSO
+SWIFT INSTRUMENTS
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA34fUajjNdtvoJxtY6'}]
+# CALENDAR
+
+Nov. 5 Star Party at J.D. Grant Ranch County Park. This site is a new one for
+the SJAA so come and try it out. Located on Mt. Hamilton Road, halfway
+between San Jose and Lick Observatory. To get to Mt. Hamilton Road
+take Hwy 101 (either direction) to Alum Rock Rd. Go east up Alum Rock
+Rd. to Mt. Hamilton Rd. and follow it. After sunset the park front gate
+will be locked with the SJAA's combination lock. Use the sequence 4565
+to open, but be sure to lock gate behind you, coming or going.
+
+Nov. 12 SJAA General Meeting at the University of Santa Clara, Alumni Science
+Hall, room 102. 8:00 PM. Our speaker will be Jeff Scargle from NASA,
+the title of the lecture, "Detection of Extra-Solar Planets." Come enjoy
+this talk on the state-of -the-art astronomy pursuits in finding other
+planetary systems "out there".
+
+Nov. 13 A possible grazing occultation located out near Danville-Dublin area.
+If interested, please contact Jim van Nuland at 371-1307.
+
+Nov. 19 Indoor star party at the Los Gatos Red Cross building. Come enjoy an
+informal evening with friendly conversations, food, maybe some slides
+and a parking lot star party if it's clear. SJAA Board meeting, also.
+Everyone welcome. IDSP starts at 7:30 PM on, board meeting starts at 8:00.
+
+Nov. 26 Thanksgiving weekend -- no club activities planned. Enjoy the holiday!
+
+Dec. 3 Star Party at the Grant Ranch Park on Mt. Hamilton Rd. If you didn't
+get a chance to try out this new site in November, try it now. Again,
+if the main gate is locked the SJAA combination lock will be there and
+can be opened using 4565.
+
+Dec. 10 Indoor star party at the Los Gatos Red Cross building, 7:30 PM on.
+SJAA Board Meeting at 8:00 PM.
+
+Dec. 17 SJAA General Meeting at the University of Santa Clara, Alumni Science
+Center, room 102. 8:00 PM. Speaker and subject to be announced.
+
+Jan. 7 Indoor Star Party at the Los Gatos Red Cross building. 7:30 PM on. There
+will be a star party in the parking lot for everyone to attend if the
+weather is clear. Bring your new Christmas telescopes and equipment!
+
+Jan. 14 SJAA General Meeting at the University of Santa Clara. Topic to be
+announced. (We're trying to get Gene Cisneros to give a slide show on
+his December archeo-astronomy trip to the Yucutan Peninsula!)
+
+___________________________________________________________________
+
+DIRECTIONS AND MAPS TO ALL REGULAR SJAA ACTIVITIES ARE LOCATED ON BACK
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA35iyZUWmxAJMYM88w'}]
+DIRECTIONS & MAPS TO ALL SJAA REGULAR EVENTS
+
+General meetings:
+
+University of Santa Clara, Alumni Science Hall, room 102
+Heading north on Hwy 17, exit at Bascum/Washington Ave (north), proceed
+to Franklin, then turn right.
+Heading south on Hwy 17, exit at the Alameda (north), proceed to Franklin,
+then turn left.
+Go two blocks and turn left into parking lot. Alumni Science Hall is the
+3 story building that borders the east end of the lot. Room 102 is on the
+ground floor and is best gotten to by entering the first door on the right
+side of the building when walking in from the parking lot.
+
+[THIS IS FIGURE: A simple map showing the intersection of The Alameda, Washington, Franklin, and Hwy 17, with Alumni Science Hall and Alviso marked. Bascum is indicated to the right.]
+
+Indoor Star Parties:
+
+Los Gatos Red Cross Building, 18011 Los Gatos-Saratoga Rd., Los Gatos
+From Hwy 17 south take the Hwy 9 (Saratoga) exit and continue up Los Gatos-
+Saratoga Rd. for about 1.5 miles. Turn right at Rose Ave., and turn right
+immediately into the parking lot of the Red Cross Building.
+
+[THIS IS FIGURE: A simple map showing the intersection of Los Gatos-Saratoga Rd with Hwy 17, showing the location of Red Cross and Los Gatos Ave]
+
+Henry Coe State Park:
+
+Take Hwy 101 south towards Gilroy and take the East Dunne exit. Continue
+east towards the Hills (past Anderson Reservoir) for about twelve miles
+to the park. Past the park entrance you will see old ranch buildings on
+the right and a horse trough on the left. The gate to the SJAA site is
+on a dirt road just before the trough. The gate is locked but the club
+combination is 4565. Always lock the gate after yourself. If arriving
+after dark, please park outside gate and hike in first to find an obser-
+ving site before driving in. Parking lights only after dark, please.
+
+[THIS IS FIGURE: A map showing the route from Hwy 101 South through Gilroy to Henry Coe State Park, including Dunne Ave, East Dunne Gate, Bypass Section, Anderson Reservoir, Fremont Peak, and showing the route to Coulter Camp and Salinas]
+
+Fremont Peak State Park:
+
+Take Hwy 101 south towards Salinas. Take Hwy 156 East (San Juan Bautista)
+for two miles to a yellow flashing light. Turn right and go about ½ mile
+to were road curves slightly to left and splits. Stay left for about 50 yards
+and then bear right when road splits again. Follow road for about 11 miles
+into park. SJAA sets up at Coulter Camp overflow area - it's visible as you
+drive up into main area of camp. Parking lights after dark, please.
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA36Nui3QtAXf68Au3y'}]
+SPACE PROGRAM UPDATE
+
+BY BOB FINGERHUT
+
+Spacelab Flight Delayed
+
+The Space Shuttle, with orbiter Columbia, has been moved back from the pad to the Vehicle Assembly Building (VAB) due to a possible defective nozzle on one of its solid propellant motors. The nozzles' carbon phenolic insulation comes from the same batch which almost caused a catastrophic burn through on the last shuttle flight. The options being persued are to mount Columbia to a new booster and tank stack and try to launch between November 26 and 28, or to ship new solid booster nozzles to the Kennedy Space Cneter and launch in late February.
+
+STS-9/SPACELAB 1 to Conduct Research 24 Hours A Day
+
+The Spacelab crew will split into two 12 hour work shifts for nine working days of the 10 day flight. The mission commander will be John Young and the pilot Major Brewster E. Shaw. The mission specialists will be Owen K. Garriott and Robert Parker. The payload specialists will be Byron K. Lichtenberg and Ulf Merbold, a West German scientist.
+
+The Spacelab 1 will carry 38 experiments of which 25 are sponsored by the European Space Agency, ESA, and 13 by NASA. Experiments will be conducted into the fields of astronomy and solar physics, space plasma physics, atmo­spheric and Earth observations, life sciences, and materials science.
+
+Seventh Ariane Launch Successful
+
+The ESA Ariane Rocket successfully put an Intelsat telecommunications satel­lite into orbit October 18.
+
+Soviet Spacecraft in Orbit Around Venus
+
+Two Soviet spacecraft have gone into orbit around Venus, Venera 15 on Oct­ober 10, and Venera 16 on October 14. They are in highly elliptical, 24 hour orbits. They are expected to image the surface with radar.
+
+Insat 1B Deployed
+
+The solar array in the Indian communications satellite, Insat-lB, was finally deployed September 10. The satellite has been positioned in geosynchronous orbit at 74° east longitude.
+
+TDRS-1 Moved to a Permanent Location
+
+The tracking and data relay satellite, TDRS-1, was moved to a 41° west longitude orbit between September 29 and October 17 from the position where it underwent testing. Included in previous tests was operation with the STS-8 shuttle mission in which the TDRS demonstrated the ability to lock on and track an orbiter automatically.
+
+Satcom 2R Operating in Geosynchronous Orbit
+
+The Satcom 2R, which was launched September 8, is now operation in geosynchrono­nous orbit at 72° west longitude.
+
+Soviet Booster Explodes on Pad
+
+A Soviet SL-4 booster exploded on the pad at Tyuratam on September 27,seconds after its two-man Soyuz spacecraft was pulled off the booster by the launch escape system. The cosmonauts were not injured seriously.
+
+The launch accident followed a serious proppelant leak September 9 on the Salyut 7 space station. The space station failure occured when a main oxi­dizer line ruptured, spilling the propellant in two of three nitric oxide tanks into space. The accident forced the station's two cosmonauts to put
+
+10
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA37KxtkHSQrX4yzPQ8'}]
+on their space suits, enter their Soyuz capsule and prepare for return to
+Earth. When the hazard abated the crew was allowed to remain on the Salyut.
+The Salyut 7 now has minimal maneuvering propellant, 16 of 32 attitude control
+thrusters and its back-up main engine unusable.
+
+Manned Maneuvering Units Delivered
+
+Two manned maneuvering units have been delivered to NASA for use on shuttle
+missions 11 and 13. Mission 11 is scheduled for January 19, 1984 and mission
+13 is the Solar Maximum satellite repair which is scheduled for April 4, 1984.
+
+Space Telescope Instrument Delivered for Testing
+
+Jet Propulsion Laboratory has shipped the wide field and planetary camera
+to Goddard Space Flight Center for testing
+
+Senate Opposes Satellite Sale
+
+The Senate has passed unanimously a resolution to disapprove the Reagan
+Administration's plan to sell Earth remote-sensing satellites to private
+industry. The sense of the Senate resolution has no force in law but is
+important because the sale cannot proceed without a bill passed by both
+houses of Congress.
+
+Plans to Store Columbia Reversed
+
+The NASA head, James M. Beggs, has reversed a previous decision that would have
+put the orbiter Columbia in storage for two years and made it available for
+spare parts cannibalization after the Spacelab 1 flight. Beggs characterized
+the previous decisionsas bad political and engineering policy.
+
+_____________________________________________________________________________
+
+
+THE 1983 AMERICAN WORKSHOP on COMETARY ASTRONOMY
+                                                by Don Machholz
+
+This workshop was held Saturday, October 1, at the Jet Propulsion Labora-
+tory in Pasadena, California. Although registration was to be limited to
+100, some 130 comet enthusiasts attended. There were tours and talks, with
+an emphasis on Halley's Comet.
+
+Some of the JPL staff, such as Ray Newburn, Zdenek Sekenina, and Paul Weiss-
+mann talked about cometary photometry, comet nuclei, and spacecraft missions
+to comets. The amateur astronomers took most of the afternoon session. Comet
+photography was displayed by John Sanford, and then Dan Tidwell introduced
+a super-fast Polaroid 35mm film. Jack Marling discussed a filter which en-
+hances most comets; it is now available from Lumicon. The final two hours
+were devoted to a talk by John Bortle and Charles Morris on techniques for
+visual comet observing. Efforts are being made to standardize observations
+of comets so that the data will be of better use to the professional astronomers.
+
+As you might have heard, Halley's Comet is not predicted to be very bright this
+time around. However, John Bortle announced that the comet may be 2 magnitudes
+brighter than previously predicted. This follows revision of some of the 1910
+observations of Halley's, the most recent apparition of the comet. If this is
+true, the comet could be an easy naked-eye object from dark skies in 1986 ----
+if dark skies can be found in 1986.
+
+Finally, an observing session was planned, but cloudy weather limited it to
+an indoor evening session followed by observation of and through the two in-
+struments set up outside the auditorium.
+
+_____________________________________________________________________________
+
+11
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3AWTcTVomHyfCmzHM'}]
+# SJAA COMPUTER
+
+by Bruce DeGraaf
+
+Having weasled two grants from the San Jose Astronomical Association (SJAA) board, I felt that at the least it would be courteous to explain just what I have done and what I plan to do with the SJAA's granted capital. Please note that I would appreciate any feedback regarding these efforts.
+
+The SJAA computer is an outgrowth of the SJAA charge injection device (CID) camera project. The camera was purchased through a grant from International Business Machines Corporation (IBM) while I was an employee. Via a personally designed and constructed interface, Pete Manly connected the CID critter to an oscilloscope and showed that it could outperform an ordinary television camera and be useful on telescopes such as a Celestron International Corporation's C-8.
+
+When Pete moved to New Mexico, I took over the camera development and started to design a TV interface which would present the camera's images on a domestic TV receiver. I wangled a sample of a "flash" analog to digital convertor (A/D) from the Radio Corporation of America (RCA) and planned to digitize the image so that the camera could be used with relatively long exposure times while the image remained visible and flicker-free on the TV receiver.
+
+Thieves nearly ruined everything. Along with my microwave oven and a few other items ( They IGNORED my audio system!), they stole the camera, A/D, and the plans. Luckily, the insurance company covered the losses, and I purchased a new camera (supposedly with only one 10% down blemish) and conned RCA out of another A/D chip.
+
+I started work on the camera control box, initially planning to do all of the processing in hardware and provide a simple, computer interface. Along came the Atari rebate offer on the 400 computer, and I realized that there was no way I could complete the camera box for less than the $150 for the home computer. Also, the 400 has the advantage of being able to run from nine volts and is therefore suitable for field work!
+
+I requested the former grant for $132 to purchase the 400 before it became unavailable due to demand. The $50 rebate was aimed at Jim van Nuland because I was already receiving a rebate (due to buying another 400 to replace a video game which was stolen) and because I was not sure that Atari would honor a rebate to the SJAA. I then started searching for a way to upgrade the 400's memory so that it could handle the data produced by the camera. An agreement with Austin Franklin Associates yielded a memory upgrade for $70.95 and the latter grant was requested.
+
+Except for an optional purchase of an Atari 822 printer, the two grants described are all that are expected: no additions to the SJAA computer are planned. The idea is to provide an inexpensive controller for some of the SJAA's functions. Some of the key points to the design of the system are:
+
+-Low Cost
+This was covered aboved
+
+-Long Term Reliability
+The design is for a computer system with no moving parts
+such as a diskette or tape drive. This should yield significant
+improvements in reliability. My only worry involves the special
+nature of some Atari parts; I will obtain some replacements just
+in case Atari decides to stops manufacturing them.
+
+-Ease of Use
+The planned programs are "canned" and in cartridges, which are far
+easier to use than diskettes or tapes. The SJAA computer is not
+planned to be a development machine; rather, it is to be a controller
+for some of our activities.
+
+12
 
 === PAGE 13 ===
-[Error extracting page 13: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3B1DyH2GSzCv99jwP'}]
+Programs
+
+The three programs planned for the computer are described below. Note that
+these may take some time to develop and one has a known technical problem.
+
+Camera control
+
+The camera program runs the CID camera. A special interface is being built
+by David Mathis and myself to digitize the camera's output and present it
+in a compatible form to the 400. The CID sensor contains 16,384 elements
+(128 by 128) and the signal from each one is to occupy one cell (one byte)
+in the 400's memory. Two pictures are extracted from the camera at any one
+time: the actual image and a noise image. The latter is used to improve the
+dim light capability of the camera. As a result, the 400 must have more than
+32,768 (2 x 16,384) bytes of memory. The next step above 32,768 is 49,152:
+the full capacity.
+
+The camera cartridge is expected to contain 8,192 bytes of read only memory
+(ROM), since this memory disables an equivalent portion of the random access
+memory (RAM) in the 400, only 40,960 bytes of RAM will be active. That is
+expected to be enough to store the camera's images and to provide the neces-
+sary working area for the program.
+
+The system will be able to generate "exposures" of 1/15 through four seconds
+per image pair. The 400 will display the picture at TV rates so that there will
+be no flicker. The exposure times are pretty conservative, the design goal is
+from 1/20 second through eight seconds. This is beyond the range of the earlier
+package, which was known at least to be adequate.
+
+All information regarding the camera will be presented on the TV screen,
+also present will be the SIMA logo. As a result, the program should be suitable
+for astrophotographic guiding purposes and for public presentations. It may
+be possible to add code to effect automatic guiding.
+
+A special portion of the code will drive an 822 printer to produce a semi-
+permanent copy of the image. The 822 is a thermal printer capable of pro-
+ducing 40 character lines and graphics. It is inexpensive ($100) and margin-
+aly reliable. The thermal paper is commonly available and provide a means
+to put CID images into the "Ephemeris". Note that the 822 is NOT SUITABLE
+for mastering the entire document! Don't get your hopes up regarding a word
+processor! If desired, another printer can be supported; I just need to know
+its characteristics.
+
+Other programs
+
+The obvious question of "What about the Ephemeris?" must be answered. Yes,
+with the "AtariWriter" cartridge, the 400 can act as a word processor. There
+exists some problems:
+
+     -Printer
+     The 822 is not suitable for masterinf the Ephemeris. This has
+     nothing to do with its dot matrix characteristics. Instead, the
+     problem is that it uses paper which is just too narrow for the
+     articles.
+
+     Storage
+     I know of no useful word processor program (regardless of machine)
+     which does not require some form of mass storage (a diskette, for
+     example). A diskette drive for the 400 can be obtained for $240,
+     complete. I recommend against it as it would surely break if loaned
+     to the membership. That may sound a bit harsh; let me say I would
+     not laon it to me!
+
+     -Keyboard
+     The 400 comes with a keyboard (if you can call it that) which
+     must have been designed by the Nazi SS! Everybody, who can, replaces
+     their 400 keyboard with something like the Inhome Software Company's
+
+13
 
 === PAGE 14 ===
-[Error extracting page 14: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3BaCbw9ibfARQXjRA'}]
+B-Key 400 keyboard. This is certainly an option. However, the
+improved keyboard may not be suitable for field work. The standard
+400 keyboard has the advantage of being able to be cleaned with
+a damp cloth.
+
+Conclusions? I think they are obvious. We now have the means to build a device
+which can act as:
+
+-An inexpensive camera controller
+-An inexpensive occultation aid
+-An inexpensive auction controller
+
+We do not have a word processor or program development package. While I
+agree that the former is very useful and desirable, I suggest that the SJAA
+does not need thelatter. Maybe some grants from Atari (or perhaps Apple,
+Hewlett-Packard, or IBM) can be arranged for the "word-smithing" activities.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MEMBERSHIP
+
+Please send renewal form, remittance, and if you want to renew
+S&T, their white notice card, to: Bob Fingerhut, Treasurer, SJAA,
+340 Rio Verde Pl. #4, Milpitas, Ca. 95035. (408) 263-4455. Thanks!
+
+┌─────────────────────────────────────────────────────────────────────┐
+│    SJAA MEMBERSHIP APPLICATION/RENEWAL                              │
+│                                                                     │
+│ NAME ______________________________________________________________ │
+│                                                                     │
+│ ADDRESS _________________________________ CITY ___________________│
+│                                                                     │
+│ PHONE __________________________________ STATE _________ ZIP ______│
+│                                                                     │
+│ AREA OF INTEREST ___________________________________________________│
+│                                                                     │
+│ MEMBERSHIP/S&T □ $21.00           JUNIOR (UNDER 12) □ $15.00      │
+│                                                                     │
+│ MEMBERSHIP ONLY  □ $8.00                                           │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│ EPHEMERIS is published monthly by the San Jose Astronomical Association,│
+│ 3509 Calico Ave., San Jose, Ca. 95124                              │
+│                                                                     │
+│ Officers:                                                           │
+│ President    Dave Ambrose   816 Everett St., El Cerrito, Ca. 94530│
+│              (415) 524-0869                                         │
+│ Vice-Pres    Denni Frerichs 15022 Broadway Terrace, Oakland, Ca. 94611│
+│              (415) 654-6796                                         │
+│ Sec.         James van Nuland  3509 Calico Ave., San Jose, Ca. 95124│
+│              (408) 371-1507                                         │
+│ Treas.       Robert Fingerhut  340 Rio Verde Pl., #4, Milpitas, Ca. 95035│
+│ Board of Directors:                                                 │
+│ Paul Mancuso     (408) 946-0738        Steve Greenberg    (415) 443-6638│
+│ Tom Ahl          (408) 997-1383        Gene Cisneros      (408) 923-6800│
+│ Wayne Rosing     (408) 354-1549        Chris Pratt        (415) 629-2994│
+│ Bulletin Editor: Denni Frerichs, 15022 Broadway Terrace, Oakland, Ca. 94611│
+└─────────────────────────────────────────────────────────────────────┘
 
 === PAGE 15 ===
-[Error extracting page 15: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA3CUmhzspJxKB6fin6'}]
+SIAA - PREMIERE
+3509 CALICO AVE.
+SAN JOSE, CA 95124
+
+TIME VALUE - DATED
+
+NEWS MATERIAL
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO.5831
+SAN JOSE, CA 95125

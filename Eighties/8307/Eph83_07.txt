@@ -1,59 +1,984 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA28nViJHmtWqheYEMV'}]
+JULY '83 (REALLY)
+
+SJAA
+
+EPHEMERIS
+
+[This is a star chart/map showing various constellations and celestial coordinates. The main labeled regions are:]
+
+LYRA
+HERCULES
+CORONA
+OPHIUCHUS
+
+[The chart contains numerous numbered stellar objects (like Σ2063, Σ2101, Σ2104, etc.) and coordinate markers. The chart is bounded by coordinate lines and shows the positions of stars of varying magnitudes represented by different sized dots and symbols. The equator line is marked at the bottom. The chart appears to be showing a region of the summer sky with declination markers on the sides.]
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA29LjGgTMeTPRQvwD8'}]
+# CALENDAR
+
+JULY 2 INDOOR STAR PARTY, LOS GATOS RED CROSS BLDG. 7:30PM
+
+JULY 9 STAR PARTY, FREMONT PEAK
+
+JULY 15 BOARD OF DIRECTORS MEETING, HOST TOM AHL 1260 Butterfly Dr.
+
+JULY 16 PUBLIC STAR PARTY, MARRIOT'S GREAT AMERICA
+        CONTACT FRANK DIBELL OR DENNI FRERICHS
+
+JULY 23 ANNUAL PICNIC, PORTAL PARK
+
+JULY 30 INDOOR STAR PARTY, LOS GATOS RED CROSS BLDG. 7:30PM
+
+AUG  6 STAR PARTY, HENRY COE STATE PARK -LOCK COMB: 4565
+
+AUG 12 BOARD MEETING, LOCATION TO BE DETERMINED
+        THE MEMBERSHIP IS ALWAYS INVITED TO  ATTEND AND CONTRIBUTE
+
+AUG 13 OPEN MEETING AT THE RED CROSS. BRING YOURSELF, YOUR SCOPE,
+        ANY NEW OR OLD PROJECTS, AND INTERESTS. 7:30 PM ON...
+        HWY 17 SOUTH, TURN RIGHT ON LOS GATOS-SARATOGA RD. THRU
+        TOWN, AND 1/2 WAY UP THE HILL. LOS GATOS RED CROSS BLDG.
+
+AUG 20 GENERAL MEETING. TOPIC AS YET UNDETERMINED. IF THERE IS
+        SOMETHING YOU WOULD LIKE TELL ANY BOARD MEMBER. THIS IS
+        ALWAYS ACCEPTABLE, AS THIS CLUB IS FOR ALL ITS MEMBERS.
+
+AUG 27 ANOTHER RED CROSS NIGHT, STAR PARTY IN THE PARKING LOT
+        NEWCOMERS ESPECIALLY INVITED TO LOOK AND LEARN. I WILL
+        HAVE A C-8 TO PLAY WITH THERE. (JZ)
+
+# ADDS
+
+CELESTRON EYEPIECES: K-40,K-25mm,OR.18mm,OR.12.5mm,OR.6mm,  #15 EACH
+   1.25in. star diagonal #12, complete set w/case $80
+10 INCH F/5.0 NEWTONIAN, ON EQUITORIAL FORK (WOOD) 3.1 in. diag,$450
+7x50 finder. WILL FIT IN V.W. EUC BUT NOT MY DATSUN.
+5 INCH MERCURY GUIDE SCOPE NEEDS WORK, $100 (TOM MATHIS BUILDER) or
+$50 with 10", has cradle and counter weight to fit ten inch
+CALL JACK ZEIDERS 846-6195 EVENINGS
+
+---
+
+EPHEMERIS is published monthly by the San Jose Astronomical
+Association, 3509 Calico Ave. San Jose, Ca. 95124 (408) 378-1307
+   All contributions are welcome and must be recieved by the 15th
+of the preceeding month.  Please type to a width of 6.5", if this
+is not possible, handwritten articles are TOLERATED single space.
+   All submissions may be sent to SJAA EPHEMERIS editor c/o DENNI
+HEDLOCK 15022 BROADWAY TERRACE, OAKLAND, Ca. 94611 (415) 654-6796
+
+SJAA President: Debra Frerichs
+15022 Broadway Terrace, Oakland, CA 94611 (415) 654-6796
+SJAA Treasurer: Bob Fjmaglia
+340 Pio Verde Pl #4, Milpitas, Ca. 95035
+
+Board of Directors:                    Dave Ambrose (415) 524-0869
+Eugene Clarence (408) 923-6800         Denni Frerichs (415) 654-6796
+Mark Winfrey (415) 524-0869            Chris Pratt (408) 629-2994
+Steve Greenberg (415) 443-6638         Jim Van Nuland (408) 371-1307
+PAUL MARCOUSO   NEWLY ELECTED          Tom Ahl (408) 997-1383
+
+JULY COVER: STOLEN FROM THE NORTON'S STAR ATLAS, FINDER FIELD FOR
+THE HERCULES CLUSTER
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2AiaYHLkb199cUzwG'}]
+FOR SALE
+MEADE SPOTTING SCOPE AND SILK TRIPOD, STAR DIAGONAL AND 2 EYEPIECES
+.965 SIZE $350.00 ALL
+CONTACT MIKE RAMIREZ AT (408) 247-0127
+
+WANTED
+A FINDER SCOPE FOR THE CLUB 14" DOBSONIAN PREFERABLY 7X50 OR LARGER
+CONTACT RON PROBST (408) 249-6772
+
+MID-JULY MARATHON
+
+The mid-summer Messier Marathon will be held Sat, July 9, if
+the weather is clear. You can observe from your favorite observing site, I'll be at Loma Prieta all night. Some 98 of
+the 110 Messier Objects should be visible, we'll just have to
+go out and see if that's true. I have search sequences, if
+you want one.
+
+Don Machholz
+
+SJAA PICNIC AT PORTAL PARK
+
+The annual SJAA picnic will be held this year at Portal Park
+in Cupertino from 11am to 5 pm. Hamburgers and hot dogs will be
+provided at a minimal fee ($1, adult, .50 kids covers everything).
+We've had such a great success in the past with potluck side dishes
+we're asking people to bring their favorites to share. Everyone
+is welcome: family and friends.
+
+Portal Park is ideal for a picnic with a large barbeque pit and
+shaded table area. There is also a huge lawn area reserved which
+is always the scene of baseball, kite flying, and crazy frisbee
+playing. Plan to spend a very pleasant day with your family and
+other SJAAers Saturday, July 23rd.
+
+Directions: from San Jose take Hwy 280 north and get off at the
+Cupertino-Saratoga-Sunnyvale Rd. exit. Turn left onto Stevens Creek
+Blvd and continue down it until you reach Protal Ave. Turn left and
+continue into the park.
+
+Remember: hamburgers and hot dogs with all the relishes will be
+there. Please bring beverages (soft, please), utensils, side dish
+to share, family, friends, kites, frisbees, appetites, etc.
+
+Since the picnic takes the place as the July general meeting
+we will also have officer installation (bolted down or plugged in?)
+and the presentation of the Dr. A.B. Gregory Award. (More on this
+below)
+
+DR. A.B. GREGORY AWARD BY DENNI FRERICHS
+
+At the June board meeting nominations were taken and voted on
+for the Dr. A. B. Gregory Award, to be presented to a club member
+who has contributed much to the SJAA in the past year. When the
+ballots had been counted Bob Fingerhut came out the winner. Congratulations, Bob!
+
+Bob is a long time member of the club and has contributed much as
+board member and officer-carried treasurer for the SJAA. He is much
+deserving of the award (as are many of the club members). Please
+show your support by attending the presentation at the July 23rd
+picnic.
+
+Thanks also go to Mrs. Jean Gregory for her recent donation to
+the award fund, and for her continuing interest in the SJAA.
+
+CAPTION CONTEST                BY DENNI FRERICHS
+
+As promised, but a month late, the Board voted on all of the
+entries for the caption contest announced earlier. Below are
+all the entrants. The winner is Ken Wilson, of Richmond, Virginia,
+who submitted #1-14! Congratulations! He will be sent a T-shirt
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2CCNmf4Y5W6VZkUpS'}]
+from the U.C. Berkeley Ten Meter Telescope Group.
+#15 was from Allan Takahashi, #16 from Don Stone, and #17 from
+Kevin Medlock.
+
+Oh! The winner (by the way) is #10.
+
+1) No, sorry, I'm not interested...I'm strictly a Deep Sky Observer!
+2) Pardon me, sir, but could you direct me to the SJAA Halloween Party?
+3) No I don't know the way to the tryouts for Goerge Lucas' new musical!
+4) Hey, Ethyl I've finally found an error in the Astronomical Almanac! It
+   said Saturn would be out tonight and it's nowhere to be found!
+5) Yes, Jim, I've definitely got a disappearance here; I can't see Saturn
+   at all!
+6) OK! OK! Keep your rings on, I'll be through in a minute! If there's one
+   thing I can't stand, it's a pushy planet!
+7) Whaddaya mean "invading your privacy?"
+8) What do you mean "watch out for the Roche Limit?"
+9) The Complete Novice Astronomer's Handbook by I.M.A. Beginner
+   see Chapter One - The dangers of Excessive Magnifying Power
+10) Pardon me, sir, but could you tell me how to get to JPL? They called and
+    told me my pictures were ready.
+11) Hey! Turn off that bright light, will you! I'm looking for Saturn and I
+    can't see a thing with all that light!
+12) What do you mean "you're looking for the Ring Leader?"
+13) An Avid Amateur Astronomer's Anthropomorphic Astronomical Apparition.
+14) Not tonight, sweetheart, it's New Moon!
+15) "Ring Around the Collar!"
+16) Excuse me, but do you happen to know my coordinates?
+17) Excuse me, do you happen to have an Ephemeris I could borrow?
+
+9'TH ANNUAL UPSILON PEGASIDS WATCH
+
+This year the conditions will be excellent for the Upsilon Pegasid Meteor Shower. The current focus of the research is on photographic patrol of the shower radiant.
+
+The 1982 Upsilon Pegasid Fireball
+
+On August 19, 1982, the European Meteor Network photographed a
+-14.0 Upsilon Pegasid Fireball with five Czech cameras of the network.
+The reduction of this data confirmed the orbital elements of the
+shower and answered many of the questions concerning this new shower.
+However many questions still exist concerning rates, size of the
+radiant and radiant drift. A good spectra is also needed.
+
+Photographic Techniques
+
+The ideal camera for photographing this meteor shower is a 35 mm
+camera with a fast 50 mm lens. Do not use either a telephoto or wide
+angle lens. Point the camera directly at the radiant which is in the
+Square of Pegasus. The recommended films are Kodak 2475 Recording
+Film and Tri-X. Keep the exposures short--five minutes or less.
+Process the film for three times the normal development time. If you
+choose not to develop the films yourself, I will be glad to process
+them for you without charge. Color films are not recommended, but if
+you do wish to try them, use the new Kodacolor VR 1000.
+
+Dates of the Shower
+
+The maximum of Upsilon Pegasids is thought to be about August
+8th. New moon occurs on August 9th, so both the Upsilon Pegasids
+and the Perseids will occur in dark skies. Observations should be
+started by August 5th and extend well past the Perseid maximum which
+occurs on August 12th.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2Cj8GfRd92b7ttpE8'}]
+# Characteristics of the Upsilon Pegasids
+
+The velocity of these meteors is slightly slower than the Perseids and slightly faster than the Delta Aquarids. The average magnitude is slightly fainter than that of the Perseids. The most commonly reported color is yellow-white. Most shower members have not left any significant trains.
+
+## Information and Reports
+
+For further information and reporting of observations of this shower, write to the following address: Harold Povenmire
+                                                Florida Fireball Patrol
+                                                215 Osage Drive
+                                                Indian Harbour Beach
+                                                Florida  32937
+
+# GREAT AMERICA STARPARTY
+
+I still need some more volunteers to spend the day at Marriott's Great America on Saturday, July 16, from 9AM to approximately midnight. Only those volunteers who have contacted me will be allowed free admission to the park, so please don't arrive unannounced; I need to get your names in a week in advance. You don't need to bring a telescope - just your knowledge of Astronomy and a desire to help. If you are interested, please call me (Frank Dibbell) at (408) 746-6493 on weekdays between 8AM and 5PM.
+
+## SJAA Annual Picnic at Portal Park
+
+Remember to circle Saturday, July 23, on your calendar, for a day of fun, food, frisbees, and friends! We have had so much success with Portal Park as a location for our Annual Picnic that we will be holding it there again.
+
+This year we will be asking for a one dollar donation per hamburger (fifty cents for those under 12). As in previous years, the SJAA will supply the meat and buns; everything else is potluck! So be sure to bring your favorite dish to share.
+
+One warning: be prepared to have a good time! The picnic starts at 11AM, and breaks up around sunset or so. See you there!
+
+[THIS IS FIGURE: A simple map showing the location of The Park with parking area, surrounded by streets labeled Homestead, Saratoga-Sunnyvale RD, Blaney, Portal, and Wolfe RD. The map includes a north arrow indicator and shows Stevens Creek.]
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2DDPxHc3Dm7t5jx8E'}]
+# GREAT RED SPOT EPHEMERIDES
+
+The critical requirement for successful Spot-watching continues to be seeing. With very steady air, the Spot is readily seen with an 8-inch, and probably with smaller instruments.
+
+But I have received no reports one way or the other! Please drop me a card indicating your results. Include telescope size, magnification, seeing conditions, and a few words about your results. I'll summarize here to encourage those with modest instruments.
+
+The belt north of the Spot continues to fade; it has blurred out so it no longer interferes. The Spot showed definite color at last Saturday's star party. During moments of good seeing, my 8-inch at 185 and 305x showed a nice light yellow using the apodizing screen, though less experienced observers present called it colorless as seen with a C-8.
+
+Note that this list is appreciably shorter than last month. August will provide only about five opportunities! Get out for the early evening times -- Jupiter is well up by twilight. Frequently the late twilight period, when the Sun has set but the ground has not yet begun to radiate, provides the best seeing of the night. The morning clouds do not form till late.
+
+```
+Great Red Spot          Great Red Spot
+on Meridian PDT         on Meridian PDT
+da mo  d   h  m         da mo  d   h  m
+Th  6 30  10 54 pm      Su  7 17   9 54 pm
+Su  7  3   0 39 am      Tu  7 19  11 39 pm
+Tu  7  5  10  1 pm      Su  7 24  10 44 pm
+Th  7  7  11 48 pm      F   7 29   9 51 pm
+Tu  7 12  10 52 pm      Su  7 31  11 27 pm
+F   7 15   0 26 am      F   8  5  10 33 pm
+```
+
+Recent timings are consistent with predictions, so the tracking equation has not been altered. These times are a continuation from last month.
+
+Clear Skies,
+Jim Van Nuland
+
+---
+
+# THE CELESTIAL TOURIST SPEAKS
+BY JAY REYNOLDS FREEMAN
+
+Notwithstanding pessimistic press, scenic zohemerides and the baleful glare of city lights, Comet Kohoutek—milock was an eyenaked-eye object the evenings of Nov 10 and 11. I first acquired it visually from the College of San Mateo campus shortly before the end of evening twilight on the 10th. Later that evening, it was prominent from my home on the flats of Belmont, as a halfdeqree diffuse patch, of magnitude perhaps between 3 and 4, with a few degrees of tail. Inspection with an 11x80 binocular showed a substantial central brightening within the coma, but nothing that I would call a true nucleus. Naked-eye observation on the 11th showed the coma apparently larger and perhaps a half a magnitude brighter, though with less tail. My estimate of size and magnitude may be biased by different sky conditions on the two nights.
+
+The newspaper and radio publicity that I noticed about this comet, was very disappointing. Everyone was being pessimistic about its naked-eye visibility. The inference was that it wasn't worth trying to look for it. What sloppy journalism! No doubt many of the press were trying to avoid a repeat of the excessively optimistic publicity given to Comet Kohoutek in 1973, but an underestimate is no less a misrepresentation of fact than an over-
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2DiADHqpRkduAPuYc'}]
+estimate. Too bad that people were not encouraged to go out for
+a beautiful view.
+
+One of the finer points of astronomical one-upmanship is to
+start a conversation about observing the Hercules Cluster and
+then, five minutes later, explain that you ment the cluster of
+galaxies and not M 13. Those of you who would like to attempt
+this feat might want to survey a half-degree-diameter field cen-
+tered at 1950 coordinates 16h 2.0m, n17deg. 55min. This field is
+in Hercules,not quite a degree east of a fifth-magnitude star
+shown (for example) in Norton's Star Atlas and on the AAVSO Var-
+iable Star Atlas. The latter atlas also shows a 6.9-magnitude star
+which is just at the western edge of the field in question. On
+the night of August 1-2, 1981, observing from Fremont Peak with
+my Celestron at 122x, I found five or six galaxies in that field.
+I noted that the brightest two might be detectable with less aper-
+ture.
+
+If you don't have luck in this area with the low magnifica-
+tions of five or so per inch of aperture, that are commonly used
+for deep-sky observing, try some more power. I have found that as
+much as 15 diameters per inch of aperture -- about 200X on the
+C-14-- often helps with the detection of distant galaxies. Pos-
+sibly the reason is that more power spreads out the brighter por-
+tions of these galaxies -- the nuclei -- enough to make it obvious
+that they are not stars, or maybe the reduced apparent brightness
+of the background is helping. Or maybe what counts is the reduction
+in total quantity of light reaching the retina. Anyway don't be
+afraid of putting a little power on diffuse objects.
+
+The angular diameter of the Hercules Cluster is in fact many,
+many times greater than half a degree. No doubt there are other
+fields where some of its members can be seen in a largish amateur
+telescope.
+
+I would like to add a few words to the discussion of apodizing
+screens in Jim Van Huland's article last month. About a year ago
+I did a theoretical analysis of apodizing screens and a few rela-
+ted subjects, for my own interest. It takes moderately complicated
+mathematics (messy integral transforms) to show what's going on,
+so I will just sum up the results.
+
+They certainly ought to work. It turns out that in proportion
+as you make the transmission of your optical system go smoothly
+and gently to zero at the edge of the incoming beam, then the
+proportion of the total light in the sucessive bright rings of
+the diffraction pattern of a star will become smaller and smaller.
+One can be very precise about what goes on by saying "smoothly and
+gently" and by "smaller and smaller", but not without invoking
+some complicated mathematical terminology. You pay a slight price
+for this improvement, in that the diameter of the central disc of
+the diffraction pattern is slightly increased. The prediction is
+that the with an apodizing screen, an otherwise perfect telescope
+should provide better contrast for fine detail down to perhaps
+one and a half times as wide as its the theoretical resolving power.
+That is, a six-inch telescope, whose theorectical resolving power
+is about 0.76 arc seconds, might show features down to 1.1 arc
+seconds in size slightly better with an apodizing screen than
+without.
+
+My analysis did not breach the question of what an apodizing
+screen does to poor seeing.
+
+If a telescope has a turned-down, turned-up or otherwise
+defective edge to its objective, an apodizing screen might offer
+
+6
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2ECgPE2eGjfhsbXrP'}]
+a substantial improvement in performance simply by masking it off.
+But even perfect optics should be improved with a properly matched
+apodizing screen, for certain kinds of detail.
+
+Actually, my analysis was directed at the opposite problem:
+What happens when you "de-apodize"; that is, when you block out
+the center of the objective with a big fat secondary mirror? We
+all know that the diffraction rings get brighter, and a few of us
+know that the central disc gets smaller. I wanted to know how
+much smaller. It turns out that a telescope whose secondary has
+a diameter that is 32 percent of the primary diameter (e.g., my
+C-14), will produce a diffraction pattern whose central disc is
+about ten percent smaller than that produced by an unobstructed
+primary. No, I am not talking about the amount of light in the
+disc, I mean the angular distance between the center of the diffraction pattern and the first minimum-- the center of the first
+dark ring.
+
+That is, an immaculately fabricated Maksutov or Schmidt-Cassegrain in the commenmorary style should out-resolve by some ten
+percent an equally well-fabricated apochromatic refractor or
+Schrefzegian lens, when observing double stars of approximately equal
+magnitude. (The latter qualification is extremely important; and
+as many will be quick to point out, the owner of a refractor or
+a Schiefzegian can always install a temporary central obstruction in the event that it turns out that I do know what I am talking about.)
+
+If a little is good, how about some more? Let's enlarge the
+central stop to 90 percent of the primary diameter. That throws
+a horrendous amount of light into the diffraction rings, and reduces the image brightness a lot simply by discarding 81 percent
+of the photons that are trying to get through the telescope; but
+the central disc of the diffraction pattern is now only two-thirds
+the size as for an unobstructed primary. That is a fifty percent
+improvement in resolving power for equally bright double
+stars. Such a device might better be termed a ring interferometer
+than a conventional telescope.
+
+As a final benchmark, consider a classical interferometer, a
+focusing optical system fed by two small apertures, whose distance
+apart equals our telescope's primary diameter. It will image a
+bright star with a series of bright and dark fringes, and the
+angular spacing between centers of adjacent bright and dark fringes will be only 41 percent of the angular spacing between the
+center of the unobstructed telescope's Airy disc and the middle
+of the first dark ring.
+
+COMET COMMENTS                                BY DON MACHHOLZ
+
+Comets abound this summer, as three periodic comets grace our
+skies, while a fourth comet fades out in the Southern sky.
+Additionally, a faint periodic comet has been recovered and the
+antificial satellite IUE has discovered it's second comet.
+
+In our Past Discoveries department, we look at two amateur
+comet discoveries during recent Julys. Between 1975 and 1982,
+of the 25 comets discovered by amateurs, only eight were discovered during the first six months of these years. The remaining 17 were found during the latter half of these years.
+
+Periodic Comet du Toit-Neujmin-Delporte (1983g): This comet,
+originally discovered in 1941, has been recovered by J. Gibson
+with the 48-inch Schmidt at Mt. Palomar. It was picked-up in
+Aquarius on May 20 at magnitude 19. It is not expected to get
+any brighter.
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2Ekfau1Ryum437JGW'}]
+Comet IRAS (1983f): This comet, the second discovered in three
+weeks by the Infrared Astronomical Satellite, was first observed
+by IRAS on May 13 and was confirmed five days later. At dis-
+covery it's magnitude was 17 and it was seen in the constellation
+Hydra, near it's star Alpha. It now appears that this comet was
+closest the sun Jan. 20 of this year, when, in the S. Hemisphere,
+it reached mag. 14.5. It is now moving away from the sun and
+earth and is not expected to get any brighter.
+
+PAST DISCOVERIES
+
+Comet Kobayashi-Berger-Milon (1975h): This mid-summer comet was
+first seen by Toru Kobayashi of Japan on Thursday morning, July
+3, 1975. Then it was spotted by Doug Berger (Union City, Calif)
+and Dennis Milon, observing from Wyoming. Many other observers
+saw this comet in the first week too. On July 3 the moon was
+two days past Last quarter and the comet was mag. 7.3 and 124O
+from the sun at RA 21.1+7, Dec. -7'.
+
+This comet was not a "comet-hunter's comet", it was far from
+the sun (in degrees) and not in the part of the sky likely to
+be swept by amateur comet-hunters. The moon had left this part
+of the sky four days before, meaning it could have been dis-
+covered from June 30 onwards. A bright moon interferred between
+June 18 and June 30. On June 13, two weeks before discovery,
+the comet was at RA 22:03, Dec. -13° at mag. 9.2. And two weeks
+before that, (one month before discovery), it as at RA 22:01,
+Dec. -22, and mag. 10.7.
+
+This comet showed a "tame" light curve during observation,
+we may therefore assume that it did not "flare" into visibility
+in early July. Worldwide weather in June, 1975 was good, so the
+question remains; Why wasn't this comet discovered up to a month
+before it was first spotted? I can think of at least two rea-
+sons. First, it wasn't in the usual comet-hunting grounds.
+Comet hunters missed it for this reason. Secondly, the comet was
+in an unspectacular part of the sky, casual observers did not
+pick up the comet until it neared the globular cluster M 2. In-
+deed, the second and third discoverers of this comet were search-
+ing for M 2 when they found the comet. Therefore, neither comet
+hunters nor non-comet hunters had any reason to search in the
+area where a bright, undiscovered comet lingered for over a month.
+
+Comet Cernis-Petrauskas (1980k): This comet was discovered by
+these two Russian amateurs on Thursday evening, July 31, 1980.
+It took two weeks to confirm the discovery. Cernis used 20x110
+binoculars while Petrauskas used 12x30's. Cernis had spent 808
+hours searching, and Petrauskas had swept for around 100 hours,
+both men were observing together when the comet was discovered.
+It was at first reported to be mag. 9, but later estimates indi-
+cate it was probably mag. 9.5 at discovery, when it was at RA
+11:50, +32°. It was 43° from the sun and it was four days after
+Full Moon. This was probably the second evening since Full Moon
+when the comet could have been discovered, but what about the
+weeks before that?
+
+Six weeks before discovery the comet was as bright as mag.
+6.7, but it was 139° from the sun and not visible in a dark sky.
+In the months before it was slightly fainter but always within
+25° of the sun, and therefore undiscoverable. Only in the first
+week óf July did the comet peek above the horizon after evening
+astronomical twilight, then it climbed steadily until,.on July 31,
+when it was 25° degrees high at twilight, and fading in brightness.
+The moon, Full on July 27, interferred for a week prior to that
+date, This leaves the second and third week of July, and the last
+two days of July as probable discovery times.
+
+It seems as though this comet would have been a difficult
+"find" during mid-July because it was still close to the horizon.
+Then the moon's light got in the way, finally the fading comet was
+discovered when it was easiest visible, high above the horizon
+and still fairly bright.
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2FHfXvWRSNzzyg8MR'}]
+# Ephemeris for known comets:
+
+Date (1983) R. A. Dec. Mag Ests.
+
+Periodic Comet Temple 1 (1982i)
+06-25  13:06.1  -03°25'  11.4 (10.4)  This comet moves thru
+07-05  13:23.6  -07 29   11.4 (10.4)  Virgo, passing between
+07-15  13:43.8  -11 30   11.6 (10.6)  Saturn and Spica mid-
+07-25  14:06.6  -15 23   11.7 (10.7)  month. Its about 3'
+08-04  14:31.6  -19 01   11.9 (10.9)  in dia. and condensed.
+                                       IAU Cir 3773.
+
+Periodic Comet Kopff (1982k)
+06-25  15:23.2  -10 53   9.6 (8.6)   Running brighter than
+07-05  15:27.3  -12 17   9.6 (8.6)   expected, this comet is
+07-15  15:35.7  -13 57   9.5 (8.5)   diffuse and about 5'
+07-25  15:48.4  -15 49   9.6 (8.6)   in dia. Its about 15°
+08-04  16:04.8  -17 44   9.7 (8.7)   WNW of Jupiter.
+                                       IAU Cir. 3779.
+
+Periodic Comet Temple 2 (1982d)
+                                       This comet races thru
+06-25  00:57.9  -01 30   9.9         N. Cetus. It is about
+07-05  01:25.6  -00 43   10.1        7' in dia. and diffuse.
+07-15  01:51.1  -00 16   10.3        It will be fading rap-
+07-25  02:13.8  -00 09   10.6        idly.
+08-04  02:33.6  -00 23   10.8        IAU Cir 3794.
+
+Comet Sugano-Saigusa-Fujikawa (1983e)
+                                       This comet barely moves
+06-28  14:05.3  -41 41   9.1         in the evening southern
+07-03  13:57.9  -41 51   9.9         sky as it moves away
+07-08  13:55.0  -41 57   10.7        from us.
+07-13  13:54.6  -42 05   11.3        Data from Dennis di Cicco.
+
+                        Don Machholz
+                        (408) 448-7077
+
+# JUNE STAR PARTY    BY JIM VAN NULAND
+
+The June 4 star party at Henry Coe State Park was very successful. After an afternoon of showing Venus and the Sun to the hikers, the evening began by getting cool rather quickly, but made up for it by also being clear and steady.
+
+The planets were the major attraction for awhile, as I compared the three and five-layered apodizing screens. The fivelayer is definitely superior. Less bleary light, sharper details, and with less-noticeable spectra.
+
+Mid evening was punctuated by a nice fireball in the southern sky, which lighted up the site -- we were yelling about whose headlights when we realized what was going on!
+
+There were only about 18 members in attendance, which was too bad for those who didn't come. We had a good one. Final guests were a pair of raccoons who wouldn't take no for an answer - went on trying to steal the rest of my potato chips until I finally discouraged them by dousing at least one with some RC Cola!
+
+June 11 saw an impromptu session at Loma Prieta. Conditions were even better than described above; no wind after dark and excellent seeing for the early part of the evening. Major attendees were co-workers of Dave Kilausner and myself.
+
+Attempts at observing the four comets that were predicted were mostly unsuccessful. We did get a look at p/Kopff when Don
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2FmwFP4ohE862AQYr'}]
+Machholz stopped by on his way up. Others were suspected but
+were too dim to be sure.
+
+Many Milky Way objects were enjoyed. The clear horizon along
+the south added to the lovely view of the Sagittarius - Scorpius
+region.
+
+BEGINNERS' CORNER BY BRUCE DE GRAAF
+
+With summer approaching, it is time to discuss star party
+etiquette. We have developed the formalised rules of behavior over
+time as problems arose and were solved. As the SJAA is a not for
+profit if not downright poor organization, we are highly dependent
+on the good will of citizenry and governments for access to
+observing sites. Also, there is a certain nobility in doing
+something properly just because it is the right thing to do.
+
+Most of the rules stem from the "Zen" of astronomy: people working
+with minimal resources (photons and minimal dollars) to
+achieve remarkable results. Any cluttering of such a person's
+environment results in the need to expend extraordinary amounts of
+energy to overcome the trash. Therefore:
+
+-When in a vehicle and approaching an observing
+site, if conditions permit, turn off your
+headlights, wait for your eyes to adjust, and then
+proceed on parking lamps. Don't clutter the
+environment with stray photons! If the star party
+is one of the special, astrophotographic parties,
+arrival, etc; exercise even more consideration.
+Under any circumstances, whatever you do, don't run
+over a 'scope (or a person, for that matter)! Try
+to park so as to not block the access. When I get
+cold, I want to go home, not admire your Belchfire
+V12 Blortzmobile blocking the road!
+
+-Music is wonderful, except when it is noise! One
+person's music is garbage to another person's ears.
+I admit to generally enjoying the Tomita version
+of "Pictures at an Exhibition" played in the dark
+and on a mountaintop. However, a good friend of
+mine (Bill), a novice astronomer and excellent
+musician cannot stand Tomita. Bill feels that
+Tomita is the "Lawerence Welk of synthesizer music."
+Before you crank up your fully digital, equalized,
+four megawatt stereo, make sure that nobody objects
+(including the neighbors down the road). Don't
+clutter the environment with phonons! We are an
+astronomy mob, not concert promoters!
+
+-Do you like to take pictures? One very beautiful
+photograph is a time exposure of the observing site
+(about a half an hour). At the end of the
+exposure, walk about with an electronic flash aimed
+at the ground. Fire the flash about six times.
+The image is really quite nice. Your medical bills
+will not be worth it however! There is nothing
+quite so awesome as a strobe beam down a ten inch
+Newtonian... or an enraged VanNuland once his
+night vision returns! Don't strew photons about!
+They are precious gems!
+
+-It's cold! A little nip will make you feel
+warmer. Actually, it will make you more
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2GKBSTT1S2VszTRHT'}]
+susceptible to the cold because alcohol constricts
+the blood vessels. Because of this, it also
+reduces your night vision. If you are stopped
+because of alcohol, imagine what kind of reputation
+you are dropping on the SJAA. How would you like
+to pay five bucks a head just to enter the
+observing site? It could happen.
+
+-Gotta have a -grettel I pity you with your
+addiction: it will reduce your night vision too.
+Don't set the countryside on fire, pocket the
+filter, and do itdownwind. What!? A doobie!?
+...not at the observing site, idiot! A joint could
+blow away years of careful cultivation of trust by
+many benefactors to the SJAA.
+
+-It's time to go home. What should be cleaned up?
+A simple rule: if it don't grow, it gotta go...
+'cept rocks! Just as when you borrow something,
+return it in better shape than when you received
+it. That is sometimes very hard to do; try your
+best. Another slogan is "Take nothing but pictures
+and leave nothing but footprints."
+
+None of the above is very hard to remember. Just keep in mind the
+Zen of astronomy: remarkable results from minimal resources.
+
+LAST OF THE BIGTIME COMET HUNTERS
+BY DON MACHHOLZ
+
+The discoveries of Comet. IRAS-Araki-Alcock (1983d) and Comet
+IRAS (1983f) remind me once again that the era of the visual
+comet hunter is limited, and that "space-age technology" is
+helping to bring it to a close.
+
+The first telescopic observation of a comet seems to have
+been by Kepler in 1618, the first comet discovered with a tele-
+scope being that of 1680 by Kirch. Some 80 years later, in 1769,
+telescopic searches for comets began. The Frenchmen Messier,
+Mechain and Pons, then the Americans Swift, Brooks and Barnard,
+championed in comet discoveries—all telescopic visual discover-
+ies.
+
+Photographic comet discoveries began in the late 1800's
+and reached prominence in the 1940's and 1950's when the large-
+field Schmidt cameras were pressed into service for nova and
+asteroid patrol. While some of these comets became bright
+enough to have been discoverable by amateurs' telescopes, most
+were short-period faint comets, never getting near the sun or
+earth. Between 1975 and 1982, 64 comets were discovered,—39
+by the professional astronomers using photographic techniques,
+and 25 by amateurs using visual means. Only a handful of the
+39 "professional" discoveries would have been discovered by
+amateurs, an example being Comet West (1975n).
+
+But now the satellites are beginning to discover comets.
+Last year it was reported that the SolWind satellite, which is
+supposed to be watching the sun, accidentally discovered three
+comets, over a 1½ year period, crashing into the sun. And
+recently, the earth-orbiting satellite IRAS has made two dis-
+coveries.
+
+We have known for years that a well-placed comet-hunting
+satellite would have several advantages over the earth-based
+observer. Weather would always be clear, no horizons would
+obstruct the area near the sun, and no atmosphere would scatter
+the sunlight. The point is that no one can afford to send up
+a satellite for comet-hunting only--these discoveries have
 
 === PAGE 13 ===
-[Error extracting page 13: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2GqBZE9sjbb7KCiJJ'}]
+been made by satellites involved in other activities. As more
+satellites are sent up, more comets are likely to be discovered
+by them.
+
+I recall the conversation I had with Dr. Everhart, of
+Colorado, a comet with a couple of comet discoveries
+in the 1960's. I mentioned the possibility of a comet-searching
+satellite bringing the era of visual comet-hunter to a slow end,
+but Edgar foresees the time when it will become automated. An
+observer could hook up a television camera to his telescope,
+boost the signal, then introduce high contrast so he can easily
+spot comets as they sweep across his television screen. Indeed,
+with a little money he could place automated telescope-cameras
+in both the Northern and Southern Hemispheres, (at the clearest
+and darkest locations) and transmit the video to his home, where
+he can sit at home and watch the sky sweep across his tele-
+vision screen, with the ever-changing co-ordinates flashing
+across the bottom of his screen.
+
+Somehow, it seems like it would be more fun to peer through
+a telescope or binoculars from some mountain top in 30º weather,
+spending a thousand hours of lone sweeping to cross paths with
+an undiscovered comet. Such days, and such comets, are numbered.
+
+RIVERSIDE '83                                BY DENNI FRERICHS
+
+The Riverside Telescope Makers' Conference, held Memorial
+Day weekend at Big Bear Lake in southern California, had between
+900 and 1,000 amateur astronomers and telescope enthusiasts attending.
+I drove down early (4 am!) Friday morning in a caravan consisting
+of Bob Schalck, Steve and Dan Greenberg, Jack Marling, and Dennis
+Merrill.
+
+The full Moon evidently kept the conference numbers down as well
+as the number of SJAAers who attended. Other club members I saw there
+were Gene and Sharon Cisneros, Kim McKelvey, Joe Sunseri, Norm Neinchel
+and John Gleason.
+
+RTMC head host Cliff Holmes and his wife Jackie had travelled
+cross country last year to attend Stellafane and the influence of
+that Vermont conference were evident from the start. Instead of a
+free-for-all in camping on the main field, only telescopes in comp-
+etition were allowed to set up there, sharing it with the commercial
+exhibitors that are usually in abound. This consolidation of tele-
+scopes in competition really was a boost to the normally exhausted
+judges, who in past years have had to hike from the lake to "telescope
+alley" looking for scopes with numbers on them. In all, only 40
+instruments were entered in competition, down from the near 60 that
 
 === PAGE 14 ===
-[Error extracting page 14: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2HQfJqvpt6qWeJd6W'}]
+have been seen in the past three years. They represented a hodge-
+podge of telescopes and accessories ranging from a 3" refractor to
+the 29.5" Dobson from the Santa Barbara Astronomical Society. The
+overall quality appeared to be down from recent years but there were
+some good examples of innovation and craftmanship. DennisGallagher
+has his solar telescope with a handmade, tuneable to ± 2 Å H alpha
+filter which had a higher resolution and contrast that any of the
+other three commercial ones available there. Don Schaffer from the
+Sacramento area brought his fork mounted 24" that weighed only 210
+pounds, including the mirror! An aircraft designer by profession,
+he had adapted state of the art epoxy graphite technology to the
+fork and base, in what was his first telescope. A neat, collapsible
+8" backpacking telescope on a billiard ball (Omni-scope type) mount
+won the Warren Estes Award.
+
+The reduction in the people attending actually made using the
+facilities quite comfortable. For example, an expected reopening of
+the newly remodeled kitchen didn't happen on time and all the meals
+ended up catered. The food wasn't bad and you could go back for sec-
+onds and thirds of everything.
+
+It was shirt-sleeve star party weather the whole weekend - hot during
+the day and the warmest at night I've ever known the RTMC; light
+sweater needed at night at most. Too bad it was full moon.
+
+The quality of telescopes and the number of people should pick up
+next year as the moon's phase gets better, but all in all, it wasn't
+a bad way to spend Memorial Day weekend.
+
+================================================================
+
+TEXAS STAR PARTY 1983
+
+On the other hand, the Texas Star Party for '83 was a total
+contrast to Riverside, or even Stellafane. Held June 7-12 at
+Fort Davis in western Texas, it is billed as a star party with
+telescope competition on the side. About 450 people showed up
+and camped at the Prude Dude Ranch, setting up telescope in 3
 
 === PAGE 15 ===
-[Error extracting page 15: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2Ksjpyz3FFmMVqaBw'}]
+football sized areas of the ranch. Most instruments were commercial
+but the home builts that were there would have held their own at
+any other conference.
+
+Kevin and I had left home the previous weekend and travelled to
+Palomar, Kitt Peak, and Sacramento Peak observatories before pulling
+into the star party Wednesday afternoon. The weather along the way
+had been a comfortable 75-80°. Temperature the whole four days at
+the ranch was 100 -110°, dry and dusty, and not an air conditioner
+to be found. I tried living in the ice chest but it wasn't big enough,
+Ft. Davis actually ran out of ice trying to supply the group, and to top
+it off, a water main was broken so there was little pressure for the
+showers. What a way to camp!
+
+However, the observing was decent. Kevin had brought along his new
+brass 6" refractor. I say new because everything from the cradle
+down, including equatorial head, tripod, and weight-driven drive
+was new. The lens and tube assembly are an unknown from the turn of
+the century. After working with much larger aperture for so long I
+was surprised to find out what a long focus 6" could actually pull
+out of the sky. Nebulae and star clusters were superb and the planets
+were unsurpassed.
+
+At the TSP were two people I had been wanting to meet for a
+very long time. One was Sherman Schulze of Macalister College
+in Minnesota, leader of an active telescope making class at the
+college and author of many articles for Telescope Making. The
+three telescopes Sherman brought all won for optical excellence.
+The other man was Dr. John Gregory, of Gregory-Maksutov fame. He
+unfortunately did not have his prize-winning Mak with him but he
+did bring an interesting 4" refractor. There seems to be a resurgence
+in refractor allegiance: there were at least 6 there, and three of
+them were Alvan Clark's.
+
+The talks were very well arranged and given. Guests speakers
+included Geoffery Burbidge, Harlan Smith, Alan Gorki, and Walter
+Scott Houston. Talks of similar topics were scheduled on the same
 
 === PAGE 16 ===
-[Error extracting page 16: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2LPkCcxR9Nvc2mxnA'}]
+day so there was no scattering of interests back-to-back.
+
+Kevin's refractor won for Overall Excellence in Craftmanship and Design and that was a pleasant surprise. Another surprise was that Tut Campbell of Dixie Telescopes in Atlanta, who is supposidly a refractor "expert" feels that because of the lens arrangement and design of the tube assembly that it is probably a Brashear. Now that would be nice! However, we will probably never know its true origins.
+
+The people at TSP were very nice and friendly even if the weather wasn't. (Kev says it was cooler than last year!) It was worth the trip but we don't think we'll do it again. If we want to star party, you'll see us at "cool" Fremont Peak!
+
+PALLAS OCCULTATION OF 1 VULPECULA
+
+BY JIM VAN NULAND
+
+[THIS IS FIGURE: The image contains two astronomical charts/diagrams. The top portion shows a star field with coordinates and markings, including labels for "Pisces" and "Aquarius". The bottom portion shows a more detailed grid-based star chart with various markings and coordinates labeled with "HrA" and other astronomical notation.]
 
 === PAGE 17 ===
-[Error extracting page 17: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2MHaFfBEpvP3rNnZC'}]
+1983 MAY 29 OCCULTATION
+
+PRELIMINARY, BASED ON 54 CHORDS
+
+[THIS IS CHART: A coordinate graph with X and Y axes. The Y-axis ranges from approximately -300 to +300, and the X-axis ranges from +200 to -300. Multiple diagonal parallel lines are drawn across the graph in a pattern. There are some handwritten notes and markings on the left side of the graph. At the bottom right, there appears to be text that reads "MARIE MAIER DAVID DUNHAM 23 JUNE 11"]
+
+[THIS IS FIGURE: Below the main graph is what appears to be a star chart or celestial map showing various constellation patterns, dots, and connecting lines against a lighter background]
 
 === PAGE 18 ===
-[Error extracting page 18: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2MpKoWunrzXEKzTTk'}]
+CHORDS FOR PRELIMINARY PALLAS PLOT
+
+1 DANIA, FL-W.I.H.
+  DANIA, FL-W.I.H.
+  DANIA, FL - J.Z.
+2 DANIA, FL - J.Z.
+  DANIA, FL - J.Z.
+3 ANDYTCWN,FL-DWD
+  ANDYTCWN,FL-DWD
+  ANDYTCWN,FL-DWD
+  ANDYTCWN,FL-JBD
+4 ANDYTCWN,FL-JBD
+  ANDYTCWN,FL-JBD
+  ANDYTCWN,FL-JBD
+5 ANDYTCWN,FL-L.W.
+  ANDYTCWN,FL-L.W.
+6 ANDYTCWN,FL-R.T.
+  ANDYTCWN,FL-R.T.
+  ANDYTCWN,FL-R.T.
+7 KITT PEAK
+  KITT PEAK
+8 GREEN VALLEY,AZ-R
+  GREEN VALLEY,AZ-R
+  GREEN VALLEY,AZ-R
+  DAVIS RANCH,AZ-JM
+  DAVIS RANCH,AZ-JM
+  DAVIS RANCH,AZ-JM
+  DAVIS RANCH,AZ-JM
+9 DAVIS RANCH,AZ-JM
+  DAVIS RANCH,AZ-JM
+  DAVIS RANCH,AZ-JM
+  DAVIS RANCH,AZ-JM
+  DAVIS RANCH,AZ-JM
+10 LEE,FL-DAN BACON
+   LEE,FL-DAN BACON
+11 NR.GAINESVILLE,FL
+   NR.GAINESVILLE,FL
+12 ROCKLEDGE,FL-M.S.
+   ROCKLEDGE,FL-M.S.
+13 SATELLITE B.OBS.
+   SATELLITE B.OBS.
+   SATELLITE B.OBS.
+   BRONSON,FL-UF OBS
+14 BRONSON,FL-UF OBS
+   BRONSON,FL-UF OBS
+   BRONSON,FL-UF OBS
+
+15 COCOA,FL-R.WOOD
+   COCOA,FL-R.WOOD
+16 W.MELBOURNE,FL-DS
+   W.MELBOURNE,FL-DS
+17 S.MELBOURNE,FL-NH
+   S.MELBOURNE,FL-NH
+   VALKARIA AIR F.JD
+18 VALKARIA AIR F.JD
+19 VALKARIA AIR F.RM
+   VALKARIA AIR F.RM
+20 WABASSO,FL-L.REED
+   WABASSO,FL-L.REED
+21 MELBOURNE,FIT16
+   MELBOURNE,FIT16
+22 TITUSVILLE, FL-WH
+   TITUSVILLE, FL-WH
+23 N.NAPLES,FL -T.C.
+   N.NAPLES,FL -T.C.
+   N.NAPLES,FL -T.C.
+24 MYAKAA S.P.,FL-TK
+   MYAKAA S.P.,FL-TK
+25 ST.PETERSBURG,FL
+   ST.PETERSBURG,FL
+26 HICKORY HILL OBS.
+   HICKORY HILL OBS.
+27 CLERMONT, FLA.-AH
+   CLERMONT, FLA.-AH
+28 TAMPA, FL -C.M.
+   TAMPA, FL -C.M.
+29 MELBOURNE,FIT14
+   MELBOURNE,FIT14
+30 TEMPE, AZ - K.T.
+   TEMPE, AZ - K.T.
+31 CORONADO PEAK,AZ
+   CORONADO PEAK,AZ
+32 ATHENS, TX B.C.
+   ATHENS, TX B.C.
+   ATHENS, TX B.C.
+33 CLIBURN, TX -C.W.
+   CLIBURN, TX -C.W.
+34 CORSICANA,TX T.W.
+   CORSICANA,TX T.W.
+35 BILOXI, MS - J.M.
+   BILOXI, MS - J.M.
 
 === PAGE 19 ===
-[Error extracting page 19: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2NJ6Zq9GJWydSxnir'}]
+|:36 HIALEAH, FL G.G.        |/45 BELTON,TX M.M.
+|:36 HIALEAH, FL G.G.        |/45 BELTON,TX M.M.
+|:36 HIALEAH, FL G.G.        |46 BELTON,TX DG,JG
+|:37 VENICE, FL D.STRUM      |46 BELTON,TX DG,JG
+|:37 VENICE, FL D.STRUM      |47 BELTON,TX A.W.
+|:38 TITUSVILLE, FL WH       |47 BELTON,TX A.W.
+|:38 TITUSVILLE, FL WH       |48 SALADO, TX P.ROY
+|:39 AUSTIN,TX RLM16;UT      |48 SALADO, TX P.ROY
+|:39 AUSTIN,TX RLM16;UT      |49 SALADO, TX D.F.
+|40 MCDONALD 30-IN.          |49 SALADO, TX D.F.
+|40 MCDONALD 30-IN.          |50 PRAIRIE DELL,TX-RR
+|41 STAMPEDE, TX LF;GM       |50 PRAIRIE DELL,TX-RR
+|41 STAMPEDE, TX LF;GM       |51 JARRELL,TX MB,AJ
+                             |51 JARRELL,TX MB,AJ
+|42 STAMPEDE, TX G.R.        |52 THEON, TX J.L.,G.K
+|42 STAMPEDE, TX G.R.        |52 THEON, TX J.L.,G.K
+|43 MOFFAT,TX B.C.77         |53 WALBURG, TX JC,LD
+|43 MOFFAT,TX B.C.77         |53 WALBURG, TX JC,LD
+|44 BELTON,TX SR,JC          |54 WALBURG, TX JG,JG
+|44 BELTON,TX SR,JC          |54 WALBURG, TX JG,JG
+
+APPOLOGIES TO JIM VAN NULAND FOR RUNNING THIS  OCCULTATION
+REPORT BEFORE HE COULD CLEAN IT UP, BUT IT'S 9:30,THE BULLETIN
+IS LATE, AND I'M STILL AT WORK.
+     I WOULD LIKE TO EXPRESS MY GRATITUDE TO EVERYONE WHO CONTRIB-
+UTED TO THIS VERSION OF YOUR CLUB NEWSLETTER. PLEASE CONTINUE TO
+SUPPORT THE NEW PUBLISHER, EDITOR, PASTE-UP ARTIST, GO-FER, POSTAL
+INTERFACE...DENNI FRERICHS, DENNI MEDLOCK, DEBRA DENNISE FRERICHS-
+MEDLOCK, ALL SYNONYMS I HAVE USED IN THE PAST TO REFER TO ONE LADY
+WHO CONTINUES TO CARRY A MAJOR (LONG DISTANCE) LOAD FOR THIS CLUB.
+                                                    JACK ZEIDERS
+
+
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│         SJAA MEMBERSHIP APPLICATION/RENEWAL                         │
+│                                                                     │
+│ NAME _______________________________________________________________│
+│                                                                     │
+│ ADDRESS _________________________________ CITY ____________________|
+│                                                                     │
+│ PHONE __________________________________ STATE_________ ZIP ________|
+│                                                                     │
+│ AREA OF INTEREST_____________________________________________________│
+│                                                                     │
+│ MEMBERSHIP/S&T □ $21.00        JUNIOR (UNDER 12) □  $15.00        │
+│                                                                     │
+│ MEMBERSHIP ONLY  □ $8.00                                           │
+└─────────────────────────────────────────────────────────────────────┘
 
 === PAGE 20 ===
-[Error extracting page 20: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2NjPjANZU43fVgmet'}]
+SJMA EPHEMERIS
+3509 CALICO AVE.
+SAN JOSE, CA. 95124
+
+TIME VALUE — DATED
+
+NEWS MATERIAL
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO.5381
+SAN JOSE, CA. 95125

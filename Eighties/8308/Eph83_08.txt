@@ -1,44 +1,676 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2SQQEXGiEm1mfguUR'}]
+AUGUST'83
+
+EPHEMERIS
+
+SJAA
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2SyP3aRDTPDsBqpPJ'}]
+# OBSERVATIONS
+
+## Up-Coming Events
+
+The August general meeting will be an important one for the club. Our speaker for the evening was arranged through NASA-Ames Research Center and will be Fred Witteborn, Study Scientist for the Infrared Telescope Facility Project, which will be flying with the Space Shuttle within the decade.
+
+A long planned project similar to the Sapce Telescope, the Infrared Telescope Facility is one of Ames Research Center's continuing efforts to take observational astronomy into space and out of the bounds of the Earth's atmosphere.
+
+Infrared observing is a rapidly growing area in current astronomy. Our speaker will first deal with what unsolved problems are now being addressed in IR astronomy, what has been accomplished with IR in the near past, and what the IR Telescope, which will be free-flying from the Shuttle, proposes to find.
+
+Please attend and bring a friend. Meeting starts at 8 PM in room 102 of the Alumni Science Hall at the University of Santa Clara. Directions can be found on the back of the calendar page.
+
+*********************************************
+
+The Santa Cruz Astronomical Society and the Monterey Institute for Research in Astronomy (MIRA) has invited the SJAA to join them in a high Sierra new moon star party the weekend of August 5-6. It is to be held at Glacier Point in Yosemite National Park, a spectacular place to observe from. If the Santa Cruz Astronomical Society is notified by Tuesday, Aug. 2, your camping will be free. There can not be any obvious camping at Glacier Point but vehicles will be allowed by the telescopes. This will be a public star party in the early evening but the skies will become ours afterwards.
+
+If interested, call Brian V.C. Deis at (408) 353-3597 (home), or (408) 985-1497 (work/leave message). 25757 Old San Jose Rd, Los Gatos, Ca. 95030.
+
+Directions from San Jose: Take Hwy 101 South to Hwy 152 East, go over Pacheco Pass to Hwy 99 South. Go about ten miles to Hwy 143 East through Madera. Take Hwy 41 North. Tell the ranger at the gate who you are and why you are there. Once inside the park follow signs to Glacier Point.
+
+*********************************************
+
+The September general meeting of the SJAA has always been the annual slide and equipment night, a meeting where the members put on the show (and tell).
+
+So gather your slides together (anything astronomically related goes), and hunt down that new whatchamacallit you just bought ( or made) for your scope, and bring it (bring the whole scope, too) to the Slide and Equipment Night, September 24, at the Los Gatos Red Cross Building.
+
+*********************************************
+
+September 17-18 will be the Astronomical Association of Northern California's Conference on Astronomy, this year to be held at the beautiful Lawrence Hall of Science above the University of California in Berkeley. Theme for the conference is as yet unknown by this editor, but the Ephemeris will be publishing more registration and conference data when it becomes available. Speakers are usually drawn in from both the professional and amateur communities and the conference is normally well presented. Plan on attending.
+
+*********************************************
+
+The October general meeting, date to be announced, will have Bob Fingerhut,
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2TV8ixEvxquxyHhLz'}]
+Jack Peterson, and Ernie Piini, the SJAA's hardy eclipse chasers, presenting
+a colorful slide show on the recent South Pacific eclipse (said to be one
+of the best in the last twelve years) and a basic travelogue of their exper-
+iences there. Look forward to it!
+
+_________________________________________________________________
+
+EPHEMERIS editor change
+
+Because of heavy work commitments Jack Zeiders has turned over the SJAA
+monthly news bulletin. I want to thank Jack for the time and efforts he
+has put in over the last few months (I know how time consuming the bulletin
+can be!) and spend a few lines here telling you of some changes you will
+be seeing between the pages.
+
+First, the general book format will remain the same as most SJAAers seem
+to like it. The calendar page will be moved to the center sheet and will
+be presented in full size type for ease of reading and reference. Directions
+to all of the regular events will printed on the back of the calendar page
+on a monthly basis. The personal and commercial ads (just starting this
+month) will be on the front of the calendar page.
+
+Second, board meeting minutes and agendas will be printed whenever
+possible. The board meetings are open to everyone and it was felt that
+if the topics of discussion were known ahead of time perhaps more of the
+membership would add a voice. It is always much appreciated.
+
+Third, SUGGESTIONS AND ARTICLES ARE ALWAYS WELCOME! I don't bite.
+I'll print almost anything, but don't be surprised if you're approached
+at a star party and asked to write an article for the bulletin.........
+
+Bulletin articles should be to me by the 18th of the month and can
+by typed, handwritten, recorded, whatever. I will probably retype almost
+everything to keep the print type the same. My address will be found in
+the SJAA information square located somewhere in this bulletin.
+
+Clear skies!
+Denni Frerichs
+
+_________________________________________________________________
+
+New member
+
+Elena Aurora Greenberg, born June 23, 1983, 4:13 PM, (when Sally
+Ride was in space). 5 lb, 5oz. Mother and daughter doing fine.
+Congratulations, Steve and Ola!
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│ EPHEMERIS is published monthly by the San Jose Astronomical Association, │
+│ 3509 Calico Ave. San Jose, 95124.                              │
+│ Officers:                                                       │
+│ President  Dave Ambrose  816 Everett St., El Cerrito, Ca. 94530│
+│            (415) 524-0869                                       │
+│ Vice-Pres  Denni Frerichs 15022 Broadway Terrace, Oakland, Ca. 94611│
+│            (415) 654-6796                                       │
+│ Sec.       James van Nuland  3509 Calico Ave. San Jose, Ca. 95124│
+│            (408) 378-1307                                       │
+│ Treas      Robert Fingerhut 340 Rio Verde Pl. #4, Milpitas, Ca. 95035│
+│            (408) 263-4455                                       │
+│ Board of Directors:                                             │
+│ Paul Mancuso                                                    │
+│ Tom Ahl        (408) 997-1383                                   │
+│ Wayne Rosing   (408) 354-2507                                   │
+│ Steve Greenberg (415) 443-6638                                  │
+│ Eugene Cisneros (408) 923-6800                                  │
+│ Chris Pratt    (408) 629-2994                                   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+                                                                  2.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2TzQ1deSS5MDEPtRS'}]
+# marriott's
+
+An estimated 14,000 people viewed the Sun, Moon, Venus, Saturn, and Jupiter through telescopes at Marriott's Great America on Saturday, July 16th. SJAA members set up nine instruments on Hometown Square, playing celestial guides for 14 (long) hours. Perfect weather brought the crowds out and during the daylight hours sunspots were shown through Frank Dibbell's C-11, Jack Petersen's C-8 and C-5, and Paul Marouso's C-8. Arrival of Jack Zeiders brought an H-alpha filter for showing solar prominences. Around 2:30 Kevin Medlock was able to pick up a very washed out first quarter moon in the 6" refractor and the numbers in line to view through a telescope rapidly increased.
+
+By dusk lines were long behindall the scopes. Others there were Dan and Chris Weisenstein with a C-8, Tom Ahl with an Oddessy 13.5", Jim and Toni Eisele with a C-8, Bob Fingerhut with a C-90 set up to view an active slide show, and my 8" Newtonian. Jay Freeman showed up for a few hours to help out.
+
+The oohs and aahs at the rings of Saturn and craters of the Moon were innumerable. Showing members of the public what is sometimes their first view through a telescope can be incredible fun and rewarding to the amateur astronomer; multiply that 14,000 times and it can be overwhelming. Whatever happened, the SJAA certainly broke any old record it may have had for the amount of people viewing in one evening!
+
+Scenes and comments at Marriott's:
+
+"What power is this set at?" (Asked at least 100 times)
+
+A kid complaining that there's a purple haze all over Frank Dibbell's eyepiece and trying to rub it off.
+
+"Do you know Gerry Rattley? I used to work with him in 1973."
+
+"What planet is this?" (Asked by a 10 year old, viewing Venus)
+
+"It really does have rings!" (Saturn)
+
+"Look at all those zits!" (Moon)
+
+"The terminator looks very nice." (Oleder woman's comment)
+
+"How far can you see?" (Asked at least 75 times)
+
+The sight of a boy, approximately 8 years old, making faces at himself in Bob Fingerhut's C-90.
+
+"How comes it's boiling?"
+
+The sight of at least 5 people on different occassions, trying to view up the declination shaft of the refractor.
+
+"How much did this telescope cost?" (Asked by everyone)
+
+"Are you getting paid for this?"
+
+(At a nickel each, 14,000 people would have added up to quite a sum. However, hauling 14,000 nickels to the bank is something our treasurer, Bob Fingerhut, refused to do.)
+
+_______________________________________________________________
+
+As a continuing part of the SJAA's general policy of providing telescopes for educational public star parties, a half dozen members went to Dartmouth School on Blossom Hill Rd. Monday night (JULY 18th) and set up telescopes for the school's summer education program. Approximately 40 - 50 parents and children viewed through instruments brought by Jack Zeiders, Bob Fingerhut, Jim van Nuland, Tom Ahl, Paul Barton, and another member, whose name remains unknown at this time. The seeing was very steady, allowing for 1000X to be used on Saturn with Jack's C-8. The allusive Mercury was caught and shown off by Tom Ahl before setting. Other objects viewed were Venus, the Moon, Uranus, M-13, and M-57.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2UWQAr6u8LMVt24HZ'}]
+Occassionally, the club is approached and asked to give public star parties
+(usually for a school) during a week night, and we try to comply under most
+circumstances. They are normally local and usually do not last past 10:30 pm.
+If enough advanced notice is given, dates and places will be in the bulletin,
+so anyone interested may attend. (As reported by Jack Zeiders)
+
+_____________________________________________________________
+
+
+The PERSEID METEOR SHOWER
+                         &
+The COMET CONNECTION          by DON MACHHOLZ
+
+The Perseid Meteor Shower, the most reliable and one of the most active
+meteor showers of the year, will peak at roughly 5:00 PM on August 11.
+The mornings of August 11 (Thursday) and August 12 (Friday) will be the
+best times to observe these meteors. In the early morning hours one can
+expect to see at least 50 meteors/hour and possibly 100/hour.
+
+The radiant, or the place from where all the shower members seem to
+originate, is at 03hr 04m; +58°, and this moves eastward at 1.4°/day.
+The observer does not normally watch this area; instead he watches 40
+to 100 degrees to the side of this area to see the greatest number of
+meteors. These meteors move rapidly, about 40 miles/second. Many leave
+trains.
+
+The Moon is kind to us this year, being between new and first quarter
+during that week, the weather is typically clear, and even the volcano
+dust is no where to be found. The radiant is above the horizon all
+night, reaching an altitude of 40° (in the NE) at midnight, and about
+70° high at morning twilight, which occurs at roughly 5:10 AM.
+
+To photograph the meteors, use fast film, with ASA speed of 400 or
+greater. Set the camera on a tripod, use the largest lens opening, and
+take a time exposure of, say, 15 or 20 minutes. You will not catch every
+meteor you see; they often move too fast to record on film, but the
+brighter, slower meteors should show up on film.
+
+There is believed to be a comet associated with this shower. It was dis-
+covered by several observers in July 1862 and bears the name Periodic
+Comet Swift-Tuttle (1862 III). It reached magnitude 2 and had a tail
+30 degrees long. The orbit was computed from hundreds of observations
+and they show the comet is in retrograde orbit, closing to .96 AU of
+the Sun, then going out to 49 AU. Each orbit, it is believed, takes 120
+±2 years to complete. Any comet which made a bright appearance in 1862
+and has an orbital period of 120 years should have been visible recently.
+But the fact is, this searched-for comet has not been recovered. Since
+1978, both professionals and amateurs have been searching this ever-
+changing band of sky for a hint of this famous comet. Since we are
+nearing the end of this discovery window for the comet, two trains of
+thought prevail. One is that the comet has already swept by, but it was
+too faint to be detected. If so, then it could have been during the Spring
+of one of these recent years when it would have been on the far side of
+the Sun and expected to be magnitude 7-10. (A side track to this train
+of thought is that the comet has disintegrated.) The other train of thought
+is that the comet's orbit is actually 133.3 years, meaning its approach is
+still some twelve years away. Such an orbital period would be possible if
+this comet is the same one observed in 1737, which is unlikely. Some of us
+will continue searching as we have been, since the uncertainty grows with
+each year it isn't found.
+
+Think about this long-lost comet as you enjoy the Perseids this year.
+
+                                                                    4.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2VcP8Fktk8SPaqjra'}]
+Picnic
+
+The annual SJAA Officers' Installation Picnic took place at Portal Park in Cupertino July 23rd, and approximately 40 people enjoyed the festivities by munching out on hot dogs, hamburgers, and all the varied sidedishes brought by the participants. Exotic food such as pickled water melon was sampled, and Sharon Cisneros received an ovation for her now famous incredibly edible German Chocolate Cake.
+
+For once we had enough of a breeze to fly kites (except for Steve Greenberg's military box kite. It's built like a tank and needs about 20 knots to fly in), and frisbees were seen being chased about the field by kids and adults alike. Jack Peterson even proved that boomerangs really do work by displaying his prowness with one brought back from his eclipse trip through Australia.
+
+The officers and board members stood still long enough to officially get themselves installed (plugged in) for the next year. The Dr. A. B. Gregory Award was received by Bob Fingerhut this year with a round of applause and a beautiful brass plaque, one I wish could be reproduced for the bulletin for the membership to see.
+
+Many thanks to the crew that made sure the hamburgers, hot dogs, charcoal, relishes, soft drinks, etc., made it there. We had a good time.
+
+renewal
+
+If you haven't already renewed your membership to the SJAA you've probably discovered that you haven't received your latest Sky and Telescope. Renewals are still being taken, however, and this year we have changed the policy concerning mandatory S & T subscriptions. Also, if you were a bulletin subscriber in the past and want to continue, you are automatically an SJAA member now for the same price. (And it is time to renew for that). All rates are listed below. Please send renewal form, remittance, and if you want to renew S&T, their white notice card, to: Bob Fingerhut, Treasurer, SJAA, 340 Rio Verde Pl. #4, Milpitas, Ca. 95035. (408) 263-4455. Thanks!
+
+SJAA MEMBERSHIP APPLICATION/RENEWAL
+
+NAME _______________________________________________________________
+
+ADDRESS _________________________________ CITY ____________________
+
+PHONE __________________________________ STATE _________ ZIP _______
+
+AREA OF INTEREST ____________________________________________________
+
+MEMBERSHIP/S&T |_| $21.00          JUNIOR (UNDER 12) |_| $15.00
+
+MEMBERSHIP ONLY |_| $8.00
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2WEqNxpUCzxuJvPeh'}]
+ADDS
+
+C-90 telescope with wedge, drive, tripod, qwiky knobs, colored filters,
+& barlow. Retails for $819, asking $475.
+Also, Sear refractor. $125, or $50 if purchased with above C-90.
+    Contact Tom Tuohy at (408) 736-4569 (after 5:30 PM)
+            929 West Iowa, Sunnyvale, 94086
+
+10" f/6.6 Newtonian telescope with three eyepeice and accessories.
+$285
+    Contact Chris Angelos, 609 Townsend Dr., Aptos, Ca. 95003
+            (408) 688-3562
+
+Meade spotting scope with silk tripod, star diagonal, and two eyepieces,
+.965 size. $350 for all.
+    Contact Mike Ramirez at (408) 247-0127
+
+Wanted: A finder scope for the club 14" Dobson. Perferably 7x50 or larger.
+    Contact Ron Probst at (408) 249-8775
+
+        SJAA members and associates may place non-commerical ads
+        in the Ephemeris at no charge. Ads will run for two months
+        unless editor is notified of sale or desire to run ad longer.
+
+BUSHNELL OPTICAL        UNIVERSITY OPTICS                EDMUND SCIENTIFIC
+
+CELESTRON
+
+ACCUTRACK
+
+LUMICON
+
+OPTRON SYSTEMS
+Everything For Astronomers
+
+Visit Our Showroom Soon!
+
+704 Charcot Avenue, San Jose, CA 95131 USA (408)946-4797
+
+MEADE        KALT CORPORATION        STAR ATLASES        TELE-VUE OPTICS
+
+DYNAMAX
+
+MEADE
+
+SWIFT INSTRUMENTS
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2Wk6Yh6QdXZ7qAvrE'}]
+SJAA
+CALENDAR
+
+
+Aug.  6 Star Party at Henry Coe State Park. Directions on back. Everyone welcome.
+
+     12 Board meeting at Optron Systems (Gene Cisneros), 704 Charcot, San Jose.
+        (408) 946-4797. 8 PM. Everyone invited to attend.
+
+     12 Perseid Meteor Shower peak. (See Don Machholz's article)
+
+     13 Indoor Star Party at the Los Gatos Red Cross Building, 18011 Los Gatos-
+        Saratoga Rd., Los Gatos. 7:30 PM on. Informal conversations, slides,
+        viewing, food, etc...
+
+     20 General meeting. Our speaker will be Fred Witteborn from NASA:
+        Space Shuttle's Infrared Telescope Facility Project. University of
+        Santa Clara, Alumni Science Center, room 102. 8 PM. Directions on
+        back.
+
+     27 Indoor Star Party at the Los Gatos Red Cross Building. Bring your
+        scopes for an informal star party in the parking lot! 7:30 PM on.
+
+
+Sept. 3 (Labor Day Weekend) Star Party at Fremont Peak, Coulter Camp. Bring
+        your telescope and stay all three days. Directions on back.
+
+      6 New Moon
+
+     10 Star Party at Henry Coe State Park
+
+     16 Board meeting at Steve Greenberg's (Livermore). (415) 443-6638. Everyone
+        invited to attend.
+
+     17-18 AANC Astronomy Conference at the Lawrance Hall of Science, University
+        of California, Berkeley. More information in future bulletins.
+
+     17 Indoor Star Party at the Los Gatos Red Cross Building. 7:30 PM on.
+
+     21 Full Moon
+
+     24 General Meeting at the Los Gatos Red Cross Building. 8 PM.  The SJAA
+        Annual Slide and Equipment night. Bring what you've got and tell us
+        about it!
+
+
+                    *****************************************************
+
+
+            FULL DIRECTIONS & MAPS TO REGULAR EVENTS ON BACK OF CALENDAR
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2XE7TThZtmpd2Kidn'}]
+DIRECTIONS & MAPS TO ALL SJAA REGULAR EVENTS
+
+General meetings:
+University of Santa Clara, Alumni Science Hall, room 102
+Heading north on Hwy 17, exit at Bascom/Washington Ave (North), proceed
+to Franklin, then turn right.
+Heading south on Hwy 17, exit at the Alameda (North), proceed to Franklin,
+then turn left.
+Go two blocks and turn left into parking lot. Alumni Science Hall is the
+3 story building that borders the east end of the lot. Room 102 is on the
+ground floor and is best gotten to by entering the first door on the right
+side of the building when walking in from the parking lot.
+
+[THIS IS FIGURE: Simple map showing The Alameda, Alumni Science Hall, Alviso building, and surrounding streets with directional indicators]
+
+Indoor Star Parties:
+Los Gatos Red Cross Building, 18011 Los Gatos-Saratoga Rd., Los Gatos
+From Hwy 17 south take the Hwy 9 (Saratoga) exit and continue up Los Gatos-
+Saratoga Rd. for about 1.5 miles. Turn right at Rose Ave., and turn right
+immediately into the parking lot of the Red Cross Building.
+
+[THIS IS FIGURE: Simple map showing Los Gatos-Saratoga Rd. with Red Cross building location]
+
+Henry Coe State Park:
+Take Hwy 101 south towards Gilroy and take the East Dunne exit. Continue
+east towards the hills (past Anderson Reservoir) for about twelve miles
+to the park. Past the park entrance you will see old ranch buildings on
+the right and a horse trough on the left. The gate to the SJAA site is
+on a dirt road just before the trough. The gate is locked but the club
+combination is 4565. Always lock the gate after yourself. If arriving
+after dark, please park outside gate and hike in first to find an observing site before driving in. Parking lights only after dark, please.
+
+[THIS IS FIGURE: Map showing route from Hwy 101 South through Gilroy to Coe State Park, including bypass section and Fremont Peak]
+
+Fremont Peak State Park:
+Take Hwy 101 south towards Salinas. Take Hwy 156 East (San Juan Bautista)
+for two miles to a yellow flashing light. Turn right and go about ¼ mile
+to were road curves slightly to left and splits. Stay left for about 50 yards
+and then bear right when road splits again. Follow road for about 11 miles
+into park. SJAA sets up at Coulter Camp overflow area - it's visible as you
+drive up into main area of camp. Parking lights after dark, please.
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2Y9gVfsdM4KQ1LeU2'}]
+SWA Board Meeting Agenda  --  12 Aug 83
+
+
+New Business
+
+    1.  Calendar
+
+    2.  September's speaker.
+
+    3.  Discuss proposal to move board elections from June into
+        Autumn.
+
+    4.  Discuss proposal to move board meetings from Friday nights to
+        Saturday night Red Cross meetings.
+
+Old Business
+
+    1.  August general meeting's speaker.
+
+    2.  Report on our application for non profit status with the IRS.
+
+    3.  Discuss the purchase of expansion memory module for the
+        Club's computer.
+
+
+ACTION ITEMS ---
+_______________________________________________________________
+
+GREAT RED SPOT EPHEMERIDES
+
+BY JIM VAN NULAND
+
+As always, excellent seeing is paramount for good observations of the Great Red Spot. A report from observers at the National Amateur Observatory in Arizona report excellent conditions and results using 13.1 and 17.5 inch telescopes. At 195x with a fine plossI ocular, the 13.1 showed many details and much color. A 6" gave good results, too.
+
+On a rare night of excellent seeing at home, I tried some smaller apertures. My 8 inch, stopped to 3 inches (f/16) showed the detail but not the spot at 120x. At 185x, I was able to see the Spot without much trouble. So, those with smaller scopes, get out there and do it!!
+
+However, the 4-1/4 inch f/4 was not willing to show me much more than the equatorial belt at 108x. I could not see enough to be confident even of the density. Focusing is very difficult at this power. Or perhaps f/4 is too fast for a 4mm orthoscopic ocular. The instrument seems to be in good collimation. Has anyone else tried a similar instrument?
+
+        Great Red Spot -- on Meridian PDT
+        da mo  d   h  m        da mo  d   h  m  .
+    F   8  5  10 48 pm     M   8 22   9 54 pm
+    W   8 10   9 58 pm     Sa  8 27   9  2 pm
+    M   8 15   9  6 pm     Th  9  8   8 54 pm
+
+
+The list has gotten terribly short. There will be only three events in the September table, so make the best of these.        2
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2Yegws1sxCkVMyPXc'}]
+SPACE PROGRAM UPDATE by Bob Fingerhut
+
+Seventh Shuttle Flight Successful
+Deployment of the two communications satellites showed that users can expect greater deployment accuracies that earlier expected. This means longer satellite life due to less need for consuming fuel performing orbital adjustments.
+The German pallet satellite which was successfully tested on STS-7 is now being planned for another flight on STS-11 in January, 1984.
+
+Eight Shuttle Flight Scheduled for Aug. 20.
+This is the first mission which will launch and land at night. It is scheduled to lift off from Kennedy Space Center at 2:21 am EDT and land at Edwards AFB at 3:45 am EDT on the sixth day. The primary payload will be India's Insat 1B communications satellite. It will be lifted to geosyn­chronous orbit with a PAM-D upper stage. The shuttle will also use the 8000 pound payload Flight Test Article to test the manipulator arm which eventually will be qualified at 25,000 pounds lifting capability. The shuttle will also conduct Interfrace testing with the Tracking and Data Relay Satellite, TDRS-A, which was launched on STS-6. The TDRS-A is now at geosynchronous orbit and is undergoing checkout by ground stations.
+A Continous Flow Electrophoresis System device will process live samples for the first time in an experiment aimed at the production of pharma­ceuticals.
+The STS-8 astronauts will be Richard Truly, commander; Daniel Branden­stein, pilot; Dale A. Gardner, mission specialist; Guion S. Bluford, mission specialist; and Dr. William Thornton, mission specialist.
+
+Ariane Sixth Flight Successful
+The European Ariane successfully orbited two payloads, the ECS-1 com­munications satellite and Amsat radio amateur satellite on June 16. It was the first flight since the failure of the fifth vehicle last September. The next flight is planned to launch the Intelsat F7 communications sat­ellite September 15. It will be followed by Intelsat F8 and F9 in Nov­ember, 1983 and January, 1984.
+
+Salyut Space Station Manned Again
+Cosmonauts Valdimir Cyakhov and Aleksander Aleksandrov were launched from Tyuratam on June 27 and docked with the Salyut 7/Cosmos 1443 space station complex on June 28. The station is in a 342 X 328 Km orbit inclined 51.6 degrees.
+
+Cosmos 1443 Identified
+The Soviet Union has said that the Cosmos 1443, which is docked to the Salyut 7 space station, is designed to be a space station tug and elect­rical power module that also can transport heavy cargo to and from large Soviet space facilities. It has a reentry vehicle capable of returning 1100 pounds of cargo back to earth for a water recovery. It has 40 square meters of solar array that provide about 3 KW of electrical power, The module delivered 3 tons of cargo to the Salyut 7 and contained a habitable module 42.6 feet long and 13.1 feet wide which added 50 cubic meters of work area to the station complex.
+
+Soviets Send 2 Spacecraft to Venus
+The Soviet Venera 15 spacecraft was launched June 2 followed by Venera 16 on June 7. It is believed that both Venus orbiters are carrying radar systems, possible terrain imaging versions of the Soviet nuclear-powered radar ocean surveillance spacecraft, They will arrive at Venus in early October.
+
+Infrared Astronomical Satellite's Mission Extended
+The IRAS satellite will make a third complete sweep of the sky beginning
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2ZAwn4wTDV7w3jgkw'}]
+in September, which will increase the area of the sky covered to 99%.
+Original plans called for two sweeps covering 90% of the sky. Its recent
+discoveries include a new protostar less than 100,000 years old and an
+extremely faint comet, discovered May 13, called 1983f, which passed within
+130 million miles of the sun on January 20.
+
+Hughes Galaxy Satellite Launched
+
+The first of four Galaxy communications relay satellites was launched
+June 28 on a 3920/PAM Delta vehicle.
+
+Pioneer 10 Leaves Solar System
+
+The Pioneer 10 spacecraft passed the orbit of Neptune on June 13, more
+than 11 years after its launch on March 2, 1972. It will be the first man
+made object to explore interstellar space in the years ahead.
+
+Ionospheric Research Satillite Launched
+
+The High Latitude Ionospheric Research Satellite (HILAT) has been launched
+from Vandenberg AFB on a Scout vehicle. It is in polar orbit at 516 miles and
+82.2 degrees inclination. It will measure the distorting effects of atmospheric structured plasmas on radio frequency communications. Also among
+the five instruments is one called the Auroral Ionospheric Mapper, which will
+provide ultrviolet imagery of the auroras.
+
+Third Orbiter Nears Completion
+
+The third shuttle orbiter Discovery, is scheduled to be delivered to NASA
+in late September. Its first flight is planned for early 1984.
+
+
+COMET COMMENTS
+
+BY DON MACHHOLZ
+
+The excitement of two recent Earth-grazing comets has passed, but three
+periodic comets are still visible in our telescopes. Meanwhile, one faint
+comet has been recovered and one faint comet has been discovered. In our
+"Past Discoveries" department we examine three comets discovered in past
+Septembers. Due to the large number of amateur comet discoveries in the
+latter half of the year, we will cover three each month until the end of
+the year.
+
+Periodic Comet Johnson (1983h): This returning comet was recovered by
+A. Gilmore and P. Kilmartin at Mt. John University Observatory. The comet
+was a magnitude 19 at discovery, on June 7, and is not expected to get much
+brighter. The comet was recovered near M 26 in Aquila.
+
+Periodic Comet Russell 3 (1983i): Discovered by Kenneth Russell in the
+49" Schmidt of Siding Spring, this 16th. magnitude comet is now known to
+be in a periodic orbit. Since this is the third such object to be discovered by Russell, it is given a "3", to avoid confusion with his other
+periodic comets. This comet, found in eastern Aquila, has a 6.8 year
+period and is not expected to get much brighter.
+
+PAST DISCOVERIES
+
+Periodic Comet Haneda-Campos (1978j): A periodic comet discovered by
+two amateurs in 1978, this comet was followed for only about a month before
+it faded from view. T. Haneda was in his late 60's at the time of its discovery, his first. He had searched for 463 hours with a 3.3" refractor over
+15 years to find this comet. Haneda is from Japan. Jose Campos, from South
+Africa, searched 116 hours to find this comet. The comet was at 20h 51m,
+-29° 27' at discovery, 140° from the sun in the evening sky. At discovery
+its magnitude was reported at 9-10, but estimates that first week ranged
 
 === PAGE 13 ===
-[Error extracting page 13: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2ZjRtYNAruhYXPWNj'}]
+from 9.0-11.2. The moon was one day before New, meaning this part of the
+sky had been sweepable for about 10 days. It was found September 1.
+
+This comet displayed strange behavior. I searched for it on three con-
+secutive nights, seeing it the first and third at magnitude 10.4 and being
+unable to see it in the second night. It faded abruptly in early October,
+1978, as it was nearing the Sun. One month before discovery it was at 20h
+42m, -16º and at magnitude 11.8, assuming it followed a normal curve, which
+it probably did not do. From any latitude south of about 55° N the comet
+would have been above the horizon for a few hours each evening. So, why
+wasn't it discovered earlier?
+
+Two reasons deserve consideration. First, except during mid-July, when
+the comet was near M-72, the comet was in a narrow part of the sky and far
+from comet-hunting corridors. Secondly, the brightness of the comet varied
+quite a bit; it was most likely fainter before discovery, just as it was
+after discovery. My records show I swept over it on August 9,10, and 30,
+and failed to see it with a 10-inch reflector. It should be interesting
+to see if we recover this comet in 1985.
+
+Comet Kohler (1977m): The first comet to be discovered by an American
+amateur specifically looking for one in nine years was found by 50-year old
+Merlin Kohler of Quincy, California, using an 8" Dynamax on the evening of
+September 3, 1977. Mr. Kohler had been observing objects in the southern
+sky - M 30 and M 72 and such, and before packing up his telescope he decided
+to do a few minutes of comet sweeping in the western sky. Within a few
+moments he picked up a 9.5 magnitude object between stars Alpha nad Beta
+Corona Borealis. Its position was 15h 24m, +30°. The moon was 1 day before
+last quarter. This was about the third evening during which the moon was
+out of the post-twilight sky for at least an hour. The comet was 73° from
+the sun.
+
+The comet has not been moving rapidly. One month before discovery it was
+at 14h 50m, +37°, magnitude 10.5 and 93° from the sun. Fifteen days before
+that it was 3° NW of that position and magnitude 11.3. This was a very
+ordinary "evening sky floater" -- slow movement toward the sun and gradual
+brightening. I had swept over it on August 17 while on vacation in Yuma,
+Arizona, and did not see it. It would have been 8° due south of Beta Bootes
+and magnitude 10.2 -- if it was behaving properly. In that same part of
+the sky I also picked up M 101, gc 5466, M 102 (eg 5866), and eg 5907, along
+with three satillites and two meteors, magnitude 8. But the comet waited for
+Kohler.
+
+In the two weeks following discovery there was some uncertainty about the
+magnitude of the comet - estimates disagreed by a full magnitude. Perhaps
+this comet brightened rapidly before discovery, as one astronomer stated.
+In the months after discovery the comet reached seventh magnitude as it
+sped through the evening sky.
+
+Comet Machholz (1978l): The most recent comet discovered by an American
+amateur was this 10.7 magnitude comet found after 1700 hours of searching
+on September 12, 1978. The instrument used was a 10-inch, f.3.8 reflector
+mounted on an equatorial mount. The discovery was made from Loma Prieta
+Mountain in the Santa Cruz Mountains about 5:15 AM, about 15 minutes before
+the onset of twilight. The comet was at 6h 39.9m, -18° 24', some two degrees
+SE of the star Sirius. The moon was two days past first quarter, meaning
+the morning sky had been moon-free for some 11 days. The comet, at 72° from
+the sun, was moving south at 1°/day.
+
+Two days before discovery the comet crossed very near the star Sirius,
+perhaps passing over it. One month before discovery it was magnitude 11.4,
+nearly 18º due north of its discovery position, and only 40 degrees from
+the sun. In the days before that, the comet was basically in the sun's
+glare and magnitude 12. So the best chance of discovery was in early Sept-
+ember in the morning sky. There were no other discovery reports received
 
 === PAGE 14 ===
-[Error extracting page 14: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2aCxFbfGZTibqhdtQ'}]
+at the SAO on this comet, even though it brightened to magnitude 10.5 as
+it moved south. William Bradfield of Australia stated he would have swept
+over it due to its faintness. The comet was in the Milky Way, giving
+generally less background contrast upon which to observe it.
+
+The comet showed a steady light curve indicating it was probably just
+beyond observer's visibility prior to discovery. Not only did the eventual
+discoverer sweep over it and miss it on August 29 and September 8, but
+he also discovered this comet 1½° N of the northern limit of the area he
+was sweeping. The discoverer wanted a large overlap so he would pick up
+Sirius, know exactly where he is, and better pace himself as he was finishing
+up his morning sweeps. If not for this overlap this comet would probably
+have sailed back into space unknown.
+
+
+Ephemeris for known comets
+
+Date        R.A.      Dec.       Mag.
+
+Periodic Comet Tempel 1 (1982j)
+07-25      14.06.6    -19°20'i    11.7 (10.7)  Moving through Libra,
+08-04      14:31.6    -19 01      11.9 (10.9)  this comet is being
+08-14      14:58.6    -22 19      12.1 (11.1)  out ran by the Sun.
+08-24      15:27.2    -25 12      12.4 (11.4)  It's about 3' in dia.
+09-03      15:57.2    -27 35      12.7 (11.7)  From IAU Cir. 3773.
+
+Periodic Comet Kopff (1982k)
+07-25      15:48.4    -15 48       9.6 (8.6)   This dandy comet is
+08-04      16:04.8    -17 44       9.7 (8.7)   roughly 6' in dia. and
+08-14      16:24.7    -19 35       9.8 (8.8)   diffuse. Watch it travel
+08-24      16:47.4    -21 16      10.0 (9.2)   through N. Scorpio.
+09-03      17:12.5    -22 40      10.2 (9.2)   From IAU Cir. 3779
+
+Periodic Comet Tempel 2 (1982d)
+07-25      02:13.9    -00°11'     10.6 (9.6)   On Aug. 7 this comet
+08-04      02:33.6     00 23      10.8 (9.8)   passes over M 77(or
+08-14      16:24.7    -19 35       9.8 (8.8)   south of it). It is
+08-24      16:47.4    -21 16      10.0 (9.0)   big (8') and diffuse.
+09-03      17:12.5    -22 40      10.2 (9.2)   From IAU Cir. 3794
+
+                        Don Machholz
+                        (408) 448-7077
+
+
+
+
+        The Midsummer Messier Marathon  by Don Machholz
+
+  The wind blew strongly on Loma Prieta on the evening of July 9-10.
+(Fremont Peak had similar problems). But the sky was clear and I was
+still able to observe 96 of the 110 Messier Objects, about what can be
+expected for this time of year. I also made magnitude and size estimates
+for more than 90 Messier Objects. Rich Page and Steve were there, but
+the wind discouraged them from setting up. On a site south of us a small
+group was set up. They were on one of the windiest parts of Loma Prieta;
+I don't know of they did any marathoning.
+  I do not how others did at different sites. Let's try this again in
+early November.
+
+                                                                         /O
 
 === PAGE 15 ===
-[Error extracting page 15: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA2bLusXvrMMJiqfsCN'}]
+SJAA EPHEMERIS
+3509 CALICO AVE.
+SAN JOSE, CA. 95124
+
+TIME VALUE — DATED
+NEWS MATERIAL
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO.5381
+SAN JOSE, CA. 95125
