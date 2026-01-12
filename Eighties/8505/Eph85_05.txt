@@ -1,35 +1,950 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6TahhYeoLfMss6SxW'}]
+# EPHEMERIS
+OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+[Image of observatory domes against starry sky]
+
+# MAY 1985
+
+************************************************
+**** MAY 11TH ****
+* 8TH ANNUAL ASTRONOMICAL AUCTION *
+* LOS GATOS RED CROSS BUILDING - DOORS OPEN *
+* AT 2 PM, AUCTION BEGINS AT 6 PM *
+************************************************
+**** JUNE 1ST ****
+* "THE CELESTIAL TOURIST SPEAKS" *
+* BY JAY FREEMAN *
+************************************************
+
+MAY 4 Pre-auction planning meeting at Bob Fingerhut's home. All auction coordinators should attend this important meeting.
+
+MAY 11 8TH Annual Astronomical Auction at the Los Gatos Red Cross building. Doors open at 2 p m. Auction will begin promptly at 6 p m.
+
+MAY 18 Field Expedition for Astronomical Observation at Fremont Peak State Park. Dusk till Dawn.
+
+MAY 24,25,26 Riverside Telescope Makers Conference. Big Bear Lake at Camp Oakes.
+
+JUNE 1 General Meeting at the Los Gatos Red Cross Building. "The Celestial Tourist Speaks" Jay Freeman will give us his thoughts on Observing, Telescopes, and Amateur Astronomy.
+
+JUNE 8 Indoor Star Party at the Los Gatos Red Cross building. Doors open at 8 PM.
+
+JUNE 15 Field Expedition for Astronomical Observation (FEAO) at Grant Ranch. Upper and lower observing site. Dusk till Dawn.
+
+# ASTRONOMICAL AUCTION
+
+You have been getting announcements in your monthly news letters about the May 11th Astronomical Auction. This is an excellent time to start looking around the house and the garage for the astronomically related items that you no longer have any use for. Books, eyepieces, eyepieces, unfinished mirrors, telescopes, binoculars, and all popular items to do with amateur astronomy. Club Auction Kelner eyepieces that were a steal last year! Once again the auction will be held at the Los Gatos Red Cross building. Pre-registered yet? If you haven't, then take a few moments to fill out the registration form, and send it to Jim Van Nuland. This will save you a lot of time on auction day! Last year 200 items were bid on by over 150 hungry bargain hunters. See you there!
+
+1985 RTMC
+
+Plan now to attend the 17th Annual Riverside Telescope Makers Conference on May 24, 25, 26 and 27th, Friday afternoon through Monday morning. It will be held at Camp Oakes, which is located 5 miles up the hill from Big Bear City on Highway 38 at Lake Williams Road. This location is 50 miles northeast of Riverside, high in the San Bernardino mountains. It is a clean mountain camp which is ideally suited for deep-sky celestial observing and photography. Camp Oakes is reserved for convention use the entire time. The conference grounds will open at 1:00 pm on Friday. Please do not arrive before that time as you will not be permitted on the grounds. No camping will be allowed prior to the event; other camp activities will be in process. More detailed information is available from Clifford Holmes of 9650 Jersey Ave, Riverside, CA 92503. (714) 684-8638. "Riverside" is probably the largest gathering of amateur astronomers in the world. Saturday nights typically have an excess of a thousand people milling about between the telescopes.
+
+# FIELD OF VIEW
+BY: JOHN GLEASON
+
+# OBSERVATIONS
+
+Few people were at Fremont Peak the weekend of March 23rd. Both Friday and Saturday were clear but humidity was at the 80% level. Dewcaps were a problem with Schmidt Cass. owners. Sundays heavy fog layer over the peak hampered observing during the day and the movement of John Stewart's "Great Blue Whale", a 17½ diameter dome and skirt for the 36" on Lockwood Mesa. In the high humidity, everyone seemed to have a good time. Brian Delfs and the Santa Cruz Astronomy Club demonstrated the new Minolta Maxxum SLR camera for us. Clever people those Japanese camera's breakthrough is its auto-focus ability along with an unusual amount of bells and whistles. It was refreshing and unlike anything that I have ever seen. I was doing precise and wasn't easily fooled. I liked ultra auto-focus systems. Frank Dibble was there too, with his video camera, and was shooting footage of the peak and the future site of the F.O.A.P. observatory. I came away with a fist full of 1.5" negatives which came out fairly good. "The Ring Tail" galaxy and M81 came out with a wealth of detail. Despite the problems with a damp corrector plate
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6UDQbK4VNDJq2qTpk'}]
+# COMET MANIA STRIKES TELESCOPE MANUFACTURES
+
+I am sure that most of you have received the Spring Orion Telescope Center catalogue. Check out those mtg. list prices for Super C8's. $2400 for an 8" telescope is an unconscionable amount to pay. Actually, the increase in prices for these quality telescopes is due to the increased demand for equipment because of Comet Halley. Watch for a big drop in prices by the end of the 86' when the comet is gone.
+
+# MEMBERSHIP RENEWALS
+
+SJAA members should be receiving subscription renewal cards in the mail from Sky and Telescope magazine. Please send these cards and your membership renewal, to Bob Fingerhut, 340 Rio Verde #4, Milpitas, CA 95035. Getting your renewal in Bob early will ensure you won't be missing exciting issues of Sky and Telescope as well as the ever popular Ephemeris.
+
+# YOSEMITE STAR PARTY
+
+Last August, a dozen SJAA members enjoyed a beautiful weekend in Yosemite at Glacier Point. This year we are planning to have a star party on the weekend of July 12/13. Camping will be in the Bridalveil campground, like last year. Your editor is coordinating the event with the park, so you will need to let me know if you are interested in participating. We will be at Glacier Point gift shop. AC power is available but bring a long extension cord and connectors. We are required to entertain park guests until about midnight but the crowds usually die down around 11 PM. Owners of large telescopes may leave telescope mountings set up during the day but you are required to remove them at the end of each observing session. There is no problem setting up early in the day however. It is a lot of fun to watch the hikers on top of Half dome. This is endless fascination to tourists, especially the Europeans. It seems that the rest of the planet has heard about our star parties and their expensive toys (remember that dollars are quite expensive in other countries these days, making for some rather expensive C8's) If you wish to sign-up and want more information, please contact me at (415) 790-5250. I will need to know exactly how many people can be expected by you just so that the park can make room for us at the campground.
+
+# EQUIPMENT
+
+An interesting item that has been on the market for over a year now is the electric focus that is being sold by J.M.I. Inc. This is a dandy device that attaches directly to your Celestron or Meade focusing knob, and allows you to make focus adjustments to your telescope via remote push button. The S institution uses these on DC direct drive, electro-magnetic focusers. Unfortunately, this is a problem however. is that if now realize how bad my Super C8 mounting really is. Even the torque from motor reversing causes the telescope to shake slightly. But despite this weakness, I certainly made critical focusing for astrophotography easier. Another problem that you see uses this device is that the focusing motor does interfere with the multiple eyepiece holder and off-axis guides. You will be unable to rotate the eyepiece holder or move the guide assembly past the motor body. Meade also offers an extension tube which attaches to the flip/slide eyepiece holder and extends it beyond the motor, but I highly recommend this unit to anyone who has the desire for an electrically focusable telescope, and is into serious astrophotography.
+
+# FPOA MEMBERSHIP APPLICATION
+
+Just in case you were wondering, the SJAA board approved the insertion of the FPOA membership application form into the Ephemeris.
+
+---
+
+# VOJVODICH SPEAKS TO THE SJAA
+
+Nick Vojvodich, Project Manager for the Galileo Jupiter planetary orbiter gave an excellent talk to 30 members of the SJAA on March 30. Despite technical problems with the laser videodisc player, Nick's description of the mission was very informative. NASA administrator James Beggs has agreed to add an asteroid option to the Jupiter mission and to change the Jupiter arrival date from August 29, 1986 to December 16, 1988. The option will permit a 1-1/2 to 2 year delay of launch date until October-November in December 1986. Galileo's 22-month tour of the Jovian system will allow long-term studies of Io's active volcanoes and Jupiter's atmosphere. The Satellites will be mapped at a wide range of angles and lighting conditions to help with very high resolution at NSSDC. Overall, this was a very nice talk. Thank you Nick for your presentation, and good luck with the mission.
+
+**JF:** "Just what exactly is a Nephelometer?" **NV:** "It measures Nephels"
+
+# LUNAR SILHOUETTES
+
+The SJAA would like to thank Bob Hewett and Dick Humphries for coming out to the April 8th Indoor Star Party. Both Dick and Bob have been working to photograph the full Moon rising behind the observatory buildings atop Mt. Hamilton for I hope that our suggestions will be of help to the both of you and GOOD LUCK!
+
+# "THE CELESTIAL TOURIST SPEAKS"
+
+At the June 1st General Meeting, our own Jay Freeman will present us with his thought's on amateur astronomy, observing, and telescopes in general. I introduced similar that day gave an entertaining and very informative. If you're a beginner and have been trying to get into astronomy, then this meeting is for you! Jay discusses the various telescope types, eyepieces, and observing techniques.
+
+# COMET COMMENTS BY DON MACHHOLZ
+
+The year's first comet has been recovered. This occurred nearly three months into 1985, a rather long wait for the discovery of recovery of the year. Meanwhile, Comet Shoemaker (1984f) is in our southern sky, and Comet Halley is behind the sun in our "What Goes Around Comes Around" section we will examine both of the bright comets visible in 1910.
+
+**Periodic Comet Ashbrook-Jackson (1985a1):** On March 20, A. Gilmore and P. Kilmartin recovered this comet when it appeared stellar at a faint magnitude 18, not far from M 55. The comet may brighten to magnitude 13 by late summer.
+
+## Comet Shoemaker (1984f)
+
+| DATE | R.A. (1950) | DEC | ELONG | MAG. |
+|------|-------------|-----|-------|------|
+| 04-25 | 14h 18.0m | -37°17' | 156° | 11.4 |
+| 05-05 | 13h 40.8m | -38°07' | 155° | 11.3 |
+| 05-15 | 13h 04.3m | -37°58' | 144° | 11.3 |
+| 05-25 | 12h 31.9m | -37°02' | 131° | 11.3 |
+| 06-04 | 12h 05.5m | -35°42' | 119° | 11.3 |
+
+## Shoemaker Notes
+
+This comet is fainter than we had expected as it passes opposition and heads back northward. This diffuse comet will appear only about 1' to 2' across.
+
+[THERE IS A CIRCULAR DIAGRAM: Shows a crosshair/reticle pattern with concentric circles]
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6Uo8E1uem7ARZa9SZ'}]
+WHAT GOES AROUND COMES AROUND - HALLEY'S COMET
+
+Halley's Comet is now within 35 degrees from the sun and magnitude 18. From here it will move into the morning sky (June 12), and remain in the sun's glare until visual observations resume in late-July. At that time the comet will still probably be magnitude 14 and 35 degrees from the sun. As the year draws to an end, the comet will be a possible naked-eye object as it sweeps outside the earth's orbit and into our evening sky. We'll discuss this in greater detail in future issues.
+
+Seventy-five years ago this month Halley's Comet graced the evening sky. On May 18 it passed between the earth and sun, but no trace of it was observed against the solar disk as astronomers had expected. The through the comet's tail which itself was reaching a length of over 100 degrees! On May 25 the total lunar eclipse also appeared in the sky with Halley's. The year 1910 was an exciting time for observing the comet, quite unlike the present appearance where earthbound geometry makes for a fainter object.
+
+In 1910, however, another comet appeared. Called the "The Great January Comet", it was called by most a prime wonder in South Africa where it was estimated to have reached a magnitude -4.5 (as bright as the planet Venus) with a tail attached. By Jan. 17th it was being observed by astronomers (including those at Lick Observatory) and the public around the world. It moved slowly from the sun as it climbed rapidly outward in the January sky. It was noted on Jan. 12th that the comet had a tail length of 30 degrees on Jan. 30th. By Jan. 27th the comet was magnitude 2; it dimmed so rapidly so that by Feb. 4th it was magnitude 7.6.
+
+Recently there has been some suggestions that many people who felt they saw Halley's Comet in 1910 saw the "Great January Comet" instead. While it might be difficult to prove individual cases 75 years after the event, there were some memorable differences between the two comets.
+
+Halley's Comet as expected, lingered at naked-eye visibility for two months, displayed a longer tail and induced a greater impression as we passed through the tail. The "Great January Comet" was indeed brighter than Halley's Comet, but it was unexpected, visible to the public for only about two weeks (this was not uncommon for some comet every few year), and the comet's head stayed within 25 degrees of the sun during the same time frame. This comet would have been as difficult to observe as Comet Ikeva-Seki (1965 VIII), which was itself missed by much of the public.
+
+Probably most people who saw a comet the year 1910 did indeed observe Halley's Comet. The two tables of data here should emphasize the differences. Distances are in millions of miles. The magnitudes are estimates.
+
+DATE(1910) R.A. (1950) DEC ELONG SKY MAG. DIS. SUN AND EARTH
+
+HALLEY'S COMET (1910 II)
+
+04-11  00h 02.1m   +08°12'  19° Morn.  +2.3   52.7   132.9
+04-21  23h 54.3m   +09°02'  30° Morn.  +3.5   54.6   110.3
+05-01  23h 55.0m   +08°19'  39° Morn.  +3.6   58.9   76.2
+05-11  00h 25.6m   +10°41'  41° Morn.  +3.8   48.7   39.2
+05-21  05h 24.7m   +18°38'  22° Even.  +4.5   81.6   18.9
+05-31  09h 42.9m   +02°30'  79° Even.  +4.8   95.5   40.8
+06-10  12h 24.3m   -09°23'  96° Even.  +5.2   109.9   71.5
+06-20  10h 49.4m   -02°04'  27° Even.  +5.3   124.2   110.2
+
+DATE(1910) R.A. (1950) DEC ELONG SKY MAG. DIS. SUN AND EARTH
+
+THE GREAT JANUARY COMET (1910 I)
+
+01-10  18h 37.5m   -29°31'  13° Morn.  -0.4   31.8   113.5
+01-15  19h 16.1m   -29°03'  10° Morn.  -4.2   16.4   90.9
+01-20  20h 12.4m   -24°47'  9° Even.  -4.8   11.9   81.5
+01-25  21h 16.5m   -04°26'  16° Even.  -4.6   20.7   92.2
+01-30  21h 33.2m   +01°14'  23° Even.  -3.0   41.8   115.9
+02-04  21h 45.4m   +04°44'  23° Even.  +2.5   59.1   131.5
+02-09  21h 54.1m   +07°11'  23° Even.  +9.0   71.2   146.3
+
+REFRESHMENTS WANTED
+
+Last year, SJAA members provided food and beverage at the auction. Judging from the comments, it was thoroughly enjoyed and we'd love to do it again. We need cookies, chips, dips, dragonfire salsa, soft drinks, cookies and we'd will make a welcome addition to the auction. So when you come, bring enough for yourself and some extra to share.
+
+DEEP SKY NOTES - MAY
+BY: STEVE GOTTLIEB
+
+On February 23, 1985 I observed at Digger Pines a number of galaxies with known and catalogued north those wishing to go beyond the standard NGC and IC planetaries, the standard source is the CATALOGUE OF PLANETARY NEBULAE by Luboš Perek and Luboš Kohoutek. This 1967 reference gives extensive data on 1036 planetaries known up to 1966 as well as photographic finder charts.
+
+[THIS IS FIGURE: A spiral galaxy sketch]
+
+In recent years, many discoveries have been made by close examination of Schmidt plates from the Palomar Observatory Sky Survey (POSS). Up to 1966 George Abell found 86 new planetaries on the POSS, most of a large size but exhibiting a very low surface brightness. One example is Abell 33 found 1.5 degrees south of 35 Hydrae (Iota). On the southern edge of the planetary is a mag. 7 star which produces a severe light distraction from viewing. With my 13" at 62X using a UHC filter it appeared surprisingly large at 4.5', very diffuse, slightly oval north-south, with a slightly brighter rim. 1950 coordinates are 9h 36.0m -02deg 34'.
+
+Though more difficult, I managed to view the planetary NGC 2438 in the open cluster M46, few are aware of a second planetary in the same low power field. Minkowski 1-18 can be found 24' north of NGC 2438 and about 4' NNE of a moderately bright star. Even with a filter this planetary was barely visible in averted vision as a dim spot. 1950 coordinates are 7h 39.1m -14deg 15'.
+
+Kohoutek Sanduleak 2-21 is missing from the Perek- Kohoutek catalogue as it was identified as a planetary as recent as 1975. Certainly a major factor in its late discovery is that the size is very small. The planetary lies in its appearance in the 13" was similar to a small (40") faint galaxy mag. 14:1 and fact is listed incorrectly at a galaxy in the MORPHOLOGICAL CATALOGUE OF GALAXIES which used the POSS as its source material. 1950 coordinates are 8h 06.5m -19deg 05'.
+
+Finally PK 164+31 1 is an unmarked planetary slightly on the irregular atlas at 7h. 53.9m +53deg 33'. With a diameter of over 7', this huge planetary was striking in Jack Marlings 18" and though the overall surface brightness was very low, 2 brighter knots were visible in the rim. This most unusual planetery has been nicknamed with the acronym of OSC (Ohio State the two initials arc minutes south) in Burnham's CELESTIAL HANDBOOK and the Perek-Kohoutek planetary catalogue was. This error arose when the planetary was discovered photographically in 1939 and the two brighter knots were incorrectly assumed to be identical with the catalogue galaxy.
+
+ed. note:  I am always impressed with Steve's observations of unusual and often over-looked data. With 17.5" telescopes the standard for these days it is most disappointing to go to the old deep and find only previously known same objects. These faint planetaries that Steve is describing this month should make for interesting viewing in the FPOA's 30" telescope. I can hardly wait!
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6VSpiu2LW9qhAaz7k'}]
+1985 MESSIER MARATHON
+BY: DON MACHHOLZ
+
+Despite mixed weather, the 1985 Messier
+Marathon produced good results. The first
+night, Friday March 15, was clear from Loma
+Prieta, with cloud tops less than 1000 foma
+below the observing site, which is at 3360 ft
+elevation. Skies were dark as the clouds kept
+the city lights away. Rich Page, using his 5"
+f/5 Westractor at 20x, had observed 99 of the
+106 possible objects. I had observed near
+3 AM. Until that time, with my 10" f/3.8
+reflector (32X), observed 92 objects. The
+next night, March 16th, low clouds, high
+clouds, and high humidity forced Darvin
+Poulos, David Cooper, and I home near 10 PM.
+
+Because one is usually awake all night
+for the marathon's, we do not hold them on
+weekdays. However, clear weather on Monday
+March 18th brought Rich Page and D back to
+Loma Prieta. We each observed 109 Messier
+Objects, along with all of the planets. We
+also observed 107 of the Messier Objects with
+20x80 binoculars.
+
+The following weekend, Fri., March 22nd
+found Rich, Steve Waldie, and I at the
+campsites of Joe Grand Ranch Park. Horizons
+are low here, and while we did not "marathon",
+we did a lot of observing.
+
+The final night (March 23rd) brought quite
+a crowd to the upper site of Grant Ranch Park.
+Some 30 people and 15 telescopes graced the
+slopes, and, while Messier Objects were
+popular, so was comparing double stars,
+clusters, and galaxies among the different
+observers. By 11:30 PM, many of the observers
+had left for the short drive home. A good
+time was had by all!
+
+CALICO OBSERVATORY
+BY: JIM VAN NULAND
+
+GREAT RED SPOT RECOVERED!
+
+After several
+fruitless attempts at
+home, the Great Red
+Spot of Jupiter was
+recovered by
+observers at the
+Fremont Peak star party
+on April 14 under flawless skies. The spring
+weather, too, was flawless, 68 deg. at 4 am,
+as Jupiter and the crescent moon rose over the
+campers house. The apodizing screen and 305x
+captured to find the Spot only one minute
+later than predicted.
+
+The Spot remains yellow, resting on the
+southern equatorial belt, about the same as it
+has been for the last few years. The dent in
+the belt is very distinct, and good thing too,
+as Spot itself does not contrast very much
+with it's white surroundings. I was struck by
+the changed shape - straight sides with round
+ends, not the football shape it'd always been
+before. Time will tell just how temporary
+this will be.
+
+The predictable, and interested for
+changing aspect, phase, and night time. At
+the given times, the Spot will line up at
+directly toward the Earth and thus will be
+central on the apparent disk of the planet.
+Observations may be made for about an hour
+before and after that time.
+
+The times are adjusted to local time, and
+include transits for which the planet is at
+least 1-1/2 hours up, with the Sun at least
+three degrees down. Zero to 10 minutes has
+been randomly subtracted to prevent
+anticipation wearing a transit. It may be
+useful to know how the Spot moves its own
+length in about 30 minutes.
+
+To see Jupiter's Great Red Spot, good
+seeing and a power of perhaps 200 - 300x are
+required. Use an apodizing screen if you have
+one! See Sky & Telescope, August, 1982, page
+147. As of this writing, the Spot has been observed
+with a 60mm refractor, but the low contrast
+may now require a larger aperture. Begin at
+least 15 minutes before one of the times given
+in the table.
+
+Focus carefully, then look eastward along
+the southern margin of the southern equatorial
+belt for a narrowing of the belt. In perhaps
+half of its western width there will be a
+the Spot, which in turn is about 1/2 of a
+jovian radius long. Now watch continuously
+for those moments when the air is especially
+stable, and the Spot will pop out at you! Let
+me know of your observations, especially if you are
+using an instrument smaller than that of the
+Clear Skies, Jim Van Nuland, 3509 Calico Ave.,
+San Jose, CA. 95124
+
+Great Red Spot on Meridian PDT
+
+ds mo d h m                ds mo d h m
+M  5  1  4  0 am           M  5 20  4 41 am
+F  5  3  5 39 am           Sa 5 25  3 46 am
+U  5  5  4 50 am           M  5 27  2 45 am
+M  5 13  3 55 am           Th 5 30  2 54 am
+W  5 15  5 32 am           Sa 6  1  4 31 am
+Sa 5 18+ 2 59 am           Tu 6  4  2  2 am
+
+SPACE PROGRAM UPDATE
+BY: BOD FINGERHUT
+
+DISCOVERY LAUNCHED APRIL 12TH
+
+A Canadian Telesat was
+deployed from the
+shuttle shortly after
+launch. The next day
+the satellite was
+deployed but a lack of
+power has crippled it
+and prevented its
+rocket
+from functioning. The space walk and an
+attempt to repair the disabled satellite
+turned to comedy when on the least's side did
+not activate the satellite when touched by the
+shuttles remote manipulator arm.
+
+CHALLENGER SCHEDULED FOR LAUNCH APRIL 29TH
+
+The Spacelab 3, mission 51-B, is scheduled to
+go up the launch pad on April 14 or 15. The
+Spacelab will be used to conduct experiments
+in material science, fluid mechanics and
+will have instruments for atmospheric and
+astronomical observations.
+
+NEW SHUTTLE MANIFEST ISSUED
+
+The new manifest for the rest of the year:
+
+51-D:  April 12, Discovery, Payload:  Telesat-
+1 & Syncom IV-3.  51-B:  April 29, Challenger,
+Payload:  Spacelab 3.  51-G:  June 12,
+Discovery.  Payload:  2 communication
+satellites; Spartan astronomy instrument
+pointing tool; SSL-1.  51-I:  July 15, Challenger,
+Payload:  Spacelab 2.  51-I:  Aug 1, Discovery,
+Payload:  3 communication
+satellites and MSL-2 material science lab. 51-
+J:  Sept 28, Atlantis, Payload:  Department
+of Defense mission. 51-K:  Oct, Columbia,
+Payload:  Spacelab D1. 61-B:  Challenger, 3
+communication satellites, and a FOC-1
+environmental observation mission. 62-A:  Dec
+20, Columbia, Payload:  Shuttle communication
+satellites; and EAS/ACCESS experimental
+assembly of structures in EVA, and MSL-3
+materials science lab. Atlantis was delivered
+to the Cape on April 3. The teacher in space on
+teacher that will be selected April 13th. The
+shuttle will fly on mission to fly on the
+shuttle in 1985, mission 51-L, in January
+1986. The first flight from Vandenberg,
+mission 62-A, is now scheduled for March 20,
+1986. The delay is due to the addition of a
+flight readiness firing on the pad.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6Vz4aVKP1VJaCr5Cp'}]
+# ARIANE LAUNCH DELAYED
+
+The launch scheduled for April 23 has been
+postponed until May 7 because of possible
+contamination of two of its three components.
+GTE's GSTAR-1 and France's Telecom-1B.
+
+# NASA AND JAPAN AGREE ON SPACELAB FLIGHT
+
+A Japanese astronaut will conduct about 34
+different tests during Japan's first materials
+processing test in January 1988.
+
+# NASA TESTING GRAZING INCIDENCE MIRRORS
+
+Grazing incidence mirrors for short wavelength
+astronomy are to be tested in an X-ray test
+facility and a pointing and tracking mirror
+resolution has been set. This resolution is
+needed for the Advanced X-ray Astrophysics
+Facility (AXAF) which NASA hopes will be a
+fiscal 1987 new start.
+
+# GALILEO COMPLETES INITIAL ENVIRONMENTAL TESTS
+
+It is scheduled to be shipped from JPL in
+December for launch in May 1986.
+
+# ESA DEFINES SATURN MOON PROBE
+
+The European Space Agency (ESA) has completed
+preliminary definition work on a descent probe
+for Saturn's moon Titan for the NASA proposed
+1990's Cassini mission to Saturn.
+
+# AGREEMENT FOR INTERNATIONAL COOPERATION ON SPACE STATION REACHED
+
+NASA has reached agreement with Europe, Japan,
+and Canada. Phase B space station definition
+studies can now begin. British Aerospace has
+completed preliminary definition of a 50-60 ft
+long, 24,250 lb unmanned platform that could
+be developed by Europe as part of its Columbus
+space station program. Columbus is a manned
+platform would fly near by and be part of the
+U.S. space station. NASA has selected six
+U.S. contractor teams for nearly two years of
+space station definition and preliminary
+design work. The overall station structure
+award has been delayed until mid-April because
+of the closeness of the competition between
+the contractor teams.
+
+# USSR REVEALS SPACE PLANS
+
+Russian scientists visiting the U.S. revealed
+the following plans for space missions by the
+USSR.
+
+1988 Mars/Phobos mission - Two spacecraft.
+One will maneuver to fly in hover formation
+within 165-330 ft. of Phobos. It will fire
+laser and ion beams at Phobos to vaporise
+surface material for analysis. The other
+spacecraft may perform the same mission at
+Deimos.
+
+1989-90 Lunar Polar Orbiter: This spacecraft
+would perform geochemical mapping of the
+entire lunar surface.
+
+1991 Venus/Asteroid lander - Two spacecraft.
+One would flyby Vesta and drop a lander onto
+its surface. The other would deposit a lander
+on Venus and continue on to an asteroid. This
+mission is not yet approved.
+
+# QUESTIONS OF THE MONTH
+
+What ever happened to the clubs $1000 CID
+camera? Bruce DeGraaf, where are you?
+
+Where are the club telescopes? If you have
+one of the club's telescopes, would you please
+contact the Editor. Thx. (415) 780-9250
+
+David O. York currently has the clubs 14"
+telescope and would like someone to take it.
+Please contact David at (408) 947-7573
+
+# ASTRO ADS
+
+FREE TO GOOD HOME - 22" Burk tube - at least
+80" long will fit 172" or 20" mirror.
+Contact P. Rose, 408-293-6611
+
+WANTED: Odyssey Compact 10" f/5
+Dobsonian. Contact: Aloysius Long. (415)
+952-8660, or leave name and number at 347-
+4433.
+
+# SPRING STAR PARTY AT THE PEAK BY: JOHN GLEASON
+
+[Image of telescope]
+
+BF: "I want to do it myself"
+
+It's 2 AM on the
+morning of April 14th.
+Temperature is
+57 degrees and the
+humidity is 9% at 68%.
+And so it was for those
+who attended the April
+13th Star Party at
+Fremont Peak.
+With what has to be a record high temp.
+for an April star party at the "Peak", 75
+amateur astronomers enjoyed "Summer" weather
+on this spring weekend. Telescopes were
+scorched at 84 degrees during the day. The
+fine weather this weekend allowed many of us
+to bring scopes out of winter storage" or
+winter storage and enjoy the many wonders of
+the spring sky. Bob Fingerhut was there with
+his recently completed 18" f/4.6 telescope.
+This was first starlight with this telescope
+for Bob. Indeed the view I had of Sirius was
+most memorable. Reports later that evening
+were that the sky conditions were very tough
+the 16" were phenomenal. Congrats to Bobby
+and Good Luck with your new instrument.
+
+BF: "No thanks, I'll set it up myself"
+
+Others who were enjoying the fine weather
+were Jim Mcdaniels, Bob Fingerhut, Chris and
+Shea Pratt, Jack Zeiders, Jack Peterson, Jim
+Baumgardet, Tom Ahl, Ron Aglion (Dr. Jones I
+presume?), Jim Van Nuland, (Jim can never
+complain about Fremont Peak weather again),
+Mike O'brine, Don & Laura Machholz, and a
+whole host of others whose names I can't
+remember. Don McLaughlin who would have to go
+"work" the last of the evening, did
+finish up around 2:15 AM to do some observing
+with the C14. Saturn was most impressive.
+The atmospheric seeing was quite good, despite
+the low declination of the "Ringed" planet.
+"Rank" beginner, Charles Thomson, was able to
+observe Saturn's cloud bands. The rings as
+well as color variations within the rings and
+planet cloud bands. I tried in vain to
+observe the Enke ring division but no luck
+this time. Having never seen the Trifid
+nebula before, and not having any pre-
+conceived notions of color, Charles was able
+to sketch the "Enke" like shape in the bright
+region of the nebula. He said the color was
+similar to that of color negatives. This was
+probably one of the finest views of the Trifid
+that I have ever had. The three intersecting
+dark rifts were jet black and stood out
+plainly against the nebula. The stars were
+pinpoints of light during periods of very
+steady seeing.
+
+BF: "No.......I'll do it myself"
+
+Richard Berry's (Astronomy Magazine)
+"Dark Horse" nebula -- NGC 6514" was visually
+"This is actually the "Pipe" nebula but the
+author noted that it looks much like a galloping
+horse against the glow of the Milky Way. This
+was the finest spring star party that I have
+attended since going to Fremont Peak. And
+just think, summer is still ahead!
+
+BF: "There, it's finished. I did it myself"
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6Wa38vStbDoK3vrmQ'}]
+GLACIER POINT STAR PARTIES
+
+GUIDELINES FOR PARTICIPATION IN GLACIER POINT
+STAR PARTIES
+
+Here are the guidelines that the park service
+sent me last year concerning star parties at
+Glacier Point.
+
+1. At least one telescope per vehicle. To be
+   shown to the entrance station ranger if
+   requested. (for fee waiver)
+
+2. Maximum of two adults per vehicle. (for
+   camping at the G.P. Ranger station only.
+   Bridalveil campground allows 6 per site)
+
+3. Due to limited restroom facilities, a
+   maximum of 16 persons and six cars may
+   attend from any one organization at a time.
+   (SJAA will stay at Bridalveil Campground.
+   Your editor will be there a day early to
+   hold campsites)
+
+4. It will be up to the clubs to assign their
+   people to one or the other facility. In
+   order to avoid confusion brought about where more
+   than one club is coming, we would
+   appreciate your communication with each
+   other to determine who goes where and in
+   what numbers, ideally a mixture of clubs
+   at each site to maximize social interaction.
+   Bridalveil is only miles from Glacier
+   Point. Clubs should also consider the
+   size and difficulty in setting up
+   instruments in deciding who is most
+   mobile. Club presidents may write in
+   advance and give names of individuals who
+   are going to stay at Glacier Point.
+
+5. All telescopes are to be set up on the
+   blacktop walkway near the hotel scar to
+   avoid tripping hazzards.
+
+6. All vehicles to be removed to the parking
+   lot immediately after offloading equipment
+   at the observing site.
+
+7. All participants are reminded that the
+   purpose of the Star Party is to provide an
+   interpretive program on astronomy to the
+   park visitors, and that they are to be
+   prepared to answer questions, give
+   explanations and otherwise provide to the
+   park visitors an introduction to
+   astronomy. There will understandably be
+   visitors of the night who will be using
+   flashlights as these visitors are not used
+   to moving around in near total darkness.
+   The astronomical club members are asked to
+   be polite and tolerant of persons who need
+   the need to use their flashlights. The
+   clubs may wish to provide red plastic
+   covers for either for or to the visitors
+   flashlights if they wish. After midnight
+   when the program is officially over, the
+   astronomers may request all flashlights
+   off and they may then feel free to take
+   photographs.
+
+8. A peer liaison person will be assigned by
+   the park service to monitor camp at
+   Glacier Point, the set up and removal of
+   equipment at the observing site and the
+   conduct of the star party hosts. In the
+   absence of regular N.P.S. personnel this
+   person will have the authority to make
+   binding on the spot decisions.
+
+9. There is no camping (includes sleeping in
+   your vehicle) a the Glacier Point parking
+   lot. All persons must sleep at the
+   campgrounds. Open fires are not permitted
+   in the star party area.
+
+We trust that these operating procedures
+will make the Star Parites more enjoyable and
+function more smoothly. If you have any
+questions or recommendations for improvement
+in the future, please feel free to communicate
+with the naturalist in charge.
+
+ED. NOTE: This isn't really as bad as it
+sounds. The Bridalveil Campground is far
+superior to the campground directly behind the
+Glacier Point Store. People using telescopes have in the past been able to leave
+their mountings set up during the day. You
+may want to bring a tarp to cover it. The
+area that you park up at is directly in front
+of the Glacier Point Gift Shop and is a large
+enough area to handle many telescopes and
+observers. A number of cars will be needed for
+those who bring a long enough extension cord.
+Picnic tables are also there. Eastern and
+Southeastern horizions are excellent. The
+Milky Way will be overhead at midnight. This
+observing site affords an excellent
+opportunity to try your hand at astrophotography. The skies are quite dark!
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6X8GjUrUtJCHdhQ7w'}]
+THE
+SAN JOSE ASTRONOMICAL ASSOCIATIONS
+
+5TH ANNUAL
+
+[ILLUSTRATION: Drawing of an astronomical telescope with various equipment]
+
+ASTRONOMICAL
+AUCTION
+
+SATURDAY MAY 11TH
+6:00 PM
+DOORS WILL OPEN AT 2:00 PM
+
+THE LOS GATOS RED CROSS BUILDING
+16011 Los Gatos Saratoga Road
+
+TELESCOPES, EYEPIECES, MOUNTINGS, MIRRORS, LENSES, CLOCK DRIVES, BOOKS,
+CAMERA EQUIPMENT, STAR CHARTS, FINDERS, TUBES, DIAGONALS, PHOTOGRAPHS,
+SPACE ART - everything you need to make your hobby more enjoyable. You
+name it - it's likely to be there. Check your garage and closets for
+anything astronomical you would like to sell. Complete the pre-registra-
+tion information form on back and save time and toruble. Anyone can buy
+and sell! It"s fun and it's easy!
+
+SEE YOU AT ONE OF THE BIGGEST AND MOST FUN ASTRONOMICAL EVENTS IN THE BAY AREA!
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6XeXPwyywGRH8o7bu'}]
+PRE-REGISTRATION INFORMATION
+
+The 5th Annual Bay Area Astronomical Auction is approaching so now is the
+time to start looking around for those items not earning their space, or
+brought back from Riverside, or whatever is astronomical or telescope-making
+related that you would like to earn some $$ from.
+
+Pre-registration by mail makes it easy. Fill out the form or a copy of it.
+List each different item you have. If you have several identical items,
+use a single line and put in the quantity. Give a minimum price, even if
+you are willing to let it go really cheap. Indicate the percentage of the
+selling price to go to the SJAA (minimum 10%). If you didn't pay much for
+it anyway you may wish to make it an outright donation. Thank you. All
+proceeds from the auction go to further public education in astronomy.
+
+Next, and MOST important, mail the form, with a SASE, to Jim van Nuland,
+3509 Calico Ave, San Jose, CA, 95124. You might keep a copy of it, too.
+Jim will assign your bidder/seller and item numbers, and will get the form
+back to you quickly. That's a promise.
+
+You will then have the numbers to label everything before the day of the
+auction. Use stickers given to idicate the item number, at least. If you
+have large stickers sent back, include the minimum bid, too. It helps the
+auctioneer work smoother.
+
+If you find another box of things, just send in another form. Include the
+bidder number from the first one. If you find more of something you'd already
+registered, give the number of the first, indicate the number to be added,
+and give the same description.
+
+If you don't include the SASE, Jim will assign the numbers and hold the form.
+You can pick it up when you arrive at the auction and then get busy labeling
+your goodies then.
+
+In any case, Jim will have all the stuff hammered into the computer before
+auction day, so there will be no backlog and, for those who pre-register,
+no delays. Priority on auction day will be given to assigning bidder numbers,
+----item registration will be done as time permits. So get the forms to Jim.
+
+Directions to the auction:
+
+Take Hwy 17 south towards Santa Cruz. Take the Highway 9 (Los Gatos-
+Saratoga Rd) exit and continue onto Los Gatos-Saratoga Rd. Travel about a
+mile to Rose Avenue and turn right. Turn right immediately into the Red
+Cross buildings parking lot. (16011 Los Gatos-Saratoga Rd). Plenty of
+parking and easy loading and unloading acccess!
+
+Doors open at 2 PM for registration of items and bidders. There will be
+no item registration past 5:45 PM. Auction starts promptly at 6 PM. Items
+may be paid by cash or check. There will be a $1 bidder/seller registration
+fee at the door. Refreshments will be available!
+
+                    1985 SJAA Auction Pre-Registration
+Bidder    Name                                          Club
+#_____    Addr_______________________________________City________Zip______
+
+Item | Qty | Min | SJAA | Description (about 40-50 characters or so...)
+NUM  |     | bid |  %   |
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6YC22KVz2vcyR1CJU'}]
+# FREMONT PEAK OBSERVATORY ASSOCIATION
+
+The *Fremont Peak Observatory Association* was founded in September, 1981, by a small group of active San Francisco Bay Area amateur astronomers and telescope makers. Our goal is to build, equip, and operate an observatory at Fremont Peak State Park, located east of Salinas, California, in the Gavilan Mountain Range.
+
+Fremont Peak State Park has long been a favorite dark sky observing site of Bay Area amateur astronomers. Situated little more than one hour's drive south of San Jose, the park offers easy access to camping and observing sites at approximately 3000 feet elevation. Daytime activities include short hikes to the top of Fremont Peak for spectacular views, family picnicing, and for those willing to drive the ten miles into San Juan Bautista a chance to explore one of California's historical mission towns. San Juan Bautista also offers overnight lodging, shops, and several excellent restaurants.
+
+The *Fremont Peak Observatory Association* is a non-profit group dedicated to promoting the astronomical interests the park has to offer. Currently we are working with the California State Park Department to formulate an acceptable plan for the construction of the observatory facilities. Our Articles of Incorporation and By-Laws have been filed with the State of California and we are currently waiting final approval of our tax-exempt status. The California Park System has been very enthusiastic and supportive of our ideas and goals and is doing everything it can to expedite the documentation involved.
+
+The observatory we are planning will house a 30 inch and a 22 inch telescope. Both telescopes are currently under construction with expected completion dates of September 1985 and October 1985 respectively. These instruments will be among the largest available to the public and amateur astronomers on a regular basis. Public programs will be offered during the good weather months of May through October, with private use of the instruments scheduled·around the public programs on a year-long basis.
+
+The association is now open for membership. We need to raise roughly $8,000.00 to build the structure to house the telescopes. Approximately $1,000.00 has already been collected. Halley's Comet is coming, and we can't think of a better way to learn about and view this once-in-a-lifetime event. We need your ideas, suggestions, and contributions to make Fremont Peak Observatory a reality. Full membership descriptions and an application are located on the back. Thank you.
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6YfYaWpDEeq2Vxha9'}]
+All classes of membership are entitled to the following privileges:
+
+— Full use of the telescopes and facilities (after initial instrument orientation session)
+
+— Quarterly newsletter informing you of astronomical events happening at the observatory and around Northern California
+
+— Membership Card
+
+— Voting at general meetings (if non-Corporate) after one year of membership
+
+— Opportunities to assist during the open public viewing evenings
+
+All memberships are non-voting the first year. Corporate membership is non-voting. Up through December, 1985, all Sustaining, Life, and Corporate members will receive a parchment declaring them Charter Members in the Fremont Peak Observatory Association. All General, Family, and Contributing memberships will have "Charter Member" noted on their membership cards.
+
+All memberships except Life and Corporate are subject to a one-time $10.00 initiation fee, payable at the time of application for membership. All initiation fees, membership dues, and donations made to the Fremont Peak Observatory Association are tax-deductible.
+
+Please send your check or money order, made payable to the Fremont Peak Observatory Association, to:
+
+                        Frank Dibbell
+                        Membership Chairperson, FPOA
+                        710 Georgia Avenue
+                        Sunnyvale, CA 94086
+
+                        Application For Membership
+
+Name: _________________________________________________________________
+Address: ___________________________________________________________________
+State: ________________     Zip: ____________________
+
+Please enter me as a member in the Fremont Peak Observatory Association under the following category:
+
+General                                          ____$10.00/yr*
+
+Family (two or more at same address)             ____$10.00/yr*
+
+Contributing                                     ____$30.00/yr*
+
+Sustaining                                       ____$50.00/yr*
+
+Life                                             ____$200.00
+
+Corporate                                        ____$50.00/yr
+
+* Plus one-time initiation fee of $10.00
+
+Please find enclosed a check or money order for: __________
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6ZC3sPQXQEAmgKo51'}]
+THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+GENERAL MEETINGS:
+
+General meetings are held once a month at
+Los Gatos Red Cross building, Los Gatos
+California. This is also the location for the
+SJAA's "indoor star parties". The building is
+located at 19011 Los Gatos-Saratoga Rd., Los
+Gatos. From Hwy 17 south take the Hwy 9
+(Saratoga) exit and continue up Los Gatos-
+Saratoga Rd. to the Red Cross building which is
+at Rose Ave. and turn right immediately into
+the parking lot of the Red Cross Building.
+MEETINGS BEGIN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to Los Gatos-Saratoga Rd location with landmarks]
+
+GRANT RANCH COUNTY PARK:
+
+This site is a new one for the SJAA so come
+and try it out. Located on Mt. Hamilton
+Road. halfway between San Jose and Lick
+Observatory. To get to Mt. Hamilton Road,
+take Alum Rock (either direction) to Alum Rock
+Ave. Go east on either Alum Rock Road or Mt.
+Hamilton Road and follow it past Grant Road to
+just past the Quimby road intersection. After
+sunset the park front gate will be locked with
+the SJAA's combination lock. Use the sequence
+4565 to open, but be sure to lock the gate
+behind you when you enter. If there are two
+gates, the lock may be on the exit gate, if so
+enter the park from this gate.
+
+[THIS IS FIGURE: Simple map showing Mt. Hamilton Rd. area with Highway 680 and Grant Ranch Park]
+
+HENRY COE STATE PARK:
+
+Take Hwy 101 south towards Gilroy and take the
+East Dunne exit. Continue east towards the
+hills (past Anderson Reservoir) for about 12
+miles to the park. Past the park entrance you
+will see old ranch buildings on the right and
+a horse trough. The gate is locked but the
+combination is 4565. It is generally safest to
+gate after yourself. Try arriving after dark,
+please park outside the gate and hike in first
+to find an observing site before driving in.
+Parking lights only after dark, please.
+
+[THIS IS FIGURE: Simple map showing Hwy 101 South with Anderson Reservoir, East Dunne Exit, and Coe Park area marked as Campground]
+
+FREMONT PEAK STATE PARK:
+
+Take Hwy 156 west from Hollister. Take Hwy
+156 east (San Juan Bautista) for two miles to
+a yellow flashing light. Turn right and go
+about 25 miles to where road curves slightly
+to the left and splits. Stay left for about
+50 yards and then bear right when road splits
+again. Follow road for about 11 miles up into
+the park. SJAA's site is visible if you drive up
+into main area of camp. Parking lights only
+after dark, please.
+
+[THIS IS FIGURE: Map showing route to Fremont Peak with landmarks including Hwy 156 E, San Juan Bautista, and Hwy 101 S to Salinas]
+
+EPHEMERIS is published monthly by the San Jose
+Astronomical Association, 3905 Calico Ave.,
+San Jose, CA. 95124
+
+OFFICERS:
+
+PRESIDENT    Robert Fingerhut, 340 Rio Verde Pl.
+             #4 Milpitas, CA. 95035
+             (408) 263-4455
+
+VICE-PRES    Dave Ambrose 816 Everett St., El
+             Cerrito, CA. 94530
+             (415) 524-0869
+
+Sec.         James Van Nuland, 3509 Calico Ave.
+             San Jose, CA. 95124
+             (408) 371-1307
+
+TREAS.       Robert Fingerhut, 340 Rio Verde Pl.
+             #4 Milpitas, CA. 95035
+             (408) 263-4455
+
+BOARD OF DIRECTORS:
+
+Paul Mancuso (408) 946-0738, Steve Greenberg
+(415) 443-8638, Tom Ahl (408) 987-1383, Gene
+Cisneros (408) 923-6800, Joe Sunset (408)
+244-8693, Chris Pratt (408) 629-4455, Dennis
+MacNee, (415) 654-8796
+
+EPHEMERIS EDITOR:
+
+John P. Gleason, 5361 Port Sailwood Dr.,
+Newark, CA. 94560 (415) 790-9250
+
+CLUB TELESCOPES
+
+The SJAA maintains three telescopes for
+the use by its members. Loan periods are two
+months, and all arrangements must be made
+between the person wanting to borrow the scope
+and the person having it. If your two months
+are up and no one indicated an interest in
+the bulletin, then the scope is considered
+yours until someone does. All that is asked
+is that a board member or bulletin editor is
+notified when a telescope changes hands.
+
+CONCERNING WANT ADS:    All SJAA members and
+friends may place astronomical related ads in
+Ephemeris at no charge. All ads will normally
+run for two months unless the editor is
+notified otherwise. Please submit by sending
+to Ephemeris, 5361 Port Sailwood Dr., Newark,
+CA. 94560
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA6ZhoRkW4xi2xvLh9L'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $8.00    MEMBERSHIP/S&T: $21.00    JUNIOR (UNDER 18): $15.00
+
+Name ________________________________    Questionnaire (optional)
+
+Address ______________________________    What are your astronomical interests (e.g. astro-
+                                         photography, deep-sky observation, telescope making,
+______________________________________    etc.)? _______________________________________
+
+Telephone (____) ______________________    _____________________________________________
+
+Please bring this form to any SJAA meeting, or send to:    _____________________________________________
+Robert Fingerhut, Treas.
+San Jose Astronomical Association              Do you own a telescope? _______ If so, what kind?
+340 Rio Verde Pl. #4, Milpitas, CA 95035      _____________________________________________
+
+[Phone: (408) 263-4455]                        Is there any specific area of astronomy that you feel
+                                               qualified to help others with? _________________
+
+Membership: Adult ___ Junior (under 18) ___    _____________________________________________
+Bulletin Subscription only: ___                _____________________________________________
+
+
+SJAA EPHEMERIS                                 BULK RATE
+3509 CALICO AVE                                U.S. POSTAGE PAID
+SAN JOSE, CA 95124                             PERMIT NO. 5381
+                                               SAN JOSE, CA. 95125
+
+
+TIME VALUE-DATED
+NEWS MATERIAL

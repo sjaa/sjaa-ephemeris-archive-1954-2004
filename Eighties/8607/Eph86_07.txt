@@ -1,29 +1,471 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9GtMNGFqvxyLP8LgK'}]
+# EPHEMERIS
+## OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+[Image: Observatory dome illustration]
+
+# JULY 1986
+
+******************************************
+*                                        *
+*        JULY 12TH 1 PM                 *
+*        ANNUAL SJAA PICNIC             *
+*   AT GRANT RANCH COUNTY PARK          *
+*                                        *
+******************************************
+
+JULY    1/5 GLACIER POINT STAR PARTY, YOSEMITE NATIONAL PARK. ANNUAL
+            RETREAT TO THE DARK SKIES OF YOSEMITE.
+
+JULY      5 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+            PEAK STATE PARK. DUSK TILL DAWN.
+
+JULY     12 ANNUAL SJAA PICNIC. THIS YEARS PICNIC IS TO BE HELD AT
+            GRANT RANCH COUNTY PARK. 1 PM TILL ???. BOB FINGERHUT
+            SAYS THAT HE WILL BRING THE BURGERS AND BUNS. MEMBERS
+            BRING THE REST. EVENING OBSERVING TO FOLLOW, THIS IS A
+            FIRST QUARTER MOON WEEKEND.
+
+JULY     19 BOARD MEETING 7PM TO BE FOLLOWED BY THE INTRODUCTORY
+            ASTRONOMY CLASS AT THE LOS GATOS RED CROSS BUILDING. 8 PM
+            TILL 10 PM.
+
+JULY     26 INDOOR STAR PARTY AT THE LOS GATOS RED CROSS BUILDING. 8
+            PM TILL 10 PM.
+
+AUGUST    2 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO HENRY COE
+            STATE PARK. DUSK TILL DAWN.
+
+AUGUST    9 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO HENRY COE
+            STATE PARK. DUSK TILL DAWN.
+
+AUGUST   16 BOARD MEETING 7 PM TO BE FOLLOWED BY THE INTRODUCTORY
+            ASTRONOMY CLASS AT 8 PM. LOS GATOS RED CROSS BUILDING.
+
+AUGUST   23 GENERAL MEETING 8 PM. LORIN ACKTIM -- SPACE SHUTTLE
+            ASTRONAUT -- A UNIQUE OPPORTUNITY TO HEAR AND MEET A SPACE
+            SHUTTLE ASTRONAUT. TOPIC TO BE ANNOUNCED.
+
+AUGUST   30 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+            PEAK STATE PARK. F.P.O.A. OBSERVATORY DEDICATION AND
+            OPENING.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9HUaCAJezyBS77bFV'}]
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+ANNUAL SJAA NICPIC
+
+July 12th will find many members of the SJAA enjoying the
+annual picnic. This year we are going to hold it again at
+Grant Ranch County Park. As I recall, last years picnic
+had a little rain - well OK - a lot of rain - a minimal
+turnout. Lets hope the weather stays good. Burgers and
+Buns will be provided, but members will need to bring the
+rest. Look for SJAA members in the group area.
+
+30-INCH TELESCOPE OBSERVATORY UNDER FULL CONSTRUCTION
+
+The F.P.O.A.'s observatory building is scheduled for an Aug. 20th completion
+date. With dedication to occur on that same date. (barring any unforeseen
+circumstances) As of June 12th, all four walls were up and the floor is in.
+Work has been in progress every Saturday and Sunday to get ahead of schedule.
+Kevin Medlock needs to complete the 30-inch telescopes computer control and
+install a few small items on the telescope before it is moved. Final telescope
+pier foundations are to be poured soon.
+
+YOSEMITE TRIP -- GLACIER POINT STAR PARTY
+
+Within 2-days after the word got out about the Glacier Point Star Party, I had
+received 30 reservations for the group camp area. I you have called me, you
+should have received a confirmation letter from me outlining the star party
+guidelines. If you have not received this letter, be sure to give me a call
+and leave your address. (Correct mailing address please) The Campground hosts
+at the Bridleveil Creek campground have a list of names of those persons who
+placed a reservation message with me. Because of the July 4th weekend crunch,
+prepare yourself for a large group of visitors both Friday and Saturday nights.
+
+MEMBERSHIP RENEWALS
+
+This will be the last issue of the Ephemeris that you will receive if you have
+not submitted your subscription or membership renewal to Jack Peterson. This
+has always been a busy time for the treasurer so please send your renewals in
+early. If you have already renewed, then please disregard the LAST CHANCE TO
+RENEW stamp on your newsletter.
+
+*** ASTRO ADS ***
+
+FOR SALE: Celestron Super C8 complete with tripod, wedge, and loads of
+accessories. Best Offer. Contact Mike Welch, P.O. Box 1528, Cambell, CA 95050
+
+FOR SALE: Celestron 5.5-inch f/1.55 Schmidt Camera. Complete with adapters to
+your CB, Cll, or C14. 3 film holders. 2-standard, 1 with red filter. This is
+a fine optical instrument. Great for photographing Halley! HA! $700 complete.
+Contact: John Gleason 415-790-250
+
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+Astronomical book learning need not come from texts and
+manuals. One kind of literature has a long tradition of
+serving up interesting scientific and technical notions in
+story form: I refer to science fiction (often abbreviated
+as "SF"). As a long-time fan of this medium, I though it
+might be useful to describe some work I have found both
+entertaining and astronomically intriguing. All are good
+unless otherwise noted. Many of the recent ones are in
+print, but do not despair if your favorite libraries often have decent
+Science fiction is reprinted frequently, and Real astronomy is scarece in
+collections of the printed format, and paper back versions of older works in
+this genre. There is solid science, but rarely closer to astronomical themes
+than planetology and alien biologies. Notwithstanding, there is a lot worth
+reading.
+
+One of the best is one of the most recent. Robert Forward's Dragon's Egg
+describes the environment of a neutron star, and presents some interesting
+gravitational gadgetry that we might use to approach one, with great attention
+to detail. The author has concocted a plausible and fascinating alien species
+that inhabits the surface of a pulsar. The live a million times faster than we
+do: In a few days' span of Forward's novel, human astronauts aid the aliens in
+developing from a primitive tribal culture into a star-traveling civilization
+far more advanced than our own.
+
+Forward was not the first author to discuss such objects. Larry Niven's short
+story, Neutron Star, is entertaining and suspenseful.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9J3oa5xCbNKz2Swju'}]
+Another author, Hal Clement, has also dealt with such (*ahem*) weighty matters. In Mission of Gravity, he introduces a huge planet spinning so fast it nearly flies apart. Centripetal acceleration makes the effective surface gravity at the world's equator low enough for human, while at the poles it is hundreds of times Earth's. This planet also has inhabitants -- the story involves a cooperative exploration of the world, with much consideration of its novel features.
+
+In a sequel, Star Light, Clement has the same creatures assisting humans on another high-gravity world, this time a gas giant more massive Jupiter. The title is another pun -- for as we know, the difference between large gas giants and small sun is one of degree, not of kind! There is some uncertainty as to whether the enormous world of the story does or does not have thermonuclear reactions simmering gently at its core; so Clement's protagonists do not really know whether this celestial body is a planet heavy or a ...
+
+Hal Clement has written many other fine books, typically involving human/alien interaction on a well-detailed and unusual planet. Try Cycle of Fire and Close to Critical if you liked the first two.
+
+Larry Niven and his frequent co-author Jerry Pournelle have cooked up several interesting tales. Footfall was recently popular. The work is a rarity in contemporary SF -- an invasion-from-space theme: (The bug-eyed monster image that SF has with many persons who do not read it, stems from the pulp-magazines plots of half a century ago and from the grade-Z monster movies that are a continuing abomination.) I mention Footfall here because Niven and Pournelle took their subject seriously, and properly addressed the difficulties involved in mounting an invasion across interstellar distances with technology not much more advanced than our own. Certain techniques might be termed astronomical engineering. That pair of authors has written other books with astronomical backgrounds. Lucifer's Hammer describes a cometary impact on Earth. It is basically a disaster novel, but the cometary science is well done.
+
+Niven alone created Ringworld, which features astronomical engineering on a truly grand scale. In won't tell you what the Ringworld is if you don't already know. The design is unsound -- it's unstable -- but in the sequel, Ringworld Engineers, Larry fixes the problem on an appropriate scale.
+
+David Brin is a new author of great talent. May I recommend Sundiver and Startide Rising. The former involves a solar bathyscape -- a vehicle for diving into the interior of the Sun. The beautiful, though Brin's explorers ultimately suffer a fitting fate for those who dare to travel in fire. Startide Rising is a marvelous science fiction tale, with suspense, action, adventure and low cunning. A space ship crewed by diverse intelligent terrestrials stumbles on a religious artifact of great significance to the civilized galaxy, and is consequently hotly pursued by the main battle fleets of all the bigoted alien zealots in the Milky Way. The captain comes up with a strategy no human would think of. If you think that sounds like space opera, you're right; but the science is uncommonly solid, with some notable uses of things astronomical.
+
+Some of the older works are also worth reading. In the 1940s and 1950s, Robert A. Heinlein wrote a series of books aimed at teenagers and young adults, that have become classics and are much loved by SF fans of all ages. These rite-of-passage novels were about growing up, but they were set in marvelously crafted science fictional worlds. Alas, that universe has since become a fantasy, a bizarre place where Mercury always holds one face to the Sun, where Venus is wet and swampy, and where only Saturn has rings.
+
+The books are all fine yarns nonetheless, and one or two still stand on technical merit. I am particularly fond of Time for the Stars, for a reasonable introduction to relativistic space travel, and for brilliantly setting up the reader for the revelation that there is nothing more mutable than eternal truth. The Rolling Stones, Space Cadet and Have Space Suit, Will Travel are also memorable.
+
+Heinlein did not just write for juveniles. A series of short stories anthologized as The Green Hills of Earth is well worth reading. The title story is famous: Heinlein wrote of a blind poet of the spaceways, a Homer of the stars. And though his universe is by now quite a bit different from us, the lyrical poem, The Green Hills of Earth, has become part of our own reality. It is often quoted by astronauts and has been recited from the Moon.
+
+Arthur C. Clarke is another author whose work spans the last several score years. His science is generally immaculate. The short novel, Earthlight, features a plot twist that will please amateur astronomers. The short story, The Star, deals with supernovae in an unusual context. And if you liked the movie, 2001: A Space Odyssey, read the book of the same name and the related volume, The Lost Worlds of 2001. A more recent work of Clarke's The Fountains of Paradise, again deals with astronomical engineering -- the construction of a bridge from the Earth's surface to geosynchronous orbit.
+
+There's lots more.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9JcnXKDA3vNhwXURt'}]
+CALICO OBSERVATORY
+GREAT RED SPOT
+BY: JIM VAN NULAND
+
+After skipping some possible recovery opportunities in April (I was losing enough sleep getting ready for the auction), May 12 yielded success! After 183 days, the Spot was 19 minutes earlier than predicted by the 1985 data. This is very good, considering the irregularities in the Spot's motion last year.
+
+Although the sky was clear, seeing varied from only fair with moments of good; the latter revealed a rather yellowish Spot, pushing about half its width into the southern edge of the South Equatorial Belt, with dark material to the east and west. The South Temperate Zone is nicely white, so the Spot shows well against it during moments of best seeing.
+
+During the early 1970s, the Spot was brick-red, separated well from the belts, so it was very easy to see. The late 70s were very poor; for a full year I never saw the Spot at all! Yet the dent in the SEB was visible, so I timed that, and published predictions of the Great Red Dent of Jupiter! It was not as easy as the olden days, the Spot is a lot of fun to see. Things change during the year, so you should check out the Spot to be aware of current conditions.
+
+Discovery of the Great Red Spot is credited to Giovani Domenico Cassini in 1665, though there are drawing with possible indications as early as 1635. The Spot was given little attention, as it soon faded. It first gained general attention in 1878; indeed, some observers of that time considered it a new find! Simon Newcomb, writing in 1902, states that the spot appeared about 1878 and faded gradually, and that after 1892 it was faint or absent. He makes no mention of earlier sightings. He states that "a larger white spot underlying it, first noticed a century ago, is still plainly visible."
+
+There are other red and white spots that appear for a few months at a time, but only the great spot remains. Its motion in both longitude and latitude is somewhat erratic, making 3-year predictions impossible, and that's why you don't see an ephemeris for it in the astronomical almanacs. I continue tracking during Jupiter season, adjusting the Spot equation as needed to follow the changing motion of the Spot.
+
+Great Red Spot on Meridian PDT
+da mo d    h m        da mo d    h m
+W    7 2    2 32 am    Th  7 24    0 42 am
+F    7 4    4 12 am    Sa  7 26    2 18 am
+M    7 7    1 37 am    M   7 28    3 53 am
+W    7 9    3 17 am    M   7 28   11 49 pm
+F    7 11   4 53 am    W   7 30    5 33 am
+Sa   7 12   0 43 am    Th  7 31    1 23 am
+M    7 14   2 21 am    Sa  8  2    3  3 am
+W    7 16   4  1 am    M   8  4    4 40 am
+F    7 18   5 44 am    Tu  8  5    0 32 am
+Sa   7 19   1 33 am    Th  8  7    2 10 am
+M    7 21   3 12 am    Sa  8  9    3 55 am
+W    7 23   4 54 am    Sa  8  9   11 38 pm
+
+The predictions are corrected for the changing aspect, phase, and light-time. At the given times, the Spot will be facing directly toward Earth, and thus will appear central on the apparent disk of the planet. Observations may be made for about an hour before and after that time. The times are given in local time, and include transits for which the planet is at least 1½ hours up, with the sun at least 3° down. A random amount from 0 to 10 minutes has been subtracted, to prevent anticipation when timing a transit. It is useful to know that the Spot moves its own length in about 30-40 minutes.
+
+To see Jupiter's Great Red Spot, good seeing and a power of about 200-300 are needed. Begin half an hour before the given time. Use an apodizing screen if you have one; you might also experiment with colored filters, perhaps yellow, blue or green. A neutral-density filter has also been suggested; the first mention of a "seeing" filter was by Dr. Clyde Tombaugh, Sky & Telescope August, 1945. He suggested an amber filter to cut glare and improve seeing a point or two when observing the full moon. In the past, the Spot has been seen well with a 60mm refractor, and with present conditions, I was able to discern it with 75mm at about 150X. Focus carefully, then look eastward along the south edge of the southern equatorial belt, seeking a dent where the belt narrows to perhaps 2/3 of its width. Now, watch continuously for those moments when the air is especially stable, and the Spot will pop out at you! Let me know of your results, especially if you are using an instrument smaller than 8-inches, or if you do some experimentation with observing aids.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9KBWffC5dHe5jjQv8'}]
+COMET COMMENTS BY: DON MACHHOLZ
+
+[THIS IS FIGURE: A circular reticle or targeting symbol with crosshairs]
+
+Comet Halley fades into our evening twilight sky during July, giving many of us our last look at the comet. Two new periodic comets have been discovered, one by a professional astronomer, and one by an amateur. (myself)
+
+Periodic Comet Stinger Brewster (1986d): This two-name comet was discovered by one person: Stephen Singer=Brewster with the 18" Schmidt Telescope at Mt. Palomar. Found on May 3, it was then at mag. 15 in the constellation Libra. It is now known to be a short period object. Comet 1986d was closest to the sun on May 25 at 1.9 A.U., and will return in 6.1 years. It is presently magnitude 15-16, and it won't be getting any brighter.
+
+Periodic Comet Machholz (1986e): This comet was discovered on May 12 from Loma Prieta Mt., 20 miles south of San Jose, CA. Please turn to the Discovery of Periodic Comet Machholz article in your Epheneris.
+
+WHAT GOES AROUND COMES AROUND-HALLEY
+
+From now on, when people talk about the return of Halley's Comet, they'll be referring to an event which won't occur for another 75 years. Halley's Comet, now receding from both the earth and the sun, continues to dim. It is not this dimness which causes it to lose sight of the comet, but the fact that on Sept. 18 the sun will be roughly between us and the comet. During July and August the comet will be increasingly difficult to see, with the far northern latitude observers losing it first. In mid-October, when it emerges into our morning sky, Comet Halley will be eight times fainter. I will then give positions for the comet in this column for those still interested in seeing the comet.
+
+The comet is still holding at about one magnitude brighter than many of the early predictions. If we've learned anything about Halley this time, we've learned that it has its own way of brightening and dimming, quite apart from predictions. It will be interesting to see if it rapidly dims in coming weeks.
+
+For many of us in the United States, Halley's Comet will be impossible to see after mid-July. For Southern Hemisphere observers, where evening twilight occurs earlier, the comet is visible for another full month.
+
+The moon will be past full and rising after evening darkness by June 25. The evening sky will remain moonfree until July 9. On July 10, the cresent moon will pass 18° north of the comet. Full moon is July 22. On July 18, Venus will be 15 degrees north of the comet.
+
+Here are positions, elongations and magnitude estimates for Comet Halley. Also given is the comet set time and the evening astronomical twilight time for standard longitudes (75°, 90°, 105°, and 120° W.) for two latitudes. Subtract four minutes for each degree you are located east of these longitudes, or add four minutes for each degree west. Finally, I list the distance in millions of miles from the comet to the earth and from the comet to the sun.
+
+Date    RA  (1950)  Dec   El.   Mag.   HC+40°AT   HC+30°AT   EARTH (DIS) SUN
+
+06-26  10h 29.9m  -05°02'  70°   8.9   2307 2235  2312 2140   235.5    221.7
+06-29  10h 32.2m  -05°00'  66°   9.1   2250 2235  2256 2140   243.4    227.6
+07-04  10h 34.7m  -05°00'  62°   9.3   2233 2235  2236 2140   263.1    233.7
+07-09  10h 37.3m  -05°04'  58°   9.5   2215 2231  2221 2139   276.4    239.7
+07-14  10h 40.0m  -05°10'  54°   9.7   2156 2227  2203 2137   289.2    245.5
+07-19  10h 42.8m  -05°19'  50°   9.8   2140 2222  2146 2134   301.7    251.4
+07-24  10h 45.7m  -05°30'  46°  10.0   2123 2216  2129 2131   313.6    257.1
+07-29  10h 48.7m  -05°43'  42°  10.2   2106 2209  2112 2127   325.0    262.9
+
+THE DISCOVERY OF
+PERIODIC COMET MACHHOLZ 1986e
+BY: DON MACHHOLZ
+
+[THIS IS FIGURE: A spiral-shaped sketch, possibly representing a comet or astronomical observation]
+
+This wasn't the best of nights for astronomy. The sky was hazy, even at the 3360-foot level of Loma Prieta. This haze reflected light from the city of San Jose in the north, and Morgan Hill and Gilroy in the east. Otherwise the sky was clear and there was no wind, so the decision was easily made that I would, on this Monday morning, May 12, hunt for new comets in the eastern sky was planned. After all, this wasn't the worst of nights for astronomy neither.
+
+I proceeded to set up my binoculars. They are homemade, the lenses (actually aerial telephoto lenses) are five inches across and magnify 27 times. The instrument weighs over 100 pounds.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9KjFkoJk2gSAjWUJ7'}]
+In April 1983 I had seen these lenses being sold at our astronomy club auction. At first sight I wasn't overly impressed with the lenses; in fact I left the auction before it ended and never saw them bidded upon. In the following week I began to consider making a pair of large binoculars with them. Calling Jim Van Nuland, who had conducted the auction, I learned that Steve Greenberg owned the lenses and that they had not been sold. I called Steve and he said I could have them for $50.00 each, a bargain price. I spent the next two weeks planning and designing a binocular system using secondary mirrors. When I was convinced that it would work and be completed for under $300, I bought the lenses and ordered the mirrors.
+
+Following two weeks of construction, I now had a pair of large binoculars. Everything is enclosed in a plywood box measuring 35" long, 22" wide and 12" high. Each of the two light paths has two elliptical mirrors, one measuring 2.5" in minor axis, and the other measuring 1.87". The light strikes the first mirror, right angles toward the center of the optical system, then strikes the second mirror and exits out the eyepiece through the back. The eyepieces are surplus 30mm Plossels that I had in the 10" f/3.8 reflector. The set into plastic PCV pipes, making focusing difficult. Originally I was able to vary the distance between the eyepieces, but when I changed them to a fixed position so that the alignment remained more stable.
+
+The contrast is good in this instrument. I can see "star clouds in every constellation". However, I use them for about one-third of my comet hunting, for most of my searching I use my 10", f/3.8 reflector telescope at 32 power. The field of view has been stopped down to 1.6 degree square. With it I have discovered two comets.
+
+The binoculars and the telescope are roughly equal at picking up faint diffuse objects. Although the telescope is larger and gathers more light, using two eyes in the binoculars helps to acquire faint objects too. I can cover the skies faster with the binoculars, but it is harder to boost magnification to check out suspicious objects. Each instrument has its advantages and disadvantages.
+
+On May 12, 1986, I began comet hunting session #1471 at 1:50 AM by scanning, or sweeping, the sky high in the east. While looking through the binoculars, I would slowly rotate the binoculars from right to left, looking among the pinpoint stars for small fuzzy clouds. Most of the items that "star clouds" turn out to be clusters of stars, galaxies or gas nebulae. I would ignore the comet. At the end of each sweep I using the binoculars back to the original point. I then sweep two degrees, then repeat the process. By starting high in the eastern sky, and slowly working my way downward, I should reach the horizon in about two and a half hours.
+
+Time goes by very quickly, as I'm quite busy "working" the morning northern sky. The Milky Way looked fine during the early part of my sweeping, with several star clusters and nebulae catching my attention. My eventual downward motion freed me of the Milky Way and into rather "bare" sky with few stars. Here I picked up a little more sweep and by 3:45 AM I sweep up the Great Andromeda Galaxy, M 31.
+
+Worldwide, perhaps no more than a dozen comet hunters are sweeping the sky this morning. Because of the time and discipline needed, few amateur astronomers take up this hobby. I began on Jan. 1, 1975 with the idea of trying to find a comet. Besides, having done ten years of observing the moon, planets, asteroids, galaxies and clusters, then photographing them, I wanted a program that would challenge me and encourage me to look through the telescope. Monitoring variable stars, chasing asteroids or hunting comets would all fulfill these requirements. Noticing that few Americans hunted comets, but that lost of second-hand advice was written on the subject, I decided to hunt comets and see for myself what it was all about. Besides, I had read that it took only about 300 hours of searching to find a comet. I felt I could benefit from 300 hours of looking through a telescope even if I didn't fine a comet.
+
+After 1700 hours of searching, I discovered my first comet. Comet Machholz, 1978L, was found on the morning of Sept. 12, 1978 from Loma Prieta, Seven years and 1742 hours later I found my second comet (Comet Machholz, 1985e). This find was from the Riverside Telescope Makers Conference, near Big Bear California.
+
+On the morning of May 12, 1986, it did not occur to me that it was exactly fifty weeks since I had found Comet 1985e, but it was. Instead, my mind was rolling around some ideas for "Comet Comments" my comet column which has been published in various astronomy club news letters each month for eight years.
+
+Halfway through my next sweep, something near the top of the field caught my attention. I stopped sweeping and examined it. It looked like a small fuzzy object, but perhaps it was a small group of stars. I placed it in the the center of the field of view. It looked like a diffuse object, round, just within the limits of visibility. It was 3:52 AM. The radio was playing "Against All Odds).
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9LpzHpY4YiqM4gHvM'}]
+Checking its position I determined that it was two degrees south of the Andromeda Galaxy. There were no galaxies or clusters listed on the maps, now I had to check to see if it was moving. A comet would slowly move against the stars.
+
+I drew a map of the region, placing an "x" at the comet's location. I then resumed comet hunting. At 4:17 I returned to the objects location and compared it with my map. It appeared to be moving, but I couldn't really be sure. I again resumed sweeping. At 4:35 the sky was beginning to brighten as dawn was approaching. I re-found the object as was very pleased to detect motion. It was a comet!
+
+I awoke my wife, sleeping in the truck, and showed her the comet. I then put the binoculars into the truck and we drove the 22 miles home. From here I phoned the Smithsonian Astrophysical Observatory in Cambridge, Mass., and reported the comet to Daniel Green. Had not heard of any other objects in the area and together we felt this was a "reasonable suspect" for a comet. I then want to work.
+
+The workday went by quickly. I assemble fiber optic connectors for medical lasers and this was a good workday. Upon arriving home I phoned a few amateur astronomers and Lowell and Lick Observatories, asking them to confirm the object to be a comet.
+
+The next morning found my friend Rich Page, Laura and I on Loma Prieta. Shortly after 3:00 I turned my binoculars to the area and searched for the comet. After a few minutes I found it, 1.5 degrees northwest of its previous day's position. Again it appeared round and appeared compact. In my telescope we could detect a short tail on it. When I arrived home and phoned the Smithsonian Observatory, word was just coming in from Observatory Director Brian Marsden and Alan Hale of southern California had confirmed the existence and location of the comet. I was then named "Comet Machholz", also known as comet 1988e.
+
+When a comet is first discovered the type of orbit assigned to it is a parabolic curve, meaning that it will return only in a very long time. My first comet turned out to have a hyperbolia orbit, meaning that it would never return. My second comet appeared to have a parabola orbit, but it disintegrated when it got too close to the sun and was never seen again.
+
+This third comet turned out to have an elliptical orbit, and thus the comet 1988e will return in 5.4 years. This proved to be quite exciting at the Smithsonian, as periodic comets with this short an orbital period are rare. And of all the short period comets known, this one comes closest to the sun - within about 11 million miles. It will venture out far beyond Jupiter's orbit. The path of this comet is tilted 60 degrees to the earth's orbit around the sun, it enters the inner solar system from the north and exits to the north. When it return in 1991, it will be more difficult to see, being feint until it appears close to the sun as seen from the earth.
+
+For several weeks following discovery the comet dimmed as it was rapidly moving away from the sun. At times it seemed to change appearance in a matter of a few minutes. I was able to observe it for a month, then it got too faint for me to see.
+
+During 85% of its returns the comet is not well placed for discovery. But this time it was well-placed, and I feel fortunate to have found it.
+
+SPACE FROGRAM UPDATE
+BY: BOB FINGERHUT
+
+ROGERS COMMISSION REPORT ON SHUTTLE DISASTER RELEASED
+
+The commission blamed the solid rocket booster seals and NASA's management practices, as expected. In this writers opinion, the manner in which congress funded the shuttle, design trade-off studies in the mid 1970's was also a major factor and was overlooked by the commission.
+
+The commission report does not identify a single cause of the seal failure but sites joint rotation, sensitivity of the 0-rings to cold temperatures, failure of the putty to function predictably, formation of ice in the joint and sensitvity of the motor cases to handling damage.
+
+The commission recommended a complete and lengthy solid rocket booster redesign and qualification effort not just a modification of the existing design. President Reagan has ordered NASA to implement all of the commissions recommendations.
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9MUgNK73GyyXDqGjq'}]
+ARIANE LAUNCH FAILURE
+
+Launch of an Intelsat communications satellite failed on May 30th when the
+third stage of its Ariane booster failed to ignite. Out of 18 Ariane launches
+there have been four failures. Three were caused by the cryogenic third stage.
+
+DELTA, TITAN, ATLAS
+
+The cause of the electrical failure on May 3rd Delta launch has not yet been
+found. 88% of the motor case and 50% of the insulation form the April 18th
+Titan failure has been reassembled. The specific failure mode has not yet been
+identified. An Atlas-Centaur is scheduled to launch a Navy Fleet Sat Com
+satellite on Aug. 28th.
+
+SOVIETS PRACTICE SPACE CONSTRUCTION TECHNIQUES
+
+Soviet cosmonauts made space walks from their Salyut 7 space station on the
+28th and 30th of May. They practiced deploying a 15-meter-long truss. It was
+part of a series of experiments in building large space structures similar to
+work done by the US in December 1985.
+
+CONFIGURATION OF SPACE STATION DEFINED
+
+The configuration which was selected for detailed design and hardware
+development is the dual-keel arrangement. The truss structure will be 5-meters
+square. There will be 4 pressurized modules located near the center of the
+main structure. Two will be supplied by the U.S., 1 by the Europeans
+(Columbus) and 1 by Japan. A hybrid power system was chosen. Solar arrays
+will provide 25 Kw of power and solar dynamic will provide 50 Kw. A 400 cycle
+a.c. distribution system has been chosen. Hydrazine propulsion was selected
+for attitude control and altitude reboost. There will be four free-flying
+platforms - two by the U.S. and two by Europe. Two will fly in the same
+equatorial orbit as the station and two will be in polar orbit. The station
+will be able to accomodate a crew of 6 to 8 astronauts which is still scheduled
+for 1994
+
+NATIONAL COMMISSION ON SPACE SETS 21ST CENTURY GOALS
+
+The Presidential Commission presented its report to the White House in May. It
+is titled "Pioneering the Space Frontier, Our Next 50 Years in Space". Among
+the proposals are a permanent Moon settlement by 2017 and a permanent Mars
+settlement by 2027
+
+
+LETTER TO THE EDITOR
+
+I suggest a post script to Jay Freeman's article about binoculars: if the
+exit pupil of the binocular is greater than the diameter of your fully dialated
+pupil then you aren't making full use of the light grasp potential of the
+binocular. For example, a 7X50 binocular has a 7 mm exit pupil. If your
+dilated pupil is only 5 mm then a 7X35 binocular will give you the same light
+grasp as the 7X50. And the 7X35 will almost surely be cheaper and easier to
+hold. So who has only a 5 mm pupil? I believe it is common for the maximum
+pupil diameter to decrease with age, with 5 mm becoming common by middle age.
+Of course if someone with a 7 mm pupil will make frequent use of the binocular
+then maybe the 7X50 is best. -- Robert B. Caldwell
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9N4QSfatYbB9uTtZ3'}]
+SJAA MEETING AND STAR PARTY LOCATIONS
+
+GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross
+building in Los Gatos California. The large meeting room has kitchen
+facilities and large slide projection screen. This is also the location for
+the SJAA's "Indoor Star Parties", informal sessions where members gather to
+share their astronomical interests. Whatever your interest, astrophotography,
+deep sky observation, telescope making, or just arm chair observing, you'll
+find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17
+take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road
+for about 1.5 miles. Turn right at Rose Ave. Then turn right immediately into
+the parking lot of the Red Cross building. Doors open at 7:45 PM, with General
+meetings beginning at 8 PM. General Meetings are held on the 4th saturday of
+each month.
+
+INDOOR STAR PARTIES
+
+Each month there are several Saturday evenings set aside for informal
+gatherings of members and non-members to share their common interest in amateur
+astronomy,to "talk shop", or to simply enjoy the company of friends. Members
+are encouraged to bring in telescopes and accessories to share with the group.
+Typically there will be several telescopes operating in the parking lot or
+courtyard with a show of recent astrophotography and star party events in
+progress in the meeting hall. The SJAA also holds it board meetings during
+this time as well as an introductory astronomy workshop that is conducted once
+a month.
+
+HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue
+east towards the hills (around and past Anderson Reservior) for about 12 miles
+to the park. Past the park entrance you will see old ranch type buildings on
+the right and a horse trough. The gate (on the left) is locked but the club
+combination is 4565. Always lock the gate after yourself. If arriving after
+dark, please park outside the gate and hike in first to find an observing site
+before dark, please. Just a short distance up a hill beyond the gate is where
+the SJAA sets up equipment.
+
+FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista
+exit) for two miles to a yellow flashing light. Turn right and go about 1/4
+mile to where the road reaches a "Y". Stay left for about 25 yards and then go
+right. (Watch closely for the Fremont Peak sign) Follow the canyon road for
+about 11 miles up into the park. The SJAA set up at Coulter Camp. It's
+visible on your right as you drive up onto the main area of the park. There is
+usually some astronomical activity here every clear new moon weekend. Fremont
+Peak stands 3000 ft above sea level. Arrive early if you are setting up
+equipment. 30 to 40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+*    EPHEMERIS is   published monthly by   the San   Jose Astronomical    *
+*    Association,   3509   Calico   Ave., San   Jose   California   95124.    *
+*    Contributors are welcome to submit articles for publication. These    *
+*    should be typed and submitted no later than the 12th of the previous    *
+*    month. All submissions should be sent directly to the editor, John    *
+*    Gleason, 5361 Port Sailwood Dr. Newark, CA. 94560.    *
+*                                  OFFICERS                                   *
+*    PRESIDENT: Bob Fingerhut.......................................408-263-4455    *
+*    VICE-PRES: Tom Ahl.............................................415-524-0869    *
+*    SECRETARY: Jim Van Nuland......................................408-371-1307    *
+*    TREASURER: Jack Peterson......................................408-262-1457    *
+*    EDITOR:    John P. Gleason....................................415-790-9250    *
+*                                BOARD OF DIRECTORS                             *
+*    Paul Mancuso...................................................408-946-0738    *
+*    Jack Peterson..................................................408-262-1457    *
+*    Bob Fingerhut..................................................408-263-4455    *
+*    Tom Ahl........................................................                *
+*    Gene Cisneros..................................................408-923-5800    *
+*    Joe Sunset.....................................................408-224-8693    *
+*    Chris Pratt....................................................408-629-2994    *
+*    Denni Medlock..................................................415-654-6796    *
+********************************************************************************
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9NaQeHT1xnCVMg88p'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10     MEMBERSHIP/S&T: $ 24.00     JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________________________     Questionnaire (optional)
+
+Address _____________________________________________     What are your astronomical interests (e.g. astro-
+                                                        photography, deep-sky observation, telescope making,
+_____________________________________________________     etc.)? ___________________________________________
+
+Telephone (______) __________________________________     _____________________________________________________
+
+Please bring this form to any SJAA meeting, or send to:     _____________________________________________________
+
+Jack Peterson, Treas.                                      Do you own a telescope? _________ If so, what kind?
+San Jose Astronomical Association
+1840 Yosemite Dr.                                          _____________________________________________________
+Milpitas, CA. 95035
+
+[ Phone:   (408) 262-1457   ]                              Is there any specific area of astronomy that you feel
+                                                           qualified to help others with? _______________________
+Please check type of membership and if new
+or renewal.                                                _____________________________________________________
+
+Membership Only____    Membership/S&T____                  _____________________________________________________
+
+Junior (Under 18)____
+
+New____    Renewal____
+
+
+
+
+SJAA EPHEMERIS                                             NON-PROFIT ORGANIZATION
+3509 CALICO AVE.                                           U.S. POSTAGE PAID
+SAN JOSE, CA. 95124
+                                                           PERMIT NO.5381
+
+                                                           SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

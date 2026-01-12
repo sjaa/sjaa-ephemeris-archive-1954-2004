@@ -1,23 +1,385 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9SNcP8Tk6QMe5xigk'}]
+# EPHEMERIS
+OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+[Image: Observatory dome illustration on hillside]
+
+# AUGUST 1986
+
+************************************************
+* AUGUST 23RD 8 PM *
+* DR. LORIN ACTON *
+* SPACE SHUTTLE ASTRONAUT *
+************************************************
+
+AUGUST 2    FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO HENRY
+            COE STATE PARK. DUSK TILL DAWN.
+
+AUGUST 9    FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO
+            FREMONT PEAK STATE PARK. DUSK TILL DAWN.
+
+AUGUST 16   BOARD MEETING 7 PM, TO BE FOLLOWED BY THE INTRODUCTORY
+            ASTRONOMY CLASS AT 8 PM. LOS GATOS RED CROSS BUILDING.
+
+AUGUST 23   GENERAL MEETING 8 PM. LORIN ACTON -- SPACE SHUTTLE
+            ASTRONAUT -- A UNIQUE OPPORTUNITY TO HEAR AND MEET A
+            SPACE SHUTTLE ASTRONAUT WHO FLEW ABOARD CHALLENGER ON
+            THE SPACE LAB I FLIGHT.
+
+AUGUST 30   FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO
+            FREMONT PEAK STATE PARK. DUSK TILL DAWN.
+
+SEPTEMBER 6 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO HENRY
+            COE STATE PARK. DUSK TILL DAWN.
+
+SEPTEMBER 12 INDOOR STAR PARTY AT THE LOS GATOS RED CROSS BUILDING.
+             INTRODUCTORY ASTRONOMY CLASS WILL BE MEETING AT FREMONT
+             PEAK STATE PARK FOR OBSERVATIONAL ASTRONOMY PROGRAM
+             CONDUCTED BY JACK ZEIDERS.
+
+SEPTEMBER 20 BOARD MEETING AT 7 PM. INDOOR STAR PART TO FOLLOW.
+             LOS GATOS RED CROSS BUILDING.
+
+SEPTEMBER 27 GENERAL MEETING 8 PM. LOS GATOS RED CROSS.
+             PROGRAM TO BE ANNOUNCED.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9TCUBsUAm3CALuuBM'}]
+# FIELD OF VIEW
+## BY: JOHN GLEASON
+
+### ASTRONAUT LORIN ACTON TO SPEAK AUGUST 30TH
+
+The San Jose Astronomical Association is proud to present Space Shuttle Astronaut, Dr. Lorin Acton for our August 30th General Meeting. Dr. Acton will speak on a variety of subjects which I am sure will appeal to everyone. This is a unique opportunity to meet a shuttle astronaut, especially in the aftermath of the Challenger disaster. Thus evenings General Meting is scheduled to start promptly at 8PM. There is limited parking, members should
+
+consider car pooling to the meeting as we are expecting a record turnout. Get there early for a good seat!
+
+### DE ANZA PLANETARIUM OPENING
+
+De Anza Planetarium is asking SJAA members to bring their telescopes out on the evening of September 5th for the re-opening of their planetarium. If interested, please contact Tom Ahl at 408-268-3527.
+
+### GLACIER POINT RECAP
+
+The July 4/5th Field Expedition for Astronomical Observations to Glacier Point went very well this year. While many of us were expecting huge crowds of tourists, it was business as usual with no more tourists than on regular weekends. Many of us also feared that the area would be closed due to a forest fire a few days earlier. Upon inspection, fire damage was minimal, even though it did reach right up to the parking lot back bar and gift shop. Skies at Yosemite lived up to expectations. Steady, clear, and dark on both Friday and Saturday nights. Saturday night, Jim Ster exhibited fine detail even in the smallest of telescopes, where the Milky Way passed majestically overhead. On Saturday, my telescope, aimed out to the 8 individuals who made reservations, but failed to show up. You missed a fine weekend. Maybe next year? Oh yes, special thanks to Jim Baumgardt for conducting the Friday and Saturday slide shows. They were excellent Jim, I received a lot of good feedback about the show and I enjoyed them myself.
+
+## LETTERS TO THE EDITOR
+
+DEAR EDITOR: I would like to make an addition to Jay Freeman's article on Science Fiction. Mr. Freeman neglected to mention Isaac Asimov in his list of Science Fiction authors who do a good job of presenting science and still writing a good story. Asimov, who holds a PhD in biochemistry and polymath, has written over 200 books. Themes range from wonderful fiction such as NIGHTFALL and THE CAVES OF STEEL to real science works such as: QUASAR, QUASAR, BURNING BRIGHT, and THE HISTORY OF PHYSICS. He is the inventor of the three laws of robotics, (you don't know what those are? Read I ROBOT?), and the synthesises an effort to keep his science fiction as close to science fact and possible--without sacrificing story. His latest venture, THE EDGE OF TOMORROW, is a nice little anthology which contains both science fact essays, and science fiction short stories. Asimov is one of the First Fans, the people who created science fiction, and no list of good science fiction writers would be complete without him. -- Arno Grandos
+
+DEAR EDITOR: I have a real problem with the EPHEMERIS. While I consider it to be the finest newsletter in the country, I get pretty upset when an issue does not arrive! Sometimes I go several months without receiving an issue. What's the problem? Joe Member
+
+Dear Joe Member: Sometimes the mailing list data base burps and a name gets dropped off. Our treasurer, Jack Peterson is currently working with Gene Cisneros to iron out these persistent problems. With Jack in control of the membership list, as well as membership renewals, I feel we can resolve a lot of these problems. Remember too, that there was a double issue for April/May. I got a lot of complaints from members who did not get their May issue, who simply forgot that the April Ephemeris covered both months.
+
+DEAR EDITOR: I'd like to see a monthly message from our president. It would detail important events, business issues (board meetings, observatory fund, etc.), as well as just a dialog with the membership welcoming new members and a brief discussion on upcoming events. -- S. Schwartz, NY.
+
+Dear Mr. Schwartz: I agree. Infact, I suggest that members relay these types of suggestions to our association officers and directors. A monthly report from the president as well as from the SJAA board of directors would be nice!
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9TkhpbRNCKpDBcfRf'}]
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+I like to see technologies used in new combinations, so this
+month I am going to discuss an astronomical topic about
+which I truly know little -- celestial photography. My
+reason is that a friend of mine has produced some remarkably
+good color prints of faint objects, from negatives shot with
+typical amateur equipment, using a print process poorly
+known to the amateur astronomical community -- the dye
+transfer process.
+
+My friend is a professional photographer named Ctein (no, that's not a typo).
+He has a scientific education and is well at home with gadgets, but has no
+particular experience with deep-sky photographic equipment and techniques. He
+was one of several Bay Area science fiction fans who organized a small
+expedition to Maui to photograph Comet Halley from high on Haleakala in early
+April. They bought a Celestron 80mm refractor on a Polaris mounting with slow
+motions, and practiced taking long exposures with piggy-back cameras while
+using the main instrument to guide, all in the classic manner.
+
+The weather was unseasonably atrocious: Ctein had less than an hour's total
+photography in five or six nights. Notwithstanding, he came back with two
+superb color negatives,-- exposed to the sky-fog limit in dark skies, with small
+round star images clear to the corners. He prepared dye-trasfer positive
+enlargements of both of them, in several sizes.
+
+The dye transfer process goes a long way toward liberating photographic
+print-making from the restrictions imposed by photochemistry. The negative is
+not used to make a print directly -- instead of printing it onto paper that
+develops colored, it is 'printed' onto material that develops POROUS. The
+way you use such a piece of stuff to make color is to soak it in dye, then lay
+it on the paper that is to become the print, until the dye is transferred
+thereto. The original negative is printed three times, with light of different
+primary colors, to make a set of three such porous masks. When the masks are
+each in turn soaked with the right color dye and pressed up against a sheet of
+paper to deliver their respective color, the process works. It can take many
+trials to get good masks (though they are reusable), and of course the ink
+masks must be lined up against the final print in perfect registration. The
+equipment is expensive, too.
+
+Note that the materials used in making the final print need have nothing to do
+with the photographic process. Dyes can be chosen for precise hue and
+intensity, without worrying whether they can be produced photochemically. The
+paper can be selected to last for centuries, without worrying about how soon
+the wierd organic substances used in the darkroom will cause it to decompose.
+The printmaker can focus on picture quality rather than bog down in the details
+of what is photographically possible. Good people have learned how to take
+advantage of this additional freedom to create very fine prints, and Ctein is
+in fact one of the world's best at dye-transfer printing.
+
+In the context of astrophotography, the great virtue of dye-transfer printing
+is probably dynamic range. The process in intrinsically much better at
+simultaneously showing detail both in bright areas and in dark regions, than
+conventional photochemical printing. One of Ctein's prints is a
+20-inch enlargement from a 6- by 7-centimeter negative shot with a
+300-millimeter f/4 telephoto; shows the comet's star-like nucleus centered in a
+translucent coma, with a long wispy tail trailing almost to the corner of the
+print. The tail can be traced to where it fades into the lustrous black
+skyglow. At its faintest limit, the tail requires real work to see, but it is
+there: That ethereal quality closely simulates the impression of an
+experienced visual observer looking at the real thing. And I do not recall a
+positive print of a comet -- much less a color -- that shows both the nucleus
+and the faintest parts of the tail, all at once. I believe that this is one of
+the best astronomical prints of all time, on any subject, without
+qualification.
+
+Note also that one of the standard problems of astronomical printing -- getting
+the background to be black -- simply isn't there. There is plenty of
+opportunity to tweak color balance while making the porous separations.
+
+Ctein only has two negatives at the moment -- there is the one I just described
+and another, shot with a shorter focal length, that shows Comet Halley centered
+just southwest of Scorpius, in a field several times as wide as the 'bowl' of
+the fishhook. The comet is again the feature in this exposure, but the amount
+of color and detail in the Milky Way and in various galactic objects, is
+wonderful to behold. Yet I am sure that there are many other color
+astronomical negatives, in the hands of both amateurs and professionals,
+showing all manner of celestial objects, that would yield equally spectacular
+prints if processed in the same manner. I'd like to see it happen.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9UHCzMMczYUL5jdo6'}]
+GALICO OBSERVATORY
+BY: JIM VAN NULAND
+
+JUPITER'S GREAT RED SPOT
+
+[THIS IS FIGURE: Drawing of Jupiter showing its bands and the Great Red Spot]
+
+With Jupiter approaching opposition, the list of Spot opportunities has grown. Although the list may be linger at a winter opposition, since there is more dark hours, summer actually affords many more chances, since the weather is so much more favorable. Since Jupiter's declination is increasing, the planet will be well-placed for the next several years. It's a good time to begin a
+
+Jupiter program. Jupiter shines at magnitude -2.8 this month. Satellite eclipses are happening closes to Jupiter now. Watch for all 4 satellites east of Jupiter August 14 after 7:32 UT- all west until 8:12 UT on the 17th: and two satellites with their shadows, all on the planet from 5:52 until 6:53 on the 25th with the Red Spot among them.
+
+Great Red Spot on Meridian PDT
+da mo d  h  m       da mo d   h  m
+Sa  8  2   3  8 am   Sa  8 23   5 17 am
+M   8  4   4 45 am   Su  8 24   1 10 am
+Tu  8  5   0 32 am   Tu  8 26   2 48 am
+Th  8  7   2 10 am   Tu  8 26  10 39 pm
+Sa  8  9   3 47 am   Th  8 28   4 28 am
+Sa  8  9  11 39 pm   F   8 29   0 16 am
+M   8 11   5 25 am   Su  8 31   1 59 am
+Tu  8 12   1 17 am   Su  8 31   9 50 pm
+Th  8 14   2 55 am   Tu  9  2   3 34 am
+Th  8 14  10 52 pm   Tu  9  2  11 21 pm
+Sa  8 16   4 33 am   Th  9  4   5  8 am
+Su  8 17   0 28 am   F   9  5   1  2 am
+Tu  8 19   2  5 am   Su  9  7   2 38 am
+Th  8 21   3 39 am   Su  9  7  10 33 pm
+Th  8 21  11 34 pm   Tu  9  9   4 22 am
+
+
+THE 1986 PERSEID METEOR SHOWER
+BY: DON MACHHOLZ
+
+This year the annual Perseid Meteor Shower will peak on the morning of Tuesday, Aug. 12. At the perhaps sixty meteors can be observed each hour. The moon, which will be near First Quarter, will set the previous evening at 11:20. This leaves plenty of dark sky for observing the meteor shower.
+
+The Perseid Meteors, which can be seen several nights before and after the predicted maximum, seem to radiate from the northern portion of the constellation Perseus. It is often best to look 40 to 100 degrees to the side of the radiant. Photography, often attempted, catches the brightest and slowest members. Try using fast film, a normal lens at its widest opening and 20-minute exposures with the camera on a tripod.
+
+In recent years it had been expected that Comet Swift-Tuttle, responsible for the shower, would soon return. This would probably lead to an increase of shower activity. However, the comet has not been observed which means that either we missed it or it has yet to return. In 1980 the shower put on a great show, it was also excellent in 1981. In 1982 the moon interfered and 1983 provided a nominal show. The last two years gave a poor display.
+
+The "Aries Flasher" will also be up all morning; this needs to be monitored with the naked eye and captured on film. The "Aries Flasher", introduced in the February 1985 issue of SKY and TELESCOPE (p. 146) and updated in the July 1985 issue (p. 54-5), seemingly appears as a brief flash of light about ten degrees NW of the Pleiades.
+
+There are other meteor showers during these weeks. The Delta Aquarids peak on July 29, but run from mid-July through late August. The iota Aquarids peak Aug. 7, but continue through the month. The Upsilon Pegasid shower (which is newly discovered and may or may not exist) peaks Aug. 8. So whatever your interests, get out and enjoy those early August mornings!
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9UnDTyErV3NsVcvAw'}]
+# COMET COMMENTS
+## BY DON MACHHOLZ
+
+Halley's Comet is not visible now, having disappeared behind the sun. Meanwhile, two faint periodic comets have been recently recovered. Periodic Comet Machholz, which remained brighter than mag. 13 through June, has now dimmed. So no bright known comets are presently observable.
+
+**Comet 1983 XX (SOLWIND 6):** The Naval Research Lab has reported that their Solwind Satellite observed yet another comet as it crashed into the sun. This occurred on Sept 25, 1983, and is the sixth comet found by the satellite, which monitors the sun. As with the other five comets, this one too was probably a member of the Kreutz Sungrazer group. Also like the other comets, this one was not observed from earth. The Solwind Satellite was destroyed in an SDI "Star Wars" test on Sept. 13, 1985, but the old data are still be reduced.
+
+**Periodic Comet Holmes (1986f):** J. Gibson of Palomar used a 60-inch reflector and a CCD to recover this comet on June 9. Then in the constellation Aries, the comet was at mag. 18. This comet has 7.7 year orbit, and never gets closer to the sun than the planet Mars. It is not expected to get any brighter.
+
+**Periodic Comet Forbes (1986g):** J. Gibson also recovered this comet, on Apr. 8. At that time is was a star-like object of mag. 20.5 in the constellation Leo. This comet has an orbital period of 6.3 years and will be closest the sun (1.5 AU) early next year. It may get as bright as mag. 14 by then.
+
+## WHAT GOES AROUND COMES AROUND -- HALLEY
+
+For the first time in a year I won't be giving positions for Halley's Comet. That's because the sun's glare is in the way of the object until November, when the comet will emerge into our morning sky at mag. 12-13. At that time I'll print out more positions for it.
+
+This has been the fourth predicted return of the comet. Due to positions of the comet, earth and sun, Halley's was not expected to be very bright this time around. In that respect, it lived up to expectations. It wasn't real bright. On the other hand, for amateurs this has been a long observing season of r one comet, and the comet has presented many faces during its stages of development. Here is a brief summary of the past year.
+
+**July 1985:** Late in the month the comet was glimpsed by amateurs as it slipped into the morning sky. It seemed to be fainter than predicted, at about mag. 15.
+
+**August-September 1985:** Many more amateurs picked up the comet during these months. I was one of the last "comet**ers**" to see it, picking it up on Sept. 15. For the next four weeks all of our magnitude estimates were similar as the comet brightened from mag. 12.5 to 10.5, getting on track with predictions. It slipped into the morning sky. It seemed to be fainter than predicted.
+
+**October-December 1985:** Halley's ballooned in size during the second half of October. Meanwhile, it retained most of its surface brightness, so magnitude estimates hovered near mag. 8 for two months. This growth was accompanied by the formation of a bright center in the coma. In early November it was seen by the naked eye, which was surprising, while in a telescope the comet had a short tail. It crossed into the evening sky as it passed the Pleiades in mid-November. In December the rapid-moving object did not brighten as much as expected, so by the end of the year it was mag. 5, slightly dimmer than predicted.
+
+**January 1986:** Now near Jupiter in the evening sky, and sporting a short tail, Halley's remained me much of Comet Kohoutek, seen under similar conditions 12 years before. It remained at nearly the same magnitude the whole month, as it closed in on the sun and pulled away from the earth.
+
+**February 1986:** The comet was closest the sun on Feb. 9, but I have heard of no daylight observations of it. The best I could do was seeing it when the rising sun was still still degrees below the horizon. By late Feb. it was early visible in the morning sky, with a three degree tail.
+
+**March 1986:** This afforded the best view of the comet for many amateurs. The comet had a fine tail, and was easily visible to the naked eye. It reminded me of a dim Comet Bennett. During March the comet ran slightly brighter than predicted, a pace it would hold through June.
+
+**April 1986:** The comet was closest the earth on April 10. This led to a large coma (nearly a degree across) and a low surface brightness. Contrary to what everyone had expected, the comet remained at the same total integrated magnitude in early April as it did in March. From March 14 through April 16 I was consistently getting naked-eye magnitude estimates of mag. 2.0. The tail fanned and shortened in early April, this was due mainly to earth-comet geometry and bright Milky Way background. Comet reached its southernmost point in mid-month
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9VKToFJoWtNWMtfNW'}]
+May 1986: The tail appeared prominent again as was passed through the plane of
+its orbit. Halley's was a naked eye object for keen-eye observers through the
+end of the month.
+
+June-July 1986: The comet dimmed at its expected rate and the tail grew
+tenuous until it disappeared by early June. By early July the comet was lost
+in the evening sky for Northern Hemisphere observers.
+
+
+SPACE PROGRAM UPDATE
+BY: ROBERT FINGERHUT
+
+NEXT SHUTTLE FLIGHT PLANNED FOR 1988
+
+The head of NASA has informed the White House that it will
+be 1988 before all redesign and testing will be completed
+to allow the shuttle to fly again. The first test of a new
+shuttle solid rocket booster joint design is planned for
+December 1986.
+
+REPLACEMENT SHUTTLE ORBITER
+
+White House support for a replacement shuttle orbiter has grown in recent weeks
+as the need has become clear. The funding for it has become a political
+football though, due to the Graham-Rudman law. The question is wether funding
+will come out of the existing NASA budget (at the expense of other programs),
+or from a supplemented appropriation. It could be FY 1988 before the new
+orbiter is ordered.
+
+SHUTTLE/CENTAUR UPPER STAGE CANCELLED
+
+The program was cancelled due to safety concerns about carrying the Centaur's
+fuels in the shuttle cargo bay and trying to land with them if an abort to
+launch site was neccessary. This leaves the Galileo, Ulysses and Magellan
+missions without boosters. A variety of companies are competing to design and
+provide alternate launch stages. Galileo's arrival at Jupiter will be delayed
+about 8-years due to the delayed launch and the longer flight time that a lower
+energy booster will require. Ulysses was put in storage this week until a new
+launch vehicle and window are available.
+
+CAUSE OF DELTA FAILURE IDENTIFIED
+
+The failure was caused by mechanical damage to wiring due to vibration during
+flight, leading to a short circuit that shut down the first stage engine.
+
+ESA APPROVES HERMES MINI-SHUTTLE
+
+The European Space Agency (ESA) has approved the project for developement. It
+could make its first flight in the mid-1990's
+
+ARIANE LAUNCHES TO RESUME IN EARLY 1987
+
+Fixes to the third stage could be defined by this autumn. That will enable
+flights to resume in early 1987.
+
+1991 DESIGNATED AS AN INTERNATIONAL SPACE YEAR (ISY)
+
+President Regan has endorsed the designation as a focal point for new
+international space science efforts celebrating the 500th anniversary of
+Christopher Columbus' voyage to America and the 35th anniversary of the
+International Geophysical Year (IGY) that ushered in the space age.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9X77aZXxxXe6Tc7XY'}]
+# SJAA MEETING AND STAR PARTY LOCATIONS
+
+## GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross building in Los Gatos California. The large meeting room has kitchen facilities and large slide projection screen. This is also the location for the SJAA's "Indoor Star Parties", informal sessions where members gather to share their astronomical interests. Whatever your interest, astrophotography, deep sky observation, telescope making, or just arm chair observing, you'll find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17 take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road for about 0.6 miles. Turn right at Rose Ave. Then turn right immediately into the parking lot of the Red Cross building. Doors open at 7:45 PM, with General meetings beginning at 8 PM. General Meetings are held on the 4th saturday of each month.
+
+## INDOOR STAR PARTIES
+
+Each month there are several Saturday evenings set aside for informal gatherings of members and non-members to share their common interest in amateur astronomy, to "talk shop", or to simply enjoy the company of friends. Members are encouraged to bring in telescopes and accessories to share with the group. Typically, there will be several telescopes operating in the parking lot or there will be a slide show of recent astrophotography and star party events in progress in the meeting hall. The SJAA also holds it board meetings during this time as well as an introductory astronomy workshop that is conducted once a month.
+
+## HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue east towards the hills (around and past Anderson Reservior) for about 12 miles to the park. Past the park entrance you will see old ranch type buildings on the right and a horse trough. The gate (on the left) is locked but the club combination is 4565. Always lock the gate after yourself. If arriving after dark, please park outside the gate and hike in first to find an observing site before dark, please. Just a short distance up a hill beyond the gate is where the SJAA sets up equipment.
+
+## FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista exit) for 3.0 miles to a well lit flashing light. Turn right and go about 1/4 mile to where the road reaches a "Y". Stay left for about 25 yards and then go right (Watch closely for the Fremont Peak sign.) Continue on this Canyon road for about 11 miles up into the park. The SJAA set up at Coulter Camp. It's visible on your right as you drive up onto the main area of the park. There is usually some astronomical activity here every clear new moon weekend. Fremont Peak stands 3000 ft above sea level. Arrive early if you are setting up equipment. 30 to 40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+* EPHEMERIS is published monthly by the San Jose Astronomical *
+* Association, 3509 Calico Ave., San Jose California 95124. *
+* Contributors are welcome to submit articles for publication. These *
+* should be typed and submitted no later than the 12th of the previous *
+* month. All submissions should be sent directly to the editor, John *
+* Gleason, 5361 Port Sailwood Dr. Newark, CA. 94560. *
+* OFFICERS *
+* PRESIDENT: Bob Fingerhut....................................408-263-4455 *
+* VICE-PRES: Tom Ahl *
+* SECRETARY: Jim Van Nuland...................................408-371-1307 *
+* TREASURER: Jack Peterson....................................408-262-1457 *
+* EDITOR: John P. Gleason.................................415-790-9250 *
+* BOARD OF DIRECTORS *
+* Paul Mancuso................................................408-946-0738 *
+* Jack Peterson...............................................408-262-1457 *
+* Bob Fingerhut...............................................408-263-4455 *
+* Tom Ahl.......................................................... *
+* Gene Cisneros...............................................408-923-6800 *
+* Joe Sunseri.................................................408-224-8693 *
+* Chris Pratt.................................................408-629-2994 *
+* Denni Medlock...............................................415-654-6796 *
+********************************************************************************
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9Xbt5h5WuFUQmfTiB'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+MEMBERSHIP ONLY: $ 10    MEMBERSHIP/S&T: $ 24.00    JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________    Questionnaire (optional)
+
+Address ______________________________    What are your astronomical interests (e.g. astro-
+                                          photography, deep-sky observation, telescope making,
+____________________________________    etc.)? _______________________________________
+
+Telephone (_____)____________________    ____________________________________________
+
+Please bring this form to any SJAA meeting, or send to:    ____________________________________________
+
+Jack Peterson, Treas.                    Do you own a telescope? ________ If so, what kind?
+San Jose Astronomical Association
+1840 Yosemite Dr.                        ____________________________________________
+Milpitas, CA. 95035
+
+[ Phone:  (408) 262-1457  ]               Is there any specific area of astronomy that you feel
+                                          qualified to help others with? ___________________
+Please check type of membership and if new
+or renewal.                               ____________________________________________
+
+Membership Only____    Membership/S&T____    ____________________________________________
+
+Junior (Under 18)____
+
+New____    Renewal____
+
+
+
+
+SJAA EPHEMERIS                            NON-PROFIT ORGANIZATION
+3509 CALICO AVE.                          U.S. POSTAGE PAID
+SAN JOSE, CA. 95124                       PERMIT NO.5381
+                                          SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE — DATED
+
+NEWS MATERIAL

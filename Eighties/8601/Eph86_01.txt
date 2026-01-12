@@ -1,29 +1,540 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8GM5k73jjswLJA8fQ'}]
+# EPHEMERIS
+OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+JANUARY 1986
+
+****************************************
+*                                      *
+*     **** JANUARY 25TH ****          *
+*          STEVEN MENDA                *
+*     AURORA AND ATMOSPHERIC PHENOMENA *
+*                                      *
+****************************************
+
+JANUARY    4 FIELD      EXPEDITION      FOR
+             ASTRONOMICAL  OBSERVATION  AT
+             GRANT  RANCH PARK.  DUSK  TILL
+             DAWN.    SET  UP  EARLY  AND  VIEW
+             THE COMET!  (HALLEY)
+
+JANUARY   11 FIELD      EXPEDITION      FOR
+             ASTRONOMICAL  OBSERVATION  AT
+             FREMONT PEAK STATE  PARK.  DUSK
+             TILL  DAWN.   SET  UP  EARLY  AND
+             VIEW  THE COMET!
+
+JANUARY   18 BOARD MEETING  AND INDOOR  STAR
+             PARTY  AT  THE  LOS  GATOS  RED
+             CROSS  BUILDING.  JACK  ZEIDERS'
+             INTRODUCTORY  ASTRONOMY  COURSE
+             STARTS.   8 PM
+
+JANUARY   25 GENERAL  MEETING  AT   THE  LOS
+             GATOS   RED   CROSS   BUILDING.
+             LEARN    ABOUT    ATMOSPHERIC
+             PHENOMENA FROM STEVEN MENDA.
+
+FEBRUARY   1 FIELD     EXPEDITION     FOR
+             ASTRONOMICAL  OBSERVATION  AT
+             GRANT RANCH COUNTY  PARK.  DUSK
+             TILL  DAWN.
+
+FEBRUARY   8 FIELD     EXPEDITION     FOR
+             ASTRONOMICAL  OBSERVATION  AT
+             HENRY  COE  STATE  PARK.   DUSK
+             TILL DAWN
+
+FEBRUARY  15 BOARD MEETING  AND INDOOR  STAR
+             PARTY  AT  THE  LOS  GATOS  RED
+             CROSS BUILDING.  DOORS  OPEN AT
+
+STARTING JANUARY 1986      **** GENERAL MEETINGS
+MOVED TO THE FOURTH SATURDAY OF EVERY MONTH.
+
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+MAILING LIST
+
+A note  of thanks  to
+Earl    Obergfoll   for
+straitening  out  the
+mailing  list  data
+base.   You  have  no
+idea  how  much  time
+was saved  during the
+zip code sort for  our monthly mailing.  If
+anyone  is still  not  receiving a  monthly
+bulletin  please  let me  know  by  calling
+(415) 730-8250.
+
+ACTIVE MIRRORS
+
+I missed the December 7th meeting featuring
+Bob Smitneon and  Active Mirror Telescopes.
+Those who  did attend  were most  impressed
+with Bob's  talk which also included a video
+tape of  before and after results  of solar
+photography.   I  wonder if  there might  be
+some  way  to  adapt  Bob's  techniques  to
+amateur instruments?    The techniques  that
+Bob described are  ideally suited   for solar
+and planetary  photography.
+
+SEE HALLEY'S COMET
+
+SJAA   members   have   been   setting   up
+telescopes for the public  to view Halley's
+without having to drive to a dark sky site.
+The place  is Branham Lane Park, on Branham
+Lane  in  San Jose,  about  one-half mile east
+of Camden Ave. between  Ross Ave. and Kirk
+Rd.   A  Safeway store  is  just west  of the
+park.   Dates:  Saturday,  January  4th  and
+Tuesday,  January  7th.   If  it  is  raining,
+cloudy or   foggy,  the  observing  session is
+cancelled.
+
+ELECTRONICS ORIENTED ASTRONOMY SEMINAR II
+
+Will  be  held  at  Cypress  College  (near
+Whittier) on Saturday,  February 8th, 1986.
+The event is sponsored by the Orange County
+Astronomers  in cooperation  with  Cypress
+College.   Doors  open  at   8:30  AM  with
+program at  9:00 AM.  Cost of  $20 includes
+.5   hour  of   college   credit  and   the
+precedings book, plus  free refreshments at
+2 coffee breaks.   Topics  include low light
+tv,  intensifiers,  CCD  cameras,  computer
+telescope   control,   digitized   images,
+steppers,    computing    for    astronomy,
+photometry, etc.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8Gy2z4Dq4K6V8QXcb'}]
+INTRODUCTORY ASTRONOMY CLASSES START
+
+Don't forget that Jack Zeiders will begin his introductory astronomy classes at the Red Cross Indoor Star Parties on January 18th. If you are new to amateur astronomy, please feel free to "come on down" and join in the fun. You don't need knowledge of astronomy is required, nor do you have to be a member of the SHAS to attend.
+
+HALLEY NAKED EYE
+
+Our famous visitor has finally reached a brightness level that renders it visible to the naked eye from dark observing sites. If you know exactly where to look the comet can be easily spotted as a fuzzy snowball about half the diameter of the full moon. See Comet Comments for more information and precise coordinates. Personally, I have not observed any tail yet, but the comet is distinctly egg-shaped as observed through the Superior C14. It has a very large coma with a bright star-like nucleus.
+
+I am still experimenting with the guidescape on the C14 as mentioned in last months' Digging Through the Accessory Case". So far, I have not had any problem with differential flexure between the refractor guide telescope and the 14. Exposures have been kept to 30 minutes with the Deep Sky filter and Konica 1600 chilled.
+
+It will be worth trying 30 second and 60 second exposures with Konica 1600 for tripod mounted cameras with 50mm lenses of f/1.4 or f/1.8. If successful in recording the comet, this would be a good way for those of you who do not have a guiding platform to get a photographic record of the comet on this approach.
+
+Ron Walton tells me that Kits Camera carries their own brand of SR 1600 film that they claim is manufactured by Konica. Jim Elasti has also found a source of Konica 1600 in Idaho! That seems like a pretty far drive for a roll of film, but you can save several dollars off the Lumicon price!
+
+FPOA: FULL STEAM AHEAD!!!!
+
+Detailed observatory plans have been approved for the Fremont Peak Observatory Association's 30-inch telescope project. Ground breaking took place on Saturday December 14th. There are just a few loose ends that need to be taken care of before construction can begin. The telescope, constructed by Kevin Medlock is now at a point of initial assembly and mechanical testing. This will be done before the telescope can even be considered to be moved to the peak. Kevin has also told me that most likely the instrument will be fully completed, coated, upon initial delivery. If one wanted, one could favorite object by name or enter the coordinates and away the telescope goes. Even better would be a voice actuated system where the observer would just say "M3 please" and the telescope would move to the object. Of course I hope we don't spend too much telescope time looking at M13. I recall last years Big Bear Conference where 90% of the instruments were pointed at the much popularized globular cluster.
+
+Watch for a major media event during the building dedication ceremonies. Just a few years ago, there was actual talk of closing Fremont Peak. The construction and operation of a public observatory at the summit with a major astronomical instrument will have a tremendous impact on Fremont Peak's general welfare. I feel the high ranking state officials are most interested in the outcome of the project as the FPOA will be setting a precedent for the general plan process of other state parks. Look for a possible appearance from the "Duke".
+
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+Most people find amateur astronomy a seasonal hobby. Though the winter nights are long, they are often cold and wet enough to deter all but the most steadfast, even when the sky is clear enough for observation to be possible. Observing habits change, too -- owners of refractors and Schmidt-Cassegrains lock at objects near the horizon, so they won't have to kneel on the damp ground; while those with Newtonians similarly find it most close to the zenith. Equipment that takes a long time to set up remains indoors giving way to simpler instruments that can be put into service before the body goes entirely numb. Trips to dark-sky sites are few.
+
+My continuing Messier survey with my four-inch refractor took me into the wintertime Milky Way recently. The position and nature of most of these objects is well-suited to the observing habits I just mentioned: Nearly all of them are bright galactic clusters, and many of those are in the southern part of the sky. Galactic clusters can generally be observed at moderate magnification, enough to spread out the background skyglow from a suburban area, and still remain pretty and impressive.
+
+The Pleiades and the Beehive, respectively M45 and M44, are of course the showpieces of the Messier open clusters, so much so that telescopic views are occasionally disappointing because the field is too narrow. In binoculars, they are magnificent. Four additional clusters -- M35 through 38, pride high in Gemini and Auriga. But the region southeast and east of Orion contains no less than six additional cluster clusters -- M41, M46, 47, 48, 50 and 93 -- which were splendidly resolved by my four-inch at 40x. These objects are all easy to locate in binoculars, as well.
+
+Let's talk about binoculars. These instruments ought to take a prominent role in aiding beginning amateur astronomers, not only because they are easy to use and relatively inexpensive, but also because many people already have one.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8HeiN1kqJbSpiXSvN'}]
+Binoculars are described by two numbers separated by an "x", like 5X30, 7X50 or 11X80. The first number is the magnification, and the second is the diameter of the objective lenses in millimeters. For astronomical purposes, the more light the better, so that 7or 7X50 is not bad, but a 10X50 or 11X80 is preferable. High power binoculars are more difficult to hold steady, but are the most useful astronomical role for binoculars is to complement telescopes by providing low-power, wide-field views, so I would recommend that a binocular would be approximately a 7-millimeter exit pupil. When you divide the first number into the second, you ought to get 7 as the result.
+
+The most common binocular meeting this criterion is the 7X50. Almost anyone can hand-hold one of these steady enough for observation. Several firms offer 11X80s. It is possible to use these hand-held, but some finesse and experience is required to do so effectively -- the greater mass and magnification of the larger instrument combines to make the viewing much more jiggly. Orion Telescope Center, in Santa Cruz, offers 11X80s, which is a good deal lighter than most 11X80s and therefore much easier to work with.
+
+Even with the magnification and aperture fixed, the buyer of binoculars will find a bewildering variety of optical designs and mechanical styles to choose from. Let's take these in turn:
+
+The greatest variation in binoculars is in mechanical quality, and with good reason. The working conditions of a binocular vary dramatically from application to application. The Navy used to keep shipboard binoculars in service twenty-four hours a day during the entire time its ships were at sea, continuously exposed to salt spray and engine vibration. That's tough on the fine instrument, and in consequence the occasional military-surplus binoculars that hit the market are extremely well-built. I am going to take a heretical position and say that amateur astronomers do not need equipment of this quality, and would be ill-advised to pay of it. With reasonable care, a simpler and far less expensive instrument will give good service for a long time (Notwithstanding, don't buy one that rattles when you shake it.)
+
+The primary mechanical things to look for are those that might cause to the two sides of the binocular to become misaligned with one another. Flex the hinge back and fourth, and work the focusers. There should be no sign of play or looseness. Also remember that the least desirable "fix" for slop is to tighten everything down within an inch of its life; so be suspicious as well of excessive tightness. These parts should be fine mechanisms working smoothly.
+
+One thing that can raise the price of a binocular is sealing it against dust. Fortunately, this is easy to fix up after purchase -- get some duct tape (black vinyl duct tape, classier) and wrap it around all the seams where subassemblies fit together. And for that matter, get some lens caps for objectives and eyepieces, and keep in in the case when not in use.
+
+It is not hard to tell the optical quality of a binocular, but it is quite hard to explain how to do so without lots of pictorial aids, so I shall forbear. Fortunately, it is pretty easy to find good optics these days. I am a little reluctant to generalize, but I will venture that almost all binoculars imported from Japan have good to excellent optics. The poorer optical options are wide-field eyepieces (which I don't find particularly useful for astronomy), low-reflection coating on all surfaces (all but mandatory) and the kind of prism used to erect the image. On this last point, it is almost (doesn't that thought ring a bell?) always instruments whose porro-prism erecting system are of their tubes double-shaped, fist of the hand better than the newer, more compact "straight-through" designs.
+
+Some instruments have prisms that are too small. To test, hold the binocular at arm's length and look -- not through the eyepieces, but at them. You will see a little round disc of light in each one -- the light that would be entering your eyes if you were looking through the instrument. Tilt the binocular this way and that, and make sure the disc stays completely round, with no slices or cusps or cut off at its edges, as it slides back and forth across the eyepiece lens. At or near the edge of the lens, the disc will suddenly disappear entirely. The one thing what you are checking is that it remains round, or nearly so, up to that point.
+
+A 7X50 that meets all these criteria can be had for a hundred dollars or less. It will gather in all but the faintest objects, all the stars in the popular observing atlases, all the planets except Pluto, a generous handful of asteroids, and many passing comets. It will show the Galilean satellites of Jupiter, the rings of Saturn, and a huge amount of detail on our own Moon.
+
+A decent 11X80 will cost two or three times as much and gather two and a half times as much light. If you are clever enough to hold it or mount it steadily, it will provide some of the most magnificent views of the star clouds and bright and dark nebulae in our own Milky Way, that you can imagine.
+
+Each of these instruments can be out of its case and at work within thirty seconds, and can be put away with no more effort. When you're not doing astronomy, they can do double-duty for looking at concerts, sporting events, and wildlife. And they're fantastic for spying on the neighbors.
+
+MORE <$1:
+UNRAVELING INDENTIFICATIONS
+BY: JEFFREY CORDER & STEVEN GOTTLIEB
+
+The brightest galaxy in Pegasus is NGC 7331. It lies high overhead for northern viewers after midnight on late summer evenings. This spiral galaxy was on William Herschel's earliest discoveries, over 200 years ago. It has been carefully studied by astronomers over the years and is considered a galaxy much like our own Milky Way.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8JDwjWvg94ao1ADXn'}]
+Although visible in large finder scopes, NGC 7331 was apparently missed by Messier. In many respects this galaxy resembles the famous Andromeda spiral. Like M31, the Pegasus galaxy is much elongated. This appearance is caused by the nearly edge-on alignment of this system, only 20° from edge-on. The western side is nearer to us and the galaxy is believed to be "right-handed", rotating with the spiral arms trailing. Lying 2.5 times more distant than M31 and with an angular size one-twentieth that of the nearer galaxy it can be seen that NGC 7331 is comparable in size. Also, like M31, NGC 7331 is rich in HII regions over the catalogued by Hodge. The ionized Hydrogen regions allow the mass, rotation and distance to be measured with rotation and the dispersion curves of NGC 7331 are The main difference between these two is the much greater abundance of younger, bluer stars in the Pegasus galaxy.
+
+Recently sources of radio emission have been observed in the region of the galaxy. The sources seem to also engulf the area of the Stephan's Quintet. This, along with very faint and extensive nebulous material stretching between the two groups, argues for a very real connection that once existed between Stephan's Quintet and NGC 7331. NGC 7320, the largest member of the Quintet, lies in the foreground of its distant neighbors, and is the most likely candidate for an age-old association with NGC 7331.
+
+Observers with even small telescopes can note the prominent features of NGC 7331 quite readily. It has a well-defined oblong core, and a very compact and bright nucleus. The north-south orientation is also quite plain. Spiral structure is visible with six-inch and larger scopes. Remarkably, some of the associated HII regions can be resolved with the eye, especially in the 15-inch class. Careful observers with large telescopes, often eyesight and black skies may catch glimpses of the string of HII knots aligned along the western edge of the galaxy. As with M31, a dust-lane is visible here also.
+
+Known as "nebulae" to early observers, galaxies like NGC 7331 were often found accompanied by smaller, fainter neighbors. Our Pegasus galaxy was no exception.
+
+Over the years following Herschel's discovery, various observers noted the presence of 8 supposed companions. Likely there is a group here, but chance alignment place the foreground NGC 7331 along the same line-of-sight as the small group.
+
+Discoveries of new galaxy companions were often a pathway to fame and success for early astronomers. Monstrous telescopes employed by these observers were able to reveal innumerable small "nebulae", but were too cumbersome to use, making the note-taking process difficult and inevitable. Moreover, the telescopes were often situated in poor locations subject to extended spells of bad weather. Astronomers therefore found it difficult to recheck their notes and observations. The NGC 7331 group proves no exception to being the subject of error.
+
+There are a total of nine NGC entries in the vicinity, including NGC 7331. Again, although the galaxies seem to be companions of NGC 7331 even a casual inspection of photographs reveals NGC 7331 to be a foreground object. Hence, this is not a true group. Observers using eight-inch telescopes will be able to see only a couple of the galaxies near NGC 7331. This becomes partly due to their faintness, but also as a result of the many ambiguous galaxies listed in the region. Let's explore the NGC entries for the NGC 7331 region in historical detail and discover the true group members.
+
+NGC 7325 and 7326 were studied by the Irish observers at Birr Castle in 1874. Accurate positions were determined in reference to nearby NGC 7331 and it is clear that the original observers mistook close double stars for very minute galaxies. The authors of the RNGC evidently used these two ambiguous NGC designations to incorrectly label two nearby anonymous systems, both 10-minutes NW of the NGC positions. In actuality, NGC 7326 is a close pair of magnitude 15 stars just west of the core of NGC 7331, and NGC 7325 is a courser double easily resolvable in a 10-inch scope, 3-minutes south. Probably the older telescopes had poor resolution, even compared to the smaller compound telescopes of today, misleading the earlier astronomers into making such false discoveries as these two galaxies. The newer RNGC 7326 is catalogued in the CGCG as S14.066 at magnitude 15.7P and is visible in backyard scopes.
+
+The next object for scrutiny would be NGC 7327, discovered by Tempel with a refractor of "inches aperture". Although Tempel gave only a vague position in his original paper, Dreyer gave an exact position in his NGC which closely matches Tempel's description of "preceding the northern end of NGC 7331". This information was undoubtedly conveyed through private correspondence. This time no doubt star is noted at the exact position from the NGC, but a single faint star lies very near the expected position. Dr. Harold Corwin of the University of Texas at Austin conveys that he suspects some of the nebulosity involved with NGC 7331 may have caused the star to appear non-stellar to early observers, but he is guarded in his opinion. A visual inspection of the star in question shows not the slightest hint of nebulosity, and likely Tempel was misled during a period of poor seeing. Since Tempel claims to have seen all nine "nebulae" in this region it is also assumed this could not be a duplicate of another of his observations. We may never know exactly which object Tempel actually saw, but it is plain that no galaxy exists at the given (NGC) position.
+
+NGC 7335 is one of the galaxies that do indeed exist. This galaxy, discovered by William Herschel, is the brightest of the group of four on the eastern side of NGC 7331. Herschel places NGC 7335 as one of the very faint lies in Herschel's class III, "very faint nebulae". Because of its great distance photographs reveal much detail, but observers will note its distinctly elongated shape and large bright core.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8MabiXsETRAZsqT2u'}]
+Our next object, NGC 7333, was discovered by Dr. Schultz at Upsala and published in January 1875. Fortunately, Dr. Schultz gave a precise position for his new "nova" to the east of NGC 7331. The astronomers at Birr Castle, using their famous 3-inch refractor/6-inch reflector did not notice the "nova" to check which right away casts some doubt on its existence. At the precise location there lies an extremely close double star, just elongated on a Hale 200-inch plate. Possibly Schultz might have noted this elongation visually in his "15-feet" (10-inch?) refractor. The exact match in position leaves little doubt as to the certainty of the identification. The RNGC correctly notes this as a double star.
+
+Three other galaxies are visible along with NGC 7335 on the eastern side of NGC 7331 in ten-inch or larger telescopes. One of these is a nearby companion to NGC 7335, the barred spiral NGC 7336 only 2' NNE. This system was discovered by Lord Rosse but seems to have been skipped by Zwicky in his CGCG. Otherwise, all of the observers' charts to have their observations appear in the RNGC. In this case, visually NGC 7336 is very faint and elongated in a NE/SW direction. It appears very small and contains a bright core. Although the faintest of four, galaxies to the east of NGC 7331, it should present no challenge to 17-inch telescopes.
+
+The third small galaxy which can be viewed in large backyard telescopes in NGC 7337, again discovered by Lord Rosse, this Barred-Spiral system is found 12' nearly directly south of it. NGC 7335/36 appears as a faint double and bears nearly attached on its SE side. The galaxy is very faint, very small and round. It seems to have an even surface brightness. Brighter NGC 7340 is nearby to the northeast. Also, Tempel supposedly made the second of his, two "discoveries" at a position nearby. This has been catalogued as NGC 7338.
+
+The final galaxy for consideration in the NGC 7331 area is NGC 7340, a faint elongated system 8' to the east of NGC 7337. The galaxy was the third and final discovery by Lord Rosse at Birr Castle, Ireland in 1845. His description is inapt for this galaxy. It is considerably faint, at only magnitude 14.3, which places it as second brightest among its three faint companions. It appears round visually with a small bright core. This galaxy is at the very limits of an 8-inch telescope.
+
+From our considerations of the field surrounding NGC 7331 it is obvious that early astronomers realized that "nebulae", or galaxies as we know them, often appear in groups. Observers evidently searched the area around the brighter galaxies quite carefully, hoping to make a discovery of their own. A good example of this method is illustrated in the catalogue of the astronomers using the 72-inch telescope at Birr Castle. "Even Dreyer noted that the Birr Castle "discoveries" were usually found clustered together in small groups. In our case, observers correctly found 4 neighbors (NGC 7335, 7336, 7337 and 7340), but also mistakenly observed 5 others. It is also evident from this one case that many errors still exist in the catalogues employed regularly by amateurs. It is important to spend some time to research observations so that we can be certain of what we are seeing and recording. This requires some effort but the rewards are truly worthwhile.
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+A faint comet has been discovered, two faint comets have been recovered, and evidence has been uncovered that a crashed comet has crashed into the sun in recent years. Comets Halley and Thiele open the year in the evening sky while Comet Hartley-Good is visible in the morning sky.
+
+Periodic Comet Kojima (1985o): T. Geherls and J.V. Scotti recovered this comet from Kitt Peak on Oct. 13. At that time the comet was mag. 20 in the southwest corner of Gemini. It will be closest to the sun Apr. 5, 1986 at 2.4 AU and will retreat brighter than mag. 15. It has a 7.6 year orbital period.
+
+Comet Ciffero (1985p): This new comet was discovered on Nov. 8 by Jacquline Ciffero on a photographic plate of Halley's Comet, which was five degrees away at that time. The find was made from the CERGA observatory at Caussols, France. Ms. Ciffero used a 36" Schmidt for the photo. Comet Ciffero was mag. 11.5 at discovery and it is getting fainter as it pulls away from both the earth and sun. This is the second time in a month that a comet was been discovered in the vicinity of Halley's Comet. It is expected, counting Comet Giacobi-Zinner, the third line in three months that a comet has appeared to visit Halley's.
+
+Periodic Comet Wirtanen (1985q): This faint comet was recovered by A. Gilmore and P. Kilmartin at Mt. John Univ. Observatory in New Zealand on Nov. 13. Then at mag. 19 and in the constellation Microscopium, this 5.5-year periodic comet will be closest the sun on Mar. 20, 1986 and may reach mag. 13, according to veteran comet observer Allen Hale.
+
+The late comets Soluind 4 and Soluind.5: It has been learned recently that the P78-1 Soluind Satellite recorded two more comets crashing into the sun. These comets were 1981, and may have been part of the Kreutz-Soluind Comet Group. Soluind 5 hit the sun on July 28, 1984 and was a member of the Kreulz group. Incidently, during June and July 1984 I conducted 13 daytime comet sweeping sessions (within 5 degrees of the sun) using a variety of instruments and a special comet hunting filter. I ceased my daytime sessions on July 25, three days before this comet hit the sun. I don't know if I would have seen it if I had searched on the 28th. The five comets, and all the data have yet to been published. All five comets hit the sun and no longer exist. Now the satellite no longer exists, it was destroyed in a "Star Wars" test on Sept. 13th.
+
+COMET HARTLEY-GOOD (1985L)
+
+This comet was closest the sun on Dec 9, passing far north of the sun, remaining under constant observation. It is now moving slowly through S. Hercules and Serpens Caput. By midmonth it will be 1.0 AU from both the earth and sun. Comet 1985L should remain brighter than mag. 11 through the middle of March.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8NFY9kbavq5XvWuye'}]
+# Comet Hartley-Good (1985L)
+
+## DATE R.A. (1950) DEC ELONG MAG.
+
+| 12-26 | 16h 40.2m | +12°10' | 43° | 7.1 |
+|-------|-----------|---------|-----|-----|
+| 12-31 | 16h 30.1m | +10°27' | 46° | 7.4 |
+| 01-05 | 16h 20.4m | +08°30' | 50° | 7.6 |
+| 01-10 | 16h 10.7m | +06°23' | 55° | 7.9 |
+| 01-15 | 16h 00.7m | +04°05' | 60° | 8.1 |
+| 01-20 | 15h 49.9m | +01°39' | 66° | 8.3 |
+| 01-25 | 15h 37.9m | -01°58' | 73° | 8.5 |
+| 01-30 | 15h 24.3m | -03°45' | 80° | 8.7 |
+| 02-04 | 15h 08.4m | -06°40' | 88° | 8.8 |
+
+## COMET THIELE (1985M)
+
+Recent observations show this comet to be two magnitudes brighter than predicted. Its motion appears very slow as it sinks in the morning sky.
+
+## DATE R.A. (1950) DEC ELONG MAG.
+
+| 12-26 | 20h 56.8m | +10°08' | 52° | 9.9  |
+|-------|-----------|---------|-----|------|
+| 01-05 | 20h 52.7m | +08°59' | 42° | 10.2 |
+| 01-15 | 20h 50.3m | +08°13' | 34° | 10.5 |
+| 01-25 | 20h 48.8m | +07°58' | 28° | 10.8 |
+
+## WHAT GOES AROUND COMES AROUND - HALLEY'S
+
+Halley's Comet is brighter than nearly anyone expected. The comet surged in brightness during October and November, thus making it roughly 1 mag. brighter than previous predictions. The first naked eye sighting occurred on Nov. 8 by Charles Morris and Stephen Edberg. My first such sighting was on Nov. 19. The tail has also been observed.
+
+The comet appears to slow down as it travels through Aquarius, towards the sun and away from the earth. Halley's Comet will sink into the evening twilight by the end of January, going around the sun while traveling in the opposite direction as the earth.
+
+The moon will be out of the evening sky from Dec. 29 through Jan. 11. A brightening moon will pass 1°.3 south of the comet on Jan. 12. The moon will continue to brighten, but its increasing distance from the bright comet will not hinder observations as in past months. Instead, twilight and low altitude will be the obstacles. Although the comet will be south of the equator, the longer nights (early sunsets) of the Northern Hemisphere make our latitudes ideal for following the comet. For example, if the comet can be observed until it sets at astronomical twilight the latest date of observation from -40°.3 latitude is Jan. 3, from the equator it's Jan. 12, and from +40°.3 latitude it's Jan. 26th.
+
+Last month I mentioned that only three comets (Halley, Encke and Crommelin) have been named after their calculators. I over-looked a fourth comet, non-periodic Comet Lexell, which was also so named. Thank you, Bill Dellinges, for pointing this out.
+
+During this time you might notice that Halley's Comet is displaying three tails: a gas tail, a dust tail, and recall Happy Halleydays!' Don Machholz, 408-448-7077
+
+## Periodic Comet Halley (1982i)
+
+| Date  | RA (1950) | Dec     | El. | Mag. |
+|-------|-----------|---------|-----|------|
+| 12-26 | 22h 31.0m | -00°56' | 66° | 5.0  |
+| 12-31 | 22h 17.2m | -02°20' | 57° | 4.9  |
+| 01-05 | 22h 05.7m | -03°29' | 49° | 4.7  |
+| 01-10 | 21h 55.6m | -04°29' | 41° | 4.4  |
+| 01-15 | 21h 46.4m | -05°25' | 34° | 4.1  |
+| 01-20 | 21h 37.6m | -06°18' | 26° | 3.8  |
+| 01-25 | 21h 28.8m | -07°13' | 19° | 3.5  |
+| 01-30 | 21h 20.0m | -08°12' | 13° | 3.2  |
+
+## RUSTLIN' THE COMET BY: JIM EISELT
+
+Well it seems that when I talk to people about Halley's Comet, many is the time I hear folks say: "Hey aren't we supposed to get earthquakes, tidal waves, and firestorms?" I try to explain to them that Halley's comet is one of many comets orbiting around our sun and the press just loves to sensationalize on anything they can get away with having my doubts about if Halley's isn't effecting some things at least in the effecting of photographs of it. For me it seems that the comet is extremely shy, finding comfort in hiding behind clouds (storm fronts) when conditions are otherwise perfect for taking photographs.
+
+On the weekend of Nov 8-10 we were blessed with high clouds which didn't do a thing for my spirits. On Thursday the 14th of Nov. I caught a satellite weather report and it looked like another storm was coming in for the weekend of the 16/17th, so I made for Fremont Peak that night and got rewarded with extremely dark winter skies and low relative humidity.
+
+I managed to get 4 rolls of the comet, 2 through my C-130 reflector, and 2 piggyback shots. Unfortunately, I got 4 different film strips sandwiched together in the developing tank and the results were rather bizarre. As John Gleason mentioned in the December issue of the Ephemeris, the background of the slides (taken through the C-130) were red not black! I did however manage to salvage the piggyback shots. These came out too densely, grainy, and had a reddish cast. I had about given up on these when I remembered about John using the technique of registering 2 slides of the same object together to increase contrast and improve quality. Having taken the 2 ten minute shots back to back, I did not expect the comet to have moved very much, just that and now have an acceptable slide of Halley's Comet poised just below the Pleiades!
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8PGZ2j2JWAjqD5mFM'}]
+The next decent time to get out and "rustle" Halley's was Dec. 7th but it looked like the pulsating storms that had been the bill of fare since mid November were to be the victor. I talked with John Gleason early in the day about his latest photographic attempts, found out he was out the night before, and struggled with peak-a-boo all night. The same skies, if not worse, were outside as we talked and consigned that evening to a loss. But wait! Five thirty rolls around and winds out of the northwest are blowing all the crud out it's clear skies again. Mike Ryan calls me and wants to "rustle" Halley, so I asked him to "choose his poison" as to where we could go. He decided on Grant Ranch and I met him there at 7 p.m.. Well no, it wasn't clear skies. It was cloudy. I thought they just might be hanging on us and then I decided to go up to Lick Observatory and punch through the stuff there and luck had socked in. In remembering winter time in the Bay Area I recalled that after a storm, clouds still hang on the mountain ranges forming a circle around the bay so I told Mike that we should go another few miles down the back side behind Lick where finally it started getting better. We wound up on the valley floor behind Lick with clear on fairly dark skies. Now that we had arrived, time was against us as it was already 8:30 p.m., and Halley was past the meridian dropping into the San Jose sky glow. A hasty polar alignment was all could afford to do and left the 3M 1000 slide film in my camera.
+
+At about 9:50 I took my first shot of Halley and finished with 5 in all. Time ranged between 4 and 10 min. 3M 1000 may be grainy but it's ability to record faint light sources in short periods of time pays off if you don't have much time in which to work. Being without a separate guide scope and not being marginally aligned also makes 3M vulnerable to wind vibrations and comet tail movement Showing up from the comet and stars that don't look like footballs. Mike Ryan took 2 piggyback shots of the comet using Ektachrome 200 and hopefully those shots will come out fine.
+
+After I had finished taking my photos of Halley, two ranchers and their sister stopped and asked what we were looking at. I invited them to look at the comet through our telescopes and they were quite interested and also quite inebriated.
+
+They told us about their cattle ranch and "picking up strays", and we told them about Halley's Comet and astronomy. The ranchers left us wiser and hopefully a bit more sober. The slides I now have are the right color, a bit grainy, and not prize winners, but it feels good to have captured the elusive comet on film.
+
+As this year winds down and the new year comes into being I'll be using Konica SR 1600 film and hopefully will improve on the quality of my work.
+
+That's all for now "lil doggies". See you out under the stars.
+
+SPACE PROGRAM UPDATE
+BY: BOB FINGERHUT
+
+BIG YEAR PLANNED FOR SPACE SCIENCE
+
+Among the 15 space shuttle missions planned for 1986 are 8 with major space science objectives. They include: • Spartan-Halley (51-I) Jan 20; contains a mini-observatory including ultraviolet instrumentation to observe Comet Halley just before it reaches its closest approach to the Sun on Feb. 9th. • Astro-Halley (61-E) March 6; contains 3 large ultraviolet telescopes and a special film camera systems timed for simultaneous observation with the Soviet Vega 1 and European Giotto. • Ulysses (61-F) April; a mission to fly by Jupiter for a gravity assist to throw it out of the ecliptic plane and over the south pole of the Sun. • Galileo (61-G) May 21; planned to make an inspection of the asteroid Amphitrite on Dec 7, 1986, on its way to Jupiter orbit in Dec. 1988. • Space Telescope (61-J) Aug 8; The Hubble Space Telescope is to be the first of a new generation of space borne observatories which will image across the electromagnetic spectrum. • SHEAL-1 (61-L) Oct; The shuttle high-energy astrophysics laboratory will be devoted to x-ray astronomy. • Astro-2 Telescope (71-A) Oct 30; This mission will contain the largest ultraviolet instruments ever focused on deep-space objects. The Spartan-2 mission will be flown on the same flight to study the Sun. • Spartan 3 (71-D) Dec. 1986; A Mk.2 Schmidt electrographic camera will be used to observe young stars and white dwarfs.
+
+In addition to the new missions to be launched, Voyages 2 will fly-by Uranus in January and 3 nations will have Halley flybys in March.
+
+SPACE ASSEMBLY TECHNIQUES DEMONSTRATED
+
+The recently completed shuttle mission (61-B) featured two space walks in which the erection of large structural assemblies were demonstrated. ACCESS consisted of building a 45 foot long truss and EASE consisted of constructing a large pyramid-shaped truss. The experience will be important when a decision is made to use either a deployable or erectable structure on the space station. Three communication satellites were also deployed during this mission. The landing was on the concrete runway at Edwards AFB.
+
+DECISION ON FINAL SPACE STATION
+CONFIGURATION TO BE MADE IN JANUARY
+
+Key decisions to be made include: 1. The distance between the two keels. 2. The number of U.S. Modules (each will be 44 ft long) 3. European module placement. 4. Japanese module placement. 5. Electrical power system, solar dynamic or solar cells. 6. Electrical power distribution (20K-Hz or 400 Hz). 7. Interior module configuration (Horizontal or vertical) 8. Propulsion (self-contained or central feed system) 9. Propellants (Hydrazine, bipropellant or cryogenic)
+
+FIRST VANDENBERG SHUTTLE LAUNCH DELAYED
+
+The launch has been delayed four months to mid-July, 1986.
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8PqXfBN9prSTCUUWX'}]
+IMAGE
+new ....a photographic society
+
+ANNOUNCES IT'S
+
+FIRST EXCITING PROGRAM FOR 1986
+
+PICTURE THE STARS
+
+[THIS IS FIGURE: Three astronomical photographs showing star trails, a comet, and a galaxy]
+
+GUEST SPEAKER -- JOHN GLEASON -- ASTRO-PHOTOGRAPHER
+San Jose Astronomical Assoc.                EXTRAORDINAIRE
+
+TOPICS -- STAR PHOTOGRAPHY TECHNIQUES
+
+        - WITH TELESCOPE    - WITHOUT TELESCOPE
+
+        -- SLIDE SHOW
+
+        - STELLAR SUBJECTS - HALLEY'S COMET
+
+|----------------------------|
+| LERA AUDITORIUM - BLDG 160 |
+|                            |
+| 9 JAN 1986 - 6:30 PM      |
+|----------------------------|
+
+PUBLIC IS INVITED TO ATTEND
+REFRESHMENTS WILL BE SERVED
+
+FOR INFORMATION CALL CARL ORTA
+408-74(3-7804)
+
+[THIS IS FIGURE: LERA logo]
+
+[THIS IS FIGURE: Simple map showing location with streets including HWY 237, HWY 101, 3RD AVE, JAVA DR, and directional arrow pointing North, with LERA and LMSC marked]
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8QMnjsKwrobyk3MLb'}]
+GENERAL MEETINGS:
+
+General Meetings are held once a month at
+the Los Gatos Red Cross building, Los Gatos
+California. This is also the location for
+the library - "Indoor Star Party". The
+building is located at the intersection of
+Gatos-Saratoga Rd. From Hwy. 17 south,
+take the Hwy 9 (Saratoga) exit and continue
+up Los Gatos-Saratoga road for about 1.5
+miles. Turn right at Rose Ave. Then turn
+right immediately into the parking lot of
+the Red Cross building. MEETINGS BEGIN AT
+8 PM.
+
+To SANTA
+CRUZ     LOS GATOS-SARATOGA RD
+                                RED CROSS
+HWY 17                          BLDG
+                                ROSE AVE.
+                         BUTTERFIELD AVE.
+
+GRANT RANCH COUNTY PARK:
+
+This site is becoming a popular one for the
+SJAA, so come and try it out. Located on
+Mt. Hamilton Road, take Hwy 101 (either
+direction) to Alum Rock Rd. Go east up Alum
+Rock Rd. and turn right onto Mt. Hamilton
+road and follow it. Grant Ranch is just
+past the Quimby road intersection. After
+sunset the parks front gate will be locked
+with the SJAA's combination lock. Use the
+sequence 4565 to open, but be sure to lock
+the gate behind you, coming or going.
+There are two gates, the lock may be on the
+exit gate, if so, enter the park from this
+gate. There is also an observing area
+higher up the Mt. Hamilton road that is
+also part of the county park. Contact the
+SJAA for directions.
+
+[Map showing route to Grant Ranch Park with MT. HAMILTON RD., QUIMBY RD., and HWY 680 marked, with arrow "To HWY 101"]
+
+HENRY COE STATE PARK:
+
+Take Hwy 101 south towards Gilroy and take
+the East Dunne exit. continue east towards
+the hills (past Anderson Reservior) for
+about 12 miles to the park. Past the park
+entrance you will see old ranch type
+buildings on the right and a horse trough.
+The gate (on the left) is locked but the
+club combination is 4565. Always lock the
+gate after yourself. If arriving after
+dark, please park outside the gate and hike
+in first to find an observing site before
+driving in. Parking lights only after
+dark, please.
+
+[Map showing Anderson Reservoir, Coe Pack campground, and East Dunne Exit off HWY 101 SOUTH]
+
+FREMONT PEAK STATE PARK:
+
+Take Hwy 101 south towards Salinas. Then
+take Hwy 156 east (San Juan Bautista exit)
+for two miles to a yellow flashing light.
+Turn right and go about 1/4 mile to where
+the road curves slightly to the left and
+splits. Stay left for about 25 yards and
+then bear right. (watch for the Fremont
+Peak sign). Follow the road for about 11
+miles up into the park. SJAA sets up at
+Coulter Camp. It's visible on your right
+as you drive up into the main area of the
+park. Parking lights only after dark,
+PLEASE!
+
+[Map showing Fremont Peak, Coulter Camp, route to Salinas, HWY 101 S, HWY 156 E., Yellow Light, and San Juan Bautista]
+
+EPHEMERIS is published monthly by the San
+Jose Astronomical Association, 3905 Calico
+Ave., San Jose, CA. 95124
+
+OFFICERS:
+
+PRESIDENT  Robert Fingerhut, 340 Rio Verde
+           Pl., #4 Milpitas, Ca. 95035
+           (408) 263-4455
+
+VICE-PRES  Dave Ambrose, 816 Everett St,
+           El Cerrito, Ca. 94530 (415)
+           524-0869
+
+SEC.       James Van Nuland, 3509 Calico
+           Ave., San Jose, Ca. 95124 (408)
+           371-1307
+
+TREAS.     Jack Peterson, 1840 Yosemite Dr.
+           Milpitas, Ca. 95035
+           (408) 262-1457
+
+BOARD OF DIRECTORS:
+
+Paul    Mancuso  (408)  945-0738   Steve
+Spearberg (209) 823-6550, Tom Ahl (408)
+247-0183, Gene Cisneros (408) 923-6800, Joe
+Jurasek (408) 224-8693, Chris Pratt (408)
+629-2954, Denni Medlock, (415) 654-8796.
+
+EPHEMERIS EDITOR:
+
+John P. Gleason, 5361 Port St. Gilwood Dr.,
+Newark, Ca. 94560; (415) 790-9250
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8QroCyejFZysZuA3t'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $8.00    MEMBERSHIP/S&T: $21.00    JUNIOR (UNDER 18): $15.00
+
+Name ________________________________________________
+
+Address _____________________________________________
+
+_____________________________________________________
+
+Telephone (______)__________________________________
+
+Please bring this form to any SJAA meeting, or send to:
+Jack Peterson, Treas.
+San Jose Astronomical Association
+1840 Yosemite Dr.
+Milpitas, CA. 95035
+
+[ Phone: (408) 262-1457 ]
+
+Please check type of membership and if new
+or renewal.
+
+Membership Only____ Membership/S&T____
+Junior (Under 18)____
+New____ Renewal____
+
+
+SJAA EPHEMERIS
+3509 CALICO AVE.
+SAN JOSE, CA. 95124
+
+
+Questionnaire (optional)
+
+What are your astronomical interests (e.g. astro-
+photography, deep-sky observation, telescope making,
+etc.)? ________________________________________________
+
+_____________________________________________________
+
+_____________________________________________________
+
+Do you own a telescope? _________ If so, what kind?
+
+_____________________________________________________
+
+Is there any specific area of astronomy that you feel
+qualified to help others with? ______________________
+
+_____________________________________________________
+
+_____________________________________________________
+
+
+NON-PROFIT ORGANIZATION
+U.S. POSTAGE PAID
+PERMIT NO.5381
+SAN JOSE, CA. 95125
+
+
+TIME VALUE — DATED
+
+NEWS MATERIAL

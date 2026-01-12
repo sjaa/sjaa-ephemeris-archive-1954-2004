@@ -1,0 +1,165 @@
+{
+  "articles": [
+    {
+      "id": "sjaa1964-san-jose-amateur-astronomers-club-planning-meeting-on-july-20-1969",
+      "documentId": "sjaa1964",
+      "title": "San Jose Amateur Astronomers Club Planning Meeting on July 20, 1969",
+      "summary": "The San Jose Amateur Astronomers Club held planning meetings from July to December 1964, discussing various topics such as Morrison Lectures, astronomical equipment, and programs for upcoming meetings. The club also planned for a star-party campsite selection and discussed the possibility of radio astronomy lectures.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "Morrison Lecture",
+        "astronomical equipment",
+        "radio astronomy",
+        "star-party campsites"
+      ],
+      "pageStart": 2,
+      "pageEnd": 9
+    },
+    {
+      "id": "sjaa1964-san-jose-amateur-astronomers-club-planning-meeting-on-august-17-1964",
+      "documentId": "sjaa1964",
+      "title": "San Jose Amateur Astronomers Club Planning Meeting on August 17, 1964",
+      "summary": "The San Jose Amateur Astronomers Club held planning meetings in August and October 1964 to discuss upcoming events, speakers, and topics. The club planned to host a Morrison Lecture by Dr. David Cudaback on radio astronomy.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "Morrison Lecture",
+        "radio astronomy",
+        "Dr. David Cudaback"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "sjaa1964-planning-meeting-for-san-jose-amateur-astronomers-club-on-august-31-1964",
+      "documentId": "sjaa1964",
+      "title": "Planning Meeting for San Jose Amateur Astronomers Club on August 31, 1964",
+      "summary": "The San Jose Amateur Astronomers Club plans meetings and programs for the year 1964-1965, including a Morrison Lecture by Dr. David Cudaback on radio astronomy. The club discusses various topics such as astronomical photography, star-party campsites, and publicity efforts.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "Morrison Lecture",
+        "Dr. David Cudaback",
+        "radio astronomy",
+        "astronomical photography",
+        "star-party campsites"
+      ],
+      "pageStart": 4,
+      "pageEnd": 9
+    },
+    {
+      "id": "sjaa1964-san-jose-amateur-astronomers-club-planning-meeting-on-september-21-1964",
+      "documentId": "sjaa1964",
+      "title": "San Jose Amateur Astronomers Club Planning Meeting on September 21, 1964",
+      "summary": "The San Jose Amateur Astronomers Club held a planning meeting on September 21, 1964, at John Lewellyn's house. Members discussed upcoming events, including the WAA Convention and a meeting at the Rose Garden Branch Library. The club also discussed college astronomical equipment.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "planning meeting",
+        "WAA Convention",
+        "astronomical equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "sjaa1964-san-jose-amateur-astronomers-club-planning-meeting-on-october-12-1964",
+      "documentId": "sjaa1964",
+      "title": "San Jose Amateur Astronomers Club Planning Meeting on October 12, 1964",
+      "summary": "The San Jose Amateur Astronomers Club held a planning meeting on October 12, 1964, to discuss upcoming events and programs. The meeting was attended by several members, including Walt Krumm and Ralph Plankinton. The club is also considering inviting Dr. John Phillips from the University of California at Berkeley to give a lecture.",
+      "categories": [
+        "events",
+        "organizational meetings"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "astronomy club meeting",
+        "planning meeting"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "sjaa1964-letter-from-university-of-california-berkeley-astronomy-department",
+      "documentId": "sjaa1964",
+      "title": "Letter from University of California, Berkeley Astronomy Department",
+      "summary": "The University of California, Berkeley Astronomy Department is recommending Dr. David Cudaback to present a Morrison Lecture to the San Jose Amateur Astronomers on December 7, focusing on radio astronomy and the lunar surface.",
+      "categories": [
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "University of California, Berkeley",
+        "Astronomy Department",
+        "Morrison Lecture",
+        "Dr. David Cudaback",
+        "radio astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "sjaa1964-san-jose-amateur-astronomers-club-planning-meeting-on-november-16-1964",
+      "documentId": "sjaa1964",
+      "title": "San Jose Amateur Astronomers Club Planning Meeting on November 16, 1964",
+      "summary": "The San Jose Amateur Astronomers Club held a planning meeting on November 16, 1964, at Elmer Johnson's house to discuss various club activities and tasks. The meeting included discussion of printing bulletins, dues notices, and publicity for the club.",
+      "categories": [
+        "events",
+        "observing reports"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "planning meeting",
+        "bulletin printing",
+        "dues notice",
+        "publicity"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "sjaa1964-san-jose-amateur-astronomers-club-planning-meeting-on-december-21-1964",
+      "documentId": "sjaa1964",
+      "title": "San Jose Amateur Astronomers Club Planning Meeting on December 21, 1964",
+      "summary": "The San Jose Amateur Astronomers Club held a planning meeting on December 21, 1964, to discuss the January 1965 program and possible star-party campsites. The meeting was attended by six members, including May Duggan, Estella Pollack, and Ralph Plankinton.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "astronomy club",
+        "star party"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa1964",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA1964.pdf",
+      "txtPath": "SJAA1964.txt"
+    }
+  ]
+}

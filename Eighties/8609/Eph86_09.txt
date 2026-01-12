@@ -1,29 +1,586 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9biBuy62ir5guWxaj'}]
+# EPHEMERIS
+## OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+[Image of observatory dome on hill]
+
+# SEPTEMBER 1986
+
+************************************************
+*           SEPTEMBER  27TH  8 PM                *
+*        SLIDE AND EQUIPMENT NIGHT               *
+************************************************
+
+SEPTEMBER  6  FIELD EXPEDITION FOR ASTRONOMICAL  OBSERVATION TO HENRY
+              COE STATE PARK.  DUSK TILL DAWN.
+
+SEPTEMBER  12  INDOOR STAR PARTY AT THE LOS GATOS RED CROSS BUILDING.
+
+SEPTEMBER  20  BOARD MEETING  AT 7  PM.  INTRODUCTORY  ASTRONOMY CLASS
+              FOLLOWS AT 8 PM.  LOS GATOS RED CROSS BUILDING.
+
+SEPTEMBER  27  GENERAL MEETING 8  PM. LOS GATOS RED  CROSS.   SLIDE AND
+              EQUIPMENT  PRESENTATION   BY  MEMBERS   OF  THE   SJAA.
+              ASTROPHOTOGRAPHY, NEW TELESCOPES, TECHNIQUES FORUM
+
+OCTOBER    4  INTRODUCTORY  ASTRONOMY  CLASS AT  FREMONT  PEAK  STATE
+              PARK.   OBSERVATIONAL   ASTRONOMY  CONDUCTED   BY  JACK
+              ZEIDERS.  ALSO  A SCHEDULED  SJAA FIELD  EXPEDITION FOR
+              ASTRONOMICAL OBSERVATION.  DUSK TILL DAWN
+
+OCTOBER   11  BOARD MEETING 7 PM AT THE LOS GATOS RED CROSS BUILDING.
+              INDOOR STAR PARTY TO FOLLOW AT 8 PM.
+
+OCTOBER   18  INDOOR  STAR PARTY  8 PM  AT  THE LOS  GATOS RED  CROSS
+              BUILDING.
+
+OCTOBER   25  GENERAL MEETING 8 PM.  SPEAKER TO BE ANNOUNCED.
+
+NOVEMBER   1  FIELD EXPEDITION TO GRANT RANCH  COUNTY PARK.  THIS HAS
+              BEEN TENTATIVELY SCHEDULED.  LOCATION MAY BE CHANGED IF
+              GRANT RANCH IS UNAVAILABLE.
+
+NOVEMBER   8  INDOOR  STAR PARTY  8 PM  AT  THE LOS  GATOS RED  CROSS
+              BUILDING
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9d3oWQAjVrXHhzcFd'}]
+# FIELD OF VIEW
+BY: JOHN GLEASON
+
+## NEW BOARD MEMBERS
+
+[BINOCULARS ICON]
+
+On behalf of the SJAA Board of Directors and Officers, I would like to welcome Duncan Munroe and Ron Walton to the SJAA Board. They are replacing Chris Pratt and Dennis Medlock. Both Ducan and Ron have been members of the SJAA for several years and are welcomed as new additions to the Board.
+
+## FPOA OBSERVATORY NEARS COMPLETION
+
+By the time all of you read this, the FPOA observatory will have been dedicated. There are still a number of construction details to be finished, but essentially the building structure is finished enough to allow housing of the 30-inch reflector. I encourage all SJAA members to "come on down" and visit the observatory. Regularly scheduled public programs will probably not start until spring 1987. The interior of the building will need to be completed, as well as a fine tuning of the telescope mounting and optics.
+
+## COMET SLIDES RECOVERED
+
+Jack Zeiders tells me that his missing Halley's Comet slides (since May), have been returned. He extends his appreciation to the individual who returned them.
+
+## EQUIPMENT AND SLIDE NIGHT SEPTEMBER 27TH
+
+Every year, the SJAA conducts a equipment and side presentation at its general meeting. This is a unique opportunity for members to present their own "show and tell" on topics of telescope making, astrophotography, and recent amateur conferences. This is also an excellent time for new members to become familiar with the membership and the type of activities and interests that are present in the SJAA. I encourage members to bring slides and telescopes. It is too small, no astronomy to dim it to show. This is also a good time to get answers to some of your questions about telescopes, astrophotography, and amateur astronomy in general. See you there!
+
+## INDOOR ASTRONOMY CLASS GOES TO FREMONT PEAK OCTOBER 4TH
+
+The Indoor Astronomy Class for September 13th has been cancelled and moved to saturday, September 20th. This is a change from last month's Ephemeris announcement, so mark your calendars. On October 4th, Jack Zeiders will be conducting an evening under the stars at Fremont Peak State Park. This will include binocular and telescope observing, as well as a peak into the FPOA 30-inch telescope. (if operational)
+
+## ASTRO ADS
+
+FOR SALE: Celestron 8 with silver coated optics. With accessories. $1200.
+Paul Mancuso, (408) 946-0738
+
+[CROSSHAIR ICON]
+
+## COMET COMMENTS
+BY: DON MACHHOLZ
+
+One bright and four faint members can now be added to our list of 1986 comets. Three returning comets have been recovered and two new ones have been discovered. The number of comets discovered or recovered so far this year is 12, placing it ahead of the average year.
+
+Periodic Comet Schwassmann-Wachmann 2 (1986h): J. Gibson of Palomar used a 60-inch reflector and a CCD to recover this comet on June 26. Then at magnitude 20 it was 8.6 AU from the sun. As it gets this comet will brighten only slightly over the next year and will be closest the sun (2.1 AU) in late August, 1987. Its orbital period is 6.4 years.
+
+Comet Churyumov-Solodovnikov (1986i): Two Russian professional astronomers discovered this comet on photographic plates taken July 15. The comet, currently in Capricornus, was closest the sun (2.6 AU) on May 5. In a well-inclined parabolic orbit, it is getting fainter as it is now leaving the inner solar system.
+
+Periodic Comet Comas Sola (1986j): T. Gehrels and J. Scott recovered this comet with a 36-inch scope on Kitt Peak on July 30. It was originally discovered in 1926. With a period of 8.8 years, the comet never gets closer to the sun than Mars. This time around it is closest the sun next year - Aug. 18, 1987, and won't get brighter than mag. 19.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9dbJAzryyqt4WPuUH'}]
+Periodic Comet Kohoutek (1985k): A few hours before the previous comet was
+recovered, the same team picked up this one. It was then mag. 15.5, and is
+months away from its closest approach to the sun (1.8 AU). This comet is not
+the same object that was over-publicized in 1973, rather it was discovered in
+early 1975. This time around it will remain fainter than mag. 15.
+
+Comet Wilson (1986/l): News of this comet has just come in. It was found in
+Pegasus on photographic plates taken Aug. 5. It was then about mag. 10. For
+updated positions call me or the SKY and TELESCOPE hotline: (617) 497-4168
+
+WHAT GOES AROUND COMES AROUND - HALLEY'S
+
+Last month in this section I reviewed Comet Halley's performance during the
+past year. The comet, of course, behaves in a certain manner no matter what we
+do. How did we react to Halley's Comet?
+
+We have been told that this was the worst appearance of Halley's Comet in 2000
+years. The earth-comet-sun geometry made the comet appear dimmer than during
+most visits. Despite this, however, not only did we learn more about Halley's
+Comet than ever before, but more people saw the comet this time than on any
+previous visit.
+
+While it is difficult to know just how many got a look at the comet, perhaps
+only one-third of the world's (and the U.S.) population actually saw it. Among
+my co-workers and neighbors, I know more people who did not see it as did see
+it. This is not because we amateurs did not try, we succeeded quite well in
+showing the comet to those who wanted to see it. It's just that there were
+not a lot of people didn't really care about seeing Halley's Comet. This
+shouldn't surprise anyone. Some people are more involved with outdoors don't
+care about opera, water skiing, bird watching or stamp collecting. It would be
+easy enough to think that everyone would stop what they are doing and run
+out to see the comet. A good fireworks display or rocket launch would probably
+attract more people.
+
+Yet even if one-third of the world's population saw Halley's Comet, this is
+roughly 1.6 billion people. Since not everyone alive in 1910 saw the comet,
+more people saw Halley's Comet in 1985-6 than in any of its previous visits.
+(408) 448-7077
+
+Imagine for a minute that the two apparations were reversed. Then 1986 would
+have had the good show, but in 1910 the comet would hardly have been noticed
+outside the astronomical community. Observations would be rare and we would
+have less of an idea of what to expect. Just as important, the comet would not
+have been seen by most of our grandparents, it wouldn't have appeared in nearly
+every grade school science textbook, and the 1986 visit would have been
+under-anticipated.
+
+As it turned out, however, the poor 1986 visit came at a time when space
+technology and scientific technique combined to make the best of this bad
+situation. We have now visited and studied a comet nucleus close-up, measured
+particle size in the coma, and viewed it with various wavelengths. The
+amateurs, many of who own telescopes and binoculars, were able to show the
+comet to their friends, relatives, and neighbors.
+
+In summary, below is a comparison of the advantages of both the 1910 and the
+1986 visits of Halley's Comet.
+
+1910                                    1986
+
+Halley's three times closer             We can fly spacecraft to the comet.
+                                        Halley's closer on incoming path
+                                        than its incoming path in 1910.
+                                        We have more powerful telescopes.
+                                        Telescopes more accessible to public.
+
+Less light pollution.                   We can easily drive long distances to
+                                        dark sky sites.
+                                        We can filter out city lights.
+
+Seen better in N. Hemisphere.           We can fly to the S. Hemisphere in just
+                                        a matter of hours.
+                                        Many observatories in the S. Hemisphere.
+
+Population: 1.7 billion                 Population: 4.7 billion.
+
+According to the newsletters I've seen from the clubs receiving this column,
+many of you held public viewing nights to show the comet. Some clubs found it
+beneficial to work in conjunction with public observatories. Others held these
+viewing sessions at their club observatories. Here in San Jose over 2000
+people came out to see the comet during the twelve nights we set aside at a
+city park.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9eA2n5z6T9Cn3XT38'}]
+TESTING FUJICHROME P1500-D
+ULTRA HIGH COLOR REVERSAL FILM
+BY: JOHN GLEASON
+
+Just before leaving to New Zealand last April, Jack Zeiders slipped me a roll of very high speed Fujichrome P1500-D. This previously unavailable film, (at the time it was not being sold in the U.S.. Now it is.) had already proved it's astrophotographic qualities in several S & T articles by Akira Fuji. Alas, due to the hectic schedule in New Zealand, I did not get a chance to use the film. Bob Fingerhut on the other hand, did use it in Australia and came home with some remarkable, high contrast color slides. His exposures ran about 10-minutes with his camera lenses stopped down to f/2.8.
+
+Finally, I got to try the Fuji this last July at Yosemite. Ron Walton and myself tried various f-stops with exposures of 10-minutes on the usual parts of the summer Milky Way. This past month, I used the same roll of film at the prime focus of the C8 as well as the C14.
+
+Processing the film presented no problem, as most custom processing labs will do it for you. I found out that they were just as curious about the film as I was.
+
+THE RESULTS ARE IN
+
+At first I was a little disappointed in my results. The slides seemed very dark without much image density when held up to a lamp. Nothing like the Ektachromes shot in M4. Upon projection the true nature of Fuji 1500 became apparent. There were shots of a dark projection day that exhibited exceptional color balance between the starclouds, clusters, stars, and nebulae along with a "Black" sky background. No, not dark green or dark blue, but BLACK.
+
+I had stopped my 50mm Zuiko lens from f/1.8 down to f/2.8 for these shots. The projected slides revealed star images razor sharp across the entire film frame, very much like the Schmidt Camera. We did try several shots at f/4 with the same lens, but the 10-minute exposures were too short to reveal any significant detail in the Milky Way.
+
+The 45-minute prime focus shots through the C8 and C14 only revealed a handful of stars around the Trifid and Lagoon nebulaes. Only in the C8 shot is there any hint of nebulosity, in the hourglass region of the Lagoon. This indicates to me that the film suffers badly from low light reciprocity failure and poor response at f/10 and f/11. (Unlike Konica SR1500 which works very well at f/10 in its untreated form). The 20-minute shot through Bob Fingerhut's 16-inch f/4.6 was nothing to write home about either. This brief exposure on M22 was poor by comparison with previous shots taken with a cold camera and Ektachrome 400.
+
+At ISO 1500, one might think that film grain would be objectionable. Not in this case. Although I am just a little suspicious that the film may have been under processed, the film grain exhibited in these slides seems to be as good if not better than Ektachrome 400.
+
+As with all film, when used for astrophotography, a lot depends upon lens aperture, exposure times, and the local sky conditions. This simply equates into more experimentation with 1500D for the future. Right now the film is very hard to find. The roll I used came from Japan via Don Mucksensable via Jack Zeiders. There is little demand by daylight photographers for this high speed film, so price will be high and availability will be poor.
+
+CALICO OBSERVATORY
+BY: JIM VANULAND
+
+GREAT RED SPOT
+
+Now that I've gathered some more observations, slight downward trend has appeared in the Spot's Jovacentric longitude. I've altered the predictions to allow for that, so the present times are several minutes earlier than was given last month.
+
+Reaching opposition this month, Jupiter obrtains its maximum diameter of 49.6 arc-seconds, and -2.9 magnitude, once again outshining Mars: the latter down to -1.3 from its opposition magnitude of -2.7
+
+At opposition, a satellite and its shadow transit at the same time, separated only in the north/south direction: this may be so close that the disks overlap! On the 7th universal date, watch for Io to transit Jupiter: it leaves the planet at 4:17 UT, to present moons I - IV outward. This seemingly-remarkable configuration is not rare: it occurs again just before 8:22 on the 20th, and after 7:45 UT on the 21st.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9ehGxiihcvt1gKTrz'}]
+Great Red Spot on Meridian PDT
+da mo  d    h  m        da no  d    h  m
+Su  8 31   9 44 pm      Su  9 21   4  7 am
+Tu  9  2   3 34 am      Su  9 21  11 57 pm
+Tu  9  2  11 20 pm      W   9 24   1 34 am
+Th  9  4   5  7 am      W   9 24   9 24 pm
+F   9  5   0 58 am      F   9 26   3 11 am
+F   9  5   8 50 pm      F   9 26  11  3 pm
+Su  9  7   2 40 am      M   9 29   0 46 am
+Su  9  7  10 29 pm      M   9 29   8 37 pm
+Tu  9  9   4 11 am      W  10  1   2 15 am
+W   9 10   0  3 am      W  10  1  10 14 pm
+F   9 12   1 42 am      F  10  3   3 59 am
+F   9 12   9 32 pm      F  10  3  11 48 pm
+Su  9 14   3 23 am      Sa 10  4   7 39 pm
+Su  9 14  11 17 pm      M  10  6   1 30 am
+Tu  9 16   4 54 am      M  10  6   9 17 pm
+W   9 17   0 50 am      W  10  8   3 00 am
+W   9 17   8 44 pm      W  10  8  10 57 pm
+F   9 19   2 24 am      Sa 10 11   0 30 am
+F   9 19  10 24 pm      Sa 10 11   8 20 pm
+
+Jupiter has spots and disturbances in addition to the Great Red Spot. A prominent one in the North Equatorial Belt has been followed since May 1985. Recently, it was independently discovered by Dave Lindemann of Poughkeepsie; it has also been observed by William Phelps. Located roughly 2.5 hours earlier than the Red Spot, you may wish to look at it. William reports an additional disturbance attached to the NEB just north of the Spot. Another storm or disturbance east of that is larger than the Great Red Spot.
+
+If you look at Jupiter only when the Spot is up (as I do), you will miss a good deal of interesting activity. Take advantage of our good weather, and reward yourself. (408) 371-1307.
+
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+[THIS IS FIGURE: Simple line drawing of Saturn with rings]
+
+I recently reconditioned my Celestron 14 (C-14) after several years of not using it at all. It was interesting to note what needed repair. I had stored the instrument carefully, in its shipping trunks, in my little trailer, in a dry garage with no wild temperature swings. Most everything seemed to be in good shape. I put it all together in the garage and tried it out. My 100 Ampere-hour deep-discharge battery was shot — internal corrosion had deformed and cracked the case (but the battery box caught the acid, and it was stored separately on a concrete floor anyway). I also had to scrape corrosion off several of the electrical plugs, but other than that there were no problems.
+
+Electrical corrosion is a major problem with many telescopes. Dust collects on metal surfaces, then the dew settles, then the contacts spend much of the night with current flowing through them. Such a situation is a natural for electrochemical reactions. The cheap solder- or tin-plated contacts that you see on many plugs and sockets are the natural victims of these circumstances. My declination drive motor is usually the first to succumb: There are many more plugs between it and the battery than for the siderial drive motor; and furthermore, DC motor performance is often unduly sensitive to the precise voltage supplied. If I make any more customizations in the C-14, first on my list will be a trip to JDR (San Jose) or Frye's Electronics (Sunnyvale) for some plugs and sockets with gold-plated connectors.
+
+Fortunately, temporary fixes are easy: A little scraping with a knife blade or some steel wool is all it takes. I just have to remember to suspect the contacts' conditions first thing, whenever a drive motor is slow or inoperative. All in all, I was pleased that the C-14 was in such good shape.
+
+Lots of people have been buying refractors with fluorite optics of late. All of these instruments are by and large Celestron stock.
+
+They're nice, but a little overrated. I am not positive that I can detect any difference in image quality between these instruments and my own, non-fluorite 102mm refractor. But mine is an f/10, and most of the Celestron fluorites are shorter and more compact. I am sure that non-fluorite optics would be showing objectionable secondary color at say 102mm f/5. All the refractor that gives quite dark purple-red images of bright stars is probably not perfectly corrected. The feature has more to do with how well they are baffled — and perhaps with how poorly most other telescope designs are baffled — than with any characteristic of the optical substances used to make the objectives.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9fD2qA6iCRi7sNQb4'}]
+I recently had the opportunity to show several beginners some introductory
+celestial objects through four-inch refractors (my non-fluorite and the FPOA's
+fluorite), through my own 8-inch Dobson-mounted Newtonian, and through Bob
+Fingerhut's 16-inch fork-mounted Newtonian. The small refractors were clearly
+less intimidating and had more convenient eyepiece positions than either of the
+other two instruments, and for bright, large objects they did a fine job. But
+it was pretty clear that the eight-inch outperformed both of them across the
+board, and it was definite that Bob's magnificent 16-inch blew all of the
+smaller telescopes clean out of the water.
+
+The small refractors were certainly more portable and easier to set up than
+Bob's 16-inch, and roughly as portable as the bulkier but slightly less
+irregularly-shaped 8-inch Dobson. But the Dobson wins hands down for ease of
+set-up: My record for this particular instrument is fourty-five seconds, from
+opening the back of the car wherein the 8-inch was stored, to looking through
+an eyepiece at a deep-sky object.
+
+(As of the September bulletin, there are no less than eight fluorite telescopes
+within the membership of the SJAA. My own personal experience with the
+fluorites has been one of amazement at the resolving power of these "little"
+telescopes. Popularly referred to as the "Teflon Tascos" these telescopes have
+yielded exceptional planetary images. Subtle details on Mars that were not
+visible in the Super C8 were quite evident in the fluorites to this experienced
+observers eyes. Kevin Medlock examined my own 55mm "Baby Fluorite" up to nearly
+250X using a microscope objective in a projection tube, along with a 3X Barlow
+lens. Both of us were astounded to observe two polar caps and faint surface
+markings on Mars with the 55mm. But I cannot be fooled by the extreme
+resolution of this tiny "light sipper". Nothing can compare to a C14 or
+16-inch Newtonian for detail and resolution when the atmosphere permits. -- ed)
+
+SHOWING HALLEY'S COMET IN SAN JOSE
+BY: DON MACHHOLZ
+
+Late May saw the conclusion of our public viewing of Halley's Comet. Over two
+thousand people came out to see the comet during the twelve nights during which
+we had telescopes set up at Branham Lane Park in San Jose.
+
+Held in conjunction with the San Jose Parks and Recreation Dept., we were
+scheduled for two nights each in Nov., Dec. and January. With the success of
+these showings, we then scheduled six more nights in May.
+
+On one session over 500 people came to the park to see the comet. In December,
+Channel 11 filmed us for their newscast. Besides the comet, we also showed the
+crescent moon, Jupiter, Venus, Saturn and star clusters. Everyone seemed to
+have an enjoyable time.
+
+Here is a list of those who helped to show the comet. My thanks to them all.
+
+Darwin Poulos, Richard Page, Jim Van Nuland, William Phelps, Johnny Johnson,
+Steve Pehanich, Frank Saldes, Mark Mattox, Bob Sprocker, Paul Mancusco, Paul
+Braves, Rolf Strohm, Tom Ahl, Dick Rands, Jack Zeiders, Kim McKelvey, Bob
+Fingerhut, Duncan Munro, Paul Barton, Thomas Willis, Brian Zehring, Pat Jones
+and Wayne Clarke.
+
+MINIMA OF ALGOL?
+
+Have you ever found yourself wandering through the back pages of your Sky &
+Telescope, looking at the ads, and other miscellaneous things? Then you happen
+to notice a little blurb that says "Minima of Algol". You wonder, just what
+the heck is an Algol, and why is it a minimum? Well Algol, also known as Beta
+Persei, is a "famous" Eclipsing Variable Star. In fact, Algol was the first
+Eclipsing Variable Star ever discovered as such. Algol's brightness varies
+between magnitudes 2.2 and 3.5 every 2.87 days. The variations were not
+caused by a fainter companion that periodically eclipses the main star of
+Algol. (The English amateur John Goodricke suggested the correct explanation
+of Algol's behavior in 1782) Algol, and stars like it, make up one class of
+Variable Stars.
+
+A second class of variables, pulsating variables, are stars that throb like a
+heart beat, some regularly (like Cepheid variables, which were used to measure
+the size of the universe) and some irregularly, like many red giants.
+Pulsating stars undergo change in both size and surface temperature, both of
+which affect the star's brightness. The temperature change is usually most
+important; the star being brightest when hottest but maximum temperature does
+not always coincide with maximum -- or minimum -- size. Many models have been
+advanced as to why these stars vary, one of the most popular being an uneven
+fusion process in the core, with gravity and fusion trading places as the
+dominant force. Gravity making the star contract for a while, and fusion
+making it expand again.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9ftxVfMRvoVLpcDCu'}]
+A third class of variables are the Eruptive Variables. These stars vary
+through explosions on their surface (flare stars or as Novae. Flare Stars,
+such as T Tauri Stars and UV Ceti Stars, have flares which last only a few
+minutes; where U Geminorum and Z Camelopardis Variables have slow flares
+lasting a day or two. These later are close binary systems which contain a
+White Dwarf star surrounded by a disk of gas. Gas flows from the companion
+star to the White dwarf, colliding with the disk to form a hot spot which cones
+and goes as the binary system rotates.
+
+In their gross light output, the R Coronae Borealis stars are the reverse of
+flare stars. These stars will decrease in brightness and stay faint for weeks
+or months, and then gradually return to their original brightness. These stars
+are believed to have an excess of carbon in their atmospheres. They
+periodically puff a cloud of atmosphere into space. Once away from the star,
+the cloud cools and forms graphite flakes, which obscure the stars surface.
+Eventually the graphite disperses and the star recovers its former brightness.
+
+So...what can you do with your new found knowledge of variable stars? You
+could fine away the information for a rainy day, or you could show off at star
+parties explaining to neophytes what the "Minima of Algol" is, or you could
+perform observations which have real scientific merit. (I don't not wish to
+offend anyone with this last statement, after all, astronomy is supposed to be
+fun, and many Variable Star Observers are just that--myself included on
+occasion.)
+
+While Variable Star observing does require a bit of organization, and a bit of
+dedication, it is far from difficult. In fact, it can even be fun! But
+
+So...what can you do with your new found knowledge of variable stars? You
+could fine away the information for a rainy day, or you could show off at star
+parties explaining to neophytes what the "Minima of Algol" is, or you could
+perform observations which have real scientific merit. (I don't not wish to
+offend anyone with this last statement, after all, astronomy is supposed to be
+fun, and many Variable Star Observers are just that--myself included on
+occassion.)
+
+While Variable Star observing does require a bit of organization, and a bit of
+dedication, it is far from difficult. In fact, it can even be fun! But
+perhaps the best thing about Variable Star astronomy is that it can be done
+from a light polluted back yard with a reasonable amount of success. How many
+of you can fine an 11.5 magnitude galaxy from your backyard with a twenty
+centimeter (8") telescope? Probably very few, but chances are that you can
+observe an 11.5 mag Variable. (This is because stars are point sources of light.)
+Variables also train the eye to differentiate a few tenths of a magnitude
+difference between objects, a skill that is nice to have in astronomy.
+
+Variable Star observations are coordinated in the US, by the American
+Association of Variable Star Observers (AAVSO). The Association supplies the
+necessary charts for finding the variables and estimating their brightness--for
+a modest membership fee, and 25¢/chart -- and only asks that you send in a
+report of your observations once a month. Last year there were 251 members of
+the AAVSO in the US, contributing 100,000 observations. The AAVSO program
+covers almost 1000 stars, and new charts are constantly being prepared for
+long-period variables not included in the current catalogue. More observers,
+and more observations, are needed so that more of the other 25,000 known
+variables can be added to the program.
+
+For more information contact:
+
+AAVSO, 25 Birch Street, Cambridge, Mass. 02138
+
+(I must apologize to the SJAA member who sent me this article. In the shuffle
+of preparing this months issue, I lost the cover letter, therefore the name of
+the member who submitted it! Whoever you are, THANKS! -- ed)
+
+THE APODIZING SCREEN
+BY: JIM VAN NOLAND
+
+There has been some controversy lately, regarding the effectiveness of a
+fly-screen apodizing screen as a "seeing" filter. Mathematical analysis is
+very difficult. The inventor, Prof. Arl Leonard, has recently found that the
+amount of improvement depends on the size of the secondary. For an
+unobstructed instrument, the first diffraction ring is reduced by 4:1. The
+benefit diminished until, with a 44% obstruction (the C-5), there is no
+apparent advantage. Freeman feels that the benefit comes from the reduction of
+the first diffraction ring, so it appears that Prof. Leonard's findings agree
+with the analysis done by Freeman. Others have found that the screen was of no
+benefit on a C-5. Prof. Leonard's work also supports Richard Berry's empirical
+finding in favor of the screen; Berry was using an unobstructed reflector,
+where the maximum benefit accrues (4:1).
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9gTCCNZn4ywGwoFw2'}]
+Prof. Leonard's recent work was unavailable when Edberg did his analysis, so he
+(Edberg) was unaware that the size of the central obstruction is critical, and
+so concluded that the screen was of no use. I suggest that you try for
+yourself. Borrow mine at the next star party. I also have an ND filter to
+try.
+
+It has been suggested by Edberg, and earlier by Dr. Clyde Tombaugh, that a
+yellow or neutral-density filter will provide some seeing improvement. Indeed,
+it is a considerable help! Yet Edberg's experience when comparing (at my
+telescope) is that the screen was somewhat more helpful.
+
+CONSTRUCTION
+
+Build a square wood frame, of a size and width to fit the mouth of your scope.
+The inside dimension should be only slightly wider than the aperture of the
+scope, and the wood wide enough so that the corners protrude about an inch
+beyond the outside of the tube. Next, glue or tack four small blocks into the
+frame, to fit snugly when the frame is slipped over the mouth of the tube. The
+blocks should extend about an inch down the tube, to allow room for the
+screens.
+
+Ordinary fly-screen may be used, but a slightly coarser wire will give less
+stray color. About 10 wires/inch may be best. Cut out 5 circles of the outer
+diameter of your tube. Cut a hole in each one, progressively larger, starting
+at 64% of the clear aperture of your scope. Next, 72%, 80%, 88%, and 95%,
+after cutting, spray the layers with flat black paint, being careful not to load
+the screen. Stack the screens inside the frame. Turn each one 18° from the
+previous so each layer is not parallel to any other layer. Then tack them to
+the wood.
+
+If you have a large, fast scope, it would probably be useful to make an
+off-axis stop nearly 1/2 the mirror diameter. This would give an unobstructed
+scope with double the f/ratio. If you would like to do some research, build
+both a full-size and a reduced-size filter and try them out. Keep notes as to
+the sizes of the scopes and the screens, and publish your results. Other
+opening sizes that have been suggested are (50,70,90%) and (65,75,85,95%).
+
+Perhaps among your friends you have both a C-8 and an Odyssey II (17.5-inch).
+Build full size filters for each. Then for the C-2, make an off-axis stop with
+an 8-inch opening. Put some cleats on the stop, so that the C-8's filter can
+be hung on the C-2.
+
+My original screen is made of ordinary fly-screen, and used the (50,70,90%)
+formula suggested to me by Allen Meyer. The 5-screen version was developed by
+Jeff Cernack, who also found that black paint improved contrast, and that a
+coarser screen gave less stray color. The results are definitely better.
+
+OBSERVING WITH THE APODIZING SCREEN
+
+When planets are up, try all combinations. Look for details. You may find
+that one combination is better for sharp detail such as Cassini's division, and
+another is better for the soft markings on the planet, or for Jupiter's Great
+Red Spot.
+
+When do I remove the screen? I use it under most conditions, whenever I'm
+observing planets. On the rare night of perfect seeing, one should compare the
+screen with a neutral-density filter of 2X or 4X, and publish the results.
+
+The filter produces several bright, wide radial diffraction spikes, extending
+toward the edge of the field. These are spectra of the object. They begin a
+few minutes from the planet, and obscure much of the field. This may hide some
+the the satellites, but the planet will be clear.
+
+On the moon, the result is a great smear of fuzzy color, with a sharp moon
+underneath. After a few minutes, you will be able to ignore the color and
+concentrate on the details, and the improvement do the the filter will outweigh
+the smeariness. For a kick , try the filter on the Pleiades at low power! Or
+Venus, when the sky is dark.
+
+THEORY (a little)
+
+Dr. Freeman believes that turbulence disturbs the first diffraction ring much
+more than the central peak. Since the screen reduces the ring, it selectively
+removes the interfering component, and therefore improves the signal-to-noise
+ratio. (This has not been universally accepted.) Edberg's contention that
+reduced glare gives some improvement is most certainly borne out by his
+experiments with ND filters, and by Dr. Tombaugh's findings. (408) 371-1307
+
+(Hey, sounds like just the thing for one of those Teflon Tascos! -- ed)
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9gywdKy2Nup5b9w2x'}]
+# SJAA MEETING AND STAR PARTY LOCATIONS
+
+## GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross building in Los Gatos California. The large meeting room has kitchen facilities and large slide projection screen. This is also the location for the SJAA's "Indoor Star Parties", informal sessions where members gather to share their astronomical interests. Whatever your interest, astrophotography, deep sky observation, telescope making, or just arm chair observing, you'll find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17 take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road for about 1.5 miles. Turn right at Rose Ave. Then turn right immediately into the parking lot of the Red Cross building. Doors open at 7:45 PM, with General meetings beginning at 8 PM. General Meetings are held on the 4th Saturday of each month.
+
+## INDOOR STAR PARTIES
+
+Each month there are several Saturday evenings set aside for informal gatherings of members and non-members to share their common interest in amateur astronomy, to "talk shop", or to simply enjoy the company of friends. Members are encouraged to bring in telescopes and accessories to share with the group. Typically there will be several telescopes operating in the parking lot or there will be a slide show of recent astrophotography and star party events in progress in the meeting hall. The SJAA also holds it board meetings during this time as well as an introductory astronomy workshop that is conducted once a month.
+
+## HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue east towards the hills (around and past Anderson Reservior) for about 12 miles to the park. Past the park entrance you will see old ranch type buildings on the right and a horse trough. The gate (on the left) is locked but the club combination is 4555. Always lock the gate after yourself. If arriving after dark, please park outside the gate and hike in first to find an observing site before dark, please. Just a short distance up a hill beyond the gate is where the SJAA sets up equipment.
+
+## FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista exit) for two miles to a yellow flashing light. Turn right and go about 1/4 mile to where the road reaches a "Y". Stay left for about 25 yards and then go right. (Watch closely for the Fremont Peak sign) Follow the canyon road for about 11 miles up into the park. The SJAA set up at Coulter Camp. It's visible on your right as you drive up onto the main area of the park. There is usually some astronomical activity here every clear new moon weekend. Fremont Peak stands 3000 ft above sea level. Arrive early if you are setting up equipment. 30 to 40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+*    EPHEMERIS is published monthly by the San Jose Astronomical           *
+*    Association, 3509 Calico Ave., San Jose California 95124.             *
+*    Contributors are welcome to submit articles for publication. These    *
+*    should be typed and submitted no later than the 12th of the previous  *
+*    month. All submissions should be sent directly to the editor, John    *
+*    Gleason, 5361 Port Sailwood Dr. Newark, CA. 94560.                    *
+*                                  OFFICERS                                 *
+*    PRESIDENT: Bob Fingerhut...................................408-263-4455 *
+*    VICE-PRES: Tom Ahl.........................................415-524-0859 *
+*    SECRETARY: Jim Van Nuland..................................408-371-1307 *
+*    TREASURER: Jack Peterson..................................408-262-1457 *
+*    EDITOR:    John P. Gleason................................415-790-9250 *
+*                              BOARD OF DIRECTORS                           *
+*    Paul Mancuso...............................................408-946-0738 *
+*    Jack Patterson.............................................408-262-1457 *
+*    Bob Fingerhut..............................................408-263-4455 *
+*    Tom Ahl........................................................        *
+*    Gene Cisneros..............................................408-923-6800 *
+*    Joe Sunseri................................................408-224-8693 *
+*    Ron Walton.................................................415-278-3335 *
+*    Duncan Munroe..................................................        *
+********************************************************************************
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9hTi8spH83akTFpY1'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10     MEMBERSHIP/S&T: $ 24.00     JUNIOR (UNDER 18): $ 17.00
+
+Name ____________________________________________     Questionnaire (optional)
+
+Address __________________________________________     What are your astronomical interests (e.g. astro-
+                                                      photography, deep-sky observation, telescope making,
+________________________________________________     etc.)? ________________________________________
+
+Telephone (______)_______________________________     ________________________________________________
+
+                                                      ________________________________________________
+Please bring this form to any SJAA meeting, or send to:
+                                                      ________________________________________________
+Jack Peterson, Treas.
+San Jose Astronomical Association                     Do you own a telescope? ________ If so, what kind?
+1840 Yosemite Dr.
+Milpitas, CA. 95035                                   ________________________________________________
+
+[ Phone:  (408) 262-1457  ]                           Is there any specific area of astronomy that you feel
+                                                      qualified to help others with? ___________________
+Please check type of membership and if new
+or renewal.                                           ________________________________________________
+
+Membership Only____    Membership/S&T____             ________________________________________________
+
+Junior (Under 18)____
+
+New____     Renewal____
+
+
+
+
+                                                      NON-PROFIT ORGANIZATION
+SJAA EPHEMERIS
+3509 CALICO AVE.                                      U.S. POSTAGE PAID
+SAN JOSE, CA. 95124
+                                                      PERMIT NO.5381
+
+                                                      SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

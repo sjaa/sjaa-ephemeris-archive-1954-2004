@@ -1,17 +1,574 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA56YeDECBEnDwvKegm'}]
+SAN JOSE
+ASTRONOMICAL ASSOCIATION ═══════════════════════════════════════════
+EPHEMERIS
+
+═══════════════════════════════════════════════════════════════════════════════════
+
+AUGUST 1984
+
+FROM THE EDITORS DESK
+BY: JOHN GLEASON
+
+I want to extend my appreciation to those
+members who have given me positive feedback on
+the new Ephemeris. Would you believe that the
+club's two year subscription at club nearly $500 over
+the summer? Special thanks to those of you who
+submitted articles this month, Steve Gottlieb,
+Jim Van Nuland, Don Machholz, Bob Fingerhut
+There is a special event to take notice
+of this month. the Board has set forth a
+vacation season, the Board members have
+decided to have a special star party at
+Marriott's Great America on August 4th. This
+will be a day long affair to include solar
+observing during the day and lunar and
+planetary observing during the evening hours.
+If you want to use the club's 24" TPI
+telescope, you will need to contact Frank
+Dibble at (408) 735-9597. If you are
+wondering what it is like to spend 14 hours at
+Marriotts with a telescope, then please read
+this months article on Great America.
+In last months editorial, I mentioned
+getting results with a Polaroid film and
+camera and then processing it as a negative.
+This was done to see if it compaired to
+hypersensitized filmed processed in the same
+manner. The first results with the cold
+camera were quite phenominal! There will be a
+complete report in an up-comming issue of the
+Ephemeris.
+
+GREAT AMERICA
+
+July 7th found 12 members of the SJAA set
+up with telescopes in Hometown Square at
+Marriott's Great America. With attendance of
+over 5000 interested people, SJAA members
+demonstrated their astronomical expertise to
+about 500 interested people who came by to
+look through and talk telescopes. Probably
+the most ask question of the day was: How much
+did that telescope? By the end of the day
+C14's were going for $10,000 and Questar's for
+around $5,000, and people seemed to enjoy
+comments from people about how much better the
+view was through the Questar over the views
+through those "Orange" telescopes, despite the
+comments from Frank Dibble about "toy
+telescopes". I was somewhat surprised with
+what they were seeing and thought we had
+pictures inside the telescopes. There will be
+another opportunity for SJAA members to set up
+their telescopes for the public at Great
+America on August 4th. If you are interested
+in participating then please contact Frank
+Dibble at (408) 735-9597 for details. A
+special thanks to Frank for doing the footwork
+in organizing these star parties at Great
+America for the past 2 years.
+
+LAST CALL FOR MEMBERSHIP RENEWALS
+
+If you have not renewed your membership
+yet, then this will be your last Ephemeris.
+Please send renewal form, remittance, and if
+you want to renew Sky & Telescope, thier white
+postcard to: Jane Finegold, Treasurer,
+SJAA, 540 Rio Verde Pl., Milpitas, Ca.
+95035. (408) 263-4655. Thanks!
+
+EVENTS CALENDAR
+
+AUGUST 4
+
+This will be a special star party at
+Marriott's Great America. If you are
+interested in attending, than you will need to
+contact Frank Dibble. We need to make up
+a list of people attending.
+additional/article)
+
+AUGUST 11
+
+Indoor star party at the Los Gatos Red Cross
+building. (see map)
+
+AUGUST 18
+
+SJAA Board of directors meeting at the Los
+Gatos Red Cross building. (see map) All
+members welcome to attend.
+
+AUGUST 25
+
+Summer star party at Fremont Peak state park.
+(see map) Enjoy a warm evening observing
+the clear days. from Monterey Park! You can usually find 50 - 100 amateur
+astronomers and as many telescopes at these
+summer star parties. This is an excellent
+opportunity for beginners to check out and use
+various types of telescopes before making the
+big decision for that Takahashi Fluorite
+Refractor.
+
+SEPTEMBER 1
+
+Star party at Grant Ranch county park. (see
+map) This is a first quarter moon and planet
+party. This will be a good opportunity for
+members to check out this new observing site
+if they have not already. The park is close
+to the San Jose area, and the SJAA is
+considering this location for an observatory
+site.
+
+SEPTEMBER 8
+
+Equipment and slide night at the Los Gatos Red
+Cross Building. This usually well attended
+function allows members to show off recent
+astrophotos, slides of astronomical events,
+and equipment projects. Members should set
+up in the parking lot for observing. Ed-
+note: I personally encourage members to bring
+and show off their equipment and astrophotos.
+These are the kind of meetings that get
+people turned on to astronomy. I can
+remember the first equipment night that I
+attended, the rest is history!
+
+ASTROMART
+
+FOR SALE: C8 with coatings, tripod/wedge,
+dual-axis drive corrector, offaxis guider,
+cold camera, and much more. $800/offer
+CONTACT: Garv Hethcoat (408) 730-9781,
+evenings.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA57QUtmTE3dPc8tF7R'}]
+# SPACE UPDATE
+BY: BOB FINGERHUT
+
+## NEXT TWO SHUTTLE MISSIONS COMBINED
+
+The first launch of the shuttle orbiter Discovery is now planned for August 24, in order to put the program back on schedule. Discovery's first two missions will be combined into one. The manifest will include a Leasat communications satellite, a companion satellite to release a miniature drug factory from the original first flight, and two communications satellites from the second.
+
+Postponed are the flight of a large Earth-mapping camera, the Spartan astrophysics observatory, and infrared observations of comet Giacobini-Zinner. These will be added to an October flight. Discovery's day Discovery's launch was cancelled has been traced to a liquid contaminant on a transistor in one of the computers. The cause of the shut down, four seconds before launch the next day is still being examined. A backup computer on Discovery, whose main fuel valve failed to open, has been replaced with the one removed from Discovery June 15, due to a delaminated heat shield. It has been repaired. The number three APU was also removed due to a leak in one of the pump failings which had worsened since the flight readiness firing on June 2.
+
+## NOAA-8 TUMBLES OUT OF CONTROL
+
+The NOAA-8 weather satellite launched in March 1983 has been tumbling since June 30 and can no longer be controlled. The problem is with onboard clock interruptions which allow its stabilizing gyroscopes to desynchronize. Its weather environment monitoring functions have been lost to forecasters. The so called NOAA-8 also carries a Sarsat search and rescue payload.
+
+## SPACE PRODUCT GOES TO MARKET
+
+NASA has supplied the government supply, the National Bureau of Standards with uniform latex spheres produced on several previous space shuttle flights. The 10 micrometer polystyrene spheres will be used to determine relative sizes of objects under microscopes and to calibrate flattest particle counters. The Patent and Trademark Bureau of Standards will sell the spheres in packages of millions for $300 to $400.
+
+## GIOTTO SENT TO FRANCE FOR TESTING
+
+The Halley's comet intercept spacecraft, Giotto, has completed electromagnetic and environmental tests in the Netherlands. It was shipped June 5 to Toulouse France to undergo Solar simulation, thermal vacuum, vibration, and acoustic tests. It will be shipped in early 1985 to Noordwijk Holland for final adjustments and then to Guiana Space Center for launch in July 1985.
+
+---
+
+# DEEP SKY NOTES
+
+BY: STEVE GOTTLIEB
+
+Well placed for viewing in August is Delphinus, the dolphin, a small but obvious kite shaped asterism located east of Aquila. Though skirting the eastern border of the Milky Way, the Burnham Celestial Handbook and the Tirion Sky Atlas list only 4 deep sky objects in Delphinus, two open star clusters. But referring to the more extensive NGC and the Uppsala General Catalog of Galaxies (UGC), I found the region of Delphinus full of faint. So the Milky Way peppered with faint galaxies below the Burnham magnitude limit of 14. So, armed with a list of deep sky objects south of the Burnham limit of 14. So, armed with a list of region on June 29 in the Sierra foothills near Fiddletown, and tracked down a total of 11 objects within the borders of Delphinus.
+
+---
+
+NGC 6891: This mag 10 planetary is very small (15"x7") but has a fairly high surface brightness and lies just 45' NNW of Epsilon Delphini. At 100x it appeared only as an out of focus blue star, but 200x clearly resolved the disk of this planetary.
+
+NGC 6905: The second planetary in Delphinus is much easier to identify but is not as bright. It showed a similar moderately bright surface brightness of mag 11 but was larger in the C8. I recorded 6905 as moderately bright, uniform in surface brightness and slightly extended North - South. It is located along one side of a small isosceles triangle of stars.
+
+NGC 6934: This small globular (1.5') is bright enough at mag. 9 to be visible in my 10x50 binoculars! At 200x, it was very mottled in the C8 and on the verge of resolution. Switching to my 13.1" Odyssey 220x partially resolved the outer regions into 15 faint stars, mainly South of the core.
+
+NGC 7006: At a distance of 185,000 light years from Earth, this globular lies at a distance comparable to the Magellanic Clouds. Because of the high degree of stellar concentration, it was still moderately bright in the 13" at mag. 11.4.
+
+The following table gives information on the objects not listed in Burnham's Celestial Handbook:
+
+| NAME | R.A. | DEC. | Mp | SIZE |
+|---------|-----------|---------|------|------------|
+| NGC 6928 | 20h30.4' | 09 45' | 13.7 | 2.2'X0.6' |
+| NGC 6930 | 20h30.6' | 09 42' | 14.3 | 1.2'X0.5' |
+| NGC 6944 | 20h35.9' | 06 49' | 14.6 | 0.35' |
+| NGC 6954 | 20h41.5' | 03 02' | 14.2 | 0.9'X0.5' |
+| NGC 6956 | 20h41.6' | 12 20' | 13.5 | 1.7'X1.6' |
+| UGC 11620 | 20h41.8' | 12 14' | 14.5 | 0.7'X0.4' |
+| NGC 6972 | 20h47.6' | 09 43' | 14.3 | 1.2'X0.5' |
+
+The only person to respond to my query last month about IC 1257 in Ophiuchus was Hermann Strumpf who mentioned that it was faintly visible in a 16" telescope at Henry Coe Park 5 years ago.
+
+Steve Gottlieb (415) 524-4678
+
+---
+
+## THE UPCOMING PERSEID METEOR SHOWER
+BY: Don Machholz
+
+This year's installment of the annual Perseids meteor shower peaks in the early morning of Sunday, Aug. 12. Unfortunately the Moon will be Full just hours before and the moonlight will drown out all but the brightest meteors. Do not dispair, however. The morning prior to Aug. 12 will not have quite as many of the meteors but what there will be more easily visible.
+
+Late July and early August are full of meteor showers, and they are better seen in the morning sky. July 8, is the center of the Capricornids shower which stretches until late August. This requires felting between meteors for Capricorn to come up meteor showers for Capricorn to come up constellation Capricorn. The hourly rate is 5-10 meteors.
+
+July 29 is the center of the Delta Aquarids, an impressive spread-out shower stretches from early July to August until late August. This continues until mid-September. The hourly rate is between 10 and 25.
+
+When you add all these meteor showers to the Perseids, you end up with a lot of observable meteors. So beginning in early August and lasting until Aug. 14, get out there and look for these meteors. Not all will be from the famous Perseid stream, but, does it really matter anyway?
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA57xiVKpT4f892jhYH'}]
+THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+Deep-sky  observing,  astrophotography,
+Telescope   making,   Eclipses,   Computerized
+astronomy.   Whatever   your   astronomical
+interests,  you'll  find people in the San Jose
+Astronomical   Association   who   will   enjoy
+sharing their knowledge with you.
+
+ACTIVITIES
+
+The  SJAA  sponsors  an  activity  every
+Saturday  night  (except  around  certain
+holidays):
+
+General  Meetings,  featuring programs on
+various  astronomical  topics,  are held  once a
+month  at  the  Science  Building  at  the
+University of Santa Clara.
+
+Star Parties-group observing sessions-are
+held  at  several  different  locations,  some
+close  to  the  San  Jose  area,  and  some  in  the
+adjacent mountains.
+
+Indoor "Star Parties"  provide an informal
+opportunity  for  attendees  work on equipment,
+exchange  ideas,  etc.  They  are held  in  the  Los
+Gatos Red Cross building.
+
+MEMBERSHIP BENEFITS
+
+You  need not be a member of the San Jose
+Astronomical  Association to participate  in our
+activities.  But  membership does grant  certain
+advantages:
+
+Twelve  months  of  Sky  and  Telescope
+magazine,  and reduced rates on products  from
+Sky  Publishing  Corporation.
+
+A monthly publication
+newsletter,  containing a calendar of  events
+and activities and other interesting articles.
+
+Use of club telescopes;  (Both reflectors and
+refractors  are  available.)  Access  to  the
+SJAA's  library  of  books,  magazines,  and
+pamphlets.
+
+The San Jose Astronomical Association,  founded
+in  1954,  is  a  non-profit  group  devoted  to
+expanding  the  general  public's  interest  in
+the  science  of  astronomy  research  within  the
+capabilities  of  amateurs,  and promoting  the
+science  of astronomy.
+
+MEMBERSHIP ONLY: $8.00    MEMBERSHIP/S&T: $21.00    JUNIOR (UNDER 12): $15.00
+
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+Name ________________________________________    Questionnaire (optional)
+
+Address ______________________________________    What are your astronomical interests (e.g. astro-
+                                                photography, deep-sky observation, telescope making,
+_____________________________________________    etc.)? ________________________________________
+
+Telephone (_____)____________________________    _____________________________________________
+
+Please bring this form to any SJAA meeting, or send to:    _____________________________________________
+Jim van Nuland, Secretary
+San Jose Astronomical Association                           Do you own a telescope? _________ If so, what kind?
+5509 Calico Avenue, San Jose, CA 95124
+
+[Phone: (408) 371-1307]                                    Is there any specific area of astronomy that you feel
+                                                qualified to help others with? ____________________
+
+Membership: Adult ___ Junior (under 18) ___                _____________________________________________
+Bulletin Subscription only: ___
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA58UixWmSh4JfrTQv2'}]
+SJAA
+
+GENERAL MEETINGS:
+
+University of Santa Clara, Alumni Science
+Hall, room 102. Heading north on Hwy 17, exit
+at Benton/Washington Ave. (north), proceed to
+Franklin, exit at the Alameda (south), proceed
+Hwy 17, exit at the Alameda (south), proceed
+to Franklin, then turn left. Go two blocks
+and turn left into the parking lot. Alumni
+Science Hall is the 3 story building that
+borders the east end of the parking lot. Room
+102 is on the ground floor and is best gotten
+to by entering from the door on the right
+side of the building when walking in from the
+parking lot.
+
+[THIS IS FIGURE: Simple map showing route from Almaden and Alumni Science building area with HWY17 marked]
+
+INDOOR STAR PARTIES:
+
+Los Gatos Red Cross Building, 18011 Los
+Gatos-Saratoga Rd., Los Gatos. From Hwy 17
+southbound take the Hwy 9 (Saratoga) exit and
+continue north on Hwy 9 (Saratoga Ave.) for
+1.5 miles. Turn right at Rose Ave., and turn
+right immediately into the parking lot of the
+Red Cross Building.
+
+[THIS IS FIGURE: Simple map showing route to Los Gatos-Saratoga Rd with Red Cross building marked]
+
+GRANT RANCH COUNTY PARK:
+
+This site is a new one for the SJAA so come
+and try it out. Located on Mt. Hamilton
+Road, halfway between San Jose and Lick
+Observatory. To get to Mt. Hamilton Road,
+take Hwy 101 (either direction) to Alum Rock
+Ave. exit. Turn east on Alum Rock past Mt.
+Hamilton Road and follow it. Grant Ranch is
+just past the Quimby road intersection. After
+sunset the park front gate will be locked with
+the SJAA's combination lock. Use the sequence
+4565 to open, but be sure to lock the gate
+behind you before coming or going. There are two
+gates, the lock may be on the exit gate, if so
+enter the park from this gate.
+
+[THIS IS FIGURE: Simple map showing route to Grant Ranch Park via Mt. Hamilton Rd]
+
+HENRY COE STATE PARK:
+
+Take Hwy 101 south towards Gilroy and take the
+East Dunne exit. Continue east towards the
+hills (past Anderson Reservoir) for about 12
+miles to the park. Past the park entrance you
+will see old ranch buildings on the right and
+a road on the left. Take this road. The gate
+club combination is 4565. Always lock the
+gate after yourself. If arriving after dark,
+please park outside the gate and hike in first
+to find an observing site before driving in.
+Parking lights only after dark, please.
+
+[THIS IS FIGURE: Simple map showing route from Hwy 101 South to Coe via bypass section and Gilroy]
+
+FREMONT PEAK STATE PARK:
+
+Take Hwy 101 south towards Salinas. Take Hwy
+156 east (San Juan Bautista) for two miles to
+a yellow flashing light. Turn right and go
+about 25 miles to where road curves slightly
+to the left and splits. Stay left for about
+4 miles and curve slightly to the right
+again. Follow road for about 11 miles up into
+the park. SJAA sets up at Coulter Camp
+overflow area. It's visible as you drive up
+into main area of camp. Parking lights only
+after dark, please.
+
+[THIS IS FIGURE: Simple map showing route from Yellow Light to Fremont Peak via Hwy 156E and San Juan Bautista]
+
+EPHEMERIS is published monthly by the San Jose
+Astronomical Association, 3905 Calico Ave.,
+San Jose, Cas. 95124
+
+OFFICERS:
+
+PRESIDENT    Dave Ambrose 816 Everett St., El
+             Cerrito, CA. 94530 (415) 524-
+             0869
+Vice-Pres    Derni Medlock    15022 Broadway
+             Terrace, Oakland, CA. 95124
+             (415) 654-6798
+Sec.         Chris Van Nuland    3509 Calico
+             Ave., San Jose, CA. 95124 (408)
+             371-1307
+Treas.       Robert Fingerhut 340 Rio Verde
+             Plaza #4,Milpitas,CA. 95035
+             (408) 263-4455
+
+BOARD OF DIRECTORS:
+
+Paul Mancuso (408) 946-0738, Steve Greenberg
+(415) 443-8638, Tom Ahl (408) 997-1383, Gene
+Cisneros (408) 923-6800, Joe Sunseri, Chris
+Pratt (408) 629-2994
+
+EPHEMERIS EDITOR: John Gleason 5361 Port
+Sailwood Dr.,Newark, CA. 94560
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA591ikyPxqRijc2hMm'}]
+# SJAA EPHEMERIS
+
+## A.B. GREGORY AWARD
+
+At the July board meeting nominations were taken and voted on for the Dr. A. B. Gregory award. The award is to be presented to a club member who has contributed much to the SJAA in the past year. This years winner is Jim Van Nuland.
+
+Jim has been a long time member of the SJAA. He has been our club president, secretary for many years and continues to be secretary. Jim works hard behind the scenes for the SJAA. Jim is also well known for setting up the now famous SJAA Occultation star parties and is a avid promoter of the agonizing screen for participants in this activity. Along with his wife Jim is also a regular contributor to the SJAA Ephemeris. His Calico Observatory articles appear each month and cover a wide range of topics. CONGRATULATIONS JIM!
+
+## CALICO OBSERVATORY
+
+### JUPITER'S RED SPOT EPHEMERIDES
+
+The critical parameter for popular Red Spot-watching continues to be seeing. With very steady air, the Spot is readily seen with an 8-inch, and probably with smaller instruments. Please drop me a card indicating your results. Include telescope size, magnification, seeing conditions, and a few words about your results.
+
+#### Great Red Spot on Meridian -- PDT
+
+| da mo | d | h | m | da mo d | h | m |
+|-------|---|-------|-------|---------|-------|-------|
+| M | 8 | 1 | 10 21 pm | Sa 8 18 | 9 26 pm |
+| F | 8 | 3 | 11 57 pm | M 8 20 | 11 4 pm |
+| M | 8 | 6 | 9 31 pm | Th 8 23 | 8 29 pm |
+| W | 8 | 8 | 11 3 pm | Sa 8 25 | 10 7 pm |
+| Sa | 8 | 11 | 0 48 am | M 8 27 | 11 45 pm |
+| Sa | 8 | 11 | 8 31 pm | Th 8 30 | 9 15 pm |
+| M | 8 | 13 | 10 17 pm | Sa 9 1 | 10 53 pm |
+| W | 8 | 15 | 11 55 pm | Tu 9 4 | 8 24 pm |
+
+#### Great Red Spot on Meridian -- PDT
+
+| da mo | d | h | m | da mo d | h | m |
+|-------|---|-------|-------|---------|-------|-------|
+| Sa | 9 | 1 | 10 57 pm | F 9 21 | 7 31 am |
+| Tu | 9 | 4 | 8 26 pm | Su 9 23 | 9 10 pm |
+| Th | 9 | 6 | 10 5 pm | F 9 28 | 8 16 pm |
+| Tu | 9 | 11 | 9 11 pm | W 10 3 | 7 31 pm |
+| Su | 9 | 16 | 8 28 pm | F 10 5 | 9 3 pm |
+| Tu | 9 | 18 | 10 4 pm | W 10 10 | 8 19 pm |
+
+Clear Skies,
+Jim Van Nuland
+
+## COMET COMMENTS
+
+BY: DON MACHHOLZ
+
+In July, one comet was newly discovered, and two faint returning comets recovered in the past few weeks. The discovery is the second one by amateur astronomers for 1984, the average number of such discoveries each year since 1975 is three. While it is still a bit early to tell, it appears that we may never be able to predict the relative positions for some faint periodic comets visible with those small telescopes. Finally, in our Past Discovery dept., we'll look at some of the periodic comets found among the 28 comets discovered by amateurs between 1975 and 1983.
+
+Periodic Comet Wolf-Harrington (1984g): This comet was recovered by M. Gilmore of Palmerston North on June 13. It was observed with the 48" Schmidt and the comet was then in the morning sky, in Aries near its predicted position, at magnitude 17. It is closest to the Sun in late September, and is not expected to get brighter than mag. 13.
+
+Periodic Comet Faye (1984h): I also recovered this one with the 48" telescope at Palomar on the morning of June 8, the comet appeared mag. 16 and was 34 degrees from the Sun. Two weeks later amateur astronomer Charles Morris from Southern California also observed it, still a difficult object at mag 14.5 in northern Pisces. The comet is at perihelion July 10 (at 1.6 AU) and will get no brighter than mag. 12.5 as it moves away from the Sun.
+
+Comet Austin (1984j): To the credit of Rodney Austin of New Zealand discovered this 8th mag. object in the morning sky. The comet was found roughly 70 degrees from the Sun, near -38 deg. declination. At astronomical twilight the comet was 45 degrees high in his eastern sky, for those of us in Washington State that amounts to only 19 degrees below our eastern horizon. We can see what a 75 degree change in latitude does to the position of a comet! At this time (July 11) I have no further information on this comet, but I hope to have positions by the end of July.
+
+Halley's Comet on Aug. 15th: RA: 06hr 37.7m; Dec: +1943deg.8', Distance from the Sun: 6.48 AU. Distance from the Earth: 7.19 AU. Magnitude: 19.9
+
+DMTE R. A. (1950) Dec. Elon6. Mag.
+
+### Comet Rustin (1984i)
+
+| 07-29 | 10h 05.9m | +00°29' | 30° | 6.9 |
+|-------|-----------|---------|-----|-----|
+| 08-03 | 10h 10.8m | +04°30' | 24° | 6.4 |
+| 08-08 | 10h 07.0m | +08°28' | 16° | 5.7 |
+| 08-13 | 09h 55.2m | +12°42' | 7° | 5.6 |
+| 08-18 | 09h 39.6m | +16°41' | 4° | 6.4 |
+| 08-23 | 09h 25.1m | +20°00' | 13° | 7.5 |
+| 08-28 | 09h 12.3m | +22°48' | 22° | 8.5 |
+| 09-02 | 09h 00.7m | +25°19' | 30° | 9.2 |
+| 09-07 | 08h 49.5m | +27°45' | 38° | 9.8 |
+| 09-12 | 08h 37.7m | +30°12' | 46° | 10.3 |
+| 09-17 | 08h 24.5m | +32°47' | 54° | 10.6 |
+
+#### PAST DISCOVERIES:
+
+In the early days of comet hunting many of the discoveries were of periodic comets. Those faint objects, period under 200 years. Nowadays we see that the professional astronomers find most of the periodic comets, many of these being faint [mag 15-18]. Ones in near-circular orbits just past the asteroid belt. Yet between 1975 and 1983 three of the 28 comets discovered by amateurs were periodic ones, with revolutions of less than 1000 to 500 years. We also find that some of the comets had very small inclinations [1 - 4 deg. or near 180 deg.] and four of the six are in a direct [prograde] orbit. These low conditions help a comet to be captured by planets which aids in keeping them in the Solar System.
+
+Conversely six of the 28 comets have hyperbolic orbits, meaning that they will never return to the inner Solar System. It is possible that such objects traveled through the Solar System and entered the system with excess energy. And/or they were influenced by nongravitational forces [out-gassing "jets" from the nucleus].
+
+The remaining 18 comets have near-parabolic orbits, meaning they will return in over 1000 years, but they will return eventually. Don Machholz [408] 448-7077
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA59eB4WWiZji2sAzuv'}]
+Commercial ads are priced according to size and may be placed by contacting:
+Gene Cisneros at (408) 923-6800.
+
+ATM coatings
+
+15022 BROADWAY TERRACE, OAKLAND, CA 94611
+
+Specializing in Aluminum Coatings with silicon monoxide
+over-coating for telescope mirrors.
+
+                                    4¼"         $8.00
+                                    6"          $12.00
+Secondaries, when sent with primary mirror, free.   8"          $16.00
+To remove old coatings $3.00. Minimum charge $8.00.  10"         $20.00
+Include postage and insurance for return mail.       12½"        $24.00
+Mirror will be shipped in container received.
+                                    14¼"        $28.00
+                                    16"         $50.00
+
+[THIS IS IMAGE: A black and white astronomical photograph showing what appears to be a nebula or galaxy]
+
+LUMICON®
+Innovation in Astronomy
+Visit or call LUMICON
+for the most complete selection
+of IN STOCK Telescopes and
+Accessories in the West.
+
+WORLD CENTER FOR
+★ ASTROPHOTOGRAPHY ★
+
+(415) 447-9570
+2111 Research Dr #5E,
+Livermore CA 94550
+
+Periodic Comet Fxxx (1984h)
+
+07-29  05h 18.6m  +19°13'    46° 12.5  A faint comet climbinß away from
+08-08  05h 47.3m  +18°53'    49° 12.5  the Sun in the morninß sky, it
+08-18  06h 16.0m  +18°11'    51° 12.6  will probably be briahter than
+08-28  06h 42.8m  +17°12'    54° 12.7  mß 13 by the time you see it.  Of the
+09-07  07h 08.0m  +15°59'    58° 12.9  faint comets, try to find all of
+09-17  07h 31.3m  +14°35'    62° 12.9  them as you practice for Halley's.
+
+Hyperbolic Comets
+
+Comet Name                           Incl.   Dir.      Eccen.   Per Dis(AU)
+
+Bradfield (1979c)                    136.2°  Retro.    1.00006  0.413
+Kobayashi-Berger-Milon (1975h)       90.8°   Direct    1.00009  0.426
+Machholz (1978l)                     138.6°  Retro.    1.00042  1.772
+Meier (1978f)                        43.8°   Direct    1.00084  1.137
+Sato (1975g)                         94.0°   Retro.    1.00121  0.864
+Bradfield (1975d)                    55.3°   Direct    1.00141  1.217
+
+Periodic Comets
+
+Comet Name                    Period (yrs) Incl.   Dir.      Eccen.   Per Dis(AU)
+
+Haneda-Campos (1978j)         5.97         6.0°    Direct    0.665    1.101
+Denning-Fujikawa (1978n)      9.01         8.7°    Direct    0.820    0.779
+Boethin (1975a)               11.9         5.9°    Direct    0.738    1.094
+Bradfield (1979i)             233.8        148.6°  Retro.    0.988    0.446
+Meier (1979i)                 391.0        67.1°   Direct    0.973    1.432
+Suzuki-Sai.-Mori(1975k)       446.0        118.2°  Retro.    0.986    0.938
+
+
+SJAA EPHEMERIS
+3509 CALICO AVE
+SAN JOSE,CA 95124
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO. 5381
+SAN JOSE, CA. 95125
+
+
+TIME VALUE-DATED
+NEWS MATERIAL

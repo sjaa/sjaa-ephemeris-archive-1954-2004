@@ -1,35 +1,588 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4ozUspfqSidsSANVG'}]
+JUNE 1984
+
+EPHEMERIS                SJAA
+
+JUNE 10,10 P.M. 0(22:00)LOCAL TIME
+
+SATURN AND MARS HOVER IN THEIR QUASI-CONJUNCTION. THE MOON PLUNGED BETWEEN THEM DURING THE DAY; AS
+SEEN FROM FURTHER SOUTH, IT FAILED TO CLEAR SATURN. IT WILL DO THE SAME TO URANUS DURING THE NEXT DAY.
+THEN IN THE DAY OF JUNE 13 IT WILL AGAIN TOUCH THE EARTH'S SHADOW.--THREE MORE PLANETS REACH
+OPPOSITION: SCARCELY-VISIBLE URANUS AND NEPTUNE AT THE BEGINNING AND MIDDLE AND VERY-VISIBLE
+JUPITER AT THE END OF THE MONTH. THEY RISE LATE BECAUSE THEY ARE ON THE LOW PART OF THE ECLIPTIC.
+
+                                                                                          * ARCTURUS
+VEGA
+*
+
+
+                                         EQUATOR        * PLUTO
+
+                                                                 SATURN
+                                                                    MOON
+                           ALTAIR*                           9
+                                           URANUS           10
+                                    NEPTUNE               MARS            SPICA        ECLIPTIC
+                                         11                                                        REGULUS
+                                    JUPITER      ANTARES
+                           E               SE                S               SW            W
+
+                                                    1
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4pax1U47cF3xDsKNL'}]
+# JUNE
+
+## MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY
+
+**28** | **29** | **30** | **31** | **1** | **2** | **3**
+---|---|---|---|---|---|---
+ |  |  |  | URANUS AT OPPOSITION ON MERIDIAN AT MIDNIGHT | GRANT RANCH STAR PARTY | TAU HERCULID METEORS
+
+**4** | **5** | **6** | **7** | **8** | **9** | **10**
+---|---|---|---|---|---|---
+ALPHA CIRCINIO METEORS | SCORPIID METEORS | ◐ 1st QTR | ARIETID & ZETA PERSEID METEORS MOON AT PERIGEE | LIBRID METEORS | GENERAL MEETING & LECTURE BY JACK MARLING | MOON 0.2°S OF SATURN 4°S OF MARS
+
+**11** | **12** | **13** | **14** | **15** | **16** | **17**
+---|---|---|---|---|---|---
+SAGITTARIID METEORS MARS & SATURN 4.3° APART | MOON 0.5°S OF URANUS | THETA OPHIUCHID METEORS MERCURY 5°N OF ALDEBARAN ○ FULL 14:41 UT | ALPHA SCORPIID METEORS MOON 3°S OF NEPTUNE & JUPITER | LYREID METEORS | RED CROSS & BOARD MEETING | 
+
+**18** | **19** | **20** | **21** | **22** | **23** | **24**
+---|---|---|---|---|---|---
+ |  | CORVID METEORS | OPHIUCHID METEORS | SUN ENTERS GEMINI SUMMER SOLSTICE ◑ 3rd | BETA TAURID & DRACONID METEORS | FREMONT PEAK STAR PARTY GRANT RANCH STAR PARTY | JULY 7 MARIOTTS STAR PARTY JULY 14 SJM PICNIC JULY 28 FREMONT PEAK
+
+**25** | **26** | **27** | **28** | **29** | **30** |
+---|---|---|---|---|---
+
+2
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4sGBPyuZdqDdqz6WP'}]
+THE EDITORS LAST STATEMENTS
+
+It's been a short career(both here and elsewhere) but as they say: All good (and some bad) things must come to an end sometime.
+
+Due to circumstances beyond my control it is necessary for me relinquish my job as editor of the SJAA EPHIMERIS. This will be my last production due to lack of computer and printer.
+
+At the moment we do not have a replacement waiting in the wings to take over this highly rewarding job. PLEASE SOMEONE STEP FORWARD!!!
+
+Any articles are to be submitted to either Bob Fingerhut or Jim Van Nuland but we (they really) do not guarantee that they will be printed until a full fledged editor is found. The calander will be printed and mailed on time at least.
+
+I would like to thank all of you who have submitted articles to me over the past couple of months.
+
+Clear Skies and Dry Optics,
+Tom Ahl
+
+P.S. Contributions to reacquire my equipment will be greatly accepted. HaHa.
+
+Volunteers are needed for a Public Star Party at Marriotts Great America Park, Saturday, July 7th from 8:30 a.m to 2 11:00 p.m.
+
+If interested please contact Frank Dibbell at (408) 746-6493 mon. thru fri 8-5.
+
+Last year we had a great turn-out at the park.
+
+May 19th, Saturday, OPTRON SYSTEMS closed its doors for the final time. Further information will be forth coming in the next bulletin.
+
+LEGAL STATUS REPORT
+
+The amendments to our articles of incorporation have been accepted by the state. Our attorney has reviewed the rough draft of the state and federal applications. All that remains is to type them up. I am presently working on this. It should be completed within 3 or 4 weeks at the present rate of progress. At that point, we will send them into the Feds. After that application has been accepted, we will submit the application to the state.
+Dave Ambross, SJAA President
+
+The SJAA Annual Picnic
+
+This year's picnic will be held July 14 at Portal Park. Traditionally, the picnic has been a reckless potluck. The club provides hamburgers, hot dogs, and enough charcoal to roast a rhinoceros, you provide your favorite side dish and drinkables. Such a deal!
+
+This is DEFINITELY a family affair so plan on bringing your wife, kids, something edible to share, and your favorite outdoor toys. There is sure to be kite flying, insult trading, survival frisbee and whatever else we can think of. We will also be presenting the Dr. Gregory Award and introducing the new officers and board members. The picnic has always been a fun event for everyone so circle the 14th and be there.
+
+Portal Park is in Cupertino just off of Stevens Creek Blvd. near DeAnza Blvd.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4sjThCvCE4H7Acdde'}]
+EVENT CALENDAR
+
+JUNE 2 GRANT RANCH STAR PARTY (see map)
+     9 GENERAL MEETING & ELECTIONS AT UNIV. SANTA CLARA (Alumni Science
+Bldg. Rm 201 8:00 p.m) guest speaker will be Jack Marling from
+LUMICON
+     16 RED CROSS INDOOR STAR PARTY at Los Gatos Red Cross + BOARD MEETING
+        (Doors open 9 7:30 p.m.)
+     23 FREMONT PEAK STAR PARTY
+     30 GRANT RANCH STAR PARTY
+JULY 7 MARRIOTT'S GREAT AMERICA STAR PARTY (see article)
+     14 SJAA PICNIC, PORTAL PARK (see article)
+     21 RED CROSS INDOOR STAR PARTY & BOARD MEETING
+     28 FREMONT PEAK STAR PARTY
+AUG. 4 GENERAL MEETING (guest speaker to be announced)
+     11 RED CROSS INDOOR & PARKING LOT STAR PARTY
+     18 RED CROSS INDOOR STAR PARTY & BOARD MEETING
+     25 STAR PARTY (to be announced)(possible Yosemite sight)
+
+
+TIME FOR MEMBERSHIP RENEWAL IS RIGHT NOW!!! Avoid the rush and the missing
+issues of Sky & Telescope & Astronomy Magazines.
+     Just a short little note concerning membership dues for new members just
+joining the SJAA. The dues are from July 1st to June 30th, and when new members
+sign up later during the year their dues will be prorated for the remaining
+months left. If a new member signs up within 4 months of renewal time Sky &
+Telescope requires that you also pay for next year's subscription. Any questions
+on this please contact Bob Fingerhut (408) 263-4455.
+
+Calico Observatory
+
+3509 Calico Ave.
+San Jose, Cal. 95124
+(408) 971-1307
+
+1984 May 13
+
+     In June, Jupiter reaches the evening sky at last! Note that on three
+dates, the Spot is visible twice! These pairs are separated by a daylight
+passage of the Spot.
+
+Great Red Spot on Meridian -- PDT
+
+da mo d   h  m           da mo  d   h  m
+Sa  6 2   3  9 am        Tu  6 19   1 60 am
+M   6 4   4 42 am        Th  6 21   3 43 am
+Tu  6 5   0 37 am        Th  6 21  11 28 pm
+Th  6 7   2  8 am        Su  6 24   1  9 am
+Sa  6 9   3 44 am        Tu  6 26   2 47 am
+Sa  6 9  11 42 pm        Tu  6 26  10 37 pm
+Tu  6 12  1 20 am        F   6 29   0 18 am
+Th  6 14  2 56 am        Su  7  1   1 51 am
+Su  6 17  0 20 am        Tu  7  3   3 27 am
+
+     Despite the matching character set, this article was not set on Tom's
+Macintosh, but rather on my IBM PC. It's just that Apple and I had the good
+taste to buy the same printer. But watch this space!
+
+Clear Skies, Jim Van Nuland
+
+4
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4tFDfZVA2cvmeFC51'}]
+SPACE (THE FINAL FRONTIER) UPDATE    by Bob Fingerhut
+
+DISCOVERY BEING PREPARED FOR JUNE 20 LAUNCH -
+    The shuttle orbiter, Discovery, was scheduled to be moved from the orbiter
+processing facility to the vehicle assembly building for stacking on 7 May. It
+is scheduled to go to the pad on 14 May. A 20 second flight readiness firing is
+scheduled for 31 May. This is standard procedure for a new shuttle orbiter.
+Launch is scheduled for 20 June. The mission, 41-D, is planned to last seven
+days with a crew of six.
+
+SHUTTLE MAIN ENGINE CERTIFIED FOR 20 FLIGHTS -
+    The engines have completed certification requirements for 20 shuttle
+flights at 104% of rated thrust and 8 flights at 109%. An engine is certified
+by accumulating twice as much running time as it would in normal use.
+
+NEW PARACHUTES FOR SHUTTLE SOLID BOOSTERS -
+    The right-hand booster on the next shuttle flight will have 136 ft.-dia.
+recovery chutes. The left-hand booster will use 115 ft.-dia. chutes. One main
+recovery parachute failed to deploy on the last flight on 6 April. The aft
+skirt was damaged but can be repaired.
+
+CANADIAN ASTRONAUT CHOSEN FOR OCT. LAUNCH -
+    The National Research Council of Canada has selected Canadian naval Cdr.
+Marc Garneau to be the first of a number of Canadians who eventually will fly on
+the shuttle. The shuttle flight scheduled for launch on Oct. 24 will carry the
+Telsat Anik D spacecraft and 11 other Canadian sponsored investigations. These
+include a solar photometer to determine the amount of volcanic ash in the
+Earth's atmosphere, a shuttle glow experiment, an Earth night glow study, five
+human space adaptation experiments, a change in taste in zero-g experiment,and a
+getaway special payload involving the manufacture of mirrors in zero-g. Canadian
+shuttle flights also are expected in 1985 and 1986.
+
+CHINA ORBITS A GEOSYNCHRONOUS SATELLITE -
+    China launched a development communications spacecraft on 8 April. It
+reached geosynchronous orbit on 10 April and is now providing television relay
+services. The satellite weighs about 925 lb and is stationed at 125 deg.
+E.long. Its CZ-3 booster used a liquid oxygen/liquid hydrogen high energy upper
+stage. This is a technology which few countries have developed. The soviets
+have not mastered it and it has been one of the biggest deficiencies in their
+space program.
+
+SALYUT 7 RESUPPLY AND REPAIR -
+    The Progress 20 tanker/transport was launched toward Salyut 7 on 15 April.
+It delivered bulk cargo and fuel for the space stations attitude control and
+orbital manuvering system. The Progress 21 tanker/transport was launched the
+week of 7 May. Four space walks have been conducted during the last month to
+repair the Salyut's propulsion system. It was damaged 9 Sept. by a propellant
+leak.
+
+VIKING 1 LANDER IN MARS MUSEUM -
+    NASA has donated the Viking 1 Lander to the National Air and Space Museum.
+The museum has announced that it will remain on Mars for the foreseeable future.
+
+CONTINGENCY LANDING SITES FOR VANDENBERG SHUTTLE LAUNCHES SOUGHT -
+    Sites being considered for first orbit aborts include Easter Island,
+Tahiti, Fairbanks Alaska, and Spokane Washington.
+
+                                            5
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4tmTusRutjCm2mVrB'}]
+DEEP SKY NOTES-JUNE by Steve Gottlieb
+
+Most observers who are familiar with M13 have observed the 12th magnitude galaxy NGC 6207 which is located just 40' northeast of the globular. I was surprised, though, to read in Walter Scott Houston's column last June that a group of faint galaxies were also located about 50' to the southwest. So, in August last year I went searching for this group with my Odyssey 1 near Fiddleton in Amador County at the observatory of Bob Kestener.
+
+After some careful scrutiny, I spotted five galaxies in this local. In one field, a power of 164x yielded a string of 3 galaxies; slightly further west and northwest lay two more. A check in the RNGC revealed only four objects in the area; NGC 6194, 6196, 6197, and 6199. To make matters worse, the relative positions of the RNGC coordinates did not match up with the sketch I made of the field.
+
+Here is what I found: The brightest object (about 13.5 mag.) was the central galaxy of 3 in an 8' string. It was small (0.5'), round, and with a brighter mucleus. Located 5' south-southeast was an extremely faint object visible with averted only. Similar in brightness was a third galaxy located 3' north-northwest of the brighter central object two faint stars bracketted the ends of this trio. Now, moving west, I came across a very small galaxy 16' west-northwest of the trio. This was the second brightest (about 14th mag.) and held steady with direct vision. Finally, I found a small, faint,(though the third brightest at about 14.5 mag.) elongated object in this field 13' north-northeast.
+
+Because of the confusion with the NGC, I sent a letter to Brian Skiff, an experienced observer who works at Lowell Observatory, to seek help in sorting out the situation. He identified the brightest in the trio as NGC 6196 and its 2 much fainter companions as NGC 6197 and IC 4614. The galaxy 16' west-northwest of this group was NGC 6194 and its neighbor 13' north-northeast was UGC 10473 (from the Uppsala General Catalog).
+
+To further pin down the identities (NGC 6199 was still unaccounted for), I checked with Dr. Harold Corwin of the University of Texas, who has done much work on galaxy identification. He replied that in compiling the Second Reference Catalog of Bright Galaxies , he encountered an imprecision in the original NGC and IC coordinates, but he verified Skiff's identifications. He added that both NGC 6196 and 6197 were displaced from their real positions by the same amount. If this correction is applied to NGC 6199 (all 3 were discovered by Marth in July 1864), a 14th mag. star shows up. Since no galaxy exists at the original or offset position this galaxy should be deleted from the NGC. Finally, the IC also lists IC 4613 in this area, but no object is visible at its position. However, 6' south there is another faint unidentified galaxy (which I did not observe) possibly the intended object.
+
+This galaxy group is rather easy to locate due to its proximity to M13 but a 12.5" scope is probably required to pull in the fainter members. If you have a large scope, give this challenging group a try.
+
+NAME         R.A.(1950)      DEC.      MAG.              SIZE
+NGC 6194     16hr. 34.8      36°  34'   14.6              0.35'
+UGC 10473    "    35.1       "    31'   15.0              1.6' x 0.4'
+IC 4614      "    36.0       "    13'   15.3              0.35' x 0.35'
+NGC 6196     "    36.1       "    10'   14.2              1.4' x 1.0'
+NGC 6197     "    36.2       "    06'   15.4              0.7' x 0.2'
+NGC 6199     non-existent--Corwin
+
+Magnitudes are blue photographic from Zwicky,
+             CATALOG OF GALAXIES AND CLUSTERS OF GALAXIES.
+
+Good viewing this month!       Steve Gottlieb (415) 524-4678
+
+
+                                    6
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4uKhuviQNPkGVpeWu'}]
+MAKING AN OBSERVATION SITE OUT OF A "NOWHERE"
+
+A "Road Map" for the Commuting Astronomer
+
+by Don Machholz
+Part 2 of 2
+
+Last month we decided exactly what type of observation site we wanted. This month we'll set out the map and then drive to the top choices and check them out first-hand. These ideas can be useful if you need to move out of our backyards to a better location, if we're going on vacation, or if we've moved to a new region and we're starting from scratch.
+
+I mentioned getting a map of the area, although day and night aerial photographs, difficult to obtain, would be even more revealing. On your map (I use the county or state map) mark your present location and survey the area near your base: where are the houses, city lights, the ocean, the rough side of town, and everything else you wish to avoid? Now, just as important, where are the best potential sites for observation? Where are the mountains, uniform terrain, the areas far-removed from city lights? You would probably be interested in these locations. And finally, are there roads to these places so that you can get there quickly? I find that my average speed over freeways is about 50 MPH, for paved mountain roads and city streets it's 20-40 MPH, and for dirt roads it's about 10 MPH, so block first for the freeway- accessible sites. Bear in mind that some of the lesser roads may not even be marked on the map.
+
+Next, visit the sites, preferably during the day. Is this what you have in mind or are you bothered by the artillery range on the next hill that was marked as "Government Property- keep out!" on your map? Fire the horizons low; is there a place to park your vehicle and set up your telescope safely? Here's a few things you might want to be aware of.
+
+TRAFFIC: Heavy traffic will ruin most observations. Car lights, noise, and the endless stream of visitors who want to know what you're doing and then look through your telescope is not astronomical on any day other than Astronomy Day. So forget about setting up at the rest stop along some freeway, at the teen-age parking hangout, or alongside a runway at the county airport, unless you don't mind the interruptions of a curious society. However, if you set up at a very secluded area, where there is almost no traffic, you may have another problem to worry about, namely:
+
+SAFETY: If you have, say, only one visitor a night, the chances are small that you'll run into that one (or more) crazy person out there who is intent on doing you harm. But, if they do, that person knows that no one is going to come to your aid (this is not even gauranteed on a busy street) for a long time. To station yourself where there is at least some traffic does have it's advantages, especially if the people who know you and stop to see how things are going once in a while. Also concerning safety, don't set up on a snake's nest or by a bear's den or next to a 1000 foot cliff, especially if you're an astronomer who's always looking up!
+
+PRIVATE PROPERTY: Observing from private property can be a great idea, if you have permission to be there. If you don't, you can find out
+
+7
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4uqDKEjrTWTjRH67B'}]
+COMET COMMENTS                                05-13-84
+
+A faint comet has recently been recovered. It should become visible
+in amateur scopes in about a year. Meanwhile, Periodic Comet Wild 2 will
+be brightening to magnitude 11.5 during the next few months, but it will
+be less than 25 degrees from the Sun in the evening sky during that time
+and very difficult to observe. Still, if you wish to try for it, call or
+write me for positions. We'll take a brief look at Halley's Comet, then
+examine the discovery and rediscovery factors for last year's Comet
+Cernis in our Past Discoveries department.
+
+Periodic Comet Giacobini-Zinner (1984e): S. Djorgovski and others
+recovered this comet on plates taken Apr. 3 with the 4-meter telescope
+from Kitt Peak. The comet appeared stellar and was 23 in the
+constellation Virgo at that time, it was later realized that the comet
+was also captured on Jan. 28 from the European Southern Observatory.
+This comet will be closest the Sun in the middle of next year, the U. S.
+is also sending a spacecraft to it at that time.
+
+Halley's Comet on June 15: RA:06hr 12.5m; Dec.:+13° 55.4'. Dis. from
+Sun: 6.97 AU. Dis. from Earth: 7.95 AU. Mag.: 20.4.
+
+PAST DISCOVERIES
+
+Comet Cernis (1983l): This comet was discovered by Kazimeras Cernis
+of the USSR on the morning of Tues., July 19, 1983. This is his second
+discovery, his first being Comet 1980k some three years before. Cernis
+hunts comets with a 15", f/5 reflector at 65 power at a rate of about 100
+hours per year.
+
+The comet was found at magnitude 10.7, RA: 02hr 43m, Dec.: +11° 44',
+73 degrees from the Sun in the morning sky. Comet Cernis was a distant
+3.46 AU from the Earth and 3.32 AU from the Sun. It appeared diffuse,
+about 1.5' in diameter, and was moving due south at a slow 0.2°/day. The
+Moon was three days past First Quarter and nearing the Full Phase. On
+the day of discovery the comet was closest the Sun.
+
+Could the comet have been discovered earlier? In mid-June, five
+weeks before discovery, the comet was at mag. 11.1 and 48° from the Sun
+in the morning sky, increasing that distance at 1°/day. At about
+declination +16, the comet was well placed for comet hunters, but on the
+faint side and very small (it would have been less than 1' in diameter)
+and diffuse. These conditions would have made it a difficult find. As
+the Moon cleared the morning sky in early July the comet was at mag. 10.9
+and 60° from the Sun, and it would have been an easier object than it was
+two weeks previous. So early July would probably be the first good
+opportunity for discovery, and indeed the discovery followed two weeks
+later.
+
+After discovery the comet brightened to mag. 9.0 as it continued
+moving away from the Sun in the morning sky. This was the third and
+final amateur discovery for 1983.
+
+What if the ascending node had changed by 90°? Then the comet would
+have been discoverable in mid-Feb. 1983 in the evening sky, at mag. 10.6
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4vMDjmHxoXQ4izK69'}]
+who owns it by calling the county clerk's office (in most areas) and
+asking them. When the police stop by- and they are bound to sooner or
+later- this is usually their second concern (after they look through your
+telescope). So be prepared to show some knowledge of whose property
+you're on and that they approve of this arrangement.
+
+ENVIROMENTAL FACTORS: I know of one site which contains a large
+puddle for weeks after the last rain- an example of poor drainage or
+underground water. Another site is nearly always windy. A third smells
+like hay and bothers my sinuses. These are those little things you don't
+see on a map but they can drive you crazy after a few nights.
+
+The final check is for darkness, made after sunset, and I've found
+that even on Full Moon nights this can be done to some extent. What we
+want to see is the intensity, direction and location of all the
+artificial light sources that can be seen from the site. Can they be
+filtered out? Can they be masked in some way? Are they left on all
+night?
+
+Isn't this what you've always wanted in an observing site, and more?
+If not, then try another place on the map. I've found myself setting up
+in some strange places in the Past: behind a motel parking lot in
+Tombstone, Arizona; at the county dump in Alamogordo, New Mexico; while
+on a barge on the Panama Canal; and at the edge of a golf course in a
+puddle of freezing water. Me astronomers are a wierd lot, but what
+would you rather be doing than looking through your scope from the ideal
+observing site? So stop complaining about the city lights, haze,
+unsteady atmosphere and high horizons- rather- Pack up your telescope and
+GET OUT OF TOWN!
+
+[IMAGE: Flying saucer illustration]
+
+EPHEMERIS is published monthly by the San Jose Astronomical Association,
+3509 Calico Ave., San Jose, Ca. 95124
+
+Officer:
+President    Dave Ranzone   816 Everett St., El Cerrito, CA. 94530
+             (415) 521-0969
+Vice-Pres    Daryl Ferzioco  15029 Broadway Terrace, Oakland, Ca. 94611
+             (415) 654-0796
+Sec.         Donald Machholz  3509 Calico Ave., San Jose, Ca 95124
+             (408) 371-1307
+Treas.       Robert Fingerhut  340 Rio Verde Place, #4, Milpitas, Ca.
+             95035  (408) 263-4455
+
+Board of Directors:
+Paul Mercado           (408) 946-0716    Steve Greenberg  (415) 843-6638
+Ted Ford               (408) 997-1583    Gene Cisneros    (408) 972-8006
+Jim Ellott             (415) 359-4242    Dave Ranzone     (415) 521-0969
+Bulletin Editor: Tom Ahl   1260 Butterfly Dr. San Jose, 95120
+
+in Leo Minor, 150° from the Sun. It would have then gone behind the Sun,
+brightening again in early Nov. 1983 at mag. 10.6, 110° elongation in the
+morning sky.
+
+If the ascending node had changed by 180°, the comet could have been
+found in the morning sky about 110° from the Sun in mid-March, 1983 at
+mag. 10.7 and near the equator.
+
+If the ascending node had changed by another 90°, the comet could
+have been found in mid-May 1983 in the morning sky, about 55° from the
+Sun at mag. 10.7 and declination -6°. So in all four instances the comet
+would have been found, but in no case would it have been brighter than
+mag. 8.5.
+
+Don Machholz
+(408) 448-7877
+
+9
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4vuhdDa5bxNLjRiTV'}]
+# ASTRONOMICAL SOCIETY OF THE PACIFIC
+
+1290 24th Avenue • San Francisco, California 94122 • 415/661-8660
+
+## Officers and Staff
+
+president
+David Morrison
+
+president elect
+Sidney Wolff
+
+secretary-treasurer
+John G. Phillips
+
+executive officer
+Andrew Fraknoi
+
+projects coordinator
+Sherwood Harrington
+
+membership secretary
+Lucile Taber
+
+design coordinator
+Janet Doughty
+
+bookkeeping
+Carolyn Schmidt
+
+## Board of Directors
+
+Karl Henize
+NASA Johnson Space Ctr.
+James Hesser
+Dominion Astrophysical
+Observatory
+Robert Kraft
+Lick Observatory
+Edwin C. Krupp
+Griffith Observatory
+Ashley McDermott
+Western Amateur
+Astronomers
+Catherine Pilachowski
+Kitt Peak National
+Observatory
+Allan Sandage
+Mt. Wilson and
+Los Campanas Observatories
+James Scala
+Shaklee Corp.
+Frank Shu
+University of California
+Berkeley
+Silvia Torres-Peimbert
+Universidad Nacional
+Autonoma de Mexico
+Sidney Wolff
+University of Hawaii
+
+For more information, contact:
+Andrew Fraknoi (415) 661-8660
+
+For your organization's newsletter
+
+UPDATE ON THE
+A.S.P. - W.A.A. - A.A.N.C. CONFERENCE
+AT U.C. SANTA CRUZ
+
+The 1984 joint meeting of the Astronomical Society of the Pacific, the Western Amateur Astronomers, and the Astronomical Association of Northern California will take place from July 7 - 13, at the University of California, Santa Cruz.
+
+The following events have now been added to the program:
+
+1) a special insiders' tours of the NASA Ames Research Center and the Kuiper Flying Observatory (with a 36-inch telescope on board) on Friday, July 13th
+
+2) a public lecture by Dr. Robert Parker, the astronaut who flew in the first Spacelab mission aboard the Space Shuttle (Wednesday evening, July 11th)
+
+3) a nontechnical talk by Dr. John Brandt, project scientist for the U.S. spacecraft going to Comet Giacobini-Zinner and by Steve Edberg, amateur observations coordinator for the International Halley Watch (Saturday, July 7th)
+
+4) a nontechnical lecture by Dr. William Kaufmann on the earliest moments of the universe (Tuesday, July 10th)
+
+There are still spaces available on the tours of Lick Observatory and inexpensive dormitory rooms are reserved at the university.
+
+Meeting registration packets have been sent to all amateur clubs in the Western U.S. To get one, ask your club officers, or write to:
+
+Summer Meeting
+A.S.P.
+1290 24th Ave.
+San Francisco, CA 94122
+
+10
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4wUgnicFFFrnP6zHs'}]
+# OBSERVATION PLEASE END
+
+For several years now the SJAA has been talking about a permanent place of some sort to call home. This goes for all the branches scope for use by members and friends. Some such centers have been of the clubs and has received strong personal support. The constructed with more or less success. Some rock groups has been slow but already. Now the idea has come to all of the SJAA's and for the first time the organization has an active membership that can really turn about itself. Consider the following:
+
+Building Project is an extensive project that includes a site to permanently house the SJAA activities including telescope making and observational viewing. The site will locate telescope shelters. This project, unlike some previous observational site proposals. It has significantly been extended to be limited to one specific site but including rather various observations, perhaps a few acres to allow for a few hours travel to various locations for dark sky viewing or for a small special visit, all to be supervised and maintained to be limited only to membership. The possibilities were not realized and your Board seriously pursued several possibilities and in response to it you later should seriously pursue several possibilities and so on. There were not as yet realized and your Board would like to move from a members' upgradable as to where to a site accessible and understandable more than just only a small site should be readily available and close to the site to get the site surely going to increase overnight and make the time to make the most economic sense being in fund accessibility and cost. The request to address in this proposal is for the project be set aside for future review. Project goals are: [1] To set up a rural setting with some sort of fee to set real use of it as 30 minutes is a member who for a test goal for the first year of full pledge programs if sign up by four-people who are able on both ends for real efforts for two years or about 12 to 24 members who would pledge their time and suggestions, maybe their efforts for several years along if realistically being able goals for a minimum telescope that can be seen and used for the SJAA.
+
+The goal for the first year of full pledge programs is sign up of full-board members and making time project, a reality. Please support that as called raising your ideas and suggestions and maybe your efforts toward establishing a permanent site for the SJAA.
+
+The Board of the SJAA.
+
+---
+
+# I
+
+[ ] $20, [ ]$_______       a month for the next ______months. I understand that
+be funds raised are to be used solely toward establishing a permanent site
+for the S.J.A.A.
+
+signed________________     date________
+
+---
+
+Please make checks out to the San Jose Astronomical Association and mail to:
+
+Robert Fingerhut
+Treasurer, S.J.A.A.
+Milpitas, Ca. 95035
+
+---
+
+# MEMBERSHIP
+
+Please send renewed form, rental office, and if you want to receive 30 REAL letters - JAMA's are $8 per year payable to: Board of Fingerboard, Treasurer. San Francisco, Santa Clara Co. But Fingerboard, Treasurer. 35 Bid Terrace Pl. #1 Millfield Ca. 94956, (408) 263-4427.
+
+# SJAA MEMBERSHIP APPLICATION/RENEWAL
+
+NAME ___________
+ADDRESS ___________
+PHONE ___________     CITY ___________  STATE _____  ZIP _____
+AREA OF INTEREST ___________
+
+MEMBERSHIP/SAT [ ]$21.00   JUNIOR (UNDER 14) [ ]$15.00
+MEMBERSHIP ONLY [ ]$8.00
+
+---
+
+# ATS
+
+14223 BROADWAY TERRACE, OAKLAND CA 94611
+
+Scholarship to aluminum Castings with silicon microcode
+are expanding to __________
+
+14½"
+4¼"
+8"
+12"
+16"
+
+$10.00
+$9.00
+$10.00
+$16.00
+$20.00
+$30.00
+$32.00
+
+[Additional text about aluminum castings and membership details appears to continue but becomes less clear in the image]
+
+---
+
+# LUNICORN
+
+[Additional detailed text about meetings, dates, and organizational information follows but portions are difficult to read clearly in the scan]
+
+---
+
+[There appears to be an astronomical image or photograph in the center-left of the page]
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4wwU7aG9mnrsuK3r9'}]
+SJAA EPHEMERIS
+3509 CALICO AVE.
+SAN JOSE, CA. 95124
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO.5381
+SAN JOSE, CA. 95125
+
+TIME VALUE — DATED
+NEWS MATERIAL
+
+EPHEMERIS

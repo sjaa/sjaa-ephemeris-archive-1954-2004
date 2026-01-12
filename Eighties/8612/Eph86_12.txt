@@ -1,23 +1,348 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAA87ncA6WodEKUQ7JQ'}]
+# EPHEMERIS
+## OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+[Image: Observatory dome illustration]
+
+# DECEMBER 1986
+
+************************************************
+*            DECEMBER  12TH  8  PM              *
+*           NORM  SPERLING                      *
+*    HENRY  FITZ  -  TELESCOPE  MAKER          *
+************************************************
+
+DECEMBER    6  BOARD MEETING 7 PM AT THE LOS GATOS RED CROSS BUILDING.
+                INDOOR STAR PARTY TO FOLLOW AT 8 PM.
+
+DECEMBER   13  GENERAL  MEETING  8  PM.  HENRY FITZ, TELESCOPE MAKER.
+                PRESENTATION BY NORM SPERLING.
+
+DECEMBER   20  NO ACTIVITY SCHEDULED THIS WEEKEND
+
+DECEMBER   27  FIELD  EXPEDITION  FOR  ASTRONOMICAL  OBSERVATION  TO
+                FREMONT PEAK STATE PARK.  DUSK TILL DAWN
+
+JANUARY     3  GENERAL MEETING 8 PM.  SPEAKER TO BE ANNOUNCED
+
+JANUARY    10  INDOOR  ASTRONOMY  CLASS  BEGINS 2ND SESSION.  8 PM LOS
+                GATOS RED CROSS BUILDING.
+
+JANUARY    17  INDOOR STAR PARTY. LOS GATOS RED CROSS BUILDING.  8 PM.
+
+## FIELD OF VIEW
+### BY: JOHN GLEASON
+
+[Image: Binoculars illustration]
+
+#### DECEMBER 13TH GENERAL MEETING
+
+Guest speaker Norm Sperling will present a talk on the historical aspects of early telescope making in America. Henry Fitz, whose early work has largely been eclipsed by Alvin Clark and sons, will be the subject of this evenings history lesson.
+
+#### GENERAL MEETING DATE MOVED STARTING JANUARY '87
+
+So as not to interfere with prime observing weekends, our monthly General Meetings have been moved from the 3rd Saturday every month to the 1st Saturday each month for 1987. Be sure to mark your calendars.
+
+#### VOLUNTEERS NEEDED
+
+The SJAA is looking for volunteers for a school-yard star party on January 7th at 5 pm. To be held at Castlemont Elementary School, 3040 Payne Ave, east of Winchester, we will need lots of telescopes since the entire school has been invited. Should you be interested, please contact Jim Van Nuland at 408-371-1307 or Dave Klausner at 408-374-4653.
+
+#### CCT UPDATE
+
+Two technical updates to the CCT evaluation that ran in the November issue. First, the power consumption is 10 Amps not the 18 Amps as originally reported. Kevin Medlock tells me that the 18 Amps was only an original estimate by Mike Simmons, Second, although Kevin has not yet received any factory production samples of the power supply, we can almost be assured that the muffin fan in the supply should be quieter than the one used for the production prototype. Finally, thanks to each and every one of you who gave me the positive feedback about the CCT evaluation. It answered a lot of questions that you had about the product, but I'm not sure if I can answer all your questions about Celestron. No, I have not ordered mine yet. You see, there is this minor flouride rinse. Watch for this same evaluation to appear in an upcoming issue of ASTRONOMY magazine.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAA8gGV3osbm7GLRFH2'}]
+FREMONT PEAK OBSERVATORY
+BY: DENNI MEDLOCK
+
+[IMAGE: Simple line drawing of an observatory dome with telescope visible through an opening]
+
+When the Fremont Peak Observatory was officially dedicated on August 30, 1986 a new era for amateur astronomy in Northern California was opened up. The Fremont Peak Observatory represents an unique concept in our area, perhaps in the United States, in which a relatively large telescope, located on a dark sky site, is now easily accessible to the public and observers at large for their unrestricted use.
+
+Because the Fremont Peak Observatory Association is a cooperating association and not an astronomical "society" or "club" its members and volunteers have come together from all over the United States to support the observatory and its program. The San Jose' Astronomical Association has many members who donated money and labor to the construction of the building. Bob Fingerhut is the FPOA President while John Gleason, Frank Dibbell, Kevin Medlock and myself are SJAA members serving on the FPOA board of directors.
+
+The primary instrument, a 30" f/4.8 Newtonian-Cassegrain on an English cross-axis mount is privately owned by Kevin Medlock and leased to the FPOA. Since "first light" on August 29th the telescope has been actively in use on every clear weekend since and many week nights in between. Though annual membership in the FPOA ($10) is required by the State for private use of the 30", free public viewing will start officially in April, 1987 on New and First Quarter Moon weekends. Theoretically, an instrument the size of the 30' can reach approximately 16th magnitude. The relatively dark skies of the peak and the locale of the observatory allows spectacular views of normally faint or "impossible" objects such as Stephen's Quintet, the Draco Planetaries, and Omega Centaurus. On objects such as the Dumbbell, Lagoon, Trifid, or Orion Nebula colors are easily discernible. An observer looks "through" to the Ring Nebula and views the central and interior stars without having to use one's imagination!
+
+Take advantage of this unique opportunity to view objects you may never have seen before. (or see your old favorites in a "new light"). Fremont Peak State Park is located 12 miles south of San Jose near the mission town of San Juan Baptista. The observatory is located on the ridge behind the ranger's house and is a ten minute walk from the Madrone Group Camp parking lot. (Do not park behind the ranger's house.) Come early and enjoy the spectacular views of the Salinas Valley and Monterey Bay from the top or discover the shops and restaurants of the town. If you have a telescope of your own bring it too and set up at the Madrone Group Camp. Whatever you may wish to do you will find a friendly, pro-astronomy atmosphere at Fremont Peak and a 30" telescope just waiting to show you a bit more of the universe than before.
+
+For further information on the observatory, Fremont Peak or the FPOA, please call Denni at (415) 654-6796 (Oakland) or any of the SJAA members mentioned in this article.
+
+GALILEO OBSERVATORY
+BY: JIM VAN NULAND
+
+JUPITER'S GREAT RED SPOT
+
+[IMAGE: Simple circular drawing showing Jupiter with bands and the Great Red Spot]
+
+I'm glad to see that Sky & Telescope has continued running the Red Spot predictions -- this is the first time (I've read 1945-1986) they have done so for more than a month. They ran my predictions, just once of course, back when there didn't seem to be any interest. It's good to know that the rest of the world has re-discovered the Great Red Spot.
+
+Jupiter continues to be the main attraction of the early evening sky, at magnitude -2.4. Though smaller now than the 43" last September, it still presents a nice disc at 39 arc-seconds. 100x is sufficient to show details, but as usual on a planet, the more the merrier. You might try about 250x if the air is slightly steady, then wait for the moments of excellent seeing. The Spot is obvious in good air.
+
+I've seen the spot as distinct yellow, during moments of good seeing; others have called it pink or orange (once)! There seems to be a lot of irregularity in the South Equatorial Belt, following (east of) the Spot; ideal to study if you get out too late! Dave Lindemann of Poughkeepsie reports that the Disturbance OL14 is faint, but laps the Spot every 6 weeks or so. He also says that there has been a great deal of transient eddies and festoons. So, go for it! While you are waiting for Orion to rise, study Jupiter for a while. Let
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAA9PS4Lk7XDmpxN6nc'}]
+me know of your results.
+
+Great Red Spot on Meridian PST
+
+da mo d   h m          da mo d   h m          da mo d   h m
+W  12 3   6 25 pm      M  12 15  6 21 pm      M  12 29  7 53 pm
+F  12 5   8  5 pm      W  12 17  8 00 pm      Th 13 1   5 24 pm
+Su 12 7   9 43 pm      Sa 12 20  5 28 pm      Sa 13 3   7  3 pm
+M  12 8   5 31 pm      M  12 22  7 10 pm      M  13 5   8 43 pm
+W  12 10  7 11 pm      W  12 24  8 52 pm      Th 13 8   6 20 pm
+F  12 12  8 45 pm      Sa 12 27  6 15 pm      Sa 13 10  7 55 pm
+
+
+The times in the table are the moment when the Spot will be facing directly
+toward the Earth, best placed for observations. Expect to see the Spot an hour
+before and after the tabular times.
+
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+[Saturn-like logo image]
+
+During October I bought a 10 X 70 binocular from Orion
+Telescope Center in Santa Cruz at an (excellent) sale price
+of $146. Later in the month a chat with Tim Gieseler,
+Orion's general manager, led to a chance to field-test this
+binocular in direct comparison with another 10 X 70 with
+fancier optics.
+
+The instrument I bought was the only 10 X 70 that Orion now lists: it has
+optics conventionally coated with magnesium flouride, and prisms sufficiently
+large but of ordinary glass. Tim has samples of several binoculars that Orion
+was considering adding to its line. One of these was another 10 X 70,
+mechanically identical to the standard one, but with all ten surfaces where the
+light passes between air and glass multicoated, and with prisms made from BAK-4
+glass. I shall spare your the lecture on the physical optics, but the
+perspective advantages of the new instrument include as much as twenty percent
+additional light transmission and a more uniformly illuminated field of view.
+Tim let me borrow the sample for field testing.
+
+On November 1 I had both binoculars at Fremont Peak. It was a fine night.
+Even though there was no fog on the coastal plain, the transparency was superb:
+an 18-inch Dobson with a Lumicon ultra-high contrast filter showed the
+Horsehead Nebula clearly with direct vision at 105x, and I was able to glimpse
+that elusive object though my own unfiltered 8-inch Dobson at 85X.
+
+The difference between the two binoculars was immediately apparent to me. I am
+a moderately experienced observer, but I have no doubt that even a rank
+beginner could be shown what a benefit the special optics were bringing, and
+would be able to profit thereby.
+
+I looked at several objects with both binoculars. I used the Pleiades as a
+star field. The fancy binocular showed more stars than the ordinary one. The
+difference was not great -- the limiting magnitudes of the two instruments
+certainly did not differ by more than a few tenths, which translates to about a
+the calculated increase in transmission. But on extended objects, the special
+coatings really came into their own. M31 was noticeably larger in both
+dimensions. The long broad streak of the galaxy was perhaps half again as
+broad with the fancy instrument as with its simpler cousin. The patch of the
+Veil Nebula that passes by the star 52 Cygni was more clearly defined with the
+special optics, and they also showed a hint of fainter nebulosity between the
+eastern and western arcs of this popular supernova remnant.
+
+M42 was in interesting comparison. Many observers do not think to try averted
+vision on such bright objects, but one of the fun things to do with the Orion
+Nebula is to see how far you can trace it south and west of the Trapezium. The
+multicoated binocular gave a marked advantage here. This is the object I would
+first turn to if I had to demonstrate its real advantages to a newcomer or a
+skeptic.
+
+A final test was the field of Sirius. As I moved the star through the field of
+view of the ordinary instrument, it cast diffuse rays and miscellaneous glow in
+every direction. Some glare was still detectable with the other unit, but far
+less. That pair of observations made it easy to see that the coating were
+really working.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAA9wfcqgziEjHYc79K'}]
+How much are the enhanced optics worth? If I apply my most cynical figure of merit -- photons per dollar -- I conclude that the increased light transmission is probably worth a twenty percent price boost. The particular advantages that it provides in seeing very faint extended objects are harder to quantify, and might be worth more to specialists. Furthermore, the 10 X 70 size is about the largest binocular that most people can comfortably use: it might be worth paying an additional premium to obtain greater performance in an instrument so conveniently light and compact.
+
+Tim said that Orion might have these binoculars in stock by Christmas, but that there would not be any time to advertise them by then. He indicated that Orion may also be carrying several other large binoculars with BAK-4 prisms and multicoated optics.
+
+My conversation with Tim features some other matters of interest. He said that the big Japanese suppliers offered an astonishing number of optical options and combinations with their instruments, so it was definitely not the case that units of similar mechanical appearance were the same thing. With so many different companies buying imported units, it is thereby important to be very careful when comparing the "same" model with different sellers' labels on it.
+
+In addition to the 10 X 70, Tim also had a sample 9 X 65 binocular of similar style. It was interesting to compare the ease of use of 11 X 80, 10 X 70, and 9 X 65 binoculars. I could hold the 9 X 65 with as much ease as a 7 X 50 -- I think my own 7 X 50 may be heavier -- and I could probably use it for hours without tiring, without even thinking about it. I found the 10 X 70 a little more cumbersome. I am comfortable with it for long periods, but it takes a little thought figuring out how to hold it, and I have to change my grip every now and then. The 11 X 80 -- mine is a vintage 1980 Celestron, and they are heavier than some -- is rather a bother. After just a few minutes my hands get tired enough so that it is a chore to keep it steady. Other folks may have more or less of strength or stamina, but my experience surely illustrates the differences in user comfort and satisfaction that these relatively small changes can make.
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+[THIS IS FIGURE: A simple circular diagram showing concentric circles with crosshairs]
+
+A faint new comet has recently been discovered. This is a photographic find by an amateur astronomer. Two other comets are visible too: Comet Wilson is sinking in our evening sky while the morning sky boasts of Halley's Comet.
+
+Comet Sorrells (1986n): William Sorrells, 30, of Pleasanton, CA., photographed supernova remnant S 147, not far from the Crab Nebula, on Halloween night. He was using the Peninsula Astronomical Society's 16" telescope in the Santa Cruz Mtns. When he developed the photo later that night, a short fuzzy streak was seen on the negative. He suspected it could be a comet, so he rephotographed the object from the Foothill College Observatory and he also observed it visually -- all in the same night. This is the first amateur photographic comet find in at least a dozen years. This is also the second amateur comet discovery this year, both taking place from the Santa Cruz Mtns.
+
+Comet Sorrells is in a retrograde orbit: it will be closest the sun next March at 1.7 AU. Between now and Feb. 1987 it will run along a path parallel to and a few degrees north of where Halley's Comet was last year. It will then disappear behind the sun in our evening sky. In late April we'll pick it up again in our morning sky. Magnitude estimates suggest that it will vary between 10.5 and 11.5 until mid-July. Then it will begin to fade rapidly to mag. 15 by next year at this time.
+
+EPHEMERIDES
+
+DATE R.A. (1950) DEC     ELONG  MAG.          NOTES
+
+Comet Wilson (1986L)
+
+11-21  19h 50.3m  -05°19'   62°   10.7  Comet Wilson continues to slowly
+11-26  19h 50.0m  -06°25'   57°   10.6  brighten as it nears the sun. It
+12-01  19h 50.1m  -07°27'   51°   10.5  remains small, but some observers
+12-06  19h 50.7m  -08°25'   46°   10.4  have reported a tail. Comet Wilson
+12-11  19h 51.6m  -09°20'   41°   10.3  is still over 200 million miles from
+12-16  19h 52.9m  -10°12'   36°   10.2  both the earth and sun. Our next
+12-21  19h 54.4m  -11°02'   32°   10.1  chance to see it will occur in March,
+12-26  19h 56.2m  -11°50'   27°   10.0  when we'll lose it until mid-May.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAAkHqRNFWRKGJe4zA'}]
+# Comet Sorrells (1986n)
+
+| 11-21 | 03h 57.8m | +28° 57' | 170° | 10.9 | This comet appears very small, about |
+|-------|-----------|----------|------|------|--------------------------------------|
+| 11-26 | 03h 23.7m | +28° 24' | 168° | 10.8 | one arcminute in size, so switch to |
+| 12-01 | 02h 49.3m | +27° 18' | 158° | 10.7 | higher power after finding the field.|
+| 12-06 | 02h 16.5m | +25° 40' | 146° | 10.6 | Comet Sorrells is a few degrees N.   |
+| 12-11 | 01h 47.2m | +23° 44' | 134° | 10.7 | of the Pleiades on Nov. 23 and just |
+| 12-16 | 01h 21.9m | +21° 42' | 123° | 10.7 | N. of *A* Aries on Dec. 8. By       |
+| 12-21 | 01h 00.9m | +19° 44' | 113° | 10.7 | month's end you'll find it south of |
+| 12-26 | 00h 43.6m | +17° 58' | 103° | 10.8 | the Square of Pegasus. During Dec.  |
+| 12-31 | 00h 29.6m | +16° 24' | 95°  | 10.9 | the comet will be up all night.     |
+| 01-05 | 00h 18.4m | +15° 04' | 87°  | 10.9 | These pos. may be up to 1 deg. off. |
+
+## WHAT GOES AROUND COMES AROUND -- HALLEY'S COMET
+
+Let's take a quick look at predictions for Halley's Comet 148 years from now. While the 2061 visit of Halley's will be good, the following visit, in the year 2134, will be even better. At that time the comet will approach to within eight million miles of earth-the closest since the year 837.
+
+There is no telling when the comet would be recovered, by then it would probably be under constant observation, perhaps by a spacecraft flying alongside. By Nov. 2133 it should be about mag. 10, slowly brightening to mag. 8 by mid-Feb. 2134. Then it will disappear behind the sun in the evening sky. In April 2134 it appears in the morning sky, rapidly approaching the earth as it recedes from the sun. It also rapidly moves south, and at closest approach (May 7) it is visible only from the Southern Hemisphere. It then races north, fading in the summer evening sky.
+
+Even though the comet will be very close to the earth, and it might be as bright as mag. -1, it will have a low surface brightness and will be difficult to see unless viewed from dark skies. However, large earth-orbiting telescopes should be able to view the nucleus.
+
+Halley's Comet is still visible to us now. On Nov. 1, I viewed it at mag. 12 and 1 arc-minute in diameter. Here are positions, elongations and magnitude estimates for Comet Halley. For year 2000 coordinates, add 2.4 minutes R. A. and then add 15 arc-minutes to the Dec., making it further east and south. Also given is the comet rise time (HC) and the morning astronomical twilight time (AT) for standard longitudes (75°, 90°, 105°, and 120° W.) for two latitudes. Subtract four minutes for each degree you're located east of these longitudes, or add four minutes for each degree west. Finally, I list the distance in millions of miles from the comet to the earth and from the comet to the sun.
+
+## Periodic Comet Halley (1982i)
+
+| Date  | RA (1950)  | Dec      | El. | Mag. | HC+40°AT | HC+30°AT | EARTH (DIS) SUN |       |
+|-------|------------|----------|-----|------|----------|----------|-----------------|-------|
+| 11-21 | 11h 40.2m  | -14° 14' | 58° | 12.0 | 0232 0517| 0217 0506| 423.6          | 382.8 |
+| 11-26 | 11h 40.2m  | -14° 35' | 63° | 12.0 | 0214 0521| 0158 0510| 421.1          | 387.6 |
+| 12-01 | 11h 39.9m  | -14° 54' | 67° | 12.0 | 0155 0526| 0139 0513| 418.3          | 392.4 |
+| 12-06 | 11h 39.2m  | -15° 13' | 72° | 12.1 | 0136 0530| 0119 0517| 415.2          | 397.1 |
+| 12-11 | 11h 38.2m  | -15° 30' | 77° | 12.1 | 0116 0534| 0059 0520| 411.8          | 401.9 |
+| 12-16 | 11h 36.8m  | -15° 45' | 82° | 12.1 | 0056 0537| 0038 0523| 408.3          | 406.5 |
+| 12-21 | 11h 34.9m  | -15° 58' | 88° | 12.1 | 0035 0540| 0017 0526| 404.6          | 411.2 |
+| 12-26 | 11h 32.7m  | -14° 09' | 93° | 12.1 | 0014 0542| 2356 0528| 401.0          | 415.8 |
+| 12-31 | 11h 30.0m  | -16° 17' | 98° | 12.2 | 2352 0544| 2334 0530| 397.4          | 420.5 |
+| 01-05 | 11h 26.8m  | -16° 23' | 104°| 12.2 | 2328 0545| 2310 0532| 393.9          | 425.0 |
+
+This concludes my 24th and final installment of "What Goes Around Comes Around -- Halley's Comet". Next month this section of Comet Comments will begin a new series on comet hunting.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAABH3D9GXFWZyKiwmY'}]
+ASTRO ADS
+
+FOR SALE: Odyssey One (13.1") Tube and Cradle Assembly WITHOUT OPTICS. $150
+or best offer. Contact Tom Ahl: 408-268-3927
+
+WANTED: Standard Questar with Special Coatings. Cervit Mirror preferred, but
+will accept standard Pyrex mirror model with Special Coatings. Contact Paul
+Mancuso 408-946-0738
+
+FOR SALE: 55mm 2-inch plossl eyepiece by University Optics, $70. Single Axis
+RA drive corrector for Celestron Super Polaris mounting, $50. 25mm and 40mm
+1.25-inch Kellner eyepieces by Celestron, $15 each. Contact: Jim Molinari at
+408-255-7030.
+
+INTRO ASTRONOMY CLASS ENDS
+
+The SJAA Introductory Astronomy class ended with the November 15 meeting at the
+West Valley College planetarium. A new class will begin in February 1987.
+Jack Zeiders is already planning an updated program including guest speakers
+and more use of the planetarium as a teaching tool.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAABo3ZByCzcvqskK7C'}]
+# SJAA MEETING AND STAR PARTY LOCATIONS
+
+## GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross building in Los Gatos California. The large meeting room has kitchen facilities and large slide projection screen. This is also the location for the SJAA's "Indoor Star Parties", informal sessions where members gather to share their astronomical interests. Whatever your interest, astrophotography, deep sky observation, telescope making, or just arm chair observing, you'll find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17 take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road for about 1.5 miles. Turn right at Rose Ave. Then turn right immediately into the parking lot of the Red Cross building. Doors open at 7:45 PM, with General meetings beginning at 8 PM. General Meetings are held on the 4th Saturday of each month.
+
+## INDOOR STAR PARTIES
+
+Each month there are several saturday evenings set aside for informal gatherings of amateur astronomers to share their common interest in astronomy, to "talk shop", or to simply enjoy the company of friends. Members are encouraged to bring in telescopes and accessories for display to the group. Typically there will be several telescopes operating in the parking lot with a slide show of recent astrophotography and star party reports in progress in the meeting hall. The SJAA also holds it board meetings during this time as well as an introductory astronomy workshop that is conducted once a month. Indoor Star Parties are held at the Los Gatos Red Cross Building.
+
+## HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue east towards the hills (around and past Anderson Reservior) for about 12 miles to the park. Past the park entrance you will see old ranch type buildings on the right and a horse trough. The gate (on the left) is locked but the club combination is 4555. Always lock the gate after yourself. If arriving after dark, please park outside the gate and hike in first to find an observing site before dark, please. Just a short distance up a hill beyond the gate is where the SJAA sets up equipment.
+
+## FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista exit) for two miles to about a flashing light. Turn right and go about 1/4 mile to where the road reaches a "T". Stay left for about 25 yards and then go right. (Watch closely for the turn-off sign) Follow the canyon road for about 11 miles up into the park. The SJAA sets up in Coulter Canyon. It's visible on your right as you drive up onto the hill top. There is usually a lot of astronomical activity here every clear new moon weekend. This is also the location of the FPOA's public observatory. Fremont Peak stands 3000 ft above sea level. Arrive early if you are setting up equipment. 20 to 40 telescopes are not uncommon at Fremont Peak.
+
+---
+
+EPHEMERIS is published monthly by the San Jose Astronomical Association, 3509 Calico Ave., San Jose California 95124. Contributors are welcome to submit articles for publication. These should be typed and submitted no later than the 12th of the previous month. All submissions should be sent directly to the editor, John Gleason, 5381 Port Sailwood Dr. Newark, CA. 94560.
+
+### OFFICERS
+PRESIDENT: Bob Fingerhut.....................................408-263-4455
+VICE-PRES: Tom Ahl...........................................408-268-3927
+SECRETARY: Jim Van Nuland....................................408-371-1307
+TREASURER: Jack Peterson.....................................408-262-1457
+EDITOR: John P. Gleason......................................415-790-9258
+
+### BOARD OF DIRECTORS
+Paul Mancuso.................................................408-946-0738
+Jack Peterson................................................408-262-1457
+Bob Fingerhut................................................408-263-4455
+Tom Ahl......................................................408-268-3927
+Gene Cisneros................................................408-923-6800
+Joe Sunseri..................................................408-224-8693
+Ron Walton...................................................415-278-3335
+Duncan Munroe................................................408-448-5361
+
+---
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAACM2s3iday91uCEEh'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10     MEMBERSHIP/S&T: $ 24.00   JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________________________    Questionnaire (optional)
+
+Address ______________________________________________    What are your astronomical interests (e.g. astro-
+                                                        photography, deep-sky observation, telescope making,
+________________________________________________    etc.)? ________________________________________________
+
+Telephone (______)____________________________________    ________________________________________________
+
+                                                        ________________________________________________
+Please bring this form to any SJAA meeting, or send to:
+                                                        ________________________________________________
+Jack Peterson, Treas.
+San Jose Astronomical Association                       Do you own a telescope? _________ If so, what kind?
+1840 Yosemite Dr.
+Milpitas, CA. 95035                                    ________________________________________________
+
+[ Phone:  (408) 262-1457  ]                            ________________________________________________
+
+Please check type of membership and if new              Is there any specific area of astronomy that you feel
+or renewal.                                             qualified to help others with? _____________________
+
+Membership Only____   Membership/S&T____               ________________________________________________
+
+Junior (Under 18)____                                  ________________________________________________
+
+New____    Renewal____
+
+
+SJAA EPHEMERIS                                         NON-PROFIT ORGANIZATION
+3509 CALICO AVE.                                       U.S. POSTAGE PAID
+SAN JOSE, CA. 95124
+                                                       PERMIT NO.5381
+
+                                                       SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

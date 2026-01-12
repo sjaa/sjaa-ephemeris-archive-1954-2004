@@ -1,35 +1,666 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8ecHThAtnjGDgrTyX'}]
+# EPHEMERIS
+OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+[IMAGE: Observatory dome illustration]
+
+# MARCH 1986
+
+******************************************
+* MARCH 22ND *
+* NORM SPERLING *
+* THE ZANIEST ASTRO QUIZ *
+* YOU'VE EVER HEARD! *
+* DOORS OPEN AT 7:45 PM *
+******************************************
+
+MARCH 1 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION AT C.T.
+ENGLISH SCHOOL. DUSK TILL DAWN. <DIRECTIONS ON BACK PAGE>
+
+MARCH 8 THE 1986 MESSIER MARATHON AT C.T. ENGLISH SCHOOL. DUSK
+TILL DAWN. <SEE DETAILS INSIDE>
+
+MARCH 15 BOARD MEETING 7:00 PM AT THE LOS GATOS RED CROSS. THIS IS
+ALSO AN AUCTION PLANNING SESSION WITH INDOOR STAR PARTY TO
+FOLLOW AT 8:30 PM.
+
+MARCH 22 GENERAL MEETING AT 8 PM WITH NORM SPERLING <EVERYTHING IN
+THE UNIVERSE> AS OUR GUEST SPEAKER PRESENTING: THE ZANIEST
+ASTRO-QUIZ YOU'VE EVER HEARD! DOORS OPEN AT 7:45 PM.
+MEETING STARTS AT 8:15 PM.
+
+MARCH 29 INDOOR STAR PARTY AT THE LOS GATOS RED CROSS BUILDING.
+SJAA INTRODUCTORY ASTRONOMY CLASS CONTINUES. DOORS OPEN AT
+7:30 PM.
+
+APRIL 5 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+PEAK STATE PARK. <FOR THOSE OF YOU WHO WON'T BE IN NEW
+ZEALAND OR AUSTRALIA> DUSK TILL DAWN....WATCH HALLEY RISE!
+
+APRIL 12 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION AT C. T.
+ENGLISH SCHOOL. <SEE DIRECTIONS ON BACK PAGE>
+
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+GRANT RANCH OUT, C.T. ENGLISH IN
+
+[IMAGE: Binoculars illustration]
+
+After using Grant Ranch County Park for nearly 2 years of
+outdoor astronomy, the SJAA finds itself kicked out of the
+park due to the lack of public liability insurance. The
+new county parks director insists that any after hours use
+of the county park must be covered under liability
+insurance. The cost of the insurance is more than the SJAA
+can bare. Until the situation is resolved, we have moved
+
+our "close in" Field Expeditions for Astronomical Observation to C.
+English School. Located in the Santa Cruz mountains, C.T. English offers a
+fine southern horizon view and we can set up on a large paved area behind the
+school. Complete directions are on the back page. The SJAA Officers and Board
+of Directors want to thank the Grant Ranch County Park staff for letting us use
+their facility.
+
+ASTRONOMICAL AUCTION TIME AGAIN
+
+Yep, it's here again folks. Time to dig around the house and drag out all
+those astronomical goodies that you haven't used in years. As the flyer says,
+"Everything you need to make your hobby more enjoyable. You name it will
+likely be sold." Please read the instructions on the enclosed
+pre-registration form. To save time on the day of the auction you can
+pre-register early and send the form to Jim Van Nuland.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8fHxasRycQDDywheF'}]
+# ZEIDERS ON ASTRONOMY
+
+Jack Zeiders' Introductory Astronomy class was a huge success as over 30 people attended on Feb. 15th. Jack says that this is a 'you tell me' type of class where he asks the questions and you give the answers. This seemed to have worked very well during the first meeting. Next meeting is scheduled for March 25th.
+
+## REMINDER TO MEMBERS AND EPHEMERIS CONTRIBUTORS
+
+There will not be an individual issue of the Ephemeris in May. Instead, I am planning an April/May issue that is due to be mailed on the 26th of March. This issue will include all calendar events into the first week of June.
+
+## FEBRUARY FREEZE PARTY AT FREMONT PEAK
+
+It was just a wee bit on the chilly side of a cold camera at Fremont Peak, Saturday, February 15th. Those hardy souls who did make it down to the 'Peak' were treated to an unusually transparent sky. Some even tried in vain to view Halley's the magnitude due to the lack of airborne particles. As far as I know the comet was not seen. As night-time temperatures dipped into the low 20's, I swear that I was able to see down to about 7th magnitude visually with the unaided Mark I eyeball. (MK.I) Several people were also attempting astrophotography on this evening in preparation for the return of Halley. This was a fairly low turn out at Fremont Peak as compared to the masses of astronomers who have desended upon the peak in the last 6 months to view the comet. The rest of the SJAA was at the club field expedition at Henry Coe park.
+
+# PUBLIC VIEWING OF HALLEY'S COMET FROM SAN JOSE BY: DON MACHHOLZ
+
+With the success of our public showings of Halley's Comet in recent months, we have received permission to use the same location for a similar activity in May. I am asking for volunteers who would be willing to show the comet to the public.
+
+The location is Branham Lane Park, this is one-third mile east of the Camden Ave., Branham Lane intersection, between Ross Ave. and Kirk Rd. There is a Safeway store just west of the park. This site was suitable for previous sessions and would be equally ideal for our May viewings.
+
+Dates are Friday and Saturday nights, May 2 & 3, 9 & 10, and 30 & 31. Observing times are 9:30 to 11:00 PM. The comet will be mag. 6 early in the month and 8.5 near the end of May.
+
+If you are interested in helping, please call me as soon as possible. For those of you who so willingly helped in previous months, please call me too, as we'll be building a new team of comet tour guides for these final observations of Halley. An one-time organizational meeting will then be held for participants in late April. Sign up now to help San Jose bid farewell to Halley's Comet! Don Machholz, 408-448-7077
+
+# THE 1986 MESSIER MARATHON BY: DON MACHHOLZ
+
+Our Eighth Annual Messier Marathon will be held on the night of March 7-8. The moon will be nearly new and will not interfere with observations. We will be stationed at C. I. English School. To Get to C. I. English, follow Hwy 17 to Summit Road. Turn Right (East) on Summit and proceed for 2.5 miles to C.I. English School on the right. Proceed through a gate and park on the paved driveway in front of the school. Walk through the school to the rear where the Telescope Field will be located.
+
+The object of the Messier Marathon is to locate and observe most of the 110 galaxies, clusters, and nebulae catalogued by comet hunter Charles Messier. These objects, numbered by Messier in the late 1700's, are so placed on the celestial sphere that most of them can be observed in one night during March of each year. On this night, weather permitting, we should be able to observe 105 of the 110 Messier Objects.
+
+If you need observing order sheets, please give me a call. If the weather is cloudy, I will attempt the marathon on another night.
+
+Evening twilight is at 7:33 PM and morning twilight is at 5:03 AM. In addition to the Messier Objects, Comet Hartley-Good will be in the evening sky, with Saturn rising shortly after midnight and Mars about an hour later. Finally, just before morning twilight, an object rises which was also observed by Charles Messier in 1758 - Comet Halley.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8fsSdJMJe5pTJYog9'}]
+THE
+SAN JOSE ASTRONOMICAL ASSOCIATION'S
+
+6TH ANNUAL
+BAY AREA
+ASTRONOMICAL
+AUCTION
+
+WILL BE:
+SATURDAY APRIL 26TH AT 6:00 PM
+AT THE LOS GATOS RED CROSS
+16011 LOS GATOS-SARATOGA RD.
+DOORS WILL OPEN AT 2:00 PM
+
+TELESCOPES, EYEPIECES, MOUNTINGS, MIRRORS, LENSES, CLOCK DRIVES,
+BOOKS, CAMERA GEAR, STAR CHARTS, FINDERS, TUBES, DIAGONALS, & PHOTOS
+Everything you need to make your hobby more enjoyable. You name it -
+it will likely be there. Check your garage and closets for anything
+astronomical you would like to sell. Complete the pre-registration
+information form on the back and save time and trouble. Anyone may
+buy and sell! It's fun and easy! See you there.
+
+PLEASE PRE-REGISTER ALL ITEMS
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8gVeRWSJDgYkoiQqg'}]
+The 6th Annual Bay Area Astronomical Auction is approaching, so now is
+the time to start looking around for those items not earning their space, or
+brought back from Riverside, or whatever is astronomical or telescope-making
+related that you would like to earn some $ from.
+
+Pre-registration by mail makes it easy. Fill out the form or a copy of it.
+List each different item you have. If there are several identical items, use a
+single line and enter the quantity. Give a minimum price, even if you wish to
+let it go really cheap. Indicate the percentage of the selling price to go to
+the SJAA (minimum 10%). If you wish you may make an outright donation, it is
+now TAX DEDUCTABLE. All proceeds from the auction go to further public
+education in astronomy.
+
+Next, and MOST important, mail the completed form, with a SASE to, Jim van
+Nuland, 3509 Calico Ave., San Jose, Ca. 95124. You might want to keep a copy
+for your files. Jim will assign you bidder/seller and item numbers, and return
+the form to you promptly. That's a promise.
+
+You will now have numbers to label everything before the day of the auction.
+Use self adhesive labels to indicate the number of each item. If your labels
+are large enough, please note the minimum bid also. It will help the auctioneer
+to work smoother and faster.
+
+If you find another box of things, just send in another form. Include your
+bidder number from the first form. If it is something already registered, give
+the item number of the first, indicate the quantity to be added, and use the
+same description.
+
+If you omit the SASE, Jim will assign the numbers but hold the form for
+pickup upon your arrival at the auction. There will be limited time to label
+your goodies before the auction. Please have them all marked before auction day
+All articles pre-registered will be entered into the computer before auction
+day so there will be no backlog and, for those pre-registered, no delays.
+Priority on auction day will be given to assignment of bidder numbers. Late
+item registration will be time available only basis. So get those forms to Jim.
+
+DIRECTIONS TO THE AUCTION:
+
+Take Hwy 17 south towards Santa Cruz. Take the Highway 9 (Los Gatos-Saratoga
+Rd) exit and continue west on Los Gatos-Saratoga Rd. Travel about 0.6 Mile to
+Rose Avenue and turn right. Turn right immediately into the Los Gatos Red Cross
+buildings parking lot. (1501l Los Gatos-Saratoga Rd).
+
+Doors open at 2 PM for registration and bidders. There will be no item registration past 5:45 PM. Auction starts promptly at 6 PM. Payment may be by
+cash or check. There will be a $1 Bidder/seller registration fee at the door.
+Refreshments will be available!
+
+1986 SJAA AUCTION PRE-REGISTRATION FORM
+
+| BIDDER | NAME: _________________________________ CLUB: _____________ |     |            |           |                                        |
+|--------|-------------------------------------------------------------|-----|------------|-----------|----------------------------------------|
+| #      | ADDR: _________________________________ CITY:_______ ZIP:__ |     |            |           |                                        |
+| ITEM # | QTY                                                         | MIN | SJAA       |           | DESCRIPTION (40-50 CHARACTERS...)      |
+|        |                                                             | BID | X          |           |                                        |
+|        |                                                             |     |            |           |                                        |
+|        |                                                             |     |            |           |                                        |
+|        |                                                             |     |            |           |                                        |
+|        |                                                             |     |            |           |                                        |
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8hPimGpiCNYP5Vru3'}]
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+Many beginning amateur astronomers don't know what kind of
+telescope to buy, and often have no idea how to figure it
+out. Lacking advice and experience, what is a person to
+do?
+
+The best advice is to get some experience! Put your money
+where its plaintive call of "spend me" cannot be heard, and
+come to some star parties. Over a few months, you will
+find a vast assortment of instruments and accessories,
+accompanied by enthusiastically opinionated owners, every one eager to tell you
+what's good and bad about the hardware.
+
+The kind of astronomy I most like to do is visual observation of faint deep-sky
+objects. It puts a substantial premium on raw light-gathering power -- square
+inches of collecting area. How much does it cost to buy one square inch of
+aperture? This number varies enormously: Among the commercial telescopes that
+club members own, there is a range of almost fifty to one for different kinds,
+sizes and brands of instrument. (In this kind of comparison, one must be
+careful to use "real" prices -- we all know that dealers will sell most
+telescopes at a healthy discount below list price -- and to add the cost of
+needed accessories to models lacking eyepieces, finders or mountings.)
+
+Most expensive are the 3.5-inch Questar and top-line fluorite refractors: In
+this league, a square inch of starlight costs more than two hundred dollars.
+Less fancy three and four-inch refractors are priced nearer one hundred dollars
+per square inch, and some of the least expensive 2.4-inch altazimuth refractors
+are down around thirty dollars per square inch.
+
+The popular eight-inch Schmidt-Cassegrains, like the Celestron 8 and the Meade
+2080, are in the range of twenty to forty dollars per square inch, depending on
+options and mounting styles. Smaller Schmidt-Cassegrains and Maksutovs, like
+the Meade 2040, the Bausch and Lomb 4000 and the Celestron C-90, are more
+expensive per unit of aperture, at least when equipped with equatorial
+mountings.
+
+Equatorially-mounted six and eight-inch Newtonians seem to run around twenty
+dollars per square inch, as does Edmund Scientific's 4.25-inch altazimuth
+Astroscan. Moderate-quality 7X50 to 11X80 binoculars run about fifteen dollars
+per square inch.
+
+The least-expensive light-buckets in the amateur astronomical community are
+Dobson-mounted Newtonians. The small models by Coulter -- even when fleshed
+out with extra eyepieces and finder -- are well under ten dollars per square
+inch of collecting area; and as the size increases, the price goes down: The
+17.5-inch costs about five dollars per square inch.
+
+If you think I am about to recommend Dobson telescopes, you're right. My
+advice to the beginner interested in most kinds of visual observation, is to
+buy the largest Dobson-mounted Newtonian that his or her wallet, biceps and
+automobile can cope with.
+
+Note that there are some qualifications: I did say "Visual observation":
+Astronomical photography has special requirements that will rule out many
+instruments I have discussed, including the big Dobsons. I have never been
+much interested in picture-taking, so I will not presume to recommend
+equipment.
+
+I also said "most kinds" of visual observation. That certainly includes
+deep-sky work, and for anyone with access to an observing site close to the
+west coast, it also includes observation of double stars and fine lunar or
+planetary detail. Seeing at our sites in the coastal mountains is frequently
+good enough to allow even my big Celestron 14 to run diffraction-limited for
+long periods of time. A planetary or double-star observer in much poorer
+atmospheric conditions might have a case for a smaller instrument with no
+secondary mirror and support, to ensure a higher-contrast image; but I remind
+such persons that a 13-inch Dobson with a four-inch off-axis stop is cheaper
+(but clumsier) than any commercial four-inch refractor I know of.
+
+Oddly, amateurs interested in doing real science do not necessarily require
+huge apertures. Variable star observations and occultation timings can be done
+with much smaller equipment, and those who do them should seek telescopes that
+are readily portable.
+
+There is another class of qualifications: A telescope too cumbersome and heavy
+for its owner to move around, will gather not starlight but dust. Don't buy
+one that you can't carry and set up, and unless you are one of the fortunate
+few to reside at a location where the sky is dark, be sure that you have a
+vehicle that can transport your chosen instrument: A medium-sized telescope at
+a dark site is much better than a big one in downtown San Jose.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8iBqmPETxjAhJKhAS'}]
+I have saved the most important qualification for last. What if you can't afford a Dobson? Even with no extras, (but remember tax and shipping cost!), the least expensive one will cost close to three hundred dollars. That's too much for many folks. My advice would be to save money until you've got enough for a larger instrument, but some people won't want to do that.
+
+There are only a small handful of less-expensive alternatives. Probably the best is a binocular. For about a hundred dollars, one can do lots of astronomy with a 7X50. At somewhat over two hundred, and 11X80 is a marvellous instrument, provided you can hold it steadily. Many people will find a 10X70 a good size.
+
+A few altazimuth refractors, with apertures in the 2.4-inches fall in this price range. I would be inclined to prefer a large binocular, though if I were particularly interested in observations requiring higher magnification, my preference might change.
+
+Sometimes the various qualifications dominate the issue. For example, I bought my C-14 because it was cheaper to own it and a tiny trailer, than to replace my compact car with a pickup or van big enough to haul a Dobson.
+
+Now that I have convinced all you beginners to rush right out and buy a Dobson, let me change your mind. There's a whole other way to think about this, that makes equally good sense: Most people who are serious about amateur astronomy end up owning more than one telescope. Why not buy your second telescope now? One of the most useful auxiliary telescope is a small, compact something-or-other that can be assembled without doing warm-up calisthenics, and that can be transported and still leave room in the car for people.
+
+With this approach to telescope-buying, you pay a premium not for collecting area but for compactness and ease of use. Instruments like the C-90, the Meade 2040, and three to four-inch refractors fit these criteria nicely, as do binoculars.
+
+And once again, the best advice is to get some experience. Come to star parties and try things out.
+
+You might also think about equipment that can do double-duty for another hobby, many amateur astronomers are into photography -- and I've heard it said that some of the smaller compact telescopes make respectable telephoto lenses. Exceptionally stiff photographic tripods are often suitable as altazimuth mountings for these instruments. Sporting enthusiasts may want something that can double as a spotting'scope, or may have daytime use for a binocular.
+
+Or perhaps your desire for astronomical equipment stems from an interest in a particular kind or style of technology. If so, enjoy your hobby and don't let people like me make you feel guilty by long discussions of "objective" criteria. Some people like classic refractors. Some have got to have a Questar. If that's you, go to it.
+
+With all these different approaches to equipment needs, it's no wonder many beginning amateur astronomers don't know what kind of telescope to buy, and often have no idea how to figure it out. And that is where I came in.
+
+OBSCURE WINTER PLANETARY NEBULAE--PART I
+BY: STEVE GOTTLIEB AND JACK MARLING
+
+The winter skies contain several showpiece planetary nebulae familiar to deep-sky observers including NGC 2392 in Gemini ("Eskimo" nebula), NGC 3132 in Vela ("Eight-burst" nebula), and NGC 3242 in Hydra ("Eye" nebula). In addition, the winter skies are home to many large obscure planetaries such as Kohoutek 2-1, Jones-Emberson I and Sanduleak 2-1.
+
+These little-known cosmic bubbles were mostly discovered on wide-field Schmidt surveys during the past 30 years and hence are not plotted on your standard star atlas. Since these objects generally exhibit a very low surface brightness in the range of 14-16th magnitude, reasonably dark skies and a nebula filter are recommended to achieve success. As you will see from our visual descriptions the LUMICON Oxygen - III filter is a powerful tool in tracking down these elusive targets.
+
+In the table, 10 easy winter planetaries are given along with epoch 2000.0 coordinates for ease in plotting on the Tirion 28v Atlas 2000.0. I find that offsetting and sky-drifting from the nearest reference star (using coordinated universal time to let the stars "fall" into place) allows the correct position to be pin-pointed within a couple of arc minutes - better than could be achieved using setting circles. Size is given in arcseconds. The magnitude is the total visual magnitude as seen by dark adapted eyes, accurate to within 0.2 magnitudes. Column M is the surface brightness, equivalent to the calculated magnitude of the planetary if it had the same surface brightness in a uniform disk 60 arc-seconds in diameter. M* is the yellow (V) magnitude of the central star and is close to the star's visual magnitude.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8ijapw9Hw87xm2WsK'}]
+# OBSCURE LARGE WINTER PLANETARY NEBULAE
+
+| 8k05<br>NAME | 2000.0 COORDINATES | SIZE | MAG. | H | M |
+|--------------|-------------------|------|------|-----|-----|
+| Ba 1 | 3h 53.62. +19°29.6 | 10" | 15.1 | 14.2 | 17.1 |
+| H 3-29 | 3h 37.43. +25°25.0 | 12" | 15.1 | 12.2 | 18.6 |
+| K 2-1 | 5h 08.16. +30°48.2 | 132" | 12.1 | 13.8 | 18.2 |
+| H 3-75 | 5h 01.73. +12°20.6 | 50" | 13.9 | 12.1 | 14.5 |
+| K 1-7 | 5h 31.8. +06°55.5 | 35x32" | 14.7 | 13.4 | 19.6 |
+| K 1-27 | 5h 57.03. -25°01.4 | 53x40" | 14.1 | -14 | 16.7 |
+| A 12 | 6h 02.37. +09°39.0 | 37" | 12.0 | -11 | - |
+| A 15 | 6h 27.05. -25°22.9 | 34" | 15.6 | 14.3 | 15.7 |
+| A 16 | 6h 43.96. +61°47.6 | 140" | 14.5 | 16.3 | 17.7 |
+| K 2-3 | 7h 06.0. -22°02 | 76x53" | 14-15 | 14.9p | -21 |
+
+Ba 1: Baade 1 was discovered by W. Baade in 1935 and in my opinion is the
+toughest planetary already plotted on the Tirion atlas, as the total visual
+magnitude is only 15.1. After one failure casually searching with my 13.1"
+Odyssey I, I succeeded January 18, 1985 at Freemont Peak by offsetting 10' south
+of 6th magnitude 14 Tauri and drifting for 9.7 minutes. Using 165x with a UHC
+filter I needed extreme averted vision to glimpse a round, fairly small dim
+spot of 15th magnitude accompanied by a small right triangle of stars just
+east. Even in a 17.5" at 200x with a UHC filter, Jack Marling noted from
+Digger Pines, "Very faint!, round, brighter middle, requires averted vision."
+
+H3-29: Though first recorded by Haro, this object was discovered to be a
+planetary in 1964 by Mayall. Jack made a first visual sighting of this neb
+15 planetary on September 17, 1985 using a UHC filter at 280x (17.5" telescope)
+and noted, "Quite faint, uniform, round nebula. Best seen with averted vision.
+Requires full dark adaption." On October 12, 1985 L logged H3-29 with my
+17.5" in the Sierra foothills and found it extremely faint even using a n OIII
+filter at 105x. Look for H3-29 41 arc minutes south of 7.5 magnitude SAO
+76676.
+
+K2-1: This interesting planetary was discovered by Kohoutek in 1963. With my
+17.5" at 84x on September 14, 1985 it appeared as a fairly large diffuse glow
+among a group of stars. Adding an OIII filter at 105x it was moderately
+bright, elongated and showing a dark band through its western edge. Jack
+observed K2-1 on October 28, 1984 using a UHC filter at 105X (17.5") and logged
+it as "Very faint with a slightly off-center interior star."
+
+H3-75: This planetary is another Mayall discovery form 1964. On September 14,
+1985 I made a first visual observation with my 17.5" and was surprised to find
+a slightly nebulous 14.5 magnitude "star" visible unfiltered at 105x. Raising
+the power to 222x and adding a UHC filter revealed a prominent small disk
+surrounding a mag. 14 central star. Jack succeeded just 2 days later with a
+17.5" at Digger Pines using an OIII filter and recorded "quite bright round
+planetary, brighter in middle, visible with direction vision. Also visible
+without a filter. Pretty bright central star." I located H3-75 by drifting
+4.8 minutes from 7.7 magnitude SAO 94689.
+
+K1-7-A10: Lubos Kohoutek discovered this planetary photographically in 1963.
+With my 17.5" operating at 105x on September 14, 1985 I noted "faint but
+visible unfiltered. With an OIII filter, it appears fairly small, round and
+moderately bright." Jack found this luminous shell in a 17.5" scope on January
+17, 1985 and he noted, "Best in 16mm Nagler with UHC filter, small, round,
+uniform disc, not hard to see, no central star visible." To locate K1-7, I
+suggest drifting 5.1 minutes from 6.4 magnitude SAO 112767. The earliest
+sighting we are aware of was made by Dana Patchick in February of 1982 using an
+8" scope ("Very faint nebula, 25" - 30"'.")
+
+K1-27: This 1977 Kohoutek discovery has not been observed visually to the best
+of our knowledge. A visual observation from a far southern observer is needed
+to pin down the visual magnitude of 14+-1.
+
+A12: A fairly bright planetary discovered by George Abell in 1964 by closely
+scrutinizing the decade-old Palomar Observatory Sky Survey plates. Why the
+recent discovery for such a bright planetary? Consider the location - just one
+arc minute west of 4th magnitude MU Orionis! High power is required to
+separate the planetary form the overpowering star. On March 23, 1986 I viewed
+this fascinating object in my 17.5" using a UHC filter and logged, "moderate
+sized, round, close to mag 12, but just outside the glare of MU!" Jack also
+made a sighting in March and noted "much easier to see with an OIII filter, as
+bright or brighter than nearby NGC 2022." I later checked the POSS myself and
+found A12 invisible on the blue print as it fell inside the heavily exposed
+image of MU, and only partially seen on the red print.
+
+A15: Also found by Abell in 1964, this planetary is even dimmer than Bal with
+a computed visual magnitude of 15.6! Nevertheless, Jack was successful
+(barely) October 18, 1985 for a first ever visual sighting. In a 17.5" it
+appeared "about 16th magnitude, visible with averted vision at best 50% of the
+time."
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8jHKZ9eDMETr2dEwx'}]
+A1E: With a surface brightness of 15.3, this 1955 photographic discovery presents an extreme challenge. Both Jack and I failed on separate attempts using 17.5" telescopes, filters and finder charts which gave us the precise location. If you want to give a try, drift 3.4 minutes from 6.6 magnitude SAO 135137 and offset 8 arc minutes south.
+
+K2-3 Discovered by Kohoutek in 1963, K2-3 is another severe challenge. Jack reports a negative observation with a 17.5". If you have a large scope the position of K2-3 is just 29 arc minutes east of 6.1 magnitude SAO 172905.
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+[THIS IS FIGURE: A circular diagram showing concentric rings with crosshairs]
+
+The year 1985 yielded 17 comet discoveries and recoveries. This is close to the average for the past decade. There were greater than normal recoveries of returning comets (11), but only one comet was discovered by an amateur (average is 3). An unusual event was the visual recovery of a returning comet by Australian amateurs in April. Meanwhile, previously recovered comets Giacobini-Zinner and Halley put on good displays during the second half of the year.
+
+The first new comet of 1986 has been discovered. It is expected to remain faint, while Comet Hartley-Good crosses into our evening sky and Comet Halley pulls into our morning sky. Comet Boethin remains visible too.
+
+Periodic Comet Shoemaker 3 (1985a): Carolyn and Eugene Shoemaker discovered this, their seventh comet, during a photographic comet survey being conducted with he 18-inch Schmidt at Mt. Palomar. At discovery (Jan. 10), the comet was near M 44 and at mag. 12. It is now known that it was closest the sun & AU) on Dec 19, and will not get any brighter. It is in a periodic orbit, taking 16.3 years for each trip around the sun.
+
+Comet Hartley-Good (1985L)
+
+DATE R.A. (1950) DEC ELONG MAG. NOTES
+
+02-24 13h 35.8m -18°47' 125° 10.0 This comet is now pulling away from
+03-01 13h 06.3m -21°09' 135° 10.2 both the earth and sun, it is also
+03-06 12h 36.2m -22°55' 143° 10.5 a bit fainter than expected. It
+03-11 12h 07.2m -24°02' 150° 10.8 moves south and crosses into the
+03-16 11h 40.6m -24°34' 153° 11.1 evening sky by mid-month. Comet
+03-21 11h 17.4m -24°37' 153° 11.4 1985L passes through southern Corvus
+03-26 10h 57.7m -24°21' 151° 11.7 during early March.
+03-31 10h 41.6m -23°54' 146° 12.0
+04-05 10h 28.6m -23°20' 141° 12.4
+
+Periodic Comet Boethin (1985n)
+
+02-24 02h 00.9m +16°33' 59° 10 ? This comet is also moving away from
+03-01 02h 22.0m +18°36' 60° 10 ? both the earth and sun. Its mag.
+03-06 02h 43.1m +20°26' 60° 10 ? is unpredictable, given here are
+03-11 03h 04.1m +22°05' 60° 10 ? estimates. Comet 1985n will be
+03-16 03h 24.8m +23°31' 60° 10 ? near the Pleiades on Mar. 20, the
+03-21 03h 45.2m +24°44' 60° 11 ? third comet to visit this cluster
+03-26 04h 05.2m +25°44' 60° 11 ? in nine months. This periodic comet
+03-31 04h 24.7m +26°33' 59° 11 ? takes 11.2 years to orbit the sun,
+04-05 04h 43.7m +27°11' 59° 11 ? so we can expect it back in 1997.
+
+WHAT GOES AROUND COMES AROUND -- HALLEY'S COMET
+
+Our celestial visitor will itself be visited this month. Five spacecraft will examine the "dirty snowball", from (astronomically) close range. While the pictures should be spectacular, much of what we expect to learn will be measured by spectrographic and radio equipment. Here is a short summary of the spacecraft's' missions.
+
+VEGA 1 (USSR) Mar. 6: Launched Dec. 15, 1984, this probe will pass about 6,000 miles (slightly less than one earth-diameter) from the clouded nucleus. It's expected to photograph and take spectrographs of the comet.
+
+SUISEI (JAPAN) Mar. 8: Originally known as "Planet A" and launched last August, this probe will get no closer than 90,000 miles from the comet. From here it will study and photograph the large hydrogen cloud surrounding the core.
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8jxkLg4Mq4QDiF65v'}]
+VEGA 2 (USSR) Mar. 9: Nearly identical to Vega 1, but launched six days later, this probe also went to Venus before arriving at Halley. Its path will be refined after Vega 1's run, but it should also pass about 6,000 miles from the nucleus.
+
+SAKIGAKE (JAPAN) Mar. 11: Identical to Suisei, and launched Jan. 7, 1985, this probe will pass several million miles from Halley's Comet. At this distance it will study the solar wind.
+
+GIOTTO (EUROPEAN SPACE AGENCY) Mar. 13: Making the closest approach of the five probes, Giotto will pass a mere 300 miles from the nucleus. Even at 40 miles per second, the camera should still get some good photos, along with dust measurement and magnetic experiments. It was launched last July.
+
+The United States will study the comet from three spacecraft probes. Pioneer 12, orbiting Venus, is already sending back data on the comet. The ICE craft, which visited Comet Giacobini-Zinner last Sept, will study Halley's from a distance of 19 million miles. Finally, the Solar Max satellite, in earth orbit, will study the comet from a distance of 39 million miles.
+
+Earthbound observers will be able to watch the comet travel from Capricornus in early March to the thick of the Milky Way, between Sagittarius and Scorpius, by month's end. On the mornings of Mar. 5 and 7, the present moon will be several degrees from the comet. On the mornings of Mar. 13 and 14, the comet passes within one degree of M 75. March 22 seems to be the last morning for observation of the comet without the moon in the sky. Full moon in on Mar. 26.
+
+Here are positions, elongations and magnitude estimates for Comet Halley. The final set of figures give the time difference between "comet rise" ((eastern) morning sky) and the line of astronomical twilight. This is done for latitudes of 30° N. and 40° N. As the comet approaches the earth and moves south, it becomes much easier to see from lower latitudes than from more northerly locations. By mid-April it will be in the evening sky, for south, but rapidly moving north.
+
+Periodic Comet Halley (1982i)
+
+Date    RA  (1950)  Dec  El.  Mag.    30° HC vs. A/T  40°
+                                 52
+02-24  20h 35.2m  -14°38'  27°   2.5    Rise 16m bef.   00m bef. A/T
+03-01  20h 26.6m  -16°18'  35°   3.4    Rise 35m bef.   15m bef. A/T
+03-06  20h 17.7m  -18°12'  42°   3.5    Rise 54m bef.   28m bef. A/T
+03-11  20h 07.6m  -20°26'  50°   3.5    Rise 72m bef.   41m bef. A/T
+03-16  19h 55.3m  -23°11'  58°   3.5    Rise 90m bef.   54m bef. A/T
+03-21  19h 38.6m  -26°42'  68°   3.5    Rise 109m bef.  66m bef. A/T
+03-26  19h 13.8m  -31°20'  79°   3.3    Rise 132m bef.  78m bef. A/T
+03-31  18h 32.9m  -37°23'  93°   3.2    Rise 164m bef.  92m bef. A/T
+04-05  17h 20.1m  -44°11' 111°   3.0    Rise 218m bef.  117 bef. A/T
+04-10  15h 22.2m  -47°24' 131°   3.0    Rise 329m bef.  199 bef. A/T
+
+                    HALLEY'S COMMENT
+        HOW MANY ANSWERS DO YOU KNOW?
+
+Here are the correct answers to last months quiz. How many did you get right?
+
+1. In 1910, scientists' reports of a curious kind of poisonous gas in the tail of Comet Halley led some people to fear that the world would end when the comet's tail swept the earth. What kind of gas were they worried about?
+A: CYANOGEN
+
+2. True or false: Comets, like meteors, quickly flash across the sky and are visible for only a few seconds.
+A: FALSE
+
+3. During its 1985-86 visit to our skies, Comet Halley will pass near the earth twice. On what day will it make its closest approach to earth?
+A: APRIL 11, 1986 (SOME SAY APRIL 10TH)
+
+4. How far away from the earth will the comet be on the closest pass of this visit?
+A: 39 MILLION MILES
+
+5. Comet Halley passes near the earth approximately every 76 years, but gravitational effects from the planets sometimes make the period shorter or longer. What was the longest recorded interval between successive visits of the comet?
+A: 76.25 YEARS (BETWEEN THE YEARS 451 AND 530)
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8kVzr8dQrSEfvb6PH'}]
+6. What do scientists believe comets are made of?
+A: ICE AND FROZEN GASES, MIXED WITH DEBRIS.
+
+7. How many tails does a comet have?
+A: TWO (DUST AND GAS) .PA
+
+8. With each trip around the sun, a comet loses material from the surface of
+its nucleus (core). By how much is its diameter (in linear feet) reduced
+during each trip?
+A: A COMET THE SIZE OF HALLEY'S LOSES A SHELL ABOUT THREE TO 10 FEET THICK WITH
+EACH TRIP. THE DIAMETER, THEREFORE, IS REDUCED BY SIX TO 20 FEET PER TRIP.
+
+9. How many trips around the sun does an average comet live to complete?
+A: 1,000
+
+10. Why was Comet Halley later named after Edmond Halley? (25 words or less)
+A: HE APPLIED NEWTON'S THEORIES OF GRAVITATION AND PLANETARY ORBITS TO
+CALCULATE THE COMET'S ORBIT AND SUGGESTED IT WAS A PERIODIC COMET. HE
+CORRECTLY PREDICTED ITS RETURN IN 1758-59.
+
+11. In what year did Comet Halley begin its current journey toward the sun?
+A: 1948
+
+12. What is the name for the point in a comet's orbit when it is farthest away
+from the sun?
+A: APHELION
+
+13. In addition to lending his name to a comet, what was another of Edmond
+Halley's scientific achievements? (20 words or less)
+A: VARIOUS ACCOMPLISHMENTS AS A MATHEMATICIAN AND ASTRONOMER, INCLUDING
+CATALOGING THE STARS OF THE SOUTHERN HEMISPHERE, PERSUADING ISAAC NEWTON TO
+PUBLISH NEWTON'S GREAT WORK OF PHYSICS, PRINCIPIA MATHEMATICA, INVENTING A
+DEEP-SEA DIVING BELL, AND DEVELOPING THE FIRST ACTUARIAL MORTALITY TABLES.
+
+14. Name one space mission expected to encounter Halley's Comet in March.
+A: GIOTTO, VEGA 1, VEGA 2, SUISEI, SAKIGAKE
+
+15. How long ago do scientists believe comets were formed?
+A: WHEN THE UNIVERSE WAS FORMING, ABOUT 4.5 BILLION YEARS AGO.
+
+16. How many appearances of Halley's Comet have been recorded by people on
+earth (including this year's appearance)?
+A: 30. (ALTHOUGH NO RECORDS OF THE 164 B.C. APPEARANCE WERE KNOWN TO
+EXIST, BUT IN 1984, BRITISH SCHOLARS ANNOUNCED THE DISCOVERY, CONTAINED IN
+ANCIENT BABYLONIAN CLAY TABLETS, OF SEVERAL LINES OF CUNEIFORM CHARACTERS
+REFERRING TO THE 164 B.C. APPEARANCE.)
+
+17. True or false: Comet Halley moves around the sun in the same direction as
+the earth does.
+A: FALSE - IT MOVES IN THE OPPOSITE DIRECTION.
+
+18. With what historical event did Comet Halley's 1066 A.D. appearance
+coincide?
+A: THE NORMAN CONQUEST OF ENGLAND.
+
+19. For whom is the European Space Agency's space mission named, and why? (30
+words or less)
+A: GIOTTO dL BONDONE, A 14TH CENTURY FLORENTINE PAINTER WHO USED COMET HALLEY
+(WHICH HE IS BELIEVED TO HAVE SEEN IN 1310) AS A MODEL FOR THE STAR OF
+BETHLEHEM IN HIS FRESCO "ADORATION OF THE MAJI."
+
+20. Scientists believe a vast cloud of comets exists billions of miles from
+the sun. What is the name of this cloud?
+A: THE ORT CLOUD.
+
+SOURCES: NASA International Halley Watch and the New York Times Guide to the
+Return of Halley's Comet.
+
+ASTRO ADS
+
+FOR SALE: 4-inch Unitron refractor, model 1S2 with motor drive, good
+condition, $800. Contact: Bill Dellingoes, (415) 782-9206
+
+5 MONTHS OLD: Celestron Super C8 telescope with Star Bright coatings and 2
+eyepieces. $1400 Call Rich at: 408-735-8007
+
+10 X 10 X 5-foot steel building with 10-foot rotary dome rings. Comes with
+rotating roof. $250 or best offer. Some effort to remove. Contact H. Kimsey
+408-262-8315
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8mBvKgwEGiLssB89U'}]
+# SJAA MEETING AND STAR PARTY LOCATIONS
+
+## GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross building in Los Gatos California. The large meeting room has kitchen facilities and large slide projection screen. This is also the location for the SJAA's "Indoor Star Parties", informal sessions where members gather to share their astronomical interests. Whatever your interest, astrophotography, deep sky observation, telescope making, or just arm chair observing, you'll find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17 take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road for about 1.5 miles. Turn right at Rose Ave. Then turn right immediately into the parking lot of the Red Cross building. Doors open at 7:45 PM, with General Meetings beginning at 8 PM. General Meetings are held on the 4th Saturday of each month.
+
+## C.T. ENGLISH SCHOOL
+
+This site, in the Santa Cruz mountains, is a new one for the SJAA so come and try it out. To get to C. T. English, follow Hwy 17 south to the Summit Road exit. Take the exit and turn right onto Summit Road (east). This is an overpass that crosses Hwy 17. Continue east on Summit for about 2.5 miles. The school will be on your right. Proceed through a gate and park on the paved driveway in front of the school. If you are setting up equipment you are allowed to drive around to the back and set up equipment next to your vehicle on the paved playground area. There is also a open field east of the playground that will get observers further away from the school lights.
+
+## HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue east towards the hills (around and past Anderson Reservoir) for about 12 miles to the park. Past the park entrance you will see old ranch type buildings on the right and a horse trough. The gate (on the left) is locked but the club combination is 4565. Always lock the gate after yourself. If arriving after dark, please park outside the gate and hike in first to find an observing site before dark, please. Just a short distance up a hill beyond the gate is where the SJAA sets up equipment.
+
+## FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista exit) for two miles to a yellow flashing light. Turn right and go about 1/4 mile. There the road reaches a "Y". Stay left for about 25 yards and then go right. (Watch closely for the Fremont Peak sign) Follow the canyon road for about 11 miles up into the park. The SJAA set up at Coulter Camp. It's visible on your right as you drive up onto the main area of the park. There is usually some astronomical activity here every clear new moon weekend. Fremont Peak stands 3000 ft above sea level. Arrive early if you are setting up equipment. 30 to 40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+* EPHEMERIS is published monthly by the San Jose Astronomical *
+* Association, 3509 Calico Ave., San Jose California 95124. *
+* Contributors are welcome to submit articles for publication. These *
+* should be typed and submitted no later than the 12th of the previous *
+* month. All submissions should be sent directly to the editor, John *
+* Gleason, 5361 Port Sailwood Dr. Newark, CA. 94560. *
+* OFFICERS *
+* PRESIDENT: Robert Fingerhut.................................408-263-4455 *
+* VICE-PRES: Dave Ambrose....................................415-524-0869 *
+* SECRETARY: Jim Van Nuland..................................408-371-1307 *
+* TREASURER: Jack Peterson...................................408-262-1457 *
+* EDITOR: John P. Gleason.................................415-790-9250 *
+* BOARD OF DIRECTORS *
+* Paul Mancuso...............................................408-946-0738 *
+* Steve Greenberg............................................209-239-6550 *
+* Tom Ahl...................................................... *
+* Gene Cianeros..............................................408-923-5800 *
+* Joe Sunseri................................................408-224-8693 *
+* Chris Pratt................................................408-629-2994 *
+* Denni Medlock..............................................415-854-6796 *
+********************************************************************************
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA8nJeBxznyNirK1W3S'}]
+SPACE PROGRAM UPDATE
+BY: ROBERT FINGERHUT
+
+EDITORIAL COMMENT
+
+The destruction of the shuttle orbiter, Challenger and the death of the 7
+astronauts has brought the U.S. space program to a temporary halt. Until the
+cause of the explosion is completely defined, the problem redesigned, and the
+shuttle requalified for flight, all of the scientific missions planned for this
+year will have to wait. Do not expect a quick fix. I would be very surprised
+if any orbiter flys again this year. When flights resume, the three remaining
+orbiters will not be able to handle the backlog of the launches in addition to
+the future planned launches. The military also has preference for launch of
+their payloads. The president has expressed his support for the shuttle
+program but has not yet directed the construction of a replacement orbiter. It
+will take 3.5 years to build another orbiter and longer to catch up with the
+demand for launches. I have often urged the construction of a fifth orbiter to
+handle the increasing launch demand as well as to protect against the loss of
+an orbiter such as we have now had. If you support the construction of a
+replacement and maybe a additional backup orbiter, this is the time to let your
+elected representatives know. - Bob Fingerhut
+
+(At over 2 BILLION DOLLARS per shuttle, I doubt it is either the urging my
+elected representatives to develop a new unmanned booster to carry up military
+satellites or entirely new shuttle technology for the 21st century. - Ed.)
+
+VOYAGER RETURNS DETAILED IMAGES OF URANUS SYSTEM
+
+Voyager 2 made its closest approach to Uranus on January 24th. Detailed photos
+of its largest moons were sent back. An unexpectedly large magnetic field was
+discovered as well as many more small moons.
+
+ERECTABLE TRUSS CHOSEN FOR THE SPACE STATION
+
+A five meter square erectable structure was chosen over a deployable structure
+for construction of space station trusses. The decision was based on
+simplicity and lower cost due to remote manipulator system clearance,
+structural stiffness and accessibility.
+
+
+SJAA EPHEMERIS
+3509 CALICO AVE.
+SAN JOSE, CA. 95124
+
+NON-PROFIT ORGANIZATION
+U.S. POSTAGE PAID
+PERMIT NO.5381
+SAN JOSE, CA. 95125
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

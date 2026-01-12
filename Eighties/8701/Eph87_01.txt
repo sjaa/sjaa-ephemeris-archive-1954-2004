@@ -1,17 +1,376 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAF9TBruSwYsCj8dXC'}]
+EPHEMERIS
+OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+JANUARY 1987
+
+************************************************
+*         JANUARY   3RD     8  PM               *
+*        MARVIN  MEDLOCK                        *
+*  COMPUTER  CONTROLLED  TELESCOPE    DEMO      *
+*        FEBRUARY    7TH     8  PM              *
+*           ROBERT  SCHAFER                     *
+*          THE  UFO  VERDICT                    *
+************************************************
+
+JANUARY    3  GENERAL   MEETING   8   PM.   THE  COMPUTER  CONTROLLED
+                TELESCOPE WILL BE THE SUBJECT OF THIS EVENINGS  GENERAL
+                MEETING.  KEVIN  MEDLOCK  MECHANICAL  DESIGNER  FOR
+                CELESTRON'S NEW CCT WILL BE THE SPEAKER.
+
+JANUARY   10  INDOOR STAR PARTY, LOS GATOS RED CROSS BUILDING. 8 PM.
+
+JANUARY   17  BOARD MEETING AT 7 PM WITH INDOOR STAR PARTY TO FOLLOW
+                AT 8 PM.
+
+JANUARY   24  FIELD   EXPEDITION   FOR  ASTRONOMICAL  OBSERVATION  TO
+                FREMONT PEAK STATE PARK.   DUSK TILL DAWN
+
+JANUARY   31  ANNUAL  FREEZE  PARTY  FOR ASTRONOMICAL OBSERVATION AT
+                HENRY COE STATE PARK.  DUSK TILL FROZEN.
+
+FEBRUARY   7  GENERAL MEETING 8 PM. THE LOS GATOS RED CROSS BUILDING.
+                THE UFO VERDICT.  ROBERT SCHAFER.
+
+FEBRUARY  14  BOARD  MEETING  AT  7 PM WITH THE INDOOR ASTRONOMY CLASS
+                STARTING AT 8 PM. LOS GATOS RED CROSS BUILDING.
+
+FEBRUARY  21  SECOND IN A SERIES OF FREEZE  PARTIES  FOR ASTRONOMICAL
+                OBSERVATION TO HENRY COE STATE PARK.   DUSK TILL FROZEN.
+
+                         FIELD  OF  VIEW
+                      BY:  JOHN  GLEASON
+
+                    JANUARY 3RD GENERAL MEETING
+
+                You read about the CCT in the November Ephemeris, now come
+                and see the actual telescope in operation.  We are pleased
+                to  have  Kevin  Medlock as  our  speaker  for  the January
+                General Meeting.  Kevin will demonstrate    all    of    the
+                advanced   features   of   this  remarkable  new  telescope
+                accessory.  Mark your calendars, you will not want to  miss
+                this "hands on" opportunity.
+
+                 SHORTER BULLETIN THIS MONTH/CALL FOR SPEAKERS
+
+    Several  December  events  have  shortened  this  months  Ephemeris.  First the
+Holiday season has cut into your editors time and second the  movement  of  the
+General Meeting to the first Saturday of the month means that the bulletin must
+be printed and mailed earlier than it ever has before.  This also  means  that
+the  SJAA  needs  to  find  speakers for our General Meetings several months in
+advance for the timely publication of dates in the Ephemeris.  If  there  is a
+subject  that  you  would  like to talk about or know of individuals that would
+like to give a presentation about any aspect of astronomy, be sure  to  contact
+your  association  officers or board members.  The SJAA has provided to you the
+membership, some of the finest  General  Meetings  in  the  past  and  we  look
+forward to continuing this tradition of excellence in 1987.  Please Help!
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAFoeKB72uUyDseTd5'}]
+THE UFO VERDICT
+
+As an amateur astronomer, how many times have you been asked if you have seen any UFO's? Do you believe in Flying Saucers? YES, I do believe that popels saw UFO's; things that they could not identify. On February 7th, Robert Schafer will present the UFO Verdict. Mr. Schafer, member of Bay Area Skeptics, will explain the unexplainable for us beginning at 8 PM. Don't miss it.
+
+CALICO OBSERVATORY
+BY: JIM VAN NOLAND
+
+JUPITER'S GREAT RED SPOT
+
+[THIS IS FIGURE: Simple drawing of Jupiter showing bands and the Great Red Spot]
+
+As Jupiter moves inexorably to the west, we Spot watchers must reluctantly give up our evening sport, and move on to other activities. I've included the few February opportunities here. Though Jupiter will be visible well into March, 1987, it will be too low for profitable observations at high power. Therefore, this will be my last article until the Spot has been recovered, perhaps in July if my vacation schedule permits. Many thanks to those who have reported observations: your encouragement is what keeps me going.
+
+You might have noted how suddenly the observing window (sunset to planet-set) has closed. Jupiter set earlier and earlier, of course, but contributing too in the earlier sunset, from mid-December.
+
+Throughout this apparition of Jupiter and the Great Red Spot, conditions have slowly improved. Though the Spot was somewhat difficult to observe last June, it was nevertheless observable, and now shows some color when seeing is at all good; not yet really red, but definite orange! Let's hope that the trend will continue. Historically, the Spot has not been very distinct, so we must observe it when we can.
+
+The times in the table are the moment when the Spot will be facing directly toward the Earth, best placed for observations. Expect to see the Spot an hour before and after the tabular times, darkness and elevation permitting.
+
+Great Red Spot on Meridian PST
+
+da mo  d    h  m          da mo  d    h  m          da mo  d    h  m
+Th  1  1    5 30 pm       Tu  1 13    5 31 pm       Tu  1 27    7 12 pm
+Sa  1  3    7  8 pm       Th  1 15    7  5 pm       Su  2  1    6 20 pm
+Th  1  8    6 20 pm       Tu  1 20    6 22 pm       Su  2  8    7  9 pm
+Sa  1 10    8  0 pm       Su  1 25    5 27 pm       F   2 13    6 16 pm
+
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+[THIS IS FIGURE: Simple circular diagram with crosshairs]
+
+Two faint comets have recently been discovered. Meanwhile, Comet Wilson has sunk into our evening twilight, we'll see it again in March. Comet Sorrells is in our evening sky while the slightly-fainter Halley's Comet rises before midnight.
+
+Periodic Comet Urata-Niijima (1986o): Less than two days before William Sorrells found his comet, T. Urata and I. Niijima of Japan captured on film an object believed to be an asteroid. Further observations, however, showed it to be surrounded by a coma, hence it was designated a comet. This is the first amateur photographic comet discovery to be made since 1972. The discovery of the 16th magnitude object in Aries was made with a 12" f/5.8 reflector.
+
+The computed orbit shows that this is a periodic comet. It returns every 5.4 years, never getting closer than 1.4 AU from the sun. This is a favorable visit of the comet, which is not expected to get brighter than mag. 16.
+
+Comet Lovas (1986p): Miklos Lovas discovered this comet at mag. 14 in Aries on Nov. 28. I know nothing else about it at this time.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAGMdRG3SHDCPoqihw'}]
+DATE R.A. (1950) DEC ELONG MAG. NOTES
+
+Comet Sorrells (1986n)
+
+12-21 01h 01.6m +19° 49' 113° 10.7 This comet now appears about two
+12-26 00h 44.4m +18° 02' 104° 10.8 arcminutes in size. You'll find
+12-31 00h 30.5m +16° 29' 95° 10.9 it in the evening sky, south of the
+01-05 00h 19.2m +15° 10' 87° 10.9 Square of Pegasus. We'll be able
+01-10 00h 10.1m +14° 04' 80° 11.0 follow it in the evening sky until
+01-15 00h 02.9m +13° 08' 73° 11.1 March, then we'll lose it in solar
+01-20 23h 57.0m +12° 23' 66° 11.1 glare until late April. In mid-Jan,
+01-25 23h 52.4m +11° 47' 60° 11.2 the comet is 175 million miles from
+01-30 23h 48.6m +11° 18' 54° 11.2 both the earth and the sun.
+02-04 23h 45.6m +10° 55' 48° 11.3
+
+Periodic Comet Halley (1982i)
+
+12-21 11h 34.9m -15° 58' 68° 12.1 Halley's Comet is slowly becoming
+12-26 11h 32.7m -16° 09' 93° 12.1 fainter as it recedes from the sun
+12-31 11h 30.0m -16° 17' 98° 12.2 while the distance to the earth
+01-05 11h 26.8m -16° 23' 104° 12.2 decreases. The comet is quite small,
+01-10 11h 23.3m -16° 25' 109° 12.2 only about one arcminute in size.
+01-15 11h 19.4m -16° 24' 114° 12.2 Be sure to use a large scope with
+01-20 11h 15.0m -16° 20' 120° 12.2 medium power to catch this famous
+01-25 11h 10.4m -16° 13' 126° 12.2 visitor.
+01-30 11h 05.4m -16° 01' 132° 12.3
+02-04 11h 00.1m -15° 46' 137° 12.3
+
+SEEKING COMETS
+
+This month we begin a new feature in Comet Comments. How can you be sure
+you've discovered a comet? How do you report a new comet discovery? We'll
+explore the first question this month, the second question next month.
+
+When I'm comet hunting and I run across a nebulous object, my immediate task is
+to prove that it is not a comet. If I can not do that, then perhaps it is a
+new comet. There are the things I check:
+
+1) Is it a known object such as a nebula, galaxy or small cluster? If I don't
+know for sure from memory that this is a known object, I'll check the "Atlas of
+the Heavens" and the Tirion Atlas in the book " A Field Guide To The Stars And
+Planets". Finally I'll refer to the NNGC to see if it is a very faint object.
+
+2) My next step (although for small objects this is my first step) I'll throw
+on higher power to see if it will resolve as a small group of stars. This is
+important, as often comet hunters use low magnification which make two or three
+stars look like a fuzzy object.
+
+If the suspect fails these first two tests, I'll usually make two drawings of
+the field. One drawing shows the whole field with brighter stars, the second
+drawing shows the suspect in relation to faint stars nearby.
+
+3) Is it a ghost image? Wiggle and rotate the telescope tube to see if it also
+moves in relation to the stars. Change eyepieces too, and see if the image
+remains. It is rare that the suspect would be a ghost image, but it can
+happen, so be sure to include this step.
+
+4) Check to see if it is a known comet. Usually I'll list the brighter ones in
+this column.
+
+5) Check to see if it is a known comet. Usually I'll list the brighter ones in
+this column.
+
+6) Check again for motion. The average amateur-found comet moves about 3.3
+arc-minutes/hour when in the morning sky and 1.8 arc-minutes /hour in the
+evening sky. However, the speed of a newly-discovered comet can range from 0.5
+to 18 arc-minutes/hour. If you drew an accurate drawing, you should recognize
+motion within an hour.
+
+For photographic discoveries, it is possible that the fuzzy object is a film
+defect. The best thing to do is to rephotograph the region, which should also
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAH34EWsVz6Z613ML3'}]
+show motion. It is equally good to visually observe the object.
+If you cannot prove the object to be something other than a comet, then perhaps
+you have found a new comet. Next month I'll discuss the reporting of a comet.
+
+SPACE PROGRAM UPDATE
+BY: BOB FINGERHUT
+
+REPLACEMENT SHUTTLE FUNDED
+
+$2.4 billion was transferred from the Defense Department to
+pay for a new space shuttle orbiter. NASA will therefore
+have a record fiscal 1987 budget appropriation of $10.4
+billion.
+
+WEST COAST LAUNCH SITE SUPPORTED
+
+A Dec 5 General Accounting Office report to congress has said that Space Launch
+Complex 6 at Vandenberg AFB, CA. will be needed to launch 9 government payloads
+in 1992-94.
+
+SHUTTLE BOOSTER FAILURE DUPLICATED
+
+A ground test has exactly duplicated the booster failure that destroyed the
+orbiter Challenger. The causes were cold temperature of the O-rings and
+prelaunch pressure tests. The cold temperature slowed O-ring sealing response
+and the prelaunch pressure test caused blow holes in the putty which provided a
+path for hot gasses to reach the O-rings. A recent study of launch films has
+indicated that a strut used to attach the booster to the external tank may have
+failed prematurely. NASA is going to reinvestigate this possibility.
+
+THREE SUCCESSFUL BOOSTER LAUNCHES
+
+On 17 Sept. an Atlas E booster put an NOAA-6 weather satellite in orbit from
+Vandenberg AFB. On 4 Dec. an Atlas Centaur put a Fleet Satellite
+Communications Spacecraft in geosynchronous orbit from Cape Canaveral. On 13
+Nov. A Scout booster put a polar beacon experiment and auroral research
+spacecraft into polar orbit from Vandenberg AFB. The spacecraft had been on
+display for eight years in the Smithsonian's National Air and Space Museum.
+
+ARIANE CREATES SPACE POLLUTION
+
+An old Ariane booster third stage, launched nine months ago, exploded in space
+Nov. 13. The explosion threw debris into orbits as low as 270 mi. and as high
+as 840 mi. There are about 200 pieces that are one-half inch in diameter or
+larger. Even smaller particles could cripple or destroy a spacecraft in a
+collision were to occur.
+
+COMMERCIAL SATELLITES BOOKED ON EXPENDABLE BOOSTERS
+
+Three more U. S. satellites have been booked on China's Long March booster.
+They will be launched in 1987 and 1988. Three commercial satellites have also
+been booked for launch on Deltas. These launches will be in 1990.
+
+ESA APPROVES HERMES SPACE PLANE PREPARATORY PHASE
+
+The European Space Agency (ESA) has approved plans to define the spaceplane's
+use and mission roles. Ten countries have made commitments to participate in
+the program and several more are considering joining. A decision on full scale
+development will be made in 1987. The Hermes is expected to begin flying in
+the second half of the 1990's.
+
+SOVIET SHUTTLE COMPLETES LAUNCH PAD TESTS
+
+The soviet space shuttle completed fit checks while mounted piggyback to its
+heavy expendable launch vehicle on the launch pad at Tyuratam and then was
+removed. The first launch of the heavy expendable booster is expected in 1987.
+The first manned launch of the orbiter is expected in early 1988.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAJ26SiCi8mLk22VR9'}]
+SJAA MEETING AND STAR PARTY LOCATIONS
+GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross
+building in Los Gatos California. The large meeting room has kitchen
+facilities and large slide projection screen. This is also the location for
+the SJAA's "Indoor Star Parties", informal sessions where members gather to
+share their astronomical interests. Whatever your interest, astrophotography,
+deep sky observation, telescope making, or just arm chair observing, you'll
+find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17
+take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road
+for about 1.5 miles. Turn right at Rose Ave. Then turn right immediately into
+the parking lot of the Red Cross building. Doors open at 7:45 PM, with general
+meetings beginning at 8 PM. General Meetings are held on the 4th saturday of
+each month.
+
+INDOOR STAR PARTIES
+
+Each month there are several saturday evenings set aside for informal
+gatherings of amateur astronomers to share their common interest in astronomy,
+to "talk shop", or to simply enjoy the company of friends. Members are
+encouraged to bring in telescopes and accessories to share with the group.
+Usually there are several telescopes operating in the parking lot or
+there will be a slide show of recent astrophotography and star party events in
+progress in the meeting hall. Also on the first two saturdays of each month
+this time as well as an introductory astronomy workshop that is conducted once
+a month. Indoor Star Parties are held at the Los Gatos Red Cross Building.
+
+HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue
+east towards the hills (around and past Anderson Reservior) for about 12 miles
+to the park. Past the park entrance you will see old ranch type buildings on
+the right and a horse trough. The gate (on the left) is locked but the club
+combination is 4565. Always lock the gate after yourself. If arriving after
+dark, please park outside the gate and hike in first to find an observing site
+before dark, please. Just a short distance up a hill beyond the gate is where
+the SJAA sets up equipment.
+
+FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista
+exit) for two miles to a yellow flashing light. Turn right and go about 1/4
+mile to where the road reaches a "Y". Stay left for about 25 yards and then go
+right. (Watch closely for the Fremont Peak sign) Follow the canyon road for
+about 10 miles up into the park. The SJAA sets up in Coulter Camp. It's
+visible on your right as you drive up onto the main area of the park. There is
+usually a gate permit booth right here every clear new moon weekend. This
+is also the location of the FPOA's public observatory. Fremont Peak starlight
+is also the location of the FPOA's public observatory. Fremont Peak is
+3000 ft above sea level. Arrive early if you are setting up equipment. 30 to
+40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+*                                                                              *
+*        EPHEMERIS is     published monthly by    the    San   Jose   Astronomical   *
+*        Association,     3503    Calico    Ave,   San   Jose    California    95124.         *
+*        Contributors are  welcome to submit  articles for  publication.   These    *
+*        should be typed and  submitted no later than the 12th  of the previous      *
+*        month.  All  submissions   should  be sent directly to the editor, John     *
+*        Gleason, 5361 Port Sailwood Dr, Newark, CA.  94560.                         *
+*                                        OFFICERS                                    *
+*        PRESIDENT:  Bob Fingerhut.................................408-253-4455      *
+*        VICE-PRES:  Tom Ahl......................................408-268-3927       *
+*        SECRETARY:  Jim Van Nuland...............................408-371-1307       *
+*        TREASURER:  Jack Peterson................................408-262-1457       *
+*        EDITOR:     John P. Gleason..............................415-790-9250       *
+*                                   BOARD OF DIRECTORS                              *
+*        Paul Mancuso.............................................408-946-0738       *
+*        Jack Peterson............................................408-262-1457       *
+*        Bob Fingerhut............................................408-253-4455       *
+*        Tom Ahl..................................................408-268-3927       *
+*        Gene Cisneros............................................408-923-6800       *
+*        Joe Sunseri..............................................408-224-8695       *
+*        Ron Waltan...............................................415-278-3335       *
+*        Vincent Murnane..........................................408-448-5361       *
+*                                                                              *
+********************************************************************************
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAJY6WKpQuGtCJKJjD'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10     MEMBERSHIP/S&T: $ 24.00   JUNIOR (UNDER 18): $ 17.00
+
+Name ____________________________________________    Questionnaire (optional)
+
+Address _________________________________________    What are your astronomical interests (e.g. astro-
+                                                     photography, deep-sky observation, telescope making,
+________________________________________________    etc.)? ___________________________________________
+
+Telephone (_____)________________________________    ________________________________________________
+
+Please bring this form to any SJAA meeting, or send to:    ________________________________________________
+
+Jack Peterson, Treas.                                Do you own a telescope? ________ If so, what kind?
+San Jose Astronomical Association
+1840 Yosemite Dr.                                    ________________________________________________
+Milpitas, CA. 95035
+
+[ Phone: (408) 262-1457 ]                           Is there any specific area of astronomy that you feel
+                                                    qualified to help others with? _____________________
+Please check type of membership and if new
+or renewal.                                          ________________________________________________
+
+Membership Only___   Membership/S&T____             ________________________________________________
+
+Junior (Under 18)____
+
+New____    Renewal____
+
+
+SJAA EPHEMERIS                                      NON-PROFIT ORGANIZATION
+3509 CALICO AVE.                                    U.S. POSTAGE PAID
+SAN JOSE, CA. 95124
+                                                    PERMIT NO.5381
+
+                                                    SAN JOSE, CA. 95125
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

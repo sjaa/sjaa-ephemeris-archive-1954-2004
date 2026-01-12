@@ -1,11 +1,9 @@
 === PAGE 1 ===
-MAY'85
-
-SJAA
+MAY'83
 
 EPHEMERIS
 
-[The image shows the cover page of what appears to be a publication called "EPHEMERIS" from May 1985, published by SJAA (San Jose Astronomical Association). The main feature is a black and white astronomical photograph showing what appears to be a nebula or cosmic cloud formation against a starry background.]
+[The image shows a dark astronomical photograph with white dots representing stars and what appears to be a nebula or cosmic dust cloud formation in the center]
 
 === PAGE 2 ===
 # CALENDAR
@@ -14,9 +12,9 @@ MAY 7    STAR-PARTY, HENRY COE PARK
 
 MAY 14   STAR-PARTY, FREMONT PEAK STATE PARK
 
-MAY 21   GENERAL  MEMBERSHIP MEETING, U of SANTA CLARA, RM 102
+MAY 21   GENERAL MEMBERSHIP MEETING, U of SANTA CLARA, RM 102
          JOHN GLEASON, "ASTROPHOTOGRAPHY WITH COLD CAMERA AND
-         GASSING TECHNIQUES"                            8:00PM
+         GASSING TECHNIQUES"                          8:00PM
 
 MAY 28   INDOOR STAR-PARTY, LOS GATOS RED CROSS, 7:30 PM ON
          ALL ARE WELCOME, BRING SCOPES, QUESTIONS, SLIDES...
@@ -47,23 +45,25 @@ FOR SALE:
 TELESCOPE.  $ 7.00 PER FOOT APPROX 9 FEET AVAILABLE.
                     CALL ANDY GUDAS (408) 272-7976
 
-     EPHEMERIS, is published monthly by the San Jose Astronomical
-Association, 3509 Calico Ave, San Jose, Ca. 95124  (408) 246-6189
-     All contributions are welcome and must be received by the 15th
-of the preceeding month.  Please type to a width of 6.5", if this
+---
+
+EPHEMERIS. is published monthly by the San Jose Astronomical
+Association. 3509 Calico Ave, San Jose, Ca. 95124 (408) 246-6189
+All contributions are welcome and must be received by the 15th
+of the preceeding month. Please type to a width of 6.5", if this
 is not possible, handwritten articles are welcome, single space.
-     EPHEMERIS also welcomes your black and white photos of astro-
+  EPHEMERIS also welcomes your black and white photos of astro-
 nomical interest.  8x10 prints > 5x7 print min
-     All submissions may be sent to SJAA EPHEMERIS editor c/o Jack
-Zeiders  2961 Magliocco Dr #3, San Jose, Ca. 95128 (408) 246-6189
+  All submissions may be sent to SJAA EPHEMERIS editor c/o Jack
+Zeiders 2961 Magliocco Dr #3, San Jose, Ca. 95128 (408) 246-6189
 
 SJAA President; Debra Frerichs
 15022 Broadway Terrace, Oakland, CA 94611 (415) 654-6796
 SJAA Treasurer; Bob Fingerhut
 340 Rio Verde Pl #4, Milpitas, Ca. 95035
 
-Board of Directors:                      Bill Cooke  (408) 739-6319
-Eugene Disperos (408) 923-6800  D.Frerichs-Medlock (415) 654-6796
+Board of Directors:                    Bill Cooke  (408) 739-6319
+Eugene Diomeros (408) 923-6800  D.Frerichs-Medlock (415) 654-6796
 Frank Dibbell (408) 746-6493 day      Chris Pratt (408) 629-2994
 Steve Greenberg (415) 443-6638        Jim Van Nuland (408) 371-1307
 Shea Pratt (408) 629-2994             Jack Zeiders (408) 246-6189
@@ -90,17 +90,17 @@ consider running for a board position.
 
 June is also membership renewal month. Located somewhere in this bulletin
 is a handy, dandy, renewal form which you can fill out and send to SJAA,
-Bob Fingerhut, 340 Rio Verde Pl. #4, Milpitas, Ca. 95035. Please include the
+Bob Fingerhut, 340 Rio Verde Pl, #4, Milpitas, Ca. 95035. Please include the
 proper amount (check or money order), and if you're renewing Sky & Telescope
 along with your membership, the renewal card sent by the magazine.
 
 The SJAA has restructured its membership status because of the recent jump
 in Sky & Telescope fees. The catagories are:
 
-Membership with Sky & Telescope            $21
-Junior membership (under 12) w/ S & T      15
-Membership only                             8 (formerly bulletin
-                                             subscription only)
+Membership with Sky & Telescope                     $21
+Junior membership (under 12) w/ S & T               15
+Membership only                                      8 (formerly bulletin
+                                                        subscription only)
 
 July is the annual picnic (location as yet unknown), and also the present-
 ation of the Dr. A. B. Gregory Award. Dr. Gregory was a long time member and
@@ -138,8 +138,6 @@ appreciate it.
 
 CLEAR SKIES!!
 
-═══════════════════════════════════════════════════════════════════════════
-
 APRIL 16 STAR-PARTY
 BY GEORGE DEIWERT
 
@@ -157,13 +155,11 @@ quite clear, providing for several hours of enjoyable observing.
 I had intended to do my best to make up for missing the Messier Marathon scheduled
 in March and spent the first few hours observing Messier objects as well as a
 few of the planets. Later I turned my attention, along with the other observers,
-on the galaxies in Leo and Coma Berinices. Most of us engaged in this activity
+on the galaxies in Leo and Coma Berenicies. Most of us engaged in this activity
 until about 200 hours when the wind and clouds picked up enough to make observing
 untenable. We all felt fortunate and grateful for the several hours of good
 observing time we had and hope that the April 16 star party will be the beginning
 of a year of good skies.
-
-═══════════════════════════════════════════════════════════════════════════
 
 GREAT RED SPOT EPHEMERIDES
 BY JIM VAN NULAND
@@ -186,30 +182,15 @@ it.
 === PAGE 5 ===
 Great Red Spot on Meridian PDT
 
-da mo d h m
-Su 5 1 4 6 am
-M 5 2 0 4 am
-W 5 4 1 32 am
-F 5 6 3 17 am
-M 5 9 0 40 am
-W 5 11 2 24 am
+da mo  d    h   m                    da mo  d    h   m                    da mo  d    h   m
+Su  5   1    4   6 am                F   5  13   3  55 am                M   5  23   2  17 am
+M   5   2    0   4 am                F   5  13  11  50 pm                W   5  25   3  48 am
+W   5   4    1  32 am                M   5  16   1  32 am                W   5  25  11  46 pm
+F   5   6    3  17 am                                                    Sa  5  28   1  21 am
+M   5   9    0  40 am                W   5  18   3   7 am                M   5  30   2  60 am
+W   5  11    2  24 am                W   5  18  10  55 pm                M   5  30  10  51 pm
+                                     Sa  5  21   0  36 am
 
-da mo d h m
-F 5 13 3 55 am
-F 5 13 11 50 pm
-M 5 16 1 32 am
-F - - - -
-W 5 18 3 7 am
-W 5 18 10 55 pm
-Sa 5 21 0 36 am
-
-da mo d h m
-M 5 23 2 17 am
-W 5 25 3 48 am
-W 5 25 11 46 pm
-Sa 5 28 1 21 am
-M 5 30 2 60 am
-M 5 30 10 51 pm
 
 SPACE PROGRAM UPDATE
 BY BOB FINGERHUT
@@ -220,7 +201,7 @@ The second space shuttle orbiter, Challenger, performed beautifully in its first
 
 LOSS OF TDRS-A AVERTED
 
-The Tracking and Data Relay Satellite, TDRS-A, is now under control following serious problems with its upper stage booster following its launch by the space shuttle. In an incredible drama the satellite stabilized out after being given up for dead by ground based controllers. The problem which appears to have developed with the second stage or its Inertial Upper Stage (IUS) booster left the satellite tumbling in a 21,950 x 13,540 mi. orbit. Fortunatley the satellite is carrying 1,300 lb of propellant. About 850 lb of fuel will be needed to change the orbit over the next several weeks to the desired 22,335 mi. circular orbit, there will still be enough fuel for the satellites ten year life.
+The Tracking and Data Relay Satellite, TDRS-A, is now under control following serious problems with its upper stage booster following its launch by the space shuttle. In an incredible drama the satellite stabilized out after being given up for dead by ground based controllers. The problem which appears to have developed with the second stage of its Inertial Upper Stage (IUS) booster left the satellite tumbling in a 21,950 x 13,540 mi. orbit. Fortunately the satellite is carrying 1,300 lb of propellant. About 850 lb of fuel will be needed to change the orbit over the next several weeks to the desired 22,335 mi. circular orbit, there will still be enough fuel for the satellites ten year life.
 
 STS-7 SHUTTLE MISSION
 
@@ -228,82 +209,72 @@ The STS-7 mission, which is scheduled for the second week in June, will be a six
 
 RUSSIAN SPACE STATION ENLARGED
 
-The Salute 7 space-station has been enlarged with the Cosmos 1443 space station module. Manned operations to the Salute 7 are expected to resume at the next launch window in late April.
+The Salute 7 space station has been enlarged with the Cosmos 1443 space station module. Manned operations to the Salute 7 are expected to resume at the next launch window in late April.
 
 SOVIET MODEL SPACEPLANE LAUNCHED
 
-U.S. reconnaisance spacecraft have sighted a Soviet heavy space shuttle orbiter which resembles the double delta winged NASA orbiter. The Soviet shuttle has the engines mounted on the external tank not in the orbiter tail, all engines, the strap-on boosters, and the external tank will be expendable. Two Bison bombers have been spotted with racks on top of their fuselages to carry piggyback either the Soviet shuttle orbiter or the large Saturn 5 - class stage elements. Both have been seen atop the Bisons. New launch pad construction at Tyuratam is believed associated with the Saturn 5 - class booster which is under development.
+U.S. reconnaissance spacecraft have sighted a Soviet heavy space shuttle orbiter which resembles the double delta winged NASA orbiter. The Soviet shuttle has the engines mounted on the external tank not in the orbiter tail: all engines, the strap-on boosters, and the external tank will be expendable. Two Bison bombers have been spotted with racks on top of their fuselages to carry piggyback either the Soviet shuttle orbiter or the large Saturn 5 - class stage elements. Both have been seen atop the Bisons. New launch pad construction at Tyuratam is believed associated with the Saturn 5 - class booster which is under development.
 
 4
 
 === PAGE 6 ===
-LANDSAT LOSES THEMATIC MAPPER TRANSMITTER
+# LANDSAT LOSES THEMATIC MAPPER TRANSMITTER
 
-The X-band transmitter on Landsat 4 that was used to send
-thematic mapper data to ground stations: was lost Feb.15. When
-the TDRS-A is working it will restore data reception from the
-thematic mapper.
+The X-band transmitter on Landsat 4 that was used to send thematic mapper data to ground stations was lost Feb.15. When the TDRS-A is working it will restore data reception from the thematic mapper.
 
-VIKING I STILL SILENT
+# VIKING I STILL SILENT
 
-JPL is still trying to reestablish communications with the
-Viking I lander on the surface of Mars. It has been silent since
-late last year when a command was sent which over wrote a portion
-of the computer memory where the location of Earth was stored.
+JPL is still trying to reestablish communications with the Viking I lander on the surface of Mars. It has been silent since late last year when a command was sent which over wrote a portion of the computer memory where the location of Earth was stored.
 
-SOLAR SYSTEM EXPLORATION COMMITTEE RECOMMENDATIONS
+# SOLAR SYSTEM EXPLORATION COMMITTEE RECOMMENDATIONS
 
-The committee. formed by NASA in 1980. has recommended a
-"core program" for a long-term mission strategy for solar system
-exploration. It includes a Mars orbiter (1990 launch), a comet
-rendezvous, a Titan flyby with probe. The program could be acco-
-mplished with a annual budget of $300 million in 1984 dollars.
+The committee, formed by NASA in 1980, has recommended a "core program" for a long-term mission strategy for solar system exploration. It includes a Mars orbiter (1990 launch), a comet rendezvous, a Titan flyby with probe. The program could be accomplished with a annual budget of $300 million in 1984 dollars.
 
-ESA SELECTS ITS NEXT PROJECT
+# ESA SELECTS ITS NEXT PROJECT
 
-The European Space Agency (ESA) has selected an infrared
-astronomy spacecraft as its next scientific mission. The Infrared
-Space Observatory (ISO) will carry a 60-cm diameter telescope.
-Lifetime in orbit is expected to be 18 months. The launch will
-be in the 1990's.
+The European Space Agency (ESA) has selected an infrared astronomy spacecraft as its next scientific mission. The Infrared Space Observatory (ISO) will carry a 60-cm diameter telescope. Lifetime in orbit is expected to be 18 months. The launch will be in the 1990's.
 
-COMET COMMENTS
+---
 
-BY DON MACHHOLZ
+# COMET COMMENTS
 
-The past month has seen no new comet discoveries or comet re-
-coveries, but two periodic comets, recovered last year, are now
-bright enough for amateur-sized telescope observation. Their
-positions are included below. Our "Past Discoveries" department
-is empty this month..No amateur comet discoveries have been
-made in the month of May during the years 1975 through 1982.
+# BY DON MACHHOLZ
 
-Periodic Comet Tempel 1 (1982i)
-Date (1983)  R.A.      Dec.       Mag.     This comet is clos-
-04-26        12h 35.8  +14° 55'   11.7     in on the sun and
-05-06        12  33.3  +13  16    11.5     Earth, and is vis-
-05-16        12  31.6  +10  50    11.4     ible on M 90 on May
-05-26        12  34 2  +07  49    11.3     5 and on NGC 4570
-06-05        12  41.0  +04  21    11.3     on May 27. Positions
-                                            end mag. from IAU
-                                            Circular 3773.
+The past month has seen no new comet discoveries or comet recoveries, but two periodic comets, recovered last year, are now bright enough for amateur-sized telescope observation. Their positions are included below. Our "Past Discoveries" department is empty this month. No amateur comet discoveries have been made in the month of May during the years 1975 through 1982.
 
-Periodic Comet Kopff (1982k)                This comet retro
-04-26        15h 46.3  -10° 18'   11.0     grades in central
-05-06        15  43.4  -09  46    10.6     Libra as it nears
-05-16        15  38.3  -09  20    10.3     both the Earth and
-05-26        15  32.2  -09  08    10.0     The Sun. Data from
-06-05        15  26.7  -09  18     9.9     IAU Circular 3779.
+## Periodic Comet Tempel 1 (1982t)
 
-BEGINNER'S CORNER
+| Date (1983) | R.A. | Dec. | Mag. | This comet is clos- |
+|-------------|------|------|------|---------------------|
+| 04-26 | 12h 35.8 | +14° 55' | 11.7 | in on the sun and |
+| 05-06 | 12 33.3 | +13 16 | 11.5 | Earth, and is vis- |
+| 05-16 | 12 31.6 | +10 50 | 11.4 | ible on M 90 on May |
+| 05-26 | 12 34 2 | +07 49 | 11.3 | 5 and on NGC 4570 |
+| 06-05 | 12 41.0 | +04 21 | 11.3 | on May 27. Positions |
 
-BY BRUCE DE GRAAF
+and mag. from IAU Circular 3773.
 
-The previous edition of this column dealt with the polar
-alignment of your astronomical telescope. This edition deals with
-the synchronization of your right ascension (RA) circle with the
-observed sky. Once the RA circle has been set, locating most
-objects is simply a matter of "dialing them up".
+## Periodic Comet Kopff (1982k)
+
+| 04-26 | 15h 46.3 | -10° 18' | 11.0 | This comet retro |
+| 05-06 | 15 43.4 | -09 46 | 10.6 | grades in central |
+| 05-16 | 15 38.3 | -09 20 | 10.3 | Libra as it nears |
+| 05-26 | 15 32.2 | -09 08 | 10.0 | both the Earth and |
+| 06-05 | 15 26.7 | -09 18 | 9.9 | The Sun. Data from |
+
+IAU Circular 3779.
+
+---
+
+# BEGINNER'S CORNER
+
+# BY BRUCE DE GRAAF
+
+The previous edition of this column dealt with the polar alignment of your astronomical telescope. This edition deals with the synchronization of your right ascension (RA) circle with the observed sky. Once the RA circle has been set, locating most objects is simply a matter of "dialing them up".
+
+---
+
+5
 
 === PAGE 7 ===
 It is assumed that you have aligned your equatorial mount with
@@ -326,7 +297,7 @@ constellations and the stars? Try looking through the following
 sources:
 
         "Rambling through the Skies", SKY AND TELESCOPE
-        Each month, this column presents both historical and
+Each month, this column presents both historical and
 observational information for the month of the
 magazine's edition. Along with the text is a map of the
 night sky as seen from the northern latitudes of Earth.
@@ -336,28 +307,28 @@ chart, you can align your RA circle.
 
         deGraaf's Ad Hoc Star Chart of Twenty Bright Stars
 Star's Name      RA    Dec            Star's Name      RA    Dec
------------      ---   ---            -----------      ---   ---
-Sirius           06:4  -16            beta Centauri    14:0  -60
-Canopus          06:2  -53            Altair           19:5    9
-alpha Centauri   14:4  -61            Alpha Crucis     12:2  -63
-Arcturus         14:1   19            Aldebaran        04:3   16
-Vega             18:4   39            Spica            13:2  -11
+-------------  ---- -----            -------------  ---- -----
+Sirius         06:4  -16             beta Centauri  14:0  -60
+Canopus        06:2  -53             Altair         19:5    9
+alpha Centauri 14:4  -61             Alpha Crucis   12:2  -63
+Arcturus       14:1   19             Aldebaran      04:3   16
+Vega           18:4   39             Spica          13:2  -11
 
-Capella          05:1   46            Antares          16:3  -26
-Rigel            05:1   -8            Pollux           07:4   28
-Procyon          07:4    5            Fomalhaut        23:0  -30
-Betelgeuse       05:5    7            Deneb            20:4   45
-Achernar         01:4  -57            beta Crucis      12:5  -59
+Capella        05:1   46             Antares        16:3  -26
+Rigel          05:1   -8             Pollux         07:4   28
+Procyon        07:4    5             Fomalhaut      23:0  -30
+Betelgeuse     05:5    7             Deneb          20:4   45
+Achernar       01:4  -57             beta Crucis    12:5  -59
 
-        For your curiousity, future articles for the "Beginner's Corner"
+        For your curiosity, future articles for the "Beginner's Corner"
 will include tirades on star party etiquette and a drive corrector
 construction article. If you have any ideas for the "Beginner's
 Corner", please contact me at one of the equipment night meetings.
 
         Everybody has heard terms such as "kilometer" or "megaton".
 The prefixes "kilo" and "mega" used in these terms are from the
-Systeme International d'Unites (SI)s the so-called "metric system"
-of measurements. Out of curiousity, I tracked down all of the
+Systeme International d'Unites (SI): the so-called "metric system"
+of measurements. Out of curiosity, I tracked down all of the
 defined prefixes in the SI. From smallest to largest, they are:
 
         atto   (0.000000000000000001 x)
@@ -372,104 +343,80 @@ defined prefixes in the SI. From smallest to largest, they are:
         hecto  (100 x)
         kilo   (1,000 x)
 
-                                                                           6
+                                                                        6
 
 === PAGE 8 ===
 ```
-                mega    (1,000,000 x)
-                giga    (1,000,000,000 x)
-                tera    (1,000,000,000,000 x)
-                peta    (1,000,000,000,000,000 x)
-                exa     (1,000,000,000,000,000,000 x)
-                     I presented this astounding information to Jack Zeiders and    we
-                decided    that  with  the  current   attention   being   paid  to high
-                technology by the political types we should have at least three
-                more prefixes at the high end:
-                     biga     (1,000,000,000,000,000,000,000 x)
-                     mo'biga (1,000,000,000,000,000,000,000,000 x)
-                                                     and
-                     qu'mental  (open ended...   often called "assa'nomical"...)
+mega (1,000,000 x)
+giga (1,000,000,000 x)
+tera (1,000,000,000,000 x)
+peta (1,000,000,000,000,000 x)
+exa (1,000,000,000,000,000,000 x)
+    I presented this astounding information to Jack Zeiders and we
+decided that with the current attention being paid to high
+technology by the political types we should have at least three
+more prefixes at the high end:
+    biga    (1,000,000,000,000,000,000,000 x)
+    mo'biga (1,000,000,000,000,000,000,000,000 x)
+                               and
+    gu'mental (open ended... often called "assa'nomical"...)
 
-                        MESSIER OBJECT VISIBILITY
-                              BY DON MACHHOLZ
-                     For observers in the mid-Northern latitudes, most of the
-                110 Messier Objects are visible through the year, if one is
-                willing to stay awake all night to observe them.  From 40º
-                N. Latitude, 11 Messier Objects are circumpolar (above the
-                horizon all night) and an additional 17 objects are far
-                enough north so that although they set, they quickly rise and
-                are still observable any night of the year.  The other 82
-                objects indepently hid in the sun's glare for anywhere from
-                3½ months (M 53 and M 93) to a few days (M 15).  The Virgo
-                group of galaxies is hidden from mid-Sept. to mid-Oct., while
-                the Scorpio/Sagittarius region is hidden from mid-Nov. to mid-
-                Jan.
-                     Below are two charts showing the number of Messier ob-
-                jects visible for each half-month for Latitude 40º and 25º N.
-                For those of us who are occasionally clouded out during the
-                traditional March Messier Marathon, we could schedule one for
-                mid-July and one for late-Oct./early-Nov.  The July Marathon
-                would be better weather-wise (fewer clouds and warmer temps.)
-                would last only about 7 hours, and would have the Scorpio/Sag-
-                ittarius region well-placed.  The disadvantage is that only
-                about 95 Messier Objects are visible at that time.
-                     A late-Oct./early Nov. Marathon would likely have good
-                weather with about 105 Messier Objects visible, the hindrance
-                being that the "Summer" Milk Way objects set early and the
-                Virgo galaxies rise late.
-                     It seems clear that anyone wishing to feast on the Messier
-                Objects can cover a large majority of them any time of the year.
+MESSIER OBJECT VISIBILITY
 
+BY DON MACHHOLZ
 
-                     Number of Messier Objects Visible  40°N
-                110                                                               110
+    For observers in the mid-Northern latitudes, most of the
+110 Messier Objects are visible through the year, if one is
+willing to stay awake all night to observe them. From 40º
+N. Latitude, 11 Messier Objects are circumpolar (above the
+horizon all night) and an additional 17 objects are far
+enough north so that although they set, they quickly rise and
+are still observable any night of the year. The other 82
+objects indepently hid in the sun's glare for anywhere from
+3½ months (M 83 and M 93) to a few days (M 15). The Virgo
+group of galaxies is hidden from mid-Sept. to mid-Oct., while
+the Scorpio/Sagittarius region is hidden from mid-Nov. to mid-
+Jan.
 
+    Below are two charts showing the number of Messier ob-
+jects visible for each half-month for Latitude 40º and 25º N.
+For those of us who are occasionally clouded out during the
+traditional March Messier Marathon, we could schedule one for
+mid-July and one for late-Oct./early-Nov. The July Marathon
+would be better weather-wise (fewer clouds and warmer temps.)
+would last only about 7 hours, and would have the Scorpio/Sag-
+ittarius region well-placed. The disadvantage is that only
+about 95 Messier Objects are visible at that time.
+    A late-Oct./early Nov. Marathon would likely have good
+weather with about 105 Messier Objects visible, the hindrance
+being that the "Summer" Milk Way objects set early and the
+Virgo galaxies rise late.
 
-                100                                                               100
+    It seems clear that anyone wishing to feast on the Messier
+Objects can cover a large majority of them any time of the year.
 
-
-                 90                                                               90
-
-
-                     J    F    M    A    m    J    J    A    S    O    N    D
-                7
+[THIS IS CHART: A line graph showing "Number of Messier Objects Visible 40°N" across months J through D, with y-axis ranging from 90 to 110. The line shows variations in visibility throughout the year, with peaks around February-March and October-November, and dips in June and September.]
 ```
 
 === PAGE 9 ===
-
-
 Number of Messier Objects Visible 25°N
+
+[Chart showing monthly data from J F M A M J J A S O N D with values ranging from approximately 70 to 110]
 
 THE CELESTIAL TOURIST SPEAKS
 BY JAY REYNOLDS FREEMAN
 
-Many amateur astronomers carry some kind of tool kit or ditty bag
-with them when they go out to observe. The contents are typically as
-follows:
+Many amateur astronomers carry some kind of tool kit or ditty bag with them when they go out to observe. The contents are typically as follows:
 
 (A) Two blown drive-corrector fuses (the original and the spare)
-(B) A lensless eyepiece from an old toy refractor (this is used as
-    a chart paperweight.)
-(C) A deck of 37 playing cards (the others have been used to bush
-    out the star diagonal so it won't fall out of the focuser tube.)
-(D) Nine useless Allen wenches ( the ones that fit anything have
-    long since been lost.)
+(B) A lensless eyepiece from an old toy refractor (this is used as a chart paperweight.)
+(C) A deck of 37 playing cards (the others have been used to bush out the star diagonal so it won't fall out of the focuser tube.)
+(D) Nine useless Allen wenches ( the ones that fit anything have long since been lost.)
 (E) A year-old piece of vegetable pizza (it used to be pepperoni.)
 
-In case you haven't guessed, the subject of this month's column is the
-small bits and pieces of hardware that might usefully go into an observing
-kit. I'll omit eyepieces, because I discussed them at great length in the
-last few columns I wrote, last summer. I'll subdivide the rest into two
-catagories: Things you are certain to need every time you observe, and
-things you will need less often. This subdivision not only lets me organize
-my column, but it is also a useful way to organize an observing kit physi-
-cally. You might have two tool kits or ditty bags, one for the stuff you
-always need and the other for the occasional-use items.
+In case you haven't guessed, the subject of this month's column is the small bits and pieces of hardware that might usefully go into an observing kit. I'll omit eyepieces, because I discussed them at great length in the last few columns I wrote, last summer. I'll subdivide the rest into two catagories: Things you are certain to need every time you observe, and things you will need less often. This subdivision not only lets me organize my column, but it is also a useful way to organize an observing kit physically. You might have two tool kits or ditty bags, one for the stuff you always need and the other for the occasional-use items.
 
-The things you need every time will include a red flashlight, any
-small telescope parts that for some reason you cannot leave permanently
-attached to bigger subassemblies, plus all the tools and fasteners (nuts,
-bolts, washers...) required to out your telescope together.
+The things you need every time will include a red flashlight, any small telescope parts that for some reason you cannot leave permanently attached to bigger subassemblies, plus all the tools and fasteners (nuts, bolts, washers...) required to out your telescope together.
 
 8
 
@@ -490,12 +437,12 @@ Now let us discuss fasteners. The basic rul is to use stainless steel wherever p
 
 If you need a lot of fasteners to set up your telescope, it is probably worth it to organize them in one of those clear plastic boxes with lots of compartments, so you can find the one you need when you want it.
 
-The usual reasons why small components cannot be left permanently attached to the telescope are that they are too fragile, like some finders; or too gangly, like electrical cables. Fragile parts should be packed carefully. If you haven't got a box that will fit, get some thin sheet foam (try Standard Brands paint stores), cut a piece the right size to wrap the part in, and hold it in place with rubber bands. Electrical cables should be coiled up and put into plastic bags that aren't much bigger than the coils -- that way they won't uncoil and snarl.
+The usual reasons why small components cannot be left permanently attached to the telescope are that they are too fragile, like some finders; or too tangly, like electrical cables. Fragile parts should be packed carefully. If you haven't got a box that will fit, get some thin sheet foam (try Standard Brands paint stores), cut a piece the right size to wrap the part in, and hold it in place with rubber bands. Electrical cables should be coiled up and put into plastic bags that aren't much bigger than the coils -- that way they won't uncoil and snarl.
 
 === PAGE 11 ===
 Stuff you will need only once in a while will include spare parts, equipment for making repairs, and things having to do with special conditions. The most commonly needed spares will probably be fasteners. When an original gets lost or gets too dirty to clean. A useful rule of thumb for quantity is to count the number of each kind of fastener used on your telescope, and carry half that number as spares; but never less than two. You may also need spare fuses, or a few extras of easily-lost small parts like eyepiece covers. Spare electrical cables can be useful, and you will certainly want a spare flashlight, but much more in the way of spares is probably overkill.
 
-Special conditions mean mostly weather and dirt. You might want a taupaul in to throw over your equipment if you wake up in the middle of the night and find it's raining, or if you set up early, while other people's wheels are still kicking up dust. And if your optics dew, be prepared to cope: Battery-powered "dew guns" and small propane heaters are the likeliest solutions. You might also want a sponge for wiping off non-optical surfaces on s very wet night.
+Special conditions mean mostly weather and dirt. You might want a taupauiln to throw over your equipment if you wake up in the middle of the night and find it's raining, or if you set up early, while other people's wheels are still kicking up dust. And if your optics dew, be prepared to cope: Battery-powered "dew guns" and small propane heaters are the likeliest solutions. You might also want a sponge for wiping off non-optical surfaces on s very wet night.
 
 By and large, field maintenance of a telescope is better avoided, particularly if it means cleaning or disassembling optics, but there are some exceptions. See that the tool kit contains the equipment you need to collimate your telescope. (Note that I optimistically include these tools in the section of things you won't need every time.) Be prepared to clean grit out of threads when you drop nuts and bolts on the ground: A small spray can of the light oil called WD-40 is useful here, as is a roll of paper towels and an old pen knife. Be prepared to clean electrical contacts, too: These don't last long in the field, and at the low voltages used by telescopes, even a little corrosion is a serious problem. An old pen knife and some steel wool are indicated.
 
@@ -505,20 +452,18 @@ Other useful maintenance equipment might include a small rattail file for dressi
 
 BY DON MACHHOLZ
 
-The month of March was a very cloudy and rainy month for California, clouding out the 1983 Messier Marathon planned for the weekends of March 11-13 and 18-20. There will be other times later this year when a great number of Messier Objects will be visible in one night, but March is the only month when 109 of the 110 Objects can be observed and has been the traditional time for the Marathon.
+The month of March was a very cloudy and rainy month for California, clouding out the 1983 Messier Marathon planned for the weekends of March 11-13 and 18-20. There will be other times later this year when a great number of Messier Objects will be visible in one night, but March is the only month when all 109 of the 110 Objects can be observed and has been the traditional time for the Marathon.
 
 10
 
 === PAGE 12 ===
-The weather in Arizona was clear during the second weekend and many observers took part in the Marathon. David Levy, near Tucson, observed 109 Messier Objects on the night of March 15-16 with a variety of telescopes, missing only M 30. He also saw 35 non-Messier deep-sky objects.
+The weather in Arizona was clear during the second weekend and many observers took part in the Marathon. David Levy, near Tucson, observed 109 Messier Objects on the night of March 15-16 with a variety of telescopes mixing only M 30. He also saw 35 non-Messier deep-sky objects.
 
-Wally Brown of the Saguaro Astronomy Club near Phoenix is the chairman of the Deep-Sky Group. He reports of 30 observers and 18 telescopes, with 10 people Marathoning and four of them observing all 109 Objects. The four are: Wally Brown, Ron Gsciolek, Ron Hatcher (all using Celestron 8's) and Gerry Rattley. Four others observed more than 100 Objects.
+Wally Brown of the Saguaro Astronomy Club near Phoenix is the chairman of the Deep-Sky Group. He reports of 30 observers and 18 telescopes, with 10 people Marathoning and four of them observing all 109 Objects. The four are: Wally Brown, Ron Osiolec, Ron Hatcher (all using Celestron 8's) and Gerry Rattley. Four others observed more than 100 Objects.
 
 Next Spring there will be two windows open for the Marathon, one in early March and one in early April. Between now and then don't forget the Messier Objects, they are always there for observation and perhaps we can set aside a couple of observing sessions for mini-marathons. Watch for details on this.
 
-
 APPODIZING SCREEN
-
 BY JIM VAN NULAND
 
 Here is some follow-up information regarding the apodizing filter which I've been promoting. My thanks to Dennis DiCicco and Richard Berry for their help.
@@ -684,17 +629,17 @@ on a mountain top with a dozen or so peculiar people. I suspect he is also
 quite relieved that this interview is almost over. Thank you for consenting
 to the interview, Gary, and good luck on your astrophotographical endeavors.
 
-[THIS IS IMAGE: A grainy black and white photograph showing what appears to be a starfield or astronomical image with various white spots and clusters against a dark background]
+[THIS IS FIGURE: A grainy black and white photograph showing what appears to be a starry night sky]
 
 SJAA MEMBERSHIP APPLICATION/RENEWAL
 
-NAME _______________________________________________________________________________
+NAME _____________________________________________________________________________
 
-ADDRESS _____________________________________________ CITY _______________________________
+ADDRESS _________________________________________ CITY _____________________________
 
-PHONE ______________________________________________ STATE _____________ ZIP ______________
+PHONE __________________________________________ STATE ____________ ZIP _____________
 
-AREA OF INTEREST____________________________________________________________________
+AREA OF INTEREST__________________________________________________________________
 
 MEMBERSHIP/S&T □ $21.00          JUNIOR (UNDER 12) □ $15.00
 
@@ -703,13 +648,13 @@ MEMBERSHIP ONLY □ $8.00
 14
 
 === PAGE 16 ===
-SUMA - EPHEMERIS
-3509 CALICO AVE
+SUJA EPHEMERIS
+3509 CALICO AVE.
 SAN JOSE, CA 95124
 
-TIME VALUE - DATED
+TIME VALUE — DATED
 NEWS MATERIAL
 
 U.S. POSTAGE PAID
-PERMIT NO.5531
+PERMIT NO.5381
 SAN JOSE, CA 95125

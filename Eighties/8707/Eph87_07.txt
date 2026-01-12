@@ -1,35 +1,473 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAB9XtVEpDuDALdzFar'}]
+# EPHEMERIS
+## OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+JULY 1987
+
+*************************************************
+*                                               *
+*            JULY 18TH ANNUAL SJAA PICNIC      *
+*            GRANT RANCH COUNTY PARK            *
+*                   NOON TILL ?                 *
+*            AUGUST 1ST  8PM                    *
+*            JOHN GLEASON                       *
+*       FISHING FOR STARLIGHT                   *
+*  AMATEUR ASTROPHOTOGRAPHY IN THE 80's        *
+*                                               *
+*************************************************
+
+JULY    11  SJAA BOARD MEETING AT 7 PM. FOLLOWED BY THE INDOOR
+             ASTRONOMY CLASS AT 8:30 PM. LOS GATOS RED CROSS BUILDING.
+
+JULY    18  ANNUAL SJAA MEMBERSHIP PICNIC AT GRANT RANCH COUNTY PARK.
+             NOON TILL ? BAR-B-Q PICNIC WITH STAR PARTY TO FOLLOW IN
+             THE EVENING.
+
+JULY    25  FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+             PEAK STATE PARK. DUSK TILL DAWN.
+
+AUGUST  1   GENERAL MEETING 8 PM LOS GATOS RED CROSS BUILDING. FISHING
+             FOR STARLIGHT - AMATEUR ASTROPHOTOGRAPHY IN THE 80's
+
+AUGUST  8   SJAA BOARD MEETING AT 7 PM. FOLLOWED BY THE INDOOR
+             ASTRONOMY CLASS AT 8:30 PM. LOS GATOS RED CROSS BUILDING.
+
+AUGUST 15   INDOOR STAR PARTY, LOS GATOS RED CROSS, 8 PM.
+
+AUGUST 22   FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+             PEAK STATE PARK. DUSK TILL DAWN.
+
+AUGUST 22   FIELD EXPEDITION FOR THOSE REGISTERED TO YOSEMITE NATIONAL
+             PARK, GLACIER POINT.
+
+AUGUST 29   FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+             PEAK STATE PARK. DUSK TILL DAWN.
+
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+July 18TH ANNUAL SJAA PICNIC
+
+The annual picnic will be held on Saturday, July 18th at Grant Ranch County park. Beginning at around noon we well be picnicing in the Rose Garden area next to the Ranger's house. Hamburgers, hotdogs, buns, condiments will be provided by the SJAA. Typically in the past, members have brought a hot or cold dish to share. There will be an instillation of new officers and a star party is planned to follow in the evening so bring your telescope. The picnic is always a festive event, and I encourage members to attend. To get to Grant Ranch, take Alum Rock ave. to Mt. Hamilton Rd. Travel along Mt. Hamilton Rd as you would to Lick Observatory for about 10 miles. The entrance to Grant Ranch Park is about 1/2 mile past the Quimby road intersection. Through the gate, follow the road for about 1/2 mile, where you will get to a "T" in the road. Go left to the rear of the parking lot where you will find the Rose Garden picnic area.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABAH39m5rQ9ckPtUi1'}]
+# YOSEMITE GLACIER POINT STAR PARTY
+
+Thank you for sending your camping registration forms in early. We have already filled up the group camp area for free camping this weekend. However, if you would still like to attend, I would recommend that you arrive early Friday morning, Aug. 21st and obtain your own campsite as other park guests leave.
+
+# BIG BEAR TELESCOPE MAKERS CONFERENCE
+
+Two perspectives are featured in this months Ephemeris. Tom Parker's first time experience, and a point of view from your editor, marking his tenth annual trek to Big Bear lake. You should get a pretty fair assessment of how the conference went from both articles.
+
+# FISHING FOR STARLIGHT
+
+Astrophotography is the subject of our August 1st General Meeting. At no other time in history have amateur astronomers had access to such a broad range of equipment and processes as in the 1980's. You'll see how today's amateur astronomers are producing "observatory" quality images from the basic camera and tripod, to the most advanced electronic imaging equipment. This will be a multi-media presentation featuring actual electronic video images of the night sky and a 15-minute slide and music show of the finest in astrophotography from well-known amateur astrophotographers. Don't miss it! Be there!
+
+# MEMBERSHIP RENEWALS
+
+Current SJAA members have been receiving their renewal notices from Sky & Telescope magazine. Ephemeris subscribers must also remember to renew their membership by filling out the handy renewal form on the last page of the Ephemeris. Everyone should take a few minutes to fill out the form and send it with your Sky and Telescope renewal notice to Jack Peterson. Don't miss a single issue of Sky & Telescope or the Ephemeris and renew early. August will be the last month that I'll mail out the Ephemeris to those individuals who have not yet submitted their renewal.
+
+# A NEW BABY!
+
+No not a new 55mm Fluorite telescope, but a new baby girl, Carmen Christine born on June 11, 1987 to parents Rick and Deborah Morales. Our warmest and sincerest congratulations to both!
+
+# NEW COMPUTER FOR THE SJAA
+
+The SJAA Board of Directors has approved the purchase of a computer for the production of the Ephemeris as well as for use at other club functions like the annual auction. Currently we have been using Jim Van Nuland's IBM for auction work, and I have been using the HP150 at work for the monthly production of the Ephemeris. A special thanks to Gene Cisneros for finding an economical IBM clone system that includes a 20MB hard disk drive, turbo board, floppy disk and monochrome monitor. Now your editor has to learn how to use a computer all over again after spending the last 3 years on the Hewlett Packard system. Just who is MS-DOS anyway?
+
+# AUCTION SUMMARY
+
+The great Astronomical Auction is history now. Over 150 people attended snapping up astronomically related items left and right. The auction has become so popular that close to 600 items were on sale with eyepieces and finderscopes popular among the bidders. Regrettable, but a few items could not be sold because we had simply run out of time. Kevin Medlock did another outstanding job as our auctioneer, actually talking up the price on many items and running the auction until 11 PM. Many large telescopes were also on sale and I am told that a few of them were sold. The club cleared slightly more than $1500 from the auction. This has helped pay for our new computer. There are too many names to be listed here but I want to add a special thanks to those members who helped behind the scenes and who had also brought the food and drinks. Without your assistance the auction could not have been a success.
+
+# AN OVERVIEW OF OBSERVING SITES BY: JOHN MACHHOLZ AND RICH PAGE
+
+Joseph D. Grant (Ranch County) Park consists of 9500 acres between San Jose and Lick Observatory. Our club has observed from both the developed portion of the park and from a higher elevation along Smith Creek three miles east. Access is still limited at the upper site so I'll concentrate on observing from the campsite area in the developed part of the park.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABAo3PNFnW2DgaXaUg'}]
+From the west the two routes to Grant Ranch Park are over Mt. Hamilton Rd. and over Quimby Rd. The park entrance is 10 miles (about 22 minutes) along Mt. Hamilton Rd. from Alum Rock Ave. If you live near Blossom Hill Rd./Camden Ave. in San Jose, the park is 18 miles (25-40 minutes, depending upon traffic) away. Drive down Capitol Expressway to Quimby Rd. At Quimby, go east and over the ridge for 6.5 winding and narrow miles. At the stop sign you're now at Mt. Hamilton Rd. Go right for 0.5 miles, the park entrance is to the right. Go through this gate for 0.5 miles, where you'll get to a "T" in the road. Our club used to set up in the parking lot to the left, we're going to go right and for 0.4 miles to the camping area.
+
+There are 20 campsites in this region. Some of them (# 14-18, 22 +23) offer fine views of a full sky, while others are shaded by trees. Avoid these if you can (trees lower the sky). They are available on a first-come, first-served basis, and cost $6.00 per night. Most fill up on Fri. and Sat., but they're vacant on other nights. Normally, you can pull one or two cars at each campsite (on pavement) and set up on the short grass/packed dirt nearby. Most of the sites are level. According to the park map, you are at 1550 ft.
+
+The horizon is highest in the west, rising to 10 degrees, due to a 2427' hill off Quimby Rd. It then drops down to the north and south and is low in the east. Lick Observatory sits 4.4 air miles to the east.
+
+Light pollution is worst in the west. The limiting naked-eye magnitude at 30 degrees high in the east is roughly 4.0. Also, lights from the restroom or other campers might produce some difficulty. However, from the central meridian to the east you can find some very dark sky. This is dependent upon the weather, as subtle high haze or thin clouds can scatter the lights of San Jose all over the sky. On occasion, early mornings will find low clouds over San Jose, reducing light pollution. If the humidity increases too much, you might find yourself involved in fog. Being in the valley, winds are usually light but the air takes some time to settle down.
+
+County Parks are not known for wild animals, but you can hear coyotes in the distance after dark, and boars are occasionally still seen in the area. Grazing cattle aren't far away. On one morning, a tame pet dog trotted over to keep me company.
+
+This is a good nearby observing site where the whole family can go. Daytime attractions include hiking, horseback riding, warm-water lake fishing, a visitors' center and a ten-mile drive to Lick Observatory.
+
+Until the parking lot and/or upper site is open to us, the campsites are our best bet for Grant Ranch Park. This could become one of your favorite sites. By phone you can reach the park at 274-6121.
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+Two comets remain easily visible in our skies while two faint periodic comets are within reach of larger instruments. Comet Wilson now appears too close to the sun for observation from the Northern Hemisphere. We'll be able to pick it up again in the morning sky in September at magnitude 11. Halley's Comet, much fainter, is in a similar position so I will no longer be providing an ephemeris for it. You may wish to phone or write me for positions for Halley's (or any other) Comet. (408) 448-7077
+
+Periodic Comet Harrington (1987h): T. Gehrels and J. V. Scotti recovered this comet on May 1. They used the 36" telescope at Kitt Peak to locate the magnitude 20 object in the constellation Sagittarius. Comet Harrington has an orbital period of 6.8 years and is closest the sun (1.60 AU) on Oct. 31. It will brighten to mag. 15
+
+Comet Shoemaker (1987o): Carolyn and Eugene Shoemaker used the 18" Schmidt at Mt. Palomar on Mar. 25. The comet was in southern Hercules at magnitude 16. It will not be getting any brighter.
+
+This is the ninth photographic comet discovered by the Shoemakers. Carolyn Shoemaker has now discovered more comets than any woman in history, surpassing the eight visual discoveries by Caroline Herschel in the late 1700's. This comet is also unusual for its large perihelion distance of 5.46 AU last November.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABEGQDNfL2ohoySstM'}]
+# EPHEMERIDES
+
+## DATE R.A. (1950) DEC ELONG MAG. NOTES
+
+### Comet Sorrells (1986n)
+
+| 06-24 | 21h 41.8m | +10°23' | 117° | 9.6  | Comet Sorrells passes from the morn-      |
+|-------|-----------|---------|------|------|-------------------------------------------|
+| 06-29 | 21h 22.0m | +09°22' | 126° | 9.6  | ing to the evening sky at mid-month,      |
+| 07-04 | 21h 00.3m | +08°06' | 135° | 9.6  | and begins to dim as it is pulling        |
+| 07-09 | 20h 37.2m | +04°33' | 144° | 9.7  | away from both the earth and sun.         |
+| 07-14 | 20h 13.5m | +04°47' | 151° | 9.8  | It enters the Milky Way and cuts          |
+| 07-19 | 19h 50.1m | +02°52' | 156° | 9.9  | through the constellation Aquila.         |
+| 07-24 | 19h 27.6m | +00°54' | 157° | 10.0 | By the end of July it will be 148        |
+| 07-29 | 19h 06.9m | -01°02' | 153° | 10.2 | million miles from the earth and 230      |
+| 08-03 | 18h 48.2m | -02°52' | 147° | 10.3 | million miles from the sun.               |
+
+### Comet Nishikawa-Takamizawa-Tago (1987c)
+
+| 06-24 | 13h 45.3m | -23°28' | 121° | 9.5  | South of the star Spica, this comet       |
+|-------|-----------|---------|------|------|-------------------------------------------|
+| 06-29 | 13h 35.7m | -21°14' | 113° | 9.9  | is in the evening sky, better placed      |
+| 07-04 | 13h 29.4m | -19°33' | 107° | 10.3 | for Southern Hemisphere observers.        |
+| 07-09 | 13h 25.2m | -18°16' | 101° | 10.7 | At the end of July it is 220 million     |
+| 07-14 | 13h 22.6m | -17°17' | 95°  | 11.0 | miles from both the earth and sun.        |
+| 07-19 | 13h 21.3m | -16°32' | 90°  | 11.3 | Comet N-T-T fades rapidly these weeks     |
+| 07-24 | 13h 20.8m | -15°58' | 85°  | 11.6 | giving us one last chance to see it.      |
+| 07-29 | 13h 21.0m | -15°32' | 80°  | 11.9 | Refined elements from the SAO indi-       |
+| 08-03 | 13h 21.8m | -15°14' | 75°  | 12.2 | cate an orbital period of 2483 yrs.       |
+
+### Periodic Comet Grigg-Skjellerup (1986m)
+
+| 06-24 | 10h 28.1m | +12°37' | 63° | 11.7 | This comet travels south of Leo and       |
+|-------|-----------|---------|-----|------|-------------------------------------------|
+| 06-29 | 10h 53.7m | +12°57' | 64° | 11.7 | through the Realm of Galaxies. It         |
+| 07-04 | 11h 19.8m | +13°08' | 65° | 11.8 | holds a nearly constant elongation        |
+| 07-09 | 11h 46.4m | +13°10' | 66° | 11.8 | and declination, setting around mid-      |
+| 07-14 | 12h 13.1m | +13°00' | 69° | 11.9 | night all month long. The orbital         |
+| 07-19 | 12h 39.7m | +12°40' | 70° | 12.0 | period is 5.10 years, second shortest     |
+| 07-24 | 13h 05.9m | +12°09' | 71° | 12.1 | of all comets. It was closest the         |
+| 07-29 | 13h 31.5m | +11°28' | 73° | 12.2 | sun (.99 AU) on June 18. This is the     |
+| 08-03 | 13h 56.4m | +10°39' | 75° | 12.4 | only month I'll run this dim comet.       |
+
+### Periodic Comet Klemola (1987i)
+
+| 06-24 | 23h 06.1m | +05°00' | 102° | 12.4 | Discovered on a photograph taken in       |
+|-------|-----------|---------|------|------|-------------------------------------------|
+| 06-29 | 23h 15.1m | +05°42' | 104° | 12.3 | 1965, this comet has an orbital per-      |
+| 07-04 | 23h 23.8m | +06°19' | 107° | 12.2 | iod of 10.9 years. It is presently        |
+| 07-09 | 23h 32.2m | +06°50' | 109° | 12.1 | in the morning sky, south of the          |
+| 07-14 | 23h 40.2m | +07°16' | 112° | 12.0 | Square of Pegasus. The magnitudes         |
+| 07-19 | 23h 47.7m | +07°36' | 115° | 11.9 | predicted here are only estimates,        |
+| 07-24 | 23h 54.7m | +07°48' | 118° | 11.8 | based on few previous observations.       |
+| 07-29 | 00h 01.1m | +07°53' | 121° | 11.8 | This should be a challenge for those      |
+| 08-03 | 00h 06.9m | +07°50' | 125° | 11.7 | of you with large telescopes.             |
+
+## SEEKING COMETS
+
+Here are a few more exceptions to the "rules" of naming comets.
+
+"Great Comet": Fifteen comets are simply named "Great Comet". Most of them were observed between 1750 and 1850, appeared as bright naked-eye objects, and were first seen by many people at one time.
+
+Some comets are named after months, such as: "Great March Comet" (1843), "Great June Comet" (1845) and perhaps the brightest comet of all: "Great September Comet" (1882). The comet in 1910 that rivaled Halley's was the "Great January Comet".
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABEyZWC4iLXABYtduL'}]
+The comet appearing in the Southern Hemisphere in 1947 is known as the "Southern Comet". Three others (1865, 1880, and 1887) are known as "Great Southern Comet". One spotted during an eclipse in 1948 is called "Eclipse Comet".
+
+Four comets are named after those who calculated their orbits. You probably know of two: Comet Encke and Comet Halley. In 1770 Charles Messier discovered a comet whose orbit was determined by Anders Lexell - it's known as Comet Lexell. Finally, Comet Crommelin was once known as Comet Pons-Coggia-Winnecke-Forbes before A. Crommelin determined the orbit.
+
+Three comets are named after the Purple Mountain Observatory in China from which they were found: Tsuchinshan.
+
+When the Solwind satellite found its first comet it was named Comet Howard-Koomen-Michels, after the men who found it on the photos and those who designed the instrument. It was later unofficially named "Comet SOLWIND I", with its following five comets given numbers 2 through 6. The IRAS comets were simply named "Comet IRAS", with co-discoverer names added to it.
+
+CHANGING TIMES AT RIVERSIDE
+BY: JOHN GLEASON
+
+Each time you leave the Riverside Telescope Maker's Conference, you are already making your plans to return next year. For hundreds of amateur astronomers like myself our astronomical year seems to begin each Memorial Day weekend in Southern California. It marks the beginning of the summer observing season that lasts well into winter for most Californians.
+
+Every Spring season there is this deep, compelling desire among many amateur astronomers to make a pilgrimage to Big Bear Lake California. No, it's not for a weekend of sun and water sports in a relaxing mountain lake setting, but an opportunity to renew old acquaintances, see new telescopes, and to simply get a little crazy about amateur astronomy. The idea of relaxation would be left far behind at home.
+
+For myself I came away from the 19th annual Riverside Telescope Maker's Conference rather disappointed. This year's conference provided little in the way of equipment innovation, and there appears to be a steady change in values of what the conference was originally intended to provide. The idea of a conference dedicated to telescope making and observation is slowly being replaced by heavy commercialism among the major manufactures and many amateur astronomers.
+
+This year I had decided to take the freeway route directly through the L.A. basin which avoided the desert altogether. Actually this route proved to be the easiest drive ever, with all but the last 35 miles easy freeway driving. We arrived at Big Bear in a record 9 hours out of Newark. I'll never travel the desert route again.
+
+If you have ever experienced the dorms on the conference site, then you'll know how welcome a private motel room can be. With this in mind my wife and I had decided to stay at the Motel 6 in Big Bear City. This was the best decision that I have ever made. Several other SJAS members had also made the same excellent choice including famous amateurs Don Machholz, his wife Laura, Kevin Medlock and his wife Denni. After checking into the motel, the desk clerk informed me that there were over 2000 people in attendance at the conference.
+
+2000 people! It took nearly another 9 hours to find a place to park at the conference site! Automobiles were jammed into every conceivable open space. Motorhomes and tents were crowded together in the open areas leaving little room for the telescopes. With some quick maneuvering, I eased our new 4X4 into a tiny slot between the trees. Big Bear at last!
+
+Before reaching the telescope field, we were first struck by the multitude of vendors, marketing their wares. From surplus servo motors to rocks from outer space, it was here. With video camera in hand I soon found myself in the middle of a buying frenzy as I got caught up in the swap meet. Somehow my wife had shot ahead not really knowing what to make of all this. I finally caught up to her at en oasis of Pluto Dogs and Space Burgers. Ah, nurishment!
+
+In past years, the main telescope field would be littered with unique and sometimes spectacular telescopes. Giant Refractors would graze the aqua-blue sky as a multitude of Newtonian reflectors vied for attention behind every tree and bush. Big Bear is the place to see the latest trends in amateur astronomy. Elaborate woodworking, machining, and optical wizardry have always been the bill of fare of past events. After all, this is why they call it a telescope
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABFXYsnFL5J5D4HK7F'}]
+maker's conference, right?
+
+This years display of homebuilt telescope the poorest in recent memory. At the
+risk of being a little too critical, especially from someone who has never
+built a telescope, nothing here really turned my head. Oh, there was a nice
+restoration of a Alvan Clark brass refractor, and there was a interesting pair
+of 5-inch refractors, modified to fit into a Celestron 14 fork mount, but for
+the most part the telescope field consisted of modified Dobsonian type
+reflectors. You had to search hard for hand-made optics. In one conversation
+a proud telescope maker explained to me that he had ground and polished the
+mirror himself. Amazing!
+
+17.5-inch mirrors have become the most popular as this appears to be the
+average size of most Dobsonian telescopes these days. One 17.5-inch Dobsonian
+featured an extensive amount of woodwork, consisting of laminated pieces
+forming a "U" shape for the base. The hardwood had been hand finished to a
+high gloss.
+
+For the technocrat there was a computer controlled telescope which converted RA
+and DEC coordinates into ALT/AL7 positions on a motorized Dobson type mounting.
+Tom Mathis displayed a "Mouse" driven telescope that was powered via a
+Macintosh computer. Just use the mouse to point to an object on the CRT screen
+and the telescope would move to that location.
+
+Like covered wagons in a circle, the major manufactures and telescope dealers
+had staked out their positions around the main field. This certainly served to
+draw attention away from the homebuilt equipment as hundreds of conference
+attendants bargain hunted among the "throw-aways" of the industry. Stories
+were being told of the three-ring-circus on Friday at the Celestron tent as a
+thousand clowns gleaned through the cavernous van load of goodies. Making my
+own way over to the Celestron tent I found myself among the dregs of the sale.
+Empty boxes, broken binoculars, odd sized eyepieces, and a few dust covers were
+all that remained. Mike Sugarman, National Sales Manager for Celestron told me
+that he had never seen anything like it.
+
+There was a time when many of us anxiously awaited the arrival of Big Bear
+because this was when many manufactures showcased new equipment. Little was to
+be found this year. Celestron's Compustar controlled telescope, which was a big
+hit last year, appeared to be suffering from mechanical problems. Kevin
+Medlock was finally called in to perform emergency surgery on a faltering
+computerized C8. No other Celestron product could be found. Vernonscope
+displayed a new 32mm f/7 refractor along with Al Nagler's 3-inch Oracle with
+the new series-2 eyepieces. These sub-aperture refractors did not cause much
+excitement however. The same story was true at the Meade and Bushnell
+displays. Just a lot of ho-hum equipment and telescopes.
+
+Along the south end of the conference site is the famous "statesman" row". It
+was here that I had hoped to glimpse the amateur built equipment that I had
+marveled at in the past. The 28-inch Cassegrain of 7/8 20-inch f/8
+Cassegrain that I had fallen in love with many years ago. In my opinion it
+continues to be the finest telescope at the conference. Even under the poorest
+of seeing conditions the images of galaxies and star clusters are spectacular
+as seen through this instrument. Now that's a telescope worth trading your
+Questar for.
+
+A a giant version of Edmund's Astro Scan was the next telescope in line. The
+motions were poor in this 12-inch version, having to put a lot of leverage on
+the main tube in order to move the main ball mounting around. No, I wouldn't
+even trade my C8 for this one!
+
+We now made our way through a maze of Newtonian reflectors to the the meeting
+hall. The man who had discovered the 5th planet was setting inconspicuously to
+one side of the entrance. Dr. Clyde Tombaugh had been signing autographs for a
+good part of the afternoon so I took advantage of the situation and received my
+own. To actually meet and talk with the man was the highlight of my day. I
+regret that I missed his talk on Sunday morning as I am sure his comments on
+astronomy and dedicated observation brought everyone back to the reality that
+the real reasons for being here at all had nothing to do with the capitalism of
+buying and selling, but had everything to do with our love affair with the
+night sky and the treasures it contains. If the conference has lost this
+focus, then it's time for the organizers to sit back and rethink their original
+goals.
+
+My only thoughts were that the manufactures were really the blame for the
+changing values and reasons for having the conference at all. What started 5
+years ago with Celestron selling off a handful of C8 mirror blanks and
+Meade selling amateur telescope makers on the fun of buying and selling
+competition among amateurs and manufactures. A conference originally dedicated
+to amateur telescope making has been overtaken by a compulsion to make money.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABG53XgHJKuCQSnC6g'}]
+Even the organizers tout the presence of the manufactures as the "people who make the conference happen". Indeed, the largest gathering of conference attendants at any one time was not during telescope viewing, but during the door prize presentation. Here the manufactures play a one-upmanship game to see who can give away the most expensive door prize. Even as the door prizes were described there was mockery among the crowd if the prize was a coffee mug instead of a Schmidt Telescope.
+
+There is an electronic, photographic, and observational explosion going on in amateur astronomy today. Big Bear should be the place where it all happens. A little less attention on commercialism and more emphasis on quality talks and presentations like Dr. Tombaugh's would be a welcomed diversion for conference attendants. Stellafane and the Texas Star Party have become very popular in recent years because of the attention placed upon observation and amateur telescope making. Perhaps next year I'll skip Big Bear and make my way back east.
+
+SPACE PROGRAM UPDATE
+BY: ROBERT FINGERHUT
+
+SALLY RIDE LEAVES NASA
+
+The first U. S. woman astronaut to fly in space and head of a U.S. space goals study will leave NASA this autumn to join the Stanford University Center for international security and arms control.
+
+ARIANE LAUNCHES TO RESUME IN AUGUST
+
+The date is dependent upon the successful completion of validation/acceptance tests for Ariane's third stage. The manifest lists Australia's Aussat K3 and ESA/Eutelsat ECA4 as payloads.
+
+SHUTTLE FAILURE FALLOUT
+
+The U.S. Department of Defense (DOD) now has 12 satellites that they have been unable to launch because of the Shuttle and Titan failures, and the backlog will continue to grow. Even when the Shuttle flys again there will be weight constraints. DOD may therefore shift many payloads to expendable launch vehicles that could open valuable shuttle manifest space for scientific or commercial payloads. Orders for commercial satellites have dropped severely. Only two satellites have been ordered this year. This is also the result of the shuttle failure.
+
+SHUTTLE SOLID MOTOR TEST CONDUCTED
+
+A full-scale firing of an SRB was conducted on May 27. The firing was primarily to gather data on the old SRB design, but did include some minor changes that were made because of the Challenger failure. Another firing with the features scheduled for mid-August. Improvement in the shuttle liquid rockets have increased the life of the first-stage turbine blades of the high pressure turbo pumps to 10 missions from 3 to 5 missions. More than 80 test firings have been conducted in the last 6 months. NASA has slipped the next shuttle launch date again, this time to no earlier than June 1988.
+
+SOVIETS TEST "ENERGIA" HEAVY LIFT BOOSTER
+
+The Soviets conducted the first flight test of their Saturn 5 class booster on may 15. The 198 ft. tall vehicle produces 6.6 million pounds of thrust and can lift 220,000 lb. payloads into space. On its first launch it carried a piggyback payload but could carry a Soviet space shuttle in the same manner. The U.S. is far behind on heavy lift capability. In comparison, the U.S. Air Force is beginning development of a booster that can lift 100,000 lbs with first launch in 1993.
+
+ATLAS LAUNCHED SUCCESSFULLY MAY 15
+
+The Atlas-H was launched from Vandenberg AFB and probably carried a package of Navy ocean surveillance satellites.
+
+
+ASTRO ADS
+
+FOR SALE: CELESTRON 8 with tripod and wedge. 4 eyepieces plus star diagonal, $1100. Contact: Robert Scott 2574 Fairglen, San Jose, CA. 95125. (408) 265-6101
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABJdaoqmW77qpjjq9g'}]
+# Riverside, the First Time
+
+The Riverside Telescope Maker's Conference is held each year on Memorial Day weekend, high in the San Bernadino Mountains. Past Conferences had always been missed due to conflicting schedules, but this year was different. At last, I would be able to look through the telescopes instead of just reading about them and see if all of those tall tales of give-away bargains were true.
+
+Jim Eiselt had not planned to attend this year, but after answering an endless barrage of my questions, he changed his mind. We would caravan together and leave Thursday after-noon, drive until 1 AM, sleep for a few hours near Edwards Air Force Base, then continue up to Big Bear early Friday morning. With several hundred miles of monotonous driving, having radio gear with us proved to be a welcome diversion. About the time we were near-ing exhaustion, we were pulling into our rest stop.
+
+Waking was accompanied by the realization that this was indeed a popular migration route. Looking around the camp, several other club members were found in similar states of dis-array. After a mere five hours sleep and the exchange of some friendly greetings, we were on the road again. The miles passed quickly as we climbed from the desert floor up the back side of the mountain range. We leveled off across a plateau, rounded a nearly dry lake, and as planned, arrived at Camp Oakes about three hours before the gates opened to find ourselves third in line.
+
+The time until opening passed quickly while talking with well known Canadian Astrophotographer, Jack Newton. Appearing like a candy store proprietor, Jack unveiled several slide sets. They were magnificent, for sale, and rapidly gone. Already I was get-ting my first taste of the R.T.M.C. When you see something you want, you do well to speak up or the opportunity is lost.
+
+With time to walk around, we found Jim Van Nuland who announced with obvious satis-faction that he was soon retiring to a life of leisure (and home repairs). A sign on a nearby San Diego Camper seemed appropriate: "Retired: No worry, no hurry, no phone, no boss" (almost). The rear of the camper also displayed two curious warning signs: the left one read "El Paso" and to those who would dare pass on the right, "El Cruncho".
+
+We later discovered that those arriving at the 1 PM opening were greeted by a two mile line of cars. Again the message came through, there is significant competition amongst the bargain hunters to get there first. Even so, I was ill prepared for the sights to be found up the dusty trail ahead. While waiting in line, an unexpected benefit of the radio gear was that it allowed us to eavesdrop on the camp directors who were using similar equipment. It became apparent there was a minor problem brewing. The entry permits were in the cus-tody of the driver of a silver Subaru, now long overdue. Then at the last minute, like slid-ing into home plate, the Silver Subaru shot past. By 1 PM, the congested entrance resembled the Running of the Bulls in Pamplona.
+
+At last, with tickets in hand to this nineteenth annual event, the scene began to unfold like an invasion. Captain Eiselt took the point once again and cunningly lead us through a maze of signs and bewildered onlookers. Visions of the Great Baja Race flashed as we wound our way in and out of pine trees and randomly parked cars. With the billowing dust still swirling about, the Captain leapt from his assault vehicle. Like 49'ers at the first gold rush, we darted in and out of trees and dashed across the telescope field to the vendors' tents. We had finally reached the Promised Land. There before us were trucks full of un-told goodies.
+
+For the next couple of hours the scene resembled two hundred frantic detectives ransack-ing the countryside in an attempt to discover the bomb before it exploded leveling all in sight. It was fortunate that Captain Video (John Gleason) had not yet arrived, to later em-barrass us with filmed accounts of the spectacle. Looking around, the seasoned veterans
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABKJGTZujrziXHBec9'}]
+displayed an air of calm as they quietly formulated their strategies while the amateurs were seen thrashing through the underbrush of accessories and telescopes. Joe Sunseri sported a Cheshire Cat's smile after having netted another little gem. Like field mice with food for the winter, endless goodies were dragged back to waiting boroughs with tales of the struggle. At last, nightfall signaled a welcome end to the first day at the Bazaar.
+
+Wandering around camp, we found Tom Mathis, noted telescope drive manufacturer, dazzling the curious with his turbo MacIntosh powered Newtonian. With warp drive slew rates, most observers gave a wide birth as it skillfully sped from target to target.
+
+Campers showed varied preferences. Some chose the bungalows, others the dormitories, while the hearty or frugal preferred tent or car camping. Still others were observed slink-ing back to town to their fresh sheets and showers. Our little tribe was among the car campers who found the fare quite satisfactory. Morning and evening meals were spent huddled around the Coleman stove, while the dorfers were generally seen shuffling in long lines to the auditorium. As an alternative, a reasonably fast food concessionaire of-fered "astro burgers" with all the trimmings. Certainly not for the faint of heart, but if used with reasonable care, they would maintain a pulse.
+
+The population of Camp Oakes rose considerably by the second day, until some two thousand plus campers inhabited the grounds. By morning, the Telescope Field boasted many new entries which included several beautifully made Dobsonians and refractors, an attractive pair of 6 inch refractor-binoculars, and a magnificently restored Alvan Clark.
+
+For the shoppers, most of the bargains seemed to be found at the Celestron Tent. There, "make me an offer" was the accepted procedure. By contrast, most other vendors stuck to their prices, and therefore attracted little attention from the bargain hunters. Vendor's of-ferings ranged from new telescopes and accessories to used equipment and services. Dennis Merrill was seen gleefully raking in the bucks from the successful introduction of a new glass-smooth helical focuser. A short distance away, Keven Medlock, the principal architect of the Fremont Peak 30 inch telescope, was giving demonstrations of how to lap gears with true Riverside grit. Further down the road, Gene and Sharon Cesneros were enticing the curious with extra terrestrial gems while Kim McKelvy's booth offered coffee mugs, tee shirts, and many other delightful treasures.
+
+About noon, a flea market assembled along the path to the auditorium. As with most flea markets, items ranged from the serious to the absurd. The conference directors also had planned a series of lectures during the day, including Fremont Peak Observatory by Denni Medlock.
+
+One of the highlights of this year's Big Bear was the attendance by Dr. Clyde Tombaugh. Dr. Tombaugh, now in his 80's, came to Riverside to present a lecture on The Discovery of Planet Pluto. During the days, Dr. Tombaugh could be found outside the dining hall giving autographs and accepting donations for his Scholar's Endowment Fund.
+
+By day's end Saturday, saturation seemed to have set in. It became difficult to look at any more equipment or listen to one more sales person describe the features and advantages of their cosmic mouse trap. However, spirits rose as the awards presentation drew near. We had heard rumors that John Gleason had won this year's award from Celestron for "Best Astrophotograph". Walking once again to the familiar dining hall, we were greeted by a line that seemed to encircle the camp. As in previous years, door prizes were donated by vendors. Due to the capacity attendance, the awards presentation generated a mock rivalry between those fortunate enough to be inside, and the late comers who were anxiously awaiting news of their winnings, outside. At last, it was time for Celestron to make their presentations. "Would the representative for the Celestron Awards please come forward?".
+
+However, Celestron produced no representative. There sat the would-be recipients of this year's awards, wondering if anyone cared enough to even show up. After repeated at-
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABKrzkE8CoZ455KGii'}]
+tempts to track down the presenters, the recipients were seen sinking lower in their seats as the host was forced to go on with the program. Much later, Tom Johnson stopped by from Celestron to pass out C-90's to the winners. Somewhere between embarrassed and bewildered, John was finally presented with his award for "Best Astrophotography". Unfortunately for those in attendance, none were treated to the delightful experience of seeing his breathtaking photographs. To top it off, John now has a C-90 which seems like awarding a Box Brownie to Ansel Adams.
+
+Not wanting to cast a pall on an otherwise pleasant event, it must be said however, that manufacturers do have a responsibility to set exemplary standards. Certainly those who have seen John Gleason's work, know full well that nearly fifteen years of dedication has been invested to produce those remarkable images. We would only hope in the future, that other winners would be accorded the courtesy of having their work shown and being given a more gracious introduction.
+
+Because of my personal passion for astrophotography, and obvious admiration for John, the remainder of my evening was subdued by the previous events. Then came Jack Zeiders to the rescue. Inside, Gene Lucas was dubbing over a Russian voice track about the construction of the Bolshoi Azimuthal Telescope. While outside, Jack, was taking extreme liberties with the language and our already aching sides with his liberal interpretations of the unfolding saga.
+
+Eventually I wandered off to see the evening's sights as Jack's linguistic homicide faded in the distance. The seeing was a bit improved from the previous night. Like Halloween, kids of all sizes were treated to one splendor after another. The custom pair of six inch binoculars produced dazzling views. Finally, after having gazed through many small telescopes, I found myself drawn to the long-reach, wide-eyed monsters. Views through the smaller cousins were enticing, but galaxies seen through a twenty inch Cassegrain were like color in a world of black and white. After another couple hours of therapy, I staggered back to camp, and sleep. Captain Eiselt returned much later, exhausted from attempting to keep this writer solvent in the face of overwhelming temptation.
+
+Dr. Tombaugh punctuated Sunday morning with his lively wit and vivid recollections of thirteen years of searching for Pluto and beyond. His patience and dedication serve as models to remind us that discoveries are most often the result of careful planning and the intense desire to succeed.
+
+The conference directors unfortunately planned some of the most intriguing lectures for Sunday afternoon and evening. To reserve Monday for rest, our plan was to leave camp by Sunday noon and return to the Bay Area by midnight. Feeling that we were forced to leave the best lectures unheard, we reluctantly rolled out of camp and began the long drive down the mountain, and home. We would hope that in the future, directors consider those who must travel greater distances, and not save the more compelling lectures until the very end.
+
+The journey north gave us an opportunity to reflect on the past few days. In all, the conference was well run and the trip worth the effort. For others, however, the story seemed quite different, the same old stuff, nothing new. But Riverside is more than a store. It is not simply a flea market, though, bargains are always fun to find. In our heavily technical and equipment-oriented hobby, it's easy to loose sight of the simple beauty that first attracted us. Perhaps, we find in our common love of astronomy, a gentle peace that seems to elude our daytime world. Even with its' shortcomings in mind, I know I will return to Riverside next year.
+
+Tom Parker
+
+Mt. View
+June 1987
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABLVCqXXREUtx3HABr'}]
+# SJAA MEETING AND STAR PARTY LOCATIONS
+
+## GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross building in Los Gatos California. The large meeting room has kitchen facilities and large slide projection screen. This is also the location for the SJAA's "Indoor Star Parties", informal sessions where members gather to share their astronomical interests. Whatever your interest, astrophotography, deep sky observation, telescope making, or just arm chair observing, you'll find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17 take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road for about 1.5 miles. Turn right at Rose Ave. Then turn right immediately into the parking lot of the Red Cross building. Doors open at 7:45 PM, with General meetings beginning at 8 PM. General Meetings are held on the 4th Saturday of each month.
+
+## INDOOR STAR PARTIES
+
+Each month there are several Saturday evenings set aside for informal gatherings of amateur astronomers to share their common interest in astronomy, to "talk shop", or to simply enjoy the company of friends. Members are encouraged to bring in telescopes and accessories to share with the group. Typically there will be several telescopes operating in the parking lot or there will be a slide show of recent astrophotography and star party events in progress in the meeting hall. The SJAA also holds it board meetings during this time as well as an introductory astronomy workshop that is conducted once a month. Indoor Star Parties are held at the Los Gatos Red Cross Building.
+
+## HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue east (towards the hills (around and past Anderson Reservior) for about 12 miles to the park. Past the park entrance you will see old ranch type buildings on the right and a horse trough. The gate (on the left) is locked but the club combination unlocks it. Always lock the gate after yourself. If arriving after dark, please park outside the gate and hike in first to find an observing site before dark, please. Just a short distance up a hill beyond the gate is where the SJAA sets up equipment.
+
+## FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista exit) for two miles to a yellow flashing light. Turn right and go about 1/4 mile to where the road reaches a "Y". Stay left for about 25 yards and then go right. (Watch closely for the Fremont Peak sign.) Follow the canyon road for about 11 miles up into the park. The SJAA sets up in Coulter Camp. It's visible on your right as you drive up onto the main area of the park. There is usually a lot of astronomical activity here every clear new moon weekend. This is also the location of the FPOA's public observatory. Fremont Peak stands 3000 ft above sea level. Arrive early if you are setting up equipment. 30 to 40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+* EPHEMERIS is published monthly by the San Jose Astronomical *
+* Association, 3509 Calico Ave., San Jose California 95124. *
+* Contributors are welcome to submit articles for publication. These *
+* should be typed and submitted no later than the 12th of the previous *
+* month. All submissions should be sent directly to the editor, John *
+* Gleason, 5361 Port Sailwood Dr. Newark, CA. 94560. *
+* OFFICERS *
+* PRESIDENT: Bob Fingerhut...........................................408-263-4455 *
+* VICE-PRES: Tom Ahl.................................................408-268-3927 *
+* SECRETARY: Jim Van Nuland..........................................408-371-1307 *
+* TREASURER: Jack Peterson...........................................408-262-1457 *
+* EDITOR: John P. Gleason............................................408-263-3844 *
+* BOARD OF DIRECTORS *
+* Paul Mancuso.......................................................408-946-0738 *
+* Jack Peterson......................................................408-262-1457 *
+* Bob Fingerhut......................................................408-263-4455 *
+* Tom Ahl............................................................408-268-3927 *
+* Gene Cisneros......................................................408-923-8800 *
+* Joe Sunseri........................................................408-225-9345 *
+* Ron Walton.........................................................415-278-9335 *
+* Duncan Munroe......................................................415-448-5351 *
+********************************************************************************
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABM1hcpTVtxJPdjccA'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10     MEMBERSHIP/S&T: $ 24.00  JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________________________    Questionnaire (optional)
+
+Address ______________________________________________    What are your astronomical interests (e.g. astro-
+                                                          photography, deep-sky observation, telescope making,
+_____________________________________________________    etc.)? ____________________________________________
+
+Telephone (_____)_____________________________________    _____________________________________________________
+
+                                                          _____________________________________________________
+Please bring this form to any SJAA meeting, or send to:   _____________________________________________________
+
+Jack Peterson, Treas.                                     Do you own a telescope? _________ If so, what kind?
+San Jose Astronomical Association
+1840 Yosemite Dr.                                         _____________________________________________________
+Milpitas, CA. 95035
+                                                          Is there any specific area of astronomy that you feel
+[ Phone: (408) 262-1457 ]                                qualified to help others with? _______________________
+
+Please check type of membership and if new                _____________________________________________________
+or renewal.
+                                                          _____________________________________________________
+Membership Only___    Membership/S&T____
+
+Junior (Under 18)____
+
+New____    Renewal____
+
+
+
+
+                                                          NON-PROFIT ORGANIZATION
+SJAA EPHEMERIS                                           U.S. POSTAGE PAID
+3509 CALICO AVE.
+SAN JOSE, CA. 95124                                      PERMIT NO.5381
+
+                                                          SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

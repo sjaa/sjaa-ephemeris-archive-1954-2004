@@ -1,0 +1,53 @@
+{
+  "articles": [
+    {
+      "id": "sjaa1967-october-planning-meeting",
+      "documentId": "sjaa1967",
+      "title": "October Planning Meeting",
+      "summary": "The article discusses the planning meeting of the San Jose Amateur Astronomers (SJAA) in October 1967, where they discussed methods to increase participation and planned events for November and December. The meeting also covered administrative tasks, such as updating the club's bylaws and financial policies.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "October Planning Meeting",
+        "November agenda",
+        "December talk",
+        "Morrison Lecture",
+        "Rotating Stars and Planetary Systems"
+      ],
+      "pageStart": 21,
+      "pageEnd": 26
+    },
+    {
+      "id": "sjaa1967-november-planning-meeting",
+      "documentId": "sjaa1967",
+      "title": "November Planning Meeting",
+      "summary": "The article discusses the November planning meeting of the San Jose Amateur Astronomers, where decisions were made about the handling of dues and the appointment of new officers. The society also planned events for the coming months, including a visit to the Foothill College Planetarium and Observatory.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Foothill College Planetarium and Observatory",
+        "dues handling",
+        "officer appointments"
+      ],
+      "pageStart": 21,
+      "pageEnd": 26
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa1967",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA1967.pdf",
+      "txtPath": "SJAA1967.txt"
+    }
+  ]
+}

@@ -1,23 +1,796 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5XoRYhdMxLSSCSs3j'}]
+SAN JOSE
+ASTRONOMICAL ASSOCIATION ═════════════════════════════════════
+EPHEMERIS
+
+═══════════════════════════════════════════════════════════════
+DECEMBER 1984
+═══════════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════════
+DECEMBER 8TH GENERAL MEETING
+MIKE O'BRINE PRESENTS
+GLOBAL POSITIONING SATELLITE SYSTEM
+═══════════════════════════════════════════════════════════════
+
+DECEMBER 1 Los Gatos Red Cross build. Indoor
+           star party. Doors open at 8 p.m.
+
+DECEMBER 8 General Meeting at 8 p.m. at the
+           University of Santa Clara. [see
+           map] Guest speaker Mike O'Brine
+           will talk about the Global Posit-
+           ioning Satellite System.
+
+DECEMBER 15 Board meeting, 8 p.m. at the home
+            of Eugene & Sharon Olshefski.
+            15555F Alta Vista Way, SJ.
+
+DECEMBER 22 Field Expedition for Astronomical
+            Observation at Grant Ranch Park
+            Dusk till Dawn. Bring warm cloth-
+            ing.
+
+DECEMBER 25 MERRY CHRISTMAS
+
+JANUARY 5 Indoor star party at the Los Gatos
+          Red Cross Building. Doors open at
+          8 p.m.
+
+JANUARY 12 Board Meeting at the Los Gatos Red
+           Red Cross building. Doors open at
+           8 p.m.
+
+JANUARY 19 Field Expedition for Astronomical
+           Observation (FEAO) at Grant Ranch
+           County park. Dusk till Dawn.
+
+FROM THE EDITORS DESK
+BY: JOHN GLEASON
+
+Things to note this month are the observatory
+projects that are in progress. Of particular
+interest is the SJAA's proposal to the Friends
+of Grant Ranch and a newly formed association
+at Fremont Peak. For a long time active
+members have wanted a permanent observing
+location, both close in and far out of town.
+Perhaps these two proposals will meet
+everyone's needs. The grand opening of
+the November 10 general meeting found
+themselves locked out of the Alumni Science
+Hall at the University of Santa Clara. This
+was due to an error with the security
+paperwork and has been taken care of. The
+December general meeting will be held at the
+University as scheduled. Also in the SJAA
+By-Law changes that have been reproduced
+inside. At the January General Meeting there
+will be nominations for board members.
+Elections to be held in Feb. The SJAA board
+is currently looking for a Program Chairman.
+Someone who would take on the task of finding
+speakers for the monthly meetings. If
+interested please call any of the board
+members listed in this Ephemeris.
+And, incase you haven't noticed, you have
+in your hands the enlarged version of the
+Ephemeris. But we still need
+contributers to fill all this new space.
+
+OBSERVATORY ASSOCIATION AT FREMONT PEAK
+BY: JOHN GLEASON
+
+Imagine yourself setting at the cassegrain
+focus of a 30" telescope under the dark summer
+sky of the coast range. With one hand the
+instrument slews around to M13, the great
+globular cluster of Hercules. You grab for
+your sun glasses as you jerk your head back
+from the dazzling display of a thousand suns
+blazing forth from the eifle eyepiece. You
+backgraund you can here the slewlng motors of
+the 22" telescope starting another photo ¢tric
+run.
+
+Fremont Peak State Park has been the focal
+point of Northern California amateur astronomy
+for several decades. It's an easy day trip to
+any locality, plus a bay area year round
+climate. It has a high percentage of cloud
+free, dark skies and has the facilities and
+the security of a state park system that makes
+for comfortable over night observing. With
+all of these things going for it, little
+wonder that regional astronomical and
+astronomical associations have organized the
+Fremont Peak Observatory Association
+(F.P.O.A.).
+
+The associations focus will center around a
+permanent instrument shelter housing 2 primary
+instruments. A 30" and 22" telescope. The
+instrument will be used for conducting public
+programs on selected weekends in the park, as
+well as providing to the members of the
+F.P.O.A a facility to use these large aperture
+telescopes for a wide variety of astronomical
+projects.
+
+The initial ground work has already begun.
+Nine board members have been elected and
+SJAA By-Law changes have been submitted to the
+local and state authorities. The officers and
+board members consist of individuals from
+active bay area astronomical associations
+(they are: Pres Robert Fizerth[ [SJAA],
+Vice Pres Dave Schkair [ [SJAA], Secretary
+John Stewart [PTAS], Executive Secretary Rick
+Morales [Park Ranger, Fremont Peak], Assistant
+Secretary Denni Medlock [SJAA/EAS] and members
+of the Board of Directors: Kevin Medlock
+[SJAA/EAS], Frank Dibbel [SJAA], Howard
+Medlock and John Gleason [SJAA]. Applications
+for bylncom taxes and incorporation are
+available once the official applications and
+site utilization programs have been approved
+by the state of California.
+
+As mentioned in last months Space Update,
+Kevin Medlock's 30" mirror is completed. Work
+on the 22" mirror tube, framework and work
+equitorial mounting. Kevin says the
+counterweight alone weighs out at 600 lbs.
+Projected larger date for completion of
+building and telescope is early 1986, just in
+time for comet Halley!
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5YSd85ksNLniFzueq'}]
+REPORT FROM M.I.R.A.
+BY: BILL DELLINGES
+
+Thirteen years ago a half dozen or so graduate students at Case Western Reserve University foresaw a bleak future for American astronomy. As an alternative to battling for a limited number of positions available, they decided to build their own privately funded observatory--thus was born M.I.R.A. (Monterey Institute for Research in Astronomy). See the July 1981 issue of SMITHSONIAN for a detailed story.
+
+The project has culminated with the installation of a thirty six inch telescope in a uniquely designed two-story building on Chews Ridge (el. 5000 ft; forty miles southeast of Monterey.
+
+On October 21st, I had the pleasure of attending an evening's public viewing there, hosted by Dr. William Kaufmann (you may recall a report regarding his Lake Tahoe "Exploring the Universe" summer programs of past years using a rare Celestron-22). The observatory site was 130 road miles and three and a half hours travel time from my home in Corvallis. Several miles consisted of a winding dirt road with negotiable in my Datsun station wagon.
+
+The building's unusual appearance is most striking. I've not seen anything quite like it in all my visits to astronomical facilities. Difficult to describe. I refer readers to the Jul. 1989 issue of "POPULAR SCIENCE" Magazine-- "TELESCOPE" which nicely depicts the roll-off roof approach MIRA chose. The telescope is a massive f/10 Cassegrain; the primary is reported to be 1/37th wave.
+
+Our plan of attack was simple: we would observe everything. It was a long autumn evening and our group, limited to ten persons (MIRA's ample viewing time for all; also facilitating the operation of MIRA's neat computer equipment. Dr. Kaufmann merely depressed the slow or fast slewing buttons on a hand-held paddle until the proper RA and DEC appeared on a monitor, then slewed to the object. [All viewing was done with the "big-eye"(an RF-this scope is not)]
+
+We basically observed all the popular objects-rings the night and a few not so well known items thrown in. My more memorable visions: NGC 7662-Planetary nebula--And. NGC 891--"Little Brother" to the "Edge-on" M13--Resolved core filled the field with stars, overwhelmingly! NGC 891--"As advertised"--W. Kaufmann. Very impressive. Sharp edges-on galaxy, with noted dust lane. Looked much like its photographs in this instrument. Stephan's Quintet--Four or five galaxies viewed easily, hint of structure with averted vision. M42-The Trapezium was glorious. Seemed as though I was viewing their secrets from only a few light years away. The trapezoid was large, members were like bright diamonds on black velvet. Fifth and sixth were stars conspicuously white bright mottled fan outline gave lie to drawings suggesting Incredible detail of luminous twisting gas clouds. M57-Very large and bright, best view of this object I've ever had. Highlight of the evening was finally, after years of frustration, seeing the elusive faint-magnitude central star. At first I could hardly distinguish it in the group. could "Someone suggested I use averted vision only inside the "donut" (which to me looked big enough to drive a truck through), not just outside it worked. Using that technique, the central star popped into view everytime!
+
+I think we all had a good time through the long cold night, thanks to Dr. Kaufmann's infectious enthusiasm, astrophysical comments and advice to "wear every piece of clothing you own to "there was a beautiful lounge nearby with pot-belly stove that was available to thaw us out (It was cold that night, especially with the "dome" rolled back). The gods bestowed upon us a beautifully dark meteor-rippled night sky; even novices were inquiring as to whether we were looking at the Milky Way. In the western sky next to the Praesepe--indeed, they were picking up M67 with the naked eye.
+
+I'd like to thank Dr. Nelson Irving and his staff for making the MIRA facility available and dutifully standing up all night to make sure the equipment ran properly. Thanks also to Dr. Jack Marling for donating eyepieces and a star diagonal to convert the six ton monster into a visual instrument. I recommend future outings. Scheduled again is recommended this seminar to observing session. If you are not already a member, SIAA members advised of future Kaufmann observing sessions.
+
+EDITORS NOTE:
+I want to thank Bill Dellinges for his views expressed in this article. The views that Bill describes are his own and not necessarily those of a large telescope. Now who do I know that's building a 50" telescope?
+
+DEEP SKY NOTES - DECEMBER
+BY: STEVE GOTTLIEB
+
+Because of the serious light pollution in the San Francisco Bay region, deep sky observing of choice is to look towards the south at high power where the naked eye visual threshold is between mags. 4.5-5.0. I find my 13.1" does not reach the stellar magnitude obtained with my C8 in a dark site. The situation is still worse for large. extended objects as many galaxies and nebulae of low surface brightness suffer an invisibility against the bright background glow.
+
+Unfortunately, for the past several years amateurs had access to a remarkable device for increasing the contrast of planetary and emission nebulae. A narrow band pass nebula filter will significantly darken the sky while passing essentially all of the light due to double ionized oxygen. High contrast views of many nebulae can be obtained by rejecting the red glow caused by mercury and sodium streetlights and simulating a dark sky background. Below are the notes from a recent observing session at the unfiltered limit of my 13.1" along with objects I have previously observed in my backyard with the 13.1" at 62X. The nebula filter used was a Lumicon Ultra High Contrast (UHC) filter from Jack Marling.
+
+1. M27 - Vulpecula - Planetary
+(a) Main oblong-ll shape easily visible.
+(B) Appearance radically altered as large side lobes extend from the main body.
+
+2. NGC 6857 - Cygnus - Planetary
+(a) Very difficult - barely visible with averted vision.
+(b) Obvious with direct vision and moderately bright with averted.
+
+3. NGC 6888 - Cygnus - Supernova remnant
+(a) Not seen with any certainty.
+(b) Large and fairly easily visible with-in a triangle of stars and having a fan appearance.
+
+4. NGC 7008 - Cygnus - Planetary
+(a) Fairly faint, smooth oval glow with a star embedded on the east side.
+(b) Fairly bright with a slightly darker center and a brightening along the east side of the rim.
+
+5. NGC 6960-6985 - Cygnus-Supernova remnant
+(a) Not seen.
+(b) Eastern loop visible for 1.5 degrees Western loop easily seen north of 52 Cygni.
+
+6. NGC 7635 - Cassiopeia - "Bubble" nebula
+(a) Only suspected knowing position.
+(b) Visible with direct vision as a faint glow surrounding a mag. 8 star.
+
+The nebula filter can be best utilized by using a low power(5x the aperture in inches) and shifting your attention from all stars. light. Good viewing this month! Steve Gottlieb (415) 524-4678.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5ZB2jBgQLHWLMvpC8'}]
+COMET COMMENTS - DECEMBER
+BY: DON MACHHOLZ
+
+Two new comets have been discovered by
+professional astronomers, one is visible in
+our scopes now. Meanwhile, Comet Austin has
+faded quite a bit, but two periodic comets
+brighten in our morning sky.
+
+This month sees our last "Past Discovery"
+installment, this section has run for two full
+years. I am presently up-dating and enlarging
+the Past Discovery series and I'll begin a new
+series which will replace the Past Discovery
+section at the end of my Comet Comments
+series.
+
+COMET SHOEMAKER (1984r): Carolyn and
+Eugene Shoemaker discovered this comet on Oct.
+28 not far from the Pleiades at magnitude 18.
+They used the 18" Schmidt instrument at Mt.
+Palomar. This comet has been rapidly moving
+further from the Sun and is getting fainter.
+An amazing fact about this comet is that we
+never got closer to the Sun than 5.5
+astronomical units, always staying outside of
+Jupiter's orbit.
+
+COMET SHOEMAKER (1984s): Found Nov. 19th,
+later by the same team and instrument used
+above, this comet was magnitude 12 when
+picked up next to galaxy NGC 772 in Aries.
+This comet is getting closer to the Sun and is
+presently visible in our scopes (positions
+below). I will continue this comet with comet
+Shoemaker, 1984r, until either Shoemaker
+1984f will be visible to us beginning next
+March, shortly after this Comet Shoemaker
+(1984s) fades.
+
+HALLEY'S COMET on Dec. 15: RA: 06hr 04.8m,
+Dec.: +11deg 54.7'. Distance from the Sun:
+5.44 AU. Distance from the Earth: 4.48 AU.
+Mag.: 18.1 Elong: 105 deg. Morning sky.
+
+EPHEMERIDES
+
+1984/5
+DATE      R. A.(1950) Dec. Elong. Mag.
+
+Periodic Comet Arend-Rigaux (1984k)
+
+11-26  08h 12.2m  -01°26'  116°    11.7
+12-01  08h 21.2m  -00°45'  119°    11.6
+12-06  08h 29.5m  +00°10'  122°    11.5
+12-11  08h 37.0m  +01°20'  126°    11.4
+12-16  08h 43.7m  +02°46'  130°    11.4
+12-21  08h 49.4m  +04°42'  133°    11.3
+12-26  08h 54.2m  +06°28'  139°    11.3
+12-31  08h 58.0m  +08°43'  144°    11.3
+01-05  09h 00.8m  +11°11'  149°    11.3
+
+AREND-RIGAUX NOTES: This faint comet
+brightens slightly as it moves through
+northern Hydra in the morning sky. Now is the
+time to get out and see this one, don't be
+discouraged by its faintness. It should be
+quite easy to see.
+
+Periodic Comet Schaumasse (1984m)
+
+11-26  12h 00.1m  +09°44'   62°    10.7
+12-01  12h 20.0m  +08°19'   63°    10.7
+12-06  12h 39.5m  +06°53'   64°    10.6
+12-11  12h 58.1m  +05°29'   63°    10.6
+12-16  13h 16.3m  +04°08'   66°    10.7
+12-21  13h 33.8m  +02°49'   69°    10.8
+
+12-26  13h 50.5m  +01°34'   69°    10.8
+12-31  14h 06.6m  +00°24'   70°    10.9
+01-05  14h 21.8m  -00°42'   71°    11.0
+
+SCHAUMASSE NOTES: In the morning sky
+and quickly moving near the equator, this
+comet holds a steady magnitude and elongation
+(if also remains equidistant from both the
+Earth and the Sun at 1.2 AU. It may be
+slightly fainter than these predictions
+suggest.
+
+Comet Shoemaker (1984s)
+
+11-26  02h 10.4m  +03°13'  147°    10.4
+12-01  02h 16.8m  +00°08'  142°    10.2
+12-06  02h 24.3m  -03°12'  137°    10.1
+12-11  02h 33.0m  -06°19'  132°     9.9
+12-16  02h 47.1m  -09°15'  128°     9.8
+12-21  03h 01.1m  -11°54'  125°     9.8
+12-26  03h 17.0m  -14°13'  122°     9.7
+12-31  03h 34.5m  -16°08'  120°     9.7
+01-05  03h 53.4m  -17°37'  119°     9.8
+
+Shoemaker notes: Our original comet this
+month is well-placed, above the horizon nearly
+all night. It will be only 0.37 AU from the
+Earth in mid-Dec. The magnitudes predicted are
+based on only two weeks of observations, so
+they may be off a bit.
+
+PAST DISCOVERIES
+
+Are some constellations more "popular"
+than others when it comes to finding comets in
+them? Are certain parts of the celestial
+sphere favored over others? A look at the 28
+comets discovered by amateurs somewhere
+between 1975 and 1983 shows some parts of the
+sky favored over others.
+
+As for the Right Ascension of the comets at
+discovery, we find this:
+
+00h to 06h Right Ascension: 5 discoveries.
+06h to 12h Right Ascension: 10 discoveries.
+12h to 18h Right Ascension: 5 discoveries.
+18h to 24h Right Ascension: 8 discoveries.
+
+And as for the declinations of the discovery
+positions:
+19 were found North of the equator, all found
+by observers in the Northern Hemisphere. The
+most northernly was found at 68deg. N. 9
+were found South of the equator, all but 4
+found by observers in the Southern Hemisphere.
+
+And when the discovery positions were compared
+with the ecliptic:
+12 were found North of the ecliptic. 16 were
+found South of the ecliptic. 4 were found
+right on top of the ecliptic (two of these
+turned out to be periodic comets of low
+inclination.
+
+18 constellations had one discovery each. The
+following constellations contained two
+discoveries each: Andromeda, Aquila, Ursa
+Major, Scorpius and Draco. And the
+discovery positions closest to each other are
+William Bradfield finds Comets 1978l and
+1980l. Their positions were 1.2 deg. apart,
+one being found 51 weeks after the other, in
+Southern Scorpius.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5Zk1JDHt4CsuFU9Vj'}]
+GRANT RANCH OBSERVING SITE PROPOSAL
+BY: DAVE AMBROSE
+
+INTRODUCTION
+
+When developing a proposal, it is helpful to agree on a set of objectives and ground rules for achieving them. Below I have outlined what I think we ought to achieve with this proposal and what I think the basic contractual conditions we will need. In doing this, it is my desire to prevent straying afield from our primary objectives.
+
+OBJECTIVES:
+
+1. Provide a site for close-in star parties.
+
+2. Provide a permanently mounted telescope for use in ongoing observing programs.
+
+3. Provide a facility for public education programs.
+
+4. Provide a visible facility for the SJAA to help attract new members and serve as a publicity vehicle.
+
+PHASE I
+
+From the SJAA's perspective, this phase is primarily concerned with developing access to the site. There would be little in the way of specialized facilities but the developments would be designed with astronomy in mind. From the county's view, there would be little increase in the accommodating astronomical uses.
+
+The initial step would be to get a reasonable road, power, and water to the site. After that, the site could be developed as a picnic area. Trailhead and vista point. Developing the site for public uses would begin the construction of a parking lot, rest rooms, and picnic area. In this initial phase, these would not interfere with astronomy uses. Specific additions by the SJAA would be limited to the construction of concrete pads or piers for telescopes.
+
+Activities at the Grant Ranch site could begin after development begins. Once the road is put in, the site would become usable for star parties. After the parking lot and rest rooms are constructed, public star parties would be practical. The SJAA would maintain its current star party schedule. In addition, our well publicized events would be held at the Grant Ranch site. In addition with the SJAA our normal star parties would be open as part of special programs to which the public is always welcome. The lectures that the SJAA sponsors could also be held at the Grant Ranch park, providing that suitable facilities were available. These lectures would be a perfect introduction to the activities at the observatory site itself. An additional activity that should be explored more fully are special lectures and demonstrations which would be held for specific public and private schools science classes.
+
+We should not that most of the benefits to be gained from astronomical activities are available at the completion of phase 1.
+
+PHASE II
+
+Phase 2 would encompass the construction of a small permanent building on the site. This would most likely be a roll-off roof observatory with some provision for storage and rudimentary facilities for public lectures.
+
+These facilities would serve as enhancements to our existing programs, a roof-off roof would allow a larger telescope to be installed on the site for use as a public viewing instrument and for members observing programs.
+
+There are other projects that could be part of phase two. One easy project would be to put a sundial and explanation on the south wall of the observatory or other building. An armillary sphere could also be installed at the site by interested members.
+
+A third project under serious discussion is a scale model of the solar system. The model would be about 1 mile long and consist of appropriately sized spheres placed at their correct distances from the sun. This model of the solar system is a way that most people can understand. This project fits well with the proposed trailhead at the site.
+
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+Recent interesting observations prompt resurrection of this longdormant column.
+
+Several years ago, I first saw Stefan's Quintet in a 18-inch telescope, and I was impressed. So when I got my C-14 and found the Quintet therein, I thought I was doing well. But Jack Zeiders showed it to me in his 10-inch Newtonian. It required averted vision, yet it was there. And then I found it in Kevin Medlock's 4.25-inch. Mary Engle's, I think -- also with averted vision.
+
+At Fremont Peak on September 29, I was looking for the Quintet with a Super-Polaris mount and a 16-inch, quite recall its location with respect to NGC 7331. The Quintet lies about 0.5 degrees south and to the east of larger telescope to refresh my memory. Once I knew where it was, it was easy in the C-8, at 100X. Encouraged and feeling crazy, I said "Oh, who's got a good six inch handy?" Bob Berta had his stale-of-the-art enough no less. Stefan's Quintet in a six-inch f/8 Newtonian at 48X. It helped that Bob's 8-inch mirrors had been realuminized a month before.
+
+How about something smaller? Somebody had a C-5. And at 50X, there was the Quintet! We used a 19 mm Panoptic to know exactly where it was and use averted vision. This is not put there was no doubt. This observation was confirmed by both Kevin Medlock and Bob Schalck.
+
+We couldn't find a four-inch, and Kevin couldn't find it at the finder in his crown/fluorite 700-mm refractor. In infrared and crazier mood, I looked with my 10x50 binocular and actually suspected something was there, but could not really claim to see it. The binocular's two objectives scoop in almost as much light as the C-5, so possibly the problem was inadequate magnification and not insufficient photons.
+
+The key to these observations was precise position! I had carefully located the Quintet with respect to NGC 7331 and to several stars bright enough to show up in a finder at 7X magnification. Then we were as careful as we could be in applying it. It is in seeing as it often is with galaxies. The successful observations were made with 2 mm or greater pupils. We were not using rich-field powers.
+
+What fun! Stefan's Quintet in a five-inch telescope! Bob, Kevin and I were chortling like idiots. And what a shame that most observers realize so little of the potential of their equipment.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5aJzKmUyYcBSnyyr8'}]
+By-Laws Revisions
+
+A number of changes to the By-Laws of SJAA have been proposed. To save space, only the changed sections will be given here. The full text of the proposed By-Laws may be obtained from Jim Van Nuland. These changes will be explained and discussed at the December meeting, and each change will be voted upon at the January meeting. Call Jim if you have questions.
+
+Article II, section 1, part c. Strike: ... the right to vote and to receive.... Insert ... receiving....
+
+This will give Honorary Members a vote at Membership Meetings. It seems miserly to withhold the right to vote from someone we wish to honor. Change proposed by Jim Van Nuland.
+
+III-2. Change ... June ... to ... February.... Strike the last sentence (beginning: Twenty-five percent ...).
+
+The intent is to to move the election of the Board of Directors to February. Our attendance is usually rather small in June; it is felt that February will permit more people to attend and vote at the election. Suggested by various people; formally proposed by Steve Greenberg and the Board.
+
+III-5. Strike the words: ... other than the Annual Meeting....
+
+This change, along with the second part of the above, eliminates minimum attendance for the election. Change proposed by Jim Van Nuland, Bob Fingerhut, and the Board.
+
+III-6. Proxy Vote. If a Member is unable to attend a regular or special meeting of the membership, the Member may vote in absentia by one of the following methods.
+
+1. The absent Member may designate another voting Member to vote in their place. The absent Member shall inform the presiding officer of the proxy before the meeting is called to order.
+
+2. The absent Member may designate their vote on a specific issue prior to the meeting. The absent Member shall deliver the vote and the issue to be proxied to the presiding officer before the meeting is called to order.
+
+In all cases, the absent Member shall be recorded as having cast their vote. The Secretary shall record in the minutes of the meeting that the vote was delivered by proxy and the person acting as proxy.
+
+This proposed new section parallels the provision for absentee vote by Board Members. Proposed by Jim Van Nuland following Dave Ambrose's text.
+
+IV-8. Roll-Call Voting. Any vote of the Board may be polled by roll call at the discretion of the presiding officer, or on a motion (with second) by any Director.
+
+IV-9. Proxy Vote. If a Director is unable to attend a regular or special board meeting, the Director may vote in absentia by one of the following methods.
+
+1. The absent Director may designate another voting Director to vote in their place. The absent Director shall inform the presiding officer of the proxy before the meeting is called to order.
+
+2. The absent Director may designate their vote on a specific issue prior to the meeting. The absent Director shall deliver the vote and the issue to be proxied to the presiding officer before the meeting is called to order.
+
+3. During a meeting, an absent Director may be contacted by telephone, telegram, or other appropriate medium of communication to cast a vote.
+
+In all cases, the absent Director shall be recorded as having cast their vote. The Secretary shall record in the minutes of the meeting that the vote was delivered by proxy and the person acting as proxy.
+
+A proxy vote will count as though the absent Director was present. For the purposes of attendance requirements, the absent Director will be considered excused.
+
+The above two new provisions are needed in certain cases of legally-important votes, especially involving finances. Proposed by Dave Ambrose and the Board.
+
+VIII-2. Notice of any such repeal, amendment, or adoption shall be submitted to all Active Members 30 days prior to a Special Meeting being called for that purpose. When action is to be taken at a regular Membership Meeting, notice shall be given, and the topic discussed, at the regular Meeting prior to the one at which action is to be taken.
+
+This rewording does not make a practical change, but it does clarify the course to be followed in making revisions to the By-Laws. Proposed by Jim Van Nuland and the Board.
+
+Respectfully Submitted,
+James M. Van Nuland,
+Secretary, SJAA.
+
+[THIS IS FIGURE: A decorative illustration showing a mountain landscape with stars above]
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5azAmfX3CBsKmeHWo'}]
+GENERAL MEETINGS:
+
+University of Santa Clara, Alumni Science
+Hall, room 102. Heading north on Hwy 17, exit
+at Bascam/Washington Ave (north), proceed to
+Franklin, then turn right. Heading south on
+Hwy 17, exit at the Alameda (north), proceed
+to Franklin, then turn left. Go two blocks
+to Benton, turn left on Benton. Alumni
+Science Hall is the 3 story building that
+borders the east end of the parking lot. Room
+102 is on the ground floor and is best gotten
+to by entering the first door on the right
+side of the building when walking in from the
+parking lot. MEETINGS BEGIN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to the meeting location with street names and landmarks]
+
+INDOOR STAR PARTIES:
+
+Los Gatos Red Cross Building, 18011 Los
+Gatos-Saratoga Rd. To get there, from Hwy 17
+south take the Hwy 9 (Saratoga) exit and
+continue up Los Gatos Saratoga road for about
+1.5 miles. Turn right at Rose Ave. and turn
+right immediately into the parking lot of the
+Red Cross Building. OPEN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to Los Gatos-Saratoga Rd location]
+
+GRANT RANCH COUNTY PARK:
+
+This site is a new one for the SJAA so come
+and try it out. Located on Mt. Hamilton
+Road, halfway between San Jose and Lick
+Observatory. Coming from San Jose on Mt.
+Hamilton Road (either direction) to Alum Rock
+Rd. Two east up Alum Rock Road to Mt.
+Hamilton Road and follow it. Grant ranch is
+just past the Quimby road intersection. After
+sunset the park front gate will be locked with
+the SJAA's combination lock. Use the sequence
+618 to open, coming or going. There are two
+gates, the lock may be on the exit gate, if so
+enter the park from this gate.
+
+[THIS IS FIGURE: Simple map showing directions to Grant Ranch Park with Mt. Hamilton Rd and Quimby Rd marked]
+
+FREMONT PEAK STATE PARK:
+
+Take Hwy 101 south towards Salinas. Take Hwy
+156 east (San Juan Bautista) for two miles to
+a yellow flashing light. Turn right and go
+about .25 miles to where road curves slightly
+left, look for park sign on right. Go about
+50 yards and then bear right when road splits
+again. Follow road for about 11 miles up into
+the park. SJAA sets up at Coulter Camp
+overflow area. It's visible as you drive up
+into main area of camp. Parking lights only
+after dark, please.
+
+[THIS IS FIGURE: Simple map showing directions to Fremont Peak with roads and landmarks marked]
+
+ASTRO ADS
+
+Celestron 80 refractor with equatorial mount
+and motor drive. Like new. $375. [firm $450
+when market was good, discount is because
+$275 firm. Lots of surplus astro stuff.
+Aerial Lenses, finders, odds and ends. $200
+or best offer. Call: Eva Butler, 408-225-
+3073 (San Jose)
+
+Make Offer: All parts for 6" reflector.
+Includes mirror kit [trough grinding Desquini,
+Edmund driven mount. All components for tube
+assembly, Camera mount, 2 eyepieces. Price is
+open. Contact: Mark Yamonoka, 408-2482294
+(home), or 408-429-8062 (UCSC).
+
+For Sale: 300mm f/5.6 Celestron Mirror/Lens
+telephoto, Nikon TMount. Nikon F camera body.
+New lens, camera recently overhauled by EPDI
+of San Francisco. Equipment like new. $375.
+Contact: Steve Greenberg, 415-443-6638 eves or
+415-424-1606 days.
+
+For Sale: Trekker Scope model 6-S for $200
+Contact Andy Jaros 4083875-1321
+
+For Sale: 78' Celestron C-8 w/coatings,
+wedge, tripod and many accessories. Excellent
+condition $350.00 Contact Duncan Pairman.
+
+EPHEMERIS is published monthly by the San Jose
+Astronomical Association, 3905 Calico Ave.,
+San Jose, Cas. 95124
+
+OFFICERS:
+
+PRESIDENT      Dave Ambrose 816 Everett St., El
+                Cerrito, CA. 94530 [415] 524-
+                0868
+Vice-Pres      Dennis Medlock    15022 Broadway
+                Terrace, Oakland, CA. 95124
+                [415] 644-7476
+Sec.           James Van Nuland   3509 Calico
+                Ave., San Jose, CA. 95124 [408]
+                371-1307
+Treas.         Robert Fingerhut  340 Rio Verde
+                Place, 44 Milpitas, CA. 95035
+                [408] 263-4455
+
+BOARD OF DIRECTORS:
+
+Paul Mancuso [408] 946-0738, Steve Greenberg
+[415] 443-6638, Tom Ahl [408] 997-1383, Gene
+Cisneros [408] 923-6800, Joe Sunseri, Chris
+Pratt [408] 629-2994
+
+EPHEMERIS EDITOR: John Gleason 5361 Port
+Sailwood Dr., Newark, CA. 94560
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5bUSUF7bzWoKt5eWp'}]
+THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+Deep-sky observing, Astrophotography,
+Telescope making, Eclipses, Computerized
+astronomy. Whatever your astronomical
+interests, you'll find people in the San Jose
+Astronomical Association who will enjoy
+sharing their knowledge with you.
+
+ACTIVITIES
+
+The SJAA sponsors an activity every
+Saturday night except around certain
+holidays.
+
+General Meetings, featuring programs on
+various astronomical topics, are held once a
+month a the Alumni Science Building at the
+University of Santa Clara.
+
+Star Parties-group observing sessions are
+held at several different locations: some
+close to San Jose, and others somewhere in the
+adjacent mountains.
+
+Indoor "Star Parties" provide an informal
+opportunity to show slides, work on equipment,
+exchange ideas, etc. They are held in the Los
+Gatos Red Cross building.
+
+MEMBERSHIP BENEFITS
+
+You need not be a member of the San Jose
+Astronomical Association to participate in our
+activities, but membership does grant certain
+advantages:
+
+Twelve months of Sky and Telescope
+magazine, and reduced rates on products from
+Sky Publishing Corporation.
+
+The SJAA ephemeris, a members-only
+newsletter containing a calendar of events
+and activity reports and other interesting articles.
+
+Use of club telescopes. [Both reflectors and
+refractors are available.] Access to the
+SJAA's library of books, magazines, and
+pamphlets.
+
+The San Jose Astronomical Association, founded
+in 1954, is a non-profit group devoted to
+expanding the general public's interest in
+astronomy, conducting research within the
+capabilities of amateurs, and promoting the
+science of astronomy.
+
+[THIS IS FIGURE: A series of telescope illustrations showing various types and sizes of telescopes, numbered 1-8]
+
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $8.00    MEMBERSHIP/S&T: $21.00    JUNIOR (UNDER 12): $15.00
+
+Name ________________________________
+
+Address _____________________________
+
+__________________________________
+
+Telephone (_____)_____________________
+
+Please bring this form to any SJAA meeting, or send to:
+Robert Fingerhut, Treas.
+San Jose Astronomical Association
+340 Rio Verde Pl. #4, Milpitas, CA 95035
+
+[Phone: (408) 263-4455]
+
+Membership: Adult ___ Junior (under 18) ___
+Bulletin Subscription only: ___
+
+Questionnaire (optional)
+
+What are your astronomical interests (e.g. astro-
+photography, deep-sky observation, telescope making,
+etc.)? _________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
+
+Do you own a telescope? _______ If so, what kind?
+
+__________________________________
+
+Is there any specific area of astronomy that you feel
+qualified to help others with? ________________
+
+__________________________________
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5bxDEd377BnKWepsK'}]
+SPACE PROGRAM UPDATE
+BY: BOB FINGERHUT
+
+DISCOVERY RETRIEVES TWO SATELLITES
+The shuttle received two communication
+satellites on Nov. 12 and 14th whose boosters
+malfunctioned earlier this year. Two other
+communications satellites were also launched.
+
+NEXT SHUTTLE FLIGHT DELAYED
+The next launch which was scheduled for Dec. 8
+will be delayed for several weeks. The delay
+has been caused by a material called Screed
+which is used to smooth the aluminum surface
+of the orbiter under the tiles. The Screed
+has softened possibly due to the water-
+proofing agent not being mixed with it. In
+about 200 areas, will have to be removed to
+about 1/4" deep and then replaced. Mission
+51-C is now scheduled for Jan 22 and 51-E in
+February. When 51-C is launched, the payload
+will be a classified geosynchronous orbit
+satellite. An IUS upper stage booster will be
+used to place the cargo in orbit. Shuttle
+astronaut Brig. Gen. Gary Payton, will fly for the
+first time. He has been training in secret
+for this flight and is one of 25 defense
+manned space flight engineer astronauts. The
+time of launch will not be made public until
+the Challenger's engine ignite, but will be
+made narrower for shuttle analysts, when the
+period is closer to launch. The other crewmen
+will be Mission Commander, Thomas K.
+Mattingly, Mission Pilot, Loren J. Shriver,
+Ellison S. Onizuka and James F. Buchli.
+
+GOES-10 WEATHER SATELLITE REACTIVATED
+The satellite was reactivated by NOAA
+following a successful maneuver to free a
+stuck bearing in its imaging system. GOES-1's
+continued operation depends on the performance
+of an encoder lamp that has a history of low
+output but now is operating properly.
+
+RESCUE SATELLITES TO OPERATE THROUGH AT LEAST
+1990
+International participants in the
+Sarsat/Cospas satellite-aided search and
+rescue system have agreed to extend the
+program through 1990. Both the U.S. and Soviet
+Union will maintain two satellites in orbit
+with Sarsat/Cospas repeaters. Distress beacons
+will use 121.5/243 MHz and 406 MHz.
+
+SOVIETS TARGET TWO VENUS LANDERS
+The Soviets will launch two Vega
+Venus/Halley's Comet spacecraft this December.
+The two spacecraft will fly by Venus in 1985
+and release landers which will put down
+about 300-600 miles apart. The landers will also
+release atmospheric balloons that sail aloft
+above the Venusian surface. The main
+spacecraft will continue on to encounter
+Halley's Comet in early 1986.
+
+TDRS LAUNCHES TO RESUME
+The second Tracking and Data Relay Satellite
+(TDRS-B) has been taken out of storage for
+delivery to NASA. It is believed that
+problems with the inertial upper stage (IUS),
+which put TDRS-A into the wrong orbit, have
+been solved.
+
+SPACE TELESCOPE TUBE ASSEMBLY DELIVERED TO
+LOCKHEED
+The optical tube assembly was flown into
+Moffett Field on Nov. 1 in a Super Guppy
+airplane. It was delivered to Lockheed for
+integration with the spacecraft a few days
+later.
+
+NOAA-F TO STUDY THE ATMOSPHERE
+The NOAA-F satellite was scheduled for launch
+from Vandenberg on an Atlas booster the second
+week in November. It will study weather
+pollutants are radically changing the Earth's
+atmospheres. It will also provide weather
+photographs and serve as a relay beacon for
+the joint U.S.-Soviet-French-Canadian search
+and rescue system.
+
+SJAA EPHEMERIS
+3509 CALICO AVE
+SAN JOSE,CA 95124
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO. 5381
+SAN JOSE, CA. 95125
+
+TIME VALUE-DATED
+NEWS MATERIAL

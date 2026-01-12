@@ -1,67 +1,83 @@
 === PAGE 1 ===
-APRIL: 63
+APRIL:63
+
+SJAA
 
 EPHEMERIS
 
-[THIS IS FIGURE: A star chart/astronomical image showing a dark sky with white stars and constellation markers. The chart has time markings along the edges (12h, 18h, 6h, 0h) and year markings (1370, 1970, 1700, 1800, 1900, 1950, 2000, 2200, 1970). There is a triangular shape in the center marked "Polaris" with lines extending from it. The chart appears to be showing the position and movement of celestial objects over different time periods.]
+[The image shows a star chart/astronomical photograph with coordinate markings. The visible text elements are:]
 
-SJAA □
+12h
+1950
+1970
+6h
+18h
+1970
+1900
+1950
+2000
+2100
+2200
+0h
+1950
+Polaris
+1700
 
 === PAGE 2 ===
 # CALENDAR
 
-APR 2 INDOOR STAR-PARTY, LOS GATOS RED CROSS 7:30 PM
-APR 2 OCCULTATION OF JUPITER 4:43 AM
+APR 2    INDOOR STAR-PARTY, LOS GATOS RED CROSS  7:30 PM
+APR 2    OCCULTATION OF JUPITER 4:43 AM
 
-APR 8 BOARD OF DIRECTORS MEETING, FRANK DIBBELL, HOST 8:00 PM
+APR 8    BOARD OF DIRECTORS MEETING, FRANK DIBBELL, HOST 8:00 PM
 
-APR 9 3'RD QUARTER STAR-PARTY, FREMONT PEAK STATE PARK
+APR 9    3'RD QUARTER STAR-PARTY, FREMONT PEAK STATE PARK
 
-APR 16 STAR-PARTY HENRY COE PARK
+APR 16   STAR-PARTY HENRY COE PARK
 
-APR 23 ASTRONOMY DAY, SITES AT U OF S.C., FREMONT PEAK
+APR 23   ASTRONOMY DAY, SITES AT U OF S.C., FREMONT PEAK
 
-APR 30 AUCTION, REGISTRATION STARTS AT 1 PM, AUCTION AT 7:00 PM
+APR 30   AUCTION, REGISTRATION STARTS AT 1 PM, AUCTION AT 7:00 PM
 
-MAY 7 STAR-PARTY, HENRY COE PARK
+MAY 7    STAR-PARTY, HENRY COE PARK
 
-MAY 14 STAR-PARTY, FREMONT PEAK STATE PARK
+MAY 14   STAR-PARTY, FREMONT PEAK STATE PARK
 
-MAY 21 GENERAL MEMBERSHIP MEETING, U of SANTA CLARA, RM 102
-       JOHN GLEASON, "ASTROPHOTOGRAPHY" 8:00 PM
+MAY 21   GENERAL  MEMBERSHIP MEETING, U of SANTA CLARA, RM 102
+         JOHN GLEASON, "ASTROPHOTOGRAPHY"               8:00 PM
 
-MAY 28 INDOOR STAR-PARTY, LOS GATOS RED CROSS, 7:30 PM ON
-       ALL ARE WELCOME, BRING SCOPES, QUESTIONS, SLIDES...
+MAY 28   INDOOR STAR-PARTY, LOS GATOS RED CROSS, 7:30 PM ON
+         ALL ARE WELCOME, BRING SCOPES, QUESTIONS, SLIDES...
 
 MAY 27-30 RIVERSIDE TELESCOPE MAKERS CONVENTION
 
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│                    QUESTION OF THE MONTH:                           │
-│                    WOULD YOU LIKE MORE PUBLIC EVENTS?               │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│              QUESTION OF THE MONTH:                        │
+│              WOULD YOU LIKE MORE PUBLIC EVENTS?            │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 
-EPHEMERIS, is published monthly by the San Jose Astronomical
-Association, 3509 Calico Ave, San Jose, Ca. 95124 (408) 246-6189
-All contributions are welcome and must be received by the 15th
-of the preceeding month. Please type to a width of 6.5", if this
+     EPHEMERIS, is published monthly by the San Jose Astronomical
+Association, 3509 Calico Way, San Jose, Ca. 95124 (408) 246-6189
+     All contributions are welcome and must be recieved by the 15th
+of the preceeding month.  Please type to a width of 6.5", if this
 is not possible, handwritten contributions are welcome.
-EPHEMERIS also welcomes your black and white photos of astro-
-nomical interest. 8x10 prints > 5x7 print min
-All submissions may be sent to SJAA EPHEMERIS editor c/o Jack
-Zeiders 2961 Hagliocco Dr #3, San Jose, Ca. 95128 (408) 246-6199
+     EPHEMERIS also welcomes your black and white photos of astro-
+nomical interest.  8x10 prints  5x7 print min
+     All submissions may be sent to SJAA EPHEMERIS editor c/o Jack
+Zeiders  2961 Hagliocco Dr #3, San Jose, Ca. 95128 (408) 246-6199
 
 SJAA President; Debra Frerichs
 15022 Broadway Terrace, Oakland, CA 94611 (415) 654-6796
 SJAA Treasurer; Bob Fingerhut
 340 Rio Verde Pl #4, Milpitas, Ca. 95035
 
-Board of Directors:                   Bill Cooke (408) 739-6319
+Board of Directors:                    Bill Cooke  (408) 739-6319
 Eugene Cisneros (408) 923-6800  D.Frerichs-Medlock (415) 654-6796
-Frank Dibbell (408) 746-6493 day           Chris Pratt (408) 629-2994
-Steve Greenberg (415) 443-6638        Jim Van Nuland (408) 371-1307
-Shea Pratt (408) 629-2994                Jack Zeiders (408) 246-6199
+Frank Dibbell (408) 746-6493 day         Chris Pratt (408) 629-2994
+Steve Greenberg (415) 443-6638      Jim Van Nuland (408) 371-1307
+Shea Pratt (408) 629-2994               Jack Zeiders (408) 246-6199
 
 APRIL COVER:where is north? Adapted from a chart published in Dec.
 1971 "Sky and Telescope" magazine.
@@ -100,9 +116,9 @@ or Saturn.
 The SJAA will probably entrench at Fremont Peak State
 Park and the University of Santa Clara. If you can think of
 other populated areas we can invade for the evening, give me
-a call (415) 654-6796. ONWARD! UPWARD! - Denni
+a call (415) 654-6796. ONWARD! UPWARD!        - Dennl
 
-_________________________________________________________________
+_______________________________________________________________
 
 On the more serious side of business -- as you all know,
 April 30th is the annual auction and this year it appears to be
@@ -125,7 +141,7 @@ auction. Set up time will be from approximately 4:30 pm on,
 registration starts at 1:30, and the auction starts at 7:00.
 Thanks!
 
-_________________________________________________________________
+_______________________________________________________________
 
 CLUB TELESCOPE
 
@@ -156,9 +172,9 @@ they will still be available by then) from the UC
 Berkeley-Lawrence Laboratory group.
 
 The resulting entries will be published in
-the June Ephemeris.                        - Denni
+the June Ephemeris.                           - Denni
 
-[THIS IS FIGURE: A cartoon showing a person looking through a telescope at what appears to be Saturn (a planet with rings). The left side shows a starry night sky, while the right side shows the planet against a lighter background.]
+[THIS IS FIGURE: A cartoon showing an astronomer looking through a telescope at a large planet (possibly Saturn) with rings, set against a starry background]
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -196,30 +212,30 @@ Jim Van Nuland
 
 BY DON MACHHOLZ (408) 448-7077
 
-A faint comet has been discovered during the past month, it will not get much brighter than magnitude 16. There is one comet brightening in the morning sky, it was recovered in December and will become as bright as magnitude 9.5 in July. Positions for this comet are included below. In our "Past Discoveries" department, we take a look at the first comet ever discovered by an observer in Canada.
+A faint comet has been discovered during the past month, it will not get much brighter than magnitude 16. There is one comet brightening in the morning sky, it was recovered in December and will become as bBright as magnitude 9.5 in July. Positions for this comet are included below. In our "Past Discoveries" department, we take a look at the first comet ever discovered by an observer in Canada.
 
-Periodic Comet Bowell-Skiff (1983e): This is a comet discovered by Edward Bowell of the Lowell Observatory; he found it on a photograph taken by Brian Skiff. At the time of discovery the comet was in western Leo, a few degrees south of galaxy NGC 2903. At that time (Feb. 11) it was approaching both the Sun and the Earth, it is presently moving away from both. Then at 16.2 magnitude, it is also exterior fainter. We now know that it's orbital period is 16.2 years, it hugs the ecliptical plane, and swings from just outside Mars' orbit to slightly beyond Jupiter.
+Periodic Comet Bowell-Skiff (1983c): This is a comet discovered by Edward Bowell of the Lowell Observatory; he found it on a photograph taken by Brian Skiff. At the time of discovery the comet was in western Leo, a few degrees south of galaxy NGC 2903. At that time (Feb. 11) it was approaching both the Sun and the Earth, it is presently moving away from both. Then at 16.2 magnitude, it is also getting fainter. We now know that it's orgital period is 16.2 years, it hugs the ecliptical plane, and swings from just outside Mars' orbit to slightly beyond Jupiter.
 
 Periodic Comet Kopff (1982k)
 
-Date (1983)     R.A.           Dec.         Mag.
-03-27        15h 38.5m     -11° 36'      12.2
-04-06        15  43.8      -11  17
-04-16        15  43.5      -10  50       11.4
-04-26        15  46.3      -10  18
-05-06        15  43.4      -09  46       10.6
+Date (1983)  R.A.        Dec.      Mag.
+03-27        15h 38.5m   -11° 36'  12.2
+04-06        15  43.8    -11  17
+04-16        15  45.5    -10  50   11.4
+04-26        15  46.3    -10  18
+05-06        15  43.4    -09  46   10.6
 
 This comet is slowly approaching the earth and Sun as it remains nearly stationary in central Libra. Data from IAU Circular 3779.
 
 ## PAST DISCOVERIES
 
-Comet Meier (1978r) Discovered on the evening of Wed., April 26 by Rolf Meier of Ottawa, Canada, this comet was then at magnitude 10.4. This was Rolf's first comet discovery, he has since found two more. He was using a 16", f/5 reflector, with an eyepiece giving 56 power and a 1.2 degree field of view. Meier had searched for about fifty hours over three years time. It was found after 15 minutes of searching on April 26, at 8:55, and confirmed the next evening.
+Comet Meier (1978r) Discovered on the evening of Wed., April 26 by Rolf Meier of Ottawa, Canada, this comet was then at magnitude 10.4. This was Rolf's first comet discovery, he has since found two more. He was using a 16", f/5 reflector, with an eyepiece giving 56 power and a 1½ degree field of view. Meier had searched for about fifty hours over three years time. It was found after 15 minutes of searching on April 26, at 8:55, and confirmed the next evening.
 
-At the time of discovery the comet was at 07hr 12m; Dec: +54° , in a rather barren part of the sky in Lynx. It was roughly 3.0 AU from both the Sun and the Earth, moving closer to both. As seen from Earth the comet was 68 degrees from the Sun, from 40° North Latitude the comet was about 50 degrees high in the NW sky at evening astronomical twilight, hardly a horizon-hugger! The moon was two days before Last Quarter, this was the third evening for comet hunting since the moon had left the evening sky.
+At the time of discovery the comet was at 07hr 12m; Dec: ψ54° , in a rather barren part of the sky in Lynx. It was roughly 3.0 AU from both the Sun and the Earth, moving closer to both. As seen from Earth the comet was 68 degrees from the Sun, from 40° North Latitude the comet was about 50 degrees high in the NW sky at evening astronomical twilight, hardly a horizon-hugger! The moon was two days before Last Quarter, this was the third evening for comet hunting since the moon had left the evening sky.
 
-Pre-discovery positions show this to be avery ordinary evening-sky comet. It creeped very slowly across the sky, toward the sun, and brightened very slowly too. Three months before discovery Comet Meier was magnitude 11.7 and 126 degrees from the Sun and not far from M 81 and M 82. A month later it was at magnitude 11.2 and in late March the comet was magnitude 10.3 and 95 degrees from the Sun. For Northern Hemisphere observers the comet was discoverable for at least two months, yet it remained unseen. Obviously the poor weather during this time of the year contributed to this.
+Pre-discovery positions show this to be avery ordinary evening-sky comet. It creeped very slowly across the sky, toward the sun, and brightened very slowly too. Three months before discovery Comet Haler was magnitude 11.7 and 126 degrees from the Sun and not far from M 81 and M 82. A month later it was at magnitude 11.2 and in late March the comet was magnitude 10.8 and 95 degrees from the Sun. For Northern Hemisphere observers the comet was discoverable for at least two months, yet it remained unseen. Obviously the poor weather during this time of the year contributed to this.
 
-Comet Meier became a rather bright and massive sight, passing behind the Sun in early Sept., and closest the Sun two months later (at 1.13 AU). It then continued south to -45° declination before moving northward and fading out more than a year after discovery.
+Comet Meier became a rather bright and massive sight, passing behind the Sun in early Sept., and closest the Sun two months later (at 1.13 AU). It then continued south to <45° declination before moving northward and fading out more than a year arter discovery.
 
 === PAGE 6 ===
 # GREAT RED SPOT EPHEMERIDES
@@ -235,19 +251,19 @@ His reported time was about 15 min. earlier than predicted, so begin observing e
 
 GREAT RED SPOT on Meridian PST
 
-| da mo d | h m |  | da mo d | h m |
-|---------|-----|--|---------|-----|
-| SA 4 2 | 4 16 AM |  | Su 4 24 | 2 24 am |
-| Tu 4 5 | 1 40 am |  | Tu 4 26 | 3 60 am |
-| Th 4 7 | 3 25 am |  | Tu 4 26 | 11 51 pm |
-| Sa 4 9 | 5 1 am |  | F 4 29 | 1 26 am |
-| Su 4 10 | 0 52 am |  | Su 5 1 | 3 12 am |
-| Tu 4 12 | 2 28 am |  | Su 5 1 | 11 1 pm |
-| Th 4 14 | 4 9 am |  | W 5 4 | 0 35 am |
-| Th 4 14 | 11 58 pm |  | F 5 6 | 2 14 am |
-| Su 4 17 | 1 32 am |  | Su 5 8 | 3 49 am |
-| Tu 4 19 | 3 19 am |  | Su 5 8 | 11 46 pm |
-| F 4 22 | 0 43 am |  | W 5 11 | 1 17 am |
+| da mo d h m |  |  |  |  | da mo d h m |  |  |  |  |
+|-------------|--|--|--|--|-------------|--|--|--|--|
+| SA 4 2 4 16 AM |  |  |  |  | Su 4 24 2 24 am |  |  |  |  |
+| Tu 4 5 1 40 am |  |  |  |  | Tu 4 26 3 60 am |  |  |  |  |
+| Th 4 7 3 25 am |  |  |  |  | Tu 4 26 11 51 pm |  |  |  |  |
+| Sa 4 9 5 1 am |  |  |  |  | F 4 29 1 26 am |  |  |  |  |
+| Su 4 10 0 52 am |  |  |  |  | Su 5 1 3 12 am |  |  |  |  |
+| Tu 4 12 2 28 am |  |  |  |  | Su 5 1 11 1 pm |  |  |  |  |
+| Th 4 14 4 9 am |  |  |  |  | W 5 4 0 35 am |  |  |  |  |
+| Th 4 14 11 58 pm |  |  |  |  | F 5 6 2 14 am |  |  |  |  |
+| Su 4 17 1 32 am |  |  |  |  | Su 5 8 3 49 am |  |  |  |  |
+| Tu 4 19 3 19 am |  |  |  |  | Su 5 8 11 46 pm |  |  |  |  |
+| F 4 22 0 43 am |  |  |  |  | W 5 11 1 17 am |  |  |  |  |
 
 # ANNOUNCEMENTS
 
@@ -260,90 +276,47 @@ JUNIOR MEMBERSHIP-UNDER 12- $15.00 INCLUDES SKY AND TEL.
 
 MEMBERSHIP ONLY $8.00 (FORMERLY BULLETIN SUBSCRIPTION)
 
----
-
-## SJAA MEMBERSHIP APPLICATION/RENEWAL
-
-NAME _______________________________________________________________
-
-ADDRESS _________________________________ CITY __________________
-
-PHONE __________________________________ STATE ________ ZIP ______
-
-AREA OF INTEREST ____________________________________________________
-
-MEMBERSHIP/S&T □ $21.00          JUNIOR (UNDER 12) □ $15.00
-
-MEMBERSHIP ONLY □ $8.00
+┌─────────────────────────────────────────────────────────────────────────┐
+│ SJAA MEMBERSHIP APPLICATION/RENEWAL                                     │
+│                                                                         │
+│ NAME ─────────────────────────────────────────────────────────────────  │
+│                                                                         │
+│ ADDRESS ──────────────────────────────── CITY ───────────────────────   │
+│                                                                         │
+│ PHONE ──────────────────────────────────── STATE ────────── ZIP ──────  │
+│                                                                         │
+│ AREA OF INTEREST ─────────────────────────────────────────────────────  │
+│                                                                         │
+│ MEMBERSHIP/S&T □ $21.00        JUNIOR (UNDER 12) □ $15.00              │
+│                                                                         │
+│ MEMBERSHIP ONLY    □ $8.00                                              │
+└─────────────────────────────────────────────────────────────────────────┘
 
 === PAGE 7 ===
 # REFRACTOR VS. REFLECTOR
 BY DON MACHHOLZ
 
-During the latter half of 1982 I had the opportunity to
-compare a 6-inch refractor telescope to the 10-inch reflector
-I have owned and used for several years. The refractor was on
-loan from Robert Gardner of Pasadena, California. He had bought
-the optics, tube and pedestal from A. Jaegers, then he assem-
-bled it. This well-made telescope was made even sturdier with
-braces running from the legs to the pier.
+During the latter half of 1982 I had the opportunity to compare a 6-inch refractor telescope to the 10-inch reflector I have owned and used for several years. The refractor was on loan from Robert Gardner of Pasadena, California. He had bought the optics, tube and pedestal from A. Jaegers, then he assembled it. This well-made telescope was made even sturdier with braces running from the legs to the pier.
 
-Characteristics of each telescope·
-6-inch refractor: Focal ratio of f/5. Baffled tube, painted
-flat black. Eyepieces used: Giant Jaegers Eyepiece, 41.5 mm
-focal length yielding 18.6 mag., 3.76° field of view, 8.2mm
-exit pupil. The other eyepiece, used most of the time: Edmund
-Kellner #42770, a two-lens eyepiece. 31.6 mm focal length,
-24.1 mag., 2.94° field of view, 6.3 mm exit pupil.
-10-inch reflector: Focal ratio:of f/3.8. Diagonal size: 2.14"
-minor axis. Baffled tube, painted flat black, overlaid with
-flock paper. The eyepiece holder, a pipe flange, is inset into
-the tube, the focal plane of the primary mirror is only 6.5"
-from it's edge, providing a large "fully-illuminated field".
-Eyepiece used: Homemade eyepiece, 27.7 mm focal length, 36.1
-mag., 2.83° field of view, 7.3 mm exit pupil.
-The telescope is mounted on a homemade, alkazumith pipe mount.
+Characteristics of each telescope-
+
+6-inch refractor: Focal ratio of f/5. Baffled tube, painted flat black. Eyepieces used: Giant Jaegers Eyepiece, 41.5 mm focal length yielding 18.6 mag., 3.76° field of view, 8.2mm exit pupil. The other eyepiece, used most of the time: Edmund Kellner #42770, a two-lens eyepiece. 31.6 mm focal length, 24.1 mag., 2.94° field of view, 6.3 mm exit pupil.
+
+10-inch reflector: Focal ratio: of f/3.8. Diagonal size: 2.14" minor axis. Baffled tube, painted flat black, overlaid with flock paper. The eyepiece holder, a pipe flange, is inset into the tube, the focal plane of the primary mirror is only 6.3" from it's axis, providing a large "fully-illuminated field". Eyepiece used: Homemade eyepiece, 27.7 mm focal length, 36.1 mag., 2.83° field of view, 7.3 mm exit pupil.
+
+The telescope is mounted on a homemade, altazumith pipe mount.
 
 Performances of each telescope
 
-High Magnification Observing: The 6-inch refractor out-per-
-formed the 10-inch reflector in this area. The images at 180
-power were sharper and had more contrast in the 6-inch. The
-images near the edge of the field were sharper too. Not inher-
-ent to the optics, however, was some vibration in the 6-inch
-unit, the scope would wiggle somewhat after being touched, this
-would take several seconds to die down.
+High Magnification Observing: The 6-inch refractor out-performed the 10-inch reflector in this area. The images at 180 power were sharper and had more contrast in the 6-inch. The images near the edge of the field were sharper too. Not inherant to the optics, however, was some vibration in the 6-inch unit, the scope would wiggle somewhat after being touched, this would take several seconds to die down.
 
-Low Magnification Observing: A "split decision" on this. The
-6-inch refractor provided slightly sharper images at the edge
-of the field, it also had more contrast---the background was
-darker. The 10-inch reflector was able to pick up fainter
-objects, some galaxies and nebula not visible in the 6-inch
-were seen in:.the 10-inch. This occured under both dark skies
-and light-polluted skies.
+Low Magnification Observing: A "split decision" on this. The 6-inch refractor provided slightly sharper images at the edge of the field, it also had more contrast---the background was darker. The 10-inch reflector was able to pick up fainter objects, some galaxies and nebula not visible in the 6-inch were seen in:the 10-inch. This occured under both dark skies and light-polluted skies.
 
-Comet Hunting: The 6-inch was used for 23.00 hours of comet
-seeking during the last seven months of 1982, the 10-inch for
-134.00. While the 6-inch would pick up all the Messier objects
-plus a few of the brighter NGC objects, the 10-inch instru-
-ment gathered more, observing about 1.2 to 1.5 times more deep-
-sky objects than the 6-inch scope. This reflects a magnitude
-grasp of roughly 0.7 to 1.0 over the 6-inch refractor. While
-sky objects in the 6-inch were more beautiful, they were less
-namerous.
+Comet Hunting: The 6-inch was used for 23.00 hours of comet seeking during the last seven months of 1982, the 10-inch for 134.00. While the 6-inch would pick up all the Messier objects plus a few of the brighter NGC objects, the 10-inch instrument gathered more, observing about 1.2 to 1.5 times more deepsky objects than the 6-inch scope. This reflects a magnitude grasp of roughly 0.7 to 1.0 over the 6-inch refractor. While sky objects in the 6-inch were more beautiful, they were less numerous.
 
 Summary
 
-This particular 6-inch refractor performed better than the 10-
-inch reflector for high powers and for low-power observing of
-brighter stars and nebula. Additionally, the contrast was bet-
-ter and the images crisper. For observation of faint and very
-faint objects, the 10-inch performed better. These things seem
-to hold true for both dark-sky and moderate light pollution
-conditions. Reasons for these differences seem to be:these:
-diameter of objective, magnification, focal ratio, light loss
-of each system, and the obstruction of the secondary mirror (or
-lack thereof).
+This particular 6-inch refractor performed better than the 10-inch reflector for high powers and for low-power observing of brighter stars and nebula. Additionally, the contrast was better and the images crisper. For observation of faint and very faint objects, the 10-inch performed better. These things seem to hold true for both dark-sky and moderate light pollution conditions. Reasons for these differences seem to be: these: diameter of objective, magnification, focal ratio, light loss of each system, and the obstruction of the secondary mirror (or lack thereof).
 
 8
 
@@ -354,16 +327,16 @@ BY BOB FINGERHUT
 Every two years the Ventura county Astronomical society and
 the Orange County Astronomers sponsor a one day astrophotographic
 seminar. It was8 held on March 5th this year, and attended by four
-S.348 members, Jack Peterson, Eugene Cisneros, Steve breenberg,
+S.g8a members, Jack Peterson, Eugene Cisneros, Steve breenberg,
 and myself.
 
 There were presentations on Tri-color, developing slide film
-as a negative, new films. solar eclipse and comet photography,
+as a negative, new films, solar eclipse and comet photography,
 filters, and light polution to name a few.
 
 The Reverend Ronald Royer presented a complete color tour of
 the Milky Way, much of it taken in brilliant tri-color with spe-
-ctacular views of the southern Milky Uay. As always I left with
+ctacular views of the southern Milky Way. As always I left with
 a dozen new ideas I want to try out.
 
 ADDS
@@ -372,7 +345,7 @@ FOR SALE:
 CAVE 6" F/4 RFT. FIBERGLASS TUBE, TRIPOD SOCKET, AND WOODEN
 CASE. MIRROR AND DIAGONAL IN VERY GOOD CONDITION. SCOPE LOOKS
 LIKE NEW! BEST OFFER OVER $125.00 (408) 688-7804 eve 688-5211 day
-Lance Huggins
+Vince Huggins
 
 Lou Lassabatere is trying to get together his own
 weather station and is looking for good, used equip-
@@ -390,7 +363,7 @@ ING IN HAWAII FROM JUNE 13-19,1983.
 
 THE CONFERENCE WILL INCLUDE A SYMPOSIUM ON NEW TECHNIQUES IN
 SPECTROSCOPY, PAPERS ON THE HISTORY OF ASTRONOMY, AN AMATEURS'
-PAPERS SESSION. A WORKSHOP FOR TEACHERS, A NON-TECHNICAL LECTURE
+PAPERS SESSION, A WORKSHOP FOR TEACHERS, A NON-TECHNICAL LECTURE
 SERIES OF NEW DEVELOPMENTS IN ASTRONOMY, SPECIAL TOURS OF THE
 MAUNA KEA OBSERVATORIES AND VOLCANOES NATIONAL PARK, AN AWARDS
 BANQUET, AND A HAWAIIAN LUAU.
@@ -402,11 +375,13 @@ A.S.P.
 1290 24TH AVE.
 SAN FRANCISCO, CA. 94122
 
-KGO-FM (103.7)    Sundays 11 am to 1 pm
+KGO-FM (103.7) Sundays 11 am to 1 pm
+
 Sunday, April 3 -- "Everything you've Wanted to Know
 about the Universe but Were Afraid to Ask":
 Host Andrew Fraknoi will answer listener's
 questions about astronomy.
+
 Sunday, April 17 -- Nuclear chemist Helen Michel
 of Lawrence Berkeley Labs will discuss how an
 extraterrestrial impact may have caused the
@@ -417,292 +392,211 @@ demise of the dinosaurs.
 === PAGE 9 ===
 # Riverside Telescope Makers Conference
 
-Sponsored by: THE RIVERSIDE ASTRONOMICAL SOCIETY
+## Sponsored by THE RIVERSIDE ASTRONOMICAL SOCIETY
 
-Date: LABOR DAY WEEKEND - ASTRONOMERS
+**Dear Fellow Amateur Astronomers:**
 
-MEETING LOCATION: This year we are offering four real plans.
+Please plan to attend The 15th Annual Riverside Telescope Makers Conference. It will be held at the Riverside Camp Sauer, which is located about 4 miles south of Idyllwild, California. The location has an area similar to northern Big Bear and has an excellent atmosphere. Many of you who attend the old trip to Pinecrest lake are familiar with identical conditions of viewing. This camp which is jointly owned by the County and City of Riverside has a new Recreation of $700 feet, and an equally super viewing of the heavens.
 
-1. Flat roads and looking for camps? a) .....So per person.
-   Bring your own tent, sleeping bag, food, and meet with the
-   Sunday evening meal.
+## WEEKEND LODGING:
 
-2. Site meals and looking for camp?b).....$20 per person with the
-   meals furnished by the Riverside Astronomical Society per week the
-   Monday morning meal.
+This year we are offering four meal plans.
 
-3. Meals and looking for camps? c)......$40 per person.
-   Bring with the Friday for camping.....so per person.
-   evening meal. Both with the Friday evening meal and leave with the
-   Monday morning meal.
+1. Flat meals and lodging (or camps) $15.50 per person.
+   2 nights - Friday and Saturday, 5 meals with the Sunday evening meal.
 
-4. Eight meals and/or design? or caring?b?.....$2 per person.
-   Bring with the Friday evening meal and leave with the
-   Monday morning meal.
+2. Six meals and lodging (or camps)... $19.50 per person.
+   2 nights - Friday and Saturday, 6 meals which includes breakfast Friday morning and breakfast with the Sunday morning meal.
 
-Use the 1969-70 CALENDAR.
+3. Eight meals with the Friday (or camping)...$23.00 per person.
+   3 nights - Thursday, Friday and Saturday. 8 meals with the Friday evening meal and ends with the Sunday morning meal.
 
-CAMPING: Tents, RV's, etc. is $3 fee for the mails, you may camp on the
-grounds with the following schedule:
+4. Eight meals and lodging (or camping)...$21.82 per person.
+   3 nights with the Friday evening meal and ends with the Monday evening meal.
 
-$10 per person for one night,
-$20 per person for two nights,
-$30 per person for all three nights.
+**Note:** 02 thru Date 19 Oct, we use less than 1970
 
-DUE TO FEE: For those attending the conference who do not plan
-to stay overnight on the site or eat meals, the entrance fee
-registration fees will be maintained for these events. Please include pay-
-station fees will of the above entrance fees include registration.
+## Lodging fee SCHEDULE:
 
-SMOKE: Those who do not want to take an entire meal
-package: Individual meals available at the cost shown for
-entire meals package and, if it be open all the
-time. Sunday dinner at 5:00 PM
+Lodging is not 2 live the meals, you may camp on the grounds with the following fee schedule:
 
-DENTAL VISIT: The conference grounds will open at 1:00 p.m. on
-Friday at 5:00 PM, Saturday at 7:00 AM and
-preparation rounds in advance that time or you will not be
-able to register
+$10 per person for one night.
+$15 per person for two nights.
+$20 per person for all three nights.
 
-NOTICE: If you wish to reserve a motel in Big Bear, you must do
-so yourself.
+**Note:** See page one of the meal plans, but please note that if you buy a combination or lodging, they give you a discount. If you wait until the last moment, the meals ordered throughout the dining since three are of charge being table or strip fits and no open fires are allowed.
 
-HOLD PASS: Big Bear Lodge, Big Bear Lake, CA 92315
+**DUE DATE FEE:** For those attending the conference who do not plan to stay overnight or eat meals, there will be a $2 fee to help defray operating fees. If not, $0.50 to public is the rate per meal plan or $0 per day. Pass all of the above combined fees include dep-its (not computing).
 
-(714) 866-3026
+## SPECIAL NOTE:
 
-HOLD ROOM PASS: Big Bear Lodge, CA 92315
-F.O. Box 1600
+**PLACE:** Those who do not want to take an entire meal plan to strip weekend, if they open all trip, can strip in a strip who strip on or eat can be made with a strip to strip their period strip period in strip what we can in a period in strip in strips in period of stripped period of strip in.
 
-HOLD GAS PASS: 568-3026
+**ARRIVAL TIME:** The conference grounds will open at 11:00 on Friday. Those who arrive until mid-afternoon on Saturday will be pro-rated the difference.
 
-NOTE: Camping, lodges, Big Bear City, CA 92315
+**NOTICE:** If you with to reserve a meal in Big Bear, you must do so prior to 5:00 PM on Monday, August 28, 1989.
 
-(714) 585-3956
+**Contact:** Big Bear Lake, CA 92315
+DIAL PMST,
+F.O. Box 3629,
+Big Bear Lake, CA 92315
+Tel: (714) 866-3763,
+P.I.W. 866-2526
 
-NOTICE: Bob con still take a meal plan even if you stay
-in a HOTEL...
+**NOTE 2:**
+Special Meal, Big Bear City, CA 92315
+(714) 584-5956
 
-REAL MOUNDS: This means on, to the past, what must be on all
-types of mail forms if you are having for mailing. Especially if
-campers in months location accept from campers only....and we do
-post office at 5:00 pm today...excepted from mails and use of
-telescope making at night be aware of weekend if you are single
-will again be decided for the post office under from single
+**Note:** Camp Board, can still take a meal plan even if you stay off the grounds.
 
-GUEST PASS: so please must be that all Telescopes invite for Wait
-Access be located on the telescope operating interest on RVS
-with up all to be continued on 6:00 interest must be located
-located at all times. Riverside Astronomical may be next
-interest when the camping activity will work.
+**EARLY WARNING:** This years. All in the past, well start off friday evening with a non and can film showing of special interest. After this the following programs will fill in again, be cleared for the best telescope under true single conditions.
 
-Accept this year we will again be quoting the Clifford to
-PLANS: (Yes - We can - Use the 300mm Cassegrain Scope). Interest
-store of Dobson making. The outer consist of 8 please and a VOD.
+Please note: We request that all Telescopes, binoculars for various located on the telescope viewing field/section are to be located or move away from persons eating by telescope makers. All persons and may be used telescopes all want the capability of getting out in words.
 
-SPEAKERS: We are request the abstracts or papers tour presentation
-to the Conference can be sent to Mr. Lou Vargas who is responsible
-for getting any submission of the information to the various form...
-Please include your information, if available, to Lou...
-Your e-mail REALLY be listed to 30 minutes...
+**About this year:** We will again be searching the Clifford do most objects. The inner course consists of at please and a 100-page strip of telescope.
 
-person per: This is that it must be who is the not plans or
-papers for both. As of the time above were not forms include registra-
-tion fees all of the above continue fees include registration.
+We are request the abstract of papers to up for presentation at the program session of the Conference. There will be time telescopes descriptive writing techniques, for both film or a strip out for the star field. Film describing the solar system within this year of strip strips or $0 field VMTA if listed at 30 minutes.
+
+**SPEAKER:** Of film, of 30 minutes. These proper-
 
 8
 
 === PAGE 10 ===
-STUDENT/PARENT/EMPLOYEE MATING CONFERENCE
-IMPORTANT NO
+SURRENDER/ESCAPE MAJORS CONFERENCE
+HOOVERSVILLE, NO
 RIVERSIDE CALIF 92507
 
-NAME[S]
+                                                                         TYRAC REGISTRATION FORM
 
-ADDRESS
+NAME(S)_____________________
 
-CITY                       STATE                   ZIP CODE
+ADDRESS____________________
 
-MFALS 4 LODGING - 5 MEALS  $734
-                          6 MEALS  $736
-                          7 MEALS  $738
-                          8 MEALS  $742
+CITY________________________  STATE_______  ZIP CODE________  & OF PEOPLE_______  AMOUNT________
 
-CAMPING ................  1 DAY   $10
-(Includes Camp Facilities, All
-with Meals Plans) 2 DAYS  $12
-                  3 DAYS  $14
+                                                            MEALS & LODGING - 5 MEALS         $ 534    $ 536
+                                                            6 MEALS                            $ 539    $ 542
+                                                            7 MEALS                            $ 510
+                                                            8 MEALS                            $ 512
+                                                            CAMPING .......... $ 514           $ 510    $ 512
+                                                            with meals please!
+                                                            1 DAY                              $ 514
+                                                            2 DAYS
+                                                            3 DAYS
+                                                            # MEALS______________
 
-DAY USE .....  WITH meals or camp/ny $5
-             (Not Incl. Meals or Camping)
+                                                            DAY USE ..... $1Fr meals or camping!
+                                                            FOR RESERVATIONS
 
-PROCEEDINGS $9 PER COPY                 $59
+                                                            PROCEEDINGS $9 PER COPY            TOTAL____
 
-                                        TOTAL
+                                                            Make checks payable to: Riverside Fellowship Wesleyan Conference
+                                                            Send to: Riverside Fellowship Conference
+                                                            c/o Phil Richardson
+                                                            9325CP
 
-NOTE: Make check payble to Riverside Telescope Makers Conference
+North: if you plan a receipt for your registration, send
+self-addressed stamped envelope.
 
-Send to: Riverside Telescope Makers Conference
-         Patricia Hillering Ch 92507
-         
+[THIS IS FIGURE: A map showing directions to Oak Hills, with landmarks including Highway 38, Green Canyon, State Hwy, Cedar Canyon, and routes to Redlands and Big Bear City]
 
-NOTE: If you plan a receipt for your registration, send
-     a self-addressed stamped envelope.
-
-
-MCONV-
--1
-
-
-#DAYS
-
-
-PANEL M: Will again more on your form conduct by of "experts
-in their fields" There will also be free time for just plain
-old-fashioned "bull sessions" with fellow conference participants.
-SWAP AND SELL TABLE: Our annual opportunity to get rid of or
-acquire rare telescope parts and components. Vendor material
-straightforward problem in simi format: if you wish to participate,
-bring a table, sell up and go to it! Great fun. ALL ARE INVITED
-to man a table - or just browse.
-
-GUEST OF THE WEEK: Our giant speaker this year will be Mr. Rich Jakiel.
-Rich's accomplishments are many. He is nationally known as the
-creator of the NEW known configuration SBT or 5 Skn and Telescope
-magazine.
-
-SAN METES: The swap meet will again be upon this year.   The shop
-will be well stocked.
-
-DOOR PRIZES: This is ALWAYS popular activity. Will continue &
-RAFFLE:
-
-WIVES:  The properties of the Riverside Telescope Makers
-      Conference will again be published by the Orange County Alta-
-      Conference will again be.
-
-COURTLEY EXHIBITS: Space will be assign to   For........ owners for
-exhibits to show, mail explain their astronomical products. All
-Vendors inquiring of attending the 1987 Conference please contact:
-G.Cimino, info via Merr. July 1st at 5703 Gloriea Sol Bernardino
-CA 92404.
-
-MEALS:  Please leave your past at home.
-
-NOTES:  With surf. Wood and the bonfire Fill in upstay your
-
-THE CONFERENCE GOES ON.....RAIN OR SHINE.....OR SNOW !!
-
-[THIS IS FIGURE/CHART: A simple map showing directions to the conference location, including landmarks like Clara Park, State Lane, Highway 18, Green Canyon, and Grass Mills. The map indicates "TO BELLBAS" at the top.]
-
-BIG BEAR CITY
-
-IIIIN MIKES
-RIVER BOK
-
-BASS MELLBAS
-
-TO BELLBAS
-
-ONI:
-SIRET
-
+[Right side contains various registration instructions and conference details, including dates, rates, and policies which are partially legible in the image]
 9
 
 === PAGE 11 ===
 LOCAL ASTRONOMY SITES
 
-[This is a hand-drawn map showing various locations and roads in what appears to be the San Francisco Bay Area and surrounding regions. The map includes the following text labels:]
+[The image contains a hand-drawn map showing various astronomy sites and locations around what appears to be the San Francisco Bay Area and surrounding regions. The map includes highways (marked as numbers like 101, 152, 156), cities, and geographical features. Text labels on the map include:]
 
-SAN MATEO
+SAN RAFAEL
 BRIDGE
 
-SANTA MARIA
-VALLEY
-
-CALAVERAS
-RESERVOIR
-
-SKYLINE
-BLVD
-
-DE ANZA
-
-SARATOGA
-SUNNYVALE
-
-STEVENS
-CREEK
-RESERVOIR
-
-OLD
-SAN
-JOSE
-
-HICKS RD
-
-SANTACRUZ
-CANYON PK
-
-MT.
-HAMILTON
-
-TO SANTA
-CRUZ
-
-ALMA
-ROCK
-
-MT HAMILTON RD.
-
-CHIMNEY
-ROCK
-
-MT. GLANCIER RD.
-
-HWY 1
+GGG
 
 TO LIVERMORE
 
-DIABLO FIVE ROAD
-
+DIGSEK PINE <nnD.
 SAN ANTONIO
 JUNCTION
 
 TO
 PATTERSON
 
-MT. HAMILTON
+SAUSALITO
+GATDL
 
-ANDERSON
-RR.
+Mt. HAMILTON RD.
+Mt. HAMILTON
 
-HENRY COE
-ST. PK.
+DE ANZA
 
-ARROYO
-ELK.
+SARATOGA
+GATESVILLE
+
+ALUM ROCK
+
+OVATA
+
+QUANEY RD.
+
+OLD
+VIA.
+
+MONTA
+
+HICKS RD.
+
+BARTLINGEN
+CANYON PK.
+
+Mt.
+UMUNHUM
+
+ADOBE
+COM
+
+TO SANTA
+CRUZ
+
+COYOTE OK.
+
+LOMA
+PRIETA
+
+MORGAN
+HILL
 
 EAST
-DUNNE AV.
+DUANE AV.
 
-COYOTE
-LK.
+MT. BLANCHAR RD.
 
 GILROY
 
-HWY
+SANTA
+CRUZ
+
+HWY 1
+
 152
 
-WATSONVILLE
+ANDERSON
 
+COYOTE
+LAK
+
+ISZ
+
+WATSONVILLE
 SAN JUAN
 BAUTISTA
 
+156
+
+Hollister
+
 TO
 MONTEREY
-
-HOLLISTER
 
 FREMONT PEAK
 ST. PK.
@@ -712,9 +606,9 @@ ST. PK.
 === PAGE 12 ===
 NEWS MATERIAL
 
-TIME VALUE - DATED
+TIME VALUE — DATED
 
-SILVA "PREMIERS
+SILVA -PHEMERS
 3509 CALICO AVE.
 SAN JOSE, CA 95124
 

@@ -1,17 +1,643 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5exHenP4KoW7htnxX'}]
+THE SAN JOSE
+ASTRONOMICAL ASSOCIATION
+
+EPHEMERIS
+
+JANUARY 1985
+
+*************************************************
+* JANUARY 28TH GENERAL MEETING *
+* BOB FINGERHUT AND RON WALTON PRESENT *
+*SOUTH PACIFIC TOTAL SOLAR ECLIPSE EXPEDITION*
+*************************************************
+
+JANUARY 5 Indoor star party at the Los Gatos
+Red Cross Building. Doors open at
+8 p.m.
+
+JANUARY 12 Board Meeting at the Los Gatos Red
+Cross building. Doors open at
+8 p.m.
+
+JANUARY 19 Field Expedition for Astronomical
+Observation (FEAO) at Grant Ranch
+Dusk till Dawn.
+
+JANUARY 26 General Meeting 8 p.m. at the
+University of Santa Clara.
+Nominations for the Board of
+Directors will be entertained.
+
+Bob Fingerhut and Ron Walton will
+give a presentation on their
+recent total solar eclipse trip.
+Bob promises many pictures of red
+hunters and wild native wahine's.
+And, rare photos of the elusive
+solar corona. Be there, Aloha!
+
+FEBRUARY 2 Los Gatos Red Cross build. Indoor
+star party. Doors open at 8 p.m.
+
+FEBRUARY 9 Los Gatos Red Cross build. Indoor
+star party and board meeting.Doors
+open at 8 p.m.
+
+FEBRUARY 16 Annual club outing for astro-
+observation at Henry Coe State
+Park. See enclosed map. Site
+clubs lock and combination 4585 to
+enter gate. Please close and lock
+gate behind you. Thx - Jim Van
+Nuland promotes to have plenty of
+food and drink to celebrate the
+re-opening of the park since last
+springs earthquake.
+
+ASTROPHOTOGRAPHY SEMINAR IN MARCH
+
+ASTROPHOTO VI SEMINAR for amateur
+astrophotographers will be held on Saturday,
+March 2, 1985 at California State University
+at Fullerton, California. This will be
+follow-up to the highly successful 1975 and
+sponsored by the Orange County Astronomers,
+Ventura County Astronomical Society, Cal.
+Physics club at the university. In addition
+to a day of papers and displays there will be
+an international astrophotography exhibition
+with cash prizes in four categories. Papers
+and exhibits are being solicited now for
+with a February 1 deadline. As usual Book
+of Proceedings will be included with book
+seminar cost of $15.00 as well as being
+available after the seminar for $10 ppd
+OC. More information is available from the
+OCAS at 2215 Martha Ave., Orange, CA. 92667
+(714) 633-8446
+
+COMET COMMENTS
+
+BY: DON MACHHOLZ
+
+A new comet has been discovered by
+amateur astronomers and two more by
+professionals during the past month. One will
+be visible in our northern sky for the next
+several months. I'll include its positions
+along with those of two other comets brighter
+than mag. 10. Comet 1984t, also known as Comet
+Rigaux, is now near M67 and M44 at mag. 10
+and in the morning sky. Due to space
+limitations I'll not include its positions
+this month, but if you phone me I'll have them
+available.
+
+Following the ephemerides this month is my
+new feature. Let me briefly review what we've
+covered in the past in Comet Comments. This
+column began in June 1978. In Sept. of that
+year I began adding comet trivia at the end of
+the article and called that section "Comet
+Tails." Next, from Jan. 1980 through Dec.
+1982 I featured comets brighter than mag. 10 at
+present and that section was called "Comet in
+Their Eyes." Finally, from Jan. 1983 through
+last month we covered the amateur comet
+discoveries in the section called "Past
+Month's Discoveries." Beginning this month and
+continuing for the next two years, will be a
+special section on Halley's comet entitled
+"What Goes Around Comes Around."
+
+Comet Levy-Rudenko (1984i): The first comet
+to be discovered by an American amateur in six
+years was discovered by David Levy of Tucson,
+Arizona on Tuesday night, Nov. 13 at 9:52
+Michael Rudenko of Los Angeles at 10:45 CST.
+hours later. The comet was Mag. 9.7 00 deg.
+from the Sun in the evening sky. Its position
+was RA 18h 47m Dec. +10 in the
+constellation Aquila. If its moving north, was
+heading east and was moving slow this comet
+will be visible in the evening sky after the
+morning sky then later evening sky, in the
+region. Following discovery it was learned
+that H. Mori of Japan had spotted it on Nov.
+13.
+
+David Levy had searched for 917 hours, in
+about 850 sessions, over 19 years, to find
+this his first named comet. For the
+discovery he was using a 16-inch f/5
+reflector. Michael Rudenko was searching with
+a 6-inch f/8 refractor at 30 power when he
+spotted it. Later he saw it at 175 power from
+his backyard using a Lumicon Deep Sky filter.
+Michael had swept some 246 hours since Mar.
+1981 for this, his first find. This was the
+first comet to be discovered by an amateur in
+Massachusetts in over 120 years.
+
+Comet Hartley (1984v): Malcom Hartley from
+Australia found this comet on Nov. 17 when it
+was about 2 deg. south of the star Rigel in
+Orion. At mag. 15 when discovered, it will be
+closest the Sun in Oct 1985, but at a distant
+4.0 AU and it is not expected to get any
+brighter.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5faVUwPH7Y8iTKR23'}]
+# EPHEMERIDES
+
+## DATE R. A. (1950) Dec. Elong. Mag.
+
+### Comet Levy-Rudenko (1984t)
+
+| 12-26 | 18h 25.1m | +32°43' | 55° | 9.1 |
+|-------|-----------|---------|-----|-----|
+| 12-31 | 18h 21.6m | +35°34' | 59° | 9.1 |
+| 01-05 | 18h 16.2m | +39°21' | 63° | 9.1 |
+| 01-10 | 18h 09.5m | +43°12' | 67° | 9.1 |
+| 01-15 | 18h 00.7m | +47°35' | 73° | 9.2 |
+| 01-20 | 17h 48.3m | +52°38' | 79° | 9.2 |
+| 01-25 | 17h 29.1m | +58°25' | 85° | 9.3 |
+| 01-30 | 16h 56.4m | +64°52' | 94° | 9.3 |
+| 02-04 | 15h 53.0m | +71°18' | 102 | 9.4 |
+
+This newly-discovered comet
+moves under the North Star and
+into the morning sky as it
+approaches the Earth but recedes
+from the Sun. It will appear
+diffuse and about 5' in diameter.
+It will be near the star Vega in
+early Jan.
+
+### Comet Shoemaker (1984s)
+
+| 12-26 | 03h 16.6m | -13°43' | 123° | 9.6 |
+|-------|-----------|---------|------|-----|
+| 12-31 | 03h 33.9m | -15°33' | 121° | 9.6 |
+| 01-05 | 03h 52.6m | -16°57' | 119° | 9.6 |
+| 01-10 | 04h 12.3m | -17°53' | 118° | 9.7 |
+| 01-15 | 04h 32.6m | -18°23' | 118° | 9.8 |
+| 01-20 | 04h 53.1m | -18°25' | 119° | 9.9 |
+| 01-25 | 05h 13.3m | -18°03' | 119° | 10.1 |
+| 01-30 | 05h 33.4m | -17°21' | 120° | 10.3 |
+| 02-04 | 05h 52.8m | -16°23' | 121° | 10.5 |
+
+This comet is brighter than
+I had suggested it would be last
+month. It may appear diffuse
+and about 4' in dia. It's in the
+morning sky, and holding a
+constant 1.19 AU from the Earth
+as it slowly moves away from
+the Sun.
+
+### Periodic Comet Schaumasse (1984m)
+
+| 12-26 | 13h 50.5m | +01°34' | 69° | 9.3 |
+|-------|-----------|---------|-----|-----|
+| 12-31 | 14h 06.6m | +00°24' | 70° | 9.6 |
+| 01-05 | 14h 21.8m | -00°42' | 71° | 9.4 |
+| 01-10 | 14h 36.3m | -01°42' | 72° | 9.9 |
+| 01-15 | 14h 50.1m | -02°37' | 74° | 9.6 |
+| 01-20 | 15h 03.0m | -03°27' | 76° | 9.7 |
+| 01-25 | 15h 15.1m | -04°12' | 77° | 9.8 |
+| 01-30 | 15h 26.3m | -04°52' | 79° | 9.8 |
+| 02-04 | 15h 36.7m | -05°27' | 82° | 9.9 |
+
+This comet holds steady with the
+Earth at roughly 0.4 AU while
+it reaches perihelion in early
+Jan. It should be visible for
+nearly all night. Be sure to
+get out and see this one!
+
+---
+
+WHAT GOES AROUND COMES AROUND--HALLEY'S COMET
+
+For the next two years we will highlight
+one single comet: this comet is not the
+brightest comet to ever grace our skies. It
+has never displayed the longest tail, or shown
+the largest coma (head). It has not been the
+most colorful comet, nor the first comet to be
+observed by an Earth-orbiting satellite. And
+indeed, it's even the first comet to have a
+spacecraft sent to it.
+
+Its orbit is not the most consistent, the
+shortest, nor the longest. It never gets
+closer to the Sun than Mercury, and the
+nucleus is so small that it vanished
+completely when it transited the Sun on its
+previous visit. Its absolute magnitude is
+only +5, it is a slow-moving object for a comet,
+it's 'split' and it causes only minor meteor
+showers. The last time it appeared, it was
+out-shone by an unexpected comet several
+months previous, and this time around,
+Northern Hemisphere observers will have to
+observe it through the rainy season.
+
+This comet was not named after its
+discoverer, as most comets are. It was named
+after someone who observed it one year and
+then predicted its return. This was the
+third comet for which he predicted a return;
+he was way off on the first two. But when
+he finally hit it on the third attempt, the
+prediction was made, and 16 years after the
+death of the person, the comet was given this
+Englishman's name: and even today, people are
+unsure about the exact pronunciation of that
+name.
+
+And yet, despite all this, Halley's Comet
+is the most famous comet of them all. Every
+science textbook lists it and students are
+raised on it. The last time it appeared, in
+1910, our technology was refined enough to
+predict, observe and photograph the celestial
+wanderer, but not extensive enough to ruin the
+view with naked eyesight.
+
+It has been observed since 240 BC and on
+every return since 87 BC. We can even say
+that a lifetime is measured by its 75 to 79
+year orbital period. And as it nears the Sun,
+the intensity is warming up as sure as the coma
+of Halley's Comet.
+
+Halley's Comet is also known as Comet
+1982i. It was recovered by a team of
+astronomers who used photographic plates from
+two years ago-on Oct. 16, 1982. They used the
+200 reflector telescope with a device to
+enhance the feeble light from the comet. At
+that time the comet was about 11 astronomical
+units (or just over 1 billion miles) from both
+the Earth and the Sun. At that distance the
+comet appeared as only magnitude 24.2, about
+one million times fainter than the comet you're
+watching. Halley's progress, last January, it
+was 8.1 astronomical units (AU) from the Sun
+and magnitude 22. Now it is 5.2 A.U. from the
+Sun and mag. 19. There is no stopping this
+comet, before the year is out you will have
+several reports. Next month we'll discuss its
+motions across the sky, and the best time for
+observations.
+
+Don Machholz (408)448-7077
+
+---
+
+## DEEP SKY NOTES - JANUARY
+
+BY: STEVE GOTTLIEB
+
+The New General Catalogue (NGC) by J.L.E.
+Dreyer, published in 1888, is compilation of
+7,840 deep-sky objects previously recorded by
+earlier astronomers such as Maria, Bincenco,
+William and John Herschel. Since the
+publication of this catalogue, the literature
+of astronomy has used the NGC numbering scheme
+as the principal designation for those
+galaxies, clusters and nebulae that Dreyer
+included. However, many of the objects were
+listed in inaccurate coordinates, misidentified,
+number of nonexistent objects, duplicate
+entries, and positional errors exist. Dreyer
+caught some of the mistakes and published the
+correct information in two supplements to the
+Index Catalogues [IC I and IC II] which
+followed in 1895 and 1908.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5gdkF7Qkss7fr39U2'}]
+GENERAL MEETINGS:
+
+University of Santa Clara, Alumni Science
+Hall, room 102. Heading north on Hwy 17, exit
+at Bascom/Washington Ave. (north), proceed to
+Franklin, then turn right. Heading south on
+Hwy 17, exit at the Alameda (north), proceed
+to the first light (Franklin), turn left,
+and turn left into the parking lot. Alumni
+Science Hall is the 3 story building that
+borders the east end of the parking lot. Room
+102 is on the ground floor and is best gotten
+to by entering the first door on the right
+side of the building when walking in from the
+parking lot. MEETINGS BEGIN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to Alumni Science Hall with street names and landmarks]
+
+INDOOR STAR PARTIES:
+
+Los Gatos Red Cross Building, 18011 Los
+Gatos-Saratoga Rd., Los Gatos. From Hwy 17
+south take the Hwy 9 (Saratoga) exit and
+continue up Los Gatos Saratoga road for about
+1.5 miles. Turn right at Rose Ave., and turn
+right immediately into the parking lot of the
+Red Cross Building. OPEN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to Los Gatos Red Cross Building]
+
+GRANT RANCH COUNTY PARK:
+
+This site is a new one for the SJAA so come
+and try it out. Located on Mt. Hamilton
+Road, halfway between San Jose and Lick
+Observatory. To get to Mt. Hamilton Road,
+take Hwy 101 to the Capitol Expressway/Quimby
+Rd. exit, east. Go up Alum Rock Road to Mt
+Hamilton Road and follow it. Grant ranch is
+just past the Quimby road intersection. After
+sunset the park front gate will be locked with
+the SJAA's combination lock. Use the sequence
+8565 to open, but be sure to lock the gate
+behind you when you enter. When there are two
+gates, the lock may be on the exit gate, if so
+enter the park from this gate.
+
+[THIS IS FIGURE: Simple map showing directions to Grant Ranch Park]
+
+SJAA
+
+HENRY COE STATE PARK:
+
+Take hwy 101 south towards Gilroy and take the
+East Dunne exit. Continue east towards the
+hills (past Anderson Reservoir), for about 12
+miles to the park. Past the park entrance you
+will see old ranch buildings on the right and
+a horse trough. The gate is locked but the
+club combination is 555. Always after dark,
+please lock the gate behind you when driving in.
+Please park outside the gate and hike in first
+to find an observing site before driving in.
+Parking lights only after dark, please.
+
+[THIS IS FIGURE: Simple map showing route to Henry Coe State Park]
+
+FREMONT PEAK STATE PARK:
+
+Take Hwy 101 south towards Salinas. Take Hwy
+156 aka (San Juan Bautista) for about two
+miles to the first road on the right which is
+about 25 miles to where road curves slightly
+to the left and splits. Stay left for about
+50 yards and then bear right when road splits
+again. Follow road for about 11 miles up into
+the park to SJAA site. Do not drive into camp
+overflow area. Site is visible as you drive
+into main area of camp. Parking lights only
+after dark, please.
+
+[THIS IS FIGURE: Simple map showing route to Fremont Peak State Park]
+
+EPHEMERIS is published monthly by the San Jose
+Astronomical Association, 3905 Calico Ave.,
+San Jose, Cas. 95124
+
+OFFICERS:
+
+PRESIDENT    Dave Ambrose 816 Everett St., El
+            Cerrito, CA. 94530 (415) 524-
+            0869
+Vice-Pres    Denni Medlock    15022 Broadway
+            Terrace, Oakland, CA. 95124
+            (415) 654-6796
+Sec.        James Van Nuland    3509 Calico
+            Ave., San Jose, CA. 95124 (408)
+            371-1307
+Treas.      Robert Fingerhut 340 Rio Verde
+            Place, #4, Milpitas, CA. 95035
+            (408) 263-4455
+
+BOARD OF DIRECTORS:
+
+Paul Mancuso (408) 946-0738    Steve Greenberg
+(415) 443-6638  Tom Ahl (408) 997-1383, Gene
+Cisneros (408) 923-6800, Joe Sunseri, Chris
+Pratt (408) 629-2994
+
+EPHEMERIS EDITOR:    John Gleason 5361 Port
+Stillwood Dr.,Newark, CA. 94560
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5h9kZtAhWJKjhy94W'}]
+# THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+Deep-sky observing, Astrophotography, Telescope making, Filipinos in Computer astronomy. Whatever your astronomical interests, you'll find people in the San Jose Astronomical Association who will enjoy sharing their knowledge with you.
+
+## ACTIVITIES
+
+The SJAA sponsors an activity every Saturday night (except around certain holidays):
+
+**General Meetings**, featuring programs on various astronomical topics, are held once a month at the Almaden Science building at the University of Santa Clara.
+
+**"Star" Parties**-group observing sessions-are held at several different locations, some close to the San Jose area, and some in the adjacent mountains.
+
+**Indoor "Star Parties"** provide an informal opportunity to show slides, work on equipment, exchange information, They are held in the Los Gatos Los Gatos building.
+
+## MEMBERSHIP BENEFITS
+
+You need not be a member of the San Jose Astronomical Association to participate in our activities, but membership does grant certain advantages:
+
+Twelve months of Sky and Telescope magazine at reduced rates on products from Sky Publishing Corporation.
+
+**The SJAA EPHEMERIS, our monthly newsletter**, containing a calendar of events and activities and other interesting articles. Use of club telescopes, (Both reflectors and refractors are available.) Access to the SJAA's library of books, magazines, and pamphlets.
+
+The San Jose Astronomical Association, founded in 1954, is a non-profit group devoted to expanding the general public's interest in astronomy, conducting research within the capabilities of amateurs, and promoting the science of astronomy.
+
+MEMBERSHIP ONLY: $8.00     MEMBERSHIP/S&T: $21.00     JUNIOR (UNDER 12): $15.00
+
+# SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+| Name _________________________________ | Questionnaire (optional) |
+| Address _________________________________ | What are your astronomical interests (e.g. astro-photograpny, deep-sky observation, telescope making, etc.)? _________________________________ |
+| | _________________________________ |
+| | _________________________________ |
+| Telephone (____) _________________________________ | _________________________________ |
+| | |
+| Please bring this form to any SJAA meeting, or send to: | |
+| Robert Fingerhut, Treas. | Do you own a telescope? ________ If so, what kind? |
+| San Jose Astronomical Association | _________________________________ |
+| 340 Rio Verde Pl. #4, Milpitas, CA 95035 | |
+| | |
+| [Phone: (408) 263-4455] | Is there any specific area of astronomy that you feel |
+| | qualified to help others with? _________________ |
+| | _________________________________ |
+| Membership: Adult ___ Junior (under 18) ___ | _________________________________ |
+| Bulletin Subscription only: ___ | |
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5hg1ANKrZL1mbKteF'}]
+Photographic surveys such as the Palomar Observatory Sky Survey (POSS) compiled from 1950-1956 under sponsorship of the National Geographic Society using the 48" Palomar Schmidt camera provided the reliable check needed on the RNGC object identities. The Revised New General Catalogue (RNGC; by Sulentic and Tifft 1973 used the POSS prints to photographically identify the NGC objects, provide accurate coordinates (epoch 1975 0) and give modern descriptions based on their photographic appearance. In cases where an object was too faint for detection within a 5" radius of the originally published NGC coordinates, the object was labeled "nonexistent" and placed in their Class 7. Unfortunately, the RNGC and other modern catalogues have sometimes misled in their identifications by erroneous NGC errors carried forward. In certain cases it is necessary to refer to the original sources to attempt to determine the correct identities.
+
+I recently ran across a disagreement in the modern catalogues on the identities of the members of a small group of galaxies in the constellation of Cetus. The group, NGC 6962, with a photographic magnitude of 13.5, observed this field on the morning of July 28th, 1984 in the California Sierras with my 13 inch f/4.5 reflector at 166x. Using my Nagler eyepiece, the 30' field (see Figure 1) showed six galaxies. I noted the following descriptions of their visual appearance.
+
+"A" -- the fourth brightest of six galaxies is fairly faint, very small and appears nearly edge-on. The elongation is NE-SW and an arc of 5 stars of similar brightness is located SW.
+
+"B" -- the most difficult in the field. It is extremely faint and requires averted vision to view. No details are visible other than the very small size of the galaxy (about 20") and its roundness -- just a faint nebulous knot found 10' north of "C".
+
+"C" -- the third brightest of six galaxies is an elongated spiral with an east-west orientation A magnitude 10.5 star less than 1' off the east end interferes with viewing, though I detect a slight brightening in the central region.
+
+"D" -- the brightest and largest in the group. This galaxy is fairly bright, slightly extended and has a noticeably brighter core -- a wide pair of stars collinear with galaxy 3 minutes of arc west. "D" is flanked by the fainter galaxies "E" and "F" on either end.
+
+"E" -- just 2' SE of "D" is the second brightest galaxy in the field. It appears moderately bright, small, slightly elongated NW-SSE and has a slightly brighter nuclear region. A mag. 13.5 star is located less than 1' SE.
+
+"F" -- similar to object "B", though possibly slightly easier to view. It is located about 3' NW of "D". With averted vision it appears as a round, hazy spot only 15"-20" in size. The close pair with "E" I cannot detect structural details due to its faintness.
+
+To identify the members of the group I referred to the RNGC. Upstairs General references of Galaxies (UGC), Catalogue of Galaxies and Clusters of Galaxies (CGCG) and the Astrographic POSS. Print (D-905). The following 4 identities were verified in all catalogues: "A"= NGC 6959; "D"= NGC 6962, "E"= NGC 6964 and "F"= NGC 6967. However, the identities of nearby NGC 6959, 6965 and 6967 were disputed in the catalogues.
+
+The coordinates given in the RNGC identified "C" as NGC 6967, listed as NGC 6965 and "B" as NGC 6959. In the last galaxy was on not see but which is located 1' NW of "A"! On the other hand, the UGC listed "C" as NGC 6965 and as NGC 6959 and gave no entry for NGC 6967. Finally, the CGCG agreed with the UGC that "C" was NGC 6959 but gave coordinates which indicated that NGC 6967 was NGC 6967! RNGC, CGCG and UGC. The POSS does not have a listing for NGC 6965. Table 1 summarizes these identifications.
+
+When the POSS print itself did not provide a solution to the dispute, I wrote to Harley Thomson confirming my observations of the field on 8/25/84 (Deep Sky 8, p. 9). He felt that the original entry for NGC 6965 was erroneous. He was confident that only the CGCG described the other identities in the field correctly.
+
+To pin down the cause of the erroneous NGC entry I corresponded with Dr. Harold Corwin, co-author of the Second Reference Catalogue of Bright Galaxies who provided a copy of the Earl of Rosse's observations and sketch of the field made in 1857 (See Figure 2).
+
+[Figure 2 shows a simple sketch with labeled points A, B, C, D, E, F and directional markers W and N, with curved lines representing the field of view]
+
+In my sketch of the field, I followed Lord Rosse's lettering, so a=A, b=B, etc. NGC 6959, "F" and "E" correspond nearly exactly to positions "b", "c" and "d" as entered Lord Rosse's object "e" as NGC 6965 but with the incorrect coordinates. This probably occurred since Lord Rosse gave relative positions for the members of his group rather than absolute coordinates. The correct coordinates for object "b" were given to Dreyer who recorded "b" at the Paris Observatory and were entered into Dreyer's catalogue as NGC 6963. So NGC 6965 is simply an erroneous duplicate entry for NGC 6963 and should be deleted from the RNGC entirely and reassigned to Class 7 in the RNGC.
+
+Apparently, in an attempt to identify a galaxy on the POSS print for NGC 6959, Sulentic and Tifft picked "A" (in actuality NGC 6959) and then reassigned NGC 6959 to its companion galaxy "G". In a similar vein, the UGC misidentified "C" (in actuality NGC 6987) and then assigned the NGC 6967 identification provided by Dr. Corwin, and photographic magnitudes from the CGCG are given in Table 2 for the six main galaxies.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5iDjuNYAyCwCFJCa8'}]
+In a recent letter, Malcolm Thomson
+pointed out the errors of cataloguing for
+northern hemisphere objects that are visible
+today, considering the vastly larger amount of
+observations carried out as opposed to the
+southern hemisphere objects. Then clearly
+those objects located in the southern skies
+must present an even greater probability of
+possible errors regarding the published data.
+
+FROM THE EDITORS DESK
+
+BY: JOHN GLEASON
+
+Nominations for board members were
+held at the January General Meeting. Members
+of the nominating committee are Dave Ambrose,
+(415) 524-0889, Steve Greenberg, (415) 443-
+6838, and Gene Cisneros, (408) 923-6800.
+Please contact these individuals if you are
+interested in being nominated for a position
+on the SJAA Board of Directors.
+
+There seems to be a little bit of mis-
+understanding on the part of some of the
+membership concerning last months article I
+wrote on the Fremont Peak Observatory
+Association. The F.P.O.A. does not intend in
+any way to compete with the SJAA. In fact
+the F.P.O.A.'s Board of Directors is composed
+of amateurs from two bay area organizations
+the SJAA and EAS and they intend to stay
+members of the SJAA.
+
+The Fremont Peak observatory project is
+designed to benefit all Bay Area amateur
+astronomers and to provide to the general
+public an accesible astronomical telescope.
+Through a regularly scheduled observing
+program. The F.P.O.A. is a separate
+organization and will not interfere with the
+SJAA's plans to construct an observing site at
+Grant Ranch. Several months articles by Allan
+Rauchuss. Most importantly the Fremont Peak
+project involve and benefit the members of the
+project are long standing members of the SJAA.
+And we will to continue to be in the future.
+
+The SJAA Board of Directors is currently
+negatiating with potential and existing owners
+of the Grant Ranch project and then it will be
+brought before the general membership for a
+vote. If you are concerned about the
+direction the SJAA is following towards the
+Grant Ranch site proposal, the SJAA board
+encourages your feedback. Board members
+telephone numbers are listed in the map
+section of this bulletin.
+
+A special thanks from me to last months
+Ephemeris contributors: Bill Dellinger,
+Steve Gottlieb, Jay Freeman, Don Machholz,
+Dave Ambrose, Bob Fingerhut and Jim Van
+Nuland. I received a lot of good comments on
+the articles regarding M42 and M31 from them.
+however, several people have indicated to me
+that they would like to have star party
+reports. So if you attend one of our monthly
+star parties please send a few lines about it
+to me, I'll see it gets into the bulletin.
+
+Jim Van Nuland reports that Henry Coe park
+has re-opened. It has been closed since last
+springs earthquake. So we have scheduled a
+February 18th field expedition there. "Bring
+your portable nuclear heating unit!"
+
+Paul Mancuso reports that the November 24th
+star party at Fremont Peak was not well
+attended despite the clear skies. Also it was
+only one third of a moon which recall that's why we
+call it "Freeky Peak". Glad to see that we
+call it "Freeky Peak"!
+
+November 84, found several members of the
+SJAA in the South Pacific to observe a total
+solar eclipse. This is another in a series of
+trips with an eclipse as one of the objectives
+a trip anyway. Bob Fingerhut and Ron Walton
+will discuss their presentation at the
+January 26th general meeting. Plan to be
+there.
+
+ASTRO ADS
+
+80mm REFRACTOR of 1200mm focal length.
+Equitorial mounting, diagonal prism, Sun glass
+(Moon Glass), finder, Sun Projection Screen.
+Erecting Prism. Asking $350. Contact:
+Margaret Gaull, 175 Chateau LaSalle Dr., San
+Jose, CA. 95111.
+
+WANTED: Program Chairperson. This individual
+would seek out and find interesting speakers
+for our monthly general meetings. If you can
+dial a telephone number you qualify.
+Seriously, the SJAA is looking for an
+individual who could spend a few minutes a
+month lining up potential speakers for our
+general meetings. Please contact me or
+anyone in the membership who would like to
+give a talk, at one of our (your!) general
+meetings. Otherwise your editor that's me,
+is going to have to give another talk on cold
+fusion, astrology or ufology and I have
+several dozen slots by M42, that I'm
+dieing to show! If interested, please contact
+any of the SJAA officers or board members.
+
+SJAA EPHEMERIS
+3509 CALICO AVE
+SAN JOSE,CA 95124
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO. 5381
+SAN JOSE, CA. 95125
+
+TIME VALUE-DATED
+NEWS MATERIAL

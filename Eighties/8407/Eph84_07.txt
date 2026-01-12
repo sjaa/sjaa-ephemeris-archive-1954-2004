@@ -1,11 +1,464 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA4zmdFjYUMmkUuxApF'}]
+SAN JOSE
+ASTRONOMICAL ASSOCIATION
+EPHEMERIS
+
+JULY 1984
+
+FROM THE
+EDITORS DESK
+
+BY, JOHN GLEASON
+
+Looking for ways to reduce the work for
+the editor, I have decided to use the format
+you have in your hand right now for the
+Ephemeris. I hope you will enjoy reading it
+as much as I enjoyed putting it together. To
+maintain the quality of the Ephemeris you
+have come to expect, the following guidelines
+will apply. First, All articles must be
+submitted to the editor by the 15th of each
+month. Second, All time value material will
+be given priority over other material appearing
+in the Ephemeris. All other material will be
+printed on a first come, first served basis,
+and is going to be limited to space. If I
+cannot fit your article in a particular month,
+it will be held for the folowing months
+issue. Third, Type written material would be
+appreciated, but I will accept clearly hand
+written articles.
+
+Your "expanded Ephemeris" will come in the
+future, but you know I need to get acquainted
+with the printer and postal service. I
+suspect that some of the membership is going
+through cultural shock at the size of the July
+issue, but you may be surprised to learn that
+this size is running substantially more printed
+material as past issues. Your new editor
+also considers producing the Ephemeris every
+other month to reduce costs, and the end of
+the month publishing crunch. This would also
+put more money into th e observatory fund.
+Your feedback will help guide me in the right
+direction.
+
+Special thanks to this months
+contributors. Steve Gottlieb, Bob Fingerhut,
+Don Machola, and Jim Van Nuland. Thank you.
+Also an excellent article on "Photographic
+Techniques for Astrophotography," Jack Steik
+was well received by a large gathering of the
+membership at the University of Santa Clara.
+Hyperextended Fuji 400 processed as a negative
+and then print as a B&W reversal most
+certainly produces a viable alternative to the
+cold camera when it comes to Deep Sky
+Astrophotography. Certainly this is true for
+beginning astrophotographers who don't have
+hundreds to spend on an astro camera system.
+But I would almost bet that chilling Fuji and
+processing it as a negative would produce some
+pretty exciting results. Your editor needs to
+do some experimenting.
+
+JUNE ELECTIONS
+
+Welcome Joe Sunseri to the SJAA Board of
+Directors. Re-elected were Gene Cisneros,
+Bob Riedl and Dan McKenna. Dan Ambrose
+has also been re-elected as Doug. Club
+President, and Bob Fingerhut was voted in
+in continue as the clubs Treas.
+
+EVENTS CALENDAR
+
+JULY 7
+
+Marriot's Great America Outing. More
+volunteers are needed to man telescopes.
+Please contact Frank Dibble.
+
+JULY 12
+
+Dartmouth Jr. High star party.
+(see article)
+
+JULY 14
+
+SJAA Annual Picnic at Portal Park. Once again
+the annual picnic is at Portal Park in
+Cupertino. Burgers and Dogs will be provided.
+Bring your own drinks, condements, and side
+dishes.
+
+JULY 19
+
+Dartmouth Jr. High star party, part II.
+(see article)
+
+JULY 21
+
+Red Cross indoor/outdoor star party and board
+meeting. All members are welcome to attend.
+Please come and give your inputs about the
+Observatory Fund.
+
+JULY 28
+
+Fremont Peak star party.
+
+JULY 28
+
+Yosemite National Park star party at Glacier
+Point. (see article) Come and enjoy deep sky
+observing from the worlds most beautiful
+observing site.
+
+AUGUST 4
+
+General Meeting. This will be a special star
+party at Marriott's Great America. More
+information in August Ephemeris.
+
+AUGUST 11
+
+Red Cross indoor/outdoor star party
+
+AUGUST 25
+
+Fremont Peak star party
+
+MEMBERSHIP RENEWAL
+
+Membership renewal is NOW! Please contact Bob
+Fingerhut (408) 268-4455 for renewal
+information. Dues are from July 1st to June
+30th.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA524WhQ7WN9SBXt7dp'}]
+# SIAA
+
+## DARTMOUTH ASTRONOMY
+
+Tom Ahl and Ron Carmichael have made arrangements with Dartmouth Jr. High to have members of the SJAA demonstrate telescopes and provide an evenings astronomy to 30-40 Jr High students. Dates are set for July 12th at 6:30 pm and July 18th at 7:30pm. This is part of the SJAA's committment to providing an interpretive program on astronomy at various sites interested in attending and bringing a telescope should contact Tom Ahl at 997-1383, or Ron Carmichael at 268-3199.
+
+## YOSEMITE STAR PARTY
+
+1983 was the first year in which members of the M.A.A. associated amateur astronomy organizations were invited to participate in observing sessions (or...the public at Glacier Point..this year the SJAA has been invited to participate again on the weekend of July 28th. Last year was lots of fun, and the folks at the park say they feel that it was most successful. This year the park service has a set of guidelines that they would like us to follow. If you are interested in attending the SJAA star party at Yosemite in July, or would like to contact John Gleason, (415) 790-8111 with regard to reservations. Overnight camping at the Glacier Point Ranger Station will be limited to a maximum of 16 persons and six cars. Any excess will be required to stay on or around available basic or primitive campground areas. Briefing will be held soon. Those attending will receive a copy of the detailed guidelines. Camping and entrance fees are waived for those attending with a telescope.
+
+## OBSERVATORY FUND
+
+The clubs observatory fund is now at $1500. The Board of Directors is currently defining what to buy, where to site it, etc., and all Board and Observatory members are encouraged to give ideas and suggestions to board members.
+
+## DEEP SKY NOTES
+
+BY STEVE GOTTLIEB
+
+(JULY)
+
+The constellation of Ophiuchus contains the single largest collection of globular clusters - ancient stellar systems which form a halo around the galactic nucleus. Within the boundaries of Ophiuchus, Burnham's Celestial Handbook lists 20 NGC globulars. Not all of these, however, are easily observable. Though a 4"-5" scope will reveal almost all of these, an 8"-16" is really necessary to fully appreciate the splendor of these dense spherical swarms.
+
+The principal challenge for visual observers is the degree of resolvability into stars in each cluster. This depends on primarily 2 factors: the degree of concentration of the stellar members, and the distance of the globular. Tightly packed clusters will tend to resist resolution, but will have a high surface brightness even in moderate apertures; even to distances comparable to the Magellanic Clouds... Medium or C.C. loosely concentrated clusters may allow a high degree of resolution in an 8" if they are relatively nearby. Distant globulars in a small scope (especially unresolvable in amateur scopes [only 20%] are those both sparsely populated and very distant or else highly obscured by dust in the galactic plane. Here are some favorites in Ophichus.
+
+M107 [NGC 6171] Even the dimmest of the Messier globulars is fairly bright in my C8, but outer halo appears mottled and not many stars clearly seen at the NW edge at ~220X. The small, bright unresolved core is very prominent in my Odyssey II, which resolved the outer regions into a number of faint stars 2 years ago at Digger Pines.
+
+M14 [NGC 6402] The C8 will resolve this symmetrical halo into an even texture. Faint stars cover the bright central region and orders of magnitude stream from the nucleus in lanes. The core is intensely bright in the 13" even if not 'fully' resolved with resolved stars forming the bright nucleus. Though the admissio only partial resolution in the C8, the irregular outer halo resolves immediately with a few bright stars imbedded. The core yields to the 13" at high powers and faint stars are scattered over the center.
+
+M62 [NGC 6266] The C8 reveals a non-symmetrical globular with the SE extending the direction (due to dust) and fanning out to the west where a few faint stars can be made out. The outer shell just resolves in steady seeing into numerous faint stars at 288X in my Odyssey II.
+
+M19 [NGC 6273] Though in a dark sky, the C8 only resolves a few faint stars at the northern edge. This globular is clearly non-spherical to the C8 or 13", which resolves many faint stars at high power, particularly south of the core.
+
+M9 [NGC 6333] Again the C8 shows a very grainy disk with a few faint stars resolved around the periphery at 100X, especially on the east side. The unresolved core appeared in the 13" and many faint stars appeared bunched at the edges of the core at 288X, and the outer halo breaks up into numerous stars.
+
+M14 [NGC 6402] This cluster lies in a heavily obscured region which dims its members and reddens them considerably. Viewed in the C8, Last July at Fremont Peak with the 13" recorded M14 as fairly large, moderate to high concentration... smooth halo with a dozen very faint stars sprinkled over the halo at 288X.
+
+IC 4665 This large object is easily located just 1½° east of Beta Ophiuchi in the Tirion atlas. Visually it appears large diffuse with a low surface brightness due to its loose concentration, though some brighter field stars appear at its edges. I could make out some scattered dozen faint stars over the slightly hazy haze in the 13" last July at Fremont Peak.
+
+IC 4756? This object is located just 5 degrees South of NGC 6366. On the Skalnate Pleso atlas it is shown as an open cluster but also mentions it is a questionable globular. I have failed to locate this in my Odyssey II in the Sierras. Has anyone had success with this mystery object?
+
+Steve Gottlieb
+(415) 524-4675
+
+## COMET COMMENTS
+
+BY DON MACHHOLZ
+
+We now know that Comet Bradfield (1984a1), discovered last Jan. 2 and now magnitude 16 is periodic and will be back in about 165 years. Of his twelve discoveries, thus is the first to have a period of less than 200 years.
+
+The variable Comet Clark (1984b1) does not exist. This long persistent and hard-to-find variable has been found that Halley's Comet varies in brightness: the comet changes by roughly 1 magnitude in a period ranging from about 15 days perhaps to more than a day.
+
+Faint, professional astronomers discovered recently that professional astronomers discovered should be visible in our scopes sometime next year. I'll discuss it more below.
+
+Finally, with the approaching of the L.A. Olympic Games, in our Past Discovery section we'll take a look at the countries represented by their comet discoveries.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA52ssz5ydAsef9b71v'}]
+SIAA
+
+Comet Shoemaker (1984f). This comet was
+discovered on May 27 by Carolyn and Eugene
+Shoemaker with the 18" Schmidt telescope at
+Mt. Palomar, although the comet was made
+at least a month earlier. The comet was seen as
+a faint 20th magnitude object at about 2.2 AU from the Sun and the latest
+perihelial data shows that it should have been
+[? AU], in Sept 1985 some 18 months away.
+If the predictions hold out and this
+turns out to be the 1984 comet Halley P-Limas
+Next year at this time it will be somewhere
+and it should remain brighter than mag.2-3-5
+for nearly a year, although it will be in the
+southern sky throughout the year. This
+extended period of visibility is due to its
+high intrinsic brightness - absolute mag.about
+10. Although visible from the comet's
+Perihelion location, I did not see this comet
+on June 2 using Rich Page's 14" reflector. The
+comet should have been slightly fainter than
+mag. 14 near the "fuzzyobject" limit of the
+scope, but if it behaves "normally", the comet
+will be visible to us most of next year.
+
+Halley's Comet on July 15: RA: 06hr 26.6m
+DEC: -14deg02.6". Dist from Sun: 6.72 AU,
+Dis. from Earth: 7.69 AU> Mag.: 20.2
+
+Ephemeris:
+Periodic Comet Clark (1983w)
+
+DATE    R. A. (1950)  DEC.  ELONG. MAG.
+
+06-29 20h 52.7m  -38deg 52'  152deg 10.0
+07-09 20h 47.6m  -38deg 43'  154deg 11.0
+07-19 20h 45.7m  -40deg 05'  153deg 11.2
+07-29 20h 41.9m  -40deg 48'  158deg 11.3
+08-08 20h 38.0m  -40deg 43'  155deg 11.6
+08-18 20h 35.9m  -40deg 01'  149deg 11.9
+
+NOTES:
+This comet is moving both S and into the
+evening sky.  It will be visible to us for a
+few more weeks.  The mags. are estimates, it
+may be slightly fainter.  Be sure to get out
+to see this one!
+
+PAST DISCOVERIES
+
+Since there is only a limited number of
+comets discoverable, some friendly competition
+(along with the co-operational) exists among
+amateurs internationally. This year in 1984
+the comet hunting activity is stronger in some
+parts of the world than in others.  So it's
+only natural that in our study of the 28
+comets found by amateurs between 1975 and
+1985, we look at the discoveries by country.
+
+If we treat Comet Denning-Fujikawa
+(1987a) as a "new" discovery by Fujikawa, for
+he was searching for new comets when he came
+across this one, then 21 comets were labeled by
+only one name.  Two comets had two names
+(first and second discoverers). If by using
+names that is, three discoveries made and
+reported for each object within a couple of
+days of each other.  With first place awarded
+to the first discoverer, second place to the
+second discoverer, and third for the third,
+this is what we get:
+
+COUNTRY    FIRST  SECOND   THIRD   TOTAL
+
+JAPAN          7      4        3       14
+AUSTRALIA     10      0        0       10
+U.S.A.         5      1        1        7
+CANADA         2      0        0        2
+U.S.S.R.       2      1        0        3
+ENGLAND        1      0        1        2
+PHILIPPINES    1      0        0        1
+NEW ZEALAND    1      0        0        1
+SOUTH AFRICA   0      1        0        1
+IRAQ           1      0        0        1
+
+TOTALS        28      7        5       40
+
+EPHEMERIS is published monthly by the San Jose Astronomical Association,
+3905 Calico Ave., San Jose, Ca   95124
+
+While we note that this represents only
+the discoverable reports and "naming" the
+comets, we can see that Japan has been
+involved with a great deal of activity in
+the past eleven years (actually involved
+with 9 of the 10). The rest of the world
+seems to show comparatively little interest in
+seeking comets - although the observation of
+known comets seems to be very important in
+some of these countries.
+
+Compare this to the fact that between the
+mid1700's and the mid-1800's the comets were
+found mostly by those in France, Germany, and
+England.  In the late 1800's through the early
+1900's, the Americans were finding most of the
+comets. During the 1930's a change began to
+have taken place.  First, the distinction
+between amateur and professional became more
+certain.  Secondly a broader selection of
+countries began making the discoveries as the
+profession, because of cost, became less
+borders to the observations at the best
+locations, and (home-made) telescopes became
+more accessible to the amateur.
+
+Don Machholz
+(408) 448-7077
+
+SPACE UPDATE
+
+BY  BOB FINGERHUT
+
+DISCOVERY PASSES FLIGHT READINESS FIRING
+    Discovery's engines were fired for 18
+seconds on June 2.  After the firing, one of
+the engines was found to have a delaminated
+heat shield in the fuel preburner.  The engine
+was replaced with one from Atlantis.  The
+firing launch could have been made on the pad.  The
+first launch of Discovery is now scheduled for
+between June 25 and June 28.  The landing will
+be at Edwards Air Force Base after 112 Earth
+orbits.
+
+SALYUT-7 IMPROVEMENT CONTINUE
+    The Salyut-7 cosmonauts have conducted
+their fifth space walk within the last month.
+They    installed    additional    solar    array
+structures on one of the Salyut-7's three main
+arrays.
+
+NASA NAMES 17 ASTRONAUT CANDIDATES
+    17 new astronaut candidates have been
+named for the space shuttle and space station
+program.  7 are shuttle pilots and 10 mission
+specialist candidates.  They will go through a
+one-year training program before becoming
+eligible for shuttle flight assignment.
+
+FRENCH FIX SIZE OF HERMES MINI-SHUTTLE
+    The size of France's proposed manned
+minishuttle has been fixed.  It is designed to
+carry 4 astronauts and would have a cargo bay
+about 8 feet long and 10 feet wide for use with
+a space station. The design has a length of
+29.8 meters and a wingspan of 10 meters if
+approved for production, Hermes could fly in
+1996 on a new version of the Ariane booster.
+
+VENUS ORBITER TO STUDY ENCKE AND HALLEY'S COMET
+    On April the Pioneer-Venus orbiter will be
+maneuvered so that it could recalibrate its
+instruments and observe comet Encke.  It
+showed that Encke is loosing water through
+evaporation at a rate three times higher than
+expected.  It was observed during an 8 hour
+period on 12 April.  During Halley's
+encounter in December 1985, Earth will
+be on the far side of the Sun from the
+Comet. The spacecraft will be in a favorable position
+to view Halley at that time but Earth will
+not.  The Venus orbiter will therefore be
+reoriented again to observe Halley between
+December 1985 and February 1986.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA53Rconmq3P6W5HbF9'}]
+SJAA
+
+Commercial ads are priced according to size and may be placed by contacting:
+Gene Cisneros at (408) 923-6800.
+
+ATM coatings
+
+15022 BROADWAY TERRACE, OAKLAND, CA 94611
+
+Specializing in Aluminum Coatings with silicon monoxide
+over-coating for telescope mirrors
+
+                                    4¼"        $8.00
+                                    6"         $12.00
+Secondaries, when sent with primary mirror, free.     8"         $16.00
+To remove old coatings $3.00. Minimum charge $8.00.
+Include postage and insurance for return mail.        10"        $20.00
+Mirror will be shipped in container received.         12½"       $24.00
+                                    14¼"       $28.00
+                                    16"        $50.00
+
+[THIS IS IMAGE: A nebula or astronomical object photograph]
+
+LUMICON®
+"Innovation in Astronomy"
+Visit or call LUMICON
+for the world's widest selection
+of IN STOCK Telescopes and
+Accessories in the West!
+
+WORLD CENTER FOR
+★ ASTROPHOTOGRAPHY ★
+
+(415) 447-9570
+2111 Research Dr #5E
+Livermore CA 94550
+
+ASTROMART
+
+CALICO OBSERVATORY
+
+Great Red Spot on Meridian -- PDT
+da mo  d    h  m         da mo  d    h  m
+Su  7  1    1 58 am      F   7 20    2 31 am
+Su  7  1    9 49 pm      F   7 20   10 22 pm
+Tu  7  3    3 35 am      M   7 23    0  1 am
+Tu  7  3   11 24 pm      W   7 25    1 45 am
+F   7  6    1  2 am      W   7 25    9 34 pm
+Su  7  8    2 43 am      F   7 27   11 12 pm
+Su  7  8   10 30 pm      M   7 30    0 54 am
+M   7 11    0 11 am      W   8  1   10 20 pm
+F   7 13    1 51 am      F   8  3   11 57 pm
+F   7 13    9 38 pm      Su  8  6    1 25 pm
+Su  7 15   11 18 pm      W   8  8   11  3 pm
+W   7 18    0 56 am      Sa  8 11    0 40 am
+
+Clear Skies,
+Jim Van Nuland
+
+FOR SALE:  CELESTRON 8 With observatory pier,
+enhanced castings/silver, off-axis guider with
+illuminated reticle, tele-extender, counter
+weights, many eyepieces and other accessories
+and in excellent condition. $1000  CONTACT:
+Cuirt Mitchell [w] 415 464 evenings.
+
+FOR SALE:  8"  f/15  REFRACTOR  hand  picked
+optics by Mayo [MINT], Vernonscope, CONTACT:
+Daffes, dew cap, 1 7/18 Unitron quidescope,
+8X50 finder, Shaffer mount w/7" circles and
+Byers drive, electronics by ???. 8.5 ft pier
+with 4 bolt base, 5 eyepieces, barlow,
+erector, filter, haze screen, misc. 3 rail
+REFRACTOR  Jon  Edmund  equitorial  mount,
+eyepieces, Unihex, clock drive,  CONTACT:
+Bill Unruh [day] [408] 970-1375 [ask to page
+him message re:  telescope] [eve] [415] 681-
+9602 8" Refractor presently located on
+property in Morgan Hill.
+
+SJAA EPHEMERIS
+3509 CALICO AVE
+SAN JOSE,CA 95124
+
+[THIS IS IMAGE: Two identical stamps or images showing what appears to be a space shuttle, labeled "BULK RATE" and "US 10¢"]
+
+TIME VALUE-DATED
+NEWS MATERIAL

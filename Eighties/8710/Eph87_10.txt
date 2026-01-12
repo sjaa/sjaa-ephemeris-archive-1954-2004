@@ -1,23 +1,415 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABgm6zZoyrrswWnjoW'}]
+# EPHEMERIS
+## OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+[Image of observatory dome]
+
+# OCTOBER 1987
+
+═══════════════════════════════════════════════════════════
+
+★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+★                    OCTOBER 3RD 8PM                        ★
+★                  ROBERT WAGONER                           ★
+★                   SUPERNOVA!                              ★
+★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+
+OCTOBER    3 GENERAL MEETING 8 PM. ROBERT WAGONER WILL DISCUSS THE
+             RECENT SUPERNOVA SN1987A IN THE LARGE MAGELLANIC CLOUD.
+
+OCTOBER   11 BOARD MEETING AT 7 PM, LOS GATOS RED CROSS BUILDING.
+             INTRODUCTORY ASTRONOMY CLASS WILL MEET AT THE WEST
+             VALLEY COLLEGE PLANETARIUM AT 8:30 PM.
+
+OCTOBER   17 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+             PEAK STATE PARK. DUSK TILL DAWN.
+
+OCTOBER   24 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+             PEAK STATE PARK. DUSK TILL DAWN.
+
+NOVEMBER   7 GENERAL MEETING 8 PM LOS GATOS RED CROSS BUILDING.
+             PROGRAM TO BE ANNOUNCED.
+
+NOVEMBER  14 BOARD MEETING AT 7 PM, LOS GATOS RED CROSS BUILDING.
+
+NOVEMBER  21 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+             PEAK STATE PARK. DUSK TILL DAWN.
+
+NOVEMBER  28 INDOOR STAR PARTY AT THE LOS GATOS RED CROSS BUILDING.
+             DOORS OPEN AT 8 PM.
+
+## FIELD OF VIEW
+### BY: JOHN GLEASON
+
+#### AANC CONFERENCE
+
+[Image of binoculars]
+
+Don't forget that the Astronomical Association of Northern California will be holding its annual conference this year on September 18-20 at the Lawrence Hall of Science, Berkeley. Professional and amateur talks on astronomy, equipment, and astrophotography will be featured. For more information contact Jon Stone, AANC President, 415-349-3017.
+
+#### SUPERNOVA!
+
+Robert Wagoner will be our guest speaker for our October 3rd General Meeting. Mr. Wagoner is currently a professor of physics at Stanford University, where he has been since 1973. His research interests include: light element production in the early universe, sources of gravitational radiation, neutron and supernova stars, and supernovae. For some years now Professor Wagoner has been interested in the possibility of using supernovae as "standard candles" for determining the Hubble constant. Professor Wagoner will lecture the SJAA on what we have learned about supernovae, and the universe, from the recent supernova in the Large Magellanic Cloud, supernova 1987a. Mark your calendars! You will not want to miss this important lecture.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABhNZQ4wtevXozYETj'}]
+ASTRO CLASS TO MEET AT PLANETARIUM
+
+The Introductory Astronomy Class conducted by Jack Ziders will be meeting at the West Valley College Planetarium on October 11th. Starting at 8:30 PM, Jack will continue his survey of the night sky. Jack has informed me that the class should go directly to the planetarium instead of meeting at the Los Gatos Red Cross building.
+
+ASTRO ADS
+
+FOR SALE: 5-INCH F/14 REFRACTOR on Super Polaris mounting. With Dual Axis drive corrector. $1200 complete. Contact: Paul Mancuso (408) 946-0738.
+
+REWARD: $200 for information leading to the recovery of ultra-thin (1" thick) 18.75 F/5.6 mirror stolen from my house in Mill Valley on June 23, 1987. Easily identifiable. Contact: Rick Decker, (415) 956-7070 or 383-6339.
+
+FOR SALE: MEADE 2" focuser with 1.25 adapter, unused, $50.00. Televue 32mm 1.25", $75.00, like new. Contact: Rick Decker, (415) 956-7070 or 383-6339.
+
+TELESCOPE WINDOWS - optical windows. Add an optical window to your present or future scope for less than the cost of a good eyepiece. Selling out former Sky Research Co. optical windows - hundreds supplied, highest quality - keeps out dirt, dust, insects, drafts, temperature effects. WHILE THEY LAST!
+
+6"     - $ 29.50                    14.25" - $69.50
+8"     -   39.50                    15"    -  89.50
+10"    -   49.50                    17.5"  - 124.50
+12.5"  -   54.50                    18"    - 131.50
+13.1"  -   59.50                    20"    - 143.50
+
+Some custom sizes available. Window diameter is 3/4" larger than mirror size listed - fits all tubes. Adds a professional finished look to your scope. Send check or money order to: Rollin Gebelein, 291 Martin Rd., Santa Cruz, CA. 95060. Price includes shipping by UPS (continental USA ONLY), handling, and insurance. Please allow 3-4 weeks for check to clear and delivery.
+
+5TH ANNUAL YOSEMITE STAR PARTY
+         By: TOM AHL
+
+Dark and early Friday morning, with Jupiter still not quite at south meridian, my van loaded with all the necessities for a weekend of camping and observing, I left San Jose for a long (250 miles), drive to Yosemite National Park for my 5th field expedition there. You'd think that by now I would have this preparation and packing down pat, but as usual something is always forgotten, this time it was only a stepstool for the "little people".
+
+After one stop to pick up the second half of my convoy, I was on my way. All totaled it took us about 5 hours to get up to Bridalvail Campgrounds. This year they moved us all over to the Horse Group camp site. Secluded from the road, with ample room for peace and quiet. Not sure whose, though. No barbecue pits and only one restroom, but they promised that next year that would be all taken care of.
+
+Both Friday and Saturday afternoon had a couple of scopes setup to show the two climbers going up the shearface of Half Dome and also climbers on top of Half Dome. They had started Friday morning and didn't reach the top until around Sunday noontime. The people were quite surprised that the climbers were climbing upside down. Don't know what they were talking about, though.
+
+Jim Baumgardt gave a slide presentation both Friday and Saturday night. Friday night we had about 150-200 spectators to look through about 12 scopes, ranging from Paul Mancuso's 18" Dobsonian down to Frank Vanslageer's 3 1/2" Questar. The only problem was that no one had thought to bring a cloud filter, so that everything we looked at resembled a Messier Object: a Faint Fuzzy. By 11:00 we were all quite ready to pack it in for the night.
+
+Saturday night turned out to be most excellent. This time we had about 24 telescopes (ranging from Earl Watts' 20" Dobsonian down to a 60mm Celestron refractor brought by Dave Manley) for approximately 3000 spectators. I've never run across a more courteous group of people as I did there at Glacier Point. It was always "Please" and "Thank-you", especially from the foreign tourists. Quite different from Marriotts.
+
+Five of us managed to stay awake until around 5:00 AM. Long enough to say
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABiBgFMAjNJeTbXQLE'}]
+hello to Orion, then we packed it in. The big excitement of the night was when a tree in the controlled burning area, half way between Bridalvail campgrounds and Glacier Point, fell across the road blocking vehicles from going back down. The road was cleared (except for heavy smoke) by around 1:00 AM. Even though there were several forest fires in Yosemite, the smoke didn't prove to be too much of a problem, especially for viewing.
+
+I'm already looking forward to next year. I'd like to thank each and everyone of you that made this field expedition a success.
+
+[SPACE SHUTTLE LOGO]
+
+SPACE PROGRAM UPDATE
+BY: BOB FINGERHUT
+
+SHUTTLE RECOVERY MAKING PROGRESS
+
+The first full scale test of the new booster joint was successfully run Aug. 30. Three more tests are scheduled before the next shuttle is launched. They are scheduled for Nov 87, Feb 88, and Apr 88. Two full diameter short-duration tests were also made in Aug. They showed the defect tolerance of the new design. Engines for the orbiter Discovery have begun acceptance test firings. These engines will be used on the first resumption flight and should complete testing by December. Work was begun on the replacement orbiter in Aug. Delivery is scheduled for April 1991.
+
+NASA STUDYING UPGRADED SHUTTLE COMPONENTS
+
+Contracts were given to 5 companies in Aug. to do design and definition of an advanced solid rocket motor to increase shuttle performance in the 1990's. A light weight filament-wound solid rocket motor case was tested to destruction by Hercules Aerospace in Aug. It withstood 1.68 times the peak load at launch. The requirement was 1.4 times. This type of motor case could increase payload to orbit by several thousand pounds. Improvements to the turbo machinery on the orbiter engines is also being studied.
+
+SPACE STATION FACES FUNDING PROBLEMS
+
+Senator Proxmire, chairman of the Senate Appropriations subcommittee that controls NASA's budget, has announced that he would "do his best" to kill the space station project. NASA fears that he may have enough votes. Some NASA officials sent a memo urging industry to lobby congress in support of the space station and other NASA programs facing budget cuts. They could face criminal charges. NASA is forbidden by law from lobbying with government funds. NASA Administrator James Fletcher has apologized over the incident.
+
+CHINESE SPACECRAFT CONDUCTS ZERO-G MATERIALS PROCESSING
+
+The China 20 spacecraft obtained data on smelting and recrystallization of alloys and semiconductors materials in space. Materials also tested included recently conceived superconductor materials.
+
+JAPANESE LAUNCH SECOND H-1 BOOSTER
+
+The launch on 27 Aug. placed the ETS-5 engineering test satellite into a geosynchronous transfer orbit. The H-1 uses a cryogenic second stage and a new solid-propellant third stage.
+
+JAPAN TO DEVELOP THREE ADVANCED SPACECRAFT
+
+The new missions that have been approved by the Japanese Space Agency include:
+1. Advanced Earth Observation Satellite (ADEOS) - A 5500 lb Earth and ocean observation satellite planned for launch in 1993. 2. Experimental Data Relay Tracking Satellite - The 4400 lb satellite will be similar to the U.S. TDRS and is planned for launch in 1994. 3. Advanced Geosynchronous Meteorological Satellite - A three-axis-stabilized satellite planned for launch in 1993.
+
+SOVIETS PLAN MISSION TO AN ASTEROID
+
+The Soviets are planning a mid 1990's mission that would drop probes on an asteroid. A U.S. comet rendezvous asteroid flyby (CRAF) mission has been proposed as a FY 1989 NASA new start. But, even if approved it is not designed to directly sample the surface.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABijfTUknz6CceSK8D'}]
+# COMET COMMENTS
+BY: DON MACHHOLZ
+
+Two new comets have recently been discovered by amateur astronomers. One will be visible in binoculars in our evening sky. A faint periodic comet has also been recovered.
+
+**Comet Bradfield (1987s):** William Bradfield of Australia discovered this, his thirteenth comet, on Aug. 11. The comet was at mag. 9.5 moving NE at 0.3 degrees/day. Bradfield is the first person to find more than a dozen comets this century; additionally all of his comets have been found visually, only by him, and south of the equator. This find comes three years and seven months after his previous find, his longest "drought" since he began searching for comets in 1971.
+
+Comet Bradfield will be closest the sun (81 million miles) on Nov. 11. At that time the comet should be at its brightest, magnitude five. Comet 1987s will remain in our evening sky through March 1988, when it will fade to magnitude 12.
+
+**Periodic Comet Jackson-Neujmin (1987t):** J. Gibson recovered this comet from Mt. Palomar on July 25 at mag. 18. The comet, with an orbital period of 8.4 years, in not expected to be visible in amateur-sized scopes.
+
+**Comet Rudenko (1987u):** Amateur astronomer Michael Rudenko of Amherst Massachusetts discovered this, his second comet, on Aug. 20. He was sweeping with a 6" refractor. Comet 1987u was mag. 9.6 and in the constellation Bootes. Dr. Brian Marsden of the SAO points out that this is the first time this century that the U.S. has had three active visual comet hunters (including Levey and me) who have each found two or more comets.
+
+Comet Rudenko will be at perihelion (58 million miles) on Oct. 9, but it will pass just north of the sun and will be difficult to view. In Aug. and Sept. it was in the evening northern sky. In October and during most of November it is low in our morning sky, at mag. 7-9, moving southward. By Thanksgiving it will be too far south for Northern Hemisphere viewers, fading to mag. 12 by the end of the year.
+
+## EPHEMERIDES
+
+| DATE | R.A. (1950) DEC | ELONG | MAG. | NOTES |
+|------|-----------------|-------|------|-------|
+|  |  | **Comet Bradfield (1987s)** | | |
+| 09-22 | 15h 26.4m -13° 43' | 55° | 7.6 | This new comet moves northeastward |
+| 09-27 | 15h 38.9m -12° 27' | 53° | 7.3 | across our evening sky, setting at |
+| 10-02 | 15h 52.1m -11° 06' | 51° | 7.1 | least 1.5 hours after astronomical |
+| 10-07 | 16h 06.0m -09° 39' | 50° | 6.8 | twilight from most locations. At |
+| 10-12 | 16h 20.7m -08° 04' | 49° | 6.6 | mid-month it will be 70 million miles |
+| 10-17 | 16h 36.2m -06° 22' | 48° | 6.3 | from the sun and 120 million miles |
+| 10-22 | 16h 52.5m -04° 31' | 48° | 6.1 | from the earth. It should appear |
+| 10-27 | 17h 09.8m -02° 30' | 48° | 5.9 | large, about 4-8 arcmin. in dia. |
+| 11-01 | 17h 28.1m -00° 20' | 48° | 5.7 | Try to get out to see this comet as |
+| 11-06 | 17h 47.5m +02° 00' | 50° | 5.6 | it condenses and brightens over the |
+| 11-11 | 18h 08.3m +04° 30' | 51° | 5.5 | the next few weeks. |
+
+### Comet Rudenko (1987u)
+
+| 09-22 | 12h 48.3m +23° 34' | 27° | 7.9 | Comet Rudenko enters the morning sky |
+| 09-27 | 12h 37.0m +21° 32' | 24° | 7.6 | in early Oct., rising at the time of |
+| 10-02 | 12h 25.5m +19° 11' | 22° | 7.4 | astronomical twilight. As the month |
+| 10-07 | 12h 14.0m +16° 22' | 23° | 7.2 | progresses viewing conditions get |
+| 10-12 | 12h 02.8m +13° 00' | 25° | 7.1 | better and the comet brightens too! |
+| 10-17 | 11h 52.0m +09° 56' | 29° | 7.1 | At mid-month it is traveling at 33 |
+| 10-22 | 11h 41.7m +04° 13' | 34° | 7.3 | miles/sec, and located at 56 million |
+| 10-27 | 11h 31.9m -01° 20' | 39° | 7.4 | miles from the sun and twice that |
+| 11-01 | 11h 22.2m -07° 44' | 44° | 7.6 | from the earth. These pos. are from |
+| 11-06 | 11h 12.0m -15° 03' | 50° | 7.8 | preliminary elements, but the comet |
+| 11-11 | 11h 00.4m -23° 16' | 56° | 8.1 | will not be more than a degree off. |
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABjhhtSVWTsj1yEKJe'}]
+# Periodic Comet Borrelly (1987p)
+
+| 09-22 | 03h 34.2m | -37° 14' | 117° | 10.6 | Comet Borrelly makes a strange little |
+|-------|-----------|----------|------|------|----------------------------------------|
+| 09-27 | 03h 37.4m | -37° 47' | 119° | 10.4 | loop in our southern morning sky as |
+| 10-02 | 03h 39.5m | -38° 14' | 120° | 10.2 | it steadily brightens. At the same |
+| 10-07 | 03h 40.4m | -38° 33' | 121° | 10.0 | time it should grow in size and con- |
+| 10-12 | 03h 39.9m | -38° 42' | 122° | 9.8 | dense (become bright in the center). |
+| 10-17 | 03h 38.1m | -38° 37' | 123° | 9.6 | This comet remains in the morning sky |
+| 10-22 | 03h 34.8m | -38° 14' | 125° | 9.4 | and rises near midnight at the begin- |
+| 10-27 | 03h 30.2m | -37° 30' | 126° | 9.2 | ning of the month, near 10 PM at the |
+| 11-01 | 03h 24.2m | -36° 19' | 128° | 9.0 | end of the month. This, plus the two |
+| 11-06 | 03h 17.2m | -34° 35' | 129° | 8.9 | comets listed above, gives us three |
+| 11-11 | 03h 09.3m | -32° 15' | 131° | 8.7 | comets visible in binoculars now. |
+
+## Comet Wilson (1986L)
+
+| 09-22 | 09h 44.7m | +01° 18' | 32° | 11.1 | Yes, Comet Wilson is back again! |
+|-------|-----------|----------|-----|------|-----------------------------------|
+| 09-27 | 09h 45.9m | +01° 24' | 36° | 11.2 | This time it has come around to the |
+| 10-02 | 09h 46.8m | +01° 29' | 41° | 11.3 | morning sky where it continues to |
+| 10-07 | 09h 47.3m | +01° 36' | 45° | 11.4 | dim. At mid-month it is a distant |
+| 10-12 | 09h 47.6m | +01° 43' | 50° | 11.4 | 256 million miles from the sun and |
+| 10-17 | 09h 47.4m | +01° 52' | 55° | 11.5 | 298 million miles from the earth. It |
+| 10-22 | 09h 46.9m | +02° 02' | 60° | 11.6 | will appear small, only about 1-2 |
+| 10-27 | 09h 45.9m | +02° 14' | 65° | 11.6 | arc-min. in size. It is about the |
+| 11-01 | 09h 44.5m | +02° 27' | 70° | 11.7 | same size and brightness as it was |
+| 11-06 | 09h 42.5m | +02° 44' | 76° | 11.7 | 14 months ago when it was discovered. |
+| 11-11 | 09h 39.9m | +03° 03' | 82° | 11.8 | |
+
+# SEEKING COMETS
+
+The 1986 "Catalogue of Cometary Orbits" by Dr. Brian Marsden lists 1187 apparitions (visits) of 748 comets. Some 135, or 18% of these 748 comets have periodic orbits-they return in under 200 years. The average periodic comet has an orbital period of 7.1 years, a perihelion distance of 1.5 AU and an inclination of 13 degrees. Many of these periodic comets have been discovered in recent years: they are photographic finds, mag. 14-18, and near the ecliptic. Orbits are often nearly circular and these comet have a faint intrinsic magnitude.
+
+# AN OVERVIEW OF OBSERVING SITES BY DON MACHHOLZ AND RICH PAGE
+
+You can't be a member of the SJAA very long without hearing of Fremont Peak State Park. Located in San Benito County, it has fast become a gathering place for amateur astronomers form all over Central California.
+
+Driving directions are always listed in the back page of the "Ephemeris". From the corner of Camden Ave. and Blossom Hill Rd. it is 67 miles (1 hr., 20 min.) and from Hwy. 101 and Bernal Ave. it is 57 miles (1 hr.) away. You slow down after getting to the "flashing light" on Hwy. 156; from here, your last view of civilization, Fremont Peak is 11 miles and 23 minutes away.
+
+Most astronomers set up their telescopes on a stretch running from Madrone Campsite through the Coulter Group Area. Here the paved/packed dirt roadway is roughly 80 yards long, running first north, then turning east. A small lot just west of this location provides a low western horizon. The remainder of this area has a fairly high northern horizon. The southern horizon is lower, at 10-20 degrees, while the eastern and western horizons depend greatly upon where you set up. Perhaps two to three dozen instruments can be placed here, with room for some cars.
+
+Past this stretch near Coulter, astronomers have a few other options for observing spots. 1) About 0.3 miles to the south, at the foot of the summit trail, there is a small area near the ranger's residence where astronomers are allowed to set up. However they are asked to keep quite at night. The southern horizon is high, but the western and eastern are low. 2) Another site is the Doe Flats Picnic and Group Camping Area, about one-half mile before you
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABkFhJKJg8mAS9vJkC'}]
+get to the park proper. This is sometimes reserved, so before using it get
+permission from the ranger. 3) Serious astrophotographers are allowed to set
+up behind Ranger Rick's house. This is on your left as you enter the park
+area. The southern and SE horizons are low from here. One disadvantage is
+foot traffic to and from the Fremont Peak Observatory Assoc. (FPOA) 30"
+telescope. 4) Along the entry road, at 0.8 and 1.0 miles before you get to the
+park, there are some wide portions on the road in which you may set up a
+telescope. This is a public road-be sure you pull completely off the road and
+stay off private property. These are not wind- nor car-headlight-protected.
+
+Astronomers using the park are asked to pay a $3.00 fee for night-time
+observing. If they use a campsite (few do) the fee is the usual $5.00. A
+self-pay station is located just south of the Madrone Campsites.
+
+The weather varies at this location. In the summer the fog, if any, often
+remains below this elevation (2900'). During the winter, fog may engulf the
+summit. Winds may pick up in the early afternoon, only to die down after
+sunset. Snow, although light, may fall once or twice a year.
+
+When the fog is below, the sky gets very dark. Often M 31 and M 33 are both
+naked-eye objects. With no fog below however, the light from Salinas may
+lighten the SW sky, while some of the smaller nearby towns cast a little light
+too. Still, this sky would be considered to be dark. Autos, some containing
+astronomers, can cause light pollution also.
+
+Raccoons, skunks and deer have been known to pay nightly visits, and ants
+reside nearby. Non-astronomer campers may be in the area. Poison Oak is
+present, if you go off the paths. Restrooms are available.
+
+Because Fremont Peak is so popular, it could be quipped: "It's so crowded,
+that nobody ever goes there". Actually this has happened in 1987, which has
+seen a decrease in astronomers over the 1985 numbers. Some of the serious
+amateurs bypass this site because of the expected crowds, yet these very crowds
+could work out to be an advantage. Where else in the Bay Area can you go to
+both observe the stars and be in the company of other beginning
+astronomers? Every new moon weekend Fremont Peak becomes a "mini-Riverside" or
+a "mini-Stellafane". Give it a try. You might meet someone who'll become one
+of your favorite astronomer-friends.
+
+
+VISIT THE HUBBLE SPACE TELESCOPE
+
+The space telescope is at Lockheed in Sunnyvale, awaiting a launch on
+the space shuttle. In the meantime, Lockheed has offered the SJAA's
+members two dates to come in and view the telescope. There will be a
+presentation followed by viewing the telescope through the cleanroom
+window. We will be limited to 30 people on each date so it will be
+necessary to reserve a spot by contacting Bob Fingerhut at 263-4455
+between 6 and 9 p.m.. The following is a list of details and
+necessary regulations.
+
+* Dates: Friday November 6 and Monday November 9.
+* Time: 2:30 - 4:00 p.m. (presentation and telescope viewing)
+* Limit: 30 people on each date.
+* Minimum age: 16 years old.
+* Only one guest per SJAA member.
+* Sign-up at least 10 days in advance.
+* Must be able to negotiate 3 stairways.
+* NO CAMERAS!!!
+
+Bob will provide directions and a map for those who sign up.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABkrR6Uppz2wEfYjqh'}]
+SJAA MEETING AND STAR PARTY LOCATIONS
+GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross
+building in Los Gatos California. Speakers are invited to give talks on a wide
+range of astronomical topics which have included equipment and slide
+presentations. This is also the location for the SJAA's famous "Indoor Star
+Parties", informal sessions where members gather to share their astronomical
+interests. Whatever your interest, astrophotography, deep sky observation,
+telescope making, or just arm chair observing, you'll find a friendly
+atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos - Saratoga Rd. From Hwy.
+17 take the Hwy. 9 (Saratoga) exit and continue West up the Los Gatos -
+Saratoga Road for about 1.5 miles. Turn right at Rose Ave. Then turn right
+immediately into the parking lot of the Post Office and Red Cross building.
+Doors open at 7:45 PM, with General Meetings usually beginning at 8 PM.
+
+INDOOR STAR PARTIES
+
+Each month there are several Saturday evenings set aside for informal
+gatherings of amateur astronomers to share their common interest in astronomy,
+to "talk shop", or to simply enjoy the company of friends. Members are
+encouraged to bring in telescopes and accessories to share with the group.
+Typically there will be several telescopes operating in the parking lot or
+there will be a slide show of recent astrophotography and star party events in
+progress in the meeting hall. The SJAA also holds its Board Meetings during
+this time as well as an Introductory Astronomy workshop that is conducted once
+a month.
+
+FIELD EXPEDITIONS
+
+On the Saturdays closest to the New Moon, The SJAA will conduct a "Star Party"
+for astronomical observation at a designated location. Several times a year
+these star parties are held close to San Jose while others are held as far away
+as Yosemite National Park. Watch the EPHEMERIS for directions to these
+locations.
+
+FREMONT PEAK STATE PARK
+
+The most popular of locations for bay area amateur astronomers is Fremont Peak
+State Park. Located 70 miles south near the town of San Juan Bautista, Fremont
+Peak rises nearly 3000 ft. above the valley. For two decades amateurs have
+gathered at the "Peak" during New Moon weekends for serious deep sky observing
+and astrophotography. Fremont Peak is now the home of the Fremont Peak
+Observatory Association's 30-inch telescope that is open to the public on
+selected weekends. To get to Fremont Peak from San Jose, take Hwy. 101 South
+towards Salinas. Then take Hwy. 156 East (San Juan Bautista exit) for two
+miles to a yellow flashing light. Turn right and go about 1/4 mile to where
+the road reaches a "Y". Stay left for about .25 yards and then go right.
+(Watch closely for the Fremont Peak sign). Follow the canyon road for about 11
+miles up and into the park. The SJAA sets up in the Coulter Camp area. It's
+visible on your right as you first drive into the main area of the park.
+Expect to find a lot of astronomical activity here every clear New Moon
+weekend. Arrive early if you are setting up equipment. 50 to 100 telescopes
+are not uncommon at Fremont Peak during the summer months.
+
+********************************************************************************
+*         EPHEMERIS    is   published   monthly   by   the  San Jose Astronomical         *
+*         Association,   3509   Calico  Ave.,   San   Jose,  California,    95124.         *
+*         Contributors  are  welcome to submit astronomical, general interest, or         *
+*         should be typed and submitted no later  than  the  12th  day  of  the         *
+*         month.    All  submissions should be sent  care of the editor, John         *
+*         Gleason, 5351 Fort Sailwood Dr, Newark, CA.  94560.         *
+*                                            OFFICERS         *
+*         PRESIDENT:  Tom Ahl.........................................408-268-3927         *
+*         VICE-PRES:  Bob Fingerhut...................................408-263-4455         *
+*         SECRETARY:   Jim Van Nuland.................................408-371-1307         *
+*         TREASURER:   Jack Peterson...................................408-262-1457         *
+*         EDITOR:      John Gleason.                                                         *
+*                                   BOARD OF DIRECTORS:         *
+*         Paul Mancuso...........................................408-946-0738         *
+*         Jack Peterson..........................................408-262-1457         *
+*         Bob Fingerhut..........................................408-263-4455         *
+*         Tom Ahl................................................408-268-3927         *
+*         Gene Cisneros..........................................408-923-6800         *
+*         Joe Sumerl.............................................408-274-8693         *
+*         Steve Greenberg........................................708-739-6550         *
+*         Duncan Munroe..........................................408-448-5361         *
+********************************************************************************
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzABmLSGKSsTvP6b8qkW'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10     MEMBERSHIP/S&T: $ 24.00     JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________________________     Questionnaire (optional)
+
+Address _____________________________________________     What are your astronomical interests (e.g. astro-
+                                                            photography, deep-sky observation, telescope making,
+_____________________________________________________     etc.)? ______________________________________________
+
+Telephone (_____)____________________________________     __________________________________________________
+
+                                                            __________________________________________________
+Please bring this form to any SJAA meeting, or send to:
+                                                            __________________________________________________
+Jack Peterson, Treas.
+San Jose Astronomical Association                          Do you own a telescope? _________ If so, what kind?
+1840 Yosemite Dr.
+Milpitas, CA. 95035                                        __________________________________________________
+
+[ Phone:  (408) 262-1457  ]                                Is there any specific area of astronomy that you feel
+                                                            qualified to help others with? ____________________
+Please check type of membership and if new
+or renewal.                                                 __________________________________________________
+
+Membership Only____    Membership/S&T____                  __________________________________________________
+
+Junior (Under 18)____
+
+New____    Renewal____
+
+
+
+
+SJAA EPHEMERIS                                             NON-PROFIT ORGANIZATION
+3509 CALICO AVE.                                           U.S. POSTAGE PAID
+SAN JOSE, CA. 95124
+                                                            PERMIT NO.5381
+
+                                                            SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE — DATED
+
+NEWS MATERIAL

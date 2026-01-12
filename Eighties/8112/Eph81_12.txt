@@ -1,66 +1,64 @@
 === PAGE 1 ===
-the san jose
-astronomical association
-SJAA
+# the san jose astronomical association
+**SJAA**
 
-December 1981
+## December 1981
 
-Dec. 4    Space Telescope Tour at Lockheed. Reservations have
-          closed; if you missed out this time, there MAY be another
-          chance in the future. NO CAMERAS OR TAPE RECORDERS
-          ALLOWED.
+Dec. 4     Space Telescope Tour at Lockheed. Reservations have
+           closed; if you missed out this time, there MAY be another
+           chance in the future. NO CAMERAS OR TAPE RECORDERS
+           ALLOWED.
 
-Dec. 5    SJAA General Meeting at De Anza College. Allan Meyer,
-          staff astronomer on the Kuiper Astrophysical Observatory,
-          will tell us what's new with the KAO. 8:00 pm. Room
-          S-34, across from the planetarium.
+Dec. 5     SJAA General Meeting at De Anza College. Allan Meyer,
+           staff astronomer on the Kuiper Astrophysical Observatory,
+           will tell us what's new with the KAO. 8:00 pm. Room
+           S-34, across from the planetarium.
 
-Dec. 12   Indoor Star Party at the Los Gatos Red Cross. Norm
-          Neinchel will give a demonstration of cold-camera
-          astrophotography; see what really goes on inside those
-          lightproof changing bags. Also: Steve Greenberg's slides
-          of the second launch of Columbia. Bring any slides you'd
-          like to share. 7:30 pm on.
+Dec. 12    Indoor Star Party at the Los Gatos Red Cross. ·Norm
+           Neinchel will give a demonstration of cold-camera
+           astrophotography; see what really goes on inside those
+           lightproof changing bags. Also: Steve Greenberg's slides
+           of the second launch of Columbia. Bring any slides you'd
+           like to share. 7:30 pm on.
 
-Dec. 18   Board meeting at Steve and Patty's, 1272 Mills St., Apt.
-          1, Menlo Park. (Yes, finally!!) Mills is between Oak
-          Grove and Glenwood, just east of the train tracks.
-          326-8614 for directions. THIS IS A CHANGE FROM THE
-          PREVIOUS BULLETIN.
+Dec. 18    Board meeting at Steve and Patty's, 1272 Mills St., Apt.
+           1, Menlo Park. (Yes, finally!!) Mills is between Oak
+           Grove and Glenwood, just east of the train tracks.
+           326-8614 for directions. THIS IS A CHANGE FROM THE
+           PREVIOUS BULLETIN.
 
-Dec. 19   No scheduled club activity.
+Dec. 19    No scheduled club activity.
 
-Dec. 26   No-host star party at Fremont Peak State Park.
+Dec. 26    No-host star party at Fremont Peak State Park.
 
-Jan. 2    Indoor Star Party at the Los Gatos Red Cross; 7:30 pm on.
-          Bring those newly-received telescopes for a parking lot
-          star party! Bring any other new astro-goodies, also.
+Jan. 2     Indoor Star Party at the Los Gatos Red Cross; 7:30 pm on.
+           Bring those newly-received telescopes for a parking lot
+           star party! Bring any other new astro-goodies, also.
 
-Jan. 9    General Meeting, Room S-34 at De Anza College. Ernie
-          Piini will discuss his tour of the USSR last summer,
-          especially including the total solar eclipse.
+Jan. 9     General Meeting, Room S-34 at De Anza College. Ernie
+           Piini will discuss his tour of the USSR last summer,
+           especially including the total solar eclipse.
 
-Jan. 15   Board meeting at Frank Dibbell's, 710 Georgia Ave.,
-          Sunnyvale; 733-7208.
+Jan. 15    Board meeting at Frank Dibbell's, 710 Georgia Ave.,
+           Sunnyvale; 733-7208.
 
-Jan. 16   Star Party at Sanborn Canyon County Park. If the weather
-          is bad, we'll have an Indoor Star Party at the Los Gatos
-          Red Cross instead.
+Jan. 16    Star Party at Sanborn Canyon County Park. If the weather
+           is bad, we'll have an Indoor Star Party at the Los Gatos
+           Red Cross instead.
 
-Jan. 23   Star Party at Henry Coe State Park.
+Jan. 23    Star Party at Henry Coe State Park.
 
-Jan. 30   Indoor Star Party. More details in the January Bulletin.
-
+Jan. 30    Indoor Star Party. More details in the January Bulletin.
 
 SAN JOSE ASTRONOMICAL ASSOCIATION
 3509 Calico Avenue, San Jose, CA 95124
 
-President: Denni Frericks, 15022 Broadway Terrace, Oakland, CA 94611; 654-6796
+President: Denni Frevichs, 15022 Broadway Terrace, Oakland, CA 94611; 654-6796
 Bulletin Editors: Steve Greenberg and Patty Winter, P.O. Box 262, Menlo Park,
-                  CA 94025; 326-8614
+           CA 94025; 326-8614
 
 Membership rates: Adult $18/yr; Junior (under 12) $12/yr; includes Sky &
-Telescope. SJAA Bulletin subscription for non-members: $7/yr.
+Telescope, SJAA Bulletin subscription for non-members: $7/yr.
 
 -1-
 
@@ -69,7 +67,7 @@ Telescope. SJAA Bulletin subscription for non-members: $7/yr.
 
 GREETINGS!
 
-Denni Frerichs, being no fool, has found TWO people to replace the one of her as Bulletin editor. (She may know something we don't.) We are, in reverse alphabetical order, Patty Witter and Steve Greenberg. Yes, you will see some changes in the Bulletin, and yes, we would like to hear your suggestions. And yes, it's going to be difficult to top the quality of the past few months' issues--they've been terrific, Denni!
+Denni Frerichs, being no fool, has found TWO people to replace the one of her as Bulletin editor. (She may know something we don't.) We are, in reverse alphabetical order, Patcy Witter and Steve Greenberg. Yes, you will see some changes in the Bulletin, and yes, we would like to hear your suggestions. And yes, it's going to be difficult to top the quality of the past few months' issues--they've been terrific, Denni!
 
 The official mailing address for all Bulletin material (including address changes)is:
 
@@ -103,7 +101,7 @@ Ken Wilson: "Well, on Titan on Saturday nights there's a little bit of life."
 -2-
 
 === PAGE 3 ===
-# saad
+# SAQA
 
 # occulting zone
 
@@ -111,13 +109,13 @@ Ken Wilson: "Well, on Titan on Saturday nights there's a little bit of life."
 
 As promised in the Occulting Zone in November, here are the results of the Oct. 19 graze at Los Banos, Calif.
 
-Nine observers obtained 45 timings, plotted below. Due to tape trouble, Jan Smith and Jim Burrous did not obtain timings. Paul Barton and Brian White, north of everybody, did not observe due to telescope troubles.
+Nine observers obtained 45 timings, plotted below. Due to tape trouble, Jan Smith and Jim Burrows did not obtain timings. Paul Barton and Brian White, north of everybody, did not observe due to telescope troubles.
 
 In the diagram, each observer's position is shown as a horizontal line. The line is bold when the star was occulted. Flashes are shown as marks atop the line. The unlabeled arrow, right of 7:50, marks the mid-time.
 
 One mile on the vertical scale corresponds to 0.53 miles of elevation on the moon. One minute of time horizontally corresponds to about 70 miles, so the vertical exaggeration is about 87 to 1.
 
-[THIS IS DIAGRAM: A timeline chart showing observations from different locations (RATTLEY, FINGERHUT, BALDRIDGE, PETERSON, VAN NULAND, M. STROM, B. STROM, CASE, SWAZE) between 7:49 U.T. and 7:51, with markers at 7:50 and Tc. Horizontal lines with marks indicate observation data for each location.]
+[THIS IS CHART: A timing diagram showing observations from multiple observers (RATTLEY, FINGERHUT, BALDRIDGE, PETERSON, VAN NULAND, M. STROM, B. STROM, COOKE, SWAZE) plotted on a timeline from 7:49 U.T. to 7:51, with "-1 Mi." and "-2 Mi." markers and "Tc" marked at 7:50]
 
 At the left is seen a secondary peak, separated by a large valley. The main peak then rises sharply, with a tiny bump caught by Swaze as a blink.
 
@@ -254,10 +252,10 @@ you plan to be observing, and stick to
 -4-                    (continues on page 8)
 
 === PAGE 5 ===
-COMET COMMENTS                           10-20-81
-                                    (Updated 11-14-81)
+COMET COMMENTS                    10-20-81
+                        (Updated 11-14-81)
 
-     (Comet Comments was not in the
+    (Comet Comments was not in the
 last bulletin because it never made it
 through the mail to editor Denni. She
 tried calling me to get the column over
@@ -265,13 +263,13 @@ the phone, but I was never home. So, I
 have updated the article, and here it
 is.)
 
-     No new comets have been discovered
+    No new comets have been discovered
 these past two months, but we do have a
 mysterious observation of a possible
 comet, and a recent report of a comet
 striking the sun.
 
-     Possible Comet Stattmayer. On
+    Possible Comet Stattmayer. On
 Sept. 6, the Smithsonian Astrophysical
 Observatory received word from Peter
 Stattmayer of W. Germany that he had
@@ -292,7 +290,7 @@ light), there was no comet visible. It
 has yet to be confirmed, and at this
 late time probably won't be.
 
-     So, what could this object have
+    So, what could this object have
 been? It could have been a photographic
 flaw of some sort. Or, it could have
 been a comet that flared and then
@@ -300,7 +298,7 @@ faded. It could possibly be a hoax of
 some sort, but the SAO is not likely to
 press such a charge.
 
-     Probable Sun-grazing Comet. It was
+    Probable Sun-grazing Comet. It was
 recently announced that in Aug. 1979,
 the satellite P78-1 observed a comet
 near the sun. The head was "somewhat
@@ -312,7 +310,7 @@ visible, then nothing. There have been
 no reports of any other observations of
 this comet.
 
-     Dr. Brian Marsden of the SAO sug-
+    Dr. Brian Marsden of the SAO sug-
 gests that this comet had a retrograde
 orbit, and might have belonged to the
 Kreutz Sungrazing Family of comets.
@@ -330,7 +328,7 @@ from behind the sun (as seen from
 earth) and that's why it wasn't
 observed visually.
 
-     This is the first instance of a
+    This is the first instance of a
 comet being discovered by a satellite.
 Additionally, this is the first known
 case of a comet hitting the sun, al-
@@ -340,7 +338,7 @@ thing. Probably the only thing left was
 a puff of steam. Perhaps it should be
 nicknamed "Icarus".
 
-     Great Comets. The Great Comet of
+    Great Comets. The Great Comet of
 1882 was discovered by many people at
 the same time on Sept. 1, 1882. This
 comet swept very close to the sun on
@@ -349,7 +347,7 @@ from the sun in the predawn sky at
 discovery, it whipped around the sun
 and back into the predawn sky again.
 
-     This comet is a member of the
+    This comet is a member of the
 Kreutz Sungrazing Family, and one of
 the first comets to be well-photograph-
 ed. It is also one of the two comets
@@ -363,7 +361,7 @@ side of the sun. (Comets are such
 parts. The main part is due back in the
 year 2641.
 
-     Near Volcano, California, on a
+    Near Volcano, California, on a
 hill known as "Daffodil Hill", sits a
 California State Historical Marker. It
 marks the site of the first astronom-
@@ -373,13 +371,12 @@ was discovered from here". Now, as the
 saying goes, you know the rest of the
 story.
 
-                                Don Macholz
-                            (408) 448-7077
+                            Don Macholz
+                       (408) 448-7077
 
 
 Editor's Note.
-
-     The delay in reporting the colli-
+    The delay in reporting the colli-
 sion of Aug. 31, 1979, was due to the
 fact that satellite P78-1 was perform-
 ing a classified mission. It was not
@@ -387,8 +384,7 @@ until late August, 1981 that the photos
 showing the event were declassified.
 The December issue of Discover magazine
 has published two of them.
-
-                                    --S.G.
+                                  --S.G.
 
 -5-
 
@@ -482,7 +478,7 @@ fifth year in orbit September
 configuration has been flying in
 a 362 x 382 km orbit inclined
 51.6 degrees.
-The Soviet Union is reeval-
+    The Soviet Union is reeval-
 uating plans not to reuse
 the Salyut 6 space station for
 manned flights. The head of
@@ -516,11 +512,12 @@ THE CELESTIAL TOURIST SPEAKS
 
 Since the October 24th star party
 was covered in the last bulletin, and
-no one set up any telescopes at the Los
+no one set up any telescopes at Gatos
 Gatos Red Cross on Hallowe'en, I have
 no star party reports for this column.
 
-My Celestron 14 has been in operation for a year now. I have set it up
+My Celestron 14 has been in oper-
+ation for a year now. I have set it up
 on 28 nights, and have looked at over
 1200 objects with it. I am well
 pleased, with a few qualifications.
@@ -528,20 +525,26 @@ pleased, with a few qualifications.
 First, as those of you who have
 seen it know, the instrument has been
 modified. I use a low, stubby pier for
-a seated observing position, and to reduce vibration. I have replaced the
+a seated observing position, and to re-
+duce vibration. I have replaced the
 horizontal plate of the "wedge" with a
 slab of 1 1/2-inch thick aluminum
 plate, for further vibration reduction.
 I also made a 20-inch long dewcap from
 16-mil aluminum sheet. I repainted the
 telescope white and silver, as an
-additional measure against dew formation on the optics and exterior surfaces, and to keep the instrument from
+additional measure against dew forma-
+tion on the optics and exterior sur-
+faces, and to keep the instrument from
 getting overheated when I set it up
-before sunset. I extended the counterbalance rods out past the back end of
+before sunset. I extended the counter-
+balance rods out past the back end of
 the tube, so that I could balance the
-weight of the dewcap. And, I soon replaced the cam-type declination locking
+weight of the dewcap. And, I soon re-
+placed the cam-type declination locking
 mechanism with a wingnut, when the soft
-aluminum can wore away from its original shape. All of these modifications
+aluminum cam wore away from its orig-
+inal shape. All of these modifications
 work, and the telescope is much more
 useful with them than without.
 
@@ -550,7 +553,8 @@ was lousy. It took me some six months
 to find this out, because the seeing
 last winter and spring was also lousy.
 Star-testing in tranquil June skies
-showed a classic case of pure astigmatism, with a circle of least confusion
+showed a classic case of pure astigma-
+tism, with a circle of least confusion
 well over an arc-second in diameter,
 which no amount of collimation or of
 rotation of eye, eyepiece, and diagonal
@@ -558,8 +562,10 @@ would eliminate. Back to the factory it
 went, accompanied by a stern letter, in
 which I mentioned that I had read the
 place in the catalog where Celestron
-advertises "diffraction-limited optics". I also said enough to indicate
-that I knew perfectly well what "diffraction limited" meant.
+advertises "diffraction-limited op-
+tics". I also said enough to indicate
+that I knew perfectly well what "dif-
+fraction limited" meant.
 
 Celestron bore into the telescope
 and started rotating this, shimming
@@ -568,7 +574,8 @@ other. (Notwithstanding what it says in
 
 all the owners' manuals, there is more
 to collimating a Schmidt-Cassegrainian
-than adjusting the tilt of the secondary.) The problem did not go away. So,
+than adjusting the tilt of the secon-
+dary.) The problem did not go away. So,
 the factory installed new optics, which
 are very good, indeed.
 
@@ -584,7 +591,9 @@ the astigmatism is that the primary
 mirror blank had a flaw or internal
 strain that did not show up when the
 optics were matched and figured using a
-testing jig, but which allowed the mirror to start to "fold" along the weakest diameter, when any force was
+testing jig, but which allowed the mir-
+ror to start to "fold" along the weak-
+est diameter, when any force was
 applied to it. The primary mirror is
 mounted on a bushing that passes
 through its central perforation. A
@@ -595,7 +604,8 @@ between). Tightening down the nut might
 have caused the mirror to "fold". But,
 that's only a guess.
 
-I have done some interesting observing lately. The Fornax cluster of
+I have done some interesting ob-
+serving lately. The Fornax cluster of
 galaxies, which I mentioned last month,
 was a fascinating region with the C-14.
 Don't miss it. Also, there are some
@@ -606,7 +616,8 @@ Eridani, and extends to the northeast
 for about two degrees. The galaxies are
 NGC 1395, 1415, 1426, and 1439, ranging
 in brightness from magnitude 11.3 to
-12.9. All four are shown on the Skalnate Pleso, but only the brightest,
+12.9. All four are shown on the Skal-
+nate Pleso, but only the brightest,
 NGC 1395, appears on Norton's. Another
 quartet is centered about a degree and
 a half east-southeast of 20 Eridani.
@@ -635,8 +646,7 @@ size, and bright enough to show up
 easily in my 11x80 binocular. This
 planetary is Messier quality, and well
 worth a look.
-
-There are a lot of spectacular
+    There are a lot of spectacular
 double stars in Orion. We all know
 about the Trapezium, theta-one Orionis.
 But, beta, eta, lambda, iota, sigma,
@@ -649,11 +659,11 @@ fainter than the primary, and only 10
 arc seconds away. My eight inch Dobson
 shows all these stars well at 245x.
 
-Jay Freeman
+                                Jay Freeman
 
 LETTERS TO THE EDITORS
 
-I have two comments related to
+    I have two comments related to
 George Scotten's letter last month.
 First, a typographical error appeared
 twice in the printed version of my
@@ -669,63 +679,56 @@ light trailer frames to its catalogue
 line. These might well be suitable for
 Dobson transporting, with or without a
 custom box added on.
+                                Jay Freeman
 
-Jay Freeman
 
-In the debate between George Scotten and Jay Freeman, I think Jay may
+    In the debate between George Scotten and Jay Freeman, I think Jay may
 still have the better of it.
-
-George says that if Jay would have
+    George says that if Jay would have
 put the $7000 out for 30 years at 10%
 interest (compounded), he would end up
 with $122,145.82. At recent rates of
 inflation, at the end of 30 years, that
 sum may be the equivalent of $7000
 today.
-
-So, Jay may have a $100,000
+    So, Jay may have a $100,000
 telescope at the end of 30 years
 (allowing $22,145 for depreciation),
 and he will have had a lot of fun in
 the meantime.
-
-As for that $.85, it probably
+    As for that $.85, it probably
 won't take a postcard across town.
 
-Dick Barrett
+                                Dick Barrett
 
-[THIS IS FIGURE: A cartoon showing two astronauts floating in space looking at a satellite, with a speech bubble saying "GEE, THIS NEW OBSERVING SITE OF GERRY'S SURE IS GREAT! BUT IT SURE IS HARD TO GET TO!"]
+[CARTOON: Shows a satellite with speech bubble saying "GEE, THIS NEW OBSERVING SITE OF GERRY'S SURE IS GREAT! BUT IT SURE IS HARD TO GET TO!" with two astronauts floating nearby and Earth visible below]
 
---Ken Wilson
+                                --Ken Wilson
 
-Many thanks to Martin Hasha of
+    Many thanks to Martin Hasha of
 Lockheed for his talk on the
 Space Telescope at the November
 General Meeting.
 
 Observing Safety
-(continued from page 4)
+    (continued from page 4)
 
 that schedule. Arrange to call them as
 soon as you return. If you change plans
 inform them, so that they won't be
 needlessly worried. Arrange an emergency action plan, leaving the phone
 numbers in (5) to be called.
-
-These suggestions will not guarantee safety, but at least they'll limit
+    These suggestions will not guarantee safety, but at least they'll limit
 the chances that it'll be your fault if
 something happens.
-
-Next month I'll discuss wildlife,
+    Next month I'll discuss wildlife,
 some of those wonderful animals we meet
 while observing the stars.
-
-Don Macholz
-(408) 448-7077
+                                Don Macholz
+                                (408) 448-7077
 
 Editor's note.
-
-As a licensed amateur radio operator (N6BIS), active on the 2-meter
+    As a licensed amateur radio operator (N6BIS), active on the 2-meter
 band, I know the frequencies and locations of a number of "repeaters" in the
 Santa Cruz Mountains. These devices
 give a small belt-mounted handi-talkie
@@ -736,7 +739,7 @@ Area. Two-way radios are invaluable in
 emergencies and, worn on the belt with
 short "rubber duckie" antennas, they
 look suspiciously like police radios.
---PW
+                                --PW
 
 -9-
 
@@ -745,13 +748,11 @@ IMPRESSIONS OF THE STS-2 LAUNCH
 
 My first glimpse of the space shuttle Columbia (since its April 14th landing at Edwards Air Force Base) came from a distance of about 9 1/2 miles, as I drove along the Merritt Island Causeway. Even though the morning was stormy, and Columbia was cocooned in its gantry, the glistening white nose of its fuel tank was easily visible. I was impressed by the apparent mass and size of the rocket, and decided to take the first available press tour, to view it as closely as possible.
 
-From 1/4 or 1/2 mile away, Columbia looked like a beautifully constructed child's toy that had been pinned (like a butterfly) onto the side of a model made by a berserk boilermaker. My early morning impression of its great mass and solidity had completely vanished.
+From 1/4 or 1/2 mile away, Columbia looked liked a beautifully constructed child's toy that had been pinned (like a butterfly) onto the side of a model made by a berserk boilermaker. My early morning impression of its great mass and solidity had completely vanished.
 
 By mid-afternoon I had chosen and staked out my photographic site well in front of the press grandstands, next to the aptly named Mosquito (slap) Lagoon, and about 3.4 miles from the launch pad. There was too much human activity around this site for me to get much sleep the night before the scheduled launch, but I tried. And, of course, I was very disappointed when the launch was finally cancelled at T-31 seconds. However, in some respects, the week-long delay worked to my advantage. At the end of that time, only about 1/3 to 1/2 of the reporters and photographers returned to KSC. I think a lot of vacationers and amateurs got shaken out by the cancellation, giving the remainder more room to maneuver in. Indeed, I was even able to document some of the launch preparation cycle that occurred while I was busy chasing my clothes around.
 
-Furthermore, the more I looked at Columbia and its rocket boosters, the bigger and more massive it became again, until I was finally able to believe that it weighed 2.5 million pounds; and that it really never was going to lift from the ground and go straight up in the air. I found myself unable to comprehend the forces necessary to perform such a task. So, when liftoff time came on the morning of Nov. 12, and I was looking at the launch through my 1000mm Meade telephoto, I was stunned as a brilliant
-
-pillar of yellow flame and white billowing smoke effortlessly and noiselessly supported, and then lifted, this incredibly massive machine into the air, and in two minutes thrust it over 70 miles up and out over the Atlantic, to become a tiny speck in my viewfinder. My most vivid visual impression, until I saw the solid boosters separate from Columbia, was that, paradoxically, as the rocket got smaller in the viewfinder, the flame got larger. It seemed that, like a cornucopia, my field of view always remained full. However, the spell was broken when the rocket passed behind a large cumulus cloud. The f/10 lens could not detect the booster rockets' yellow glare, so I lost my magnified view. At this point, I looked up and saw for the first time the true immensity of the smoke trail. I should also point out that the first 17 seconds of Columbia's flight seemed to occur in a strangely surreal silence, since the shock wave and sound from the booster rockets were still traversing the space between us. Before the sound hit me, the rocket existed visually but not aurally. However, I could hear the more "everyday" sounds of people yelling, and the click/whirring of hundreds of cameras (including my own) taking thousands of photos. After the sound arrived, it grew to a crescendo that vibrated my body, shock the ground, and drowned out every other noise. Then, it slowly diminished, and finally it was gone with Columbia. Then, even with hundreds of the people around me cheering, it was quiet again. The whole process had an incredible air of unreality about it that did not go away until I watched the Columbia reappear in the sky over Edwards AFB on Nov. 16th.
+Furthermore, the more I looked at Columbia and its rocket boosters, the bigger and more massive it became again, until I was finally able to believe that it weighed 2.5 million pounds; and that it really never was going to lift from the ground and go straight up in the air. I found myself unable to comprehend the forces necessary to perform such a task. So, when liftoff time came on the morning of Nov. 12, and I was looking at the launch through my 1000mm Meade telephoto, I was stunned as a brilliant pillar of yellow flame and white billowing smoke effortlessly and noiselessly supported, and then lifted, this incredibly massive machine into the air, and in two minutes thrust it over 70 miles up and out over the Atlantic, to become a tiny speck in my viewfinder. My most vivid visual impression, until I saw the solid boosters separate from Columbia, was that, paradoxically, as the rocket got smaller in the viewfinder, the flame got larger. It seemed that, like a cornucopia, my field of view always remained full. However, the spell was broken when the rocket passed behind a large cumulus cloud. The f/10 lens could not detect the booster rockets' yellow glare, so I lost my magnified view. At this point, I looked up and saw for the first time the true immensity of the smoke trail. I should also point out that the first 17 seconds of Columbia's flight seemed to occur in a strangely surreal silence, since the shock wave and sound from the booster rockets were still traversing the space between us. Before the sound hit me, the rocket existed visually but not aurally. However, I could hear the more "everyday" sounds of people yelling, and the click/whirring of hundreds of cameras (including my own) taking thousands of photos. After the sound arrived, it grew to a crescendo that vibrated my body, shock the ground, and drowned out every other noise. Then, it slowly diminished, and finally it was gone with Columbia. Then, even with hundreds of the people around me cheering, it was quiet again. The whole process had an incredible air of unreality about it that did not go away until I watched the Columbia reappear in the sky over Edwards AFB on Nov. 16th.
 
 Everytime I think about the events of these days, I get an incredible thrill. I witnessed...I was actually there...when the first manned spaceship returned to outer space, and landed again on earth. For me, there won't be another historical moment as unique, until the first manned expedition goes out to another planet, and returns.
 

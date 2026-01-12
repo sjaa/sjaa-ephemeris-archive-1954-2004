@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "id": "sjaa1961-san-jose-amateur-astronomers-to-screen-space-film",
+      "documentId": "sjaa1961",
+      "title": "San Jose Amateur Astronomers to Screen Space Film",
+      "summary": "The San Jose Amateur Astronomers will screen a space film on Feb. 6, focusing on America's Project Mercury mission to put a man in space.",
+      "categories": [
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Project Mercury",
+        "space exploration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "sjaa1961-sally-elizabeth-krumm-engaged-to-james-stanley-styczynski",
+      "documentId": "sjaa1961",
+      "title": "Sally Elizabeth Krumm Engaged to James Stanley Styczynski",
+      "summary": "Sally Elizabeth Krumm announces her engagement to James Stanley Styczynski at a dinner party in Cupertino. The prospective groom is stationed at Travis Air Force Base as a future control system mechanic.",
+      "categories": [
+        "engagement",
+        "personal",
+        "local news"
+      ],
+      "keywords": [
+        "engagement announcement",
+        "Sally Elizabeth Krumm",
+        "James Stanley Styczynski",
+        "Travis Air Force Base"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa1961",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA1961.pdf",
+      "txtPath": "SJAA1961.txt"
+    }
+  ]
+}

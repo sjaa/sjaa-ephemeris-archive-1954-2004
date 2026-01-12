@@ -1,61 +1,49 @@
 === PAGE 1 ===
-# sjaa ephemeris                                July '80
+# sjaa ephemeris
 
-July 12  SJAA star party at Dick Glasspool'site in the
-         Santa Cruz Mts. More information and a map are
-         included inside in Observations.
+## July '80
 
-July 12  New Moon
+**July 12** SJAA star party at Dick Glasspool'site in the Santa Cruz Mts. More information and a map are included inside in Observations.
 
-July 18  Board meeting at Bob Fingerhut's, 340 Rio Verde
-         Place, #4, Milpitas. 8:00 pm. 263-4455. Please note
-         change from Debbie Moore's.
+**July 12** New Moon
 
-July 19  SJAA annual picnic and officer installation to be
-         held at Portal Park in Cupertino, noon to dusk. More
-         information inside.
+**July 18** Board meeting at Bob Fingerhut's, 340 Rio Verde Place, #4, Milpitas. 8:00 pm. 263-4455. Please note change from Debbie Moore's.
 
-July 20  Space Day: the 11th anniversary of Man's landing
-         on the Moon.
+**July 19** SJAA annual picnic and officer installation to be held at Portal Park in Cupertino, noon to dusk. More information inside.
 
-July 26  Indoor star party at the Los Gatos Red Cross building,
-         18015 Los Gatos-Saratoga Rd., Los Gatos. 7:30 pm.
-         Everyone welcome!
+**July 20** Space Day: the 11th anniversary of Man's landing on the Moon.
 
-July 27  Full Moon
+**July 26** Indoor star party at the Los Gatos Red Cross building, 18015 Los Gatos-Saratoga Rd., Los Gatos. 7:30 pm. Everyone welcome!
 
-Aug   2  Indoor star party at the Los Gatos Red Cross building.
-         7:30 pm.
+**July 27** Full Moon
 
-Aug   9  SJAA star party at Henry Coe State Park.
+**Aug 2** Indoor star party at the Los Gatos Red Cross building. 7:30 pm.
 
-Aug  10  New Moon and annular solar eclipse. (Peru)
+**Aug 9** SJAA star party at Henry Coe State Park.
 
-Aug  16  Indoor star party at the Los Gatos Red Cross building.
-         7:30 pm.
+**Aug 10** New Moon and annular solar eclipse. (Peru)
 
-Aug  23  General meeting at the Rosicrucian Planetarium, Park
-         & Naglee, San Jose. 7:30 pm. Speaker to be announced.
+**Aug 16** Indoor star party at the Los Gatos Red Cross building. 7:30 pm.
 
-Aug  25  Penumbral eclipse of the full Moon starting at 5:42 pm
-         with duration 3hrs 38min. Visible in parts of U.S.
+**Aug 23** General meeting at the Rosicrucian Planetarium, Park & Naglee, San Jose. 7:30 pm. Speaker to be announced.
 
-Aug  29  Board meeting at Norm Neinchel's, 190 Rose Ct., Camp-
-         bell. 8:00 pm. 378-4488.
+**Aug 25** Penumbral eclipse of the full Moon starting at 5:42 pm with duration 3hrs 38min. Visible in parts of U.S.
 
-Aug  30  Indoor star party at the Los Gatos Red Cross. 7:30 pm.
+**Aug 29** Board meeting at Norm Neinchel's, 190 Rose Ct., Campbell. 8:00 pm. 378-4488.
 
-At the June board meeting board members voted for the recipient
-of the first annual Dr. A.B. Gregory Award honoring service to
-the SJAA and amateur astronomy. The nominees were Gerry Rattely,
-Jim van Nuland, Kevin Medlock, Norm Wild, and Denni Medlock.
-After two ballots and close voting Kevin was decided on by one
-vote over Gerry. Congratulations! He will be awarded this plaque
-at the SJAA July 19th picnic.
+**Aug 30** Indoor star party at the Los Gatos Red Cross. 7:30 pm.
 
-Gerry Rattley, pres. 732-0202     Denni Medlock, editor  278-8475
+---
+
+At the June board meeting board members voted for the recipient of the first annual Dr. A.B. Gregory Award honoring service to the SJAA and amateur astronomy. The nominees were Gerry Rattley, Jim van Nuland, Kevin Medlock, Norm Wild, and Denni Medlock. After two ballots and close voting Kevin was decided on by one vote over Gerry. Congratulations! He will be awarded this plaque at the SJAA July 19th picnic.
+
+---
+
+Gerry Rattley, pres. 732-0202       Denni Medlock, editor 278-8475
 
 1.
+
+the san jose astronomical associations
 
 === PAGE 2 ===
 # Observations
@@ -64,7 +52,7 @@ The June 7th Sanborn Canyon star party presented the SJAA with a pleasant evenin
 
 The turnout was quite respectable, although I don't know everyone who was there but I shall mention those I do.
 
-There was the usual confusion as we argued about Mercury being Venus, but Mike Welch ended it with his 8" Meade. Chris Pratt brought his 12" Newtonian and we were checking the rings of Saturn at fairly high power as well as several galaxies. Norm Mild was busting through several globulars with his 10" f 5.6 while Gary and Jackie Rice were using a 14" Cass. The magnification with that cass is incredible! The ring, M 57, fills 1/4 of the field with my Meade 28mm! Wolf Hanisch and Robert Scott arrived with their 3.5 Questar and C-8 in tow. Bob Fingerhut and Gerry Rattley arrived from an L5 Society 3D film during the evening.
+We tried once more the legend that we argued about Mercury being Venus, but Mike Welch ended it with his 8" Meade. Chris Pratt brought his 12" Newtonian and we were checking the rings of Saturn at fairly high power as well as several galaxies. Norm Mild was busting through several globulars with his 10" f 5.6 while Gary and Jackie Rice were using a 14" Cass. The magnification with that Cass is incredible! The ring, M 57, fills ¼ of the field with my Meade 28mm! Wolf Hanisch and Robert Scott arrived with their 3.5 Questar and C-8 in tow. Bob Fingerhut and Gerry Rattley arrived from an L5 Society 3D film during the evening.
 
 All in all, the evening was quite enjoyable and I didn't have to drive 60 miles each way.
 
@@ -73,17 +61,17 @@ Jack Zeiders
 "Hey, are those two stars Castor and Dumbo?"
 Phil Hermsmeyer
 
-The June 14th star party at Fremont Peak was well attended, with some thirty or forty telescopes and perhaps a hundred people present. That's not so crowded as it might sound, for the selection of telescopes was not so sperturne-heavy as is usual—no C-14's and only a few big Dobson-mounted Newtonians—so there was plenty of room. Not all of the attendees were SJAA members, but most of the usual crew from our club did show up.
+The June 14th star party at Fremont Peak was well attended, with some thirty or forty telescopes and perhaps a hundred people present. That's not so crowded as it might sound, for the selection of telescopes was not so apprature-heavy as is usual—no C-14's and only a few big Dobson-mounted Newtonians—so there was plenty of room. Not all of the attendees were SJAA members, but most of the usual crew from our club did show up.
 
-It was a good night. Early June is a particularly fine time to observe deep-sky objects! The happy hunting ground of galaxies, along the Virgo-Coma border, is still wellplaced at the end of twilight; and as it sets the summer Milky Way rises, bringing an abundance of galactic objects into position for viewing. This year, planets and other deepsky objects were available, for all the planetary-spot Venus were at hand. In particular, Mercury was at greatest eastern elongation, and was an easy naked-eye object in the western sky shortly after sunset, not far from the crescent Moon.
+It was a good night. Early June is a particularly fine time to observe deep-sky objects! The happy hunting ground of galaxies, along the Virgo-Coma border, is still wellplaced at the end of twilight; and as it sets the summer Milky Way rises, bringing an abundance of galactic objects into position for viewing. Later in the month several deepsky objects were available, for all the die-hard-y'coon Venus were at hand. In particular, Mercury was at greatest eastern elongation, and was an easy naked-eye object in the western sky shortly after sunset, not far from the crescent Moon.
 
 The sky was quite dark, apparently because the air was exceptionally clear, for there was no fog over the coastal plain. I had been at Fremont Peak the week before, with the same equipment that I had on the 14th, and the difference in conditions was quite pronounced.
 
-Pam Dibbell had his new Meade fourinch Schmidt-Cassegrain set up—it worked well and seemed like a nice little telescope. Jack Zeider's ten-inch gave a fine view of one of the most prominent dark nebulae—B86, which adjoins the galactic cluster NGC 6520 in Sagittarius, and which looks very much the same size as the cluster. It looks like a spot of ink dribbed onto the glow of the Milky Way. Many of the Milky Way atlases and catalogs do not list dark nebulae, even though there are many which are quite easy to see. Burnham's books describe some.
+Fenn Dibbell had his new Meade fourinch Schmidt-Cassegrain set up—it worked well and seemed like a nice little telescope. Jack Zeider's ten-inch gave a fine view of one of the most prominent dark nebulae—B86, which adjoins the galactic cluster NGC 6520 in Sagittarius, and which is both smaller and about the same size as the cluster. It looks like a spot of ink dripped onto the glow of the Milky Way. Many of the Meade atlases and catalogs do not list dark nebulae, even though there are many which are quite easy to see. Burnham's books describe some.
 
 Jack Petersen was carefully examining the out-of-focus images of a bright star in an effort to assess the quality of the optics of his Celestron 8. This is easy to do but hard to describe, and is a very handy technique. (Jack's optics looked well-corrected, but were a hair out of collimation.)
 
-Mary Engle, who belongs to one of the San Francisco clubs but is known to many SJAA members from the Chabot workshop, had her eight-inch Newtonian set up on a Dobson mount. I had a nice view of NGC 6822 with this instrument, at 67 diameters magnification. This galaxy is a member of the local group, but not well-known because of its very low surface brightness making it quite elusive. It is in eastern Sagittarius. We also looked at NGC 6207, a small galaxy near M 13; it is half a degree or so northeast of M 13. I wish all our star parties were as successful as this one was.
+Mary Engle, who belongs to one of the San Francisco clubs but is known to many SJAA members from the Chabot workshop, had her eight-inch Newtonian set up on a Dobson mount. I had a nice view of NGC 6822 with this instrument, at 67 diameters magnification. This galaxy is a member of the local group, but not well-known because of its very low surface brightness making it quite elusive. It is in eastern Sagittarius. We also looked at NGC 7209 (an open cluster in Lacerta) which is half a degree or so northeast of M 13, and I wish all our star parties were as successful as this one was.
 
 - Jay Freeman
 
@@ -92,13 +80,15 @@ Mary Engle, who belongs to one of the San Francisco clubs but is known to many S
 
 SJAA PICNIC & HAMBURGER FEST
 
-will be July 19th at Portal Park in Cupertino. The club will provide the charcoal, condiments, and cook (Wolfgang, of course) and will have hot dogs and hamburgers available at a reasonable on-the-spot fee as you eat them. Members are asked to bring a potluck dish that can be passed around for sampling by the gastronomical experts of this group (everybody), and don't forget to bring your frisbees, kites, and baseball equipment since we have the field. Besides eating and playing, the day will include officer installation, the presentation of the Gregory Award, and the SJAA logo contest. Members should submit their club design(s) on a 8½"x11" sheet of paper with your name seperately attached and maybe you'll win a year's free membership. To avoid risk of a bad drawing of an area I've never been to I've decided to give verbal instructions in this bulletin instead of a map that will get everyone lost. So—From San Jose take Highway 280 north and get off at the Cupertino-Saratoga-Sunnyvale Rd. exit, turn left onto Stevens Creek Blvd and continue on down it until you reach Portal Ave. If you reach Wolf you're too far, anyhow, turn left onto Portal and continue into the park. We've got the big open area near the entrance reserved. Bring your family and hope for good skies!
+will be July 19th at Portal Park in Cupertino. The club will provide the charcoal, condiments, and cook (Wolfgang, of course) and will have hot dogs and hamburgers available at a reasonable on-the-spot fee as you eat them. Members are asked to bring a potluck dish that can be passed around for sampling by the gastronomical experts of this group (everybody), and don't forget to bring your frisbees, kites, and baseball equipment since we have the field. Besides eating and playing games, there will include officer installation, the presentation of the Gregory Award, and the SJAA logo contest. Please submit your club design(s) on a 8½"x11" sheet of paper with your name seperately attached and maybe you'll win a year's free membership. To avoid risk of a bad drawing of an area I've never been to I've decided to give verbal instructions in this bulletin instead of a map that will get everyone lost. So—From San Jose take Highway 280 north and get off at the Cupertino-Saratoga-Sunnyvale Rd. exit. Turn left onto Stevens Creek Blvd and continue on down it until you reach Portal Ave. If you reach Wolf you're too far. Anyhow, turn left onto Portal and continue into the park. We've got the big open area near the entrance reserved. Bring your family and hope for good skies!
 
 ********************
 
-June is election month for the SJAA and the June meeting saw four board members elected for two year terms. They are: Gerry Rattley, Phil Hermsmeyer, Chet Pratt, and Frank Dibbell. The term is retroactive to May 1 so Fingerhut's will see the board members electing the officers for the next two years. The names and addresses of all seven of the board and all the officers will be published in the August bulletin along with the club's mailing list.
+June is election month for the SJAA and the June meeting saw four board members elected for two year terms. They are: Gerry Rattley, Phil Hermsmeyer, Shel Pratt, and Frank Dibbell. After the elections, the new Bob Fingerhut's will see the board members electing the officers for the next two years. The names and addresses of all seven of the board and all the officers will be published in the August bulletin along with the club's mailing list.
 
-Which brings to mind, if you haven't renewed as of yet, please do so. Dues is $18 a year, $12 for those under 12 years of age, with both types including a subscription to Sky and Telescope. SJAA Treasurer is Phil Hermsmeyer, 20900 Alves Dr. Cupertino, 95014. If you have a renewal card from Sky & Tel send it along with the dues.
+Which brings to mind, if you haven't renewed as of yet, please do so. Dues is $18 a year, $12 for those under 12 years of age, with both types including a subscription to Sky and Telescope. SJAA Treasurer is Phil Hermsmeyer, 20900 Alves Dr. Cuperdno. 95014. If you have a renewal card from Sky & Tel send it along with the dues.
+
+2.
 
 === PAGE 3 ===
 Members News:
@@ -133,14 +123,14 @@ Finally we graduated into polishing and had to
 work at the Chabot workshop because of the local-
 ity of Paul Zurakowski's tester and eagle (and
 trusted) eye. So there we were, side by side since
-noon, grinding and grinding away, growling at
-sleeks, and zones, and high there was no teaser,
-or no Paul, to show us the shape of the mirror over
+8:30 that night, swishing away, growling at
+sleeks, and zones, and night there was no tester,
+or no Paul, to show us the progress we made over
 the last hour. (By that time it was polish an
 hour, test, polish fifteen minutes, test, wait
 till next week....) Somewhere along the line Bob
 picked up a hole in the middle while I couldn't
-get rid of a turned-up edge. For MONTHSI we were
+get rid of a turned-up edge. For MONTHS! we were
 unable to show much improvement, but we knew we
 were getting close. (Close, in amateur telescope
 making can be anywhere from 1 minute to 6 months.
@@ -154,12 +144,12 @@ president of the Stockton club, wrestling with
 his six inch. All close but not there.
 
     June 20th was like a production line of
-mirrors all waiting to rave :verett scale measur-
-ements were taken of each in turn. First my
+mirrors all waiting to rave 'verott scale measur-
+ements and be delivered. Truth, first my
 fourteen went through it and while Kevin reduced
-the data down to understandable numbers, Bob got
+the data down to understandable form, Bob got
 his read. Then Dennis'. Anticipation, hope, and
-then the word came out. Eight-wave! Finished!
+then the word came out. Eighth-wave! Finished!
 DONE! Celebration by all. It was a record night
 for the workshop but Bobby, Dennis, and I really
 didn't see it that way, nor that we all had dif-
@@ -172,7 +162,7 @@ forget it. I know I won't.
     I want to thank everyone who contributed
 to this month's bulletin and responded so well
 to my call for technical articles. There's a
-lot of good information in here :his month—
+lot of good information in here this month—
 enjoy using it and hope to see you at the next
 star party!
                                         Denni
@@ -182,7 +172,7 @@ August bulletin deadline is July 20th.
 _____________________________________________
 
 The Glasspool Observing Site
-             by Wolf Hamlsch
+                    by Wolf Hamisch
 
     Sometime ago Dick Glasspool invited the
 SJAA to use his twenty acre mountain site in
@@ -190,10 +180,10 @@ the Santa Cruz Mountains for our star parties.
 
 On June 11 Carey Hattley and I went to visit
 him and check out the site. After driving
-over five miles of dirt road we arrived
-at his mountain home. The site located at
-2100 feet and has excellent Ie 18 located at
-A 360 high ridge blocks the lights of San Jose
+the last 14 miles on dirt roads, we arrived
+at his mountain home. The site is located at
+2100 feet and has excellent seeing and skies.
+A 30° high ridge blocks the lights of San Jose
 in the north and Polaris just peeks over the
 ridge. We have one -10 magnitude houselight
 in the distance which we'll try to get turned
@@ -213,11 +203,11 @@ snakes.
 these mountains—therefore No open
 fires and smoking only in your vehicle.
 
-    110V lines—ever is available for driving
+    110V linecouet is available for driving
 scopes only (No T.V., refrigerators,
-robots, heaters, electric chairs, etc.)
+robots, heaters, electric chairs, etc.)'
 
-    Use the phone only for emergencies.
+Use the phone only for emergencies.
 
     Don't run over the volleyball net—
 lift out the pole and set it against
@@ -238,9 +228,7 @@ attached map..
 Many thanks again to Dick Glasspool from the
 SJAA for his generous offer.
 
-[THIS MAP/FIGURE: A hand-drawn map showing directions to Glasspool Site at I"~2 Aue with landmarks including phone number 353-4320, route markers, roads (Springs Road, Caluillo Road, etc.), and various directional notes. Map includes text noting "DO NOT TAKE Much-nu Tulo AnzirRan SAMS" and "Cable Crosses road" with coordinates marked as "6-6-16"]
-
-3.
+[THIS IS FIGURE: A hand-drawn map showing directions to Glasspool site, including roads like Springs Road, Alma Bridge, Calivillo Road, and cable crossings. The map shows route from Highway 17 with various turns and landmarks noted.]
 
 === PAGE 4 ===
 # occulting zone
@@ -250,19 +238,19 @@ SJAA for his generous offer.
 The two July occultations of planets by the moon are also described in Sky and Telescope. The following numbers are for the San Jose area.
 
 ## Venus
-Wed. July 9
+**Wed. July 9**
 11:21:12 am
 11:23:28 am
 12:34:13 pm
 12:36:25 pm
-32 deg.
-62; 73
-70; 61
-50; 291
+32        deg.
+62;    73
+70;    61
+50;   291
 -63N; +56N
-5%, decreasing
+8%, decreasing
 
-Times, PDT
+**Times, PDT**
 1st contact
 2nd contact
 3rd contact
@@ -275,34 +263,35 @@ C.A. at D; R
 Moon illumination
 
 ## Jupiter
-Tue. July 15
+**Tue. July 15**
 8:31:13 pm
 8:32:34 pm
 9:31:23 pm
 9:32:37 pm
-45 deg.
--1; -12
-26; 14
-89; 317
+45        deg.
+-1;   -12
+26;    14
+89;   317
 +68N; -64N
 15%, increasing
 
-Venus, 2h14m west and 4 deg. 22' south of the sun, will be visible with binoculars, but clamp them so you don't accidentally wobble onto the Sun. Remember, too, that the Sun is moving toward your field of view. The sky should still be fairly bright, since Venus is only a few percent, apparent 1st and 3rd contacts will be later than given, by perhaps a minute. Watch for the horns to go first. The moon should be visible if the sky is clear.
+Venus, 2h14m west and 4 deg. 22' south of the sun, will be visible with binoculars, but clamp them so you don't accidentally wobble onto the Sun. Remember, too, that the Sun is moving toward your field of view. If not visible in daytime, since Venus is only a few percent, apparent 1st and 3rd contacts will be later than given, by perhaps a minute. Watch for the horns to go first. The moon should be visible if the sky is clear.
 
 Jupiter is better situated, the sun having just set, but the Galilean satellites will not be seen at immersion. Reappearing will be Callisto, Ganymede, Io, Jupiter, then Europa. Callisto will precede Jupiter by maybe 15-20 minutes. Satellites will take about 2 sec. to reappear. The Red Spot will be 45 min. past at immersion, lost in the bright sky.
 
 ---
 
-## COMET COMMETS
+# COMET COMMETS
 
 At this time there are no new comets discoveries or recoveries. Moreover, there are no known comets bright enough for the amateur to observe. We can be fairly certain, however, that this Autumn will bring two and possibly three returning periodic comets within the small telescope's range. Additionally, at any time a new discovery may come along that could be visible to us, too. We'll see.
 
-### Comets In Their Eyes:
-William F. Denning (1848-1931) England. Between 1881-1894 this amateur discovered five comets. Using a 10" reflector at 40A, a 1.0° field, it took 119 hours of searching for each comet. William was different than most comet hunters in at least three ways: first, visual rather than a reflector. Secondly, he counted and published the number of hours it took for each discovery. Third: he is probably better known for his meteor counts ( both visual and telescopic) than for his comets.
+## Comets In Their Eyes:
+
+William F. Denning (1848-1931) England. Between 1881-1894 this amateur discovered five comets. Using a 10" reflector at 40A, a 1.0° field, it took 119 hours of searching for each comet. William was different than most comet hunters in at least three ways: first, he was a rather than a "refractor. Secondly, he counted and published the number of hours it took for each discovery. Third: he is probably better known for his meteor counts ( both visual and telescopic) than for his comets.
 
 One of Denning's comets, discovered by him in 1881, was recovered quite accidently in Oct. 1978 by Fujikawa of Japan. It was later determined that this comet made 11 revolutions (un-noticed) during these years.
 
-**Rolf Meier (1954- )** Canada. This amateur has discovered two comets. The first was in late April, 1978 at 10.7 mag. in the evening sky. This was the first comet ever discovered by someone in Canada. Also, it was quite far from both the sun and earth (3 A.U.) at discovery. It took some 50 hours of sweeping in three years. The second find was in July 1979—at mag. 11.5 in the evening sky again. This one took an additional 20 hours of sweeping. Rolf used a 16" f/5 reflector, 35X, 14° field telescope (owned by the Royal Astronomical Society of Canada) for both finds. Sweeping from Ottawa, Rolf seems to confine his searching to the polar regions. His profession, incidently, is electronics.
+Rolf Meier (1954-    ) Canada. This amateur has discovered two comets. The first was in late April, 1978 at 10.7 mag. in the evening sky. This was the first comet ever discovered by someone in Canada. Also, it was quite far from both the sun and earth (3 A.U.) at discovery. It took some 50 hours of sweeping in three years. The second find was in July, 1979—at mag. 11.5 in the evening sky again. This one took an additional 20 hours of sweeping. Rolf used a 16" f/5 reflector, 35X, 1°.4° field telescope (owned by the Royal Astronomical Society of Canada) for both finds. Sweeping from Ottawa, Rolf seems to confine his searching to the polar regions. His profession, incidently, is electronics.
 
 Don Machholz
 448-7077
@@ -312,160 +301,43 @@ Don Machholz
 === PAGE 5 ===
 ASTROPHOTOGRAPHY
 
-Have you ever wanted to take pictures
-like the ones taken with the Palomar 200 inch?
-That type of astrophotography is done "prime
-focus" and will be the subject of this month's
-article.
-I will not delude you into thinking that
-you can match the 200 inch's pictures but you
-can take some beautiful astrophotos with an
-amateur telescope. Just check the club display
-board or the captions under many of the pictures
-in Astronomy and Sky and Telescope.
-I started out doing prime focus photo-
-graphy with an old Nikon F camera body on a
-Celestron telescope. Though many fine photos
-have been taken by people using f/5 Newtonians
-and ordinary film it did not work with an f/10
-telescope. The reason was that at f/10 the light
-intensity was not great enough to reach the
-threshold needed to begin to record most neb-
-ulae and galaxies. Also, reciprocity failure
-in the film, that is, a decreasing ASA, was
-causing the exposure to be just too long (1.5
-to 2 hours). The solution to these problems
-are to either go to a faster f/ telescope or
-sensitize the film to both.
-If you choose to use a fast telescope
-such as an f/5 Cassegrain or an f/5 Nikon P
-will work well. The features which it has
-that are desirable are that you can put some
-very helpful accessories on it. I purchased
-a clear focusing screen ( type W). This is
-needed because a ground glass focusing
-screen makes finding and viewing an object
-and focusing very difficult. With a clear
-focusing screen you get a bright sharp image.
-The other useful accessory is a 6X magnifi-
-cation, full aperture, waist level finder
-with a diopter. The diopter lets me correct
-for my myopic vision. The 6X magnification
-over the full aperture lets me view the entire
-field with astonding clarity. More Neinchel
-once lo~ked at the Miripool Galaxy in my
-camera on a 5 inch Celestron and said, "My
-God, it looks like it's on TV!" The waist
-level feature is handy for looking into the
-eyepiece and not bumping your head on the
-cassegrain. My fat head won't fit between
-the camera and the forks. It also has a
-minimum of light absorbing surfaces.
-Untreated film that will work with
-an f/5 telescope are few. Black and white
-films such as spectroscopic 103a films are
-good but grainy. I have been hearing some
-good things about 5011S but I have not
-tried it yet. The Ektachrome 200 and 400
-films should work for those who like color.
-Exposures would be about one hour.
-The requirements on the telescope for
-prime focus photography are many. You must have
-a good polar alignment. A right ascension drive
-and corrector are necessary and at least a manual
-declination adjustment is needed. A guide scope
-is needed which gives at least 10 times the mag-
-nification that the camera sees. It can be an
-external telescope rigidly mounted to the main
-scope or an off-axis guider. (An off-axis guider
-intersepts the cone of light going to the film
-and diverts a small percentage of it with a
-prism to a guiding eyepiece. The guiding eye-
-piece should have an illuminated reticle on
-which to position an object so that the ob-
-ject is being recorded by the film.
-The most important accesory you will
-need though is your own patience. Fine prime
-focus photos are made by people who have learned
-and practiced the techniques and are willing
-to work hard and be patient.
+Have you ever wanted to take pictures like the ones taken with the Palomar 200 inch? That type of astrophotography is done "prime focus" and will be the subject of this month's article.
 
-Next month I will get into some of the
-techniques for sensitizing film for people
-with slow telescopes. (Celestron owners please
-be patient,) and will also discuss some of the
-techniques used to get a good polar alignment
-and a good focus.
+I will not deluge you into thinking that you can match the 200 inch's pictures but you can take some beautiful astrophotos with an amateur telescope. Just check the club display board or the captions under many of the pictures in Astronomy and Sky and Telescope.
+
+I started out doing prime focus photo-graphy with an old Nikon F camera body on a Celestron telescope. Though many fine photos have been taken by people using f/5 Newtonians and ordinary film it did not work with an f/10 telescope. The reason was that at f/10 the light intensity was not great enough to reach the threshold needed to begin to record most neb-ulae and galaxies. Also, reciprocity failure in the film, that is, a decreasing ASA, was causing the exposure to be just too long (1.5 to 2 hours). The solution to these problems are to either go to a faster f/ telescope or sensitize the film to both.
+
+I now chose to use a faster telescope such as an f/5 Cassegrain as has my Nikon P will work well. The features which it has that are desirable are that you can put some very helpful accessories on it. I purchased a clear focusing screen ( type N). This is needed because a ground glass focusing screen makes finding and viewing an object and focusing very difficult. With a clear focusing screen you get a bright prime image. The other useful accessory is a 6X magnifi-cation, full aperture, waist level finder with a diopter. The diopter lets me correct for my myopic vision. The 6X magnification over the full aperture lets me view the entire field with astonding clarity. More Neinchel once looked at the M109al Galaxy in my camera on a 5 inch Celestron and said, "My God, it looks like it's on TV!" The waist level feature is handy for looking into the camera since it keeps me from bumping the cassegrain. My fat head won't fit between the camera and the forks. It also has a minimum of light absorbing surfaces.
+
+Untreated film that will work with an f/5 telescope are few. Black and white films such as spectroscopic 103a films are good but grainy. I have been hearing some good things about SO115 but I have not tried it yet. The Ektachrome 200 and 400 films should work for those who like color. Exposures would be about one hour.
+
+The requirements on the telescope for prime focus photography are many. You must have a good polar alignment. A right ascension drive and corrector are necessary and at least a manual declination adjustment is needed. A guide scope is needed which gives at least 10 times the magnification that the camera sees. It can be an external telescope rigidly mounted to the main scope or an off-axis guider. (An off-axis guider intersepts the cone of light going to the film and diverts a small percentage of it with a guiding telescope or eyepiece. The guiding eye-piece should have an illuminated reticle on which to position the guide star so that the ob-ject is being recorded by the film.
+
+The most important accessory you will need though is your own patience. Fine prime focus photos are made by people who have learned and practiced the techniques and are willing to work hard and be patient.
+
+Next month I will get into some of the techniques for sensitizing film for people with slow telescopes. (Celestron owners please be patient,) and will also discuss some of the techniques used to get a good polar alignment and a good focus.
 
 Bobby Fingerhut
 
+"Why does it always have to be my board meeting?" Gerry Rattley
 
-"Why does it always have to be my board meeting?"
-Gerry Rattley
+*****************************
 
-*******************************
+Using Filters in Amateur Astronomy by Wayne Blomohl
 
+Filters are not always necessary, but when you do use them you should know the abilities of different filters.
 
-Using Filters in Amateur Astronomy
-by Wayne Bloechl
+One thing to remember is that filters should not be used on faint objects, for they tend to blot out the object itself.
 
-Filters are not always necessary, but
-when you do use them you should know the
-abilities of different filters.
-One thing to remember is that filters
-should not be used on faint objects, for they
-tend to blot out the object itself.
-When using filters for astrophotography
-you should place the filter as close to the
-film as possible, but not behind the lens
-(most cameras have threads into which the
-filters screw on, in front of the lens.)
-The filter or filters should be parallel
-to the film plane. This allows maximum
-transmission of the desired colors. Another
-rule of astrophotography concerns refractors
-only. When using panchromatic or orthochro-
-matic film, a yellow filter should be used.
-in most cases. By experimentation you will
-learn when the filter should be used, but
-remember that dim objects may become even
-dimmer by the introduction of the filter. The
-yellow filter absorbs blue light, which comes
-to a different focus. Since photographic
-film is very sensitive to blue light, it
-must be filtered or, or the star images be-
-come larger. Reflectors need not use the
-yellow filter because all colors come to the
-same focus.
-A bonus of using a camera with filters
-is that you can photograph dim objects like
-galaxies and planetary nebula in different
-colors. Thos works well because the film can
-record for a long period of time whereas your
-eye does not record the photons as they strike.
-Some interesting work has been done with taking
-several pictures to produce a single color
-picture. In most aspects th's method produces
-a better picture.
-Now let's go on to the filters them-
-selves. The light from the Moon is scattered
-by the at~osphere. This glare can be greatly
-reduced by using a yellow filter. Yellow
-filters also help on splitting close double
-stars especially where the primary is very
-much brighter than the companion star. Such
-as example is Iota Ursa Majoris; the primary
-is magnitude );1 :ind the companion is magni-
-tude 10.8, at five arc seconds away.
-Red filters are helpful for daytime
-observations of the planets and Moon. The
-filter stops the blue and allows the other
-colors to come through. :ted filters also work
-well on red markings such as the Great Red
-Spot and Mars.
-Blue filters bring out faint white or
-near white markings. On Mars the blue filter
-will help bring out the ice caps and the high
+When using filters for astrophotography you should place the filter as close to the film as possible, but not behind the lens (most cameras have threads into which the filters screw on, in front of the lens.) The filter or filters should be parallel to the film plane. This allows maximum transmission of the desired colors. Another rule of astrophotography concerns refractors only. When using achromatic or orthochro-matic filters a color filter should be used, in most cases. By experimentation you will learn when the filter should be used. I will remember that dim objects may become even dimmer by the introduction of a filter. The yellow filter absorbs blue light, which comes to a different focus. Since photographic film is very sensitive to blue light, it must be filtered or, or the star images be-come larger. Reflectors need not use the yellow filter because all colors come to the same focus.
+
+A bonus of using a camera with filters is that you can photograph dim objects like galaxies and planetary nebula in different colors. Thos works well because the film can record for a long period of time whereas your eye will not record the photons as they strike. Some interesting work has been done with taking several filters to produce a single color picture. In most aspects th's method produces a better picture.
+
+Now let's go on to the filters them-selves. The light from the Moon is scattered by the at-mosphere. This glare can be greatly reduced by using a yellow filter. Yellow filters also help on splitting close double stars especially where the primary is very much bri~hter than the companion star. Such as example is Iota Ursa Majoris( the primary is magnitude j.l nnd the companion is magni-tude 10.8, at five arc seconds away.
+
+Red filters are helpful for daytime observations of the planets and Moon. The filter stops the blue and allows the other colors to come through. Red filters also work well on red ~arkings such as the Great Red Spot and Mars.
+
+Blue filters bring out faint white or near white markings. On Mars the blue filter will help bring out the ice caps and the high
 
 5.
 
@@ -484,9 +356,9 @@ ized light of the sun and allow unpolarized,
 reflected light to pass through.
 
 You must remember that there are dif-
-ferent shades of filters for each. Try
+ferent shades of filters for the eye. Try
 as many as possible; experimenting with the
-filters in different combinations may
+different shades and combinations may
 give you a glimpse of something you've never
 seen or never though you would.
 
@@ -514,7 +386,7 @@ polar caps and high clouds.
 Jupiter, king of the planets, offers
 something for everyone. In similar words, try
 than all! With the variety of colors on the
-king, ·each filter shoulf highlight or bring
+king, each filter should highlight or bring
 out something new. On the Great Red Spot try
 blue—it blots the red, leaving a dark oval
 spot. Red also helps on the Spot but blue
@@ -534,59 +406,61 @@ or without filters.
 Galaxies and nebula are not very im-
 pressive through filters because they have
 such low surface brightness. However, as
-much as 50% of all photographic work in this
-area has been highly productive. Nebular
+most of my astrophotographic work in this
+area has been highly productive, Nebular
 filters will enhance productivity there,
-but I am not going to talk about them because
-they are an ar'icle themselves. Astronomy,
-March, 1979 had a good article on them
+but I am not going talk about them because
+they are an article themselves. Astronomy,
+March, 1979 had a good article on them.
 
 Filters may be purchased from Meade
-or Crosoptics. but let's patronize our
+or Crosoptics, but let's patronize our
 local distributors. Below are some local
 distributors phone numbers. Also below
 there are two books listed which may help
 the person who wants to learn more.
 
-Orion Telescope Center 476-0715 Capitola
-Unitron Systems 203-.0422 day, 92J-6800 eve.
-Peninsula Scientific 326-1196 Palo Alto
-Optica b/c 530-1214 Oakland
-Telescope World 538-0815 Hayward
+Orion Telescope Center 476-8715 Capitola
+Unitron Systems 203-5422 day, 921-6800 eve.
+Peninsula Scientific 326-1176 Palo Alto
+Optics b/o   530-1214 Oakland
+Telescope World   538-0815 Hayward
 
 The Amateur Astronomer and His Telescope
-by Gunter Roth
+        by Günter Roth
 Astrofilters for Observation & Astro-
 photography— from Optica b/c
 
 What are you waiting for? - Star planning
 your next observing session. Why not tonight?!
 
-ANSWERS TO LAST MONTH'S SKYWOOD PUZZLE #6
+ANSWERS TO LAST MONTH'S SKYWORD PUZZLE #6
 by Fred Braniff
 
-[THIS IS A CROSSWORD PUZZLE: A completed crossword puzzle grid with filled-in answers]
+[THIS IS TABLE: A crossword puzzle grid with filled-in answers]
 
 NEINCHEL'S
 
-PROBLEM -
+PROBLEM —
 
-... OR... HOW TO GET
-THE C-14 TUBE ASSEMBLY
-INTO THE TANK...
+... OR ... HOW TO GET
+THE C.U TUBE ASSEMBLY
+INTO THE TANK ...
 -- AS SOLVED BY:
 
-[THIS IS A CARTOON: Shows three illustrations of a person demonstrating movements, labeled as "- THE MAN OF STEEL...", showing someone exercising, and "- THE ACROBAT..." with acrobatic movements labeled "BWANG"]
+- THE MAN OF STEEL...
+
+[THIS IS FIGURE: Simple stick figure drawings showing someone assembling telescope equipment labeled "THE MAN OF STEEL" and "THE ACROBAT"]
 
 === PAGE 7 ===
-- THE RIDICULOUS...
+— THE ROTICULICIAN...
 
-- THE SAN ANDREAS FAULT...
+— THE SAN ANDREAS FAULT...
 
-- THE TRAINED SEAL...
+— THE TRAINED SEAL...
 
-- ARCHIMEDES... (OR WASN'T IT?)
+— ARCHIMEDES... (OR WASN'T IT?)
 
-- THE AMATEUR ROCKETEER...
+— THE AMATEUR ROCKETEER...
 
-- THE B2ND AIRBORNE....
+— THE B2ND AIRBORNE....

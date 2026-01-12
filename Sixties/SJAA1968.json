@@ -1,0 +1,477 @@
+{
+  "articles": [
+    {
+      "id": "sjaa1968-page-1",
+      "documentId": "sjaa1968",
+      "title": "PAGE 1 ===",
+      "summary": "The San Jose Amateur Astronomers held a meeting on January 22, 1968, where they discussed upcoming events and made decisions about the club. The February meeting will feature a film, a talk on satellite weather pictures, and a progress report on a telescope project.",
+      "categories": [
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "meeting",
+        "February meeting",
+        "NET film",
+        "satellite weather pictures",
+        "12.5 inch telescope"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "sjaa1968-page-2",
+      "documentId": "sjaa1968",
+      "title": "PAGE 2 ===",
+      "summary": "The S.J.A.A. Board of Directors met on February 19, 1968, to discuss various club matters, including the lack of a bill for a film shown at the last meeting and the cancellation of two star parties due to bad weather.",
+      "categories": [
+        "events",
+        "meetings"
+      ],
+      "keywords": [
+        "S.J.A.A.",
+        "star party",
+        "San Jose State",
+        "Telescope clock drives",
+        "Sky and Time"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "sjaa1968-page-3",
+      "documentId": "sjaa1968",
+      "title": "PAGE 3 ===",
+      "summary": "The San Jose Amateur Astronomer's Club is hosting a meeting at the Leininger Community Center to show the movie 'The Invisible Planet' and feature a presentation by Greg Toben on receiving weather satellite pictures.",
+      "categories": [
+        "events",
+        "astronomy"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomer's Club",
+        "The Invisible Planet",
+        "Barnard's star",
+        "weather satellite pictures"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "sjaa1968-page-4",
+      "documentId": "sjaa1968",
+      "title": "PAGE 4 ===",
+      "summary": "The S.J.A.A. Board of Directors met on March 15, 1968, to discuss upcoming events and proposals, including a publicized observing session for the April 12 moon eclipse and plans for fund-raising through photo-murals from Sky Sets.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "S.J.A.A.",
+        "astronomy",
+        "moon eclipse",
+        "fund-raising",
+        "Sky Sets"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "sjaa1968-page-5",
+      "documentId": "sjaa1968",
+      "title": "PAGE 5 ===",
+      "summary": "The April meeting of S.J.A.A. will feature a talk by Mr. Lewis Haugney on an airborne aurora expedition in Canada, and the program for the May meeting will be a review of the April 12 moon eclipse with members' photographs.",
+      "categories": [
+        "news",
+        "events",
+        "observing reports"
+      ],
+      "keywords": [
+        "NASA",
+        "Ames Research Center",
+        "airborne aurora",
+        "moon eclipse",
+        "S.J.A.A."
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "sjaa1968-page-6",
+      "documentId": "sjaa1968",
+      "title": "PAGE 6 ===",
+      "summary": "The S.J.A.A. Board of Directors met on May 17, 1968 to discuss proposed amendments, nominations for the Nominating Committee, and upcoming events such as star parties and the Annual Banquet.",
+      "categories": [
+        "meeting minutes",
+        "astronomy club",
+        "event planning"
+      ],
+      "keywords": [
+        "S.J.A.A.",
+        "amendment",
+        "elections",
+        "star party",
+        "annual banquet"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "sjaa1968-page-7",
+      "documentId": "sjaa1968",
+      "title": "PAGE 7 ===",
+      "summary": "The article presents a proposed amendment to the bylaws of the San Jose Amateur Astronomers (SJAA) regarding club dues and membership subscriptions. The proposal aims to implement a fiscal year system, with quarterly payment deadlines for dues and magazine subscriptions.",
+      "categories": [
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "bylaws amendment",
+        "fiscal year system",
+        "club dues",
+        "Sky and Telescope magazine subscription"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "sjaa1968-page-8",
+      "documentId": "sjaa1968",
+      "title": "PAGE 8 ===",
+      "summary": "The S.J.A.A. held its June business meeting, where new board members were elected and positions assigned. A star party was planned for July 27 at Fremont Peak State Park. The meeting also discussed the production of the Bulletin.",
+      "categories": [
+        "events",
+        "organizational meetings"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "board members",
+        "elections",
+        "star party",
+        "Fremont Peak State Park"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "sjaa1968-page-9",
+      "documentId": "sjaa1968",
+      "title": "PAGE 9 ===",
+      "summary": "The San Jose Amateur Astronomers are requesting Dr. John G. Phillips to deliver the Morrison Lecture at their Annual Banquet on July 13, 1968. The society had a positive response to his previous lecture and wants him to speak again.",
+      "categories": [
+        "news",
+        "events"
+      ],
+      "keywords": [
+        "Dr. John G. Phillips",
+        "Morrison Lecture",
+        "San Jose Amateur Astronomers",
+        "Annual Banquet"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "sjaa1968-page-10",
+      "documentId": "sjaa1968",
+      "title": "PAGE 10 ===",
+      "summary": "A letter from the University of California, Berkeley Astronomy Department to a San Jose Amateur Astronomers member requesting information about their Morrison Lecture and discussing arrangements for the event.",
+      "categories": [
+        "correspondence",
+        "astronomy",
+        "university",
+        "event"
+      ],
+      "keywords": [
+        "University of California, Berkeley",
+        "Morrison Lecture",
+        "San Jose Amateur Astronomers"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "sjaa1968-page-11",
+      "documentId": "sjaa1968",
+      "title": "PAGE 11 ===",
+      "summary": "The San Jose Amateur Astronomers cancel the Morrison Lecture for their Annual Banquet, instead opting for a local speaker. The decision is made in cooperation with Dr. Whitford and is seen as a private event for members. A possibility exists that a Morrison Lecture may be requested for a future regular meeting.",
+      "categories": [
+        "news",
+        "events"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Morrison Lecture",
+        "Annual Banquet"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "sjaa1968-page-12",
+      "documentId": "sjaa1968",
+      "title": "PAGE 12 ===",
+      "summary": "Newell Trask of the U.S. Geological Survey has agreed to give a talk at an upcoming banquet.",
+      "categories": [
+        "events",
+        "news",
+        "people"
+      ],
+      "keywords": [
+        "U.S. Geological Survey",
+        "banquet",
+        "Newell Trask"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "sjaa1968-page-13",
+      "documentId": "sjaa1968",
+      "title": "PAGE 13 ===",
+      "summary": "A planning meeting for the SJAA (San Jose Astronomy Association) was held on July 15, 1968. Decisions were made regarding future meetings and events.",
+      "categories": [
+        "events",
+        "meeting minutes"
+      ],
+      "keywords": [
+        "SJAA",
+        "planning meeting",
+        "monthly meetings"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "sjaa1968-page-14",
+      "documentId": "sjaa1968",
+      "title": "PAGE 14 ===",
+      "summary": "This article appears to be a meeting minutes document from the San Juan Astronomical Association, covering a monthly meeting on August 5, 1968. The discussion includes various astronomy-related topics and upcoming events.",
+      "categories": [
+        "events",
+        "meeting_minutes",
+        "astronomy"
+      ],
+      "keywords": [
+        "San Juan Astronomical Association",
+        "meeting_minutes",
+        "astronomy",
+        "Sagittarius Area",
+        "Perseid Meteor Shower",
+        "starparty"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "sjaa1968-page-15",
+      "documentId": "sjaa1968",
+      "title": "PAGE 15 ===",
+      "summary": "The article discusses two meetings held by a group in August 1968, outlining their decisions and plans for future regular meetings.",
+      "categories": [
+        "meeting reports",
+        "organizational decisions"
+      ],
+      "keywords": [
+        "meeting",
+        "August 1968",
+        "regular meeting",
+        "planning meeting",
+        "decisions"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "sjaa1968-page-16",
+      "documentId": "sjaa1968",
+      "title": "PAGE 16 ===",
+      "summary": "The article discusses the International Astronomical Union (IAU) Convention and a preliminary report on the Perseid meteor shower. It also mentions an upcoming star party event in September.",
+      "categories": [
+        "events",
+        "observing reports"
+      ],
+      "keywords": [
+        "IAU Convention",
+        "Perseid meteor shower",
+        "star party"
+      ],
+      "pageStart": 16,
+      "pageEnd": 16
+    },
+    {
+      "id": "sjaa1968-page-17",
+      "documentId": "sjaa1968",
+      "title": "PAGE 17 ===",
+      "summary": "The article is the minutes of a planning meeting for an astronomy club, discussing topics such as eclipse photography, observing methods, and club budget. The meeting decided on the program and schedule for the October meetings, including a star party.",
+      "categories": [
+        "events",
+        "club news",
+        "meeting minutes"
+      ],
+      "keywords": [
+        "eclipse photography",
+        "astronomy club",
+        "planning meeting"
+      ],
+      "pageStart": 17,
+      "pageEnd": 17
+    },
+    {
+      "id": "sjaa1968-page-18",
+      "documentId": "sjaa1968",
+      "title": "PAGE 18 ===",
+      "summary": "The SJAA regular meeting discussed the possibility of speakers and an observing section period. A questionnaire was also proposed for the October meeting.",
+      "categories": [
+        "meeting minutes",
+        "astronomical society"
+      ],
+      "keywords": [
+        "SJAA",
+        "speakers",
+        "observing",
+        "questionnaire"
+      ],
+      "pageStart": 18,
+      "pageEnd": 18
+    },
+    {
+      "id": "sjaa1968-page-19",
+      "documentId": "sjaa1968",
+      "title": "PAGE 19 ===",
+      "summary": "The secretary of the San Jose Amateur Astronomers club requests Dr. John G. Phillips to deliver a Morrison Lecture on comets, planets, or deep-space topics at their December meeting.",
+      "categories": [
+        "correspondence",
+        "requests",
+        "astronomy"
+      ],
+      "keywords": [
+        "Morrison Lecture",
+        "San Jose Amateur Astronomers",
+        "comets",
+        "planets",
+        "deep space"
+      ],
+      "pageStart": 19,
+      "pageEnd": 19
+    },
+    {
+      "id": "sjaa1968-page-20",
+      "documentId": "sjaa1968",
+      "title": "PAGE 20 ===",
+      "summary": "The article is a letter from the Berkeley Astronomy Department to the San Jose Amateur Astronomers, discussing arrangements for a Morrison Lecture with Dr. R.P. Kraft on December 6, 1968.",
+      "categories": [
+        "correspondence",
+        "astronomy",
+        "education"
+      ],
+      "keywords": [
+        "Morrison Lecture",
+        "Dr. R.P. Kraft",
+        "San Jose Amateur Astronomers",
+        "Astronomical Society of the Pacific"
+      ],
+      "pageStart": 20,
+      "pageEnd": 20
+    },
+    {
+      "id": "sjaa1968-page-21",
+      "documentId": "sjaa1968",
+      "title": "PAGE 21 ===",
+      "summary": "A letter from Jeffrey D. Scargle, a junior astronomer at Lick Observatory, accepting an invitation to give a lecture on 'Activity in the Crab Nebula' to the San Jose Amateur Astronomers Society.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "Crab Nebula",
+        "Morrison Lecture"
+      ],
+      "pageStart": 21,
+      "pageEnd": 21
+    },
+    {
+      "id": "sjaa1968-page-22",
+      "documentId": "sjaa1968",
+      "title": "PAGE 22 ===",
+      "summary": "A letter from the San Jose Amateur Astronomers to Jeffrey D. Scargle, inviting him to speak at their December meeting about his talk on 'Activity in the Crab Nebula'.",
+      "categories": [
+        "correspondence",
+        "events"
+      ],
+      "keywords": [
+        "Jeffrey D. Scargle",
+        "Crab Nebula",
+        "San Jose Amateur Astronomers"
+      ],
+      "pageStart": 22,
+      "pageEnd": 22
+    },
+    {
+      "id": "sjaa1968-page-23",
+      "documentId": "sjaa1968",
+      "title": "PAGE 23 ===",
+      "summary": "The article appears to be a partial and illegible document, likely a page from a larger report or note. It mentions a request for a specific item (a slide projector) and contains handwritten text that is not legible. The purpose of the document is unclear.",
+      "categories": [
+        "document",
+        "note"
+      ],
+      "keywords": [
+        "slide projector",
+        "handwritten"
+      ],
+      "pageStart": 23,
+      "pageEnd": 23
+    },
+    {
+      "id": "sjaa1968-page-24",
+      "documentId": "sjaa1968",
+      "title": "PAGE 24 ===",
+      "summary": "A planning meeting for a group was held on October 18, 1968, where events were planned and discussions took place about the construction of a 12½\" telescope. The next planning meeting was scheduled for November 15, 1968, at Don Summers' house.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "meeting",
+        "planning",
+        "telescope",
+        "construction"
+      ],
+      "pageStart": 24,
+      "pageEnd": 24
+    },
+    {
+      "id": "sjaa1968-page-25",
+      "documentId": "sjaa1968",
+      "title": "PAGE 25 ===",
+      "summary": "The article mentions an upcoming lecture on the Crab Nebula by Dr. Scargle at Foothill College, as well as a planning meeting for Sunparty on December 20th.",
+      "categories": [
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "Crab Nebula",
+        "Sunparty",
+        "Foothill College"
+      ],
+      "pageStart": 25,
+      "pageEnd": 25
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa1968",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA1968.pdf",
+      "txtPath": "SJAA1968.txt"
+    }
+  ]
+}

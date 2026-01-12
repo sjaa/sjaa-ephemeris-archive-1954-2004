@@ -1,0 +1,97 @@
+{
+  "articles": [
+    {
+      "id": "sjaa1966-san-jose-amateur-astronomy-club-meeting-minutes",
+      "documentId": "sjaa1966",
+      "title": "San Jose Amateur Astronomy Club Meeting Minutes",
+      "summary": "The San Jose Amateur Astronomy Club (SJAA) held meetings and events in September and October 1966, discussing topics such as Astro-Photography, film development, and the construction of a 12-inch telescope. The club also attended an open-house event at Lick Observatory on October 14.",
+      "categories": [
+        "meeting minutes",
+        "astronomy club",
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomy Club",
+        "SJAA",
+        "Lick Observatory",
+        "Astro-Photography",
+        "film development",
+        "telescope construction"
+      ],
+      "pageStart": 16,
+      "pageEnd": 18
+    },
+    {
+      "id": "sjaa1966-letter-from-us-department-of-the-interior-to-san-jose-amateur-astronomy-club",
+      "documentId": "sjaa1966",
+      "title": "Letter from US Department of the Interior to San Jose Amateur Astronomy Club",
+      "summary": "The article details the activities of the San Jose Amateur Astronomy Club (SJAA) in 1966, including planning meetings, talks by guest speakers, and discussions about the club's future telescope construction. The article also includes a letter from the US Department of the Interior to the SJAA regarding a speaker for their January meeting.",
+      "categories": [
+        "news",
+        "technical",
+        "astronomy"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomy Club",
+        "US Department of the Interior",
+        "Geology of the Moon",
+        "Lunar Geology",
+        "Telescope construction"
+      ],
+      "pageStart": 9,
+      "pageEnd": 22
+    },
+    {
+      "id": "sjaa1966-san-jose-amateur-astronomy-club-meeting-minutes-nov-21-1966",
+      "documentId": "sjaa1966",
+      "title": "San Jose Amateur Astronomy Club Meeting Minutes - Nov. 21, 1966",
+      "summary": "The San Jose Amateur Astronomy Club held a meeting on November 21, 1966, discussing topics such as meteor pictures, moon observations, and mailings to other clubs. The club also received a letter from the Geological Survey offering to provide a speaker for a future meeting.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomy Club",
+        "meteor pictures",
+        "moon observations",
+        "Geological Survey",
+        "speaker"
+      ],
+      "pageStart": 9,
+      "pageEnd": 21
+    },
+    {
+      "id": "sjaa1966-san-jose-amateur-astronomy-club-meeting-minutes-dec-19-1966",
+      "documentId": "sjaa1966",
+      "title": "San Jose Amateur Astronomy Club Meeting Minutes - Dec. 19, 1966",
+      "summary": "The San Jose Amateur Astronomy Club held a meeting on Dec. 19, 1966, discussing topics such as earthquakes, the moon's slope angle, and astronomy-related activities. The club also planned future events, including a star party at Foothill College.",
+      "categories": [
+        "events",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomy Club",
+        "moon",
+        "slope angle",
+        "earthquakes",
+        "astronomy",
+        "star party",
+        "Foothill College Observatory"
+      ],
+      "pageStart": 9,
+      "pageEnd": 22
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa1966",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA1966.pdf",
+      "txtPath": "SJAA1966.txt"
+    }
+  ]
+}

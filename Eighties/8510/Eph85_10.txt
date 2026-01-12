@@ -1,41 +1,1127 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7bwX6fmycPATEmE2Y'}]
+# EPHEMERIS
+## OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+# OCTOBER 1985
+
+*************************************************
+**** OCTOBER 5TH ****
+DR. JACK MARLING PRESENTS:
+OBSERVING FROM MAUNA KEA
+8PM
+
+**** NOVEMBER 2ND ****
+SPACE TELESCOPE PROGRESS REPORT
+8PM
+*************************************************
+
+OCTOBER 5 GENERAL MEETING AT THE LOS
+GATOS RED CROSS BUILDING. DR.
+JACK MARLING OF LUMICON WILL
+PRESENT A TALK ON OBSERVING
+FROM MAUNA KEA, MAUNA KEA
+OBSERVATORY. DON'T MISS THIS
+INTERESTING PRESENTATION!
+
+OCTOBER 12 STAR PARTY AT FREMONT PEAK
+STATE PARK. DUSK TILL DAWN.
+
+OCTOBER 19 STAR PARTY AT GRANT RANCH
+COUNTY PARK. DUSK TILL DAWN.
+
+OCTOBER 26 INDOOR STAR PARTY AND BOARD
+MEETING AT THE LOS GATOS RED
+CROSS BUILDING. 8 PM
+
+NOVEMBER 2 GENERAL MEETING AT THE LOS
+GATOS RED CROSS BUILDING.
+THERE WILL BE A LOCKHEED
+ENGINEERING UPDATE ON THE
+HUBBLE SPACE TELESCOPE THAT IS
+CURRENTLY BEING ASSEMBLED IN
+SUNNYVALE. 8 PM.
+
+NOVEMBER 9 FIELD EXPEDITION FOR
+ASTRONOMICAL OBSERVATION
+(RAIN) DUSK TILL DAWN AT HENRY
+COE STATE PARK (DIRECTIONS
+INSIDE)
+
+NOVEMBER 16 FIELD EXPEDITION FOR
+ASTRONOMICAL OBSERVATION TO BE
+HELD AT GRANT RANCH COUNTY
+PARK (WEATHER PERMITTING)
+UPPER AND LOWER SITES. DUSK
+TILL DAWN.
+
+NOVEMBER 23 BOARD MEETING, 8 PM AT CHRIS
+AND SHEA PRATT'S NEW HOME.
+
+CALICO OBSERVATORY
+BY: JIM VAN NULAND
+
+GREAT RED SPOT
+
+Jupiter is looking
+better recently. At
+Calico: Paul Berry,
+Rattley and Paul
+Maxwell, Martin Rene
+Watkins and Bob Rea.
+There is a little more
+color in the Spot: Gerry described it as
+having a reddish copper or metallic rust
+color. Paul points out that the outer
+(southern) edge is quite prominent, making
+the Spot very easy to find. Paul's photo
+shows the Spot brighter than the (light)
+zone to the south. It's not like years
+ago with a brick-red Spot, but it is nice.
+Paul and Gerry find that powers of 100 to
+150 are best, though I prefer 200 or more.
+But this is a personal thing, and also
+dependent on conditions, so try various
+power and decide for yourself.
+
+The Spot's position has been stable, and
+this month's predictions continue without
+adjustment. By year end, Jupiter will be
+too low in the west to observe well,
+though it will be detectable during
+twilight through January, 1986. This
+column will suspend after December, to
+resume in May or June, whenever I recover
+the Spot.
+
+Observation of telluric disks requires
+some care, if airy disks (also called
+"spurious disks" is what you like) are to
+means use a very small telescope! But the
+intent of last month's discussion was
+"real" disks. Next time a 5th-magnitude
+star comes close enough. I will try
+various apertures to determine what is
+needed to clearly tell the star from the
+moons.
+
+Great Red Spot on Meridian PDT/PST
+
+| da mo d | h m | da mo d | h m |
+|---------|-----|---------|-----|
+| M 9 30 | 7 9 pm | Sa 10 19 | 7 51 pm |
+| M 10 2 | 8 50 pm | M 10 21 | 9 35 pm |
+| W 10 4 | 10 31 pm | Th 10 24 | 7 10 pm |
+| F 10 7 | 0 6 am | Sa 10 26 | 8 44 pm |
+| M 10 7 | 8 0 pm | M 10 28 | 9 27 pm |
+| W 10 9 | 9 41 pm | Th 10 31 | 6 51 pm |
+| F 10 11 | 11 19 pm | Sa 11 2 | 8 31 pm |
+| Sa 10 12 | 7 9 pm | Tu 11 5 | 5 59 pm |
+| M 10 14 | 8 47 pm | Th 11 7 | 7 43 pm |
+| W 10 16 | 10 22 pm | Su 11 10 | 5 14 pm |
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7eRML4QbKMHLKQjM2'}]
+SPACE PROGRAM UPDATE
+BY: BOB FINGERHUT
+
+[LOGO: Space shuttle illustration]
+
+LESAT REPAIRED ON SHUTTLE FLIGHT 51-I
+
+The shuttle orbiter Discovery was launched on 27 Aug. The astronauts accomplished their mission of deploying three communication satellites and repairing one that was launched last April. Discovery returned to a pre-dawn landing on 3 Sept at Edwards AFB. The dead satellite, Leasat F3, was repaired during two days of space walks. A failed sequencer was bypassed allowing ground controllers to regain control of the satellite. It will be two months or so before Leasat's booster motor is warmed enough to risk firing it. With propellant was cracked by freezing the rotor will explode. The shuttle was launched with improved heat sensors to prevent the engine loss problem which occurred on the last flight. An early problem occurred, in which the shuttle robot arm and a satellite clam shell enclosure door were damaged. The result was that the Australian satellite, Aussat-1, had to be deployed early and on the same day as the American ASC-1 satellite. The Leasat F4 was also deployed. The damage to the robot arm hampered the Leasat F3 repair by making each motion a separate manual operation. Normally complicated motions are made with an automatic controller.
+
+SPACELAB 2 PRELIMINARY RESULTS
+
+Initial fears that heat had caused fogging of film used to take ultraviolet pictures of the sun has been dispelled. Some fogging did occur on the end of rolls but the majority of the thousands of unique solar images provide clear views of the sun. The odds can competition was won by Coke. The Coke cans dispensed carbonated water at the middle level while the lowest level of carbonation worked best. Higher levels were described as 'frothy, with a slight metallic taste'. None of the cans were refrigerated so 'there was no desire to drain the cans' according to mission commander Gordon Fullerton.
+
+JAPANESE HALLEY'S COMET SATELLITE LAUNCHED
+
+The Planet-A was launched 19 Aug. on a Nissan Motors Mu-3S-2 launch vehicle. The satellite, named Suisei, (meaning comet) will fly past Halley on 8 march 1986 at a distance of 130,000 miles.
+
+JAPANESE SHUTTLE BEING STUDIED
+
+A feasibility study will be conducted in 1986, to be followed by a 6-7 year concept study. A 5000 kg manned or unmanned vehicle which would be launched on an H-2 vehicle is envisioned.
+
+ATLANTIS SCHEDULED FOR OCT. 3 LAUNCH
+
+A flight readiness firing of the three main engines was conducted on Sept. 12. All went well. Mission 51-J will carry a department of defense payload on Atlantis' first mission on Oct. 3.
+
+Challenger is scheduled to carry the German Spacelab D-1 payload on mission 61-A on Oct. 30.
+
+Columbia is scheduled to fly mission 51-C on 20 Dec. with two communications satellites and Materials Science Laboratory MSL-2.
+
+Shuttle landings at Kennedy Space Center may begin again in Jan. or Feb. when orbiters are fitted with improved nose-gear steering capability.
+
+GROUND BREAKING FOR 400-INCH TELESCOPE
+
+Ground breaking for the 400-inch telescope is scheduled for Sept. on top of Mauna Kea in Hawaii. The telescope will have 36 individually controlled hexagonal mirror segments.
+
+ARIANE LAUNCH ON SEPT. 12 FAILS
+
+The 15th mission of Europe's Ariane was scheduled to launch two communications satellites. The booster was destructed after the engine failed during third stage flight.
+
+FIRST TITAN 3 BOOSTER FAILURE
+
+The launch of a military reconnaissance satellite from Vandenberg AFB on 28 Aug. was a failure. It was the first failure of a titan 3 booster in 18 years.
+
+FIRST VANDENBERG SHUTTLE PAYLOAD DECLASSIFIED
+
+The payload for the 20 march 1986 launch has been announced as the TEAL RUBY satellite to detect aircraft from space and the SDI Cirris infrared telescope to obtain atmospheric spectral data.
+
+ICE EXPLORES COMET GIACOBINI-ZINNER
+
+The International Cometary Explorer flew by comet Giacobini-Zinner early in the morning hours of 11 Sept. The spacecraft passed passage through the tail to return data about the particles and fields it encountered.
+
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+THE SUMMER OF 85'
+
+[IMAGE: Binoculars illustration]
+
+The Pleiades are already rising before midnight, announcing the coming of winter and its celestial wonders. At Fremont Peak there's already a chill in the air, meaning colder nights ahead. Time to break out the winter woollies.
+
+And so ends the summer of 1985. An eventful summer observing season that began in April with the long sultry rememberd for its 80' star parties and warm nights. Normally April is a rather soggy month at the Peak, but record breaking temperatures allowed most of us to observe and photograph many of the superlative galaxies overhead. I came away with an entire portfolio of galaxies, some of which I had never seen before. The fine weather also gave Bob Fingerhut an opportunity to run a performance check on his recently completed 16-inch f/4.5 Newtonian reflector. And perform it did, as the telescope provided views unequaled to only by photographs. Needless to say, Bob was quite pleased.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7f53627tbUUSa6XBm'}]
+May found many of us making our annual pilgrimage to Big Bear Lake for the Riverside Telescope Makers Conference. As usually, many unique telescopes were on display along with their unique owners. I was the first given telescope, and Ed, the Cub, displayed my new scope-mounting. It proved on case after I counted 20 people on my Mt. San Jacinto sorry Ed. I didn't mean any harm, but it would have been nice if you had attached a telescope to the mount that we could have look at through! Maybe it wouldn't have mattered since the seeing conditions rated a -10 on the "looking through the bottom of a fish bowl" scale. (PBS) There was also a nicely built observatory on the site this year. A neat two domed structures that housed a C14 and Meade 10-inch reflector. (more on observatory projects later) On the last day of the conference, our own Don Machholz discovered his second comet, after, grueling 1700 hours of searching. Then there was the SCOPE CITY fiasco. Seems that the Scope City people bought up all the Celestron products before the conference started. They then turned around and jacked the price up another 50%! Oh those Capitalist's! But this unfortunate event later turned into the FPOA's windfall, as Celestron donated nearly a truckfull of telescopes to benefit the 30" observatory project at Fremont Peak.
+
+Yosemite's Glacier Point was the setting for a phenomenal new moon weekend in June. Who could forget seeing details in Jupiter's Great Red Spot with the planet only 5 minutes above the eastern horizon! And, those 120X views of Jupiter's moons as seen through my "superior" C8 left passersby speechless! Later that weekend, the Dion head gasket in my Toyota had left me speechless. As it turned out, the SJAM enjoyed the finest viewing of all the scheduled weekends at the Point this summer. Logistical problems in the park spoiled an otherwise perfect weekend. Next summer won't be surprised if we are limited to a maximum of 30 people, with 1 telescope for every 2 occupants per car.
+
+The SJAM gets its tax-exempt status!!!!!!!!!!!!!! After 30 years, the SJAM was finally granted tax-free status, which means that your donations are now tax deductable. (notice that this months bulletin was mailed under the non-profit organization status.)
+
+Don Machholz received the Tuthill comet award at this years July picnic in Grant Ranch Park. Rodger W. Tuthill awards $200 and a plaque to american amateur's who discover comets. Jack Zeiders received the A.B. Gregory award for outstanding services to the SJAM and the community at large. Jack has been an active member of the SJAM for more than 10 years and has assisted a lot of beginners get acquainted with the SJAM. Jack is currently trying to get an introductory astronomy program going at the Red Cross meetings. You can usually find him at the general meetings and the indoor star parties. Jack tells me that he is ready to get started with his introductory astronomy program, so come on out is the indoor star party meetings at the Red Cross building.
+
+100 telescopes gone and $17000 richer, the Fremont Peak Observatory Association August telescope sale was an unexpected success. Nearly 90% of the Celestron donation disappeared in less than 3 hours of frantic buying at Fremont Peak State Park! At least 12 SJAM members ended up going into the observatory building and 30+ inch telescope project. The FPOA chose to have the sale at the Peak in order to popularize the location of the observatory at the park.
+
+September 1985 - cold and wet weather at the peak. Where did our summer go?
+
+This was one of the most memorable summer observing seasons that I can recall. Ahead, Halley's await in the pre-dawn sky. Although still around 14-15th magnitude, many of the large telescope owners in our association should be getting their first look this month. (weather permitting of course) Perhaps the fact that we are in a solar minimum, is the reason for Halley's dimness?
+
+MONSTER STAR PARTY AT FREMONT PEAK or? NIGHT OF THE COMET
+
+Hundreds of astronomy enthusiast's converged upon Fremont Peak state park on September 14th for the combined conference and star party. Comets AAMU this weekend would be the first time that we would see comet Halley. The comet would be well positioned in the east at 3 a.m. in the constellation Orion.
+
+By 3 p.m. Coulter Camp was already filling up with cars and telescopes. By 6 p.m. the place was a mad house of people milling about, and cars parked everywhere. I did a quick attendance count, and stopped at 400. Both the upper and lower parking lots were full and people started parking along the entrance road leading into the park. In 10 years of going to the "Peak" I have never seen so many people before. Still, there were a lot of familiar faces missing from the crowd. I imagine that a lot of observers stayed away anticipating a large group.
+
+The AANC gave away a number of door prizes. Books on Halley's, a flexible star chart that could also double as a Frisbee, a 6-inch refractor telescope, and a nights observing with the 30-inch telescope were donations from the FPOA.
+
+Kevin Medlock brought down his 18-inch Newtonian telescope. We hadn't seen this telescope for nearly 3 years since the polishing accident. I did not get a chance to look through it that evening, but good reports filtered over to me from observers. Now I wonder if Kevin would trade a Questar for it?
+
+Frank Dibbell reports seeing Stefan's Quintet through his 3.5-inch fluorite refractor. He claims that the observations were confermed by Jay Freeman, Bob Fimgehchi and a host of others. An informant tells me of witnessing several pay-offs by Frank to these people! California Cooler's do wonders for night vision Frank! (More about this in next months CELESTIAL TOURIST)
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7femTowzkMtTNVszc'}]
+At 3 a.m. I found myself searching for
+Halley with my superior C-8. All reports
+from Friday night indicated that the comet
+was about 14th magnitude. The charts in
+Sky and Telescope were of great assistance
+in locating the field stars around the
+comet, but no comet was found. Later, a
+nearby 12.5-inch rendered an extremely
+faint fuzzy nothing positioned between two
+stars. The sighting was confirmed that
+morning, as Kevin Medlock described the
+same view through his 18.
+
+The view of Halley's was complicated by
+the fact that there was also a faint star
+next to that nucleus, rendering the
+possibility that the object in view was
+just a faint double star. I tried to get
+a photo of the comet with my 5.5-inch
+Schmidt camera, but the 10 min exposure on
+Ektachrome 400 failed to record the image.
+Steve Mandel was more successful on Friday
+night, as he was able to record Halley's
+and Giacobini-Zinner together on hypered
+2415 through an 8-inch Schmidt camera.
+One of the problems I believe I had with
+the 5.5-inch was that I used the roll film
+adapter, which means that a baffle obstructs
+nearly 50% of the camera's aperture. The
+camera normally running at f/1.65, was
+probably slowed down to about f/3. It has
+been 4 years since I have used the Schmidt
+camera. Even though it failed to capture
+Halley, I was pleased to see razor sharp
+star images across the entire field of
+view. Four years ago I had sent it down
+to Celestron for a focus adjustment, and
+had never tested it!
+
+The morning of September 15th will be long
+remembered by many of us as the night we
+first saw Halley's Comet. As the comet's
+distances from the sun decreases, it
+should become less of a challenge for
+smaller telescopes this month.
+
+SJAA OBSERVATORY FUND
+
+Yes folks, in case you forgot, the SJAA
+has its own observatory fund too. With
+all this FPOA talk it kind of got
+overlooked. As of August 31st there was
+$2600 setting in an interest bearing
+account. Infact there is more interest
+going into the fund than there are
+donations. The time has come for the SJAA
+to ask some pretty serious questions.
+What to do with the fund? Is it still
+necessary for the SJAA to pursue a
+permanent site location for a local
+foothills of Great Ranch Country Park?
+Is it still necessary with the FPOA and
+establish a permanent observatory at
+Fremont Peak? Maybe we don't need a
+permanent site after all. Most of our
+members transport their telescopes to Coe
+or to the Peak in quest for dark skies.
+Perhaps we should purchase a few
+telescopes to loan out to members. All of
+these questions and more are being asked
+by the SJAA board of directors. Don't be
+surprised if you get a friendly phone call
+from one of them to get your opinion. You
+may even be asked to fill out a
+questionnaire at one of the next general
+meetings. If is not that the money is
+burning a hole in anyones pocket. It's
+just that projects like this stand a
+chance of greater success if there is a
+particular goal and objective in mind.
+(witness the FPOA's success) Set a goal
+and work towards it. The poet once said:
+"If you do it right, you'll see stars"
+
+EQUIPMENT ADMINISTRATOR
+
+The SJAA has several telescopes that it
+loans out to members for a month's or so.
+A problem that has plagued us in the past
+is accounting for this equipment once it
+is checked out. The clubs 12.5" seems to
+be missing. If you have any of the SJAA's
+equipment, please contact Bob Fingerhut.
+Tom Ahl has accepted the position of
+Equipment Administrator. Once all of the
+telescopes are gathered together again,
+Tom will be the contact for use of the
+clubs equipment, and will be keeping tabs
+on things.
+
+SPACE INTEREST MOVEMENT DIRECTORY
+
+Trudy Bell has put together a
+comprehensive directory of all the
+american space interest groups the
+nationwide activities. The text of the
+report was published in the November
+1985 issues of L-5 News, documenting the
+in the space interest movement from 1980
+to 1985, concentrating on the advances
+over the past two years. The author,
+Trudy E. Bell is a Senior Associate
+Editor of IEEE Spectrum, specializing in
+communications and space technology. Her
+background includes seven years on the
+editorial board of Scientific American
+magazine and an A.H. from New York
+University in the history of science. She
+has also written reports on contract to
+NASA and to the Office of Technology
+Assessment. (also a former member of the
+SJAA, current bulletin subscriber - ED)
+Calculated at $20 per copy, send check to
+Trudy E. Bell, Science Writer and Editor,
+11 Riverside Dr. #156W, New York, N.Y.
+10023.
+
+OBSERVING AT MAUNA KEA
+
+Don't forget that Jack Marling will be
+giving a talk on Oct 5th. His topic will
+be centered around observations of
+Planetary Nebula he made with the AIF
+Force 24-inch telescope in Hawaii. Many
+of you have probably been to these
+accounts at. observing some of the lesser
+known nebula in the Ephemeris. This
+is leading to a book on planetarias that
+he will be publishing in the near
+future.
+
+EQUIPMENT NIGHT
+
+I have told this story before, but I can
+remember 100 people showing up to
+equipment and slide nights in eager
+anticipation of recent astrophotography,
+and the latest developments in equipment.
+This was once considered by many members
+to be one of the most important meetings
+to attend. But even though the attendence
+fell far short of 100, those members who
+did attend the September 7th slide and
+equipment night were treated to an
+excellent presentation on the Fremont Peak
+Observatory Association by Kevin Medlock,
+and a fine display of telescope equipment
+from Bob Fingerhut, Jack Peterson, Jay
+Freeman, Kevin Medlock, and Gene Cisneros.
+I did not catch the name of the member who
+also brought in a nice 8-inch newtonian on
+a pipe mount.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7gCWCCh6XqkvRyCiW'}]
+Bob described his 16-inch newtonian at
+length. Jack Peterson told us about the
+Takahashi camera tracking platform he
+purchased for taking pictures of comet
+Halley. The compact german equitorial
+mount fits into a small vinyl pouch for
+easy transportation. The mount costs about
+10" size batteries. It even includes a
+polaroid and a colominated, star
+polaroid finding scope.
+The challenge will be to use the polaris
+finderscope in the southern hemisphere!
+All in all a nice unit, but a bit
+expensive at $500.
+
+Jay Freeman brought his 4-inch altazmuth
+refractor. (described in this months
+Ephemeris) Jay says the optics are
+excellent, even though there were some
+minor problems with the mount and tripod.
+
+Kevin Medlock displayed a 4-inch fluorite
+refractor, describing to all the
+difficulties in making a fluorite crystal
+for these telescopes. Seems that 6-inch
+fluorites are rare, and expensive, running
+above $1000 an inch in price. Kevin also
+told us about the potential of "acid dew"
+damage to telescope coatings, especially
+mirrors. Mirrors and lenses with special
+coatings have been known to be pitted
+badly if left wet for a length of time.
+Don't cover telescopes up right away when
+you bring them in from the cold air. Let
+them dry out before putting on the dust
+caps.
+
+A vintage 60's Tinsley mounting was the
+center attraction of a astrophotry system
+brought by Gene Cisneros. The system
+consisted of an 8-inch Schmidt camera,
+C-90 guidescope, and a 135mm f/1.8
+telephoto mounted piggyback. Gene went on
+to explain the workings of the Schmidt
+camera and told us that all of the
+equipment came from various club members.
+The mount from Joe Sumser1, guide scope
+from Bruno Bennasi, and the tripod from
+Bruce De Graff.
+
+Mr. Video was there too. Mr. Video hopes
+to tape future SJAA events and present
+them in a television version of the
+Ephemeris called: The SJAA Video Magazine.
+It will feature highlights from general
+meetings, star parties, and special
+events. Mr. Video also plans to include
+special segments on telescope use and
+astrophotography. Mr. Video is
+considering a quarterly presentation at
+general meetings.
+
+ASTRONOMY AND TELESCOPE MAKING MAGAZINE
+SUBSCRIPTIONS
+
+Jim Van Nuland tells me that our group
+subscription must be mailed on October 10,
+so time is short. If you are on the club
+subscription, please contact Jim
+immediately to renew or to drop. If you
+are subscribing on your own and your
+subscription expires during 1986, you may
+extend at the group rate to get in step.
+Jim will need the number from your mailing
+label: 1986 rates: $12 for ASTRONOMY and
+$7 for TELESCOPE MAKING or linear pro-rats
+for partial year.
+
+ASTRO ADS
+
+FOR SALE: 6-inch Criterion RV-6 Dynascope
+reflector type telescope with electric
+drive and eight eyepieces. $200. Contact
+Rick Lucio at (408) 379-2181
+
+STAR PARTY, HENRY COE PARK AUGUST 17
+
+Jim Van Nuland reports: The several
+people who braved the threatened clouds
+were treated to a fine night at the August
+star party. The skies opened up shortly
+before sunset, and our first treat was the
+reappearance of Europa at the limb of
+Jupiter. The wind was propbmatic at
+first, but eventually calmed down. We
+enjoyed a number of bright meteors,
+possibly Persids, through the evening. I
+concentrated on globular clusters.
+Everybody's favorite was M92, the other
+globular in Hercules. Every bit as
+deserving as the somewhat overrated M13.
+Overall, an excellent night. If you stay
+away from the bad ones, you'll miss the
+good ones. Thanks, Jack.
+
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY FREEMAN
+
+I bought a Celestron
+100 four-inch
+refractor at the
+Fremont Peak
+Observatory
+Association sale on
+August 10. My
+purchase was motivated
+as much by curiosity as anything else,
+though the instrument has several real
+virtues: it is car-portable with lots of
+room to spare, easy to move around even
+when all set up, and relatively
+unsusceptible to problems with dust, dew,
+thermal equilibrium and alignment. And
+the optics are very fine.
+
+The high cost per unit aperture of small
+refractors tends to make them rather
+special-purpose instruments. The
+relatively long tubes required by systems
+rarely faster than f/9 or f/10, makes
+larger ones a bit clumsy, too. Yet at
+apertures below four or five inches, tube
+bulk is not likely to be a consideration,
+for tripod and mounting will likely be
+larger and heavier.
+
+The C-100 is mounted as an altazimuth,
+with slow motions. The tripod is not as
+sturdy as I would like (few commercial
+units are), but the slow motion controls
+make it a lot more useable -- when you
+don't have to touch the telescope body to
+move it, the jiggles don't get started.
+
+I eagerly set the little refractor up the
+evening after the sale. My first view was
+of Saturn -- always a beautiful sight --
+and the crisp image and low-contrast disc
+features gave preliminary testimony to the
+high quality of the optics. One slow
+motion test: a lot of play in the
+focuser, and it moved in and out a bit
+rather than make tests at high
+magnification. Besides, the fog was in on
+the coastal plain below the Peak, and the
+night promised to be very dark.
+
+The telescope shows great promise as a
+small deep-sky instrument. I went through
+about half the Messier objects that
+evening, with generally pleasing views.
+Four inches is at least twice as much
+aperture as required for a Messier survey,
+so I also looked at some more demanding
+things: NGC 6207, the galaxy half a
+degree northeast of M13, was easily seen
+and obviously elongated at 50x. Burnham's
+Celestial Handbook gives its magnitude and
+dimensions as 12.3 and 1 by 2 arc-minutes.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7gmynM3UgrFtdmFED'}]
+NGC 4565, our club's very own Padlock Galaxy, was magnificent at the same magnification. Since one can only see the long, thin body and cannot see much of this edgewise spiral but also the dark lane and star-like nucleus, I also never made any particular effort to see how small an instrument would show these features, but my records list no previous observations of the obscuring lane and nucleus with anything smaller than an eight-inch. The very dark night and the excellent baffling possible in a refractor no doubt contributed to my success.
+
+Continuing at 50X, Messier 31 in Andromeda revealed not one but two dark lanes, again a remarkable view for so small an instrument. I also looked for the Barnard dark nebulae mentioned by Walter Scott Huston the the August Sky and Telescope. The ones at the west end of M24 were easy and pretty, but I could not find B318 or an almost linear east - west streak that passes just south of M11. I have seen this latter object with an eight-inch.
+
+A few days later I tried the C-100 at higher magnifications from my home in Palo Alto. Many urban sites in the Bay Area have frequent outstanding seeing! During the week of 11 August I had several evenings in which stellar diffraction rings were always visible and mostly rock-steady.
+
+Under these conditions it is fun to look at double stars. Everybody knows about Albireo, Mizar and epsilon Lyra, but many others are almost as spectacular and equally easy to find! Try zeta Aquarius -- the central star in the triangular "water dipper" of that constellation, and gamma Delphinus -- the eastern point of the Dolphin's diamond-shaped body. The former has almost equally bright components spaced a little over 1.5 arc-seconds apart. It will be demanding in an unobstructed three-inch, easier if there is a large secondary obstruction (which narrows the Airy disc at the expense of brightening up the diffraction rings). Gamma Del has a separation of ten arc-seconds, and will be easy in almost any telescope.
+
+There are several bright planetaries that survive city sky-glow pretty well. NGC 7662 and NGC 7009 in Aquarius are prime examples -- both between magnitudes 8 and 9, both less than half an arc-minute across. The four-inch showed them well at 143X.
+
+So what in conclusion? Is a four-inch refractor worth recommending? At a list price well over a thousand dollars, the answer is almost certainly a loud "NO". That kind of money will buy you a Coulter Dobson over four times the size! Even at an enormous bargain -- the F5/6 was selling things at discounts of 50 to 70 percent -- the point is still arguable. My eight-inch f/5 Dobson could be duplicated for perhaps three hundred dollars! It blows the C-100 away in light grasp, and outperforms it notably on fine planetary detail. But for variety, for high-tech packaging, or for those of us who grew up bedazzled by the old Unitron catalogs, it's kind of fun. And maybe that's what counts.
+
+I did not get to the "official" SJAA star party at Coe on the 17th of August. I went to Fremont Peak instead. Lots of our members were there -- somebody said something about Coe being closed due to fire hazard. I should say there were four telescopes and quite as many people.
+
+Frank Dibbell brought his Celestron 90mm fluorite refractor. Reactions included a lot of kidding about the "Teflon Tasco", mixed with oohs and ahs over the optics. Debbie Moore had her 10-inch f/5 Newtonian. Bob Schalck and Doug Berger were observing, with the latter's 16-inch Dobson, Tom Ahl had a 13.1-inch Coulter. Bob Fingerhut was set for deep-sky photography with his 16-inch Melanie Bartman, was trying planetary photos with her C-8, and the local raccoons were out in force. I had brought my 8-inch f/5, but I used it little: I spent most of my time moonching views through other telescopes -- hard to do when you know what to find things and have a pocket full of eyepieces!
+
+It was not as good a night as on the 10th -- there was too low fog to turn off the city lights. There had been a trace of rain earlier in the day, but the night was dry and only a little cool, and the seeing was reasonable.
+
+I spent a while chasing down an elusive group of galaxies in Hercules, that Walter Scott Huston had mentioned several years ago. The NGC catalog lists three closely-spaced galaxies on the far side of M13 from NGC 6207 -- about one and a half times as far away, almost diametrically opposite to the M13 knows it! The three are numbers 6195, 6197, and 6199. The brightest is Bn, at a catalog magnitude of 14. Identification is complicated by the presence of at least one more galaxy nearby, which is not in the NGC. My eight-inch showed 6195 at 51X x C8 at 100X showed one additional galaxy and Doug's 16-inch showed four in all at 50X and at 150X.
+
+It is interesting to set a telescope first on the bright, familiar M13 then on the less well-known NGC 6207; then finally on this group of faint fuzzies.
+
+[THIS IS FIGURE: A diagram showing what appears to be a spiral galaxy or celestial object with labels including "Br.", "L", and the number "3770"]
+
+DEEP SKY NOTES - OCTOBER BY STEVE GOTTLIEB
+
+The following is a list of errors and misidentifications in the Revised New General Catalog (RNGC) which either have been gleaned from other articles or those I have uncovered from my own investigation.
+
+Some errors have occured due to faulty or imprecise coordinates in the original NGC by J.L.E. Dreyer. In other cases the NGC object was a duplicate or erroneous entry. Yet the RNGC has designated a nearly anonymous object even when the position and description did not match. If you have additional comments on this list or know of other errors in the RNGC that you are aware of, I would like to hear from you! Perhaps a definitive NGC will one day be published.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7hMxFXzkN56GsKZ6x'}]
+RNGC CORRECTIONS
+
+NGC 3745, 3746, 3748, 3750, 3751, 3753, 3754 (Copeland's Septet). Listed in the RNGC as non-existent in the RNGC due to incorrect coordinates in the original NGC. The positions were corrected by Dreyer himself in the RNGC notes. Lord Rosse discovered them and called them Copeland's (1875): N3745 11h 36m 22s +22°10' N3746 11h 35m 37s +22°13', N3748 11h 36m 11s +22°01' N3750 11h 36m 51' +21°51' N3751 11h 36.6m +22°05', N3753 11h36.6m +22°06', N3754 11h 36.8m +22°08.
+
+NGC 6197, 6199 (Hercules). NGC 6199, discovered by Marth, is non-existent and should be given a ' designation in the RNGC. In an attempt to account for N6199 the RNGC gave it the coordinates of object N6197 and then reassigned N6197 to a very faint galaxy 1.3' SW of N6196. So change the 1975 RNGC coordinates for N6197 to 16h41.7' +35°52' and delete N6199.
+
+NGC 545,547,547A. The NGC lists the double galaxies and N545 and N547 but the RNGC incorrectly lists this pair as N547 and N547A and reassigns N545 to a mag 15 galaxy west of this pair. Change RNGC 545 to 1h24.7m +01°28' and new description E.B,BN CONT W547. Change RNGC 547 to 1h24.8m -01°29' and new description E.B,BN CONT W545. (the orientation of the 2 bright galaxies is SW - NE). Delete the entry for N547A.
+
+NGC 4347/4342. The NGC gives N4341, N4342 and N4343 as William Herschel's III184',III195' and III19B, but his later observation and John Herschel's observation just showed N4343. The RNGC notes that N4341 and N4343 are equal to IC 3260 and IC 3256 respectively and the CGCG recommends deleting N4341 and N4342 and using the IC designations instead. Many sources have disagreed on the identifications of N4343,4342, and 4341.
+
+NGC 4555A (Coma Berenices). While the latter designations found in the RNGC are generally anonymous galaxies near brighter galaxies and catalogued in the CGCG and/or the MCG, this entry is just a duplicate of N4562 (identical coordinates). Hence delete RNGC 4555A.
+
+NGC 6056 (Hercules Galaxy Cluster) The RNGC lists RNGC 6056 as the north following of 2 small galaxies SW of N6055. This ID is improbable as both objects are much fainter than N6056. Hence the position given for RNGC 6056 is 2.2' SW of the correct galaxy.
+
+NGC 2288,2289,2290 (Gemini). Dreyer confused the identifications of this group of 5 galaxies (N2288,89,90,91,94) from Lord Rosse's sketch which revealed 3 new novae (N2289 and N2290 were previously discovered by W. Herschel. Now the RNGC has confused N2288 and N2289 and reversed the coordinates and the descriptions.
+
+NGC 7173,7174,7176, (Pisces Austrinus). These three are part of a quadruple group including NGC 7172. The RNGC confused N7173 and N7174, reversing the coordinates and the new descriptions. N7174 forms a close pair with N7176 as stated in the NGC and N7173 is north which gives correct coordinates. Coordinates of N7176 should be 22h00.8' -32°09' The coordinates of N7173 are 22h00.6' -32°08'.
+
+NGC 6053 (Hercules Galaxy cluster). According to Dreyer, N6053 is listed as a star. The RNGC identifies N6053 with a small galaxy 61' NE of N6057. This is improbable as the NGC position is over 6' NW of the RNGC object. Delete N6053.
+
+NGC 5580 (Bootes). The original NGC coordinates for this object are 2.5' ENE of N5579. No galaxy exists in this position. The RNGC lists a faint galaxy south of N5579 (though it lists identical coordinates for N5579 and N5580) identical is an unlikely choice. There is a knotty structure in the spiral arm NE of the nucleus of N5579. If J. Herschel saw this knot, then N5580 is a part of N5579, but more likely this number should be deleted from the RNGC.
+
+NGC 6959, 6965 (Aquarius). NGC 6965 is a duplicate entry for NGC 6963 due to incorrect coordinates derived from Lord Rosse's sketch of N6965. The correct coordinates were later given for this galaxy by Bigourdan as N6963. So delete N6965 from the RNGC. The RNGC gives the coordinates of N6959 to N6965 So change the 1975 RNGC coordinates for N6959 to 20h45.8m +00°21'.
+
+NGC 2830,2831,2832 (Lynx). Lord Rosse's discovery of N2831 and N2832 led to incorrect descriptions in the RNGC (due to Dreyer's confusion about Rosse's sketch of the area) and N2830 is listed as 3rd of 3 instead of 1st of 3. Similarly N2832 is listed as 1st instead of 3rd of 3. Change the old and new RNGC descriptions for 2830 E,S,LE,BM EON,BM, 2831 F,VS,R, AND E,R,BM,ALMSTEL 2832 08.DL.6, AND F,R BM COM 3.
+
+NGC 1627, 1628 (Eridanus). The new descriptions in the RNGC are reversed for these 2 galaxies. The edge-on system to the N at 4h36.3m -4°45' is N1628.
+
+NGC 3191, 3192 (Ursa Major). Dreyer lists N3191 from J. Herschel but this is a duplicate entry for W. Herschel's N3192 as both saw the same object. So reassign RNGC 3192 to Class-7 (non-existent object). In an attempt to identify a galaxy for N3192 Dreyer picked a galaxy south of N3191 with a photographic magnitude of 15.6. Designating N3192 to N3191 would also be undesirable.
+
+NGC 512 (Andromeda). The new description in the RNGC "R,SLDIF,BM,B EL COM 2" N" refers to an anonymous companion 2' south of N512 and the bright, elongated system is actually N514.
+
+NGC 408 (Pisces). The old description in the RNGC was copied incorrectly from the NGC. Change the old description to UF, VS, 410FBS, (not 406)
+
+NGC 3850, 3889 (Ursa Major). NGC 3889 was discovered by Rosse in 1852 5' NE of N3888. This would place it in the position of NGC 9-19-191, a later observation in 1878 placed it SE where it entered the NGC incorrectly. In an attempt to identify N3889 the RNGC assigns it the same coordinates and new description as N3850! So either delete N3889 or change its position and description to RGG 9-19-191.
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7jpnVj5CSVbUc9Lub'}]
+GIACOBINID METEOR SHOWER PREDICTIONS "UP
+IN THE AIR"
+BY: DON MACHHOLZ
+
+A meteor shower connected with periodic
+Comet Giacobini-Zinner (1984e) is
+expected to take place October 8.
+Predicting the shower activity is a
+complicated task.
+
+The October Draconids, also known as the
+Giacobinids, occur because the earth
+passes through a swarm of meteoroids
+associated with the comet. The comet,
+Giacobini-Zinner, appears to travel with a
+swarm of material on its 6.5 year orbit, a
+path that takes it from the earth's orbit
+to slightly beyond Jupiter. The comet
+crosses the earth's orbit at the place in
+which the earth finds itself on Oct. 9.
+
+The comet was discovered in 1900, but it
+wasn't until 1926 that the meteor shower
+was observed. Up to 17 meteors/hour were
+seen. The comet had crossed the earth's
+orbit 70 days after the earth was at that
+point. In 1933, the comet crossed the
+earth's path 80 days before the earth and
+300-6000 meteors/hour were seen. In 1939
+the comet lagged 135 days behind the earth
+and no shower was observed. The greatest
+shower, however, was in 1946, when 10,000
+meteors/hour were observed. That year the
+comet had crossed the path only 15 days
+before the earth. This year the comet
+crossed the earth's plane on Sept. 11, 27
+days before the earth's arrival. This
+would imply a very strong shower.
+
+On the other hand, the planet Jupiter has
+been changing the orbit of both the comet
+and the meteor swarm. Its orbital period
+has meandered between 6.41 and 6.60 years
+since 1900, and, more importantly, its
+perihelion distance-its closest approach
+to the sun-has varied between 0.93 and
+1.03 AU. This time it's at 1.028 AU while
+the earth will be at 0.999 AU - a
+difference of roughly three million miles
+at closest approach. Until the shower was
+first seen in 1926, the comet perihelion
+distance was increasing from 0.93 AU to
+0.99 AU. It remained at 0.99 AU (and the
+showers were strong) until the 1950's,
+when it came in at 0.93 AU again. By 1972
+it was back to 0.99 AU, but no showers
+were observed, probably because the comet
+did not cross the earth's orbit near Oct.
+9.
+
+This year the earth will be closest the
+comet's path on Oct 8, 13h2 U.T. This is
+0612 (AM) at on Tuesday, Oct.8, and
+during daylight hours further east. The
+earth will be within the swarm for perhaps
+only a few hours of earth-travel, but
+you may wish to observe during Oct. 7-10,
+because Jupiter may have scattered the
+swarm. The meteors radiant is at 17h 28m,
++54°; this is high in the sky at evening,
+very low in the morning. The meteors are
+of fragile material, they are faint, slow
+and have generally short trails, under
+ideal conditions a glow from the meteorid
+dust may be visible extending westward
+from RA 18h 38m, -9°, and eastward from
+06h 38m, -9°. Look for this, however, a
+40+-11 moon rising shortly after midnight
+will interfere.
+
+Regardless of what the meteor shower does,
+the "parent" comet will be at 07h 05m,
+-9°, shining at magnitude 9. It has
+performed better than expected. Perhaps
+its "children" will too.
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+One faint comet has
+been recovered. Comet
+Siebolini-Zinner
+moving south and
+dimming in the morning
+sky. Also in the
+morning sky, but soon
+to enter the evening sky, Comet Halley
+brightens as it moves towards both the
+earth and the sun.
+
+Periodic comet Daniel (1985J): This comet
+was recovered by J. Gibson of Palomar on
+July 12. At that time it was eight
+degrees from Halley's Comet and magnitude
+26. It is heading southward and nearing
+August, it will not get much brighter.
+It's orbital period is 7.1 years.
+
+PERIODIC COMET GIACOBINI-ZINNER
+
+This comet is slowly pulling away from
+both the earth and the sun. It remains in
+the morning sky as it moves rapidly
+southward. During this month it dims by
+1.5 magnitudes. The comet passes over the
+open cluster M50 on Oct. 7. On Oct. 8 we
+may see parts of this comet in the
+Giacobinid Meteor shower.
+
+
+WHAT GOES AROUND COMES AROUND - HALLEY'S
+
+Halley's Comet continues to brighten in
+the morning sky. Although in
+mid-September it was running about 0.5
+magnitude fainter than predicted, I will
+continue to hold to former predictions as
+the coma continues to develop.
+
+The comet's distance from the sun will
+decrease from 219 to 179 million miles
+during October. The comet-earth distance
+will decrease from 189 to 100 million
+miles this month.
+
+Halley's Comet appears to move 10 degrees
+in October, increasing in speed each day.
+On October 8 it passes a short distance
+south of the diffuse nebula 2174-5. This
+nebula is visible under dark-sky
+conditions, however, the last-quarter moon
+will be in the sky at that time. On Oct.
+29 the comet will pass 0.5° south of M1,
+once again the moon, then full, will
+interfere. This is unfortunate, as
+Halley's Comet has passed near M1 on most
+of its previous returns. This time it's
+difficult to observe.
+
+
+DATE R.A. (1950) DEC ELONS MAG.
+
+09-27 04h 39.8m +02°49' 82° 8.4
+10-02 06h 50.7m -02°49' 85° 8.6
+10-07 07h 00.0m -07°54' 87° 9.0
+10-12 07h 07.9m -12°28' 88° 9.2
+10-17 07h 14.0m -16°34' 90° 9.5
+10-22 07h 19.8m -20°15' 92° 9.7
+10-27 07h 22.3m -23°31' 94° 10.0
+11-01 07h 24.3m -26°26' 96° 10.3
+11-06 07h 24.9m -29°01' 99° 10.5
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7kUj4RmPC5WAuhBVj'}]
+The table gives positions for Halley's Comet of October. I'm again including elongations (angular distance between the comet and the sun as seen from earth) and magnitude predictions. I've added the rising time for the comet as seen from standard meridians at 40° and 60° latitudes. Some are given in Daylight time; those marked by an * are in Standard Time. First determine the rising time for your latitude by interpolating between 30 and 40 degrees latitude. Secondly, calculate for longitude: add four minutes for each degree you are west of the standard longitude (75°, 90°, 105°, 120°) or subtract four minutes for each degree east. Finally, realize that although the comet will be rising at that time, it will not be easily visible for at least an hour.
+
+This month the moon will not interfere between Oct. 10 and Oct. 25, giving two full weeks of dark-sky observations. I have found the finder maps in Sky and Telescope to be very helpful in locating the comet. SJAA's own Rich Page, using such a chart, located the comet in his 14" reflector from Loma Preita on both Aug. 25 and 27, perhaps our first club member to see the comet.
+
+Date    RA  (1950)   Dec      El.  Mag.
+
+09-27  06h 12.5m  +19°53.3'  90°  11.4
+10-02  06h 11.1m  +20°02.9'  96°  11.1
+10-07  06h 08.5m  +20°14.4' 101°  10.7
+10-12  06h 04.5m  +20°28.2' 107°  10.4
+10-17  05h 58.6m  +20°44.7' 113°  10.0
+10-22  05h 50.2m  +21°04.0' 120°   9.6
+10-27  05h 38.5m  +21°25.8' 128°   9.2
+11-01  05h 22.2m  +21°48.6' 137°   8.8
+11-06  04h 59.8m  +22°08.0' 147°   8.3
+
+Date    RA  (2000)  Dec     Rise: 40°lat 30°
+
+09-27  06h 15.5m  +19°52.4'   2341   0003
+10-02  06h 14.1m  +20°02.1'   2319   2343
+10-07  06h 11.5m  +20°13.8'   2256   2319
+10-12  06h 07.5m  +20°27.9'   2232   2255
+10-17  06h 01.6m  +20°44.8'   2203   2227
+10-22  05h 53.2m  +21°04.7'   2134   2158
+10-27  05h 41.5m  +21°27.3'   2002‡  2026‡
+11-01  05h 25.2m  +21°51.3'   1923‡  1947‡
+11-06  05h 02.8m  +22°12.3'   1839‡  1904‡
+
+MORE FROM THE CELESTIAL TOURIST
+BY: JAY REYNOLDS FREEMAN
+
+Modern technology provides fair-sized high-quality telescopes at low prices, but as sold, many such instruments are incomplete: They have too few eyepieces and perhaps no finder. Optical accessories are extremely expensive -- one can pay several hundred dollars for a long focal-length wide-field eyepiece -- and many of us have limited budgets, so it is useful to think hard about the distinction between the necessary, the desirable and the merely frivolous.
+
+The two most common goals of visual observing are to see faint extended objects and to see fine detail. Eyepieces should be selected with these purposes in mind.
+
+Faint fuzzies are usually best seen when their light is concentrated onto a small an area of the observer's retina that is, at low magnification. At too low a power, the beam of light from the eyepiece is too wide for the pupil of the eye, and light will be wasted. The diameter of the dark-adapted pupil varies from person to person, but certainly almost no one will want a magnification lower than three and a half times the diameter of the telescope objective in inches (ie, 26X for an eight-inch, because 3.5 X 8 = 28).
+
+Reasonable contrast also helps in observing faint things, and unless the sky is exceptionally dark, powers as low as 3.5 per inch will show the background skyglow too brightly. For this reason, I find slightly higher magnifications -- perhaps 4.5 to 6 per inch -- generally satisfactory: a "medium low" power. That would be 36 to 48 power on an eight-inch. Many extended objects will yield pleasing views at still higher power, but nevertheless I would consider 4.5 to 6 per inch more basic for these observations. If I could own just one eyepiece, that would be it.
+
+The low-power eyepiece should have a wide field of view, both because many popular extended objects are pretty large, and because a wide field will aid in finding things when the telescope isn't pointed correctly. Field of view will be limited either by the eyepiece design itself or by the diameter of the eyepiece holder.
+
+Wide-field eyepieces require complicated, expensive designs to function well, particularly with "fast" telescopes -- number, like four or five). It is a catch-22 of amateur astronomy that inexpensive telescopes, like f/10 Dobsons, require very expensive eyepieces; and that slower telescopes, like f/10 Schmidt-Cassegrainans which do not need costly eyepieces, are already budget-blowing in their own right.
+
+The upper limit to useful magnification is set by three things: The smoothness and ease with which the telescope can be made to follow an object at high power, the stability of the atmosphere, and the size of the diffraction disc produced by the telescope itself.
+
+Smoothness of tracking will be a problem with poorly-made mountings. If the telescope jiggles too much, or if the combination of bearings and slow motions forbids smooth tracking, forget it! But one does not necessarily require fancy apparatus: Well-executed Dobson mountings are excellent -- the butter-smoothness of Teflon bearings is such a joy. I have used 500X quite happily on the Club's 12.5-inch Dobson, with no more side-motion controls than a finger on the side of the tube.
+
+The SJAA's observing sites in the California coastal ranges have some of the best astronomical seeing on the planet Earth. Our largest telescopes commonly run diffraction-limited continually. A person who does lots of high-power work might want several different magnifications, to allow for seeing variations; but I would recommend that a more casual observer, interested in fine detail, obtain only one high-power eyepiece, selected to take advantage of the best conditions.
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7mP3rf65AhC449FYA'}]
+So if your telescope mounting is up to it
+I suggest a high-power eyepiece that
+provides approximately 30 power per inch
+of aperture - that would fix ation will
+eight-inch. This will easily show the diffraction disc and rings
+of a star, and should tell you see all the
+image detail you objective provides.
+
+A device called a Barlow lens or a
+teleextender can be used to double or
+tripple the magnification of a low-power
+eyepiece, but good ones are scarece and
+expensive. I would rather have plain
+eyepieces.
+
+High-power work rarely requires a wide
+field of view, though one may help in
+locating and tracking.
+
+I find deep-sky objects that way I might
+use a map to find buried treasure:
+"Two-thirds of the way from the boulder to
+the big tree - X marks the spot. Dig
+here. Similarly: Two-thirds of the way
+from gamma to beta Lyre - X marks the
+spot. So the crosshairs here and the
+Ring Nebula will be in the field of the
+main telescope, whether I can see it in
+the finder or not.
+
+To use this technique, my finder must be
+large enough to show the faintest stars on
+my charts. It should be as big as any bigger
+because additional uncharted stars would
+be confusing, and I must have a field of
+view wide enough so that several stars are
+visible even in the emptiest parts of the
+sky.
+
+I commonly use the AAVSO VARIABLE STAR
+ATLAS whose chart limit is magnitude 9.5.
+The 10 power, 40mm-aperture finder that
+came with my Celestron 14 has almost
+exactly this limiting magnitude when used
+in dark skys. My eight-inch Dobson has a
+5 power, 24mm finder, whose dark-sky
+limiting magnitude is about 8.5. This is
+thereby a pretty good match for the Tirion
+atlas or the old Skalnate Pleso atlas.
+
+When the sky is brighter, things change.
+From the suburbs on the San Francisco
+peninsula, the 5X24 will barely reach to
+magnitude 6.5, which makes it reasonable
+to use with NORTON'S STAR ATLAS or any
+other that shows only naked-eye stars.
+
+I find these finders perfectly
+satisfactory and would not recommend
+larger ones.
+
+Let's try some specific cases. Suppose we
+have a new Coulter Odyssey 10, a 10-inch
+f/4.5 Newtonian mounted as a Dobson. It
+comes with a 27mm Kellner eyepiece and no
+finder. How shall we equip it?
+
+Try the Kellner. If its images satisfy
+you, keep it as your low-power eyepiece;
+if not, save your pennies and get an Erfle
+or comparable wide-field eyepiece with a
+focal length in the range of 20 to 28 mm. I
+am very fond of 28-mm eyepieces with such
+telescopes. One was from Meade, but
+similar ones are available from other
+vendors. The Edmund 28mm RKE eyepieces
+might also be satisfactory, but try one
+out first. The Televieu Naglers give
+magnificent views, but are very expensive;
+and their apparent field of view is almost
+too wide. I would not recommend one for
+an astronomer on a budget.
+
+But by all means bring the telescope to
+star parties, and ask others to try their
+eyepieces on it. Pay attention to image
+quality at the edge of the field, and look
+for "ghost" reflections near bright
+objects.
+
+For high power, borrow a 4mm Orthoscopic
+and see if you can track satisfactorily
+with it. If so, save money and buy one;
+if not, try 6 or 7mm. (and if you are not
+interested in high-power work, skip it.)
+
+These two eyepieces might be all you
+require. If I had to recommend a third,
+it would probably be another wide-field
+one, with a magnification 60 to 80 percent
+greater than your low-power eyepiece. You
+might end up with 27, 16, and 4mm
+eyepieces. Or 20, 12.6.
+
+There is no need to use two-inch diameter
+eyepieces on instruments this fast -
+eyepieces with lenses that large will give
+magnifications too low to be useful.
+
+Don't feel obliged to get a big finder. A
+5X24 or 5X30 should be adequate. You can
+probably get one second-hand from someone
+who has been seduced by the ads and bought
+a bigger one.
+
+Alternatively, suppose you have a new f/10
+Schmidt-Cassegrain -- a Celestron 8 or 11,
+or perhaps a Meade 2080 or 2120. (Much
+the same advice would apply for a
+refractor near f/10.) The stock finder
+will be adequate, and whatever eyepieces
+came with it are probably useable.
+
+The big problem will be lack of a low
+power: the right focal length for this
+eyepiece is 40 to 55 mm, and it would be
+desirable to have the wide field of view
+that a two-inch barrel allows.
+Unfortunately, the interior baffles on the
+8-inch units greatly restrict the field
+of view, so it might not be worth buying
+the two-inch adaptor for these telescopes.
+But I still recommend a long-focal length
+eyepiece: a 40mm Kellner or Symmetrical
+in a 1.25-inch barrel is relatively cheap.
+There is no need to pay for Erfles and
+such unless you can use the wide field the
+design provides.
+
+I suspect the C-11 and Meade 2120 could
+reasonably use the two-inch diameter
+eyepieces. I knou the C-14 can. My
+favourite eyepiece with this instrument is
+a 55mm Plossl in a two-inch mount,
+yielding 71X, and if you plan on someday
+buying a telescope that can use two-inch
+eyepieces, there might be some sense to
+getting one now.
+
+I would recommend a 7 or 8mm eyepiece for
+high-power viewing with these instruments.
+It need not be a fancy variety.
+
+ASTEROIDAL AND COMETARY OCCULTATIONS
+BY: JIM VAN NULAND
+
+On the usual short notice, a number of
+greater bay-area observers attempted an
+occultation by (230) Athemantis on August
+31, a rather large effort for us
+because last-minute astrometry (the only
+kind) had shown the eclipse was in the
+middle of a telescope-narrow path. Several observers
+recorded a change in brightness, some
+for several minutes, but no occultation
+was observed. As of September 8, we
+don't know where the shadow passed.
 
 === PAGE 11 ===
-[Error extracting page 11: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7n7hcX2gch1dSxuXX'}]
+An occultation of another sort was attempted on Sept 2 -- passage of Pterospini-Zinmer across a 6th-magnitude star. The prediction was complicated by the non-gravitational motion of P-Z, which was both irregular of a greater amplitude than the accuracy needed to direct the portable photoelectric observers. The nucleus of a comet is very, tiny, so a direct occultation was not expected; instead, we hoped to measure the thickness of the star, to obtain an estimate of the density of the dust near the comet.
+
+The elevation at mid-time was only 9° on the west coast, so presumably all efforts were clouded out. So also was much of the photometric occultation of 3rd of September for reports of successful observation (with or without dimming).
+
+PLANETARY NEBULAE IN EAST CYGNUS
+BY-MARK MARLING AND STEVE GOTTLIEB
+
+Last month we discussed planetary nebulae in west Cygnus, and this month we will add 15 more planetary nebulae in east Cygnus.
+
+On August 25, I looked very carefully for Weinberger 1-10 discussed last month and can state that it is fainter than about 16th magnitude, as it was not visible in a 17½" telescope at 80x with an O-III filter, nor at 220x with a UHC filter. I looked at the exact spot using a Palomar Sky Survey (POSS) print. This month we examine both bright and faint Planetaries ranging from 8th magnitude NGC 7027 to 16th magnitude Minkowski 1-78, so there will be a challenge and something new to see for every observer. Some have not yet been seen visually, so you could be among the first people in the world to see them.
+
+DESCRIPTION OF INDIVIDUAL PLANETARIES
+
+NGC 7008 This showpiece 10th magnitude planetary has a large size, good brightness, and a visible 13th magnitude central star. Observing with a 13" telescope at 165x from Digger Pines, Steve Gottlieb noted, "Annular, central star visible, 2nd star embedded at eastern edge of ring, slightly elongated, brighter knot on the northeast edge".
+
+CRL 2688 Also called the "Egg Nebula", this is a compact, bipolar protoplanetary nebula. At Digger Pines on August 20, 1985, using a 13" Odyssey I at 165x Steve observed, "Faint double (mag. 12 and 14) oriented SSW-NNE separated by 10". At 220x the brighter component is slightly nebulous.
+
+NGC 7026 this bright 10.9 magnitude planetary has a pretty high surface brightness. Observing from my backyard in Livermore using a 14½" telescope at 280x I noted "Pretty, small, planetary with 2 lobes, bright star nearby".
+
+NGC 7027 At magnitude 8.5, NGC 7027 is the brightest planetary in Cygnus, and should show color due to its 5th magnitude surface brightness. At 280x from my backyard (14½" scope) I noted "Very bright and planetary, elongated". In his 13" from Digger Pines Steve observed, "At high power (330x), elongated, 2 condensations or nuclei possibly detached".
+
+SHARPLESS 108S This nebula was discovered photographically by Sharpless in 1959. There is no published data other than a photographic (blue) surface brightness of 15.1 corresponding to a calculated 16.0 photographic magnitude. Steve and I did not know what to expect but we looked for it anyway. We made what is certainly the first ever visual sighting August 11-12 1985, from Digger Pines. Using a 13" Odyssey I at 73x and an Oxygen-III filter, Steve noted, "Small, extremely faint (averted mag. 15.0), requires averted vision". On a 17½" telescope at 80x using an Oxygen-III filter I noted "Pretty faint, annular 15' in diameter, very round and uniform". To find Sh 1-89 go 1° due north from NGC 7048, described below.
+
+NGC 7048 This 12th magnitude planetary was discovered by Curtis in 1919, using a 143" telescope from Livermore at 280x with a UHC filter, I observed "large faint nebula, elongated, averted vision, 3 nearby stars, no central star visible".
+
+MINKOWSKI 1-78 discovered photographically by Minkowski in 1946, little is known other than a 12.2 red surface brightness measured by Kohoutek in 1964. Kohoutek stated that the blue photographic surface brightness was greater than 16.5 which does not bode well for observations. Fortunately Kaler measured the H-beta flux in 1983, if I assume that the oxygen lines are 10 times stronger than H-beta, quite usual for planetaries, then M 1-78 should have a visual magnitude of 16.1 with a range of uncertainty of (+5.5)(-1.2). A sighting or "lack of one" is detailed for M 1-78 on page 25. M 1-78 is 45 arc-minutes south and 12½ arc-minutes east of 8th magnitude star plotted on the Tirion Sky Atlas 2000.0. "If you are wondering if professional astronomer Jim Kaler saw M 1-78 when he measured the H-beta line flux, the answer is probably not. Kaler stated in his papers "Most of the fainter nebulae could not be seen at the (40") telescope and had to be located by blind off see from a nearby SAO star". Kaler did not use filters for viewing.
+
+KOHOUTEK 3-81 This compact nebula was found by Kohoutek in 1972 using a 32" f/3 Schmidt camera and 4° objective prism with 103aS-8 film and red filter. Stars show up as lines end emission objects as discs or as a "bump" on the continuum of the star. On August 24-25, 1985, I made a first visual sighting of K 3-81 at digger Pines. From a 5.5 magnitude star plotted on the Tirion Atlas I went 7 arc-minutes south and 34 arc-minutes east to find K 3-81. Using the 17½" telescope at 280x with a UHC filter I noted "very small, round nebula, requires averted vision, about mag. 15+" a central star or anterior star seen without filter.
+
+HUMASON 1-2 This magnitude 12 planetary was discovered by Humason in 1921. From the same location as K 3-81, Steve noted back in 1981, "At 100x, mag. 12 central star, but the planetary averted, very faint, annular at 200x". Using the 17½" telescope at Digger Pines Observator at 280x with a UHC filter I noted "Bright 12 mag., nebula, elongated 2:1 NE/SW (about 5x12")". The professional literature only gives Humason's original size of 5 arc-seconds which is clearly incorrect. you can find Hu 1-2 just 12 arc-minutes north and 7.5 arc-minutes west of a 7.5 magnitude star plotted on the Tirion Atlas.
 
 === PAGE 12 ===
-[Error extracting page 12: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7nmtdRuNANvHxzT54'}]
+KOHOUTEK 3-82 This was found along with K 3-81 by Kohoutek in 1972. It is a little faint, ring about 20 arc-seconds in diameter that is easily located exactly 20 arc-minutes due west preceding a 5.5 magnitude star. Kohoutek gave it a 14.8 photographic surface brightness, corresponding to a 16.5 photographic magnitude. Thus I was delighted that its true visual magnitude was 15 magnitudes brighter when I made a first ever visual sighting of it on August 15, 1985, at Digger Pines. Using a 17", telescope at 220x with an Oxygen-III filter, I saw a fairly easy UHC target. Round, uniform, vIsible enough after starting with OIII, just visible without any filter. Located at the end of a chain of 5 stars.
+
+KOHOUTEK 3-62 Found by Kohoutek in 1964, this little stellar planetary had no data: using a photographic finder/chart on August 25, 1985, I barely found a 15-16 magnitude stellar object, using a 17" scope, 280x and UHC filter, and noted "Extremely faint stellar planetary, not really visible without filter".
+
+IC 5117 This stellar planetary was found by Fleming in 1905, and is easy to see at magnitude 11½. Steve saw it from El Cerrito using his 13" Odyssey I and noted, "Easily visible mag. 11.5-12.0 "star" without any filter. Forms a close double with a brighter mag. 10 star just east. 15th OIII filter, IC 5117 is a magnitude brighter than this star!". You can locate IC 5117 22 arc-minutes east and 10 arc-minutes south of mag. 6.8 star plotted on the Tirion Atlas. Using a UHC filter at 280x I noted that IC 5117 was slightly brighter than the close companion star to the north-west; being about 2 visual magnitudes with an OIII filter, and about one-half magnitude with a UHC filter. This explains the dramatic effect in "blinking" stellar planetaries with these filters.
+
+[THIS IS IMAGE: A black and white photograph showing a star field]
+
+ABELL 78 discovered by Abell in 1955, this faint nebula is centered between two bright 7 and 8 magnitude stars. The 7.2 magnitude star located 5 arc-minutes north and 5 arc-minutes west of  M 78 is plotted on the Tirion Atlas. Tom Gogney II, 1985, from Digger Pines using an OIII 78x with his Odyssey I and noted, "Very faint, definitely, seen with averted vision, moderately large and roundish, (I est. 78" on June 24, 1985 using a 24" at 180x from Mauna Kea. Using a UHC filter I observed a very faint nebula around a faint (13.3 mag. central) star.
+
+MINKOWSKI 1-79 Discovered by Minkowski in 1946, this pretty bright for an "obscure" planetary nebula, you can easily locate it 11 arc-minutes north and just 1" NE from M-39. I observed it Nov. 22, 1984, from Mauna Kea with a 24" telescope at 280x and UHC filter as a fairly bright, elongated planetary, no central star visible. Using a 13" at 214x Steve noted, "Bright enough to be visible unfiltered with direct vision, roundish, faint stars off west end and on east edge".
+
+KOHOUTEK 3-84 Discovered photographically by Kohoutek in 1972, this compact planetary has not yet been observed visually and a sighting is needed to pin down its visual magnitude, which should be in the range of 14½-16½. Look for K 3-84 15 arc-minutes north and 34 arc-minutes west of a mag. 6.2 star plotted on the Tirion Atlas.
+
+MINKOWSKI 2-50 This magnitude 14.7 compact planetary was discovered photographically by Minkowski in 1947, and was probably seen by Tim Barker in the early 1970's when he made photo-electric flux measurements of the northern sky (I'll compute the visual magnitude). M 2-50 has not yet been seen by amateurs: look for it 10.6 arc-minutes north and 22½ arc-minutes west of a mag. 7.8 star plotted on the Tirion Atlas.
+
+Besides being both fun and challenging, observing planetaries can contribute to increased knowledge of these objects. In this eastern portion of Cygnus, Steve Gottleib and I observed six planetary nebulae, probably for the first time ever by any human. These observations helped pin down the true visual magnitude, and in the case of Hu 1-2 provided a more accurate size. Please contact Steve at 415-524-4578 or me at 415-443-7579 with any observations of these you make, especially the fainter objects.
+
+NGC 7008 PHOTO BY JACK MARLING. 24" F/9 50 MIN. FROM MAUNA KEA, B&W PRINT FROM FUJICHROME 400 NEGATIVE.
+
+[THIS IS FIGURE: A simple spiral diagram with dots around it]
 
 === PAGE 13 ===
-[Error extracting page 13: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7obkSKC2HDVMf4Zg6'}]
+The table below gives the planetary's name and 2000.0
+epoch coordinates, as well as the size in arc-seconds,
+true visual magnitude, visual surface brightness, and
+V (yellow) magnitude of the central star.
+
+
+Name      2000.0Coordinates  Size      Visual    Bright- Nucleus
+          R.Ascen.     Dec.   arc-sec.  Magnitude  ness
+
+NGC 7008  21h 00.6,+54°33    98x75     10.7      11.5    13.2
+CRL 2688  21h 02.3,+36°42    16"       13.5              12.25
+NGC 7026  21h 06.3,+47°51    29x13"    10.9      8.4     14.5
+NGC 7027  21h 07.0,+42°14    18x11"    8.5       5.3     15
+Sh 1-89   21h 14.0,+47°45    44x29"    14.8±.5   13.9    19.1
+NGC 7048  21h 14.3,+46°18    62x60"    12.1      12.0    18.3
+M 1-78    21h 20.8,+51°54    ·6"       15-19     11.6    ?
+K 3-81    21h 22.3,+38°07    11"       15.5±.5   11.3    ?
+K 3-82    21h 30.9,+50°00    19" ring  14.9±.5   12.4    19.5
+K 3-62    21h 31.9,+52°34    3"        15.6±.5   5.8     ?
+IC 5117   21h 32.5,+44°36    2"        11.5      3.7     16.7
+Hu 1-2    21h 33.2,+39°38    5"        12.0      6.6     15.1
+Abell 78  21h 35.5,+31°42    113x88"   13.4±.5   14.5    13.3
+M 1-79    21h 37.0,+48°56    39x27"    13.2      11.8    14.4
+K 3-84    21h 38.8,+46°01    10x8"     15.5±1    11.4    ?
+M 2-50    21h 57.7,+51°42    5x3"      14.7      8.7     ?
 
 === PAGE 14 ===
-[Error extracting page 14: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA7p6mNxMv8n8BC7Ljc'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $8.00    MEMBERSHIP/S&T: $21.00    JUNIOR (UNDER 18): $15.00
+
+Name ________________________________________________    Questionnaire (optional)
+
+Address ______________________________________________    What are your astronomical interests (e.g. astro-
+                                                        photography, deep-sky observation, telescope making,
+____________________________________________________    etc.)? ___________________________________________
+
+                                                        ____________________________________________________
+Telephone (____) _____________________________________
+                                                        ____________________________________________________
+
+Please bring this form to any SJAA meeting, or send to:    ____________________________________________________
+
+Jack Peterson, Treas.                                    Do you own a telescope? _________ If so, what kind?
+San Jose Astronomical Association
+1840 Yosemite Dr.                                        ____________________________________________________
+Milpitas, CA. 95035
+                                                        Is there any specific area of astronomy that you feel
+[ Phone:  (408) 262-1457  ]                            qualified to help others with? ____________________
+
+Please check type of membership and if new               ____________________________________________________
+or renewal.
+                                                        ____________________________________________________
+Membership Only____    Membership/S&T____
+
+Junior (Under 18)____
+
+New____    Renewal____
+
+
+
+
+                                                        NON-PROFIT ORGANIZATION
+SJAA EPHEMERIS                                          U.S. POSTAGE PAID
+3509 CALICO AVE.
+SAN JOSE, CA. 95124                                     PERMIT NO.5381
+
+                                                        SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

@@ -1,29 +1,615 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9mssaorBtCDtmUzvS'}]
+# EPHEMERIS
+OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+OCTOBER 1986
+
+****************************************************
+*                    OCTOBER 25 8 PM                *
+*    BOB STERN ON X-RAY ASTRONOMY                   *
+****************************************************
+
+OCTOBER    1  INTRODUCTORY ASTRONOMY CLASS AT FREMONT PEAK STATE
+              PARK.        OBSERVATIONAL    ASTRONOMY  CONDUCTED   BY  JACK
+              ZEILEKS.  ALSO A SCHEDULED SJAA STAR PARTY AT THE PEAK.
+
+OCTOBER   11  BOARD MEETING 7 PM AT THE LOS GATOS RED CROSS BUILDING.
+              INDOOR STAR PARTY TO FOLLOW AT 8 PM.
+
+OCTOBER   18  INDOOR STAR PARTY 8 PM AT THE LOS GATOS RED CROSS
+              BUILDING.
+
+OCTOBER   25  GENERAL MEETING 8 PM. X-RAY ASTRONOMY PRESENTATION BY
+              BOB STERN.
+
+NOVEMBER   1  FIELD EXPEDITION TO HENRY COE STATE PARK. DUSK TILL
+              DAWN. GRANT RANCH WAS UNAVAILABLE.
+
+NOVEMBER   8  INDOOR STAR PARTY 8 PM AT THE LOS GATOS RED CROSS
+              BUILDING
+
+NOVEMBER  15  BOARD MEETING 7 PM AT THE LOS GATOS RED CROSS BUILDING.
+              INTRODUCTORY ASTRONOMY CLASS TO FOLLOW AT 8 PM.
+
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+FREMONT PEAK OBSERVATORY ASSOCIATION BUILDING
+DEDICATION ATTRACTS HUNDREDS
+
+It was one the biggest events to occur at the Peak since
+the great Telescope Sale last August. Over two hundred
+people attended the dedication ceremonies which were
+held on Labor Day weekend Bar-B-Q. Danni Medlock held the
+honors of cracking open the champagne on the foundation
+after Bob Finnegan read a commendation from David Rick
+Morales, Executive Secretary and Fremont Peak Park Ranger
+praised the cooperation of everyone who supported the
+project.
+
+It was just 24 months earlier that nine amateur astronomers got together over
+breakfast and formed the FPOA.
+
+The entire concept for an observatory at Fremont Peak came about with the idea
+of forming a cooperative association with the state park system in order to
+permanently install Kevin's 30-inch reflecting telescope. In 6 months, the
+FPOA had tax free status. In 8 months, initial building plans were underway
+with the architect. Then the great donation of telescopes and equipment from
+Celestron at the 1985 Big Bear Telescope Makers Conference, resulted in the
+August '85 telescope sale that raised enough money to purchase all of the
+building materials.
+
+In December 1985 official ground breaking took place, but actual construction
+did not begin until early April, pending the official go-ahead from the state.
+Finally, permission was granted to build a "temporary" structure.
+
+In the four months that followed, nearly 20 dedicated people with skills
+ranging from "nail boy" to professional carpenter hammered away right up to the
+August 30th dedication.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9ncGpAs5wiJi5H3aY'}]
+IN THE NEAR FUTURE
+
+The observatory building itself is far from finished. There is a lot of fine
+detail work to be completed including electrical and interior dry-wall. The
+telescope needs critical polar alignment and the addition of a declination slow
+motion to make it ready for astrophotography. Before formal public and
+individual scheduling can begin, a observing platform must be constructed as
+well as an easy way to open the roll-off-roof by one person. The great debate
+is continuing as whether to install vinyl flooring or indoor-outdoor carpeting.
+
+Right now the FPOA is looking at Spring 1987 before formal programs will begin.
+Currently, the observatory will be open on star party weekends of the new moon,
+or when there is a work party spending the evening at the observatory. Now
+is welcome to walk on up and take a peek into one of the deepest instruments
+available for regular use in the world. Seeing the UNBELIEVABLE EMPTY PARKING
+RANCH HOUSE A.T. PARKING LOT! Use the other parking areas within the park,
+near Kingsley Ave, the observatory. Park Ranger. Rick Morales is trying to
+reserve the area behind his house for astrophotography only. The FPOA has even
+been discussing the feasibility of constructing a light barrier to extend
+across Coulter Camp to block-off the stray car lights that have become so
+bothersome for visual observers.
+
+The success of the FPOA project should be used as an example of what a few
+people can do when a particular goal and objective are in mind. Some people
+might say that it was only possible because of the Celestron donation, but this
+is not true. Granted, it would have taken longer to raise the money for the
+building materials, but the enthusiasm and the support for the project would
+have resulted in a completed building sooner or later. Let's hope that other
+amateur astronomy associations can be as successful.
+
+29-INCH TELESCOPE PROPOSAL
+
+During the September 27th SJAA board meeting it was suggested that the SJAA
+observatory fund be used to construct a 29-inch telescope. The mirror would be
+purchased from Coulter Optics and the tube assembly and mounting would be of
+Dobson design. Everything would be mounted to a trailer to be taken to remote
+star party locations. The telescope would be stored in a members garage. I
+believe that this project has good merit. It would give the SJAA a focus on
+conducting public programs at various locations in Northern California and the
+remote locations like Yosemite. As an alternate proposal, I would like to
+see the club consider instead the construction of 5 or 6 17.5-inch
+telescopes. There is a wonderful telescope kit on the market today that
+consists of light-weight box construction and aluminum framework for the tube
+assembly. These telescopes would not be checked-out to the membership, but
+would be kept by several board members and brought to star party and public
+events. This proposal does not have the glamor of a giant 29-inch telescope,
+but consider that more people can observe through 5 telescopes than can through
+one big one. In either case, it's good to here some proposals come forward
+from the membership. Now, will the board take action?
+
+A.S.P. - A.L. - W.A.A TO MEET IN
+SOUTHERN CALIFORNIA IN JULY 1987
+
+The Astronomical Society of the Pacific, the Astronomical League, and the
+Western Amateur Astronomers will hold a historic joint conference at Pomona
+College near Los Angeles from July 11-17, 1987. It will be the first time the
+three groups (which include almost 20,000 astronomers, amateurs, and astronomy
+buffs) have met together.
+
+Planned sessions include seminars on a variety of topics in astronomy and
+amateur astronomy, a workshop teaching astronomy, nontechnical lectures on new
+development, papers sessions for professionals and amateurs, astronomy tours,
+star parties, exhibits, banquets, and much more.
+
+More detailed information about the meeting will be available early 1987. To
+receive a registration packet, send a long stamped, self-addressed envelope to:
+Summer Meeting, A.S.P., 1290 24th Ave., San Francisco, CA. 94122.
+
+ASTROPHOTO VII
+
+The next astrophotography conference is coming up on March 14, 1987 at Moorpark
+College, Moorpark, CA. Prominent speakers, all day symposium on beginning and
+advanced astrophotography, latest information on films and techniques, amateur
+astrophoto competition, commercial exhibits, door prizes and refreshments. For
+additional information, send S.A.S.E. to: VCAS/ASTROPHOTO VII, P.O. Box 982,
+Simi Valley, CA. 93062
+
+2
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9oCFMjuCEvWVrXQrp'}]
+BOB STERN -- THE MAN WITH THE X-RAY EYES
+
+The San Jose Astronomical Association will play host to astronomer Bob Stern on October 25th at 8 pm. Bob will present a program on X-Ray astronomy. Since I know nothing about this branch of astronomy, this should turn out to be a most informative program. Bring your favorite dentist!
+
+SURFACE FEATURES ON GANYMEDE. THE RING NEBULA: "MY GOD! IT'S FULL OF STARS!" OR, SEE WHAT HAPPENS WHEN YOU LEAVE YOUR CAMERA T-RING AT HOME
+
+I knew that the title would catch your attention. This is not going to be another one of those star party reports that we have become accustomed to, but rather a look at pushing a Celestron 14 to the limits under the most near perfect observing conditions that I have ever experienced at Fremont Peak in the last 10 years. This is also a first a look into the Medlock 30-inch telescope.
+
+September 6/7, 1986. Fremont Peak State Park. Object: Jupiter
+
+The night of September 6th had to be considered one of those special evenings that will be long remembered by those of us who were at Fremont Peak State Park. It had been one of those wonderful Indian Summer days of warm, 80° temperatures. Even as evening twilight fell upon the Peak, the temperature only then slowly fell to a respectable 70°, staying there for the remainder of the night.
+
+Experienced observers at Fremont Peak will till you that a minimum of change from daytime to nighttime temperatures will usually result in steady atmospheric seeing conditions. On this particular night, Fremont Peak was also caught in the upper level of an extremely stable layer of air called an inversion. An inversion is the reversal of normal temperature change with altitude. Indeed, it was much cooler 1000ft below us as an extensive bank of fog blanketed the foothills, obscuring San Juan Bautista and Hollister.
+
+The uniformity of temperature throughout the night certainly contributed extremely steady atmospheric seeing. I would have to give this evening at least an 8 on a seeing scale of 1 to 10 (10 being perfect), with short periods of level 9 seeing. Imagine if you will, sub-arcsecond steadiness of 5 to 10 seconds long using magnifications of 100X up to 1000X. Jupiter was nearing a September 10th opposition, with the planet nearly 49 arc seconds in diameter. It was also higher on the ecliptic than it has been for the past 4 oppositions. Taking this recipe for Earth-Jupiter positions, near-perfect seeing, and combining them with state-of-the art production optics, the end result was a remarkable evening of planetary and deep sky observations.
+
+There are those however, who believe that the near-perfect seeing conditions were the result of my forgetting to bring my camera's T-ring. (I had planned a full night of planetary photography, specifically of Jupiter. Ol' Murphy strikes again!)
+
+While it is difficult to describe this exceptional planetary view to anyone who wasn't there, I'll give it a try.
+
+As viewed through the "Superior" C14, the great planet was resolved into 15 very distinct equatorial cloud bands. Within these bands lay a wealth of fine detail. Three coffee-colored, cigar shaped clouds (holes in Jupiter's equatorial belts), were following each other in a procession along a northernmost equatorial festoon. During periods of "perfect" seeing, these regions looked like a boiling caldron of light and dark foreless shapes. Until this evening, I had never before seen this kind of detail in any telescope.
+
+Great festoons of gas, as if air brushed onto the planet, were flowing perpendicular from a broad, terra-cotta colored northern equatorial band. The high velocity of Jupiter's rotation at its equator caused these "festoons" to curve away from the direction of the Jupiter's rotation, resulting in comma-like cloud formations crossing the equator. Mixed in among these belts and festoons were a host of other fine details consisting of bands of wave-patterned clouds and small white ovals.
+
+At 2:50 AM, September 7th, the Great Red Spot transited Jupiter's central meridian. The exceptional seeing allowed a detailed examination of Red Spot features. While the Red Spot has faded from its brick red color in the last decade, the great elliptical depression it creates in Jupiter's southern hemisphere is easily noticeable in virtually any telescope. On this night, the interior of the spot was colored a light pink, with a thread-line-thin band of dark red clouds on its leading eastern and western edges. A broad, cream colored cloud band enhanced the view by surrounding the entire elliptical storm vortex, offsetting the spot from the major southern equatorial belt it appeared to be floating in. Searching for mottling and other fine details within the spot itself at 180X, 280X, and 500X proved unsuccessful.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9ooTb21CszEmV9eiJ'}]
+With seeing this good, I was tempted to search for faint details upon Jupiter's
+largest moons. Jovian lunar disks were easy, this evening, it was the size
+difference of the moon Ganymede to the other Galilean moons. At 1000X
+Ganymede, the largest of the Galilean satellites, presented a disk of only a
+few arc seconds in diameter. It was not unlike a view of the planet Neptune as
+seen under high magnification.
+
+I did not really expect to see any fleeting surface details on Ganymede. They
+have been observed in telescopes much larger than the 14-inch. (60-inches?) At
+1000X magnification, the C14 also exhibited the need for some minor optical
+collimation adjustments. 15-minutes later after a little turning of the
+secondary mirror and some very minute turns of the secondary adjustment screws,
+the C14 was probably in the best optical collimation it had been in since 1979.
+Now the Galilean satellites exhibited extremely fine images with sharply
+defined disks easy at 1000X. Still, no faint details were seen within the disk
+of Ganymede after a considerable amount of eye strain. (Once the FPOA 30-inch
+is tweaked this will be an interesting challenge for experienced observers)
+
+FIRST UIEWS THROUGH THE 30-INCH
+RING NEBULA AT 1800X
+
+On the same night of the incredible seeing conditions mentioned above, Kevin
+Medlock successfully cranked the recently completed 30-inch Newtonian reflector
+up to an astounding 1800X. The object of this insanity was to put the gas
+shell of the Ring Nebula out to the edges of the eyepiece field in an attempt
+to get a better view the illusive 15th magnitude central star, and a chance at
+an even fainter second star within the ring. This was only the third night that
+the giant telescope has been used. Each evening, Kevin had been able to tweak
+the optical and mechanical adjustments just a little to increase the
+performance of the giant reflector.
+
+At 1800X the central star was easy. Averted (perverted?) vision was not
+necessary and everyone daring enough to climb the ladder to take a peak were
+rewarded with a picture perfect view of the ring and its central star. Frank
+Dalbell was mumbling something about "My god, it's full of stars" as several
+observers were stunned seeing the glimmer of a second star at the five-o'clock
+position along the inside edge of the ring. I did not see any trace of a second
+star myself, but I don't doubt the observation due to the excellent seeing.
+
+Currently, the lack of a proper observing platform is limiting some of the
+observations with the 30-inch. Tall ladders are shakey and it is often
+difficult to reach the eyepiece when it is 12 feet or higher above the floor.
+So the telescope has mainly been pointed at the popular objects when they are
+within an easy viewing angle. Earlier in the evening we had a chance to look
+at M17, the Omega nebula, or the Swan, or the Check Mark, or whatever you want
+to call it. M17 is one of the brightest hydrogen clouds in the sky. The
+30-inch had no problem resolving fine striations along its main body of
+nebulosity. The faint envelope of nebula that surrounds M17, a thin bubble of
+gas, was easily observed. But the big difference with this telescope is the
+magnitude penetration on the fainter background stars. You practically need
+sunglasses to protect yourself from all of the concentrated starlight. The
+great globular star cluster M13 was awash with starlight. It was almost too
+bright!
+
+DEEP-SKY-DIUING -- ADVENTURES IN DEEP SKY UIDEO ASTROPHOTOGRAPHY
+
+On the night of the FPOA dedication August 30th, Mr. Video had the opportunity
+to point his video camera into the eyepiece of the 30-inch. It was amazing to
+see 2 moons of Jupiter and several Jovian cloud belts and zones through the
+tiny video monitor. For added special effects, Jupiter could be zoomed in and
+out using the controls on the camera, while a half dozen observers sang and
+provided a host of background sound effects ranging from Star wars' space
+battles, to boobs and ahaas, to comments like "Bitchin' dude" and "Moonlight!
+As if that wasn't enough, the video camera was positioned behind the output of
+an image intensifier to actually see the elusive Saturn Planetary Nebula. Impressed
+with these images, the 20-inch was turned to the Ring Nebula, where Mr. Video
+and his friends did the "night space doenut" and associated field stars.
+AMAZING! Astrophotography will never be the same. Time to save those penneys
+for a CCD camera, and begin looking for a place to store the liquid nitrogen.
+
+A 6-INCH REFRACTOR OF EXCEPTIONAL MERIT
+
+As if the excellent seeing conditions, and having access to a 30-inch telescope
+wasn't enough, a number of us were treated to really spectacular wide-angle
+views through a 5-inch f/8 refractor equipped with surplus 40mm wide-angle
+eyepieces. The telescope, constructed by Randy Post, was of simple design. The
+Jagers 5-inch objective was supported on a very simple alt-azimuth pipe
+mounting. The bearings for the pipe mount consisted of old crankcase oil and
+rust! The entire assembly was carried on a well designed, folding tripod which
+looked more like the fins off of a V2 rocket than any tripod that I had seen
+before. Crudeness of this mounting aside, it was the smoothest operating mount
+that I have encountered in a long time. The 4.5-foot tube assembly could be
+turned around with ease from object to object. And what fantastic celestial
+views. Randy had gone to considerable trouble to insure correct tube baffling
+which resulted in extremely high contrast images of the sky.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9pLxCccrM2mJif95U'}]
+The famous double cluster in Perseus was a field of tiny diamonds thrown against black velvet. The surplus eyepiece help sharp images almost to the edge of the 2.5 field of view, with the f/8 focal ratio, and good tube baffling adding to the contrast between the stars and the sky background. The Andromeda Galaxy extended out of the eyepiece field! Great lanes of obscuring dust were visible crossing below the nucleus, as were the companion galaxies. The great spiral arms were traced at least 1 additional eyepiece field from the nucleus. I really couldn't tell where they ended.
+
+The telescope was easily turned to the North American Nebula. No UHC filter was needed here as both the North American Nebula and the Pelican Nebula filled the eyepiece. Nice!
+
+I finished up by quickly taking a peak at NGC 253, a bright, slightly tilted galaxy in Sculptor. The view was superb. The mottled splash of light that was the galaxy appeared suspended in a black, star studded field. It put to shame the view of the same galaxy as seen in a nearby 17.5-inch Newtonian.
+
+This concluded another memorable night at Fremont Peak. The C14 was shut down, the door to the camper closed, and it was time to grab a few hours need sleep before sunrise. Next stop, the Donkey Dell!
+
+AMATEURS & ASTRONOMERS OFFERED OBSERVING TIME ON HUBBLE SPACE TELESCOPE
+BY: STEVE PERANICH
+
+With the advent of the 20th century the days have long disappeared when an amateur astronomer's contributions to scientific research projects and the exponential pace of modern science has left little room for major discoveries except by highly trained specialists. Still, there is one scientific field where the lone amateur, the person pursuing a study for the sheer joy and excitement, can make important contributions. That field is astronomy.
+
+The Space Telescope Science Institute has recognized the value of amateur astronomers by announcing that they will be given an opportunity to use the Hubble Space Telescope for observation programs.
+
+A far cry from home made telescopes and newspaper star charts, the Hubble Space Telescope will be one of the greatest scientific instruments ever produced. Why then, would accountants, secretaries and school kids be offered the chance to take up time on this instrument?
+
+"The professional astronomy community is deeply grateful to amateur astronomers for decades of valuable assistance in our observational programs", explains Dr. Riccardo Giaconni, the Director of the Institute. "I look to amateur astronomers to ask refreshingly new questions and I expect that they will make a real contribution to the advancement of astronomy."
+
+Throughout history amateur astronomers have made vital discoveries in the understanding of the universe.
+
+The 11-year long sunspot cycle was discovered by Heinrish Schwabe after more than 20 years of daily solar observations; Caroline Hershal discovered eight comets and one of the satellite galaxies of Andromeda; her brother, William, discovered Uranus and analyzed the structure of the Milky Way; Milton Humason, a mule driver at the Mt. Wilson Observatory, made spectral analysis of galaxies that helped provide Edwin Hubble with the evidence he needed to explain the expanding universe.
+
+In an era where professional astronomers rarely look through an eyepiece amateurs around the world can be found at observing sites far from city lights. Amateurs are routinely called on to provide vast quantities of observations to help measure astronomical events.
+
+One of the most common activities is occultation observations. As on objects such as an asteroid passes in front of a star, amateur astronomers across a wide swath of the earth will time when the star blinks on and off. By correlating all the observations, the shape and path of the asteroid can be precisely measured.
+
+Other activities of amateurs involve: mapping lunar regions not adequately covered by the Apollo program: monitoring the brightness levels of variable stars; timing the eclipses of Jovian moons to improve the understanding of their orbits; and designing an amateur space telescope of their own.
+
+Giaconni will provide the amateur observing time from the discretionary allotment he is given as director. That time is reserved for observations of exceptional merit or importance that might not otherwise pass through the normal review procedure, such as an unexpected supernova explosion or a newly discovered comet.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9ptgxLxq4rho5dQzH'}]
+A working group has been established to work out the details of how amateurs will be granted time on the telescope.
+
+Stephen Edberg ran the amateur portion of the International Halley Watch designed to gather as much information as possible on the famous object.
+
+With more than 300,000 amateur astronomers in the United States, the working group should have no shortage of proposals from which to choose.
+
+Putting together a SJAA project might be a way of increasing our chances for HST observing time. If any member has ideas, contact Steve Pehanich at (408) 226-2341
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+No new comets have been found lately, but one comet, visible through most telescopes, remains in our evening sky. Meanwhile, near the end of October some keen-eyed observers may be able to pick up Halley's Comet in the morning sky.
+
+Comet Wilson (1986L): As reported last month, this was found in Pegasus on photographic plates taken Aug. 5. Christine Wilson reported the find. We now know that the the comet was then more than 3.5 AU from the sun and 2.8 AU from the earth. Early magnitude estimates ranged from 8 to 12, with magnitude 12 proving to be more realistic. Yet even at that brightness, early predictions suggested that this comet could reach magnitude 3 next spring. This would make this comet comparable to Halley's in brightness and position. During August, however, Comet Wilson not only failed to brighten as rapidly as the average comet, but remained a very tiny object. So this is not likely to be a real bright comet, but it is a very interesting one.
+
+For Northern Hemisphere observers the comet will slowly brighten during the last four months of 1986. Presently at mag. 11, it will be mag. 9 by the end of the year, when we'll lose it in the evening twilight.
+
+For the first six weeks of 1987 the comet will be too close to the sun for observation. Throughout March it would be visible to the Southern Hemisphere, while very low in our morning SE sky as it brightens from mag. 7 to 5. During April, when the comet is closest the sun at 1.21 AU, it will be high in the sky from the Southern Hemisphere, but lost to Northern observers. With luck it might reach mag. 5 when closest the earth (63 million miles) in early May.
+
+Our best view will be in mid-May, as the comet moves northward into our evening sky. Then at mag. 6, the comet will be visible to us until we lose it in the evening twilight in mid-July at mag. 5.
+
+Although Comet Wilson has a different orbit than Halley's Comet, its positions and brightness are similar to Halley's. You might want to start following this comet now and take advantage of the full observing window.
+
+WHAT GOES AROUND COMES AROUND - HALLEY'S COMET
+
+Last month I reviewed some of the public's observations of the comet. Let me take just a few minutes to discuss my personal thoughts on Halley's.
+
+My two goals, stated one-and-a-half years ago in this column, were to make useful Halley's observations on 100 different nights, an to show it to 100 people who would not have seen it otherwise. I reached the first goal, and indirectly reached the second by organizing our club's public viewing sessions. I had many good times showing the comet, but there's two that will remain in my memory forever.
+
+Comet Wilson (1986L)
+
+DATE R.A. (1950) DEC    ELONG   MAG.        NOTES
+
+09-22 20h 46.2m +13°49'  191°   11.4 This comet remains very small, less
+09-27 20h 37.3m +11°59'  126°   11.3 than an arc minute in size.
+10-02 20h 29.1m +10°07'  120°   11.2 After finding the field in low power,
+10-07 20h 21.7m +08°16'  114°   11.2 switch to high power and search for
+10-12 20h 15.2m +06°28'  108°   11.1 a tiny fuzzy "star". By mid-Oct.
+10-17 20h 09.5m +04°43'  102°   11.1 the comet is 267 million miles from
+10-22 20h 04.6m +03°02'   96°   11.0 the sun and 229 million miles from
+10-27 20h 00.6m +01°26'   90°   11.0 the earth. Comet Wilson may
+11-01 19h 57.2m -00°04'   84°   10.9 display a short tail.
+11-06 19h 54.6m -01°30'   78°   10.9
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9qPTjrgtpEr7KbkQj'}]
+The first occured last November, when I took my telescope to a convalescent home. A half-dozen older people, most in wheel chairs, gathered around the scope, each taking a look and seeing the comet. Finally, one gentleman, a former science school teacher, now in a motorized wheelchair, maneuvered slowly to the eyepiece. He then tilted his head and looked through the telescope. After nearly a minute of silence I began wondering if it was even visible to him. "Do you see Halley's Comet?", I asked. He backed his wheelchair away from the scope, and with sadness in his voice, slowly announced "I've waited my whole life to see this comet, and now I've seen it". I suppose a lot of people felt this way, but no one expressed it quite like him.
+
+The second occured this June, when I had Halley's in the telescope and held Matthew, our three-month old adopted son, up to the eyepiece. He looked, but said nothing. My friend Rich Page summed it up by saying: "At least he has a reasonable chance of seeing it next time it comes around."
+
+Here are positions, elongations and magnitude estimates for Comet Halley. Also given is the comet rise time and the morning astronomical twilight time for selected longitudes (75°, 90°, 105°, and 120° W.), for standard latitudes 35°/40°N. Subtract four minutes for each degree you are located east of these longitudes, or add four minutes for each degree west. Finally, I list the distance in millions of miles from the comet to the earth and from the comet to the sun.
+
+Periodic Comet Halley (1982i)
+
+Date    RA  (1950)  Dec   El.  Mag.  HC+40°AT  HC+30°AT  EARTH (DIS) SUN
+
+10-22  11h 34.1m  -11°53'  32°  12.2   0516+0547  0503+0546  428.8   353.4
+10-27  11h 35.7m  -12°18'  36°  12.3   0459+0552  0446+0549  429.3   358.3
+11-01  11h 37.1m  -12°42'  40°  12.3   0342 0457  0329 0452  429.2   363.3
+11-06  11h 38.3m  -13°06'  44°  12.4   0325 0502  0311 0456  428.5   368.2
+11-11  11h 39.2m  -13°29'  49°  12.4   0308 0507  0253 0459  427.3   373.1
+* Denotes Daylight Savings Time.
+
+
+CALICO OBSERVATORY - GREAT RED SPOT
+BY: JIM VAN NULAND
+
+The times in the table are the moment when Jupiter's Great Red Spot will be facing directly toward the Earth; as we see it, this means that the Spot will have reached the middle of Jupiter, best placed for observations. For instance, the splendid drawing on page 270 of the September issue of Sky and Telescope was made about 15-minutes before central meridian time. You may expect to see the Spot for at least an hour before and after the tabular times, and if seeing is very good, you may get glimpses as much as two hours away.
+
+Great Red Spot on Meridian PDT
+da mo  d    h  m        da mo  d    h  m
+W  10  1    2 28 am     Th 10 23    0 37 am
+W  10  1   10 18 pm     Th 10 23    8 29 pm
+F  10  3   11 59 pm     Sa 10 25    2 14 am
+Sa 10  4    7 47 pm     Sa 10 25   10  2 pm
+M  10  6    1 36 am     M  10 27   10 40 pm
+M  10  6    9 22 pm     Tu 10 28    6 33 pm
+W  10  8    3 12 am     Th 10 30    0 24 am
+W  10  8   11  8 pm     Th 10 30    8 10 pm
+Sa 10 11    0 44 am     Sa 11  1    1 59 am
+Sa 10 11    8 31 pm     Sa 11  1    9 56 pm
+M  10 13    2 20 am     Su 11  2    5 47 pm
+M  10 13   10 14 pm     Tu 11  3   11 33 am
+W  10 15   11 45 pm     Tu 11  4    7 19 pm
+Th 10 16    7 44 pm     Th 11  6    1 13 am
+Sa 10 18    1 25 am     Th 11  6    8 59 pm
+Sa 10 18    9 15 pm     Sa 11  8    2 42 am
+M  10 20    3  9 am     Sa 11  8   10 41 pm
+M  10 20   10 56 pm     Su 11  9    6 32 pm
+Tu 10 21    6 53 pm     Tu 11 11    0 20 am
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9qtifp1u5nzstkKgK'}]
+THE CELESTIAL TOURIST SPEAKS
+BY: JAY REYNOLDS FREEMAN
+
+[FIGURE: Simple line drawing of Saturn with rings]
+
+Twenty to thirty people attended the September 6 SJAA Star
+Party at Henry Coe State Park. It was a beautiful night,
+with high temperatures and little wind. The
+temperature inversion that kept us warm also confined the
+increasingly dense low-level cloud and fog to the valleys
+below the observing site, so that by mid-evening the city
+lights were considerably blanketed and the sky was getting
+dark. I used my 8-inch f/5 Dobson-mounted Newtonian and a
+companion's Bushnell "Ensign" 7 X 50 binocular to give an introductory
+celestial tour.
+
+We began by looking at the several-day-old Moon, low in the western twilight.
+My friend had never seen the Moon through a telescope, and her "reaction
+reminded me of my own first view of the craters and maria, as a child in
+Vermont. We moved over a few degrees to Venus, and I took the opportunity to
+point out that the dramatic difference in phase between these two sunlit
+spheres indicated that the distance, from the Earth-Moon double planet, to our
+Cytherean neighbor was a substantial fraction of the distance from either Luna
+or Venus to the Sun. Later, my friend was fortunate enough to see Venus flash
+briefly green as it set over the coastal ranges to the southwest. We had
+looked for a solar green flash but seen none. I have never personally observed
+this phenomenon from a planet, though I know it has been reported. I regret I
+wasn't looking.
+
+In due course we moved on to the deeper sky. My friend was anxious to learn
+where things were and how to find them, so we settled into a routine of using
+the binocular to locate brighter Messier objects with respect to the naked-eye
+stars as we observed them with the greater light-grasp of the eight-inch.
+
+We went through the bright summer globular and open clusters and the Messier
+emission nebulae in the southern Milky Way. I offered the Dumbell Nebula, and
+my friend wanted to know how astronomers called "planetary" nebulae. This query
+presented an excellent opportunity to go on to fainter things. I brought NGC
+6818, the Little Gem Nebula, into an 85X field, where its tiny blue-white disc
+showed how confusing these objects could be to an unknowing astronomer. I
+showed her dark enough that nearby Barnard's Galaxy, NGC 6822, was easy in the
+eight-inch at 41X. The newcomer picked it up immediately. I showed the Saturn
+Nebula, NGC 7009, as another interesting example of a planetary, but I had to
+save M57 till later in the evening, as it was then too close to the zenith for
+the Dobson to follow comfortably.
+
+We had looked at NGC 4565 on a previous evening, so the general features of M31
+were no surprise. The extent of this object never ceases to amaze me: even low
+in the northeastern sky it spanned more than half the field of the 7 X 50.
+Telescopic observers rarely bother with more than the nucleus and the central
+hub of this great galaxy, so I made a point of chasing down the dense star
+cloud in the body southwest of the nucleus, roughly twice as far from the
+nucleus as is common galaxy M52. This cloud shows prominently on most
+photographs of M31, but is nowhere near as bright as the central regions of
+the galaxy. Notwithstanding, the eight-inch found it easily, and with averted
+vision neither of us had any trouble holding it in the 7 X 50.
+
+We also looked at NGC 7331 and at nearby Stefan's Quintet. The later object
+was probably the roughest observation yet for my friend. She could see it, but
+commented that without me to tell her exactly where to look, she would
+certainly not have noticed it. In the eight-inch at 85X, I could see two
+distinct concentrations of brightness in the galaxy grouping. Last year,
+several club members were able to detect this wisp through Frank Dibbell's 100mm
+refractor. How times change: Less than ten years ago this object was
+considered all but impossible in any amateur instrument.
+
+We had to leave early, just as the Pleiades were above the treetops. I had
+wanted to stay till Orion rose, for I remember that the best view I have ever
+had of the Horsehead Nebula was from Coe on just such an autumn night. But
+that will have to wait for another star-party.
+
+ASTRO ADS
+
+FOR SALE: Celestron 8 with silver coated optics. With accessories. $1200.
+Paul Mancuso, (408) 946-0738
+
+FOR SALE: Celestron Super C8. Starbright coatings, standard accessories, dual
+axis drive corrector. Excellent optics. Mike Ryan (408) 988-1181 $1175.
+
+FOR SALE: Celestron 6-inch f/8 Newtonian reflector. Super Polaris (Nikon
+type) mounting with tripod. Standard accessories. $750 or best offer. Jim
+Eiselt (408) 374-5491
+
+8
 
 === PAGE 9 ===
-[Error extracting page 9: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9rSiFNtfjGYqtxMPm'}]
+SJAA MEETING AND STAR PARTY LOCATIONS
+GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross
+building in Los Gatos California. The large meeting room has kitchen
+facilities and large slide projection screen. This is also the location for
+the SJAA's "Indoor Star Parties", informal sessions where members gather to
+share their astronomical interests. Whatever your interest, astrophotography,
+deep sky observation, telescope making, or just arm chair observing, you'll
+find a friendly atmosphere at all of our meetings.
+
+The Red Cross building is located at 18011 Los Gatos-Saratoga Rd. From Hwy 17
+take the Hwy 9 (Saratoga) exit and continue west up the Los Gatos-Saratoga road
+for about 1.5 miles, turn right at Ross Ave. Then turn right immediately into
+the parking lot of the Red Cross building. Doors open at 7:45 PM, with General
+meetings beginning at 8 PM. General Meetings are held on the 4th Saturday of
+each month.
+
+INDOOR STAR PARTIES
+
+Each month there are several saturday evenings set aside for informal
+gatherings of amateur astronomers to share their common interest in astronomy,
+to "talk shop", or to simply enjoy the company of friends. Members are
+encouraged to bring in telescopes and accessories to share with the group.
+Typically there will be several telescopes, operating in the parking lot or
+there will be a slide show of recent astrophotography and star party events in
+progress in the meeting hall. The SJAA also holds it board meetings during
+this time as well as an introductory astronomy workshop that is conducted once
+a month. Indoor Star Parties are held at the Los Gatos Red Cross Building.
+
+HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill and take the East Dunne exit. Continue
+east towards the hills (around and past Anderson Reservior) for about 12 miles
+to the park. Past the park entrance you will see old ranch type buildings on
+the right and a horse trough. The gate (on the left) is locked but the club
+combination is 4585. Always lock the gate after yourself. If arriving after
+dark, please park outside the gate and hike in first to find an observing site
+before dark, please. Just a short distance up a hill beyond the gate is where
+the SJAA sets up equipment.
+
+FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas. Then take Hwy 156 east (San Juan Bautista
+exit) for two miles to a yellow flashing light. Turn right and go about 1/4
+mile to where the road reaches a "Y". Stay left for about 25 yards and then go
+right. (Watch closely for the Fremont Peak sign) Follow the canyon road for
+about 11 miles up into the park. The SJAA sets up in Coulter Camp. It's
+visible on your right as you drive up onto the main area of the park. There is
+usually a lot of astronomical activity here every clear new moon weekend. This
+is also the location of the FPOA's public observatory. Fremont Peak stands
+3000 ft above sea level. Arrive early if you are setting up equipment. 30 to
+40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+*        EPHEMERIS   is   published  monthly  by,   the  San  Jose Astronomical  *
+*        Association,  3595  Calico  Ave., San Jose  California  95124.  *
+*        Contributors are  welcome to submit  articles for  publication.  These  *
+*        should be typed and  submitted no later than the 12th  of the previous  *
+*        month.  All  submissions  should  be sent directly to the editor, John  *
+*        Gleason, 5561 Port Sailwood Dr. Newark, CA.  94560.  *
+*                                       OFFICERS  *
+*        PRESIDENT:  Bob Fingerhut................................408-263-4455  *
+*        VICE-PRES:  Tom Ahl.....................................408-268-3927  *
+*        SECRETARY:  Jim Van Nuland...............................408-371-1307  *
+*        TREASURER:  Jack Peterson................................408-262-1457  *
+*        EDITOR:     John P. Gleason..............................415-790-9250  *
+*                                  BOARD OF DIRECTORS  *
+*        Paul Mancuso................................................408-946-0738  *
+*        Jack Fletcher...............................................408-262-1457  *
+*        Bob Fingerhut...............................................408-263-4455  *
+*        Tom Ahl.....................................................408-268-3927  *
+*        Gene Cisneros...............................................408-923-6800  *
+*        Joe Sunseri.................................................408-224-8836  *
+*        Ron Walton..................................................415-776-9355  *
+*        Duncan Munroe...............................................408-448-5361  *
+********************************************************************************
 
 === PAGE 10 ===
-[Error extracting page 10: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA9sLHiErQGPb2Febyk'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+MEMBERSHIP ONLY: $ 10    MEMBERSHIP/S&T: $ 24.00   JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________________________
+
+Address ______________________________________________
+
+_____________________________________________________
+
+Telephone (____) _____________________________________
+
+Please bring this form to any SJAA meeting, or send to:
+Jack Peterson, Treas.
+San Jose Astronomical Association
+1840 Yosemite Dr.
+Milpitas, CA. 95035
+
+[ Phone: (408) 262-1457 ]
+
+Please check type of membership and if new
+or renewal.
+
+Membership Only____   Membership/S&T____
+Junior (Under 18)____
+New____   Renewal____
+
+
+Questionnaire (optional)
+
+What are your astronomical interests (e.g. astro-
+photography, deep-sky observation, telescope making,
+etc.)? _______________________________________________
+
+_____________________________________________________
+
+_____________________________________________________
+
+_____________________________________________________
+
+Do you own a telescope? _________ If so, what kind?
+
+_____________________________________________________
+
+Is there any specific area of astronomy that you feel
+qualified to help others with? _______________________
+
+_____________________________________________________
+
+_____________________________________________________
+
+
+SJAA EPHEMERIS
+3509 CALICO AVE.
+SAN JOSE, CA. 95124
+
+NON-PROFIT ORGANIZATION
+U.S. POSTAGE PAID
+PERMIT NO.5381
+SAN JOSE, CA. 95125
+
+
+TIME VALUE - DATED
+NEWS MATERIAL

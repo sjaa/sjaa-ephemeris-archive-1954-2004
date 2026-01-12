@@ -1,23 +1,938 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5n3RurJ5s6vn8myyr'}]
+# THE SAN JOSE
+# ASTRONOMICAL ASSOCIATION
+
+# EPHEMERIS
+
+## FEBRUARY 1985
+
+**************************************************
+* FEBRUARY 23rd GENERAL MEETING *
+* SPECIAL PRESENTATION ON "MODERN FITS: *
+* OPTICAL FABRICATION TECHNIQUES FOR MAKING *
+* SCHMIDT CORRECTOR PLATES" *
+**************************************************
+
+FEBRUARY 2 Los Gatos Red Cross build.
+Indoor star party. Doors open
+at 8 p.m.
+
+FEBRUARY 5 Full Moon
+
+FEBRUARY 8 The Peninsula Astronomical
+Society presents SOLAR ECLIPSE
+(see article inside)
+
+FEBRUARY 9 Los Gatos Red Cross build.
+Indoor star party and board
+meetings. Doors open at 8 p.m.
+
+FEBRUARY 12 Last Quarter Moon
+
+FEBRUARY 16 Annual field expedition for
+astronomical observation at
+Henry Coe State Park. See map
+inside. Use the club's lock
+and combination 4565 to enter
+gate. Please close and lock
+gate after entering. Dave
+Nuland still promises to have
+plenty of RC Cola on hand to
+celebrate the re-opening of
+park since last spring's
+earthquake. (see Paul Barton's
+article on "Cold Feet")
+
+FEBRUARY 19 New Moon
+
+FEBRUARY 23 General meeting 8 p.m. at the
+University of Santa Clara
+Alumni Science building. Board
+nominations and elections.
+After the program there will be
+a presentation on optical
+fabrication techniques used to
+make Schmidt corrector plates.
+
+FEBRUARY 27 First Quarter Moon
+
+MARCH 3 Los Gatos Red Cross Building.
+Indoor star party. Doors open
+at 8 pm. Don Machholz will be
+giving an informal talk on the
+up comming Messier Marathon.
+
+MARCH 6 Full Moon
+
+MARCH 9 Board meeting 8 pm at Bob
+Fimognari's home.
+
+MARCH 13 Last Quarter Moon
+
+MARCH 15/16 Messier Marathon part I at
+Loma Prieta. (see article)
+
+## 5TH ANNUAL ASTRONOMICAL AUCTION
+
+As of this Ephemeris, the 5th annual SJAA
+Astronomical Auction will be held on May 4th
+at the Los Gatos Red Cross building. Mark
+your calendars. No times have been set yet.
+Please watch for mailings and more
+information in the months to come.
+
+AND THE LIGHT SHINES IN DARKNESS
+BY: CAROL AND BARRY BEAMAN
+
+Barry and I were assigned to run the
+July 28th public viewing session at Quarry
+Hill Observatory. We opened the observatory a
+little before dark since Saturn and Jupiter
+were both up. It was a clear, warm night and
+we were able to show people Saturn and M-13
+through a small 4.25" reflector on the front
+lawn and Barry had the observatory's 12.5"
+reflector trained on Saturn.
+
+There were about 30 people in line
+awaiting their turn at the larger scope's
+eyepiece. As one rather athletic looking
+young man got his turn at the eyepiece he
+asked Barry to help him up to the eyepiece. A
+little surprised, Barry guided him up the 12
+step ladder. Midway up, the man whispered:
+"I am almost totally blind. I just want to see
+Saturn. You see I can look" At first Barry
+started to point toward the eyepiece and then
+he realized that was useless. Instead Barry
+took the man's hand and guided it around the
+eyepiece, instructing him to look right in the
+middle. As the man leaned over, he exclaimed:
+"I see it. I see a star!" Barry started to
+explain that the object he was looking at was
+not a planet, Saturn, but the really didn't
+matter. The man had just admitted to seeing
+anything more than the light, but he was
+satisfied.
+
+As they reached the bottom of the ladder
+the man thanked Barry and said: "That's the
+first star I have ever seen a star!" As the
+man's companion guided him back out of the
+observatory, the blind man looked back and
+gasped - "My gosh, he's blind!" The dome fell
+strangely silent as the other people all
+pondered the idea of never seeing starlight."
+
+## THE ARTIFICIAL COMET
+
+BY: DON MACHHOLZ
+
+As widely publicized, an artificial
+satellite was scheduled to release a barium
+cloud on Christmas morning, 1984. However,
+real clouds prevented proper observation and
+aircraft placement to the dump took place on
+Dec. 27, and I was on Loma Prieta that morning
+and was able to observe it.
+
+Using both 7X50 binoculars and a 10-inch
+telescope, I began observing every few
+minutes. It first appeared as a fuzzy star,
+then a small ball with definite edges. This
+expanded rather rapidly, and when it was about
+0.3 deg. in diameter, a "wrinkle" developed
+across the center. As the cloud continued to
+expand, a tail formed on it. It was a wavy
+tail.
+
+The release was made 70,000 miles from
+Earth. From our location it was just below
+the star Spica, 30 deg. high in the SE sky.
+At no time did it become brighter than mag. 4.
+It was barely visible to the naked eye. After
+observing this I went back to looking for real
+comets.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5ne9UBNkbDS8iX4Rw'}]
+FROM THE EDITORS DESK
+BY: JOHN GLEASON
+
+The long awaited 1985 Membership roster is in
+the process of being edited. During this
+process I discovered that we are missing a lot
+of member's telephone numbers. I
+would like to include as many of these numbers
+as possible in the new roster. Below is a
+list of members for whom I do not have
+telephone numbers. If your name is listed
+please either call please call my number [415]
+780-9250 and/or mail your telephone number on
+the answering machine, or use the
+March 85' printing date for the Up-dated
+roster publication.
+
+BILL ALBRECHT         CLARENCE FUNK
+NORRIS ALLEN JR.      PETER GANDY
+DAVID ANDERSON         JOSEPH GULINO
+JOHN BAILY            JAMES HERRELL JR.
+DAVID BAROSSO         FREDERIC HOLLAND
+JIM BAUMGARDT         JEFF HORNE
+LEE BONNEAU           ALFRED MORTON
+MATT BOWMAN           PATRICK JONES
+MICHAEL BROWNING      EDWARD KINNEY
+RON CARMICHAEL        STEVEN KISSINGER
+DAVID COOPER          FRED KLEIS
+JOE COPSON            HOWARD KUHLMAN
+RAY COURCHI€          HARRY LEITNER
+PETER CURZON          ART LUMLEY
+BRUCE DEGRAAF         STEVE MANDELL
+PAUL DeWITT           JEFF MANGUM
+NICK DOUKAS           JACK MARLING
+PAUL DUNN             CONNIE MASSEY
+OWEN DURDEN           DOUG McCARDLE
+STEVE EDBERG          JAMES McMAHON
+MATHEW EDWARDS        JOSEPH METZ
+DAVID PERRY           DAVID MILLIGAN
+PAUL FLOYD            BARRY NORDEN
+BRUCE FRANK           GARY PALMER
+RICHARD FRAZIER       JACK PARKER
+RICK MORALES          RALPH PARLETTE
+MARK SCHIEMANN        GARY PARNETER
+HELENE SEEFRED        VINCE PECORA
+RONALD SEEFRED        DOUGLAS PENA
+WAYNE SEGLEM          JOSEPH PISTORO
+JOSEPH SUNSERI        JOSEPH PWETOR
+MICHAEL SUTORIUS      ERNIE PYER
+EVE TANNER            RICHARD RANDS
+ALAN THOMETZ          RICK REIS
+PAUL TREJO            JOHN RHODES
+MARVIN VANN           MICHEAL RYAN
+WILLIAM VORNADT
+JUDY WARREN
+EDWARD WEINBERG
+
+30TH ANNIVERSERY
+
+August 26th 1985 marks the SJAA's 30th
+year. Jim Van Nuland has a number of
+interesting items from those first meetings
+that your editor hopes to share with you in
+the August February issue. Other SJAA
+membership has info trivia that they would like
+to pass along forward to me. So, if you please
+forward gifts your gifts, please.
+
+JG: "Gene, you were a member in 1955?"
+JZ: "Yea, he was 32 years old!"
+
+A GIANT GRANT FOR A GIANT TELESCOPE
+BY: ERICA GOODE
+
+The world's most powerful optical
+telescope in Hawaii will become a reality through a $36
+million grant from a private foundation.
+
+The grant, from the William M. Keck
+Foundation - a $500 million trust created by a
+California oil magnate - to the California
+Institute of Technology is believed to be the
+largest private private gift ever made for a
+scientific project.
+
+Sometime in 1988, engineers will begin
+construction of the giant "10-meter" telescope
+- equipped with a unique mirror almost 400
+inches across and made up of 36 hexagonal
+segments - atop the cloudless calm air high on
+Mauna Kea. Hawaii's 786-foot high inactive
+volcano.
+
+Once it is finished, UC and Cal-tech
+astronomers will have at their disposal the
+world's most fantastic time machine, the
+allowing them to watch the unfolding of
+formation of the birth of stars and
+billion year ago galaxies that took place 12
+
+Building the telescope has been the dream
+of UC scientists for more than two decades.
+The honeycomb-like segmented-mirror design
+is the brainchild of physicist Jerry Nelson
+and his colleagues at UC's Lawrence Berkeley
+National Laboratory.
+
+Originally, UC officials hoped to be able
+to raise the $85 million to $100 million
+needed to build the telescope. perhaps with
+federal participation. But UC With the University
+Last April, they announced that UC had
+received a $36 million gift from the estate of
+Marion O. Hoffman, and even went so far as to
+christen the observatory with Hoffman's name.
+But finding additional money to complete the
+effort proved difficult, and legal problems
+complicated the Hoffman bequest.
+
+UC officials decided to approach Caltech
+hoping the private university, renowned for its
+astronomy department, would be able to make up
+some of the difference. But instead Caltech
+surprised them with a $70 million offer, an
+amount that will cover nearly the entire cost
+of the project.
+
+Now the telescope and observatory will
+be called the Keck Observatory. UC will be
+responsible for operating the telescope. The
+scientists will be held paid by Caltech - UC
+scientists who have spent years working on the
+project the. Keck grant has created mixed
+feelings from the UC point of view. It's a
+little disappointing that UC's share in all
+this seems to have gotten smaller. After all, we
+originally thought that we would have sole use
+of the telescope, and now that use will have
+to be shared with Caltech astronomers."
+
+The fate of the $36 million Hoffman
+bequest still being held by UC remains in
+question, and will be decided by next march.
+
+UC and Caltech scientists said they hope
+the telescope will begin operation in 1992.
+Mauna Kea, where numerous smaller telescopes
+are already located, is considered an ideal
+spot because of its clear sky, high above the
+thick layer of vapor that blocks infrared
+wavelengths and can make telescopic images
+"fat and fuzzy."
+
+THE SHADOW CAST BY VENUS
+BY: DON MACHHOLZ
+
+Last year at this time I wrote about the
+fact that the planet Venus can cast a visible
+shadow. At that time the planet was in the
+morning sky and was -4.1. Well, now Venus is
+in the evening sky, and it will be at its
+brightest (mag -4.6) in late February. Three
+pieces of paper helped me a lot to discover the
+shadow of my hand cast upon a sheet of white
+paper while I was at Saratoga Gap in the Santa
+Cruz Mountains. That can mean only one
+thing...the shadow is back!
+
+I would encourage you to try observing
+the shadow that Venus is now bright enough to
+cast. Have a friend hold a white sheet, or
+piece of paper and hold it perpendicular to
+Venus. Then place your hand, or a pencil or
+whatever in front of it, two or three feet
+away. You should see the shadow of the object
+on the paper. Shaking it may make [this more
+apparent then at great separation the shadow
+should appear more steady, more "firm", much so
+that under some conditions "the light" from
+Venus is not steady, but scintillating. This
+is due to the "shadow band" effect that I
+mentioned last year.
+
+It would be interesting to try
+photographing this. High contrast color film would
+be needed. I'd like to hear of any results
+you obtain.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5oQY6nTpeG49iMQGS'}]
+DEEP SKY NOTES -- FEBRUARY
+BY: STEVE GOTTLIEB
+
+The region surrounding Zeta Orionis is
+virtually the starchallenge beckoning the
+winter observer. Set your limiting truth itself
+" too eastern "most stars lies in Zeta itself.
+I find this mag 1.9 star an excellent
+challenge because located just 2.6 seconds of
+arc away is a difficult companion. This
+distance is comparable to the "double-double"
+Epsilon in the separations" and you might
+think that Zeta would split with comparable
+ease. But in this case the secondary
+companion is 3.6 magnitude or over 27 times
+fainter than the primary star!
+
+On a very steady night when Zeta shines
+with no accompanying turbulence, lock just SSE
+for the companion point of light. In my
+C8, the contrast pair forms a striking duo on
+still nights using 222X. I have never split
+this pair cleanly with a 5" off-axis mask on
+my 13" Odyssey at similar magnification.
+Though theoretically within the range of a 2"-
+3" scope, it would present a severe observing
+challenge. There is a 6th or 7th mag star that
+has pulled this duo apart. Owners of large
+reflectors or SCT's may want to experiment
+with off-axis masks.
+
+Just 15' ENE of Zeta is a large emission
+nebula NGC 2024. This object would certainly
+be more well known and observed if it weren't
+overpowered by the brilliant glare from Zeta!
+Of course it is Zeta's energy which ionizes
+the gas cloud NGC 2024 and causes it to glow.
+The observing trick here is to use a medium
+power and then place Zeta just outside your
+restricted field of view. A narrow band pass
+H-beta or an OIII Lumicon UHC filter will
+enhance your view of this nebula. "15" in my C8
+at 100X, I see a large cosmic "V", "15" in my C8
+in size, with the east side of the V slightly
+longer. A careful look at the base of the V
+reveals that it is broken, with a small gap
+occurring at its SW corner. Splitting the V
+sides of the V is a dark rift running down the
+center in a north-south orientation.
+
+Surrounding Zeta are a number of
+reflection and emission nebula. increases
+moderately bright 2'- 3' NW. Easiest of these
+is NGC 2023 located 27' ESE of Zeta. In this
+case a mag 9 star is surrounded by faint
+roundish glow which is quite obvious in my C8.
+Slightly fainter is IC 432 which can be found
+27' north of Zeta. Again we are dealing with
+a mag. 8 star enveloped by an easy diffuse
+glow about 4' in diameter.
+
+The supreme challenge in this area is
+certainly IC 434 and B33. The bright and dark
+nebulae which forms the famous "Horsehead
+Nebula". Before tackling The elusive
+horsehead itself, move Zeta just beyond the
+field of view and enter thick light. This is a
+fairly low power eyepiece. Standard nebula
+filter (UHC or Daystar-300) adds-reserve
+contrast, though I have heard the Lumicon's H-
+Beta filter works even better in this case.
+
+This past December 22, Mary Engls and I had a
+good look at this region at Bob Keistner's site
+at his observatory in the Sierra foothills
+near Fiddletown. First I noticed a long strip
+of very faint emission nebulosity running due
+south of Zeta through the full field - a
+narrow band, with a 1 deg. length running well
+south of NGC 2023, is catalogued as IC 434 and
+lies entirely within the average low power
+view. The horsehead itself - careful use of
+averted vision reveals a half - circular
+dark indentation protruding into the east
+side of IC 434 midway along its length and
+also just south of NGC 2023. There are 2
+pointers: stars just south which aid in
+finding the 1/2 deg long nebula. The
+indentation into IC 434 was catalogued by T.E.
+Barnard as B33 and only long - exposure
+photographs reveal its stiking horsehead
+appearance. B33 is actually a dark dense
+cloud of dust and gas and recently astronomers
+have pinpointed 4 regions of probable current
+star formation at its edges.
+
+SOLAR ECLIPSE 84'
+
+The Peninsula Astronomical Society
+presents SOLAR ECLIPSE 84' for its February
+8th meeting. SOLAR ECLIPSE 84' will bring the
+eclipse experience homeour to those of
+us who stayed at home. veteran lecturers
+Charles Jacques Guertin and Ernie Piggright
+narrate this color slide, print and movie
+presentation. Featured will be the
+astrophotographs of Huguetle Guertin, Rick
+Baldridge, Joe Schrock, Bill Shivelic, as well
+as other illustrators and photographers. The
+photographers have over 50 credits in
+publication of their photos in national
+Astronomy magazines. The program will be
+held in Appreciation Hall on the Foothill
+College Campus, Los Altos Hills, on Friday,
+February 8th at 8:00 PM. No Charge. For
+further information, you can call Bob Shelton
+at 415-257-8525 (eves)
+
+COLD FEET
+BY: PAUL BARTON
+
+This little story was brought on by an
+evenings outing at Grant Ranch.
+
+I know there are [see over 39] love to
+reminisce. But whose "15" listens. Seems to be
+no such verb, but there shouldn't be.
+
+Back in the good old days, cold feet
+were a problem too. Put on nice warm heavy
+wool sox on nice warm feet. Slip them into
+toasty warm boots and then go out into the
+cold cold world. This was guaranteed to give
+you cold feet. Frozen yet, if the weather is
+cold enough.
+
+The problem is a little dewy perspiration
+will form and break down the heat insulation
+of your sox. You know there are improved
+sox these days, but you had best eliminate
+this perspiration anyway.
+
+Be sure your boots and heavy sox are dry.
+Dry in an oven for a half an hour or so and
+cool, if necessary. Then put them outside to
+cool down. Now. The temperature is
+usually low enough so your feet will not
+perspire much, barefooted or in light canvas
+slippers. Be sure your feet are dry and
+cool. Now go outside and wait 5 minutes
+before putting on the chilled heavy sox and
+boots. (known, pard, for a reasonably
+comfortable outing.
+
+Fifty years ago, in the northern states
+like Montana, I guest was expected to remove
+his boots and leave them outside. Commonly
+slippers would be provided. But visiting in
+stocking feet was quite acceptable. On
+grounds of chilling the feet outside. On
+grounds of chilling the feet, resume the
+cold boots. This applied even at the grocery
+(general) store: at the bar or where ever of
+the small farming community. At the dance
+hall you brought your own dancing shoes.
+
+I once froze my feet by going into a for
+for no more than five minutes, without
+removing my boots. Frozen (frosted) feet
+feel like walking on stilts. They even sound
+like stilts on wood!
+
+ASTRO ADS
+
+FOR SALE: Unitron 4" equitorial refractor
+Model 152 (circa 1970) with all original
+accessories plus motor drive, drawings has
+been modified with 1.25" star diagonal to
+accept 1.25" eyepieces. $1000 FIRM! Contact:
+William R. Billings. 5271 Dupont Ave.
+Newark, CA 94560. 415 792-9206
+
+QUESTION OF THE MONTH
+
+" Why are there so many ladybugs at
+professional observatories?"
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5oz1chjyHfoJAJBLa'}]
+# TRAVELS WITH CHARLIE TELESCOPE
+BY: DENNI MEDLOCK
+
+Those of us with portable telescopes who take them out observing have a myriad of stories to tell. These are a few of the incidents which have happened while still on the road en route to some observing site. Since we tend to travel with everything but the kitchen sink, most often the tube assembly of the largest telescope is delegated to a roof top view, and from that position has received a bevy of many a hilarious situation.
+
+In the early days of our travels with telescopes, our vehicle was a 1968 VW Squareback with a roofrack that held the tube assembly for Kevin's wife named Starbist. (As it's more note, Starbist is gone subsequently being replaced by various Dobsonian mounts— Webster, Cris Pratt and now Joe Sunser]). As was the fashion with telescope makers at the time, the sono tube was covered with silver contact paper. Perched atop the Squareback, quite et al, it was a curious site to say the least.
+
+On our 1974 trip to Kitt Peak the scopes (Kev's 12" and my 8") went with the 12" in its usual place on top. By then we had gotten used to the curious stares given us from sidewalks and passing cars. It seemed very strange—we now (or could figure out) what that thing atop the car was. One waitress in a hamburger joint even had the courage to ask for our order. Instead, she asked what that silver tube on the car was. When we said it was a telescope she turned triumphantly to the crew in the kitchen and said, "I win! it's a telescope!"
+
+Virgin proved to be a great place to travel through the scopes. One man asked Kevin if the 12" was a one man sub. (In Arizona?!") We were asked what type of gas we were, using by a road crew we had to stop for in the desert. And, since many people travel to see Monument Valley's sandstone lands, petrified forest, "painted desert," etc., we came back in the car after hiking the meteor crater to find a somewhat familiar station wagon parked next to us. Its occupants leaning against the VW, apparently waiting for our return. Their comment, "We've been following you for the last 500 miles. What is that thing on top of your car?"
+
+Having gotten used to people not knowing what it was we were rather surprised when, after pulling into a rock shop in Old Tuscon, the clerk behind the counter said, "That's a nice telescope you have there." It's a 12" job made at a music store that is on the 2nd floor he introduced himself as John Difines, public relations photographer for Kitt Peak. And then he smiled and said, "I have something you might like," and pulled from a dark, dusty corner an 18"X24" black and white print photo of Kitt Peak, which he gave to us. Who says telescope users aren't friendly?
+
+Last year as Fremont Peak's many star parties at Fremont Peak returning home one Sunday morning we were on Hwy 101 about to make the Hwy 17 interchange to Oakland when we were passed by a car that had a woman leaning out the passenger window and yelling, "My husband wants to know if that's who else do you think it was but Jeanfmrs. A.B.) Gregory, in a very uncharacteristic pose!
+
+The 12" passed to other hands but still maintained its roof top position with dignity. Don McGlauflin, in a hurry to get to a grazing occultation the SJAA was having in Morgan Hill the evening, was pulled over in his car by the CHP for speeding. His explanation included that he was late for an important astronomical event and that scientific data would be lost if he didn't get there with his telescope (gesturing to the tube assembly on the roofrack). The officer, no doubt dazzled by the constellation of equipment he had ever heard, and intimidated by the silver thing atop the car let Don go without a ticket!
+
+As the years went on and the telescopes grew in size so did the vehicles used to carry them. Sometime during 1979 the SJAA acquired a 1968 Chevy van that seen had roofrack on top and an "End Light Pollution" sticker on the bumper. The 18" tube assembly box for the declination housing. At the time it did not look like a conventional amateur telescope.
+
+We found a man waiting for us when we came out of a store in Modesto on the way to the 1970 Riverside Conference.
+
+"That's a nice telescope you have, but what's that thing underneath it?" he asked.
+
+(At the time the 18"had a blue 6" RFT mounted to the declination box as a finder scope.)
+
+"Ya know, "That's the telescope," Person: "I know, and it's a nice one, but what's that thing underneath it?"
+
+Kevin: "That's the telescope."
+
+Person: (the implications slowly dawning) "Oh."
+
+Our summer of 1980 trip cross country to the Stellafane Convention had its high points. We were mistaken for a balloon chase team somewhere in Wisconsin (ballooning is big in the Midwest, evidently bigger than astronomy.) And had to silently endure the overheard comment "I think those folks from Missouri are comin' to see some place called 'Stellafane.'" (It's a telescope." "Naw," I ain't no telescope. It doesn't look like one. It ain't even white.")
+
+1500 miles worth of smashed bugs had collected on the front surfaces of the tube assembly by the time we arrived in Vermont so we made it a practice to stop every evening joyfully with a multi-layer coating of wings stuck so we could see out the car in Chester, and, you guessed it, ran the van, telescope and all through the spray wash!
+
+Yes, if you've ever been to Stellafane you know it can be difficult to find. Even though the conference officials would let us miss out on the Springfield telescope makers put on Thursday night are gone to souvenir hunters. Friday morning, we discovered this problem as we approached the site and realized we probably and were close to the side road. (It's in a dense wooded area, difficult to see, and the sign at the road.) Turning around, we stopped to ask the first of about a dozen cars that were behind us if they knew the way to Stellafane. They were just as lost as in disbelief.
+
+"Oh, I was following you. After all, you're the one with the telescope on top... I figured you would know where you was going."
+
+Wonderful! Despite this misplaced confidence we all found the site.
+
+Rocky Mountain National Park is a very busy tourist attraction. Busy enough to have three entry kiosks. We took the far right one where the ranger in charge looked at us and noticed that the ranger in the far left station was waving and yelling at us excitedly.
+
+"Where did you buy your telescope?" he yelled across to us.
+
+"I made it!" Kevin yelled back.
+
+"Where did you get the kit?" the ranger asked back.
+
+We eventually pulled over and in the ensuing conversation discovered that the right ranger at the park was looking for something larger. On seeing the 18" he thought it was nice what we're looking for. I never did ask him what. Travelling with a telescope in full view of the public can give you a good education in human nature. We've had people yelling questions at us about astronomy from cars or the side of the road, holding us up in the San Francisco rush hour traffic. I don't know how many mph down the freeway other drivers who got so liked of all the "ooks" and questions he came up with a great solution. Doug Berger has a big green Dobson named Edelweiss, the tube of which he also carries in his car. His approach to the problem? He has a custom bumper sticker made that when placed on the car under the tube reads: "BERGER THE HUMAN CANNONBALL!"
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5ryM6EsRgxaCHjXvL'}]
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+No comets have been discovered or recovered during the past month. There are three comets still visible in our skies. Enough comets are visible for observations for them. We'll take a look at Halley's Comet. You may wish to attempt to photograph it although it is still rather faint.
+
+The year 1984 saw a total of 21 comets discovered or recovered. This ties for the record with the years 1975 and 1983. Returning comets were recovered by professional astronomers, this is about the average for the past ten years. Meanwhile, eight new comets were discovered by professional astronomers, more than for the average year. Five of these finds were by the Shoemakers. Eight new comet discoveries is well above average for the past ten years, being 3.5. Let's wait and see what the year 1985 brings!
+
+DATE    R.A. (1950) Dec.  Elong. Mag.
+
+Comet Levy-Rudenko (1984t)
+
+01-30  16h 44.8m   +65°12'   95°    9.2
+02-04  15h 32.5m   +71°26'  104°    9.3
+02-09  13h 18.4m   +74°36'  113°    9.4
+02-14  10h 56.3m   +71°23'  121°    9.6
+02-19  09h 37.8m   +64°03'  127°    9.9
+02-24  08h 58.7m   +55°52'  131°   10.3
+03-01  08h 38.0m   +48°16'  131°   10.6
+03-06  08h 26.3m   +41°42'  130°   11.0
+
+This comet moves swiftly through the north polar region. It will be above our horizon all night. This is our brightest known comet this month; it may even brighter than predicted here.
+
+Comet Shoemaker (1984s)
+
+01-30  05h 33.4m   -17°21'  120°   10.3
+02-04  05h 52.8m   -16°22'  121°   10.5
+02-09  06h 11.9m   -15°10'  123°   10.7
+02-14  06h 28.9m   -13°50'  124°   10.9
+02-19  06h 45.7m   -12°25'  124°   11.2
+02-24  07h 01.5m   -10°58'  124°   11.4
+03-01  07h 16.6m   -09°33'  125°   11.7
+03-06  07h 30.8m   -08°11'  125°   12.0
+
+This comet might be difficult to see because it's so diffuse. Look for a fuzzy object appearing like M 33, but 3' in dia. Some observers have reported a tail. It will be in southern Orion, then north of the star Sirius.
+
+Periodic Comet Schwassee (1984n)
+
+01-30  15h 26.3m   -04°52'   79°   10.5
+02-04  15h 36.7m   -05°29'   82°   10.7
+02-09  15h 46.2m   -05°57'   84°   10.8
+02-14  15h 54.8m   -06°24'   87°   11.0
+02-19  16h 02.4m   -06°46'   90°   11.1
+02-24  16h 09.0m   -07°05'   93°   11.3
+03-01  16h 14.7m   -07°21'   97°   11.5
+03-06  16h 19.3m   -07°35'  100°   11.6
+
+This comet appears small, and the magnitude predictions may be off by a bit. The comet is moving away from the sun and building to about 1.2 AU from the earth.
+
+WHAT GOES AROUND COMES AROUND--HALLEY'S COMET
+
+One of the best ways to understand the path of Halley's Comet of the next two years is to visualize it making several passages around the sun. Each passage is different than the others, but the orbits and ends and a solar conjunction. That is, the comet will emerge from the sun's rays in the morning sky, slowly (taking a few months) move across the starry sky, then disappear in the solar glare in the evening sky. While we know exactly what will happen, it is the apparent time, brightness, or magnitude of the comet is still (and always will be) debatable. Here are the passages of the comet which most concern us.
+
+We can expect to pick it up with amateur telescopes next August as it emerges into the morning sky from the solar glare. This is the beginning of passage #2, listed above, which should be memorable for northern Hemisphere observers. During those months the comet will brighten to naked eye visibility while nicely placed in our evening December skies.
+
+PASS  BEGIN   MAGNITUDE    DECLINATION OPPOSITION END
+
+#1    6/28    about 21     +14° to +11°   12/23    6/12
+      1984    to 17.       to 17°        1984     1985
+
+#2    6/12    about 15.5   +17° to +22°   11/18    2/06
+      1985    to 4.0.      to -10°       1985     1986
+
+#3    2/06  4.0 to 4.5 to  -10° to -47°   04/14    9/15
+      1986 4.0 to 12.3. to -5° to -9°     1986     1986
+
+The important thing to remember is that the comet is most seen away from light pollution. When it gets bright enough, the best very evening is to go outdoors and look for the Andromeda Galaxy M 31, with the naked eye. If you can see that, then you will probably be able to see Halley's than year from now. If you don't know where to find M 31, then now is the time to begin learning. Start getting the astronomy magazines from the grocery store, books from the library, and visit the planetarium. You won't regret it.
+
+These orbits will give very good views from the Southern Hemisphere, as the comet will be south of the ecliptic for the whole passage. While it will be a difficult object for southern observers, it will still be visible to northern observers for nearly the whole passage. The longest tail should be displayed then too. By late April 1986, the comet will be low in the western evening sky but getting fainter, beyond naked eye visibility. Presently we're in passage #1, the comet is in northern Orion and too faint to be seen in most telescopes. But it can be photographed with large instruments; the positions are listed below. The distance to the comet is now 300 million millions of miles. The comet will be about magnitude 16 for the whole month, and probably as faint as a 17th star with even fainter nebulosity around it.
+
+The comet seems to be pulling away from us, and that is due to the earth's orbital motion. Think of looking at it out the rear window, so to speak, when the sun is in front. But fear not, as it heads toward the sun, its present speed is 36.425 miles per hour.
+
+DATE    R.A. (1950) Dec.  Dis. to Sun and Earth   Elong.
+
+01-30  05h 07.2m  +13°40.5'   431.6      405.6      123°
+02-04  05h 11.1m  +13°44.6'   451.8      405.6      123°
+02-09  05h 07.3m  +13°53.6'   457.6      405.5      117°
+02-14  05h 03.0m  +13°03.2'   452.8      411.6      111°
+02-19  05h 00.8m  +13°13.4'   448.4      415.6      106°
+02-24  04h 58.0m  +13°24.7'   445.4      418.9      102°
+03-01  04h 56.0m  +13°35.4'   433.9      422.7       98°
+03-06  04h 54.2m  +13°47.0'   434.9      426.6       89°
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5sfGmstacdYGEsdtr'}]
+1985 MESSIER MARATHON
+BY: DON MACHHOLZ
+
+Our Seventh Annual Messier Marathon will
+be held on two weekends this year. The first
+will be March 15-17. the second in March 22-
+24. Only one of these is necessary to attend.
+In the first weekend, during which 109 of the 110
+Messier Objects should be visible, will be at
+Loma Prieta. On the second weekend, from
+Grant Ranch Park, we should see 108 of the
+Messier objects.
+
+The object of the Messier Marathon is to
+locate as many as possible of the 110 galaxies,
+clusters and nebulae in the Messier Catalogue
+in one night! The catalogue is now 200 years
+old. it was developed by a comet hunter named
+Charles Messier. These objects are so placed
+on the celestial sphere that 109 of them can
+be observed in one night during March of each
+year. The moon helps to determine the days
+that we pick weekend when the moon is not too
+bright.
+
+Loma Prieta is in the Santa Cruz Mtns.
+To get there, take Hwy. 17 S. to Summit Rd. Go
+east on this road for 5.5 miles to your first
+stop sign. From here go left onto Mt. Bache
+and up a steep dirt road for .25 miles. If it
+ends, keep going 1.2 miles to the observing
+site - a wide area along the dirt road.
+Several months ago a sign was posted on the
+mountain to keep the four-wheelers and
+shooters away. - it! has worked too. But
+astronomers are still welcome. On clear
+astronomical twilight is at 7:40 PM PST in
+mid-March, so you need not get there before
+7:40 PM.
+
+Weather permitting, March 22-24 will find
+us at Grant Ranch Park, at the upper site if
+it's dry (unlikely), at the lower site if the
+ground is still wet (the norm). The upper
+site is 2.6 miles past Mt. Umunhum. On the
+left is a dirt road, take that for another 1.3
+miles to the set-up site. The lower site is
+in the park itself, at the southern parking
+lot. Because there are facilities in the
+park, you may want to come early and picnic.
+You might find our lock on the gates to either
+site (tomahawk) is 4363).
+
+You can do the marathon from nearly any
+site, as long as the horizons are low and the
+site is dark. Not everyone who attends are
+involved in the Messier objects, some observe
+the planets and NGC objects. Very few even
+stay out all night. And we find that Saturday
+nights are busier than Fridays. If you are
+planning to want observing order sheets or
+additional notes on the Marathon, please call:
+(408) 448-7077.
+
+
+
+15022 BROADWAY TERRACE, OAKLAND, CA 94611
+
+Specializing in Aluminum Coatings with silicon monoxide
+over-coating for telescope mirrors.
+
+4¼" $8.00
+6" $12.00
+8" $16.00
+
+Secondaries when sent with primary mirror, free
+To remove old coatings $3.00. Minimum charge $8.00. 10" $20.00
+Include postage and insurance for return mail 12½" $24.00
+Mirror will be shipped in container received.
+14¼" $28.00
+16" $50.00
+
+SPACE PROGRAM UPDATE
+BY: BOB FINGERHUT
+
+SHUTTLE LAUNCH SCHEDULE REVISED
+A new schedule has been issued for the
+first six missions to be flown in 1985.
+51-C. Discovery is scheduled for launch Jan
+23, between 1:15 and 4:15 PM EST. This
+Department of Defense mission will use an IUS
+upper stage.
+
+51-E. Challenger is scheduled for launch Feb
+20. There will be a crew of six and a mission
+duration of four days. The payload will be
+two communication satellites and Spartan-1
+(Persecond Tracking and Data Relay Satellite
+Tthesecond Tracking and Data Relay Satellite
+flight). This mission will use a PAM upper
+stage and the TDRS an IUS.
+
+51-D. Discovery is scheduled for launch
+March 19. The crew of seven will be up for 6
+days. Included in the payload will be the
+deployment and the Syncom IV-3 communications
+satellite and retrieval of the Long Duration
+Exposure Facility which was left in orbit in
+April 84.
+
+51-B. Challenger is scheduled for launch
+April 30. The seven member crew is scheduled
+for seven days in space. The main payload is
+Spacelab-3.
+
+51-G. Discovery is scheduled for launch on
+May 30. The crew of 5 is scheduled for a
+seven day flight. Discovery will carry three
+communication satellites. Telesat-1 will use a
+PAM-D3 & Arabsat will use a
+PAM-DM. A special payload also carry the
+Spartan I (Shuttle Pointed Autonomous Research
+Tool for Astronomy) which was bumped from
+mission 41-F.
+
+51-I. Challenger is scheduled to fly this
+mission on July 9. This is a 7 day mission
+with a crew of 7. The payload will be
+Spacelab 2 with an igloo and three pallets.
+
+WEATHER SATELLITE LAUNCHED
+NOAA-F has been put into a stable polar
+orbit after launch from Vandenberg. This
+satellite carries search and rescue equipment
+as well as it can detect emergency distress
+signals from ships and planes around the
+world.
+
+RUSSIAN HALLEY'S COMET PROBES LAUNCHED
+Vega-1 and 2 were launched on Dec 15 and
+21st to study the planet Venus and Halley's
+comet. They will arrive at Venus in June 1985 and continue on to probe Halley's
+comet in March 1986. The spacecraft were
+launched from Tyuratam on Proton boosters.
+
+USSR TESTS SPACEPLANE
+The USSR flew the fourth space test and
+re-entry mission of the spaceplane vehicle on
+Dec 19th. It made one orbit and then landed
+in the Black Sea.
+
+ESA APPROVES DEVELOPMENT OF RETRIEVABLE SPACE
+PLATFORM
+The European Space Agency has approved
+development of the Eureca retrievable space
+platform. The initial flight will be in early
+1988. It will be released from the space
+shuttle for a six month free flight with a
+payload of materials sciences, life sciences,
+communications and propulsion experiments.
+
+JOINT US/USSR MANNED SPACE FLIGHT PROPOSED
+The possibility of a joint mission will
+be discussed soon. The type of joint mission
+is yet to be determined.
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5tEkHad5rBBHek8VF'}]
+# SJAA
+
+## GENERAL MEETINGS:
+
+University of Santa Clara, Alumni Science Hall, room 102. Heading north on Hwy 17, exit at Bascom/Washington Ave. (north), proceed to Franklin, then turn right. Heading south on Hwy 17, exit at the Alameda (north), proceed through San Tomas Expressway, turn right two stops and turn left into the parking lot. Alumni Science Hall is the 3 story building that borders the east end of the parking lot. Room 102 is on the ground floor and is best gotten to by entering the first door on the right side of the building when walking in from the parking lot. MEETINGS BEGIN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing location of Alumni Science Hall relative to nearby streets including Hwy 17, Bascom, Alameda, and showing The Alameda intersections]
+
+## INDOOR STAR PARTIES:
+
+Los Gatos Red Cross Building, 18011 Los Gatos-Saratoga Rd., Los Gatos. From Hwy 17 south take the Hwy 9 (Saratoga) exit and continue up Los Gatos Saratoga road for about 1.5 miles. Turn right at Rose Ave., and turn right immediately into the parking lot of the Red Cross Building. OPEN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to Red Cross Building with Los Gatos-Saratoga Rd and nearby cross streets]
+
+## GRANT RANCH COUNTY PARK:
+
+This site is a new one for the SJAA so come and try it out. Located on Mt. Hamilton Road, halfway between San Jose and Lick Observatory. To get to Mt. Hamilton Road, take Hwy 101 north to the Alum Rock Road. Go east up Alum Rock Road to Mt Hamilton Road and follow it. Grant ranch is just past the Quimby road intersection. After sunset the park front gate will be locked with a 4 or 5 digit combination lock. Use the sequence 4565 to open, but be sure to lock the gate behind you on your way out. There are two gates, the lock may be on the exit gate, if so enter the park from this gate.
+
+[THIS IS FIGURE: Map showing Grant Ranch Park location relative to Mt. Hamilton Rd., Quimby Rd., and Hwy 680]
+
+## HENRY COE STATE PARK:
+
+Take Hwy 101 south towards Gilroy and take the East Dunne exit. Continue east towards the hills along the Dunne exit. Go for about 2 miles to the park. Past the park entrance you will see old ranch buildings on the right and a horse trough. The gate is locked but the club combination is 4565. Always lock the gate after yourself, if arriving after dark, please park outside the gate and hike in first with your scope, arrive before driving in. Parking lights only after dark, please.
+
+[THIS IS FIGURE: Simple map showing Coe State Park location with Hwy 101 South and bypass section marked]
+
+## FREMONT PEAK STATE PARK:
+
+Take Hwy 101 south towards Salinas. Take Hwy 156 east [San Juan Bautista] for two miles to a yellow blinking light. Turn right and go about 3 miles to where road curves slightly to the left. There is an unmarked road after 50 yards and then bear right when road splits again. Follow road for about 11 miles up into the park. SJAA sets up at Coulter Camp overflow area, it's visible as you drive up into main area of camp. Parking lights only after dark, please.
+
+[THIS IS FIGURE: Map showing route to Fremont Peak via Hwy 156 E. and Hwy 101 S., marking San Juan Bautista and directions]
+
+EPHEMERIS is published monthly by the San Jose Astronomical Association, 3905 Calico Ave., San Jose, Cas. 95124
+
+## OFFICERS:
+
+PRESIDENT     Dave Ambrose 816 Everett St., El
+              Cerrito, CA. 94530 (415) 524-
+              0869
+
+Vice-Pres     Denni Medlock    15022 Broadway
+              Terrace, Oakland, CA. 95124
+              (415) 532-1068
+
+Sec.          James Van Nuland   3509 Calico
+              Ave., San Jose, CA. 95124 (408)
+              371-1307
+
+Treas.        Robert Fingerhut  340  Rio Verde
+              Place #1, Milpitas, CA. 95035
+              (408) 263-4455
+
+## BOARD OF DIRECTORS:
+
+Paul Mancuso (408) 946-0738, Steve Greenberg (415) 443-6838, Tom Ahl (408) 997-1983, Gene Disheros (408) 923-6800, Joe Sunseri, Chris Pratt (408) 629-2994
+
+EPHEMERIS EDITOR:    John Gleason 5381 Port Sailwood Dr. Newark, CA  94560
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5tmVe1CrAdf1zd3v5'}]
+EMPLOYMENT
+OPENINGS
+AT
+LUMICON
+
+LUMICON just completed its
+5th consecutive year of
+record growth, and plans to
+expand again in 1985!
+
+**Typing** Telephone Sales**
+**Order Entry** Purchasing**
+Inventory** Shipping**
+**Advertising**
+
+$12,000-18,000/yr starting salary
+
+Combine a love for astronomy
+with enjoyable work
+
+SEND YOUR RESUME TODAY
+For information call (408) 473-9570
+
+LUMICON
+2111 Research Drive #5
+Livermore, CA 94550
+Attn: Dr. Jack E. Marling
+
+---
+
+SJAA EPHEMERIS
+3509 CALICO AVE
+SAN JOSE,CA 95124
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO. 5381
+SAN JOSE, CA. 95125
+
+---
+
+TIME VALUE-DATED
+NEWS MATERIAL

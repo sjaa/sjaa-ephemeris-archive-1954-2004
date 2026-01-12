@@ -1,23 +1,485 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAY3wiQHxUbUkaFp8G'}]
+# EPHEMERIS
+# OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+MARCH 1987
+
+[Image of observatory dome]
+
+************************************************
+* MARCH 7TH AT 8 PM *
+* BERNIE HAISCH *
+* GRAND TOUR OF THE SOLAR SYSTEM *
+************************************************
+
+MARCH 7 GENERAL MEETING 8 PM, THE LOS GATOS RED CROSS BUILDING.
+          BERNIE HAISCH, GRAND TOUR OF THE SOLAR SYSTEM.
+
+MARCH 14 INDOOR ASTRONOMY CLASS STARTS AT 8 PM, LOS GATOS RED
+          CROSS BUILDING.
+
+      14 ASTROPHOTO UII SYMPOSIUM. MOORPARK COLLEGE, MOORPARK, CA.
+
+MARCH 21 BOARD MEETING AT 7 PM FOLLOWED BY AN INDOOR STAR PARTY
+          AT 8 PM, LOS GATOS RED CROSS BUILDING.
+
+MARCH 28 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO HENRY
+          COE STATE PARK. DUSK TILL DAWN MESSIER MARATHON.
+
+APRIL  4 GENERAL MEETING. PROGRAM TO BE ANNOUNCED
+
+APRIL 11 BOARD MEETING AT 7 PM FOLLOWED BY THE INDOOR ASTRONOMY
+          CLASS AT 8 PM, LOS GATOS RED CROSS BUILDING.
+
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+MARCH 7TH GENERAL MEETING
+
+Our guest this evening will be Bernie Haisch, who will conduct us on a tour of
+the solar system, bringing to light the current state of knowledge and
+photography of the planets. 8 PM Los Gatos Red Cross building.
+
+SJAA BOARD ELECTIONS FEBRUARY 7TH
+
+Five board positions were filled on February 7th. Congrats to Paul Mancuso,
+Tom Ahl, Duncan Monroe, Steve Greenberg, and Jim Van Nuland.
+
+7th ANNUAL BAY AREA ASTRONOMICAL AUCTION
+
+In this month's Ephemeris you will find specific instructions about how to
+enter your astronomical items into this year's Astronomical Auction. Please
+use the handy auction pre-registration form for all of your equipment. If you
+cannot pre-register you equipment by auction day, you will need to come in
+early and register all items to be auctioned-off. The auction will start
+promptly at 8 PM.
+
+7th ASTROPHOTOGRAPHY CONFERENCE IN MARCH
+
+Held every two-years, the Astrophotography Conference is a symposium of
+astrophotography and techniques. There will be prominent speakers, an all day
+symposium on begining and advanced astrophotography, latest information on
+films and techniques, amateur astrophoto exhibition and competition, commercial
+exhibits, door prizes and refreshments. For registration information, please
+contact UCAS/ASTROPHOTO UII, P.O. Box 582, Simi Valley, CA. 93062. The SJAA
+usually has a large contingent of members in attendance. I encourage anyone
+interested in astrophotography to attend this conference.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAYefgEueptxbiaN7N'}]
+THE CELESTIAL TOURIST SPEAKS
+By: JAY REYNOLDS FREEMAN
+
+DR. FREEMAN GOES TO SPACE CAMP, PART II
+
+(Last month we learned how our own Jay Freeman gained access to a Houston Space
+Center simulation complex. This month continues Jay's story of how he
+single-handily piloted the Space Shuttle into orbit!)
+
+So there I was, Jay Freeman, lightplane pilot, science fiction fan and physics
+graduate student, Star Child in the Promised Land, sitting down to fly the
+simulator of the most advanced aerospace vehicle the world had yet conceived.
+And as I climbed the stair to the flight deck, the portable radio blared forth
+a familiar tune, exhilarating and appropriate even though distorted and
+amplified well past saturation by the public address system: it was the main
+title from Star Wars.
+
+I had already watched the simulator fly itself many times. There was nothing
+to pain by leaving the autopilot on. Yet nothing in my observations had given
+me any clue to the forces required to operate the controls, or to the degree of
+response I might expect from a given amount of control motion. These matters
+are only learned from hands-on experience -- but it was a good time to find them
+out: After launch are a poor time to find them out: during the first few seconds
+after launch a terrible time to find them out -- for the next minute or so the rising
+dynamic pressure -- called "Q" -- of the transonic flight through the dense
+lower atmosphere creates almost as solid and uncompromising a hazard.
+
+My plan was simple: Ride autopilot for a few seconds, to clear the tower, then
+push forward gently, taking a guess at what the right attitude might be and
+ignoring the trajectory display until past maximum aerodynamic pressure. No
+fancies like the "roll program" that we have all seen on television.
+
+It worked. Control response was very predictable and linear. I had no real
+difficulty in keeping the attitude in bounds and varying smoothly. The
+Shuttle's control "feel" is all artificial anyway, generated by servos in the
+yoke rather than by feedback through (nonexistent) mechanical connections. I
+suspect that what was programmed into the simulator was identical to what was
+programmed into the real thing -- there would be no reason for it to be
+otherwise. I didn't look much of anywhere else but at the artificial horizon,
+and I didn't think about much of anything else but making smooth control
+motions and watching what was happening, and it was enough. I had all the
+habit patterns of controlling a much more skittish and unstable light aircraft
+by instrument reference in turbulence and bad weather. But this vehicle flew
+as if it were on rails. There were no surprises, and I could learn quickly.
+What a beautiful machine!
+
+Past max Q I widened my instrument scan to include the navigation display.
+This was absolutely marvelous. At a glance I saw that I had lofted well above
+
+the desired trajectory -- the cursor was much higher than the smooth curve of
+the nominal ascent. I had been too timid in my initial pitch adjustments.
+
+Let's see if we can fix matters. I pitched the vehicle more toward the
+horizontal and watched the other cursor, the one that was tracking a predicted
+position, several tens of seconds ahead. Presently, it drifted toward the
+trajectory. As it crossed the line on the console, I began pitching up to hold
+it in the groove. It did not take too much fuss to keep the "future" cursor
+tracking smoothly. The actual position of the vehicle almost didn't matter,
+though naturally I watched it. The "now" cursor dipped below the ascent
+course, then corrected back smoothly and was soon following in trail, right
+behind its "future" companion.
+
+What a magnificent job of display design, what a tribute to the science of
+human factors engineering, that a mere high-time lightplane pilot can operate a
+space ship. But it was a piece of cake. There was nothing to do but follow
+the green phosphor road, up from the pad and out to the stars.
+
+Some eight minutes after liftoff, the main engines shut down. I was in the
+groove -- not in orbit yet -- it takes a burn of the orbital maneuvering unit
+to obtain the last few hundred feet per second of velocity -- but the hard part
+was over. The technicians and programmers were all a little surprised. And
+so, I guess, was I.
+
+Would it have worked for real? If it had been an actual Shuttle Ascent, would
+I have had any chance of pulling it off? I suspect not. The first two
+minutes, when the solid strap-ons are jettisoned, are reported to be a rather
+jiggly ride, and three G's acceleration plus moderate vibration will do a lot
+to mess up an instrument scan. My lofting above the trajectory and subsequent
+corrections undoubtedly would have eaten up lots of fuel -- even if I had known
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAZUH1kquUi4HcdCev'}]
+how to perform the burn with the orbital maneuvering unit, it might not have
+been possible to achieve orbit. And at least some of this maneuvering was
+taking place when dynamic pressures were still pretty high; perhaps the vehicle
+would have been at risk thereby.
+
+Notwithstanding, I do not expect to forget the experience.
+
+COMET COMMENTS
+BY: DON MACHHOLZ
+
+Several comets have been recovered or discovered recently. This includes three
+new comets visually found by amateur astronomers. The annual average is 3.3.
+Comet Wilson peaks into our morning sky while Halley continues to recede from
+both the earth and sun. Comet Sorrells is too close to the sun for
+observation: we'll see it again in April. A newly discovered comet (1987d)
+will be visible in the March evening sky.
+
+Periodic Comet Du Toit-Hartley (1986a): J. V. Scotti of Kitt Peak recovered
+this comet on Dec. 28 when it was in Gemini at mag. 19. This comet, which
+probably split in 1976, has an orbital period of 5.21 years and is not expected
+to get brighter than mag. 13.
+
+Comet Levy (1987a): We now know that this comet was closest the sun (0.92 AU)
+on Dec. 17. In the month prior to discovery (Jan. 5) it moved across the
+northern evening sky at mag. 10.5-11.8. It is presently fainter than mag. 12
+and getting fainter.
+
+Comet Wiseman-Skiff (1987b): Jennifer Wiseman discovered this comet on plates
+taken by Brian Skiff at Lowell Observatory on Dec. 28. Confirming plates were
+taken three weeks later. The orbit is of short period-6.5 years and the 14th
+magnitude comet will not be getting any brighter.
+
+Comet Nishikawa-Takamizawa-Tago (1987c): The first comet to be visually
+discovered by anyone outside the U.S. in over two years was found by four
+Japanese observers on Jan. 19 and 20. This is N. Nishikawa's first comet
+discovery. He alone found it on Jan. 19: he was using a 6" refractor. This is
+K. Takamizawa's second find and A. Tago's third comet. Discovery magnitude
+was 8.4 and the comet was six degrees SSE of Comet Sorrells, south of the
+Square of Pegasus.
+
+Comet 1987c is still approaching the sun, being closest (0.85 AU) on March 18.
+Its almost perfect retrograde orbit places it on the far side of the sun at
+that time, making observations difficult from mid-Feb. to late March.
+Northern Hemisphere observers will have to wait until mid-April, when it will
+appear in the morning sky at mag. 7. As the comet approaches the earth to
+0.91 AU in late May, it should brighten slightly as it moves as far south as
+-45 degrees. It should be visible in binoculars through June.
+
+Comet Terasako (1987d): M. Terasako of Japan discovered this, his first comet,
+on Jan. 24. Using 6" binoculars, he found it low in the SW evening sky at mag.
+8. An early orbit suggest it was closest the sun at 0.38 AU on Christmas Day,
+1986. Then at mag. 4 but in strong twilight, it was undiscoverable until it
+emerged into the evening sky shortly before discovery. It will dim rapidly
+over the next few months.
+
+Periodic Comet Wild (1987e): T. Gehrels and J. Scotti recovered this 19th
+magnitude comet from Kitt Peak, Arizona on Jan. 29. The comet should be
+closest the sun on Sept. 1, but it is not expected to get brighter than mag.
+15. Its orbital period is 6.9 years.
+
+EPHEMERIDES
+
+DATE R.A. (1950) DEC ELONG MAG. NOTES
+
+Comet Terasako (1987d)
+
+02-24 01h 50.7m -12°35' 51° 9.3 This comet dims rapidly as it moves
+03-01 02h 06.3m -10°14' 50° 9.7 away from both the earth and sun.
+03-06 02h 20.4m -08°02' 49° 10.1 This preliminary parabolic orbit is
+03-11 02h 33.4m -06°11' 48° 10.4 subject to change, the comet may be
+03-16 02h 45.3m -04°27' 47° 10.7 periodic. On Mar. 14 it will be 5
+03-21 02h 56.5m -02°51' 45° 11.1 degrees south of M 27 and setting 50
+03-26 03h 07.0m -01°25' 43° 11.3 minutes after astronomical twilight.
+03-31 03h 17.0m -00°07' 41° 11.6 By late March we'll lose it in the
+04-05 03h 26.4m +01°05' 39° 11.9 evening sky.
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAajvXjZVkqYXJ89mR'}]
+# Comet Wilson (1986L)
+
+02-24  20h 30.1m  -21°33'   30°   8.0  Comet Wilson makes a short reappear-
+03-01  20h 33.6m  -22°44'   35°   7.7  ance in our morning sky, rising near
+03-06  20h 37.2m  -24°06'   39°   7.5  ast twilight. Early in Mar., those
+03-11  20h 41.1m  -25°39'   44°   7.2  N. of 35° N. latitude are favored.
+03-16  20h 45.3m  -27°29'   49°   7.0  Late in Mar. those S. of 35° will see
+03-21  20h 49.8m  -29°40'   53°   6.6  it. Following this opportunity, the
+03-26  20h 55.0m  -32°19'   58°   6.4  comet heads so far south that it will
+03-31  21h 01.1m  -35°57'   63°   6.0  be hidden to mid-northern latitudes
+04-05  21h 08.9m  -39°48'   68°   5.7  until mid-May. Be rare, see it now!
+
+## Periodic Comet Halley (1982i)
+
+02-24  10h 37.7m  -14°09'   156°  12.4  Still moving at 10 miles per sec.,
+03-01  10h 32.2m  -13°37'   158°  12.5  Halley's Comet makes its way from
+03-06  10h 26.7m  -13°03'   159°  12.5  Hydra to Sextans. On Mar. 31 it'll
+03-11  10h 21.5m  -12°27'   158°  12.6  be 2 deg. south of galaxy 3115.
+03-16  10h 16.5m  -11°51'   155°  12.7  Some have reported the comet to be
+03-21  10h 11.9m  -11°14'   151°  12.7  brighter than listed here, a 10"
+03-26  10h 07.5m  -10°36'   142°  12.8  at 100 power should still show it.
+03-31  10h 03.6m  -10°00'   142°  12.9  For 2000 coords., add 2.8 minutes
+04-05  10h 00.0m  -09°24'   137°  12.9  to R.A., subtract 15' from Dec.
+
+## SEEKING COMETS
+
+According to Dr. Brian Marsden of the Smithsonian Astrophysical Observatory, there are bout three times as many moderately serious comets reports as there are comets. Add to this the non-serious reports, and nearly every weekend evening in the summertime tends to produce an amateur report. The professional astronomers are only slightly more cautious.
+
+The mistaken reports, called "forgetables" since they are usually forgotten by the SAO, are caused by 1, ghost images of bright objects, 2, photographic flaws on a single exposure, and 3, known nebulae or asterisms fainter than those shown on the star charts. Galaxy NGC 404 is often reported as a comet (it's not on some charts), as are some galaxies near M 31.
+
+# 1987 MESSIER MARATHON BY: DON MACHHOLZ
+
+A new moon on Mar. 29 offers us a fine opportunity for this year's Messier Marathon. Observers in the southern United States may be able to observe all 110 of the Messier Objects in one night, those further north will be able to observe 105 objects.
+
+The SAA began the Marathon in March 1979, and we've been holding it every years since then. In some years the moon has given us trouble, while sometimes the weather fails us.
+
+Because of the locations of the galaxies, clusters and nebulae in Charles Messier's catalog, mid-March through early April is the best time to hold the dust-to-dawn observing session. Between March 5 and 20, 108 of the 110 objects can be seen, with only M 30 missing. From our locations we lose M 74 around March 21, meaning we'll see 108 objects until March 30. On March 31 we can pick up M 30 in the morning sky, this gives us 105 objects again. After April 3 we lose several objects in the evening sky, decreasing the count. Other factors include the moon phase, which can't be too bright, and picking a weekend, since we're usually awake all night long.
+
+This year, the weekend of March 28/29 is the most favorable of the Marathon. With good skies and low horizons M 30 will be observable, giving a count of 109 objects. I'm suggesting you try the Marathon from one of several sites. Henry Coe Park has dark skies with the NW horizon giving the greatest trouble. Grant Ranch Park has a bright western sky but low horizons. Saratoga Gap has almost all that's needed, but there is some busy traffic nearby. I'll be at Loma Prieta, where a locked gate provides limited access. Marathoners interested in using that site should call me early as I'm limited as to the number of guests I can bring onto the property. Contact me for observing order sheets which can be used with almost any star chart. And after the Marathon, please let me know how it went. (408) 448-7077
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAdFjfg8ey4BUqRb8A'}]
+THE
+SAN JOSE ASTRONOMICAL ASSOCIATION'S
+
+7TH ANNUAL
+BAY AREA
+ASTRONOMICAL
+AUCTION
+
+WILL BE:
+SATURDAY MAY 2ND AT 6:00 PM
+AT THE LOS GATOS RED CROSS
+16011 LOS GATOS-SARATOGA RD.
+DOORS WILL OPEN AT 2:00 PM
+
+TELESCOPES, EYEPIECES, MOUNTINGS, MIRRORS, LENSES, CLOCK DRIVES,
+BOOKS, CAMERA GEAR, STAR CHARTS, FINDERS, TUBES, DIAGONALS, & PHOTOS
+Everything you need to make your hobby more enjoyable. You name it -
+it will likely be there. Check your garage and closets for anything
+astronomical you would like to sell. Complete the pre-registration
+information form on the back and save time and trouble. Anyone may
+buy and sell! It's fun and easy! See you there.
+
+PLEASE PRE-REGISTER ALL ITEMS
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAdyeKREwyN2iJGabg'}]
+The 7th Annual Bay Area Astronomical Auction is approaching, so now is
+the time to start looking around for those items not earning their space, or
+brought back from Riverside, or whatever is astronomical or telescope-making
+related that you would like to earn some $ from.
+
+Pre-registeration by mail makes it easy. Fill out the form or a copy of it.
+List each different item you have. If there are several identical items, use a
+single line and enter the quantity. Give a minimum price, even if you wish to
+let it go really cheap. Indicate the percentage of the selling price to go to
+the SJAA (minimum 10%). If you wish you may make an outright donation, it is
+now TAX DEDUCTABLE. All proceeds from the auction go to further public
+education in astronomy.
+
+Next, and MOST important, mail the completed form, with a SASE to, Jim van
+Nuland, 3509 Calico Ave., San Jose, Ca. 95124. You might want to keep a copy
+for your files. Jim will assign you bidder/seller and item numbers, and return
+the form to you promptly. That's a promise.
+
+You will now have numbers to label everything before the day of the auction.
+Use self adhesive labels to indicate the number of each item. If your labels
+are large enough, please note the minimum bid also. It will help the auctioneer
+to work smoother and faster.
+
+If you find another box of things, just send in another form. Include your
+bidder number from the first form. If it is something already registered, give
+the item number of the first, indicate the quantity to be added, and use the
+same description.
+
+If you omit the SASE, Jim will assign the numbers but hold the form for
+pickup upon your arrival at the auction. There will be limited time to label
+your goodies before the auction. Please have them all marked before auction day
+All articles pre-registered will be entered into the computer before auction
+day so there will be no backlog and, for those pre-registered, no delays.
+Priority on auction day will be given to assignment of bidder numbers. Late
+item registration will be time available only basis. So get those forms to Jim.
+
+DIRECTIONS TO THE AUCTION:
+Take Hwy 17 south towards Santa Cruz. Take the Highway 9 (Los Gatos-Saratoga
+Rd) exit and continue west on Los Gatos-Saratoga Rd. Travel about 0.6 Mile to
+Rose Avenue and turn right. Turn right immediately into the Los Gatos Red Cross
+buildings parking lot. (16011 Los Gatos-Saratoga Rd).
+
+Doors open at 2 PM for registration and bidders. There will be no item reg-
+istration past 5:45 PM. Auction starts promptly at 6 PM. Payment may be by
+cash or check. There will be a $1 Bidder/seller registration fee at the door.
+Refreshments will be available!
+
+1987 SJAA AUCTION PRE-REGISTRATION FORM
+
+BIDDER | NAME: _________________________________ CLUB: _____________
+#______ | ADDR: _____________________________ CITY:_______ ZIP: ______
+
+ITEM # | QTY | MIN  | SJAA | DESCRIPTION (40-50 CHARACTERS...)
+       |     | BID  |  %   |
+_______|_____|______|______|________________________________________
+       |     |      |      |
+_______|_____|______|______|________________________________________
+       |     |      |      |
+_______|_____|______|______|________________________________________
+       |     |      |      |
+_______|_____|______|______|________________________________________
+       |     |      |      |
+_______|_____|______|______|________________________________________
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAeY85kk3Re56Whc2J'}]
+SJAA MEETING AND STAR PARTY LOCATIONS
+GENERAL MEETINGS
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross
+building in Los Gatos California. The large meeting room has kitchen
+facilities and large slide projection screen. This is also the location for
+the SJAA's "Indoor Star Parties", informal sessions where members gather to
+share their astronomical interests. Whatever your interest, astrophotography,
+deep sky observation, telescope making, or just arm chair observing...you'll
+find a friendly atmosphere at all of our meetings. The Red Cross building is
+located at 1801 Los Gatos-Saratoga Rd. From Hwy 17 take the Hwy 9 (Saratoga)
+exit and continue west up the Los Gatos-Saratoga road for about 1.5 miles.
+Turn right at Rose Ave. Then turn right immediately into the parking lot of
+the Red Cross building. Doors open at 7:45 PM, with General meetings beginning
+at 8 PM. General Meetings are held on the 4th Saturday of each month.
+
+INDOOR STAR PARTIES
+
+Each month there are several Saturday evenings set aside for informal
+gatherings of amateur astronomers to share their common interest in astronomy,
+to "talk shop", or to simply enjoy the company of friends. Members are
+encouraged to bring in telescopes and accessories to share with the group.
+Typically there will be several telescopes operating in the parking lot or
+there will be a slide show of recent astrophotography and star party events in
+progress in the meeting hall. The SJAA also holds it board meetings during
+this time as well as an introductory astronomy workshop that is conducted once
+a month. Indoor Star Parties are held at the Los Gatos Red Cross Building.
+
+HENRY COE STATE PARK
+
+Take Hwy 101 south towards Morgan Hill, and take the East Dunne exit. Continue
+east towards the hills (around and past Anderson Reservior) for about 12 miles
+to the park. Past the park entrance you will see old ranch type buildings on
+the right and a horse trough. The gate (on the left) is locked but the club
+combination is 4565. Always lock the gate after yourself. If arriving after
+dark, please park outside the gate and hike in first to find an observing site
+before dark, please. Just a short distance up a hill beyond the gate is where
+the SJAA sets up equipment.
+
+FREMONT PEAK STATE PARK
+
+Take Hwy 101 south towards Salinas, then take Hwy 156 east (San Juan Bautista
+exit) for two miles to a yellow flashing light. Turn right and go about 1/4
+mile to where the road reaches a "Y" and the left fork should be taken then go
+right. (Watch closely for the Fremont Peak sign.) Follow the canyon road for
+about 11 miles up into the park. The SJAA sets up in Boulder Canyon for
+visible on your right as you drive up onto the main area of the park. There is
+usually a lot of astronomical activity here every clear new moon weekend. This
+is also the location of the FPOA's public observatory. Fremont Peak stands
+3000 ft above sea level. Arrive early if you are setting up equipment. 30 to
+40 telescopes are not uncommon at Fremont Peak.
+
+********************************************************************************
+*       EPHEMERIS is published monthly by, the San Jose Astronomical        *
+*       Association, 3509 Calico Ave. San Jose California 95124.            *
+*       Contributions are welcome to submit articles for publication. These *
+*       should be typed and submitted no later than the 12th of the previous*
+*       month. All submissions should be sent directly to the editor, John  *
+*       Gleason, 5361 Port Sailwood Dr. Newark, CA. 94560.                  *
+*                                                                            *
+*                               OFFICERS                                     *
+*       PRESIDENT: Bob Fingerhut.............................408-263-4455   *
+*       VICE-PRES: Tom Ahl...................................408-268-3927   *
+*       SECRETARY: Jim Van Nuland............................408-371-1307   *
+*       TREASURER: Jack Peterson.............................408-262-1457   *
+*       EDITOR: John P. Gleason..............................415-790-9250   *
+*                                                                            *
+*                          BOARD OF DIRECTORS                               *
+*                                                                            *
+*       Paul Mancuso.........................................408-946-0738   *
+*       Jack Peterson........................................408-262-1457   *
+*       Bob Fingerhut........................................408-263-4455   *
+*       Tom Ahl..............................................408-268-3927   *
+*       Gene Cisneros........................................408-923-6800   *
+*       Joe Sunseri..........................................408-224-8693   *
+*       Steve Greenberg......................................203-239-2154   *
+*       Duncan Munroe........................................408-448-5361   *
+********************************************************************************
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAf3PYZokNprie7yM1'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10     MEMBERSHIP/S&T: $ 24.00   JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________________________     Questionnaire (optional)
+
+Address ______________________________________________     What are your astronomical interests (e.g. astro-
+                                                          photography, deep-sky observation, telescope making,
+___________________________________________________      etc.)? ____________________________________________
+
+Telephone (_____)_____________________________________     ___________________________________________________
+
+                                                          ___________________________________________________
+Please bring this form to any SJAA meeting, or send to:   ___________________________________________________
+
+Jack Peterson, Treas.                                     Do you own a telescope?_________ If so, what kind?
+San Jose Astronomical Association
+1840 Yosemite Dr.                                         ___________________________________________________
+Milpitas, CA. 95035
+
+[ Phone:  (408) 262-1457  ]                               Is there any specific area of astronomy that you feel
+                                                          qualified to help others with? ____________________
+Please check type of membership and if new
+or renewal.                                               ___________________________________________________
+
+Membership Only____    Membership/S&T____                 ___________________________________________________
+
+Junior (Under 18)____
+
+New____    Renewal____
+
+
+
+
+                                                          NON-PROFIT ORGANIZATION
+SJAA EPHEMERIS
+3509 CALICO AVE.                                          U.S. POSTAGE PAID
+SAN JOSE, CA. 95124
+                                                          PERMIT NO.5381
+
+                                                          SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE — DATED
+
+NEWS MATERIAL

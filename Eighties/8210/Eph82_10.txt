@@ -1,60 +1,56 @@
 === PAGE 1 ===
-the san jose
-astronomical association
-                                                                                                                                                    Bulletin
+# the san jose
+# astronomical association
 
-                                                                                                                                                    october
-Ephemeris                                                                                                                                          1982
+**Bulletin**
 
+october
+1982
 
-Oct. 2      General Meeting. Slide and Equipment Night. Come one, come all; show your hobby off
-            to your co-conspirators. A good time will be had by all. See what everybody else has
-            been up to this past year. (Details inside.) Los Gatos Red Cross building, 18011 Los
-            Gatos-Saratoga Road.
+## Ephemeris
 
-Oct. 8      Board Meetin' at Bob Pingshut's. If you don't know where Milpitas is, call Bob for
-            further details. (408) 263-4435.
+Oct. 2    General Meeting. Slide and Equipment Night. Come one, come all; show your hobby off
+          to your co-conspirators. A good time will be had by all. See what everybody else has
+          been up to this past year. (Details inside.) Los Gatos Red Cross building, 18011 Los
+          Gatos-Saratoga Road.
 
-Oct. 9      Red Cross indoor star party. First opportunity to take advantage of our newly
-            rejuvenated mirror-grinding/telescope-making "class". Prepare yourself for those
-            long, wet, cold winter nights, and stay warm by grinding away at your favorite hobby.
+Oct. 8    Board Meetin' at Bob Fingerhut's. If you don't know where Milpitas is, call Bob for
+          further details. (408) 263-4435.
 
-Oct. 16     Fremont Peak star party. For some impressions of what Fremont Peak is "really" like,
-            read the articles by Frank Dibbell and Denni Frezicha inside, and join us for a
-            great night of observing (weather permitting). See the map on the cover for road
-            directions.
+Oct. 9    Red Cross indoor star party. First opportunity to take advantage of our newly
+          rejuvenated mirror-grinding/telescope-making "class". Prepare yourself for those
+          long, wet, cold winter nights, and stay warm by grinding away at your favorite hobby.
 
-Oct 23      Red Cross indoor star party. Join the Grit Gremlins, and start to build that dream
-            telescope. Ongoing mirror-grinding and telescope-making classes. Bring astro slides,
-            or whatever, to show.
+Oct. 16   Fremont Peak star party. For some impressions of what Fremont Peak is "really" like,
+          read the articles by Frank Dibbell and Denni Prerichs inside, and join us for a
+          great night of observing (weather permitting). See the map on the cover for road
+          directions.
 
-Oct. 30     Red Cross indoor star party. HALLOWEEN PARTY! (If you're an Aldebaranean, come as
-            you are...otherwise, costumes will be the order of the night. (An equal time message
-            follows: Martians are also welcome. This message has been sponsored by the Take a
-            Martian Out to Dinner This Month Society.)
+Oct 23    Red Cross indoor star party. Join the Grit Gremlins, and start to build that dream
+          telescope. Ongoing mirror-grinding and telescope-making classes. Bring astro slides,
+          or whatever, to show.
 
-
-
+Oct. 30   Red Cross indoor star party. HALLOWEEN PARTY! (If you're an Aldebaranean, come as
+          you are...otherwise, costumes will be the order of the night. (An equal time message
+          follows: Martians are also welcome. This message has been sponsored by the Take a
+          Martian Out to Dinner This Month Society.)
 
 The SJAA Bulletin is published monthly by the SAN JOSE ASTRONOMICAL ASSOCIATION, 3509 Calico
 Avenue, San Jose, CA 95124. The membership year runs from July to June; dues are pro-rated if
 you join after June. Membership rates: $18/year for adults, $12/year for children under 12.
 Subscriptions to the Bulletin are available to non-members for $7/year.
 
-SJAA President: Denni Frezicha, 15022 Broadway Terrace, Oakland, CA 94611; (415) 654-6796.
+SJAA President: Denni Prerichs, 15022 Broadway Terrace, Oakland, CA 94611; (415) 654-6796.
 
 Bulletin Editor: Steve Greenberg, P.O. Box 292 Livermore, CA 94550; (415) 443-6638.
 
-
-
-
-            BULLETIN DEADLINE IS THE 12TH OF THE MONTH PRECEDING PUBLICATION.
+BULLETIN DEADLINE IS THE 15TH OF THE MONTH PRECEDING PUBLICATION.
 
 === PAGE 2 ===
--9-
+-2-
 
 THE PRESIDENT'S COLUMN
-by Denni Freriche
+by Denni Frericks
 
 October 2nd will be the SJAA's annual Slide and
 Equipment Night, to be held at the Los Gatos Red
@@ -73,8 +69,8 @@ past year, and/or any equipment and ideas they use
 we've had a Messier Marathon, the Riverside Tele-
 scope Makers' Conference, a lunar eclipse, a space
 shuttle landing, comet Austin, and numerous star
-parties to take pictures of! Come on: there are
-scores of photographers (astro-type!) in the club. If
+parties to take pictures of: Come on: there are
+scores of photographers (astro-type) in the club. If
 John Gleason, Frank Dibbell, Jim Elselt, Jack Zei-
 ders, etc. don't show up with their slides, may a
 strobe light catch them taking their next picture.
@@ -83,7 +79,7 @@ As for equipment, everyone bring something to
 talk about. With luck, maybe we can persuade Ron and
 Judith Probst to show up with the almost finished
 14" club telescope. Another item of interest could
-be the beautiful Crayford focuser that Bill Cooke
+be the beautiful Crayford focusser that Bill Cooke
 made for Bruce Swayze's 16". (Yes, Bruce, that does
 mean you have to bring the whole 16" and show it
 off, also.)
@@ -103,13 +99,14 @@ enough volunteer munchers!)
 Slide and Equipment Night starts at 8 PM, so see
 you there.
 
+
 Observations
 by Steve Greenberg
 
 ASTRONOMY and TELESCOPE MAKING Group Rates. On
 September 20th, I received a phone call from Jim Van
 Nuland. He had just received from Astro-Media pub-
-lishers (via Gerry Rattley), a lowcated, forwarded
+lishers (via Gerry Rattley), a lowarded, forwarded
 letter mailed in early August. The group renewal
 period for Astronomy Magazine and Telescope Making
 is now very close. Astronomy Magazine is available
@@ -137,7 +134,7 @@ scopes are far from being "virtually useless". Admit-
 tedly, the bright sky limits studies of the faintest
 objects, but the 100" can still photograph objects
 fainter than those in the Palomar Sky Survey (21st
-magnitude ~ Ed.), when coastal clouds cover the city.
+magnitude = Ed.), when coastal clouds cover the city.
 In fact, the 100" (and 60") telescopes are used for
 productive research on virtually every clear (and not
 so clear!) night.
@@ -174,26 +171,30 @@ as a "National Amateur Astronomy Telescope", I had
 assumed that bright skies had already decimated the
 professionals' research activities. Ed.)
 
+
 SJAA BOARD OF DIRECTORS:
 
-GENE CISNEROS      (408) 923-6800
-BILL COOKE         (408) 739-6119
-FRANK DIBBELL      (408) 746-6493
-DENNI FRERICHE     (415) 654-0796
-GARY GREENBERG     (415) 635-6678
-CHRIS PRATT        (408) 629-2994
-SHEA PRATT         (408) 629-2994
-JIM VAN NULAND     (408) 371-1307
-JACK ZEIBERS       (408) 246-6189
-         TREASURER:
-BOB FINGERHUT      (408) 263-4455
+GENE CISNEROS    (408) 923-6800
+BILL COOKE       (408) 739-6319
+FRANK DIBBELL    (408) 746-6493
+DENNI FRERICKS   (415) 654-6796
+STEVE GREENBERG  (415) 493-5774
+CHRIS PRATT      (408) 629-2994
+SHEA PRATT       (408) 629-2994
+JIM VAN NULAND   (408) 371-1307
+JACK ZEIDARS     (408) 246-6189
 
-* * * * * * * *
+TREASURER:
+BOB FINGERHUT    (408) 263-4455
+
+
+* * * * * * *
 
 "I wonder what would happen if you handed a pen
 and a star chart to a kid and told him to connect the
 dots..."
-                                    Kevin Medlock.
+
+Kevin Medlock.
 
 === PAGE 3 ===
 # General Meeting
@@ -202,11 +203,11 @@ by
 
 BOB FINGERHUT
 
-About 30 people were treated to a fascinating talk by Dr. Sy Stein at the September 11th General Meeting. Dr. Stein presented slides and a movie explaining how NASA's preparation for manned spaceflight has contributed valuable and life-saving techniques to the medical profession.
+About 30 people were treated to a fascinating talk by Dr. Sy Stein at the September 11th General Meeting. Dr. Stein presented slides and a movie explaining how NASA's preparation for manned space-flight has contributed valuable and life-saving techniques to the medical profession.
 
 For many years, Dr. Stein (a physician himself) was a biomedical specialist in the Life Science Department at NASA's Ames Research Center, in Mountain View.
 
-Among the advances described by Dr. Stein was the miniaturized tri-axial accelerometer, which was used to measure meteoriod impacts on a spacecraft to determine if a man could safely fly in space. The accelerometers are so sensitive that they can measure a butterfly's heartbeat. They are currently being used to detect Parkinson's disease at an early enough stage for it to be treated and prevented.
+Among the advances described by Dr. Stein was the miniaturized tri-axial accelerometer, which was used to measure meteoroid impacts on a spacecraft to determine if a man could safely fly in space. The accelerometers are so sensitive that they can measure a butterfly's heartbeat. They are currently being used to detect Parkinson's disease at an early enough stage for it to be treated and prevented.
 
 Another advance, miniaturized telemetry, was developed to monitor astronauts in a cramped spacecraft. Dr. Stein told us how this technique was adapted for monitoring patients without their having to undergo constant supervision. He explained how the first person with thyroid cancer was saved with such devices.
 
@@ -228,11 +229,11 @@ BY
 
 DON MACHHOLZ
 
-Most of you probably remember the magnitude 4.7 earthquake, which "shook up" a few members of the SJAA on April 12th, 1980 while they were observing at a Fremont Peak star party. Fremont Peak, incidentally, was the epicenter of that particular earthquake. Their report appeared in the SJAA Bulletin for May 1980, and later in *Sky & Telescope*.
+Most of you probably remember the magnitude 4.7 earthquake, which "shook up" a few members of the SJAA on April 12th, 1980 while they were observing at a Fremont Peak star party. Fremont Peak, incidentally, was the epicenter of that particular earthquake. Their report appeared in the SJAA Bulletin for May 1980, and later in Sky & Telescope.
 
-During that earthquake I was sleeping, until it woke me up! I had set my alarm clock for midnight, so I could do some morning comet hunting. Then, about a year ago (when I was up at Loma Prieta) there was another earthquake. However, at that time, I had just stopped observing because of clouds (earthquake weather?).
+During that earthquake I was sleeping, until it woke me up; I had set my alarm clock for midnight, so I could do some morning comet hunting. Then, about a year ago (when I was up at Loma Prieta) there was another earthquake. However, at that time, I had just stopped observing because of clouds (earthquake weather?).
 
-It wasn't until Wednesday, August 18th, 1982, that I felt an earthquake while actually observing through the telescope. It was just after 1:40 AM, and I had finished setting up my 10-inch f/3.8 reflector at Site #4 for a morning of comet hunting ... Session # 1117. My "warmup object", and the starting point for my morning's search, was M74, the magnitude 10.5 galaxy in Pisces. I placed it in my finder, took off my glasses, put on my eyepatch, and stepped up to the pre-focussed eyepiece. An airplane had just gone overhead, and its noise had faded out in the north. It was 1:43 AM.
+It wasn't until Wednesday, August 18th, 1982, that I felt an earthquake while actually observing through the telescope. It was just after 1:40 AM, and I had finished setting up my 10-inch f/3.8 reflector at 1635 for a morning of comet hunting ... session # 1117. My "warmup object", and the starting point for my morning's search, was M74, the magnitude 10.5 galaxy in Pisces. I placed it in my finder, took off my glasses, put on my eyepatch, and stepped up to the pre-focussed eyepiece. An airplane had just gone overhead, and its noise had faded out in the north. It was 1:43 AM.
 
 Suddenly, I felt the ground rise. Then it fell away from me. Then it rose again. Then it stopped moving. It was the type of up-and-down feeling you get if you are standing on a bridge when a big truck goes over it.
 
@@ -246,18 +247,40 @@ The rest of the morning was a little less eventful.
 
 ---
 
-**SJAA**
+-8-
 
-**-8-**
+SJAA *[star logo]*
 
-[logo appears at top right showing "SJAA" with radiating lines in a starburst pattern]
+---
+
+SHAKE-UP AT LOMA PRIETA
+
+BY
+
+DON MACHHOLZ
+
+Most of you probably remember the magnitude 4.7 earthquake, which "shook up" a few members of the SJAA on April 12th, 1980 while they were observing at a Fremont Peak star party. Fremont Peak, incidentally, was the epicenter of that particular earthquake. Their report appeared in the SJAA Bulletin for May 1980, and later in Sky & Telescope.
+
+During that earthquake I was sleeping, until it woke me up; I had set my alarm clock for midnight, so I could do some morning comet hunting. Then, about a year ago (when I was up at Loma Prieta) there was another earthquake. However, at that time, I had just stopped observing because of clouds (earthquake weather?).
+
+It wasn't until Wednesday, August 18th, 1982, that I felt an earthquake while actually observing through the telescope. It was just after 1:40 AM, and I had finished setting up my 10-inch f/3.8 reflector at 1635 for a morning of comet hunting ... session # 1117. My "warmup object", and the starting point for my morning's search, was M74, the magnitude 10.5 galaxy in Pisces. I placed it in my finder, took off my glasses, put on my eyepatch, and stepped up to the pre-focussed eyepiece. An airplane had just gone overhead, and its noise had faded out in the north. It was 1:43 AM.
+
+Suddenly, I felt the ground rise. Then it fell away from me. Then it rose again. Then it stopped moving. It was the type of up-and-down feeling you get if you are standing on a bridge when a big truck goes over it.
+
+I did not get a good look at M74. As soon as my eye got to the eyepiece, the galaxy swung to the top of the field of view, and then came partly back down again. This is probably because I had both hands on the telescope.
+
+I was fairly certain that this was an earthquake. But the first thing I noticed was that there was no noise,...not even a rumble. It was perfectly quiet. The air was still, but the ground wasn't. About 15 seconds later a dog, about half a mile away, began barking. I guess he felt it, too. Then the crickets joined in again.
+
+Jay Stone, of KLOK radio, let the record finish, then mentioned we had an earthquake, and he was receiving phone calls from Fremont to Aptos. As it turned out, the magnitude of this quake was measured at 4.5 on the Richter Scale; and the epicenter was some 7 miles north of Watsonville, which placed it, good grief, only a few miles south of where I was standing.
+
+The rest of the morning was a little less eventful.
 
 === PAGE 4 ===
 # Letter to the Editor
 
 Dear Editor:
 
-Now that Comet Austin is visible, I've had a chance to test the new LUMICON Deep-Sky Filter on it. Because of its unusually wide bandpass (900 Angstroms), I've always thought that this filter would be useful for comets (but this was my first chance to test it). The two Swan bands in comets, and the emissions from ionized C₂ occur near 470 and 520 nanometers (nm). Both of these bands are fully transmitted by the Deep-Sky filter, but are partially blocked by the earlier, and completely blocked in most nebula filters. The narrowpass Daystar-100 nebula filter (improved nebula filter).
+Now that Comet Austin is visible, I've had a chance to test the new LUMICON Deep-Sky Filter on it. Because of its unusually wide bandpass (900 Angstroms), I've always thought that this filter might be ideal for comets (but this was my first chance to test it). The two Swan bands in comets, and emissions from molecular C2, occur near 470 and 520 nanometeres (nm). Both of these bands are fully transmitted by the Deep-Sky filter, but are partially blocked in most nebula filters, and completely blocked by the narrow-bandpass Daystar-100 nebula filter (improved Nebula filter).
 
 Using a Deep-Sky filter, I noticed a definite improvement of visual contrast in the tail of Comet Austin. From my backyard in Livermore, California, I also performed a photographic test of this filter using my 8" f/4.5 telescope, and hypered 2415 film. The light pollution was severe, because the comet was low in the sky; right above heavily lighted neighboring towns. I took a 10-minute exposure with the Deep-Sky filter, and a 10-minute photo without it. The negative from the unfiltered exposure was so dark that there was no contrast. The filtered photo was easily printed, and clearly shows the tail.
 
@@ -271,29 +294,27 @@ Dr. Jack Marling,
 President:
 LUMICON, Inc.
 
-[IMAGE: A black and white photograph showing what appears to be a comet]
+[THIS IS FIGURE: A black and white photograph showing what appears to be a comet]
 
-(For those interested in further details, Jack has a chart comparing the spectra of two comets with the spectral responses of the human eye and the Deep-Sky Filter, plus copies of his original (unscreened) photos. Since I'm sure the photo reproduction here is not going to be the greatest, I'll note that the
+(For those interested in further details, Jack has a chart comparing the spectra of two comets with the spectral responses of the human eye and the Deep-Sky Filter, plus copies of his original (unscreened) photos. Since I'm sure the photo reproduction here is not going to be the greatest, I'll note that the comet's ion tail is visible for about two inches (at this scale) in the screened photo.
 
-comet's ion tail is visible for about two inches (at this scale) in the screened photo.
+I also observed Comet Austin from Livermore, with 13 x 80 binoculars. Because of the heavy Berkeley, Oakland, and San Francisco light pollution "near" the horizon, I saw only the slightest elongation of the fuzzball due to the tail (and that on only one of three evenings). I was quite impressed when I saw Jack's original "before and after" filter photos at the AAMC/AA convention.
 
-I also observed Comet Austin from Livermore, with 13 x 80 binoculars. Because of the heavy Berkeley, Oakland, and San Francisco light pollution "near" the horizon, I saw only the slightest elongation of the fuzzball due to the tail (and that on only one of three evenings). I was quite impressed when I saw Jack's original "before and after" filter photos at the AAAC/AAA convention.
-
-I predict that the many amateurs enthused by the International Halley watch presentations Steve Edberg is giving, may find themselves investing in such filters by 1985, since (as Don Machholz pointed out to me) Halley will be low in our southern skies and is predicted to be about as bright as Comet Kohoutek. Ed.)
+I predict that the many amateurs enthused by the International Halley watch presentations Steve Edberg is giving, may also find themselves investing in such filters by 1985, since (as Don Machholz pointed out last year in our southern skies) Halley will be low in our southern skies and is predicted to be about as bright as Comet Kohoutek. Ed.)
 
 ## AUGUST NEW MOON AT FREEKIS PEAK
 By
-DENNI FRIERICHS
+DENNI FREERICHS
 
 It used to be said in Bay Area astronomy circles that if there was a two-day star party at Fremont Peak, one of the two days would be cloudy, and it was likely to be Saturday. Clouds like to wipe out as many telescopes as possible in one spot, and Saturday normally is the crowded night.
 
-Fortunately, the western horizon cirrus clouds stayed where they were Saturday evening and comet hunters were at least able to get a good look at Comet Austin. The comet (approaching magnitude 6 at the time) was not naked eye, but was easily found with my 11 x 80 binoculars. Don Machholz and I concluded for it were fairly accurate, considering that it was climbing rapidly in the sky towards Ursa Major towards the Big Dipper. Its path was reminiscent of Comet West-Biggles-Wilson's, back in 1975, though Comet Austin appeared fainter. In the binoculars it was a fuzzy cotton ball. Photos show a 1° tail.
+Fortunately, the western horizon cirrus clouds stayed where they were Saturday evening and comet hunters were at least able to get a good look at Comet Austin. The comet (approaching magnitude 6 at the time) was not naked eye, but was easily found with my 11 x 80 binoculars. Don Machholz's Coulter area for it were fairly accurate, considering that it was climbing rapidly in the sky to clear the trees. Major Doward the Big Dipper. Its path was reminiscent of Comet Seki-Machholz-Wiltson's, back in 1975, though Comet Austin appeared fainter. In the binoculars it was a fuzzy cotton ball. Photos show a 1° tail.
 
 Those who had set up their equipment in Coulter Camp, and were not mobile, were wiped out by the northern trees. Those who could make it up to Madrone Flat were rewarded with a few hours of twilight comet viewing, before western haze and San Jose wiped out the lower setting.
 
 Another comet was also viewed during the evening. Comet Bowell is only a few degrees away from the Trifid Nebula, and because it is leaving our neighborhood almost in our line of sight, there is little apparent motion. It was quite dim (11th magnitude) in Kevin Medlock's 18" at 150x, so it might take some looking to see it.
 
-Since I had left my 8" at home, I started out using Charles Turner's Quantum 6. It's a nice commercial scope, but I'm a trifle aperture spoiled. I soon found myself sitting with Bob Fingerhut, enjoying his shirt-sleeve temperatures (70 degrees), and jumping up whenever someone with 10" or more wandered by the forest would say, "I've got NGC such and such in my eyepiece, come up to see"... Relax, enjoy the view, and let someone else do the work. We went through numerous planetary nebulae and NGC galaxies this way.
+Since I had left my 8" at home, I started out using Charles Turner's Quantum 6. It's a nice commercial scope, but I'm a trifle aperture spoiled. I soon found myself sitting with Bob Fingerhut, enjoying the shirt-sleeve temperatures (70 degrees), and jumping up whenever someone would say "Come over here; the forest would say, "I've got NGC such and such in my eyepiece. Come over to see it.". Relax, enjoy the view, and let someone else do the work. We went through numerous planetary nebulae and NGC galaxies this way.
 
 The Blinking Planetary (NGC 6826) in Cygnus was very impressive in the 18", and actually a fun object
 
@@ -302,137 +323,35 @@ The Blinking Planetary (NGC 6826) in Cygnus was very impressive in the 18", and 
 === PAGE 5 ===
 (Continued..)
 
-to let your eyes play tricks with. By looking
-straight at the planetary, the green nebulosity is
-very evident. If you use averted vision, the central
-star "pops" out and dominates the planetary. This
-normally causes the observer to look back at the
-nebula, which in turn causes the star to disappear.
-Hence, the "blink". Try it. It should be apparent in
-an 8" and larger.
+to let your eyes play tricks with. By looking straight at the planetary, the green nebulosity is very evident. If you use averted vision, the central star "pops" out and dominates the planetary. This normally causes the observer to look back at the nebula, which in turn causes the star to disappear. Hence, the "blink". Try it. It should be apparent in an 8" and larger.
 
-Another well sought-after object was Stephan's
-Quintet in Pegasus. This object, which is actually
-five galaxies, is less than a degree southeast of the
-bright edge-on galaxy NGC 7331, and many observers
-make the mistake of thinking they have found the
-brightest member of the quintet when sighting it.
-Stephan's Quintet was very faint in a 12-1/2" Newtonian brought by Tom Scott of Fresno; some members were
-identifiable in a 14" Dobson; and it was recognizable
-in the 18". There are claims that it has been seen in
-an 8" from Fremont Peak, but I have to think that all
-that was seen was lumpy darkness!
+Another well sought-after object was Stephan's Quintet in Pegasus. This object, which is actually five galaxies, is less than a degree southeast of the bright edge-on galaxy NGC 7331, and many observers make the mistake of thinking they have found the brightest member of the quintet when sighting it. Stephan's Quintet was very faint in a 12-1/2" Newtonian brought by Tom Scott of Fresno; some members were identifiable in a 14" Dobson; and it was recognizable in the 18". There are claims that it has been seen in an 8" from Fremont Park, but I have to think that all that was seen was lumpy darkness!
 
-The mystery of the evening came when Kevin, while
-searching for a planetary east of M46, ran into what
-looked like a miniature M82, an edge-on galaxy with
-irregular dark lanes. Wattenberg's Atlas of the Constellations had no galaxies listed in Puppis, and
-while Tirion and Skalmate Pismo did not list it at
-all, where was Gerry Rattley and Jay Freeman when you
-need them?! Anybody have any idea of what was seen?
-It's at 19hrs. 29min. RA, +30.59 Dec.
+The mystery of the evening came when Kevin, while searching for a planetary east of M56, ran into what looked like a miniature M82, an edge-on galaxy with irregular dark lanes. Watenburg's Atlas of the Constellations listed NGC 6756, an OC at that position, while Tirion and Skainate Plano did not list it at all. Where was Gerry Rattley and Jay Freeman when you need them?! Anybody have any idea of what was seen? It's at lhPer, Pmin, RA, :30.5° Dec.
 
-Earlier in the evening, while going through the
-show objects with the 18", M13 was observed. Walter
-Scott Houston pointed out in his August, '82, Sky &
-Telescope "Deep Sky Wonders" column, that the globular cluster actually appears to be broken into a
-trifid by three darker vanes. He first suggested this
-appearance at Skallatne '81, and I was fortunate to
-be one of the first to view it through the 12" Porter
-Turret telescope at Breezy Hill. It's quite easy to
-see once you know it's there, and in the 18" the
-vanes were quite prominent.
+Earlier in the evening, while going through the show objects with the 18", M13 was observed. Walter Scott Houston pointed out in his August, '82, Sky & Telescope "Deep Sky Wonders" column, that the globular cluster actually appears to be broken into a trifid by three darker vanes. He first suggested this appearance as Skullatune '81, and I was fortunate to be one of the first to view it through the 12" Porter Turret telescope at Breezy Hill. It's quite easy to see once you know it's there, and in the 18" the vanes were quite prominent.
 
-There was a lot of aperture at the Peak. Besides
-those already mentioned, Charles Turner had his 14"
-fork-mounted Newtonian, Bill Cook had his 10", Frank
-Dibbell his C-11, and Bruce Swayzs his 16". Notable
-absences were Jay Freeman's C-14, and Chris and Shea
-Pratt's 12-1/2" Starlost.
+There was a lot of aperture at the Peak. Besides those already mentioned, Charles Turner had his 14" fork-mounted Newtonian, Bill Cook had his 10", Frank Dibbell his C-11, and Bruce Swayre his 16". Notable absences were Jay Freeman's C-14, and Chris and Shea Pratt's 12-1/2" Starlost.
 
-It was a very friendly star party, with members
-of the San Mateo club mixed in. The SJAA must have
-had about twenty people there. Altogether the crowding was not as bad as some past summer new-moon weekends at the peak have been, and there was no yelling
-at offending cars and their drivers except for the
-one jerk who came into the area late. When I questioned as to why he was yelling "lights out!" at a
-car in broad daylight, replied, "Well, I have to keep
-in practice!")
-
+It was a very friendly star party, with members of the San Mateo club mixed in. The SJAA must have had about twenty people there. Altogether the crowding was not as bad as some past summer new-moon weekends at the peak have been, and there was no yelling at offending cars and their drivers except for the little guy up on Parnassus Peak. When someone questioned as to why he was yelling "lights out!" at a car in broad daylight, replied, "Well, I have to keep in practice!")
 
 STAYING WARM
 by
 JEFF BORNE
 
-Have you ever noticed some of the peculiar
-things people wear at star parties? The oddest collection of jackets, tops, rags, and what-nots you'll
-find anywhere not under the sun. My favorite oddity
+Have you ever noticed some of the peculiar things people wear at star parties? The oddest collection of jackets, tops, rags, and what-nots you'll find anywhere not under the sun. My favorite oddity is the hats that people wear. Some are old fishing hats (with lures attached), tweed driving caps, chic ski hats, and some appear to be old stretch socks pulled down around the ears.
 
-is the hats that people wear. Some are old fishing
-hats (with lures attached), tweed driving caps, chic
-ski hats, and some appear to be old stretch socks
-pulled down around the ears.
+Coats and jackets are another interesting item. Some people show up at star parties with parkas straight from a polar expedition, while others stuff every shirt they own under a light windbreaker. While the first group act like Eskimos, the second group look like bags of potatoes with legs.
 
-Coats and jackets are another interesting item.
-Some people show up at star parties with parkas
-straight from a polar expedition, while others stuff
-every shirt they own under a light windbreaker.
-While the first group act like Eskimos, the second
-group look like bags of potatoes with legs.
+This brings us to what I call "the macho observer"; you know the one — the last guy to put a coat on. He'll walk around in shirt sleeves, while ice is forming on his telescope tube. "Oh, it isn't so cold," he says, "Back home in Vermont we keep our eyepieces in the freezer, so they don't fog up when we go outside." People of this persuasion have been known to show up at star parties with short pants on, saying it was too hot to change before they left home. Later in the evening they complain loudly about needing to replace a noisy servo gear, when it is really just their knees knocking together. Particular offenders of this clan are those from New Vanland who arrive at a star party without a shirt on. Trying to get a tan from the starlight, I guess.
 
-This brings us to what I call "the macho observer"; you know the one -- the last guy to put a coat
-on. He'll walk around in shirt sleeves, while ice is
-forming on his telescope tube. "Oh, it isn't so
-cold," he says, "Back home in Vermont we keep our
-eyepieces in the freezer, so they don't fog up when
-we go outside." People of this persuasion have been
-known to show up at star parties with short pants
-on, saying it was too hot to change before they left
-home. Later in the evening they complain loudly
-about needing to replace a noisy servo gear, when it
-is really just their knees knocking together. Particular offenders of this clan are those from New
-Vanland who arrive at a star party without a
-shirt on. Trying to get a tan from the starlight, I
-guess.
+On the serious side, what should one wear to winter observing sessions? Is it best to dress in layers of clothes, rather than to use one heavy, bulky coat. A couple of light sweaters worn together will be warmer than one thick one because of the insulating "dead-air layer" trapped between them. Layered clothing can be put on piece at a time, as the night gets colder, or taken off in layers if the wind stops and you get warm. My favorite choice is a long-sleeved shirt with a light sweater, and finally a medium jacket. This combination is warm down to about 32° F. I'll bring another sweater if I think it will be colder.
 
-On the serious side, what should one wear to
-winter observing sessions? Is it best to dress in
-layers of clothes, rather than to use one heavy,
-bulky coat. A couple of light sweaters worn together
-will be warmer than one thick one because of the
-insulating "dead-air layer" trapped between them.
-Layered clothing can be put on one piece at a time,
-as the night gets colder, or taken off in layers if
-the wind stops and you get warm. My favorite choice
-is a long-sleeved shirt with a light sweater, and
-finally a medium jacket. This combination is warm
-down to about 32° F. I'll bring another sweater if
-I think it will be colder.
+A hat is an absolute must. Up to 30% of your total body heat can be lost through the top of your head, so you will find it difficult to stay warm without some kind of head covering. Try to find a hat that keeps your ears warm as well. Ear flaps may look funny, but they do the trick. Thermal underwear will also keep you very warm, but can get hot while driving to the observing site. I recommend trying your telescope into your car before getting heavily dressed. Carrying heavy objects can make you perspire, and wet clothing can get very cold later.
 
-A hat is an absolute must. Up to 30% of your
-total body heat can be lost through the top of your
-head, so you will find it difficult to stay warm
-without some kind of head covering. Try to find a
-hat that keeps your ears warm as well. Ear flaps may
-look funny, but they do the trick. Thermal underwear
-will also keep you very warm, but can get hot while
-driving to and from the site. I suggest using your
-telescope into your car before getting heavily
-dressed. Carrying heavy objects can make you perspire, and wet clothing can get very cold later.
+Wear a good pair of gloves and two layers of socks (cotton inside, wool outside). I use some aluminized glove inserts that reflect the heat. Also, as a rule, mittens are warmer than gloves, but more clumsy. If you bring a pair of boots to wear, carry them inside the car, not in the trunk, and put them on as soon as you get to the star party. Cold shoes are almost impossible to warm up. My feet are always the coldest part of me, so maybe some electric socks are a solution. In addition, any ski store is a source of warm ideas.
 
-Wear a good pair of gloves and two layers of
-socks (cotton inside, wool outside). I use some
-aluminized glove inserts that reflect the heat.
-Also, as a rule, mittens are warmer than gloves, but
-more clumsy. If you bring a pair of boots to wear,
-carry them inside the car, not in the trunk, and put
-them on as soon as you get to the star party. Cold
-shoes are almost impossible to warm up. My feet are
-always the coldest part of me, so maybe some electric socks are a solution. In addition, any ski
-store is a source of warm ideas.
-
-All of this doesn't mean you have to rush out to
-buy a bunch of stuff if your closet isn't already
-full. No matter what you have, try to dress in layers and wear a hat: you'll be a happier astronomer.
+All of this doesn't mean you have to rush out to buy a bunch of stuff if your closet isn't already full. No matter what you have, try to dress in layers and wear a hat: you'll be a happier astronomer.
 
 === PAGE 6 ===
 # Comet Comments
@@ -443,7 +362,7 @@ As we move into the final months of the year, three comets remain visible in our
 
 **Two Probable Sungrazing Comets.** The Naval Research Laboratory has recently reported that P78-1, its sun-monitoring satellite, photographed two comets in 1981 as they crashed into the sun. Neither comet left a trace after hitting.
 
-The first one was followed for four hours on January 27th, 1981, as it traveled 5 solar radii, brightening from about +1 magnitude (at 5.5 radii) to approximately -2.5 (at 0.5 radii). (One solar radius is approximately 15 arc minutes, or one-quarter of a degree.)
+The first one was followed for four hours on January 27th, 1981, as it traveled 5 solar radii, brightening from about +1 magnitude (at 5.5 radii) to approximately 27.5 (at 2.7 radii). (One solar radius is approximately 15 arc minutes, or one-quarter of a degree.)
 
 The second comet hit the sun on July 20th, 1981. It too was followed for four hours, as it traveled from 9.6 to 6.3 solar radii. Its magnitude (at 8 radii) was -0.8.
 
@@ -455,45 +374,39 @@ As reported here in December, 1981, this satellite discovered an earlier comet t
 
 The comet approached to within 40 million miles of the sun on September 5th, 1975, and reached 4th magnitude. With its paraboloid orbit, it is not expected to return for a very long time.
 
----
-
 ## Comet Austin (1982g)
 
 | DATE (UT) | R.A. | DEC. | MAG. |
-|-----------|--------------|----------|------|
-| 10-03 | 12h 53.5m | +36°53' | 9.2 |
+|-----------|------|------|------|
+| 10-03 | 12h 53.5m | +36°31' | 9.2 |
 | 10-08 | 12h 55.7m | +35°58' | 9.5 |
 | 10-13 | 12h 57.7m | +35°10' | 9.8 |
 | 10-18 | 12h 59.5m | +34°29' | 10.2 |
-| 10-23 | 13h 01.0m | +33°58' | 10.5 |
+| 10-23 | 13h 01.0m | +33°55' | 10.5 |
 | 10-28 | 13h 02.4m | +33°28' | 10.8 |
-| 11-02 | 13h 03.4m | +33°08' | 11.0 |
+| 11-02 | 13h 03.4m | +33°09' | 11.0 |
 | 11-07 | 13h 04.2m | +32°56' | 11.2 |
 
 Displaying an ion tail during August and early September, this comet is still a fine object in the evening sky. In mid-October, it will be entering the morning sky, and from then on it will be better seen in the pre-dawn sky. (Positions and magnitudes are from the IDA Circ. 3724, and Comet News Service 82-3.)
 
----
-
 ## Periodic Comet D'Arrest (1982e)
 
 | DATE (UT) | R.A. | DEC. | MAG. |
-|-----------|--------------|----------|------|
+|-----------|------|------|------|
 | 10-03 | 18h 50.8m | -29°49' | 8.4 |
 | 10-08 | 19h 12.1m | -31°17' | 8.4 |
 | 10-13 | 19h 33.8m | -32°24' | 8.5 |
-| 10-18 | 19h 55.7m | -33°09' | 8.6 |
+| 10-18 | 19h 55.7m | -33°05' | 8.6 |
 | 10-23 | 20h 17.5m | -33°34' | 8.7 |
-| 10-28 | 20h 39.0m | -33°40' | 8.9 |
+| 10-28 | 20h 39.0m | -33°46' | 8.9 |
 | 11-02 | 20h 59.9m | -33°28' | 9.1 |
 
 Diffuse and traveling through the Milky Way, this periodic comet (6.4 years) may be more difficult to see than the figures indicate. (Data from Comet News Service, 82-3.)
 
----
-
 ## Periodic Comet Churyumov-Gerasimenko (1982f)
 
 | DATE (UT) | R.A. | DEC. | MAG. |
-|-----------|--------------|----------|------|
+|-----------|------|------|------|
 | 10-03 | 04h 25.8m | +15°24' | 11.1 |
 | 10-08 | 04h 40.3m | +16°47' | 11.0 |
 | 10-13 | 04h 54.9m | +18°13' | 10.8 |
@@ -504,26 +417,24 @@ Diffuse and traveling through the Milky Way, this periodic comet (6.4 years) may
 
 Placed in the morning sky, this comet will pass near (or over*) the Crab Nebula (M1) on October 24th. (Data from Comet News Service 82-3.)
 
----
-
 * * * * * * * *
 
-*(There seems to be a certain amount of cosmic humor, churns, or justice in an amateur astronomer's discoving a comet while looking for a Messier object. Don, do you know about (a)any other instances of this happening? And, what can be said about other comets passing passing in front of a Messier object, especially M1? Ed.)
+*(There seems to be a certain amount of cosmic humor, churns, or justice in an amateur astronomer's discovering a comet while looking for a Messier object. Don, do you know about (a)any other instances of this happening? And, what can be said about other comets passing in front of a Messier object, especially M1? Ed.)
 
 === PAGE 7 ===
 # Space Program Update
 
-**by Bob Fingerhut**
+## by Bob Fingerhut
 
-**Private Rocket Successfully Launched!** The Conestoga-I rocket vehicle, of Space Services, Inc., was launched on September 9th from Matagorda Island, off the Texas coast, using a Minuteman I second-stage motor boosted it to a planned altitude of about 195 miles during a 10.5 minute flight. Splashdown was in the Gulf of Mexico, about 260 miles downrange.
+**Private Rocket Successfully Launched!** The Conestoga-I rocket vehicle, of Space Services, Inc., was launched on September 9th from Matagorda Island, off the Texas coast. The flight was a second-stage motor boosted it to a planned altitude of about 195 miles during a 10.5 minute flight. Splashdown was in the Gulf of Mexico, about 260 miles downrange.
 
-Space Services chairman and mission director Donald K. (Deke) Slayton said that the flight objectives were achieved (including the successful separation of a 1079 lb. mock payload). There is an orbital development mission planned for next year, and flights carrying commercial payloads could begin by mid-1984. Space Services hopes to sell low earth orbit remote sensing time to oil companies and others interested in mineral exploration or geologic mapping.
+Space Services chairman and mission director Donald K. (Deke) Slayton said that the flight objectives were achieved (including the successful separation of a 1079 lb. mock payload). There is an orbital development mission planned for next year, and flights carrying commercial payloads could begin by mid-1984. Space Services hopes to sell low earth orbit or remote sensing time to oil companies and others interested in mineral exploration or geologic mapping.
 
-**First Operational Flight of Ariane Fails.** The premature shutdown of the Ariane I third-stage motor, five minutes after its launch on September 10, sent the vehicle and its payload into the Atlantic Ocean.
+**First Operational Flight of Ariane Fails.** The premiere demonstration of the Ariane I third-stage motor started minutes after its launch on September 10, sent the vehicle and its payload into the Atlantic Ocean.
 
 The European Space Agency's MARECS-B maritime communications satellite, and their SIRIO-2 satellite were both destroyed. SIRIO-2 was designed to disseminate meteorological data over Africa, and provide laser synchronization for atomic clocks, from its geostationary orbit.
 
-**Insat-1A Fails.** After 148 days in orbit, India's Insat-1A domestic communications, direct-broadcast-TV, and weather-monitoring satellite failed due to a lack of propellant for its attitude control system. The fuel loss was caused by a malfunctioning valve in the oxidizer line. The spacecraft was designed to last seven years in orbit. The second Insat is scheduled to be launched next July.
+**Insat-lA Fails.** After 148 days in orbit, India's Insat-lA domestic communications, direct-broadcast-TV, and weather-monitoring satellite failed due to a lack of propellant for its attitude control system. The fuel loss was caused by a malfunctioning valve in the oxidizer line. The spacecraft was designed to last seven years in orbit. The second Insat is scheduled to be launched next July.
 
 **ANIK-D1 Successfully Orbited.** The Canadian ANIK-D1 domestic communications satellite was successfully launched into a geosynchronous transfer orbit on August 26th, aboard a Delta 3920/PAM vehicle.
 
@@ -531,9 +442,9 @@ The European Space Agency's MARECS-B maritime communications satellite, and thei
 
 **Materials Processing in Space.** Japan's National Space Development Agency recovered an orbiting materials processing payload, containing two electric furnaces, following its successful launch on a Nissan Motors T-300A rocket. The experiment created a new nickel alloy and an amorphous semiconductor.
 
-**Japan Launches an Experimental Satellite.** On September 3rd, the Japanese space agency, NASDA, successfully launched its Engineering Test Satellite III into orbit. It is in a circular orbit, 1000 km high, with an inclination of 49° to the equator, and has a period of 105 minutes. ETS-III is a precursor to a remote sensing satellite, and is being used to test a three-axis attitude control system, the deployment of a solar array panel, and an active thermal control system.
+**Japan Launches an Experimental Satellite.** On September 3rd, the Japanese space agency, NASDA, successfully launched its Engineering Test Satellite III into orbit. It is in a circular orbit, 1000 km high, with an inclination of 45° to the equator, and has a period of 105 minutes. ETS-III is a precursor to a remote sensing satellite, and is being used to test a three-axis attitude control system, the deployment of a solar array panel, and an active thermal control system.
 
-**Soviets Plan "New" Navigation System.** The Soviet Union has filed documents with the International Telecommunications Union stating that it plans to deploy "Glonass," a global navigation satellite system, which is similar to the U.S. Department of Defense Navstar global positioning system.
+**Soviets Plan "New" Navigation System.** The Soviet Union has filed documents with the International Telecommunications Union stating that it plans to deploy "Glonass", a global navigation satellite system, which will be compatible to the U.S. Department of Defense Navstar global positioning system.
 
 **Challenger Engine Test.** The space shuttle orbiter Challenger's main engines will be fired on Pad 39A on December 7th, for 20 to 25 seconds, to verify that its main propulsion system is functioning properly. Challenger's first flight is now scheduled for mid-January, 1983.
 
@@ -545,7 +456,7 @@ On the other hand, NASA will start to pay the full cost of using DoD aeronautics
 
 **NASA/DoD Funding: Part II.** The Air Force and NASA have agreed on a higher price for military space shuttle launches from FY '84 through FY '88. The payments will be made one year in advance, and will reduce the $409 million NASA subsidy of the DoD in FY '83 by about $15 million.
 
-**U.S./West German Spacecraft Venture.** A cooperative space science agreement has been signed by the Federal Republic of Germany and the U.S., for a program to launch an x-ray observatory spacecraft in 1987 to study x-ray emissions from non-solar celestial objects. The project has been named ROSAT, short for Roentgen satellite. Germany will provide the spacecraft and x-ray telescope; NASA, a highresolution imaging detector and a shuttle launch.
+**U.S./West German Spacecraft Venture.** A cooperative space science agreement has been signed by the Federal Republic of Germany and the U.S., for a program to launch an x-ray observatory spacecraft in 1987 to study x-ray emissions from non-solar celestial objects. The project has been named ROSAT, short for Roentegen Satellite. Germany will provide the spacecraft and x-ray telescope; NASA, a highresolution imaging detector and a shuttle launch.
 
 **New Projects for FY 1984?** NASA plans to ask for funds to start two new projects in FY 1984. They are a tethered satellite, and a teleoperator retrieval system for the space shuttle. The first of these projects will be done jointly with the Italians.
 
@@ -570,7 +481,6 @@ tain U.S. leadership in the world. He urged:
 and NASA.
 • The purchase of at least twice as many
 orbiters as the four currently planned.
-
 • Broader relationships with the commercial
 sector for using the Space Transportation
 System.
@@ -598,7 +508,7 @@ FRANK DIBBELL
 The August 20th - 21st Fremont Peak Star Party
 meant different things to different people. Some peo-
 ple came to see the comet, others to attempt to ob-
-serve the 'deep-sky stuff. The more adventurous,
+serve the comet with party plugs. The more adventurous,
 to scale the Peak and explore the caves. We all came
 to escape the smog and traffic of the Valley.
 
@@ -615,19 +525,19 @@ ther was very uncooperative; a large band of cirrus
 hugged the western horizon, threatening to obscure
 the comet. Persistence paid off; soon I had found
 Austin with my 7 x 50's, in a break between the cir-
-rus. Through the C-11 at l00x it looked like a small,
+rus. Through the C-11 at 100x it looked like a small,
 unresolved globular, somewhat fainter than predicted
 with no observable tail. Because of the poor seeing,
 I gave up any attempt at photography.
 
 Later arrivals that night included Kevin and Den-
 ni Medlock, John Gleason, Charles Turner, Earl Watts,
-and a host of other regulars. And not so regular,
+and a host of other regulars, and not so regulars,
 whose names I either can't remember or don't know.
 
 High cirrus plagued us most of the night. The
 night was so warm that it was a shame the sky would
-not cooperate. I do admit that those who remained
+not cooperate. At least we all knew those who remained
 up ALL night observing, the seeing improved after
 4 AM. The less adventurous called it quits around
 2 AM.
@@ -640,7 +550,7 @@ breakfast table...
 (Denni).
 
 Charles Turner, commenting on the very-early-
-morning mouse pollution, "If Kevin can't sleep, no-
+morning noise pollution, "If Kevin can't sleep, no-
 body else can!"
 
 "Anyone for Doritos for breakfast?" (Me, looking
@@ -648,7 +558,7 @@ into my cooler for something to eat.) You had to have
 been there.
 
 After a hearty breakfast of bacon and eggs,
-Cherrios, and Doritos, a group of us retired to a
+Cherries, and Doritos, a group of us retired to a
 shady grove to contemplate an attack on the Peak.
 While Bill Cooke, Kim McKelvey, and I argued the
 merit of assaulting the East Slope instead of the
@@ -661,7 +571,7 @@ banter...
 
 "Sirius!" (Denni).
 "Procyon!" (Bill, simultaneously).
-"That's Alpha Canis Minotis!" (Me).
+"That's Alpha Canis Minoris!" (Me).
 "That's a Sirius mistake!" (Kevin).
 
 It was obvious that zero-sleep was taking its
@@ -673,18 +583,18 @@ course, and a quart of luke-warm water.
 
 It was a grueling experience -- 30 long minutes
 to reach the summit, where we finally paused in the
-90º heat to catch our collective breath. Since we
+90° heat to catch our collective breath. Since we
 made the summit with no casualties, the expedition
 bravely decided to push on to the famous Fremont Peak
-caves for a little spelunking and a picnic lunch. Af-
+Caves. Finding our target and exploring one cave af-
 ter another arduous 30 minutes, we were rewarded for
 our efforts by the cool, dank air of the caves.
 
-The return to Coulter Camp seemed somehow anti-
+The return to Coulter Camp seemed somewhat anti-
 climactic; it was also then that disaster struck! On
 the narrow and winding path downward, Denni lost her
 footing, and plunged 800 millimetres down the trail.
-Loose rocks can be a bear when you're wearing heels!
+Loony rocks can be a bear when you're wearing heels!
 The First-Aid Team determined that no serious injur-
 ies were suffered (other than pride), so after a
 brief rest we continued our trek back to Coulter
@@ -703,8 +613,8 @@ thin, and about 2 or 3 degrees in length.
 
 Quite a few more people showed up on Saturday,
 including some old-time members like Wolf Banisch and
-Carter Roberts. There were lots of interesting eye-
-ulars. Lots of aperture was present, including Ke-
+Caroline Moore, plus a large delegation from San Mat-
+ulas. Lots of aperture was present, including Ke-
 vin's 18-1/2" Newtonian, and Charles Turner's 14"
 Newtonian. A couple of large Dobsonians were there,
 as was a little Questar. (And I always thought that a
@@ -717,20 +627,16 @@ Questar was a color TV, made by RCA!)
 
 As bad as the seeing was, the big Newtonians were
 doing an admirable job on such PFN's* as Stephan's
-Quintet, though I have to admit the term "Lumpy Dark-
-ness Syndrome" more accurately describes what I actu-
-ally saw. With a little encouragement from Kevin,
+Quintet, though I have to admit the term "Lumpy Darkness Syndrome" more accurately describes what I actually saw. With a little encouragement from Kevin,
 even I was able to finally see all five galaxies. The
 remainder of the evening was spent looking at obscure
-planetaries, favorite showpieces, and just plain hav-
-ing fun.
+planetaries, favorite showpieces, and just plain having fun.
 
 Like all good things, even the weekend star party
 had to come to an end. So: Sunday morning, it was
-dismantle the scope, pack the tent (or was it disman-
-tle the tent and pack the scope?), stuff the sleeping
+dismantle the scope, pack the tent (or was it dismantle the tent and pack the scope?), stuff the sleeping
 bag, load the car, and prepare for the long drive
-back to San Smog©, all the while thinking about next
+back to San SmoGG, all the while thinking about next
 month's outing. So long, until next month!
 
 *Faint Fuzzy Nothings.
@@ -743,8 +649,7 @@ DENNY FRERICHS
 The summer board meeting of the Western Amateur
 Astronomers took place at the Sunnyvale Hilton on the
 Friday night of the AANC-WAA NASA/Ames conference.
-The conference had brought in over 300 amateur as-
-tronomers, so the board meeting was crowded, with 31
+The conference had brought in over 300 amateur astronomers, so the board meeting was crowded, with 31
 people representing about two dozen clubs. The SJAA
 members who attended were Steve Greenberg, Kevin
 Medlock, and myself. John Sanford, of the Orange
@@ -761,39 +666,34 @@ was voted to join the ASP in Hawaii for their
 June conference.)
 • Whether or not anything should be done about
 Astronomical League entry into WAA territory.
-(It was agreed the WAA would officially
+(It was voted the WAA would officially
 refrain from any correspondence with the AL.)
-• The amount owed by the WAA to Bob Schalck for
-his work on the 12-1/2" telescope being donat-
-ed to the Philippines Astronomical Society.
+• The amount owed by the WAA to Bob Schalek for
+his work on the 12-1/2" telescope being donated to the Phillipines Astronomical Society.
 
 Steve Edberg, of Jet Propulsion Laboratory and
 the International Halley Watch, announced that the
 asteroid Pallas will be occulted in late May, 1983,
 and the predicted path will pass through the YMCA
-campground at Big Bear, during the Riverside Tele-
-scope Makers' Conference! He called for graze observ-
-ers to participate in the event; and because Pallas
+campground at Big Bear, during the Riverside Telescope Makers' Conference! He called for graze observers to participate in the event; and because Pallas
 is a suspected double object, significant data could
 be collected.
 
-Since the SJAA normally has 20 to 30 members at-
-tending the RTMC, should not an SJAA graze team be in
+Since the SJAA normally has 20 to 30 members attending the RTMC, should not an SJAA graze team be in
 order? If the predicted path stays stable, let's plan
 to observe the occultation!
 
 The next WAA winter board meeting is planned for
 the Los Angeles area on Saturday, January 29, 1983.
 Subjects will include nominations and voting on the
-1983 G. Bruce Blair recipient, future WAA conferen-
-ces, and probably further discussion about the Astro-
-nomical League.
+1983 G. Bruce Blair recipient, future WAA conferences, and probably further discussion about the Astronomical League.
+
+-9-
 
 AMATEUR ASTRONOMY SURVEY
 
 
-Sunset Magazine is researching a story on ama-
-teur astronomy for an upcoming issue. You can help
+Sunset Magazine is researching a story on amateur astronomy for an upcoming issue. You can help
 them out by answering the following questions, and
 then returning the questionnaire to Sunset Magazine.
 Feel free to elaborate on any point. Thanks.
@@ -842,11 +742,11 @@ becoming an amateur astronomer?
 
 
 Thanks for your help. Please send the completed
-questionnaire to: Mary Ann Reese and Cathleen Duncan;
+questionnaire to: Mary Ann Reese and Cathleen Duncan:
 Sunset Magazine; Menlo Park, CA 94025.
 
 === PAGE 10 ===
-TIME VALUE - DATED
+# TIME VALUE - DATED
 NEWS MATERIAL
 
 SIAA Bulletin
@@ -855,6 +755,8 @@ San Jose Astronomical Association
 1509 Calico Avenue
 San Jose, CA 95124
 
-SJAA MEETINGS & STAR PARTY SITES
+[THIS IS FIGURE: A postage stamp or postal mark showing "KEPUL 94025" and other postal markings]
 
-4-5/94
+[THIS IS FIGURE: A detailed map showing "SJAA MEETINGS & STAR PARTY SITES" with various locations, roads, and geographical features marked. The map appears to show the San Jose area with various astronomical observation sites marked.]
+
+*5-94*

@@ -1,23 +1,531 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAqvyZd7HE3bWfSqja'}]
+# EPHEMERIS
+OF THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+MAY 1987
+
+[THIS IS FIGURE: Simple line drawing of an observatory dome on a hillside]
+
+************************************************
+* SEVENTH ANNUAL ASTRONOMICAL AUCTION *
+* SEVENTH ANNUAL MAY 2ND 6 PM *
+* DOORS OPEN AT 1 PM *
+* *
+* FREMONT PEAK MAY 30TH *
+* FREMONT PEAK OBSERVATORY ASSOCIATION *
+* GRAND OPENING NIGHT *
+************************************************
+
+MAY 2 SEVENTH ANNUAL ASTRONOMICAL AUCTION TO BE HELD AT THE LOS
+GATOS RED CROSS BUILDING. DOORS OPEN AT 1 PM FOR EQUIPMENT
+PRE-REGISTRATION AND ITEM VIEWING. AUCTION WILL BEGIN
+AROUND 6 PM. GET THERE EARLY!
+
+MAY 9 SJAA BOARD MEETING AT 7 PM, FOLLOWED BY THE INDOOR
+ASTRONOMY CLASS AT 8 PM. LOS GATOS RED CROSS BUILDING.
+
+MAY 16 INDOOR STAR PARTY AT THE LOS GATOS RED CROSS. 8 PM
+
+MAY 23 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+PEAK. RIVERSIDE TELESCOPE MAKERS CONFERENCE AT BIG BEAR
+LAKE CALIFORNIA. MAY 23 THROUGH THE 25TH.
+
+MAY 30 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+PEAK. ALSO, FPOA GRAND OPENING NIGHT.
+
+JUNE 6 UFO'S - THE OTHER SIDE WILL BE THE TOPIC OF THIS EVENINGS
+GENERAL MEETING FETURING TOM GATES. 8 PM, LOS GATOS RED
+CROSS BUILDING.
+
+JUNE 13 SJAA BOARD MEETING AT 7 PM, FOLLOWED BY THE INDOOR
+ASTRONOMY CLASS AT 8 PM. LOS GATOS RED CROSS BUILDING.
+
+JUNE 20 FIELD EXPEDITION FOR ASTRONOMICAL OBSERVATION TO FREMONT
+PEAK. DUSK TILL DAWN
+
+JUNE 27 ANNUAL SJAA PICNIC. GRANT RANCH COUNTY PARK. NOON TILL ?
+
+FIELD OF VIEW
+BY: JOHN GLEASON
+
+SEVENTH ANNUAL ASTRONOMICAL AUCTION
+
+Hopefully you would have received your Ephemeris in time to remember that the
+Astronomical Auction is now upon us, May 2nd. Looking forward to seeing you
+all there. The Auction takes the place of our General Meeting this month only.
+
+FPOA GRAND OPENING MAY 30TH
+
+May 30th marks the first formal public program to be held at the recently
+completed 30-inch observatory. Guest speakers, slide shows, and an evenings
+observing are all planned. Everyone is invited to attend, so come on down and
+join in the fun.
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAArWD9g9yRbmaXPCJQ'}]
+JUNE 27TH DATE SET FOR ANNUAL SJAA PICNIC
+
+Be sure to mark your calendars for this years nicpic to be held at Grant Ranch County park. Starting at around noon, the SJAA will use the picnic and Bar-B-Q facilities that are directly to the north of the parking lot that we used to have our star parties in. More information and directions next month.
+
+DR. CLYDE TOMBAUGH TO SPEAK AT 1987 RTMC
+
+Plan now to attend the 19th Annual Riverside Telescope Makers Conference on May 22 23, 24 and 25. Friday afternoon through Monday morning. It will be held at Camp Oaks, which is located 5 miles east of Big Bear City on Highway 38 at Lake Williams Road. This location is 50 miles northeast of Riverside, high in the San Bernardino mountains. It is a clean mountain YMCA Camp which is located at an elevation of 7200 feet.
+
+The conference grounds will open at 1:00 pm on Friday. Please do not arrive before that time as you will not be permitted on the grounds. No camping will be allowed prior to the event: other YMCA camp activities will be in progress.
+
+This year as in the past, merit award certificates and engraved plaques will be awarded for displays and telescopes with novel design, exceptional craftsmanship, and use of related equipment or accessories. The Warren Estes Memorial Award will again be awarded for the best telescope made from simple materials.
+
+This year again we will again be awarding the Clifford Holmes Award to the amateur astronomer who contributed most to amateur telescope making. The Merit Awards will be presented Sunday evening.
+
+SPECIAL EVENT: Dr. Clyde Tombaugh will be speaking Sunday morning 9:00 am. A charge of $5.00 per person will be made to attend this single presentation. All proceeds will go to the Clyde Tombaugh Scholars Endowment Fund being instituted at the New Mexico State University, Las Cruces, New Mexico.
+
+20MM NAGLER EVALUATED
+
+During March Star Party at Fremont Peak, I had an opportunity to use the new 20mm Nagler, Type-2 eyepiece. The development of the eyepiece adds a much needed longer focal length to the current series of Nagler eyepieces. Al Nagler's 13mm eyepiece was a bit short in EFL for a lot of long focus telescopes, especially the popular f/10 Schmidt Cassegrainans. The 12mm also suffers from an unusual "kidney" shaped exit pupil distortion that is a little annoying if you do not get your eye at the exact focus point of the field lens. The Type-2 series of eyepieces (a 16mm and 12mm are soon to follow), are designed to eliminate all exit pupil distortions, so needless to say a number of amateur astronomers have been anxiously awaiting the arrival of these new eyepieces.
+
+The 20mm is not a whole lot larger than the 13mm Nagler, weighing in at about 2 lbs. Certainly not an eyepiece for a lightueight, shaky mounting, the 20mm is designed to fit only 2-inch focusing tubes and adapters. The exterior machining work is the same excellent finish that has become the standard of all Nagler and Tele Vue eyepieces. The 20mm eyepiece is also fitted with a built-in rubber eyecup.
+
+The 20mm was put through an entire evenings observation on the FPOA 30" f/4.8 telescope. On the thirty it yielded a magnification of 183X, hardly a low power for wide field work, but nevertheless it provided a useful magnification for galaxy and globular cluster observation.
+
+Upon initial use, you are first struck by the fact that you have to get your Mark I eyeball directly inside the rubber eyecup to see around the entire 82° apparent eyepiece field of view. So close does your eye get to the field lens, you almost expect to get a black ring on the fraction of a millimeter closer, you would come into contact with the field lens itself. This is the first time that I really had to "lock around" the inside of an eyepiece to take in the entire field.
+
+In this particular instance we were looking at 14th magnitude Halley's Comet. The eyepiece rendered the comet as a small, faint, egg-shaped cotton ball, floating among a wonderful starfield. I was amazed at how well the eyepiece corrected the telescope's optical coma. The coma has been readily apparent in other eyepiece types. In addition the 20MM seemed to push the telescope away from the observer. Here was a real "window" to the universe.
+
+Later, I had a chance to test the eyepiece on a 14" f/11 Celestron. Once again the window effect pushed away the telescope to reveal an extremely high contrast image of the Ring Nebula. The combination of this eyepiece and f/11
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAs2xVZw2rtGnfH7ig'}]
+yielded a jet black sky background through the C14 at 195x. Star images were
+razor sharp to the extreme edges and appeared to be relatively ghost free
+considering the multitude of optical surfaces that the starlight was passing
+through.
+
+Gone were the exit pupil distortions that have become common artifacts in the
+13mm Naglers. The 20mm presented to me what was probably the clearest,
+sharpest view that I have seen through a telescope in a long time.
+
+I only have a few minor complaints about this eyepiece. First, the rubber
+eyecup seems that it could have been constructed with a little more durability.
+It will be the first thing to go after continuous use. Users were constantly
+folding it forward and back to accomodate the extremely short exit pupil
+distance. It might be best to eliminate it altogether, or at least keep it
+folded forward when in use. Secondly, the extremely short exit pupil distance
+will present a problem for those observers who like to were their glasses when
+looking through the eyepiece. Using this eyepiece means having to run your
+eyeball right up to the field lens to take full advantage of the entire field
+of view. These issues are minor problems for first time observers who often have
+problems looking through eyepieces as beginners. Stick to your under-field
+Erfles for these applications.
+
+The 20mm is certainly targeted for the serious deep sky observer. Its $300 to
+$400 price tag is not for the light of bank account. Those who can afford to
+pay the price will certainly get a high quality product. The 20mm will be a
+welcomed addition to the "Superior" C14 when looking for those illusive surface
+details on Jupiter's moons!
+
+THE CELESTIAL TOURIST SPEAKS
+BY : JAY REYNOLDS FREEMAN
+
+[DRAWING OF SATURN WITH RINGS]
+
+In recent months I have found a relatively new, small star
+atlas increasingly useful. The work is a "Collins Gem
+Guide", apparently one of a series. This particular "Gem
+Guide" is The Night Sky, featuring the well-known and
+excellent celestial cartography of Wil Tirion, with text by
+Ian Ridpath. Collins is a British Publisher (London and
+Glasgow), though my copy has a sticker on the back cover
+
+that reads "Simon and Schuster". The book was published in 1985.
+
+The work is most immediately remarkable for its tiny physical size: this
+240-page softcover book is only 8 by 12 cm, and little more than 1 cm thick --
+not much larger than a deck of playing cards. This handy volume fits easily
+into a shirt pocket, and eyepiece case, or a glove compartment.
+
+The first twenty-odd pages provide some elementary details about the various
+kinds of objects charted, describe celestial coordinates and the magnitude
+system, and introduce a few other astronomical topics. The next ten pages
+present charts of the entire sky at a scale of one degree per millimeter, with
+sufficient stars shown to delineate all the constellations; that is, with most
+stars to fourth magnitude and a few at fifth magnitude where necessary to show
+constellation shape.
+
+Then comes the bulk and heart of the book, 198 pages of charts and descriptions
+of each constellation, all in alphabetical order. The format is uniform: The
+entry for a constellation starts out with a double-page spread, with text on
+the left-hand page and a chart on the right-hand page. In most cases, that's
+all but in constellations with a large number of interesting objects there is
+more text, additional maps at larger scale, and an occasional photograph or
+other figure.
+
+The charts are nice. The background is medium blue, with paler blue for the
+Milky Way, the Clouds of Magellan and large nebulae. The borders of the
+selected constellation and its conventional stick-figure representation are in
+white for emphasis, while the coordinate grid and other constellation
+boundaries are in black. Stars are shown in white to a uniform fifth
+magnitude. Within the selected constellation, there are many star
+identifications and deep-sky objects; there is much less such detail outside
+its borders. The epoch is 2000 throughout. Scales vary, but no chart appears
+either cluttered or sparsely filled.
+
+Tirion has made good choices in selecting chart scales. Large and easily
+located constellations are drawn so as to fill most the available space, but
+smaller, more compact constellations are drawn to a great deal of sky around
+them, enough to relate their positions to more readily recognized skymarks.
+There is none of the loss of orientation that sometimes comes with viewing a
+chart closely cropped to constellation boundaries.
+
+The charts show moderate numbers of variable stars and doubles. The deep-sky
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAsdRo9tFvsLyM8yyV'}]
+objects include essentially all the Messier objects (M40 is neither charted nor
+mentioned; M110 is listed only as NGC 205 -- but not everyone includes it in
+Messier's catalog), as well as other objects of similar brightness or
+notoriety. There is much more detail in selected special regions: the chart of
+the Virgo galaxy cluster shows 50 or 60 galaxies, and the one of central Orion
+goes to stellar magnitude eight and shows the Horsehead Nebula, NGC 2024 and
+the like. All kinds of objects are depicted with their familiar symbols.
+
+The accompanying text describes a selection of the brighter and more
+interesting objects in the constellation. The details given emphasize
+appearance and detectibility in small telescopes.
+
+Finally, there is a pretty good index. It could be improved by listing the
+pages on which named and numbered objects are charted -- the present index only
+includes thin page-range text portions of the book. On the other hand,
+the index-makers did include the numerical identifications of objects
+mentioned; there is a long column of M Messier objects under "M" and two or three
+columns that begin "NGC".
+
+The book is sturdily constructed. After a year or two of moderate use, none of
+the page pin my copy show any sign of falling out, and the heavy soft cover is
+only beginning to look dog-eared. The volume won't lie open, but it is small
+enough to hold open in one hand with ease.
+
+Best of all is the price, which was only $4.95. At that rate I have gotten
+several copies to inflict on my friends, and I leave one in the glove
+compartment of my car.
+
+I usually have a copy of The Night Sky in my pocket at star parties. Most of
+the deep-sky objects it depicts are bright enough to show in finders, and a
+chart with a limiting magnitude of five has enough stars so that in most part
+of the sky I can get the finder to the right field almost instantly. (There
+would not be enough stars to set finder cross-hairs at the location of an
+object which was too faint to see through the finder -- for that task a chart
+limit of magnitude nine is more like it -- but or objects that are easily
+detected in the finder itself, magnitude five is fine.) The atlas is also an
+excellent adjunct for binoculars, and will easily fit in a binocular case, so
+as not to be left at home.
+
+SCIENTISTS IDENTIFY STAR
+THAT BECAME SUPERNOVA
+BY: DAVID L. CHANDLER
+
+[Small spiral galaxy illustration]
+
+Backpedaling from earlier statements, astronomers are now saying
+that the star that blew up 10 weeks ago in Southern
+Hemisphere skies to become supernova 1987a was not
+identified in earlier photographs. It marks the first time
+scientists have a visual record of a star that would later
+explode, providing a real bonanza for astronomy.
+
+The exploding star in the Large Magellanic Cloud, nearly a million trillion
+miles away, was Sanduleak-62 202, a blue supergiant star that some astronomers
+said was involved soon after the blast was seen Feb. 23. The star was then
+ruled out, but now, with some embarrassment, the scientists who earlier
+dismissed it have confirmed it is the "progenitor" of the supernova after all.
+
+But the type of star the astronomers found and its strange recent behavior
+still bewilders theoreticians.
+
+Astronomers are delighted to have an identification of the star because careful
+analysis of photographs taken before the explosion should provide a wealth of
+information on how and why such explosions occur -- until now, a matter of pure
+theory. But scientists are perplexed because the star is the "wrong" type,
+according to present theories.
+
+Meanwhile, the supernova is not behaving according to textbook expectations.
+Instead of fading slowly away after a sudden brightening, it has been slowly
+but steadily increasing in brightness since its initial outburst.
+
+Overall, the supernova is now at least 2½ times as bright as it was 8 weeks ago
+-- about magnitude 3.5, as measured by the International Ultraviolet Explorer
+satellite. "We've been on pins and needles waiting to see how bright this
+thing is going to get," said astronomer George Sonneborn.
+
+Sonneborn and Robert Kirshner of the Harvard-Smithsonian Center for
+Astrophysics reported in mid-March that Sanduleak-62 202, according to
+measurements by the IUE satellite, was still there. It thus could not have
+been the one that exploded.
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAt9RkfFvynrDA5skq'}]
+But new, more precise measurements have shown that the light they were seeing
+was not from Sanduleak-62 202 but from a very close companion whose light had
+similar color characteristics.
+
+COMET COMMENTS
+BY: DON MACHOLZ
+
+[THIS IS FIGURE: A circular crosshair/target-like diagram]
+
+Comet Wilson, up from the south, enters our evening sky as
+the moon clears out this month. Halley's Comet continues to
+fade, amateurs have perhaps two more months to see it.
+Meanwhile, the morning sky displays two comets that should
+be visible in even the smallest telescopes. Finally, one
+returning comet has been recovered and a new faint one
+discovered.
+
+Periodic comet Klemola (1981): J. Gibson used the 1.5-m reflector at Mt.
+Palomar to recover this comet on Feb. 16. He confirmed the recovery with
+another exposure a month later. Then at magnitude 19, the comet is not
+expected to get much brighter. Its orbital period is 11 years and it never
+gets within the orbit of Mars.
+
+Comet Torres (1987j): Carlos Torres discovered this 16-magnitude comet on
+plates takes from Chile on Mar. 28. It was then in the southern constellation
+Centaurus, and at perihelion at a distant 3.6 AU. It will be getting fainter
+now.
+
+EPHEMERIDES
+
+DATE    R.A. (1950) DEC    ELONG    MAG.         NOTES
+
+Comet Sorrells (1986n)
+
+04-25  23h 25.1m  +11°29'   39°    10.1  Now about two astronomical units
+04-30  23h 22.4m  +11°40'   45°    10.1  from both the earth and the sun, this
+05-05  23h 19.1m  +11°50'   50°    10.1  comet is still moving at 18 miles
+05-10  23h 15.2m  +12°00'   55°    10.1  per second. Its distance from us
+05-15  23h 10.5m  +12°08'   61°    10.1  will actually decrease between now
+05-20  23h 04.8m  +12°15'   67°    10.0  and mid-July, yielding a constant
+05-25  22h 57.9m  +12°18'   73°    10.0  brightness until then. Apparent
+05-30  22h 49.5m  +12°18'   79°    10.0  motion is a slow 0.4 degree/day
+06-04  22h 40.1m  +12°13'   84°    10.0  through Pegasus in the morning sky.
+
+Comet Nishikawa-Takamizawa-Tago (1987c)
+
+04-25  22h 28.3m  -17°24'   62°    9.0  This comet, in a retrograde orbit, is
+04-30  22h 17.0m  -20°00'   70°    9.0  closest the earth in late May at 52
+05-05  22h 01.3m  -23°17'   79°    8.9  million miles. This accounts for its
+05-10  21h 38.8m  -27°29'   90°    8.8  rapid apparent motion. In early May
+05-15  21h 04.8m  -32°45'  104°    8.7  it rises just before dawn, by late in
+05-20  20h 11.8m  -38°42'  120°    8.6  the month it rises before midnight.
+05-25  18h 53.2m  -43°33'  136°    8.6  Comet 1987c may be brighter than the
+05-30  17h 18.2m  -44°19'  155°    8.8  estimates here. Try to get out and
+06-04  15h 55.8m  -40°40'  159°    9.2  observe this quickly-moving comet.
+
+Comet Wilson (1986L)
+
+05-10  07h 40.0m  -50°40'   91°    4.6  Comet Wilson moves northward into our
+05-15  08h 02.8m  -38°58'   87°    5.0  southern evening sky, at perhaps
+05-20  08h 16.2m  -30°10'   82°    5.4  naked-eye brightness. The Milky Way
+05-25  08h 25.4m  -23°38'   73°    6.2  background should provide some fine
+06-04  08h 38.3m  -15°00'   69°    6.6  photos, but will lower the contrast.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAtfBo7XQ8rp43ZGfS'}]
+DATE    R.A. (1950) DEC    ELONG    MAG.        NOTES
+
+                    Periodic Comet Halley (1982i)
+
+04-25  09h 49.2m  -07° 15'   117°   13.2  The most well-known comet of all is
+04-30  09h 48.2m  -06° 47'   112°   13.3  now a tiny smudge in even the largest
+05-05  09h 47.0m  -06° 22'   107°   13.4  telescopes.  Its motion appears to
+05-10  09h 46.1m  -05° 59'   102°   13.5  cease as the comet and earth move in
+05-15  09h 45.5m  -05° 39'    97°   13.5  nearly opposite directions.  Halley's
+05-20  09h 45.3m  -05° 20'    92°   13.6  is highest in the southern sky at
+05-25  09h 45.3m  -05° 04'    88°   13.7  evening astronomical twilight.  For
+05-30  09h 45.6m  -04° 50'    83°   13.8  2000 coords, add 2.5 min. to RA and
+06-04  09h 46.1m  -04° 37'    79°   13.8  subtract 15' from Dec.
+
+                        SEEKING COMETS
+
+    Comets are designated with proper names, usually this is the name of the
+discoverer. This month I'll cover the normal situation, next month we'll look
+at the exceptions.
+
+As an example, if Joe Smith visually discovers a new comet, upon confirmation
+it is known as Comet Smith. Smith has no say in what he wants to name it, his
+name has to be used.  This prevents the "selling" of comet names by the
+discoverers. If Fred Jones also discovers and promptly reports the same comet,
+then   it is known as Comet Smith-Jones.  This is true only if Jones
+independently finds the comet. If Smith tells Jones where to look and Jones
+observes it, then this is not really a discovery. Up to three names can be on
+a comet, and each is separated by a hyphen (-).
+
+How close in time must the discoveries be in order for multiple names to appear
+on the comet?  For most comets the name is established at the time of
+confirmation, and for visual discoveries this is within a day of discovery.
+Until a few decades ago, slow communications, allowed a new comet to remain
+unconfirmed and "co-discoverable" for several days or even weeks.
+
+Of the 38 comets found visually since Jan. 1975, 29 have one name attached,
+three have two names, and six have three names. The number of independent
+discoveries of each comet provides one indication of the world-wide comet
+hunting activity.  Most of the multiple-name comets are found in the morning
+sky and are brighter than the average comet.  Four of the six triple-name
+comets consist of three Japanese names.
+
+When a comet is discovered by photographic means, the name is often that of the
+person who finds it on the photo. Usually, but not always, this is the person
+who took the photo. Sometimes both names are affixed to the comet.
+
+When a periodic comet, whose orbit is well-known, is recovered, the recoverer's
+name is not attached to the comet. On the other hand, if a previously lost
+periodic comet is accidentally "discovered" by someone who was unaware of its
+existence, their name is added to that of the old name, separated by a hyphen.
+In 1987, for example, Fujikawa of Japan discovered a comet.  It was known as
+Comet Fujikawa until the newly-computed orbit showed that it was Comet Denning,
+originally found in 1881 and lost for 11 revolutions.  It is now Comet
+Denning-Fujikawa.
+
+[THIS IS FIGURE: Simple line drawing of a space shuttle]
+
+                    SPACE PROGRAM UPDATE
+                    BY: BOB FINGERHUT
+
+                NASA AND THE WHITE HOUSE AGREE ON
+                A CUT BACK SPACE STATION PROGRAM
+
+    The construction of the space station was broken into two
+phases with the second phase put off to some unspecified
+date. Construction of the first phase would be put off one
+year to a start in 1994.  It would be permanently manned
+starting in 1996.  The first phase station would be made up of
+    the main truss (one horizontal beam), a U.S. laboratory, a
+    living quarters module, an unmanned polar orbiting research
+platform, two laboratory modules being built by Europe and Japan and part of
+Canada's mobile servicing center.
+
+Elements deferred to the second phase are the two keels, the upper and lower
+booms to which science experiments would be mounted for observing earth and
 
 === PAGE 7 ===
-[Error extracting page 7: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAuCBiUEP3XH3oGCtt'}]
+deep space, the satellite servicing center, half of the power system and a
+research laboratory that would fly alongside the station and be serviced by
+space-walking astronauts.
+
+NASA SHOWED OUT OF THE LAUNCH BUSINESS
+
+In separate actions the Secretary of Transportation has requested that the
+Office of Management and Budget (OMB) direct NASA to purchase commercial
+expendable boosters (ELV's) for all payloads not unique to the shuttle and the
+Commerce Department has notified NASA that they will no longer contract through
+NASA for ELV launches but will go directly to the private sector. The Air
+Force has also decided to cut NASA out of the development of the Heavy-Lift
+Launch Vehicle (HLLV). NASA would like to use shuttle technology for the HLLV.
+
+SOVIET SHUTTLE PROGRAM IS MAKING BROAD PROGRESS
+
+The Soviet Union has conducted a flight readiness firing of its Saturn-5 class
+heavy lift booster on the pad at Tyuratam. The booster can be used to launch
+the large Soviet shuttle or up to 220,000 lb into orbit in an unmanned
+configuration. The first unmanned flight of the HLV is expected by mid-summer
+and the first flight with the manned shuttle attached could occur by late 1987
+or early 1988.
+
+The Soviet's small manned spaceplane vehicle is also expected to begin
+full-scale manned flight testing soon. The Soviets have made four successful
+orbital flights with a 1/4 scale model of the vehicle and the SL-16 booster
+that will launch the spaceplane has made several successful launches recently.
+
+GENERAL MEETINGS AND INDOOR STAR PARTIES
+
+Once a month the SJAA holds a General Meeting at the Los Gatos Red Cross
+building in Los Gatos California. The large meeting room has kitchen
+facilities and a large slide projection screen. This is also the location for
+the SJAA's "Indoor Star Parties", informal sessions where members gather to
+share their astronomical interests. Whatever your interest, astrophotography,
+deep sky observation, telescope making, or just are chair observing, you'll
+find a friendly atmosphere at all of our meetings. The Red Cross building is
+located at 18011 Los Gatos-Saratoga Rd. From Hwy 17 take the Hwy 9 (Saratoga)
+exit and continue west up the Los Gatos-Saratoga road for about 0.5 miles.
+Turn right at Rose Ave. Then turn right immediately into the parking lot of
+the Red Cross building. Doors open at 7:45 PM, with General meetings beginning
+at 8 PM. General Meetings are held on the 1st Saturday of each month.
+
+Each month there are several Saturday evenings set aside for informal
+gatherings of amateur astronomers to share their common interest in astronomy,
+to "talk shop", or to simply enjoy the company of friends. Members are
+encouraged to bring in telescopes and accessories to share with the group.
+Typically there will be several telescopes operating in the parking lot or
+there will be a slide show of recent astrophotography and star party events in
+progress in the meeting hall. The SJAA also holds it board meetings during
+this time as well as an introductory astronomy workshop that is conducted once
+a month. Indoor Star Parties are held at the Los Gatos Red Cross Building.
+
+********************************************************************************
+* EPHEMERIS is published monthly by the San Jose Astronomical *
+* Association, 3509 Calico Ave, San Jose California 95124. *
+* Contributors are welcome to submit articles for publication. These *
+* should be typed and submitted no later than the 16th of the previous *
+* month. All submissions should be sent directly to the editor, John *
+* Gleason, 5361 Fort Sailwood Dr. Newark, CA. 94560. *
+* *
+* OFFICERS *
+* PRESIDENT: Bob Fingerhut.......................................408-263-4455 *
+* VICE-PRES: Tom Ahl.............................................408-268-3927 *
+* SECRETARY: Jim Van Nuland......................................408-371-1307 *
+* TREASURER: Jack Peterson.......................................408-262-1457 *
+* EDITOR: John P. Gleason.......................................415-790-9250 *
+* *
+* BOARD OF DIRECTORS *
+* *
+* Paul Mancuso...................................................408-946-0738 *
+* Jack Peterson..................................................408-262-1457 *
+* Bob Fingerhut..................................................408-263-4455 *
+* Tom Ahl........................................................408-268-3927 *
+* Gene Cisneros..................................................408-923-6800 *
+* Joe Sunseri....................................................408-224-8693 *
+* Steve Greenberg................................................209-239-2154 *
+* Duncan Munroe..................................................408-448-5361 *
+********************************************************************************
 
 === PAGE 8 ===
-[Error extracting page 8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzAAugCuSbsiktxjqtGr'}]
+SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+MEMBERSHIP ONLY: $ 10    MEMBERSHIP/S&T: $ 24.00    JUNIOR (UNDER 18): $ 17.00
+
+Name ________________________________    Questionnaire (optional)
+
+Address ______________________________    What are your astronomical interests (e.g. astro-
+                                        photography, deep-sky observation, telescope making,
+______________________________________    etc.)? _________________________________________
+
+Telephone (_____)_____________________    _______________________________________________
+
+Please bring this form to any SJAA meeting, or send to:    _______________________________________________
+
+Jack Peterson, Treas.                    Do you own a telescope? ________ If so, what kind?
+San Jose Astronomical Association
+1840 Yosemite Dr.                        _______________________________________________
+Milpitas, CA. 95035
+
+[ Phone: (408) 262-1457 ]                Is there any specific area of astronomy that you feel
+                                        qualified to help others with? ___________________
+Please check type of membership and if new
+or renewal.                              _______________________________________________
+
+Membership Only____ Membership/S&T____    _______________________________________________
+
+Junior (Under 18)____
+
+New____ Renewal____
+
+
+
+
+SJAA EPHEMERIS                          NON-PROFIT ORGANIZATION
+3509 CALICO AVE.
+SAN JOSE, CA. 95124                     U.S. POSTAGE PAID
+
+                                        PERMIT NO.5381
+
+                                        SAN JOSE, CA. 95125
+
+
+
+
+TIME VALUE - DATED
+
+NEWS MATERIAL

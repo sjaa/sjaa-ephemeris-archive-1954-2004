@@ -1,0 +1,107 @@
+{
+  "articles": [
+    {
+      "id": "sjaa1965-minutes-of-the-san-jose-amateur-astronomers-club-meeting",
+      "documentId": "sjaa1965",
+      "title": "Minutes of the San Jose Amateur Astronomers Club Meeting",
+      "summary": "The San Jose Amateur Astronomers Club (SJAA) meeting minutes document the club's activities, discussions, and decisions from October to December 1965. The club plans star parties, discusses telescope construction, and explores ways to increase its treasury.",
+      "categories": [
+        "events",
+        "meeting minutes",
+        "astronomy",
+        "star party",
+        "telescope"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers Club",
+        "SJAA",
+        "star party",
+        "telescope",
+        "astronomy club"
+      ],
+      "pageStart": 7,
+      "pageEnd": 16
+    },
+    {
+      "id": "sjaa1965-club-planning-meeting-minutes",
+      "documentId": "sjaa1965",
+      "title": "Club Planning Meeting Minutes",
+      "summary": "The article is a collection of meeting minutes from the San Jose Astronomical Association (SJAA) club planning meetings in 1965. The meetings cover various topics such as lecture arrangements, telescope projects, star parties, and financial discussions.",
+      "categories": [
+        "club meetings",
+        "astronomy events",
+        "financial reports"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Morrison Lecture",
+        "Cepheid variables",
+        "star party",
+        "telescope loan",
+        "NASA comet probe",
+        "finance",
+        "membership"
+      ],
+      "pageStart": 7,
+      "pageEnd": 16
+    },
+    {
+      "id": "sjaa1965-san-jose-amateur-astronomers-club-planning-meeting-minutes",
+      "documentId": "sjaa1965",
+      "title": "San Jose Amateur Astronomers Club Planning Meeting Minutes",
+      "summary": "The San Jose Amateur Astronomers Club (SJAA) planning meeting minutes from December 1965 and January 1966 discuss upcoming events, financial matters, and club activities. The meetings cover topics such as occultations, comet probes, radio astronomy, and increasing the club's treasury.",
+      "categories": [
+        "events",
+        "news",
+        "technical",
+        "financial"
+      ],
+      "keywords": [
+        "SJAA",
+        "occultation",
+        "comet probe",
+        "radio astronomy",
+        "treasury",
+        "club activities",
+        "meeting minutes"
+      ],
+      "pageStart": 7,
+      "pageEnd": 16
+    },
+    {
+      "id": "sjaa1965-morrison-lecture-by-dr-leonard-kuhi",
+      "documentId": "sjaa1965",
+      "title": "Morrison Lecture by Dr. Leonard Kuhi",
+      "summary": "The article discusses the planning and execution of Morrison Lectures by Dr. Leonard Kuhi for the San Jose Amateur Astronomers (SJAA) club, including the topics to be covered and logistics such as travel expenses and audience reception.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news",
+        "technical",
+        "club planning"
+      ],
+      "keywords": [
+        "Morrison Lecture",
+        "Dr. Leonard Kuhi",
+        "San Jose Amateur Astronomers (SJAA)",
+        "variable stars",
+        "Cepheid variables",
+        "star party",
+        "occultation",
+        "NASA comet probe",
+        "financial planning"
+      ],
+      "pageStart": 7,
+      "pageEnd": 16
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa1965",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA1965.pdf",
+      "txtPath": "SJAA1965.txt"
+    }
+  ]
+}

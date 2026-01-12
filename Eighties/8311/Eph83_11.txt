@@ -3,7 +3,7 @@ NOVEMBER '83
 
 EPHEMERIS
 
-[The image shows a title page with "EPHEMERIS" as the main heading, dated "NOVEMBER '83" in the top left corner, and what appears to be "SJAA" in the top right corner. The main image appears to be an astronomical photograph, possibly of a nebula or galaxy, shown in black and white with a cloudy, irregular structure against a dark background with visible stars.]
+[The image shows a title page with "EPHEMERIS" in large text and what appears to be a nebula or cosmic formation photograph below it. There is "SIAA" text in the top right corner with a decorative star/compass-like symbol.]
 
 === PAGE 2 ===
 # Observations
@@ -51,7 +51,7 @@ Denni
 
 ADS
 
-For sale: Basic Celestron C-5 package, special coatings, wedge, 11" occulars,
+For sale: Basic Celestron C-5 package, special coatings, wedge, 14" occulars,
 tripod, T-adaptor, T-rings for Canon and Konica cameras, tele-extender, eye-
 piece filter set, lens hood and weights, Tele-Phase IV drive, all in mint
 condition. Value $1600, sale price $750.
@@ -68,7 +68,7 @@ Contact Ken Gardner at (408) 266-4616
 For sale: Tube for 6" mirror, 48" focal length - $12.00; Brandon 5 piece
 ocular set with wood case and 4 filters - $200.00; Meade variable barlow
 - $30.00; Eyepieces - 12mm Celestron Ortho - $18.00, 40mm Celestron Kelner
-- 12.00, 28mm Celestron Kelner - 12.00; Right angle finder for Celestron-
+- 12.00, 25mm Celestron Kelner - 12.00; Right angle finder for Celestron-
 $75.00; Tuthill pole finder - $35.00; C-8 latitude adjuster - $25.00; 32mm
 Konig eyepiece - $40.00; 6" f/1.8 reflector with 20mm Erfle - $55.00; 8X50
 University finder with Celestron bracket- $50.00; 2X elbow scope with illu-
@@ -84,20 +84,18 @@ unless the editor is notified otherwise. Please submit by sending to :
 Ephemeris, 15022 Broadway Terrace, Oakland, Ca. 94611, or calling Denni at
 (415) 654-6796 day/eve. Thanks.
 
-[THIS IS FIGURE: Simple line drawing of a flying saucer/UFO with Saturn-like rings]
-
-2
+[THIS IS FIGURE: Simple line drawing of a planet with rings (likely Saturn) with the number "2" below it]
 
 === PAGE 4 ===
 # COMET COMMENTS
 
-## BY DON MACHHOLZ
+BY DON MACHHOLZ
 
 In the past month six comets have been reported, three being new discoveries and three being recoveries of returning comets. Comet Cernis remains visible in the evening sky, although it is fading as it moves southward. And, in our Past Discoveries department, we look at three more comets discovered by amateurs during the past few years.
 
 Comets IRAS (1983o): The IRAS satellite discovered its fifth comet on July 28, but it wasn't until the object was again detected by IRAS on Spetember 1 that its nature was confirmed. This 16th magnitude object will closest the Sun (2.2 AU) late this month but is not expected to get any brighter.
 
-Comet Shoemaker (1983n): This comet was discovered by Carolyn Shoemaker using the 18-inch Schmidt at Mt. Palomar on Sept. 7. But as with the last discovery, this one wasn't simple either. First, R. Dunbar discovered an asteroid on plates taken Sept. 12 with the 48" Schmidt. While looking for (and finding) pre-discovery images of this asteroid, Carolyn happened to find this comet on the same plate, taken in an area of the Great Square of Pegasus. The comet will be closest the Sun late this month (3.3 AU) and will remain fainter than magnitude 11.5.
+Comet Shoemaker (1983p): This comet was discovered by Carolyn Shoemaker using the 18-inch Schmidt at Mt. Palomar on Sept. 7. But as with the last discovery, this one wasn't simple either. First, R. Dunbar discovered an asteroid on plates taken Sept. 12 with the 48" Schmidt. While looking for (and finding) pre-discovery images of this asteroid, Carolyn happened to find this comet on the same plate, taken in an area of the Great Square of Pegasus. The comet will be closest the Sun late this month (3.3 AU) and will remain fainter than magnitude 11.5.
 
 Periodic Comet Arend (1983q): This periodic comet was recovered by J. Gibson with the 48" Schmidt at magnitude 20.5. This comet will not be very well seen since it will be opposite the Sun when it is closest the Sun next year.
 
@@ -107,7 +105,7 @@ Periodic Comet Wild (1983s): Recovered by Gibson Sept. 18, this 20th magnitude o
 
 Comet Kowal-Vávrová (1983t): On Sept. 23, it was announced that Charles Kowal had picked up a comet on a few plates taken between May 8 and 15 of this year. It was magnitude 16 and in Libra at the time, not far from Comet Kopff. Several days later it was noticed that this comet is the same object identified as asteroid 1983JG, on plates taken by Zdenka Vávrová on May 14. The orbit is presently uncertain.
 
-## PAST DISCOVERIES
+PAST DISCOVERIES
 
 Comet Bowell (1975n): This comet was discovered by William Bradfield of Australia on Wednesday morning, November 11, 1975. This was his fourth comet discovery; he has since found seven more. He found it 106 search hours since his previous discovery eight months before. The comet was magnitude 9.5 and 58° from the Sun at the time of discovery., two days after first quarter Moon. It was discovered at R.A.: 10hr 57m, Dec. -37° 41'.
 
@@ -115,7 +113,7 @@ One month before discovery the comet was at 9hrs 09m, -18°, some 61° from the 
 
 It seems that the comet's faintness while above the Northern observers' horizons and the lack of comet hunters to the South prevented the discovery
 
-**3**
+3
 
 === PAGE 5 ===
 of the object for the month prior to its actual discovery date. Bradfield
@@ -137,7 +135,7 @@ many comet hunters avoid. Thirdly, there were several other bright comets
 visible and vying for attention of comet hunters.
 
 Some 12 hours before Sato discovered this comet, I swept within 5 degrees
-of it. I stopped sweeping due to dawn of the optics as a fog bank was moving
+of it. I stopped sweeping due to dewlng of the optics as a fog bank was moving
 in as I swept from the small town of Clyde, California, six miles north of
 my (then) home in Concord. I stopped sweeping near the 12hr R.A. line, some
 some four sweeps from the then-undiscovered comet.
@@ -149,7 +147,7 @@ comet was magnitude 10.3. This was Meier's third comet discovery. He was
 using a 16", f/5 reflector.
 
 For nearly two months prior to discovery the comet was brighter than magnitude
-11.0. It was travelling through Cassiopia and Cepheus at that time, yet remained
+11.0. It was travelling through Cassiopla and Cepheus at that time, yet remained
 undiscovered. A good question is: Why?
 
 There may be several reasons for this. First, we are assuming the comet did
@@ -160,36 +158,39 @@ This background made it difficult to see. Finally, being more than 100° from
 the Sun, the comet was not in the usual comet hunting grounds during most of
 this time.
 
-_______________________________________________________________________________
+___________________________________________________________________________
 
 Comet Ephemeris
 
-Comet Cernis (1983L)
-Date(UT)      R.A.      Dec.      Est. Mag.      Comet Cernis is some 3½ AU
-10-23      00:45.5   -23°11'   10.4            from the Sun as it goes back
-11-02      00:26.8    25 58    10.6            into deep space. It may be
-11-12      00:10.6    27 58    10.7            about 1.0 magnitudes brighter
-11-22      23:57.7    29 19    10.9            than predicted here.
-12-02      23:47.9    30 09    11.1            Data from Cir. 3869
-12-12      23:41.2    30 39    11.3
+Comet Cernis (1903L)
+Date(UT)     R.A.       Dec.        Est. Mag.       Comet Cernis is some 3½ AU
+10-23       00:45.5    -23°11'     10.4            from the Sun as it goes back
+11-02       00:26.8     25 58      10.6            into deep space. It may be
+11-12       00:10.6     27 58      10.7            about 1.0 magnitudes brighter
+11-22       23:57.7     29 19      10.9            than predicted here.
+12-02       23:47.9     30 09      11.1            Data from Cir. 3869
+12-12       23:41.2     30 39      11.3
 
-                                              Don Machholz
-                                              (408) 448-7077
+                                                    Don Machholz
+                                                    (408) 448-7077
+
+
+                                                                              4
 
 === PAGE 6 ===
 COMPARISON TESTS of NEW POLAROID 35mm AUTOPROCESS FILM
                                                     by Jack Marling
 
 
-     Polaroid has introduced a new 35mm auto process slide film. Called Polaroid
-Polagraph 35mm film, it is developedinto a slide in only 1-2 minutes, using
+    Polaroid has introduced a new 35mm auto process slide film. Called Polaroid
+Polagraph 35mm film, it is developedrinto a slide in only 1-2 minutes, using
 a convenient Polaroid autoprocessor. The new Polaroid 35mm films come in 3
 types: ASA 40 color film, medium contrast ASA 125 B+W film, and high contrast
 ASA 400 B+W film. Since high speed and high contrast film is ideal for astro-
 nomical pgotography, I tested the speed of the Polaroid ASA 400 film in 20
 minute duration exposures. This is representative of a typical deep-sky
 astronomical exposure.
-     If it worked, the Polaroid film would be ideal for education and testing,
+    If it worked, the Polaroid film would be ideal for education and testing,
 since the finished slide would be rapidly available for evaluation and feed-
 back. Also, the ASA 400 B+W film comes in convenient 12 exposure rolls, just
 the right size. To test the Polaroid film, I exposed it successively through
@@ -201,19 +202,19 @@ reduced the light level to achieve 20 minute exposures, and the energy required
 to achieve identical densities served as the measure of relative film speed.
 
 Table 1 - Film Speed Comparison in 20 Minute Exposures
-                              Blue Speed    Green Speed    H-Alpha Red Speed
-ASA 400 Polaroid HC-1 5-12      0.07           0.2            0.06
-Kodak Technical Pan 2415        n.m            0.4            1
-Ektachrome 400*                 1              3              1.5
-Fujichrome 400*                 2              3              4
+                             Blue Speed    Green Speed    H-Alpha Red Speed
+ASA 400 Polaroid HC-1 5-12      0.07           0.2             0.06
+Kodak Technical Pan 2415        n.m            0.4             1
+Ektachrome 400*                 1              3               1.5
+Fujichrome 400*                 2              3               4
 
-          *Developed as a negative in Unicolor K-2 Kit
+        *Developed as a negative in Unicolor K-2 Kit
 
-     Table 1 shows that the new Polaroid is a dismal failure in long exposure,
+    Table 1 shows that the new Polaroid is a dismal failure in long exposure,
 and is NOT SUITABLE for Deep-sky astrophotography. It is ten times slower
 than other common films, and apparently suffers from reciprocity failure that
 is not overcome by hypersensitization in forming gas.
-     Incidentally, Table 1 shows why Ektachrome 400 gives green slides; namely
+    Incidentally, Table 1 shows why Ektachrome 400 gives green slides; namely
 it has a much higher green response compared to its blue and red response.
 2415 film is relatively insensitive to light pollution precisely because it
 has weak response in the green pollution band. Fujichrome 400 is the fastest
@@ -224,13 +225,13 @@ formance from Fujichrome 400. Deep-Sky photos taken with Fujichrome 400 show
 incredible detail in faint nebulosity due to its extremely high speed for
 red H-Alpha light. I can highly recommend Fujichrome 400 for all deep-sky
 photography.
-     The new Polaroid ASA 400 35mm B+W is not suitable for Deep-Sky photography
+    The new Polaroid ASA 400 35mm B+W is not suitable for Deep-Sky photography
 because of its severe reciprocity failure, but would be excellent for expo-
 sures of bright objects like the Moon and planets, and may be ideal as an
 educational tool.
 
 
-     For further information, please call me at (415) 447-9570 or write to me at
+    For further information, please call me at (415) 447-9570 or write to me at
 LUMICON at 2111 Research Dr., Suite 5,Livermore, CA. 94550.
 
 5
@@ -238,8 +239,6 @@ LUMICON at 2111 Research Dr., Suite 5,Livermore, CA. 94550.
 === PAGE 7 ===
 Commercial ads are priced according to size and may be placed by contacting:
 Gene Cisneros at (408) 923-6800.
-
-[IMAGE: Nebula NGC2728 in Auragus. The faint nebula appears to be a nova remnant. The bright star is J. Marilyn Wong, 5 NGC2722. The Ghost as Jeri J. Marilyn using a Lumicon. Jones 8½" f/6 Newtonian. Exposure was 30 minutes in Lumicon Oxygen III Filter. Mr. Bill Heigh used a CCD and LUMICON Narrowband G4S Filters.]
 
 LUMICON®
 "Innovation in Astronomy"
@@ -254,33 +253,35 @@ WORLD CENTER FOR
 2111 Research Dr #5E,
 Livermore CA 94550
 
+New Nebula NGC2238 in Monoceros. The Clar-
+ion/Chromacoulor Cassegrain is showing a 5
+1/2C. The photo is by Dr. J. Marilyn S
+Hanna 5 inch Apochromat with NGC2238 processed
+with Hypersensitized T-Max 400 Stock 15 minutes
+thru Triplet in LUMICON Oasis H-BETA
+filtered LUMICON Hi-Peak Visual and CCD Filters.
+
 ATA coatings
 
 15022 BROADWAY TERRACE, OAKLAND, CA 94611
 
 Specializing in Aluminum Coatings with silicon monoxide
 over-coating for telescope mirrors.
+4¼"           $8.00
+6"            $12.00
+8"            $16.00
+14¼"          $28.00
+16"           $50.00
 
-4¼"        $8.00
-6"          $12.00
-8"          $16.00
-14¼"      $28.00
-16"         $50.00
-
-10"         $20.00
-12½"       $24.00
+10"           $20.00
+12½"          $24.00
 
 Secondaries, when sent with primary mirror, free.
 To remove old coatings $3.00. Minimum charge $8.00.
 Include postage and insurance for return mail.
 Mirror will be shipped in container received.
 
-[IMAGE: Black advertisement box]
 BUSHNELL OPTICAL    UNIVERSITY OPTICS    EDMUND SCIENTIFIC
-
-CELESTRON
-ACCUTRACK
-LUMICON
 
 OPTRON SYSTEMS
 
@@ -292,10 +293,13 @@ Visit Our Showroom Soon!
 
 MEADE    KALT CORPORATION    STAR ATLASES    TELE-VUE OPTICS
 
-DYNAMAX
-ORION
-OBSESSO
-SWIFT INSTRUMENTS
+CELESTRON
+ACCUTRACK
+LUMICON
+DYNASATAO
+ODYSSEY
+SWIFT/BAUSCH
+CELESTRON
 
 === PAGE 8 ===
 # CALENDAR
@@ -362,7 +366,7 @@ Go two blocks and turn left into parking lot. Alumni Science Hall is the
 ground floor and is best gotten to by entering the first door on the right
 side of the building when walking in from the parking lot.
 
-[THIS IS FIGURE: A simple map showing the intersection of The Alameda, Washington, Franklin, and Hwy 17, with Alumni Science Hall and Alviso marked. Bascum is indicated to the right.]
+[THIS IS FIGURE: Simple map showing Alumni Science building location relative to The Alameda, with streets and parking marked]
 
 Indoor Star Parties:
 
@@ -371,12 +375,12 @@ From Hwy 17 south take the Hwy 9 (Saratoga) exit and continue up Los Gatos-
 Saratoga Rd. for about 1.5 miles. Turn right at Rose Ave., and turn right
 immediately into the parking lot of the Red Cross Building.
 
-[THIS IS FIGURE: A simple map showing the intersection of Los Gatos-Saratoga Rd with Hwy 17, showing the location of Red Cross and Los Gatos Ave]
+[THIS IS FIGURE: Simple map showing location of Red Cross building on Los Gatos-Saratoga Rd]
 
 Henry Coe State Park:
 
 Take Hwy 101 south towards Gilroy and take the East Dunne exit. Continue
-east towards the Hills (past Anderson Reservoir) for about twelve miles
+east towards the Hills (past Anderson Reservior) for about twelve miles
 to the park. Past the park entrance you will see old ranch buildings on
 the right and a horse trough on the left. The gate to the SJAA site is
 on a dirt road just before the trough. The gate is locked but the club
@@ -384,7 +388,7 @@ combination is 4565. Always lock the gate after yourself. If arriving
 after dark, please park outside gate and hike in first to find an obser-
 ving site before driving in. Parking lights only after dark, please.
 
-[THIS IS FIGURE: A map showing the route from Hwy 101 South through Gilroy to Henry Coe State Park, including Dunne Ave, East Dunne Gate, Bypass Section, Anderson Reservoir, Fremont Peak, and showing the route to Coulter Camp and Salinas]
+[THIS IS FIGURE: Map showing routes to Henry Coe State Park from Hwy 101 South and Gilroy area]
 
 Fremont Peak State Park:
 
@@ -408,33 +412,33 @@ STS-9/SPACELAB 1 to Conduct Research 24 Hours A Day
 
 The Spacelab crew will split into two 12 hour work shifts for nine working days of the 10 day flight. The mission commander will be John Young and the pilot Major Brewster E. Shaw. The mission specialists will be Owen K. Garriott and Robert Parker. The payload specialists will be Byron K. Lichtenberg and Ulf Merbold, a West German scientist.
 
-The Spacelab 1 will carry 38 experiments of which 25 are sponsored by the European Space Agency, ESA, and 13 by NASA. Experiments will be conducted into the fields of astronomy and solar physics, space plasma physics, atmo­spheric and Earth observations, life sciences, and materials science.
+The Spacelab 1 will carry 38 experiments of which 25 are sponsored by the European Space Agency, ESA, and 13 by NASA. Experiments will be conducted into the fields of astronomy and solar physics, space plasma physics, atmospheric and Earth observations, life sciences, and materials science.
 
 Seventh Ariane Launch Successful
 
-The ESA Ariane Rocket successfully put an Intelsat telecommunications satel­lite into orbit October 18.
+The ESA Ariane Rocket successfully put an Intelsat telecommunications satellite into orbit October 18.
 
 Soviet Spacecraft in Orbit Around Venus
 
-Two Soviet spacecraft have gone into orbit around Venus, Venera 15 on Oct­ober 10, and Venera 16 on October 14. They are in highly elliptical, 24 hour orbits. They are expected to image the surface with radar.
+Two Soviet spacecraft have gone into orbit around Venus, Venera 15 on October 10, and Venera 16 on October 14. They are in highly elliptical, 24 hour orbits. They are expected to image the surface with radar.
 
 Insat 1B Deployed
 
-The solar array in the Indian communications satellite, Insat-lB, was finally deployed September 10. The satellite has been positioned in geosynchronous orbit at 74° east longitude.
+The solar array in the Indian communications satellite, Insat-1B, was finally deployed September 10. The satellite has been positioned in geosynchronous orbit at 74° east longitude.
 
 TDRS-1 Moved to a Permanent Location
 
 The tracking and data relay satellite, TDRS-1, was moved to a 41° west longitude orbit between September 29 and October 17 from the position where it underwent testing. Included in previous tests was operation with the STS-8 shuttle mission in which the TDRS demonstrated the ability to lock on and track an orbiter automatically.
 
-Satcom 2R Operating in Geosynchronous Orbit
+Satcom 2R Operation in Geosynchronous Orbit
 
-The Satcom 2R, which was launched September 8, is now operation in geosynchrono­nous orbit at 72° west longitude.
+The Satcom 2R, which was launched September 8, is now operation in geosynchronous orbit at 72° west longitude.
 
 Soviet Booster Explodes on Pad
 
 A Soviet SL-4 booster exploded on the pad at Tyuratam on September 27,seconds after its two-man Soyuz spacecraft was pulled off the booster by the launch escape system. The cosmonauts were not injured seriously.
 
-The launch accident followed a serious proppelant leak September 9 on the Salyut 7 space station. The space station failure occured when a main oxi­dizer line ruptured, spilling the propellant in two of three nitric oxide tanks into space. The accident forced the station's two cosmonauts to put
+The launch accident followed a serious proppelant leak September 9 on the Salyut 7 space station. The space station failure occured when a main oxidizer line ruptured, spilling the propellant in two of three nitric oxide tanks into space. The accident forced the station's two cosmonauts to put
 
 10
 
@@ -468,25 +472,21 @@ Plans to Store Columbia Reversed
 The NASA head, James M. Beggs, has reversed a previous decision that would have
 put the orbiter Columbia in storage for two years and made it available for
 spare parts cannibalization after the Spacelab 1 flight. Beggs characterized
-the previous decisionsas bad political and engineering policy.
+the previous decisionas bad political and engineering policy.
 
 _____________________________________________________________________________
 
 
-THE 1983 AMERICAN WORKSHOP on COMETARY ASTRONOMY
-                                                by Don Machholz
+THE 1983 AMERICAN WORKSHOP on COMETARY ASTRONOMY by Don Machholz
 
-This workshop was held Saturday, October 1, at the Jet Propulsion Labora-
-tory in Pasadena, California. Although registration was to be limited to
+This workshop was held Saturday, October 1, at the Jet Propulsion Laboratory in Pasadena, California. Although registration was to be limited to
 100, some 130 comet enthusiasts attended. There were tours and talks, with
 an emphasis on Halley's Comet.
 
-Some of the JPL staff, such as Ray Newburn, Zdenek Sekenina, and Paul Weiss-
-mann talked about cometary photometry, comet nuclei, and spacecraft missions
+Some of the JPL staff, such as Ray Newburn, Zdenek Sekenina, and Paul Weissmann talked about cometary photometry, comet nuclei, and spacecraft missions
 to comets. The amateur astronomers took most of the afternoon session. Comet
 photography was displayed by John Sanford, and then Dan Tidwell introduced
-a super-fast Polaroid 35mm film. Jack Marling discussed a filter which en-
-hances most comets; it is now available from Lumicon. The final two hours
+a super-fast Polaroid 35mm film. Jack Marling discussed a filter which enhances most comets; it is now available from Lumicon. The final two hours
 were devoted to a talk by John Bortle and Charles Morris on techniques for
 visual comet observing. Efforts are being made to standardize observations
 of comets so that the data will be of better use to the professional astronomers.
@@ -499,17 +499,14 @@ true, the comet could be an easy naked-eye object from dark skies in 1986 ----
 if dark skies can be found in 1986.
 
 Finally, an observing session was planned, but cloudy weather limited it to
-an indoor evening session followed by observation of and through the two in-
-struments set up outside the auditorium.
+an indoor evening session followed by observation of and through the two instruments set up outside the auditorium.
 
 _____________________________________________________________________________
 
 11
 
 === PAGE 12 ===
-# SJAA COMPUTER
-
-by Bruce DeGraaf
+# SJAA COMPUTER by Bruce DeGraaf
 
 Having weasled two grants from the San Jose Astronomical Association (SJAA) board, I felt that at the least it would be courteous to explain just what I have done and what I plan to do with the SJAA's granted capital. Please note that I would appreciate any feedback regarding these efforts.
 
@@ -541,7 +538,7 @@ easier to use than diskettes or tapes. The SJAA computer is not
 planned to be a development machine; rather, it is to be a controller
 for some of our activities.
 
-12
+**12**
 
 === PAGE 13 ===
 Programs
@@ -573,8 +570,8 @@ be no flicker. The exposure times are pretty conservative, the design goal is
 from 1/20 second through eight seconds. This is beyond the range of the earlier
 package, which was known at least to be adequate.
 
-All information regarding the camera will be presented on the TV screen,
-also present will be the SIMA logo. As a result, the program should be suitable
+All information regarding the camera will be presented on the TV screen.
+Also present will be the SJNA logo. As a result, the program should be suitable
 for astrophotographic guiding purposes and for public presentations. It may
 be possible to add code to effect automatic guiding.
 
@@ -632,7 +629,7 @@ agree that the former is very useful and desirable, I suggest that the SJAA
 does not need thelatter. Maybe some grants from Atari (or perhaps Apple,
 Hewlett-Packard, or IBM) can be arranged for the "word-smithing" activities.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+_______________________________________________________________________________
 
 MEMBERSHIP
 
@@ -640,44 +637,47 @@ Please send renewal form, remittance, and if you want to renew
 S&T, their white notice card, to: Bob Fingerhut, Treasurer, SJAA,
 340 Rio Verde Pl. #4, Milpitas, Ca. 95035. (408) 263-4455. Thanks!
 
-┌─────────────────────────────────────────────────────────────────────┐
-│    SJAA MEMBERSHIP APPLICATION/RENEWAL                              │
-│                                                                     │
-│ NAME ______________________________________________________________ │
-│                                                                     │
-│ ADDRESS _________________________________ CITY ___________________│
-│                                                                     │
-│ PHONE __________________________________ STATE _________ ZIP ______│
-│                                                                     │
-│ AREA OF INTEREST ___________________________________________________│
-│                                                                     │
-│ MEMBERSHIP/S&T □ $21.00           JUNIOR (UNDER 12) □ $15.00      │
-│                                                                     │
-│ MEMBERSHIP ONLY  □ $8.00                                           │
-└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│      SJAA MEMBERSHIP APPLICATION/RENEWAL                                   │
+│                                                                             │
+│ NAME ________________________________________________________________       │
+│                                                                             │
+│ ADDRESS __________________________________ CITY ______________________      │
+│                                                                             │
+│ PHONE __________________________________ STATE _________ ZIP __________     │
+│                                                                             │
+│ AREA OF INTEREST _______________________________________________________    │
+│                                                                             │
+│ MEMBERSHIP/S&T □ $21.00              JUNIOR (UNDER 12) □ $15.00           │
+│                                                                             │
+│ MEMBERSHIP ONLY    □ $8.00                                                 │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│ EPHEMERIS is published monthly by the San Jose Astronomical Association,│
-│ 3509 Calico Ave., San Jose, Ca. 95124                              │
-│                                                                     │
-│ Officers:                                                           │
-│ President    Dave Ambrose   816 Everett St., El Cerrito, Ca. 94530│
-│              (415) 524-0869                                         │
-│ Vice-Pres    Denni Frerichs 15022 Broadway Terrace, Oakland, Ca. 94611│
-│              (415) 654-6796                                         │
-│ Sec.         James van Nuland  3509 Calico Ave., San Jose, Ca. 95124│
-│              (408) 371-1507                                         │
-│ Treas.       Robert Fingerhut  340 Rio Verde Pl., #4, Milpitas, Ca. 95035│
-│ Board of Directors:                                                 │
-│ Paul Mancuso     (408) 946-0738        Steve Greenberg    (415) 443-6638│
-│ Tom Ahl          (408) 997-1383        Gene Cisneros      (408) 923-6800│
-│ Wayne Rosing     (408) 354-1549        Chris Pratt        (415) 629-2994│
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│ EPHEMERIS is published monthly by the San Jose Astronomical Association,   │
+│ 3509 Calico Ave., San Jose, Ca. 95124                                      │
+│                                                                             │
+│ Officers:                                                                   │
+│ President     Dave Ambrose   816 Everett St., El Cerrito, Ca. 94530       │
+│               (415) 524-0869                                                │
+│ Vice-Pres     Denni Frerichs 15022 Broadway Terrace, Oakland, Ca. 94611   │
+│               (415) 654-6796                                                │
+│ Sec.          James van Nuland  3509 Calico Ave., San Jose, Ca. 95124     │
+│               (408) 371-1507                                                │
+│ Treas.        Robert Fingerhut  340 Rio Verde Pl., #4, Milpitas, Ca. 95035│
+│ Board of Directors:                                                         │
+│ Paul Mancuso      (408) 946-0738         Steve Greenberg      (415) 443-6638│
+│ Tom Ahl           (408) 997-1383         Gene Cisneros        (408) 923-6800│
+│ Wayne Rosing      (408) 354-1549         Chris Pratt          (415) 629-2994│
 │ Bulletin Editor: Denni Frerichs, 15022 Broadway Terrace, Oakland, Ca. 94611│
-└─────────────────────────────────────────────────────────────────────┘
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 === PAGE 15 ===
-SIAA - PREMIERE
+SIAA - PREMIER
 3509 CALICO AVE.
 SAN JOSE, CA 95124
 
@@ -687,5 +687,5 @@ NEWS MATERIAL
 
 BULK RATE
 U.S. POSTAGE PAID
-PERMIT NO.5831
+PERMIT NO.5931
 SAN JOSE, CA 95125

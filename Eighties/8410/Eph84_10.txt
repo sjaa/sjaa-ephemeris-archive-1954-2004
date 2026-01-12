@@ -1,17 +1,668 @@
 === PAGE 1 ===
-[Error extracting page 1: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5JQ2Jfw3ULD7ohQSY'}]
+# SAN JOSE
+# ASTRONOMICAL ASSOCIATION ═══════ SJAA ═══════
+# EPHEMERIS
+
+═══════════════════════════════════════════════════════════════════════════════
+OCTOBER 1984
+═══════════════════════════════════════════════════════════════════════════════
+
+## FROM THE EDITORS DESK
+
+In order to continuously improve our monthly Ephemeris. I am currently looking for a wider range of subjects. I would like to have a wider range of subjects covered from month to month in order to be of more value to our membership and to potential members.
+
+I would reviews, book reviews, star party coverag, local astronomical events, upcoming eclipses, meteor showers, occultations, observing suggestions, astrophotography methods and techniques. Making articles would be nice too!
+
+Articles do not have to be long. In fact short, concisely written articles are just what I am looking for.
+
+Please submit all materials to the editor by the 15th day of each month. If there is not room for your article then it will appear in the following month. I will give first priority placement for time value material. If enough people contribute, I will probably expand the current Ephemeris to 8 pages.
+
+Renewals or group rates for Astronomy and Sky and Telescope end Dec. 85. If you are currently getting one of these periodicals as part of your SJAA membership, look for your subscription renewals to Jim Van Nuland. For more information please call Jim at (408) 371-1307.
+
+## KAUFMANN LECTURES ON ASTRONOMY BY: BILL DELLINGER
+
+For the past few years Dr. William Kaufmann has offered stargazing seminars at Lake Tahoe, Sierra Nevada College using their CELESTRON - 22.
+
+Now Dr. Kaufmann will offer a similar experience this Fall at the Monterey Institute for Research in Astronomy (M.I.R.A.), using their 36 refactor. The observatory site is in the rolling Santa Lucia mountain 13-foot foothills. Staff there state the telescope mirror is better than 1/38 wave and that observational conditions are superior to that of Cerro Tololo, Chile. The class size shall be limited to ten persons for each of the six (6) one or night sessions, the cost is $200.00 per person.
+
+Dates are:
+SESSION IV OCT. 18 (THURSDAY NIGHT)
+SESSION V OCT. 21 (SUNDAY NIGHT)
+SESSION VI OCT. 23 (FRIDAY NIGHT)
+
+For enrollment information, write:
+Dr. William Kaufmann
+385 Paraiso Drive
+Danville, Calif 94526
+
+Or call (415) 836-9286
+
+(Ed. note)
+A guy could have a pretty good weekend in Vegas for $200.
+
+## DEEP SKY NOTES BY: STEVE GOTTLIEB
+
+A few years ago at Fremont Peak with my C8, I examined a pair of mag. 12 galaxies in Perseus south of NGC 1264. In George Scott Houston's Deep Sky Wonders column, he mentioned that over a dozen NGC stars and galaxies were nearby and sure enough I spotted a faint system 10' north of the brighter pair. Unfortunately, my reference sources, including Burnham's, Celestial Handbook, did not include NGC 1260. My star atlas indicated a cluster. So the following weekend I went to the U.C. Berkeley Astronomy library and found a wealth of galaxy catalogues to aid me in identification.
+
+The first important modern catalogue was by Harlow Shapely entitled Ames Catalog of Southern Galaxies brighter than the 13th Magnitude (1932). This list of 1249 galaxies gives photographic magnitude, diameter and Hubble type and forms the basis for the galaxy listings in Burnham's 3 volume work. An update of this list titled: A Revised Shapely-Ames Catalogue of Bright Galaxies (1981), by Allan Sandage and Bruno Tammann gives recent photometric data as well as many photographs of the various Hubble types.
+
+A more extensive work is the Reference Catalogue of Bright Galaxies (1964), by Gerard and Antoinette de Vaucouleurs. This catalogue provides data on over 2,500 galaxies including many of which do not appear in either the NGC or IC. This catalog was also updated in 1976 as the Second Reference Catalogue of Bright Galaxies and contains detailed information including surface brightness, color indices, various classification types etc.
+
+A reference I find very useful is the Uppsala General Catalogue of Galaxies (1973) by Peter Nilson which contains information on 12,921 galaxies larger than 1' in diameter. The list includes cross referencing to the NGC, IC and MCG numbers, position angle, type, magnitude and extensive descriptive information.
+
+Finally, a more complete work is the volumes Galaxies and Clusters of Galaxies (1961-1968) by Fritz Zwicky and co-workers of Cal Tech. Pasadena. This lists positions and magnitudes for 31,350 galaxies down to photographic magnitude 15.7 and also 9,700 clusters of galaxies. I find it very helpful to use the MCG numbers which accompany the brighter stars are accurately plotted on finder charts each covering one of 559 fields from the Palomar Sky Survey.
+
+Incidentally, I identified my find in the C8 as NGC 7623 with a Mpg. 13.9. Size 1'6" x 1'0", position angle 175 deg., Hubble type SO and is clearly a member of the NGC 1260 galaxy cluster, more technically the Zwicky Cluster 2320.0+0845. Since then I have observed 8 galaxies in the central 1 degree core down to Mc 15.0 with my 13.1", including NGC 7611,7612,7619,7623,7626,7631,7634 and IC 5309. The 1950 coordinates for NGC 7619 are 23 20.4 +0843. The region provides fertile hunting grounds for larger scopes.
+STEVE GOTTLIEB (415) 524-4678
 
 === PAGE 2 ===
-[Error extracting page 2: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5JzjrYVJdQUb8eVtR'}]
+EVENTS CALENDAR
+
+SEPTEMBER 29
+
+Fremont Peak star party.
+
+OCTOBER 6
+
+General Meeting at the University of Santa
+Clara. This months guest speaker is Norman
+Sperling who will tells us about and give us
+answers to the Four Great Questions of
+Astronomy". Meeting begins at 8 PM.
+
+OCTOBER 13
+
+Board meeting and indoor star party
+at the Los Gatos Red Cross building. Meeting
+begins at 8 PM.
+
+OCTOBER 20
+
+Grant Ranch Star Party. Dusk till dawn.
+Several members will also be testing
+observatory site seeing conditions.
+
+OCTOBER 27
+
+Fremont Peak Star Party Dusk till
+dawn. Members will also be looking at site
+locations for a permanent observatory.
+
+NOVEMBER 3
+
+Indoor Star Party at the Los Gatos Red Cross
+building. Begins at 8 PM.
+
+NOVEMBER 10
+
+General Meeting at the University of Santa
+Clara. Speaker to be announced. If the
+membership has a question or a topic you
+would like to give a talk on any subject
+matter pertaining to astronomy or space
+science, please contact Dave Ambrose at: 415-
+524-0869.
+
+ASTRO MART
+
+17.5" Coulter Mirror with 2 diagonals. new in
+box - $525
+
+C100 refractor on heavy duty aquatorial mount,
+quartz electric drive - $1-200
+
+8" F/6 Cassegrain, 1/15 wave, 22MM 1/10 wave
+12" Deltic" Novak components, low profile
+focuser. Planetary tube with one 2" eyepiece
+and nebulla filter, 60x15 finder, real beauty.
+-$550 or best offer.
+
+4.25" RFT - $75, with optical window, 2"
+focuser - $150
+
+6" F/5 Coulter mirror, reflector tube assembly
+- $150
+
+Celestron Lixan binoculars - $150
+CONTACT: Phyllis Rose, 620 North 10th Street,
+San Jose CA 95112, PH: (408) 293-6611
+
+Rotating rings for 12" dia. tube - $35.00
+Lumicon piggyback camera adapter also for
+12"dia. tube - $20
+
+Novak 2" dia. short focuser for Newtonian type
+telescopes - $35
+
+CONTACT: Jim Baumgardt at (415) 579-3621 days
+or (415) 347-2267 evenings and weekends.
+
+Black Super C8 with Starbright coatings, all
+standard accessories plus valuable speed
+declination motor, illuminated bubble level
+and setting circle LED, dew cap, T-ring and
+Accu-Trac single axis corrector. $1200.
+
+Santa Cruz, CA. 95062 (408) 462-0209
+
+FOUND: Binoculars left in Jim Van Nulands bus
+at the May 84 Grant Ranch Star Party. Call
+Jim at (408) 371-1307
+
+BOOK REVIEW
+BY: DON MACHHOLZ
+
+"THE LIGHT-HEARTED ASTRONOMER"
+AUTHOR: KEN FULTON
+PUBLISHED BY: ASTROMEDIA CORP, P.O. BOX 92788
+MILWAUKEE, WI. 53202
+PRICE: $6.95
+
+Ken Fulton has written an enjoyable,
+clever "beginner's guide" for the amateur
+astronomer. While reading the book recently I
+found myself amused by his humorous,
+colloquially-written insights.
+
+Fulton has been an amateur astronomer for
+a couple of decades and has gained
+considerable experience in observing the
+heavens (with the Moon his favorite), dealing
+with, mail-order firms, and teaching people
+about some of the pits in the jungle of
+amateur astronomy. His sense of humor adds
+gentleness to potentially touchy topics,
+while his experience allows him to cover a
+very wide variety of topics. This book
+contains no star maps, charts, drawings, or
+photographs, but Fulton's colorful writing
+holds the reader's attention and paves the
+path for anyone wishing to walk the ways of
+the starry skies. The steps may not be
+always easy, but the rewards are great for
+those who stay the course. The rewards of
+which he writes are not money or prestige, but
+the on-going pleasure and satisfaction of
+being a confident observer impressed by a
+beautiful universe.
+
+Some fifteen chapters fill 115 easy-
+reading pages. The book can be read in one
+sitting, although I'd suggest that one slows
+down and appreciate Fulton's style. The
+beginning astronomer will learn a lot, while
+would normally take years of mistakes to
+acquire. The experienced observer will be
+nodding in agreement and chuckling at Fulton's
+perceptions.
+
+I particularly found the chapter
+"Observing in the 'Wilds' to be entertaining
+and true-to-life. The unique section entitled
+"Living with a Non-Astronomer Spouse" provides
+some sensible, sensitive suggestions. On the
+other hand, in the chapter "The Ads", the
+author, without naming names, disputes the
+ludicrously exaggerated argument which occurred
+between two different telescope manufacturers in
+early 1982. I feel that author could have
+more skillfully disguised the incident since
+he presents it as a fictional example. My
+second complaint is that while females are
+strongly encouraged to take up astronomy, they
+seem cast them into a stereotyped mold.
+Some readers may even find Fulton's humor may
+find this degrading.
+
+This unique book "The Light-Hearted
+Astronomer" is published by Astro Media
+Corp. which also publishes Astronomy
+Magazine. Ken Fulton has written for that
+periodical. Some of those articles are
+included in this book.
+
+In my opinion it's a fun book to read,
+educational for the beginner and whimsical for
+the experienced amateur astronomer.
+Don Machholz (408) 448-7077
+
+COMET COMMENTS
+
+BY: DON MACHHOLZ
+
+Two returning comets have recently been
+recovered, while two brighter comets remain
+visible to northern-hemisphere observers. I've
+been about two magnitudes brighter than
+predicted, and it displayed two tails through
+early September. We'll look at the
+azumuth/altitude positions of comets at the
+moment of discovery and compare the discovery
+time to the local astronomical twilight time.
 
 === PAGE 3 ===
-[Error extracting page 3: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5KdSrBrxVe6fcHcvv'}]
+GENERAL MEETINGS:
+
+University of Santa Clara, Alumni Science
+Hall, room 102. Heading north on Hwy 17, exit
+at Bascom/Washington (no through proceed to
+Bascom/Washington or get off at the Alameda/
+Hwy 17 exit at the Alameda (north), proceed
+to Franklin, then turn left. Go two blocks
+and turn left into the parking lot. Alumni
+Science Hall is the 3 story building that
+borders the east end of the parking lot. Room
+102 is on the ground floor and is best gotten
+to by walking up the ramp on the southeast
+side of the building when walking in from the
+parking lot. MEETINGS BEGIN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to Alumni Science building from Hwy 17, with labeled roads including Alameda, Alviso, Franklin, Washington, and Bascom]
+
+INDOOR STAR PARTIES:
+
+Los Gatos Red Cross Building, 18011 Los
+GatosSaratoga Rd., Los Gatos. From Hwy 17
+south take the Hwy 9 (Saratoga) exit and
+continue up the hill on that road for about
+two miles. Turn right at Rose Avenue and turn
+right immediately into the parking lot of the
+Red Cross Building. OPEN AT 8 PM.
+
+[THIS IS FIGURE: Simple map showing directions to Red Cross building from Hwy 17 via Los Gatos-Saratoga Rd]
+
+GRANT RANCH COUNTY PARK:
+
+This site is a new one for the SJAA so come
+and try it out. Located on Mt. Hamilton
+Road, halfway between San Jose and Lick
+Observatory. To get to Mt. Hamilton Road,
+take Hwy 101 (either direction) to Alum Rock
+Rd. Go east up Alum Rock Road to Mt.
+Hamilton Road and follow it. Grant ranch is
+about 8 miles up. At about 1/2 hour after
+sunset the park front gate will be locked with
+the SJAA's combination lock. Use the sequence
+4565 to open, but be sure to lock the gate
+behind you, coming or going. There are two
+gates, the lock may be on the exit gate. If so
+enter the park from this gate.
+
+[THIS IS FIGURE: Simple map showing directions to Grant Ranch Park via Mt. Hamilton Rd and Quimby Rd from Hwy 680 and Hwy 101]
+
+HENRY COE STATE PARK:
+
+Take Hwy 101 south towards Gilroy and take the
+East Dunne exit. Continue east towards the
+hills (past Anderson Reservoir). For about 12
+miles to the park. Past the park entrance you
+will see old ranch buildings on the right and
+as you top the ridge the park headquarters. The
+club combination is 4565. Always lock the
+gate after yourself. If arriving after dark,
+please park outside the gate and hike in first
+to find an observing site before driving in.
+Parking lights only after dark, please.
+
+[THIS IS FIGURE: Simple map showing route to Henry Coe State Park via Hwy 101 South, with bypass section and road to Gilroy]
+
+FREMONT PEAK STATE PARK:
+
+Take Hwy 101 south towards Salinas. Take Hwy
+156 east (San Juan Bautista) for two miles to
+a yellow flashing light. Turn right and go
+about 25 miles to where road curves slightly
+to the left and splits. Stay left for about
+200 ft. and turn right at San Juan Canyon Rd.
+again. Follow road for about 11 miles up into
+the park. SJAA sets up at Coulter Camp
+overflow area. It's visible as you drive up
+into main area of camp. Parking lights only
+after dark, please.
+
+[THIS IS FIGURE: Simple map showing route to Fremont Peak via Hwy 156 E and San Juan Bautista, with Yellow Light marked]
+
+EPHEMERIS is published monthly by the San Jose
+Astronomical Association, 3905 Calico Ave.,
+San Jose, Cas. 95124
+
+OFFICERS:
+
+PRESIDENT    Dave Ambrose 816 Everett St.,El
+             Cerrito, CA. 94530 (415) 524-
+             0869
+Vice-Pres    Dennis Medlock  15032 Broadway
+             Terrace, Oakland, CA  95124
+             (415) 654-6796
+Sec.         Jane L Huland  3509 Calico
+             Ave., San Jose, CA  95124 (408)
+             371-1307
+Treas.       Robert Fingerhut 340 Rio Verde
+             Place, #4, Milpitas, CA. 95035
+             (408) 263-4455
+
+BOARD OF DIRECTORS:
+
+Paul Mancuso (408) 946-0738, Steve Greenberg
+(415) 243-6638, Tom Ahl (408) 997-1383, Gene
+Cisneros (408) 923-6800, Joe Sunseri, Chris
+Pratt (408) 629-2994
+
+EPHEMERIS EDITOR: John Gleason 5361 Port
+Sailwood Dr., Newark, CA. 94560
 
 === PAGE 4 ===
-[Error extracting page 4: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5LASfMi59NWz2xvzz'}]
+# THE SAN JOSE ASTRONOMICAL ASSOCIATION
+
+Deep-sky observing Astronomy, Telescope making, Eclipses, Computerized astronomy. Whatever your astronomical interests, you'll find people in the San Jose Astronomical Association who will enjoy sharing their knowledge with you.
+
+## ACTIVITIES
+
+The SJAA sponsors an activity every Saturday night (except around certain holidays).
+
+Meetings featuring programs on various astronomical topics are held once a month at the Alumni Science Building at the University of Santa Clara
+
+Star Parties—group observing sessions—are held at several different locations, some close to San Jose and some in the adjacent mountains.
+
+"Indoor Star Parties" provide an informal opportunity to show slides, work on equipment exchange ideas, etc. They are held in the Los Gatos Red Cross building.
+
+## MEMBERSHIP BENEFITS
+
+If you are not be a member of the San Jose Astronomical Association, becoming a member activities: based membership does grant certain advantages:
+
+- Twelve months of Sky and Telescope magazine, and reduced rates on products from Sky Publishing Corporation.
+- The Ephemeris, our monthly newsletter, containing a calendar of events and activities and other interesting news and articles
+- Use of club telescopes. [Both reflectors and refractors are available.] Access to the SJAA's library of books, magazines, and pamphlets.
+
+The San Jose Astronomical Association, founded in 1954, is a non-profit group devoted to expanding the general public's interest in astronomy, conducting research within the capabilities of amateurs, and promoting the science of astronomy.
+
+MEMBERSHIP ONLY: $8.00     MEMBERSHIP/S&T: $21.00     JUNIOR (UNDER 12): $15.00
+
+---
+
+# SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION
+
+Name ________________________________________
+
+Address _______________________________________
+
+_______________________________________________
+
+Telephone (______)_____________________________
+
+Please bring this form to any SJAA meeting, or send to:
+Robert Fingerhut, Treas.
+San Jose Astronomical Association
+340 Rio Verde Pl. #4, Milpitas, CA 95035
+
+[Phone: (408) 263-4455]
+
+Membership: Adult ___ Junior (under 18) ___
+Bulletin Subscription only: ___
+
+## Questionnaire (optional)
+
+What are your astronomical interests (e.g. astro-photography, deep-sky observation, telescope making, etc.)? ________________________________________
+
+_______________________________________________
+
+_______________________________________________
+
+Do you own a telescope? _________ If so, what kind?
+
+_______________________________________________
+
+Is there any specific area of astronomy that you feel qualified to help others with? ___________________
+
+_______________________________________________
+
+_______________________________________________
 
 === PAGE 5 ===
-[Error extracting page 5: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5Lr7dYuez6yjkd79v'}]
+PERIODIC COMET AREND-RIGAUX (1984k)
+   J. Gibson used the 48" Schmidt instrument
+to recover this comet on August 7.  The comet
+was magnitude 18.5 and in the constellation
+Taurus.   It's orbital period is 6.8 years and
+it will be closest the Sun [1.4 AU] on Dec. 1.
+At that time it will be eleventh magnitude in
+the morning sky.   I'll print it's ephemeris
+next month.
+
+PERIODIC COMET GEHRELS 3 (1984l)
+   J. Gibson recovered this comet too, a
+couple of hours after the previous comet,
+which was only 25 degrees away.   It will be
+visible in the morning sky until August or
+June 1985. It is presently magnitude 20, but
+is not expected to get brighter than mag. 16.
+It's orbital period is 8.1 years.
+
+HALLEY'S COMET ON OCTOBER 15:
+RA: 06h: 44.9m. Dec: +12º49  35.3". Distance
+from the Sun: 5.97 AU.  Distance from the
+Earth: 5.72 AU.  Magnitude: 18.1
+
+DATE      R.A. (1950)  Dec. Elong. Mag.
+
+Comet Austin (1984l)
+
+09-27   07h 49.7m   +38°27'   72°   8.3
+10-02   07h 24.3m   +41°37'   82°   8.5
+10-07   06h 52.5m   +44°46'   93°   8.6
+10-12   06h 18.6m   +47°32'  105°   8.8
+10-17   05h 16.2m   +43°16'  117°   9.0
+10-22   04h 21.0m   +43°16'  130°   9.2
+10-27   03h 24.2m   +47°43'  141°   9.5
+11-01   02h 37.3m   +43°55'  150°   9.8
+11-06   02h 00.3m   +39°30'  154°  10.2
+11-11   01h 32.3m   +35°44'  153°  10.5
+
+Fading in the morning sky, this comet
+approaches, then recedes from the Earth this
+month as it pulls away from the Sun.  Try to
+get some good photos or visual magnitude data.
+It may appear about 4" across and diffuse as
+it races into the evening sky by early
+November.
+
+Periodic Comet Takamizawa (1984J)
+
+08-27   21h 17.0m   -24°37'  130°  11.5
+10-02   21h 20.2m   -24°25'  126°  11.7
+10-07   21h 23.1m   -24°03'  122°  11.9
+10-12   21h 25.2m   -23°48'  119°  12.0
+10-17   21h 34.3m   -23°24'  115°  12.2
+10-22   21h 40.4m   -22°55'  111°  12.4
+10-27   21h 46.1m   -22°25'  103°  12.5
+11-01   21h 52.1m   -21°52'  104°  12.7
+11-06   21h 53.4m   -21°17'  101°  12.9
+
+This comet is pulling away from the Earth
+and Sun.   The mag. exit may be off a bit
+because the comet seems to be unstable and
+another outburst may occur at any time.
+
+PAST DISCOVERIES
+   We often picture new comets being
+discovered just above the horizon at
+astronomical twilight, while it is true that
+comets are in greater supply near the Sun
+than away from the Sun (as seen from Earth), a
+study of the 28 comets discovered by amateur
+astronomers in 1984 shows that one half or
+many more found high in the sky.
+Additionally, they are usually found at times
+far removed from astronomical twilight, when
+the sky is quite dark.
+   Here are the results of a study on the
+38 discoveries of these 28 comets, the
+positions and local sidereal time at discovery
+time were entered into a computer, along with
+the comets position. The printout
+summarized here, shows the azimuth and
+altitude of the comet at discovery as seen
+from the discoverer's location. The
+difference between the time of discovery and
+the time of local noon (when the azimuth of
+Sun is 18 deg. below the observer's horizon)
+is given in minutes.
+
+EVENINGS
+
+ALT.30---+---0+---+---+---0---+---+90
+        0   0   0   1   0   0   0
+70---+---0+---+---+---0---+---1---+70
+        0   0   0   0   1   0
+50---+---1+---+---1---1---0---+50
+        0   0   0   1   1   0
+30---+---+---0+---+---0+---+---+30
+        1   0   0   1   2   2   0
+10---+---+---+---+---+---1+---+10
+        0   0   0   1   0   0   0
+00---+---+---+---+---+---+---+---+00
+      180 210 240 270 300 330 360
+       S                         N
+                AZIMITH
+
+Ave. Azumuth: 254.0°
+Ave. Altitude: 31.9°
+Ave. time after Ast. Twi.: 77.5 minutes.
+
+                MORNINGS
+
+ALT.30---+---0+---+---+---0---+---+30
+        0   0   0   0   0   0   0
+70---+---+---+---Y---+---+---0---+70
+        0   0   0   0   0   0   0
+50---+---+---+---Y---+---+---0---+50
+        0   0   2   0   3   1   2
+30---+---+---+---+---0+---+---+---+30
+        0   0   5   0   5   6•  0
+10---+---+---+---+---+---+---+---+10
+        0   0   1   0   0   1   0
+00---+---+---+---+---+---+---+---+00
+        0   30  60  90 120 150 180
+        N                         S
+                AZIMITH
+Ave. Azumith: 039.3°
+Ave. Altitude: 24.2°
+Ave. time before Ast. Twi.: 44.7 minutes.
+
+SPACE UPDATE
+
+BY: ROBERT FINGERHUT
+
+DISCOVERY COMPLETES FIRST FLIGHT
+   The space shuttle Discovery, was launched
+on Aug. 30 and returned to Earth Sept. 5.
+Discovery is in excellent condition after its
+landing at Edwards AFB, All mission
+objectives were accomplished and two
+communications satellites were deployed. Two
+users were paying customers (PAC1) upper
+stage demonstrating its return to
+reliability. The Navy Leasat was launched
+using a new "Frisbee" deployment technique
+102 ft solar array was also setup. The
+foray included a lot of "firsts." The plans
+for future missions of a space station was
+tested for its structural stability, an
+unidentified hormone was produced in
+continuous flow electrophoresis unit. This
+experiment was saved after automatic equipment
+failed by the payload specialist, who was one
+of two astronauts that successfully made
+repairs and operated it on manual. The drug
+produced will remain confidential until human
+testing begins in 1985. A high school
+students project was used to check a new
+fluids experiment apparatus [FEA] which will
+be used to perform industrial and commercial
+production of crystalline materials and alloys
+in indium crystal using float zone processing
+in which an annular heater is moved along a
+rod continually melting a section and pushing
+impurities along in front of it. An IMAX
+camera was also carried on this flight for
+preservation of a film by the Smithsonian
+Institution.
+
+TEACHER TO FLY ON THE SHUTTLE
+   President Regan has announced that the
+first person selected for the shuttle flight
+participant program will be an elementary or
+secondary school teacher. The teacher will
+ride on the space shuttle by late 1985 or early
+1986.
 
 === PAGE 6 ===
-[Error extracting page 6: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWzA5MNrsxLRC7QceVMCA'}]
+SPACE UPDATE
+
+CHALLENGER SCHEDULED FOR OCT. 1 LAUNCH
+    The shuttle Challenger's next flight, 41-G, is scheduled for a September 30 liftoff. The crew of 5 will have a duration of 8 days. It will feature a satellite retrieval from Earth parking payload and a space walk to practice for Novembers satellite retrievals. The flight crew will be Robert Crippen. Commander, Jon A. McBride, Pilot, Mission Specialist's Kathryn D. Sullivan (first female space walker), David C. Leestman (who will perform the space walk), Dave Leestma and payload specialists Marc Garneau from Canada and Paul D. Scully-Power, a U.S. Navy civilian.
+
+DISCOVERY'S SECOND FLIGHT SCHEDULED FOR NOV. 2
+    On this flight, 51-A, Discovery will take up a crew of 5 for 7.2 days. It will also take several scientific payloads. It will also retrieve the Palapa B-2 and Westar-VI satellites which were put into the wrong orbit by PAM-D failures on mission 41-B. It will carry a crew of 6 for a duration of 6 days. The crew will include Frederick H. Hauck, Commander, David M. Walker, pilot, and Mission Specialist's Anna L. Fisher, Dale A. Gardner and Joseph P. Allen.
+
+EUROPE OFFERS "COLUMBUS" TO U.S. SPACE STATION
+    A German and Italian company have formed a partnership to produce the Columbus module. The module is a free-flying version of the European Spacelab that would orbit in parallel to the main U.S. space station. It wants to build the Columbus module rather than subcontract for actual space station components. It would offer them more independence for the U.S. and to develop technology that could eventually allow them to launch their own space station.
+
+CALICO OBSERVATORY
+
+BY: JIM VAN NULAND
+
+    As the Jupiter-watching season draws to a close, the Spot is quickly going. I've included the few times for which it is available past month: this will be the final article I write next year when Jupiter comes around again.
+    The broken record continues: Good, steady seeing is still mandatory for seeing the Spot. Despite the somewhat faded condition, Paul Maxson of Phoenix was able to photograph it on August 1. So have hope, go see you again Jupiter and see you next year. Let me know of your results. Clear Skies, Jim Van Nuland
+
+
+Great Red Spot on Meridian -- PDT/PST
+Sara pro od  hr.mn.     da mo   h. m
+W  10  3      7 29 pm     Sa 10 27  7 29 pm
+F  10  5      9 11 pm     Th 11  1  9 33 pm
+W  10 10      8 15 pm     Th 11  8  4 30 pm
+M  10 15      7 29 pm     Tu 11 13  5 37 pm
+M  10 22      8 15 pm     Su 11 25  5 35 pm
+
+Commercial ads are priced according to size and may be placed by contacting: Gene Cisneros at (408) 923-6800.
+
+[THIS IS LOGO/IMAGE: ATM coatings logo]
+15022 BROADWAY TERRACE, OAKLAND, CA 94611
+
+Specializing in Aluminum Coatings with silicon monoxide
+over-coating for telescope mirrors.
+
+                                    4½"         $8.00
+                                    6"          $12.00
+Secondaries, when sent with primary mirror, free    8"          $16.00
+To remove old coatings $3.00 Minimum charge $8.00   10"         $20.00
+Include postage and insurance for return mail.      12¼"        $24.00
+Mirror will be shipped in container received.       14¾"        $28.00
+                                    16"         $50.00
+
+[THIS IS IMAGE: Astronomical photograph/image]
+
+LUMICON®
+"Innovation in Astronomy"
+Visit or call LUMICON
+for the most complete selection
+of IN STOCK Telescopes and
+Accessories in the West.
+
+WORLD CENTER FOR
+★ ASTROPHOTOGRAPHY ★
+(415) 447-9570
+2111 Research Dr #5E,
+Livermore CA 94550
+
+SJAA EPHEMERIS
+3509 CALICO AVE
+SAN JOSE,CA 95124
+
+BULK RATE
+U.S. POSTAGE PAID
+PERMIT NO. 5381
+SAN JOSE, CA. 95125
+
+TIME VALUE-DATED
+NEWS MATERIAL
