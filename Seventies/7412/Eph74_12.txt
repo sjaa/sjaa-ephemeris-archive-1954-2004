@@ -1,22 +1,22 @@
 === PAGE 1 ===
 San Jose
-                                               Bulletin
+
 Amateur Astronomers
-                                               Bob Malm, editor
-                    DECEMBER        1974       (941-1343)
+                                    DECEMBER
+                                                1974
 SJAA Officers
 
-President: Tom Mungall          257-3262        Board members: Dave Erickson  Bob Malm
-Vice-president: Brian Day       266-8690                       Tom Curtis
-Treasurer: Jerry Rattley        732-0202                       A.B. Gregory
-Secretary: Norman Wild          252-8966                       Jim Van Nuland
-                                                               Jim Vermilion
+President: Tom Mungall      257-3262       Board members: Dave Erickson Bob Malm
+Vice-president: Brian Day   266-8690                      Tom Curtis
+Treasurer: Jerry Rattley    732-0202                      A.B. Gregory
+Secretary: Norman Wild      252-8966                      Jim Van Nuland
+                                                          Jim Vermilion
 
 RECENT ACTIVITIES: On November 1 the club held its first meeting at its new home,
 Olinder Center. Frank Holden, a leading double star man from Lick Observatory,
 delivered a most interesting talk. He reviewed the nature of double stars and their
 orbits, and described the techniques whereby their parameters are measured. In
-connection with the latter, he exhibited a micromete for measuring the position
+connection with the latter, he exhibited a micrometer for measuring the position
 angle and separation of the members of a binary system. He concluded by stating
 that, in spite of his tedious work, he still enjoys double stars in an esthetic
 sense.
@@ -34,47 +34,47 @@ don't know all of your names yet.) Eventually, everybody gave up, frustrated in 
 celestial quests.
 
 COMING EVENTS: Friday, December 6, 1974 - 7:30 P.M. General meeting at Olinder Center.
-               NOTE THE NEW STARTING TIME. We shall be meeting one half hour earlier
-               from now on because Olinder Center self-destructs at 10 P.M. After a
-               brief description of our newly leased observing site at Mt. Umanhum (sp?),
-               at which, if we are lucky, will be
-               erected our club's observatory,
-               Dave Erickson will deliver a talk          NEW
-               on astrophotography with a Wright-         MEETING
-               Schmidt telescope. Some time will          SITE        WILLIAMS
-               be spent on the use of cold
-               cameras. Reproduced for those of    OLINDER CENTER IN
-               you who may have lost it, is a map  WILLIAMS ST. PARK
-               showing the way to Olinder                            MCLAUGHLIN
-               Center.                                    280
-                                                                      10B
-               Saturday December 14, 1974: Star
-               party at Henry Coe State Park.
-               Remember, the club pays for the            KEYES     STORY
-               use of this observing site.
-                                                                      LEININGER
-               Friday, January 3, 1975: 7:30 P.M.                    CENTER      MCLAUGHLIN
-               A report from the planet Jupiter
-               by way of Ames Research (NASA).
+              NOTE THE NEW STARTING TIME. We shall be meeting one half hour earlier
+              from now on because Olinder Center self-destructs at 10 P.M. After a
+              brief description of our newly leased observing site at Mt. Umanhum (sp?),
+              at which, if we are lucky, will be
+              erected our club's observatory,
+              Dave Erickson will deliver a talk          NEW
+              on astrophotography with a Wright-        MEETING    WILLIAMS
+              Schmidt telescope. Some time will          SITE
+              be spent on the use of cold
+              cameras. Reproduced for those of         OLINDER CENTER IN
+              you who may have lost it, is a map      WILLOW ST. WILLOW
+              showing the way to Olinder                                    GLEN
+              Center.                                  280                 101
 
-               Saturday, January 11, 1975: The first star party at our new observatory
-               location at Mt. Umanhum (sp?). A map to the site will be published next
-               month.
+              Saturday December 14, 1974: Star
+              party at Henry Coe State Park.           KEYES      STORY RD
+              Remember, the club pays for the
+              use of this observing site.
+                                                       LEINIGER
+              Friday, January 3, 1975: 7:30 P.M.        CENTER    McLAUGHLIN
+              A report from the planet Jupiter
+              by way of Ames Research (NASA).
+
+              Saturday, January 11, 1975: The first star party at our new observatory
+              location at Mt. Umanhum (sp?). A map to the site will be published next
+              month.
 
 NEWS NOTES: Brian Day has been appointed our new public relations man. If you have ideas
 for publicizing the club, contact Brian.
 
 TECHNICAL NOTES: Jim Van Nuland has calculated the following data. Times of the passage
-of the Redspot across Jupiter's meridian: Times are in PST (P.M.):DECEMBER 1, 1018; 4,
-749; 6,928; 9,659; 11,838; 13,1017; 14,609 (come early to the star party for this); 16,
-748; 18,927; 21,658; 23,838; 25,1017; 26,606 (skip 30,927.
+of the Redspot across Jupiter's meridian: Times are in PST (P.M.):DECEMBER 1, 10:8; 4,
+749; 6,928; 9,659; 11,838; 13,10:7; 14,609 (come early to the star party for this); 16,
+748; 18,927; 21,658; 23,836; 25,10:17; 26,609; 28,748; 30,927.
 
-Longitude of the central meridian of the sun: Dec. 1, 334°60; Dec. 11, 202°82; Dec. 21,
-71°08; Dec. 31, 299°35.
+Longitude of the central meridian of the sun: Dec. 1, 334:60; Dec. 11, 202:82; Dec. 21,
+71:08; Dec. 31, 299:35.
 
-FOR SALE: An 8" F/6 fiberglass tube, mirror mount, heavy wooden lamenated tripod with
+FOR SALE: An 8" F/6 fiberglass tube, mirror mount, heavy wooden laminated tripod with
 1 1/2" shafts, pipe fittings, and setting circles. ALSO, a Pacific Instruments mount
-with clock drive. Inspect and make offer. May sell parts individually. 'Phone
+with clock drive.    Inspect and make offer. May sell parts individually. 'Phone
 867-9225. Ask for Mike Szudy.
 
 === PAGE 2 ===
@@ -84,31 +84,31 @@ The Messier Catalog (NGC sequence), courtesy Jim Van Nuland.
 (Part Three--Conclusion)
 
 
-M    NGC    RA         Dec.  Chart  Con  Mag  Type. Size     Description
-21  6531   18  03   -22 30   X      Sgr   7   Open   10      Coarse
-24  6603   18  17   -18 26   X      Sgr   5   Open   4       Milky way patch
-16  6611   18  17   -13 47   X      Ser   6   Open   25      100 stars in nebulosity
-18  6613   18  18   -17 08   X      Sgr   8   Open   12      Glorious
-17  6618   18  19   -16 11   X      Sgr   8   N./Op  45x37/22 Omega/Horseshoe Neb; cl.
-28  6626   18  23   -24 53   XV     Sgr   7   Glob   5       Greatly condensed
-69  6637   18  30   -32 22   XV     Sgr   9   Glob   3       Small globular
-25H4725    18  30   -19 16   X      Sgr   7   Open   40      Irregular
-22  6656   18  35   -23 57   X      Sgr   6   Glob   17      Magnificent!
-70  6681   18  42   -32 19   XV     Sgr  10   Glob   2       Small
-26  6694   18  44   - 9 25   X      Sct   9   Open   9       Not well known
-11  6705   18  50   - 6 18   X      Sct   6   Open A 10      Showy object in summer sky
-54  6715   18  54   -30 30   XV     Sgr   8   Glob   2       Small and very remote
-57  6720   18  53   +33 00   V      Lyr   9   P.Neb  1x1     Ring Nebula
-56  6779   19  16   +30 08   V      Lyr   8   Glob   2       Low power   ? ? ?
-55  6809   19  39   -30 59   XV     Sgr   5   Glob   10      Bright
-71  6838   19  53   +18 43   X      Sge   9   Glob   6       Sparse
-27  6853   19  58   +22 39   X      Vul   8   P.Neb  8x4     Dumbbell Nebula; very fine
-75  6864   20  05   -22 00   XI     Sgr   8   Glob   2       Most open in sky
-29  6913   20  23   +38 26   V      Cyg   7   Open   12      Use low power
-72  6981   20  52   -12 38   XI     Aqr  10   Glob   2       Small, dim
-73  6994   20  58   -12 44   XI     Aqr                       4 stars
-15  7078   21  29   +12 04   XI     Peg   6   Glob   7       Fine ball of stars
-2   7089   21  32   - 0 56   XI     Aqr   6   Glob   8       Tight globe of stars
-39  7092   21  31   +48 20   V      Cyg   5   Open   30      Use low power
-30  7099   21  39   -23 18   XV     Cap   8   Glob   6       Fairly bright; star nearby
-52  7654   23  23   +61 28   V      Cas   7   Open   12      Irregular
+M  .NGC   RA        Dec.  Chart  Con  Mag  Type. Size      Description
+21 6531   18 03   -22 30    X     SgrE  7   Open     10    Coarse
+24 6603   18 17   -18 26    X     Sge   5   Open      4    Milky Way patch
+10 6611   18 17   -13 47    X     Ser   6   Open     25    100 stars in nebulosity
+18 6613   18 18   -17 08    X     Sgr   8   Open     12    Glorious
+17 6618   18 19   -16 11    X     Sgr   8   R/Pn 46x37/22  Omega/Horseshoe Neb; Cl.
+28 6626   18 23   -24 53    XV    SgrE  7   Glob      5    Greatly condensed
+69 6637   18 30   -32 22    XV    Sgr   9   Glob      3    Small globular
+25 6725   18 30   -19 16    X     Sgr   7   Open     40    Irregular
+22 6656   18 35   -23 57    X     Sgr   6   Glob     17    Magnificernt!
+70 6681   18 42   -32 19    XV    Sgr 10p   Glob      2    Small
+26 6694   18 44   - 9 25    X     Sct   9   Open      9    Not well known
+11 6705   18 50   - 6 18    X     Sct   6   Open/N  10    Show object of summer sky
+54 6715   18 54   -30 30    XV    Sgr   8   Glob      2    Small and very remote
+57 6720   18 53   +33 00    V     Lyr   9   P.Neb   1x1    Ring Nebula
+56 6779   19 16   +30 08    V     Lyr   8   Glob      2    Low power  ? ? ?
+55 6809   19 39   -30 59    XV    Sgr   5   Glob     10    Bright
+71 6838   19 53   +18 43    X     Sqa   9   Glob      6    Sparse
+27 6853   19 58   +22 39    X     Vul   8   D.Neb   8x4    Dumbbell Nebula; very fine
+75 6864   20 05   -22 00    XI    Sgr   8   Glob      2    Most open in sky
+29 6913   20 23   +38 26    V     Cyg   7   Open     12    Use low power
+72 6981   20 52   -12 38    XI    Aqr  10   Glob      2    Small, dim
+73 6994   20 58   -12 44    XI    Aqr   -    Open       -   4 Stars
+15 7078   21 29   +12 04    XI    Peg   6   Glob      7    Fine ball of stars
+2 7089    21 32   - 0 56    XI    Aqr   6   Glob      8    Tight globe of stars
+39 7092   21 31   +48 20    V     Cyg   5   Open     30    Use low power
+30 7099   21 39   -23 18    XV    Cap   8   Glob      6    Fairly bright; star nearby
+52 7654   23 23   +61 28    V     Cas   7   Open     12    Irregular

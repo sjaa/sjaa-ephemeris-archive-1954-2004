@@ -1,174 +1,186 @@
 === PAGE 1 ===
-                                          sjaa
-                                        Jack M. Zeiders
-FEBRUARY`77                             Editor
-                                        292-0107
-WHAT'S GOING ON IN THE CLUB:
+# SJAAA
 
-February 4:  Olinder Center, 7:30 P.M.  General Membership Meeting
-This month will complete the second of Allan Meyers two part presentation
-on "DEMON STARS". Those of you who were at last months meeting may wish to know
-that Mr. Matthews is home from the hospital and suffers no permanent damage. I'm
-sure we all wish him well.
-February 11:  Board Meeting, Allen Meyer's 8:00 P.M.
-February 12:  Los Gatos Red Cross, 8:00 P.M.
-If there is enough interest perhaps the members who have made mirrors and
-built telescopes would be willing to help those who would like to.
+# FEBRUARY '77
 
-February 19:  Henry Coe State Park, dusk-dawn, F.E.A.O.
+**Jack M. Zeiders**  
+**Editor**  
+**292-0107**
 
-February 26:  Los Gatos Red Cross, 8:00 P.M.
+## WHAT'S GOING ON IN THE CLUB:
 
-March 4:  Olinder Center, 7:30 P.M. General Membership Meeting
-Gerry Rattley will present chart 4 of the Scalnate Pleiso field set for
-the observationally oriented members. This will also be the spring equipment
-nite. If you intend to bring something please inform  Gerry ahead of time.
+**February 4:** Olinder Center, 7:30 P.M. General Membership Meeting
 
-March 9:  Los Gatos Red Cross, 8:00 P.M.
+This month will complete the second of Allan Meyers two part presentation on "DEMON STARS". Those of you who were at last months meeting may wish to know that Mr. Matthews is home from the hospital and suffers no permanent damage. I'm sure we all wish him well.
 
-March 11:  Board Meeting, Dr. Gregory's  home,  8:00 P.M.
-5480 Fairway Dr. San  Jose
+**February 11:** Board Meeting, Allen Meyer's 8:00 P.M.
 
-March 12: Los Gatos Red Cross, 8:00 P.M.
+**February 12:** Los Gatos Red Cross, 8:00 P.M.
 
-March 19: F.E.A.O.  Location ?
+If there is enough interest perhaps the members who have made mirrors and built telescopes would be willing to help those who would like to.
 
-March 23:  Los Gatos Red Cross, 8:00 P.M.
+**February 19:** Henry Coe State Park, dusk-dawn, F.E.A.O.
 
-Dr Gregory is currently teaching two nite classes in astronomy. One is
-oriented for the novice, the newer members which are as yet unfamiliar with
-the constellations and telescopes may well enjoy attending. The second class
-is somewhat more for the experienced amateur that could be interested in astro-
-photography.  I attended the class several years ago and found it very helpfull.
+**February 26:** Los Gatos Red Cross, 8:00 P.M.
 
-                        -For Your Information-
+**March 4:** Olinder Center, 7:30 P.M. General Membership Meeting
 
-The A.A.N.C. has elected new officers, they are; Doug Berger president,
-Frank Miller vice president,  Deni Frerichs secretery, and Debbie Moore treasurer.
-                            ·newz notz  provided by Ed Schell
-        ·The age of the universe extended to 20 billion years.
-    ·Radio waves emitted by the planet Uranus were detected.
-            ·x-ray pulses were discovered comming from globular clusters.
-    ·Methane ice detected on Pluto.  Potassium detected in clouds of Io.
-                                            Sceince News, Year-end review
-    ·The Crab nebula pulsar emits coherent gamma-ray radiation.
-                                    Martin Leventhal, Bell Laboratories, in
-                                            Sceince News, Dec. 18
+Gerry Rattley will present chart 4 of the ScalNate Pleiso field set for the observationally oriented members. This will also be the spring equipment nite. If you intend to bring something please inform Gerry ahead of time.
+
+**March 9:** Los Gatos Red Cross, 8:00 P.M.
+
+**March 11:** Board Meeting, Dr. Gregory's home, 8:00 P.M.  
+5480 Fairway Dr. San Jose
+
+**March 12:** Los Gatos Red Cross, 8:00 P.M.
+
+**March 19:** F.E.A.O. Location ?
+
+**March 23:** Los Gatos Red Cross, 8:00 P.M.
+
+Dr Gregory is currently teaching two nite classes in astronomy. One is oriented for the novice, the newer members which are as yet unfamiliar with the constellations and telescopes may well enjoy attending. The second class is somewhat more for the experienced amateur that could be interested in astro-photography. I attended the class several years ago and found it very helpfull.
+
+## -For Your Information-
+
+The A.A.N.C. has elected new officers, they are; Doug Berger president, Frank Miller vice president, Deni Frerichs secretary, and Debbie Moore treasurer.
+
+**• newz notz** provided by Ed Schell
+
+• The age of the universe extended to 20 billion years.
+
+• Radio waves emitted by the planet Uranus were detected.
+
+• x-ray pulses were discovered comming from globular clusters.
+
+• Methane ice detected on Pluto. Potassium detected in clouds of Io.
+
+Sceince News, Year-end review
+
+• The Crab nebula pulsar emits coherent gamma-ray radiation.
+
+Martin Leventhal, Bell Laboratories, in  
+Sceince News, Dec. 18
 
 === PAGE 2 ===
 The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley
 
 Elements of the orbits as listed in the Third Catalogue of the Orbits
 of Visual Binary Stars by W. S. Finsen and C. E. Worley, 1970.
-star     1975 pos     P      e      a      i      ω      Ω
-name     RA    dec   yrs    yr            "      °      °      °
-55 Tau 04 18.4 +16 28   91.044 1897.58  0.604  0.561  52.86 131.28  64.28
-OΣ  82 04 21.3 +15 00  255.5   1891.6   0.29   1.185 138.0  230.3   12.0
-Hu1080 04 27.5 +16 06   40.4    1958.2   0.41   0.425  92.6  297.4   77.7
-80 Tau 04 28.7 +15 35  170      1890     0.82   1.029 110.5  161.8   10.6
 
-       1988.4                         Each of the binary systems in this article is a
-[1990     \    1985                   member of the Hyades star cluster in Taurus.
-    0°5  E                            55 Tauri; OΣ 79 (ADS 3135); has component magni-
-[1995     020    1980  90°            tudes of 7.2 and 8.3 with a system spectra of F6.
-  \2000                               The orbit is a reliable one computed by St. Wierbinski
-    \    55 Tau 1975                  in 1958.  Presently the system is closing to a minimum
-     \   OΣ 79                        of 0"15 in 1986 and will pass periastron in 1988.  The
-      \                               next maximum, 0"77 is not due until 2045.  This system
-       \                              is 47 parsecs distant from the Sun and has a true mean
-   2025            2034.1              separation in orbit of 26 a.u.  Ephemeris for 55 Tauri:
-        N 0°                               1975  67?5 0?55   1985 122.8 0?19   1995 272.1 0?30
-                                           1980  81.0 0.39   1990 230.7 0.22   2000 301.9 0.33
-           S|                          OΣ 82 (ADS 3169) in Taurus; has component magnitudes
-                                       of 7.4 and 8.6 with a system spectra of F8.  The orbit
-       +0°11.6                         is a preliminary one computed by W. D. Heintz in 1969.
-           /                           Kcording to this orbit, the system is approaching a
-          /                            maximum of 1".41 in 1987 after which it will pass ap-
-    OΣ 82                              astron in 2019.  At a distance of 43 parsecs from the
-          /      E                     Sun the true mean separation in orbit is 51 a.u.  The
-W                                      primary is a spectroscopic binary with a period of 4
-         /       30°                   days, making this a triple system.  Ephemeris for O282:
-                                            1975  2?8 1?59  1985 355?7 1?41  1995 348?9 1?44
-  2050   /  +0°5                            1980 359.2 1.40  1990 352.1 1.41  2000 345.0 1.39
-                                       Hu 1080 (ADS 3248) in Taurus; has component magni-
-  2025\    /    170                    tudes of 7.2 and 7.5 with a system spectra of F8.  The
-  2010\    /                           orbit is a reliable one by W. H. Van Den Ros in 1956.
-       \                               This is a close rapid binary with a highly inclined
-  2000  \\  1175                       orbit.  There are two maxima in each revolution, with
-       N 0°                            the larger of the two maxima, 0"48, next due to occur
-                                            in 1987.  This system is 38½ parsecs from
-  +1270                                     the Sun and has a true mean separation in
-   1985      +1935                     Hu 1080 orbit of 16 a.u.  Ephemeris for Hu 1080:
-W    +1920                   +1996.6  E     1975 268?6 0?14   1990 257?0 0?46
-0°5   0°N  ' 0?5 2° 0°5 2° 0?5              1980 261.6 0.33   1995 255.0 0.22
-         3°   2°           +2000             1985 259.5 0.46   2000  79.3 0.23
-                N 0°                   80 Tauri; Σ 554 (ADS 3264); has compon-
-                                  ent magnitudes of 5.9 and 7.9 with the sys-
-  2066.0                     E    tem spectra being A6n.  The orbit is a preliminary one
-W               90°               computed by G. P. Kuiper in 1937.  According to this orbit,
-      \                       80 Tau apastron passage took place in 1975 and a maximum, 1"80,
-       \                      Σ 554 is due in 1983, after which the companion will close to
-  2050 \  \                        a minimum of 0"1 in 2057.  This system is about 44 parsecs
-        \  \                       distant from the Sun and has a true mean separation in
-   120  \   \                      orbit of about 43 a.u.  Ephemeris for 80 Tauri:
-         \    \                         1975  17?2 1?79  1985  15?8 1?80  1995  14?4 1?77
-   2°85  \    \                          1980  16.5 1.80  1990  15.1 1.79  2000  13.7 1.74
-    175   \     \1975.0
-           2000
-         N|0°
+star         1975 pos                    P        T         e        a        i        ω        Ω
+name         RA      dec       yrs      yr                  n        °        °        °        °
+55 Tau 04 18.4 +16 28    91.044 1897.58   0.604   0.561   52.86 131.28   64.28
+OΣ  82 04 21.3 +15 00   255.5    1891.6    0.29    1.185 138.0  230.3    12.0
+Hu1080 04 27.5 +16 06    40.4     1958.2    0.41    0.425   92.6  297.4    77.7
+80 Tau 04 28.7 +15 35   170      1890      0.82    1.029 110.5  161.8    10.6
+
+[THIS IS FIGURE: Three orbital diagrams showing the paths of binary star systems 55 Tau/OΣ 79, OΣ 82, and Hu 1080/80 Tau with dates marked along the orbital paths]
+
+Each of the binary systems in this article is a member of the Hyades open star cluster in Taurus.
+
+55 Tauri; OΣ 79 (ADS 3135); has component magnitudes of 7.2 and 8.3 with a system spectra of F6. The orbit is a reliable one computed by St. Wierzbinski in 1958. Presently the system is closing to a minimum of 0"15 in 1986 and will pass periastron in 1988. The next maximum, 0"77 is not due until 2045. This system is 47 parsecs distant from the Sun and has a true mean separation in orbit of 26 a.u. Ephemeris for 55 Tauri:
+    1975  67°5  0"55    1985 122°0  0"19    1995 272°1  0"30
+    1980  81.0  0.39    1990 230.7  0.22    2000 301.9  0.33
+
+OΣ 82 (ADS 3169) in Taurus; has component magnitudes of 7.4 and 8.6 with a system spectra of F8. The orbit is a preliminary one computed by W. D. Heintz in 1969. According to this orbit, the system is approaching a maximum of 1".41 in 1987 after which it will pass apastron in 2019. At a distance of 43 parsecs from the Sun the true mean separation in orbit is 51 a.u. The primary is a spectroscopic binary with a period of 4 days, making this a triple system. Ephemeris for OΣ82:
+    1975  2°8  1"59   1985 355°7  1"41   1995 348°6  1"40
+    1980 359.2  1.40   1990 352.1  1.41   2000 345.0  1.39
+
+Hu 1080 (ADS 3248) in Taurus; has component magnitudes of 7.2 and 7.5 with a system spectra of F8. The orbit is a reliable one by W. H. Van Den Ros in 1956. This is a close rapid binary with a highly inclined orbit. There are two maxima in each revolution, with the larger of the two maxima, 0"48, next due to occur in 1987. This system is 38½ parsecs from the Sun and has a true mean separation in orbit of 16 a.u. Ephemeris for Hu 1080:
+    1975 268°6  0"14    1990 257°9  0"45
+    1980 261.6  0.33    1995 255.0  0.22
+    1985 259.5  0.46    2000  79.3  0.23
+
+80 Tauri; F 554 (ADS 3264); has component magnitudes of 5.9 and 7.9 with the system spectra being A6n. The orbit is a preliminary one computed by G. P. Kuiper in 1937. According to this orbit, apastron passage took place in 1975 and a maximum, 1"80, is due in 1983, after which the companion will close to a minimum of 0"1 in 2057. This system is about 44 parsecs distant from the Sun and has a true mean separation in orbit of about 43 a.u. Ephemeris for 80 Tauri:
+    1975  17°2  1"79    1985  15°8  1"80    1995  14°4  1"77
+    1980  16.5  1.80    1990  15.1  1.79    2000  13.7  1.74
 
 === PAGE 3 ===
-                                          sjaa
+# occulting zone
 
-occulting zone
+## LUNAR OCCULTATIONS
 
-                    LUNAR OCCULTATIONS                       Red Spot times
-                                                         da mo  d    h  m
-Feb    PST*  Mag Ill El  CA   PA Star, Notes            M   2  7    7 41 PM
-21  8:35:12D 8.6 16+ 12 62S  96                        W   2  9    9 20 PM
-22  8:49:01D 8.6 23+ 20 52S 109 SAO92767                F   2 11   10 59 PM
-23  9:09:59D 8.6 32+ 27 41N  25                        Sa  2 12    6 51 PM
-    9:25:09D 8.7 32+ 24 54S 110                        M   2 14    8 30 PM
-   10:42:24D 7.8 33+  9 30S 134                        W   2 16   10  9 PM
-24  6:24:13D 7.8 41+ 65 75N  62 Twilight               Sa  2 19    7 39 PM
-    8:45:44D 6.3 41+ 42 87N  74 SAO93536                M   2 21    9 18 PM
-    9:11:40D 8.3 41+ 36 47S 120                        Sa  2 26    8 28 PM
-   11:03:55D 8.1 42+ 15 51S 117                        M   2 28   10  7 PM
-25  6:01:20D 4.2 50+ 71 83N  74 68 Tau  At sunset      Th  3  3    7 38 PM
-    7:35:45R              63-78N 273
-    8:59:05D 7.1 51+ 49 64S 107                              White spot
-   11:24:07D 6.2 52+ 21 76N  67 ADS3297                da mo  d    h  m
-26  0:04:23D 7.8 52+ 13 41S 130 A.M. time              Su  2  6    7 43 PM
-26  6:28:51D 7.5 60+ 70 48S 126 Twilight               Tu  2  8    9 20 PM
-   11:03:32D 7.5 61+ 34 74N  69                        Th  2 10   10 57 PM
-27  8:46:06D 6.4 69+ 67 20S 159                        F   2 11    6 48 PM
-   11:27:32D 6.8 70+ 39 67N  67                        Su  2 13    8 24 PM
-28  2:28:02D 6.5 71+  5 49S 131 A.M. time              Tu  2 15   10  1 PM
-March                                                   F   2 18    7 29 PM
-3  0:56:37D 5.7 93+ 46 78S 108 60 Cnc  A.M. time      Su  2 20    9  6 PM
-6  1:59:02R 4.5 99- 49 64N 338 92 Leo  A.M. time      Tu  2 22   10 43 PM
-                                                        F   2 25    8 10 PM
-* Times are PM except as noted.                        Su  2 27    9 47 PM
-                                                        W   3  2    7 15 PM
-Double star notes:                                      F   3  4    8 52 PM
+|     | PST*     | Mag Ill El |     | CA  | PA  | Star, Notes |
+|-----|----------|------------|-----|-----|-----|-------------|
+| Feb |          | 8.6        | 16+ | 12  | 62S | 96          |
+| 21  | 8:35:18L |            |     |     |     |             |
+| 22  | 8:49:01D | 8.6        | 23+ | 20  | 52S | 109 SAO92767|
+| 23  | 9:09:59D | 8.6        | 32+ | 27  | 41N | 25          |
+|     | 9:25:09D | 8.7        | 32+ | 24  | 54S | 110         |
+|     | 10:42:24D| 7.8        | 33+ | 9   | 30S | 134         |
+| 24  | 6:24:13D | 7.8        | 41+ | 65  | 75N | 62 Twilight |
+|     | 8:45:44D | 6.3        | 41+ | 42  | 87N | 74 SAO93536 |
+|     | 9:11:40D | 8.3        | 41+ | 36  | 47S | 120         |
+|     | 11:03:55D| 8.1        | 42+ | 15  | 51S | 117         |
+| 25  | 6:01:20D | 4.2        | 50+ | 71  | 83N | 74 68 Tau At sunset|
+|     | 7:35:45R |            |     | 63-78N| 273 |         |
+|     | 8:59:05D | 7.1        | 51+ | 49  | 64S | 107         |
+|     | 11:24:07D| 6.2        | 52+ | 21  | 76N | 67 ADS3297  |
+| 26  | 0:04:23D | 7.8        | 52+ | 13  | 41S | 130 A.M. time|
+| 26  | 6:28:51D | 7.5        | 60+ | 70  | 48S | 126 Twilight|
+|     | 11:03:32D| 7.5        | 61+ | 34  | 74N | 69          |
+| 27  | 8:46:06D | 6.4        | 69+ | 67  | 20S | 159         |
+|     | 11:27:32D| 6.8        | 70+ | 39  | 67N | 67          |
+| 28  | 2:28:02D | 6.5        | 71+ | 5   | 49S | 131 A.M. time|
+| March|         |            |     |     |     |             |
+| 3   | 0:56:37D | 5.7        | 93+ | 46  | 78S | 108 60 Cnc A.M. time|
+| 6   | 1:59:02R | 4.5        | 99- | 49  | 64N | 338 92 Leo A.M. time|
 
-68 Taurii: 4.3, 8.3 mags, 1.5" @  325 deg.  The secondary will be lost
-     in the bright sky at disappearace, and in the glare of the bright
-     limb at reappearance. Sorry I mentioned it. Primary will be nice.
-ADS3297: 7.0, 7.1  mags, 3" @ 277 deg.  This step will take  5 sec. or
-     so.  This is  bright enough to see  in small scopes, don't  miss a
-     splendid sight.
+* Times are PM except as noted.
+
+Double star notes:
+
+68 Taurii: 4.3, 8.3 mags, 1.5" @ 325 deg. The secondary will be lost
+in the bright sky at disappearance, and in the glare of the bright
+limb at reappearance. Sorry I mentioned it. Primary will be nice.
+ADS3297: 7.0, 7.1 mags, 3" @ 277 deg. This step will take 5 sec. or
+so. This is bright enough to see in small scopes, don't miss a
+splendid sight.
 SAO stars: I have no data on these visual double stars.
 
-                    GREAT RED SPOT OF JUPITER
+## GREAT RED SPOT OF JUPITER
 
-The  spot has  faded to  near-invisibility.  It can  be found  by
-looking for a sharp dark belt  north-preceeding. Looking west to east,
-the belt  narrows and curves northward  around the spot. A  fine sight
-during good seeing.  The spot appears as a faint pink cloud.
-    The white  spot continues; look  for it as a  gap or dent  in the
+The spot has faded to near-invisibility. It can be found by
+looking for a sharp dark belt north-preceeding. Looking west to east,
+the belt narrows and curves northward around the spot. A fine sight
+during good seeing. The spot appears as a faint pink cloud.
+
+The white spot continues; look for it as a gap or dent in the
 dark belt in which it lies.
-    Watch for Mercury 0.1 deg. S. of  Mars Feb 12 morning.  Uranus is
+
+Watch for Mercury 0.1 deg. S. of Mars Feb 12 morning. Uranus is
 not occulted by the moon in our area (Feb. 10).
 
-                        Jim Van Nuland
+Jim Van Nuland
+
+## Red Spot times
+| da mo | d  | h m |
+|-------|----|----|
+| M  2  | 7  | 7 41 PM |
+| W  2  | 9  | 9 20 PM |
+| F  2  | 11 | 10 59 PM|
+| Sa 2  | 12 | 6 51 PM |
+| M  2  | 14 | 8 30 PM |
+| W  2  | 16 | 10 9 PM |
+| Sa 2  | 19 | 7 39 PM |
+| M  2  | 21 | 9 18 PM |
+| Sa 2  | 26 | 8 28 PM |
+| M  2  | 28 | 10 7 PM |
+| Th 3  | 3  | 7 38 PM |
+
+## White spot
+| da mo | d  | h m |
+|-------|----|----|
+| Su 2  | 6  | 7 43 PM |
+| Tu 2  | 8  | 9 20 PM |
+| Th 2  | 10 | 10 57 PM|
+| F  2  | 11 | 6 48 PM |
+| Su 2  | 13 | 8 24 PM |
+| Tu 2  | 15 | 10 1 PM |
+| F  2  | 18 | 7 29 PM |
+| Su 2  | 20 | 9 6 PM  |
+| Tu 2  | 22 | 10 43 PM|
+| F  2  | 25 | 8 10 PM |
+| Su 2  | 27 | 9 47 PM |
+| W  3  | 2  | 7 15 PM |
+| F  3  | 4  | 8 52 PM |

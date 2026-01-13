@@ -1,13 +1,11 @@
 === PAGE 1 ===
-                                          sjaa
-
-[THIS IS IMAGE: Astrophotography of a nebula in star field, labeled "July 76 Bulletin"]
+# July 76 Bulletin
 
 === PAGE 2 ===
-                                          sjaa
+SAAL
 
-                                        Jack Zeiders
-                                        Editor
+Jack Zeiders
+Editor
 
 WHAT'S GOING ON IN THE CLUB:
 July 10: This is the deadline for returning your banquet
@@ -43,149 +41,173 @@ The 1976 Western Amateur Astronomers convention.
 August 27-28: Fremont Peak
 Another weekend star party sponsored by the A.A.N.C.
 
-Editors note:  The bulletin is looking for astrophotos, if you
+Editors note: The bulletin is looking for astrophotos, if you
 have any black and whites why not submit them?
-
-This month's  cover features a negative impression of John Gleason's
+This month's cover features a negative impression of John Gleason's
 Trifid shot. The original was a 45 minute exposure on 103af through
-a Celestron 8  at f/5.
+a Celestron 8 at f/5.
 
-Ads Infinitum:  Clayton Neece has an 8" Optical Craftsman for
+Ads Infinitum: Clayton Neece has an 8" Optical Craftsman for
 sale. It's a Discoverer model f/6.3 with a combination rack and pinion
-helical focus,2 eyepieces, barlow, and clock drive  for $350 and a
+helical focus,2 eyepieces, barlow, and clock drive for $350 and a
 copy of the Scalnate Pleiso Field atlas is included. Call 378-5574
 after 3:30 P.M.
 
 === PAGE 3 ===
-                                          sjaa
+# SJAA
 
 Introduction to "The Orbits of Visual Binary Stars" contributed by
 Gerry Rattley.
 
-From this month forward'Rattley' will almost totally be replaced
-by a series of articles under the title given above.  These articles
+From this month forward "Rattley" will almost totally be replaced
+by a series of articles under the title given above. These articles
 will contain orbital diagrams and ephemerides for many of the bright
-visual binary stars of interest to amateur astronomers.  Of course
+visual binary stars of interest to amateur astronomers. Of course I
 cannot do just any star in these articles, as only a few hundred of
 the many tens of thousands of known double stars have computed orbits
 that are known with any amount of accuracy at all and many of these
-are in reality only very rough guesses at best.  Therefore, I shall
-only choose the more interesting stars whose orbits I  have to run in
-these articles.  But don't dispare, as you shall see in the future,
+are in reality only very rough guesses at best. Therefore, I shall
+only choose the more interesting stars whose orbits I have to run in
+these articles. But don't dispare, as you shall see in the future,
 I have some pretty good stars to choose from.
 
 My references for the orbits that will be used in this series
 of articles are as follows:
-        1. "The Third Catalogue of the Orbits of Visual Binary
-           Stars", by W. S. Finsen & C. E. Worley, 1970.
-        2. "Atlas of the Heavens-II, Catalogue",
-           by Antonin Becvar, 1964.
+
+1. "The Third Catalogue of the Orbits of Visual Binary
+Stars", by W. S. Finsen & C. E. Worley, 1970.
+
+2. "Atlas of the Heavens-II, Catalogue",
+by Antonin Becvar, 1964.
 
 For those who wish to know more about how to use these orbits
 or how they are obtained from the orbital elements, I will be giving
 talks at the meetings from time to time and if enough people wish,
 I could easily give a full lecture on the subject at some future
-meeting.  If you can't wait that long or wish to investigate this
+meeting. If you can't wait that long or wish to investigate this
 subject on your own, you can obtain a copy of the reprint of the two
 part article that appeared in Sky & Telescope in January and February
-1974 titled "Some Bright Visual Binary Stars" by Jean Meeus.  This
+1974 titled "Some Bright Visual Binary Stars" by Jean Meeus. This
 reprint can be obtained either through the club or from Penninsula
 Scientific in Palo Alto.
 
-I hope you enjoy and can make these articles of some use.  I
+I hope you enjoy and can make these articles of some use. I
 have spent many hours and overcome, with the help of many friends,
 many problems in order to gain the experience to do them, but I
 have found much satisfaction in the efforts.
-                                        Astronomically Yours:
-                                        Gerald W. Rattley
 
+Astronomically Yours:
+Gerald W. Rattley
 
 Special Notice: club membership renewals are officially due
-this month.  Dues are currently set at $15.00 for membership if you
+this month. Dues are currently set at $15.00 for membership if you
 are over the age of 18, and $10.00 for junior membership, under 18.
 Send your dues along with your "yellow card" from Sky & Telescope
 to Gerry Rattley at 185 Homestead Rd. #2, Sunnyvale, Ca. 94087,
 or you can pay your dues at the July banquet or call Gerry at
-732-0202 if other arrangements are desired (we're flexible).  This
+732-0202 if other arrangements are desired (we're flexible). This
 is the last month to renew without the penilty of possibly missing
 an issue of Sky & Telescope, if that interests you.
 
 Make checks payable to "San Jose Amateur Astronomers".
 
 === PAGE 4 ===
-The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley
+The Orbits of Visual Binary Stars . . . contributed by Gerald W. Rattley
 
 Elements of the orbits as listed in the Third Catalogue of the Orbits
 of Visual Binary Stars by W. S. Finsen and C. E. Worley, 1970.
-star     1975 pos     P      e      a      °      °      authority
-name     RA    dec   yrs    YT           °      °      name           date
-ξ Sco 16 03  -11 18   46  1951  .74  0.72  37  348  202 P. Baize     1942
-η Sco 16 28  -26 22  900  1889  .00  3.21  86    0  273 W. D. Heintz 1960
+star    1975 pos    P      e      a      i    Ω    ω  authority
+name    RA   dcl   dec    yrs   YT           °    °    °  name        date
+ξ Sco 16 03  -11 18   46  1951  .74  0.72  37  348  202 P. Baize    1942
+α Sco 16 28  -26 22  900  1889  .00  3.21  86    0  273 W. D. Heintz 1960
 
-[THIS IS FIGURE: Orbital diagram and chart showing Xi Scorpii system with detailed descriptions and ephemeris data]
+[THIS IS FIGURE: Orbital diagram showing an ellipse with directional markers N, S, E, W and dates marked 1975, 1980, 1990, etc.]
 
 Ephemeris for ξ Scorpii:
-1975.0    1387°  1°24
-1977.5      17  1.25
-1980.0      21.0  1.19
-1982.5      25.0  1.13
-1985.0      29.7  1.04
-1987.5      35.5  0.91
-1990.0      43.5  0.75
-1992.5      57.1  0.53
-1995.0      94.5  0.27
-1997.5     231.5  0.20
-2000.0     308.2  0.39
-
+1975.0   137°  1'.24
+1977.5    17.2  1.23
+1980.0    21.0  1.19
+1982.5    25.0  1.13
+1985.0    29.7  1.04
+1987.5    35.5  0.91
+1990.0    43.5  0.75
+1992.5    57.1  0.53
+1995.0    94.5  0.27
+1997.5   231.5  0.20
+2000.0   308.2  0.39
 Ephemeris for α Scorpii:
-1975.0    275°  2°65
-1980.0    275.7  2.59
-1985.0    275.9  2.52
-1990.0    276.1  2.45
-1995.0    276.4  2.37
-2000.0    276.6  2.30
+1975.0   275°  2'.66
+1980.0   275.7  2.59
+1985.0   275.9  2.52
+1990.0   276.1  2.45
+1995.0   276.4  2.37
+2000.0   276.6  2.30
 
-[Additional detailed astronomical descriptions and data for Alpha Scorpii system]
+Xi Scorpii: Σ 1998 (ADS 9909): located
+9° north of β Scorpii, is a pretty triple
+system. The A and B components are both
+4.9 magnitude yellowish stars with F-type
+spectra. Because this pair has been ob-
+served through several revolutions, the
+orbit is very accurately known. Currently
+at maximum, this pair will rapidly close
+to minimum in 1996 after which it will
+again open to another maximum in 2020.
+This system is at a distance of 85 lt-yrs
+which makes the combined mass of the two
+stars about 34 solar masses and the aver-
+age separation between the two components
+of 19 a.u.(about the distance from the Sun
+to Uranus). Star C (7.2 mag, green: 44° at
+7'9: 1941) is in retrograde orbital motion
+with the A-B pair, with the separation
+increasing, but no orbit has as yet been
+computed. 281" south of A is a little fol-
+lowing ξ Scorpii is the double Σ 1999 (ADS
+9910: 99"4: Huss; Jelks) which shares C,9s mag
+with ξ, and itself has retrograde orbital
+motion between its 7.8 mag bluish primary
+and 8.1 mag yellowish secondary, though
+here too no orbit has as yet been computed.
+
+Alpha Scorpii: Grant (ADS 10074); this is
+Antares, a 1.2 magnitude, fiery red super-
+giant with a faint blue-green companion of
+magnitude 6.5: Seeing this companion can
+be very difficult except under the most
+favorable atmospheric conditions. This
+companion was first seen in 1819 by Rerg,
+and has since shown very little motion, so
+the orbit is still very doubtful, though
+the two stars are physically connected.
+Presently the companion is closing, and,
+according to Heintz, will be closest, 0"2
+in 2114 after which it will widen to 3"2
+east of the primary in 2339. Observing a
+lunar occultation of Antares in the morning
+skies can be a very rewarding experience!!!
+
+[THIS IS FIGURE: Orbital diagram showing elongated ellipse with directional markers and dates marked for α Scorpii, Antares Grant (ADS 10074)]
 
 === PAGE 5 ===
-                                          sjaa
+# 1976 BANQUET & INSTALLATION OF OFFICERS
 
-1976  BANQUET &
-INSTALLATION OF OFFICERS
+The banquet this year is at the Rancho Grand view, a rest raunt on the Mt. Hamilton road. The Club will be the only group there on monday, July 19th. Frank Holden will give a talk about the new telescope at Cerro Tellola.
 
+The dinners will cost 7.50 for adults and 3.75 for child ren. Included will be: soup, salid, chicken or rib roast,desert, and beverage.
 
-The banquet this year is at the Rancho Grand view, a
+The time to be there is 7:00 P.M. with dinner being served at 7:30. Please fill out the reservation slip below and return it to Gerry Rattley before July 10th. This is so we may inform the management of our needs.
 
-rest raunt on the Mt. Hamilton road. The club will be the
+[THIS IS FIGURE: Simple hand-drawn map showing route to Rancho Grand View via Mt. Hamilton Rd., with Alum Rock and Highway 680/101 marked]
 
-only group there on monday, July 19th. Frank Holden will
-
-give a talk about the new telescope at Cerro Tellola.
-
-The dinners will cost 7.50 for adults and 3.75 for
-
-child ren. Included will be: soup, salid, chicken or rib
-
-roast,desert, and beverage.
-
-The time to be there is 7:00 P.M. with dinner being
-
-served at 7:30. Please fill out the reservation slip below
-
-and return it to Gerry Rattley before July 10th. This is
-
-so we may inform the management of our needs.
-
-[THIS IS FIGURE: Simple hand-drawn map showing Mt. Hamilton Rd, Alum Rock, 680, and 101 with directional markers]
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Send to: Gerry Rattley 185 Homestead rd. #2, Sunnyvale 94087
 Please make all checks payable to the San Jose Amateur Astronomers
 
-NAME_________________________  AMOUNT INCLOSED $_________________
+NAME_________________________ AMOUNT INCLOSED $____________________
 
-NUMBER OF ADULTS_______   NUMBER OF CHILDFREN___________
-            @ $7.50                    @ $ 3.75
-CHOICE, CHICKEN______   ROAST_____  INDICATE HOW MANY PLEASE
-                    REMEMBER TO RETURN BY JULY 10 th
+NUMBER OF ADULTS_______ NUMBER OF CHIILDREN___________
+                @ $7.50                @ $ 3.75
+CHOICE, CHICKEN    ROAST    INDICATE HOW MANY PLEASE
+        REMEMBER TO RETURN BY JULY 10 th

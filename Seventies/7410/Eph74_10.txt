@@ -1,22 +1,24 @@
 === PAGE 1 ===
 SAN JOSE AMATEUR ASTRONOMERS
-                BULLETIN
-                                                Bob Malm, Editor
-                October      1974               (941-1343)
+BULLETIN
+                                                                Bob Malm, Editor
+                        October      1974                       (941-1343)
+
 SJAA Officers
 
-President: Tom Mungall          257-3262        Board members: Dave Erickson
-Vice-president: Brian Day       266-8690                       Tom Curtis      Bob Malm
-Treasurer: Jerry Rattley        732-0202                       A.B. Gregory
-Secretary: Norman Wild          252-8966                       Jim Van Nuland
-                                                               Jim Vermilion
+President: Tom Mungall        257-3262      Board members: Dave Erickson
+Vice-president: Brian Day     266-8690                     Tom Curtis      Bob Malm
+Treasurer: Jerry Rattley      732-0202                     A.B. Gregory
+Secretary: Norman Wild        252-8966                     Jim Van Nuland
+                                                           Jim Vermilion
 
 SPECIAL COMMENT: This month's issue is being mailed to you early because of the change
 in the date and location of this month's public star party. Please be sure to read about
 this in the coming events.
 
 RECENT ACTIVITIES: The Sept. 6 meeting was devoted to a discussion of the state-of-the-
-club, lead by Tom Mungall, followed by a talk on the jovian moon, Europa by Jim Vermilion. The discussion was devoted mostly to the problem of speakers for the general
+club, lead by Tom Mungall, followed by a talk on the Jovian moon, Europa by Jim Ver-
+milion. The discussion was devoted mostly to the problem of speakers for the general
 meetings. What should be the ratio between guest speakers and speakers who are members
 of the club? The question was not resolved. Jim's talk involved speculation on the
 surface features of Europa, the second of the Galilean satellites. Light curves of
@@ -35,7 +37,7 @@ up and some of these left hurriedly when their equipment began to drip. (The wea
 report indicated that the humidity approached 90% in some parts of the Bay Area.) Dave
 Erickson and Tom Mungall tried the Coe site after being "washed" out of the Skyline one
 and found good conditions at their second choice. Dave got some great pictures of the
-Pleiades, the Orion nebula, M 31 and other late evening objects. Some people are now
+Pleades, the Orion nebula, M 31 and other late evening objects. Some people are now
 pushing for Henry Coe State Park as our regular star party site. Besides the usually
 good viewing, the ranger is very cooperative and will let us have a location far removed
 from the campers and their lights.
@@ -47,7 +49,7 @@ at the K Mart in Santa Clara has been cancelled.
 Oct. 4 (Friday) 8 P.M. General meeting at Leininger Center. This will be a combination
 equipment and astro-slide night. If you wish to bring slides for showing, come a little
 early to give Jerry your slides. Between five and ten slides person is encouraged.
-To get to Leininger Center: (a) From Highway 101 turn west at the Story Road exit and
+To get to Leininger Center: (a) From highway 101 turn west at the Story Road exit and
 go a few miles, crossing McLaughlin Ave., and ultimately turning left at Senter Road. Go
 a few yards until you get to Kelly Park. Leininger Center is on the left. (b) From highway
 280, exit at 10th Street, go about four blocks and turn left at Keyes, then two blocks and
@@ -62,7 +64,7 @@ site.
 
 Oct. 19 (Saturday). Public star party at the Skyline site. Invitations have been sent to
 interested students of West Valley and De Anza Colleges as well as the general public. The
-moon sets at 9:20 P.M. on this date.(The Redspot can be seen at 10:34  plus and minus 1 1/2
+moon sets at 9:20 P.M. on this date.(The Redspot can be seen at 10:34 plus and minus 1 1/2
 hours.)
 
 Nov. 1 (Friday) 8 P.M. General meeting at Olinder Center. A guest speaker who was well
@@ -84,7 +86,7 @@ the planet's surface ahead of the Redspot. Good views also were had of the globu
 clusters, M 15 and M 56, the Veil nebula, M 1 (the Crab) nebula and the Auriga clusters
 M 36, M 37, M 38 and NGC 1907.
 
-TECHNICAL NOTES: Jim Van Nuland has  provided us with additional times when Jupiter's
+TECHNICAL NOTES: Jim Van Nuland has provided us with additional times when Jupiter's
 Redspot crosses the planet's meridian. Observations by your editor have confirmed some
 of last month's times. Times are in PDT:
 
@@ -92,67 +94,67 @@ October 2, 11:31; 5, 9:01; 7, 10:39; 12, 9:47; 13, 5:39 A.M.; 14, 11:26; 17, 8:5
 19, 10:34; 24, 9:42; 26, 11:20; 29, 8:50; 31 10:28. (All times are P.M. except the
 Oct. 13th time.
 
-Date and times of the  central meridian of the sun:
+Date and times of the central meridian of the sun:
 
 Oct. 1: 58.99; Oct. 11: 287.05; Oct. 21: 155.14; Oct. 31: 23.26.
 
 Jim's computer also has arranged the Messier Catalog in order of Right Ascension
 as follows (to be continued):
-                         The Messier Catalog
-                         NGC sequence, 1975 epoch
+                            The Messier Catalog
+                            NGC Sequence, 1975 epoch
 
-M    NGC    R.A.    Dec.  Chart  Con Mag  Type  Size  Description
+M    NGC    R.A.   Dec. Chart Con Mag Type Size Description
 
-110  205    0h39m +41°33' II     And  9   El.Gx  10x4'  Other companion of M31
-32   221    0 41   +40 44   II    And  9   El.Gx  2x4    Looks like globular
-31   224    0 41   +41 08   II    And  5   Sp.Gx  1x30   Andromeda Galaxy
-103  581    1 32   +60 35   II    Cas  7   Open   5'     Beautiful field
-33   598    1 33   +30 32   II    Tri  7   Sp.Gx  65x35  Large, faint, not easy
-74   628    1 35   +15 40   VI    Psc 10   Sp.Gx  10x9   Very large, faint
-76   650    1 40   +51 27   II    Per 12   P.Neb  2x1    Junior dumbbell
-34  1039    2 40   +42 40   II    Per  6   Open   18     Grand low power object
-77  1068    2 41   - 0 08   VI    Cet  9   Sp.Gx  6x5    Small, fuzzy
-45L 349     3 45   +24 03   VI    Tau  2   Open   100    The Pleiades
-79  1904    5 23   -24 33   XII   Lep  8   Glob   3      Fine resolvable globular
-38  1912    5 27   +35 49   II    Aur  7   Open   20     Cruciform cluster
-1   1952    5 33   +22 00   VII   Tau  8   P.Neb  6x4    Crab Nebula
-36  1960    5 34   +34 08   II    Aur  6   Open   12     Pretty; loose
-42  1976    5 34   - 5 24   VII   Ori  6   Neb    66x60  Orion Nebula; greatest
-43  1982    5 34   - 5 17   VII   Ori  9   Neb    20x15  Detached portion of M42
-78  2068    5 45   + 0 03   VII   Ori 10   Neb    8x6    Round spot
-37  2099    5 50   +32 33   II    Aur  6   Open   20     Magnificent
-35  2168    6 07   +24 20   VII   Gem  5   Open   40     Magnificent cluster
-41  2287    6 46   -20 44   VII   CMa  5   Open   30     Fine; central red star
-50  2323    7 02   - 8 18   VII   Mon  6   Open   16     Bright, w/red star
-47  2422    7 35   -14 25   VII   Pup  5   Open   25     Very bright cluster
-46  2437    7 41   -14 46   VII   Pup  6   Open   24     Beautiful, with nebula
-93  2447    7 43   -23 49   XIII  Pup  6   Open   25     Shaped like starfish
-48  2548    8 12   - 5 43   VII   Hya  5   Open   30     Nice
-44  2632    8 39   +19 47   VIII  Cnc  4   Open   95     Beehive; Praesepe
-67  2682    8 50   +11 54   VIII  Cnc  6   Open   15     Nice low power cluster
-81  3031    9 54   +69 11   I     UMa  8   Sp.Gx  21x10  Bright spiral
-82  3034    9 54   +69 49   I     UMa  9   Sp.Gx  9x4    In field w/M81
-95  3351   10 43   +11 50   VIII  Leo 10   Sp.Gx  6x4    Bright barred spiral
-96  3368   10 46   +11 57   VIII  Leo  9   Sp.Gx  5x4    A fine spiral
-105 3379   10 47   +12 43   VIII  Leo  9   Sp.Gx  2x2    Elliptical shape
-108 3556   11 10   +55 49   II    UMa 10   Sp.Gx  8x1    Dim, edge-on
-97  3587   11 13   +55 10   III   UMa 12   P.Neb  3x3    The Owl Nebula
-95  4023   11 10   +13 15   VIII  Leo  9   Sp.Gx  8x1    Lenticular galaxy
-66  3627   11 19   +13 09   VIII  Leo  8   Sp.Gx  8x2    In field with M65
-109 3992   11 56   +53 31   III   UMa 11   Sp.Gx  6x3    In bowl of dipper
-98  4192   12 13   +15 03   IX    Com 11   Sp.Gx  8x2    Long barred spiral
-99  4254   12 18   +14 34   IX    Com 10   Sp.Gx  5x4    Large, bright, interesting
-106 4258   12 18   +47 27   IV    CVn  7   Sp.Gx  20x7   Large, pear-shaped
-61  4303   12 21   + 4 37   IX    Vir 10   Sp.Gx  6x5    Round and bright
-100 4321   12 22   +15 58   IX    Com 11   Sp.Gx  5x4    Pinwheel spiral
-84  4374   12 24   +13 02   IX    Vir  9   El.Gx  1x1    Bright round galaxy
-85  4382   12 24   +18 20   IX    Com  9   El.Gx  2x2    Small
-86  4406   12 25   +13 05   IX    Vir 10   El.Gx  2x1    Small
-49  4472   12 29   + 8 08   IX    Vir  9   El.Gx  3x2    In Virgo Cloud
-87  4486   12 30   +12 32   IX    Vir  9   El.Gx  2x2    Small, bright
-88  4501   12 31   +14 34   IX    Com 10   Sp.Gx  5x2    Long, bright
-91  4548   12 34   +14 36   IX    Com 10   Sp.Gx  4x3    Faint barred spiral
-89  4552   12 34   +12 42   IX    Vir 10   El.Gx  1x1    Tiny
-40          12 34   +58 22   IV    UMa  2 stars          Yellow stars, dim
-90  4569   12 36   +13 16   IX    Vir 10   Sp.Gx  7x2    Small
-58  4579   12 36   +11 57   IX    Vir  9   Sp.Gx  4x3    In Virgo Cloud
+110  205    0h39m +41°33' II      And  9  El.Gx  10x4'  Other companion of M31
+32   221    0 41   +40 44   II     And  9  El.Gx  2x4    Looks like globular
+31   224    0 41   +41 08   II     And  5  Sp.Gx  1x3°   Andromeda Galaxy
+103  581    1 32   +60 35   II     Cas  7  Open   5'     Beautiful field
+33   598    1 33   +30 32   II     Tri  7  Sp.Gx  65x35  Very large, faint
+74   628    1 35   +15 40   VI     Psc 10  Sp.Gx  10x9   Very large, faint
+76   650    1 40   +51 27   II     Per 12  P.Neb  2x1    Junior dumbbell
+34  1039    2 40   +42 40   II     Per  6  Open   18     Grand low power object
+77  1068    2 41   - 0 08   VI     Cet  9  Sp.Gx  6x5    Small, fuzzy
+     349    3 45   +24 03   VI     Tau  2  Open   100    The Pleiades
+79  1904    5 23   -24 33   XII    Lep  8  Glob   3      Faint resolvable globular
+38  1912    5 27   +35 49   II     Aur  7  Open   20     Cruciform cluster
+1   1952    5 33   +22 00   VIII   Tau  8  P.Neb  6x4    Crab Nebula
+36  1960    5 34   +34 03   II     Aur  6  Open   12     Pretty, loose
+42  1976    5 34   - 5 24   VIII   Ori  6  Neb   65x60  Orion Nebula; greatest
+43  1982    5 34   - 5 17   VIII   Ori  9  Neb   20x15  Detached portion of M42
+78  2068    5 45   + 0 03   VIII   Ori 10  Neb   8x6    Round spot
+37  2099    5 50   +32 33   II     Aur  6  Open   20     Magnificent
+35  2168    6 07   +24 20   VII    Gem  5  Open   40     Magnificent cluster
+41  2287    6 46   -20 44   VI     CMa  5  Open   30     Fine; central red star
+50  2323    7 02   - 8 18   VII    Mon  6  Open   16     Bright, w/red star
+47  2422    7 35   -14 25   VII    Pup  5  Open   25     Very bright cluster
+46  2437    7 41   -14 46   VII    Pup  6  Open   24     Beautiful, with nebula
+93  2447    7 43   -23 49   XIII   Pup  6  Open   25     Shaped like starfish
+48  2548    8 12   - 5 43   VII    Hya  5  Open   30     Nice
+44  2632    8 39   +19 47   VIII   Cnc  4  Open   95     Beehive; Praesepe
+67  2682    8 50   +11 54   VIII   Cnc  6  Open   15     Nice low power cluster
+81  3031    9 54   +69 11   I      UMa  8  Sp.Gx  21x10  Bright spiral
+82  3034    9 54   +69 49   I      UMa  9  Sp.Gx  9x4    In field w/M81
+95  3351   10 43   +11 30   VII    Leo 10  Sp.Gx  6x4    Bright barred spiral
+96  3368   10 46   +11 57   VIII   Leo  9  Sp.Gx  5x4    A fine spiral
+105 3379   10 47   +12 43   VIII   Leo  9  Sp.Gx  2x2    Elliptical shape
+108 3556   11 10   +55 49   I      UMa 10  Sp.Gx  8x1    Dim, edge-on
+97  3587   11 13   +55 10   III    UMa 12  P.Neb  3x3    The Owl Nebula
+     4621   11 14   +13 15   VIII   Leo  9  Sp.Gx  8x1    Lenticular galaxy
+66  3627   11 19   +13 09   VIII   Leo  8  Sp.Gx  8x2    In field with M65
+109 3992   11 56   +53 31   III    UMa 11  Sp.Gx  6x3    In bowl of dipper
+98  4192   12 13   +15 03   IX     Com 11  Sp.Gx  8x2    Long barred spiral
+99  4254   12 18   +14 34   IX     Com 10  Sp.Gx  5x4    Large, bright, interesting
+106 4258   12 18   +47 27   IV     CVn  7  Sp.Gx  20x7   Large, pear-shaped
+61  4303   12 21   + 4 37   IX     Vir 10  Sp.Gx  6x5    Round and bright
+100 4321   12 22   +15 58   IX     Com 11  Sp.Gx  5x4    Pinwheel spiral
+84  4374   12 24   +13 02   IX     Vir  9  El.Gx  1x1    Bright round galaxy
+85  4382   12 24   +18 20   IX     Com  9  El.Gx  2x2    Small
+86  4406   12 25   +13 05   IX     Vir 10  El.Gx  2x1    Small
+49  4472   12 29   + 8 08   IX     Vir  9  El.Gx  3x2    In Virgo Cloud
+87  4486   12 30   +12 32   IX     Vir  9  El.Gx  2x2    Small, bright
+88  4501   12 31   +14 34   IX     Com 10  Sp.Gx  5x2    Long, bright
+91  4548   12 34   +14 36   IX     Com 10  Sp.Gx  4x3    Faint barred spiral
+89  4552   12 34   +12 42   IX     Vir 10  El.Gx  1x1    Tiny
+40         12 34   +58 22   IV     UMa     2 stars      Yellow stars, dim
+90  4569   12 36   +13 16   IX     Vir 10  Sp.Gx  7x2    Small
+58  4579   12 36   +11 57   IX     Vir  9  Sp.Gx  4x3    In Virgo Cloud

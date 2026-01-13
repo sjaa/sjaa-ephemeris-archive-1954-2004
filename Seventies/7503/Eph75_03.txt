@@ -1,22 +1,20 @@
 === PAGE 1 ===
 SAN JOSE AMATEUR ASTRONOMERS
-March
-1975          BULLETIN                                      BOB
-                                                            MALM
-                                                            EDITOR
+March BULLETIN **BAD
+1975 EDITOR**
 
-President: Tom Mungall          257-3262        Board members: Dave Erickson  Bob Malm-
-Vice-president: Brian Day       266-8690                       Tom Curtis
-Treasurer: Jerry Rattley        732-0202                       A.B. Gregory
-Secretary: Norman Wild          252-8966                       Jim Van Nuland
-                                                               Jim Vermilion
+President: Tom Mungall      257-3262    Board members: Dave Erickson Bob, We 1-
+Vice-president: Brian Day  266-8690                    Tom Curtis
+Treasurer: Jerry Rattley   732-0202                    A.B. Gregory
+Secretary: Norman Wild      252-8966                    Jim Van Nuland
+                                                        Jim Vermilion
 
 NOTE: As you can see, your Bulletin is dittoed again this month. When the club
 treasurer receives the next donation, the Bulletin will again become super black
-and white (Xerox) with creative color. In addition, the contributor
+and white (Xerox) with credits going to the donor. In addition, the contributor
 will be given a deed to a lot on Ganymede overlooking one of the most beautiful
 craters in the Solar System. Gerry Rattley made the first donation ($30) and was
-deeded the crater Galileo.
+described as the "best crater donator."
 
 RECENT ACTIVITIES: On February 7, 1975 there was another good turnout at the general
 meeting to hear some of the members impart interesting astronomical information.
@@ -24,22 +22,22 @@ Gerry Rattley continued his interesting series on deep-sky objects in the variou
 constellations with Gemini and Monoceros. Soon Gerry hopes to ditto off tables
 concerned with the chief objects to be seen in each constellation. Tom Curtis
 continued the meeting with a presentation of the Messier objects, based on a paper
-he had    prepared. His discussion was complete with slides and humor.
+he had    prepared.  His discussion was complete with slides and humor.
 
-Some  members were amazed that the Questar was able to record pictures of such
+Some members were amazed that the Questar was able to record pictures of such
 resolution and beauty until Tom admitted that the slides were taken at Mt. Palomar
 through the permanent instrument there. Don Albers then did a pitch for the
 Astronomical Society of the Pacific, its advantages and privileges, and then spent
-several minutes attempting to convince   us that he was not an agent of that organ-
-isation. The remainder of the evening was  spent informally, reminiscent of the
-meetings at the Community Bank. Incidentally, the   Olinder auditorium where we
+several minutes attempting to convince    us that he was not an agent of that organ-
+ization. The remainder of the evening was spent informally, reminiscent of the
+meetings at the Community Bank. Incidentally, the    Olinder auditorium where we
 meet is now divided off so that the gather is in a smaller, more intimate setting
 (and warmer, too, I might add).
 
 The star party of February 15, 1975 was not well attended, probably due to the
-"wind-tunnel"      effect noticed a month earlier and the expected mire after the
+"wind-tunnel"       effect noticed a month earlier and the expected mire after the
 recent rains. I am happy to report that neither the wind nor the    mire proved to
-develop, much to the delight of the members. There was a little breeze which
+develope, much to the delight of the nine who came. There was a little breeze which
 came up after midnight, but this was no problem. It was cold, however, but it
 occasionally gets cold during the winter season and one has to accept certain things.
 When the low temperature finally got to the viewers, they piled into Jim Van Nuland's
@@ -50,16 +48,16 @@ effects of the atmosphere. "Glorious"and"fantastic" were among    the adjectives
 reported to yours truly.
 
 COMING EVENTS: March 7, 1975, 7:30 P.M. at Olinder Center: general meeting. Jim
-               Vermilion will lecture on his 15" telescope. In addition it will be
-               bring-your-own-slides night.  Bring as many as you want but give your
-               five or six best to Gerry. If he needs more, he will let you know.
-               Gerry will also discuss the constellation Virgo.
+            Vermilion will lecture on his 15" telescope. In addition it will be
+            bring-your-own-slides night. Bring as many as you want but give your
+            five or six best to Gerry. If he needs more, he will let you know.
+            Gerry will also discuss the constellation Virgo.
 
-               March 15, 1975: Star party at Henry Coe State Park.
+            March 15, 1975: Star party at Henry Coe State Park.
 
-               March 14, 1975, 8 P.M.: Board meeting at Jim Van Nuland's home. Jim
-               will give instructions on how to find his place at the meeting. Remember,
-               all members are invited to board meetings should they so desire.
+            March 14, 1975, 8 P.M.: Board meeting at Jim Van Nuland's home. Jim
+            will give instructions on how to find his place at the meeting. Remember,
+            all members are invited to board meetings should they so desire.
 
 NEWS NOTE: The Riverside Telescope Makers convention will NOT be held at Idylwild as
 previously announced. Instead it will be held at Bear Valley near Lake Arrowhead in the
@@ -68,18 +66,19 @@ Angeles National Forest. For    more details come to the meeting.
 TECHNICAL NOTES: Have you every wondered how composite magnitudes (magnitudes of multiple
 stars, clusters, etc.) are calculated? Your editor stumbled across the following formula
 while playing with his Commodore calculator:
-    1             1           1
-────────── = ────────  + ──────      where mc is the composite magnitude, m1 is the
-2.512mc      2.512m1     2.512m2     apparent magnitude of the first star   and m2,
-                                     the magnitude of the second star.  The formula
+
+      1           1              1
+   -------  =  ------- + -------      where mc is the composite magnitude, m₁ is the
+   2.512^mc    2.512^m₁   2.512^m₂    apparent magnitude of the first star  and m₂,
+                                      the magnitude of the second star. The formula
 may be extended indefinitely for systems with many members.
 
-EXAMPLE:  WHAT IS THE COMBINED  MAGNITUDE  OF A  BINARY  IN
-  WHICH  BOTH  COMPONENTS  HAVE  MAGNITUDES  OF  2.0?
+EXAMPLE: WHAT COMBINED MAGNITUDE OF A BINARY IN
+IN WHICH BOTH COMPONENTS HAVE MAGNITUDES OF 4.0?
+SOLUTION:
+         1           1              1        1      1
+      -------  =  ------- + -------  = ----- + ----- = 0.3170
+      2.512^m     2.512^4.0   2.512^4.0   6.310   6.310
 
-SOLUTION:    1            1           1
-           ────── = ──────────  + ──────── = 0.3170
-           2.512mc   2.512m1x2     6.310    6.310
-
-TAKE RECIPROCALS:  2.512mc = 3.155  → m1 = log 3.155 = 1.25
-                                            log 2.512
+TAKE RECIPROCALS:    2.512^m = 3.155 → m₁ = log 3.155 = 1.125
+                                             LOG 2.512

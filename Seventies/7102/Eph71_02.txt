@@ -10,17 +10,17 @@ Treas: J. Emmet Murphy 287-6378
 
 BOARD MEMBERS
 
-1969-71                            1970-72
-Dr. K.B. Gregory 258-6095         David Erickson 269-4838
-Thomas Halliday 296-3169          Clayton Neece 378-5574
-Trudy E. Bell 244-1096            Bruce Smith 244-6769
-Michael Szudy 867-4068            J. Emmet Murphy 287-6378
+1969-71                                    1970-72
+Dr. K.J. Gregory 258-6095                  David Erickson 269-4838
+Thomas Halliday 296-3169                   Clayton Neece 378-5574
+Trudy E. Bell 244-1096                     Bruce Smith 244-6769
+Michael Szudy 867-4068                     J. Emmet Murphy 287-6378
 Donald Summers 296-1766
 
 Librarian: Bruce Smith 244-6769
 Director of Circulation: David Ambrose 269-8262
 Bulletin Contributers: Dwight Leu 867-0533
-                       Joel Frantz 248-3880
+                       Joel Frantz 248-3690
 Bulletin Coordinator: Richard Glasspool 379-1407
 Bulletin Typist: Barbara Glasspool
 
@@ -28,19 +28,20 @@ Bulletin Typist: Barbara Glasspool
 The San Jose Amateur Astronomers wish to extend a hearty
 welcome to its newest members. The events we have planned for
 1971 are many and range from star parties to planned lectures.
-The rapid exchange of ideas         represents an essential
+The rapid exchange of ideas        represents an essential
 characteristic that the club is proud of. Every member is
 encouraged to participate in each event, be it a planning
 meeting, star party, or regular meeting. Our board of
 directors is going to work hard for you this year and hopes
 that you enjoy your astronomy to its fullest.
 
+
 FEBRUARY MEETING - Amateur Speaker
 
 Date & Time: Friday, February 5, 8p.m.
 Location: Community Bank, 111 W. St. John, 2nd Floor
-Executive Conference Room (enter Community Bank
-from the rear)
+         Executive Conference Room (enter Community Bank
+         from the rear)
 
 Bruce Smith will speak on "Variations in the earth's
 magnetic field and its relationship to earthquakes." In
@@ -63,11 +64,11 @@ Call Dave 269-4838 for directions or rides.
 
 PLANNING MEETING - Friday, February 12, 8 p.m.
 
-Meet at Bruce Smith's, 906 Burbank Dr., Apt #21, Santa
-Clara. Go upstairs to the south wing. Call 244-6769 for
+Meet at Bruce Smith's, 906 Burbank Dr, Apt #21, Santa
+Clara. Go upstairs to the squth wing. Call 244-6769 for
 directions. The observatory work parties will be discussed.
 
-Due to Sky and Telescopes increased rates, the San Jose Amateur
+Due to Sky and Telescope's increased rates, the San Jose Amateur
 Astronomers will be forced to also increase its dues. This
 coming June, the membership dues will be $10.00 for the year.
 Contributing member's fees will remain at $15.00.
@@ -78,33 +79,33 @@ Dwight Leu before the planning meeting at 867-0533. The
 bulletin will continue to be published the week following each
 board meeting.
 
-FOR SALE - OPTICA FINDER-GUIDE SCOPE. 25x50 with diagonal and
+FOR SALE - QPTICA FINDER-GUIDE SCOPE. 25x50 with diagonal and
 brackets, reticle eyepiece. 253-6095
 
 FOR SALE - 6" reflecting telescope, f/10, with clock drive.
 Shown at November equipment night. With or without mount.
-Dave Erickson made the mirror. Make Offer. Contact Mike
+Dave Erickson made the mirror. Make offer. Contact Mike
 Szudy at 867-4068
 
-Immediate needs for the observatory are 2x4s, 4x6s, etc. for
+Immediate needs for the observatory are 2x4s, 4x8s, etc. for
 the roof.
 
 MID-YEAR NEW MEMBERS (complete membership list will appear in Aug)
 
 Chapman, Randy         1650 Rocky Mountain Dr, Milpitas 95035
-                                                    263-1943
+                                                         263-1943
 Day, Bill E.           1441 Pinehurst Dr, S.J.95118    264-9720
-Hague, Ron             1097 Nottingham Pl, S.J. 95117  246-7707
-Kruse, Steve           1247 Washoe Dr, S.J. 95120      264-6346
-Maurer, Brian          1254 Washoe Dr, S.J. 95120      269-8309
-Merritt, David         1211 Becket Dr, S.J. 95121      225-5460
-Vaughan, Clifford R., Jr. 4372 Indigo Dr, SJ. 95136   264-3321
-Yamate, Winston        3553 Amber Dr, S.J. 95117       248-9797
-Zumbrunnen, John       20412 Chalet Ln, Saratoga 95070 867-1262
+Hague, Ron             1097 Nottingham Pl, S.J. 95117   246-7707
+Kruse, Steve           1247 Washoe Dr, S.J. 95120       264-6346
+Maher, Brian           1254 Washoe Dr, S.J. 95120       269-8309
+Merritt, David         1211 Becket Dr, S.J. 95121       225-5460
+Vaughan, Clifford R., Jr. 4372 Indigo Dr, SJ, 95136    264-3321
+Yamate, Winston        3553 Amber Dr, S.J. 95117        248-9797
+Zumbrunnen, John       20412 Chalet Ln, Saratoga 95070  867-1262
 
 Change of Address:
 Wollan, Craig A.       2302 Carlmont Dr, Apt. 3, Belmont 94002
-                                                    593-1945
+                                                         593-1945
 
 === PAGE 3 ===
 -3-
@@ -113,53 +114,51 @@ JANUARY
 
 Culmination for Messier Objects - 10 p.m. Local Mean Time
 
-Key: G.N.,      Gaseous Nebulae
-     GAL.C.,    Galactic Clusters
-     P.N.,      Planetary Nebulae
-     GLOB.C.,   Globular Clusters
-     G.,        Galaxies
+key: G.N., Gaseous Nebulae
+GAL.C., Galactic Clusters
+P.N., Planetary Nebulae
+GLOB.C., Globular Clusters
+G., Galaxies
 
-DATE   OBJECT(S)    CLASS         MAGNITUDE
+DATE    OBJECT(S)    CLASS         MAGNITUDE
 
-1-11   M79         GLOB.C.        7.5
-1-12   M38         GAL.C          -
-1-14   M1          P.N.           11.3
-       M36         GAL.C.         -
-       M42         G.N.           -
-       M43         G.N.           -
-1-17   M78         G.N.           -
-1-18   M37         GAL.C.         -
-1-22   M35         GAL.C.         -
-
+1-11    M79          GLOB.C.       7.5
+1-12    M38          GAL.C         -
+1-14    M1           P.N.          11.3
+        M36          GAL.C.        -
+        M42          G.N.          -
+        M43          G.N.          -
+1-17    M78          G.N.          -
+1-18    M37          GAL.C.        -
+1-22    M35          GAL.C.        -
 
 FEBRUARY
 
-DATE   OBJECT(S)    CLASS         MAGNITUDE
+DATE    OBJECT(S)    CLASS         MAGNITUDE
 
-2-2    M41         GAL.C.         -
-2-6    M50         GAL.C.         -
-2-14   M47         GAL.C.         -
-2-15   M46         GAL.C.         -
-2-16   M93         GAL.C.         -
-2-23   M48         GAL.C.         -
-
+2-2     M41          GAL.C.        -
+2-6     M50          GAL.C.        -
+2-14    M47          GAL.C.        -
+2-15    M46          GAL.C.        -
+2-16    M93          GAL.C.        -
+2-23    M48          GAL.C.        -
 
 SIDERAL TIME CONVERSION CHART FOR FEBRUARY
 
 FEB. 1 4h 48min  FEB.15 5h 43m  Listed is the Sideral Time for
-     2 4  52         16 5  47   8p.m. PST Meridian (120° west
-     3 4  56         17 5  51   Longitude) for February. To get
-     4 5  00         18 5  55   Sideral Time for San Jose,
-     5 5  04         19 5  59   subtract 7 minutes from time
-     6 5  07         20 6  03   listed. Example:8p.m. Feb. 1 in
-     7 5  11         21 6  07   San Jose is 4h 41m Sideral Time.
-     8 5  15         22 6  11   For every 2 hours past 8p.m. add
-     9 5  19         23 6  14   30 seconds, Example: at 11p.m. on
-    10 5  23         24 6  18   Feb 5 the Sideral Time for San
-    11 5  27         25 6  22   Jose is 4h 57 m and 30 sec. (from
-    12 5  31         26 6  26   subtracting 7min from 5 hrs 4 min
-    13 5  35         27 6  30   and adding 30 sec)
-    14 5  39         28 6  34
+   2 4  52         16 5  47      8p.m. PST 120th Meridian (120° west
+   3 4  56         17 5  51      Longitude) for February. To get
+   4 5  00         18 5  55      Sideral Time for San Jose,
+   5 5  04         19 5  59      subtract 7 minutes from time
+   6 5  07         20 6  03      listed. Example:8p.m. Feb. 1 in
+   7 5  11         21 6  07      San Jose is 4h 41m Sideral Time.
+   8 5  15         22 6  11      For every 2 hours past 8p.m. add
+   9 5  19         23 6  14      30 seconds, Example: at 11p.m. on
+  10 5  23         24 6  18      Feb 5 the Sideral Time for San
+  11 5  27         25 6  22      Jose is 4h 57 m and 30 sec. (from
+  12 5  31         26 6  26      subtracting 7min from 5 hrs 4 min
+  13 5  35         27 6  30      and adding 30 sec)
+  14 5  39         28 6  34
 
 === PAGE 4 ===
 SAN JOSE AMATEUR ASTRONOMERS
