@@ -1,0 +1,67 @@
+{
+  "articles": [
+    {
+      "id": "eph75-09-bulletin",
+      "documentId": "eph75-09",
+      "title": "BULLETIN",
+      "summary": "This September 1975 bulletin from an amateur astronomy club announces new officers and board members, and highlights recent astronomical events including the co-discovery of Comet 1975-h by club members and a personal account of observing Nova Cygni. It recaps past club activities like star parties and general meetings, noting attendance and technical talks given. The bulletin concludes with a schedule of upcoming club events, including general meetings, star parties, and a board meeting.",
+      "categories": [
+        "Club Bulletin",
+        "News",
+        "Observing Reports",
+        "Events",
+        "Technical Talks",
+        "Club Administration"
+      ],
+      "keywords": [
+        "Amateur Astronomy",
+        "Club Officers",
+        "Comet 1975-h",
+        "Nova Cygni 1975",
+        "Star Parties",
+        "General Meetings",
+        "Observing Reports",
+        "Astronomy Events",
+        "Telescope Technology"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph75-09-constitutional-revision",
+      "documentId": "eph75-09",
+      "title": "CONSTITUTIONAL REVISION:",
+      "summary": "This document outlines proposed constitutional revisions for the San Jose Amateur Astronomers, dated August 1975. The amendments detail changes to officer election procedures, adjustments to the frequency and calling of Board of Directors meetings, and the addition of specific qualifications and termination conditions for Board membership. These revisions aim to clarify existing bylaws and add new provisions for organizational governance.",
+      "categories": [
+        "Organizational Policy",
+        "Bylaws Revision",
+        "Governance Document",
+        "Administrative"
+      ],
+      "keywords": [
+        "Constitutional Revision",
+        "Bylaws",
+        "Amendments",
+        "Board of Directors",
+        "Officers",
+        "Membership",
+        "Elections",
+        "Meetings",
+        "Qualifications",
+        "San Jose Amateur Astronomers",
+        "1975"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7509/Eph75_09.pdf",
+      "txtPath": "7509/Eph75_09.md"
+    }
+  ]
+}

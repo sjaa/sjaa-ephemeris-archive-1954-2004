@@ -1,0 +1,95 @@
+{
+  "articles": [
+    {
+      "id": "eph79-05un-predictions",
+      "documentId": "eph79-05un",
+      "title": "Predictions",
+      "summary": "This document provides a schedule of astronomical events and club activities from late April through June 1979. It lists AANC-sponsored and club star parties, general meetings featuring guest speakers on topics like the Space Shuttle and club elections, and board of directors meetings. Notable events include the Riverside Telescope Makers Conference and various observing opportunities.",
+      "categories": [
+        "Events",
+        "Club Meetings",
+        "Star Parties",
+        "Conferences",
+        "Announcements"
+      ],
+      "keywords": [
+        "Astronomical Events",
+        "Star Parties",
+        "General Meetings",
+        "Board Meetings",
+        "Space Shuttle",
+        "Riverside Telescope Makers Conference",
+        "Club Elections",
+        "Fremont Peak",
+        "Sanborn Canyon",
+        "Henry Coe State Park",
+        "Rosicrucian Planetarium",
+        "San Jose Astronomical Observation",
+        "AANC",
+        "1979"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph79-05un-editorial",
+      "documentId": "eph79-05un",
+      "title": "Editorial",
+      "summary": "Penny E. Panehmia, editor of the San Jose Astronomical Association's (SJAA) club bulletin, announces her resignation after 20 issues, detailing a two-week conflict stemming from a new bulletin format and her editorial policy. An unauthorized meeting of board members criticized her work and issued an ultimatum, leading to the withdrawal of support from the Wakanta Longhorn Breeders Association (WLBA). The editorial expresses her profound hurt, the breakdown of club harmony, and a plea for more transparent communication within the club.",
+      "categories": [
+        "Editorial",
+        "Club Politics",
+        "Organizational Conflict",
+        "Member Relations"
+      ],
+      "keywords": [
+        "Resignation",
+        "Club Bulletin",
+        "Editorial Policy",
+        "SJAA",
+        "Board Conflict",
+        "Amateur Astronomy",
+        "Internal Dispute",
+        "Mediation",
+        "Club Governance"
+      ],
+      "pageStart": 3,
+      "pageEnd": 19
+    },
+    {
+      "id": "eph79-05un-short-little-things",
+      "documentId": "eph79-05un",
+      "title": "Short Little Things",
+      "summary": "An article announces the suspension of the eclipse publication due to a loss of funding and explains a new, more condensed publication format designed to save space and money. Additionally, it features classified advertisements for an Edmond 8-inch reflector telescope and a 1964 Mercury Montclair car.",
+      "categories": [
+        "news",
+        "publication update",
+        "classifieds",
+        "astronomy equipment",
+        "automotive"
+      ],
+      "keywords": [
+        "funding loss",
+        "eclipse publication",
+        "new format",
+        "space efficiency",
+        "cost savings",
+        "reflector telescope",
+        "spectroscope",
+        "Mercury Montclair",
+        "used car"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph79-05un",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7905/Eph79_05Un.pdf",
+      "txtPath": "7905/Eph79_05Un.md"
+    }
+  ]
+}

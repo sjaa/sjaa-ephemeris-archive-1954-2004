@@ -1,0 +1,481 @@
+{
+  "articles": [
+    {
+      "id": "eph78-10-october-in-the-year-1978",
+      "documentId": "eph78-10",
+      "title": "OCTOBER IN THE YEAR 1978",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) event schedule for October 1978, including some late September and early November dates. It details various star parties at locations like Fremont Peak and Sanborn Canyon, multiple indoor star parties, and general meetings at the Rosicrucian Planetarium featuring movie presentations. Key activities included screenings of \"The Universe\" and a double star movie, alongside Board of Directors meetings and a Halloween costume party.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Newsletter",
+        "Historical Document"
+      ],
+      "keywords": [
+        "October 1978",
+        "San Jose Astronomical Association",
+        "Star Party",
+        "General Meeting",
+        "Board Meeting",
+        "Fremont Peak",
+        "Sanborn Canyon",
+        "Rosicrucian Planetarium",
+        "Indoor Star Party",
+        "Movie Night",
+        "Astronomy Events",
+        "Gerry Rattley",
+        "AANC",
+        "Double Stars",
+        "Equipment Night"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph78-10-discovery-of-a-new-variable-star",
+      "documentId": "eph78-10",
+      "title": "DISCOVERY OF A NEW VARIABLE STAR",
+      "summary": "Sheila Mac Dougal reports the discovery of a new variable star during observations at Fremont Peak. The object exhibits extreme magnitude variations (Mv -4.9 to Mv 12) with a 1-second period, anomalous eastward motion relative to the celestial sphere, and complex internal structure, leading the observer to speculate about its unusual nature and potential RF emissions. The document also includes corrections to previous reports and an organizational note.",
+      "categories": [
+        "observing report",
+        "astronomical discovery",
+        "news",
+        "technical analysis (of observed object)",
+        "newsletter content"
+      ],
+      "keywords": [
+        "variable star",
+        "astronomical observation",
+        "Fremont Peak",
+        "visual magnitude",
+        "rapid variability",
+        "unusual object",
+        "RF energy",
+        "Sheila Mac Dougal",
+        "celestial mechanics"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph78-10-editorial",
+      "documentId": "eph78-10",
+      "title": "EDITORIAL",
+      "summary": "This editorial criticizes the club's Board of Directors for a perceived lack of leadership and direction, citing an unproductive recent meeting where little was accomplished. The author contends that progress currently relies on individual initiative rather than club projects, with decisions being made by a select few, and advocates for greater member participation.",
+      "categories": [
+        "Editorial",
+        "Club Governance",
+        "Member Engagement",
+        "Opinion"
+      ],
+      "keywords": [
+        "Leadership",
+        "Board of Directors",
+        "Club Governance",
+        "Decision Making",
+        "Member Participation",
+        "Meeting Effectiveness"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-perils-of-penny-and-her-petty-publishing-problems",
+      "documentId": "eph78-10",
+      "title": "Perils of Penny and her Petty Publishing Problems",
+      "summary": "The article details Editor Penny's frustrating experience with printing the club's Bulletin, which suffered from poor quality and high cost, especially on her first anniversary. It also announces several club updates, including a call for birthday submissions, the rescheduling of the Halloween party to October 21st to avoid conflicts, and the relocation of the annual equipment night to a Red Cross facility due to better accessibility.",
+      "categories": [
+        "Club News",
+        "Administrative Issues",
+        "Events Planning"
+      ],
+      "keywords": [
+        "Bulletin publishing",
+        "Printing problems",
+        "Halloween party",
+        "Equipment night",
+        "Event scheduling",
+        "Club announcements",
+        "Editor's Note"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph78-10-rattley-rattles",
+      "documentId": "eph78-10",
+      "title": "Rattley Rattles",
+      "summary": "The club president's message outlines plans for a charter plane flight to view the February 26, 1979 total solar eclipse, detailing the $16,000 cost for a 42-window DC-8 and urging members to express interest immediately to secure seats and split costs. Additionally, the president announces the club's decision not to join the Astronomical League due to its high $60 annual dues, deeming it less beneficial than other regional associations.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Club News",
+        "Observing Trip",
+        "Organizational Matters"
+      ],
+      "keywords": [
+        "Total Eclipse",
+        "February 26, 1979",
+        "Charter Flight",
+        "Eclipse Viewing",
+        "Astronomical League",
+        "Club Membership",
+        "DC-8",
+        "San Francisco Airport",
+        "WAA",
+        "AANC"
+      ],
+      "pageStart": 5,
+      "pageEnd": 185
+    },
+    {
+      "id": "eph78-10-history",
+      "documentId": "eph78-10",
+      "title": "History",
+      "summary": "The article recounts two star parties at Fremont Peak. The first, an AANC-sponsored Friday night event, was sparsely attended but featured exceptionally good seeing, allowing Ed to complete a significant portion of his binocular Messier survey. The subsequent Sept. 2 club star party, held on Labor Day weekend, saw better attendance from SJAA members, despite minor incidents like a parking dispute and a new ranger's presence.",
+      "categories": [
+        "Observing Reports",
+        "Club Events",
+        "Astronomy Activities",
+        "Field Reports"
+      ],
+      "keywords": [
+        "Star party",
+        "Fremont Peak",
+        "AANC",
+        "SJAA",
+        "Messier objects",
+        "Observing conditions",
+        "Seeing",
+        "Binocular astronomy",
+        "Labor Day weekend"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-report-of-september-9-general-meeting",
+      "documentId": "eph78-10",
+      "title": "Report of September 9 general meeting",
+      "summary": "This report details a September 9 general meeting featuring announcements, a deep sky tour, and member-shared astrophotography slides. It also covers an AANC Board meeting that evolved into a surprise celebration for Don Machholz's comet discovery, including cake and a presentation. Additionally, the article describes an unusual 'indoor star party' combining bubble-blowing with discussions on theoretical physics, and a successful lunar graze event.",
+      "categories": [
+        "General Meeting Report",
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Comet Discovery",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "General meeting",
+        "Club activities",
+        "Don Machholz",
+        "Comet discovery",
+        "Astrophotography",
+        "Deep sky tour",
+        "Indoor star party",
+        "Lunar graze",
+        "AANC Board of Directors",
+        "Hydrogenating film"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-new-line-of-cap-screws",
+      "documentId": "eph78-10",
+      "title": "NEW LINE OF CAP SCREWS",
+      "summary": "The article announces a new line of cap screws specifically designed to address issues with misaligned holes. These innovative fasteners provide solutions for both newly drilled holes that don't perfectly line up and pre-drilled holes that still present alignment challenges. The design appears to offer flexibility or compensation for various degrees of misalignment, indicating a focus on ease of assembly and overcoming common manufacturing hurdles.",
+      "categories": [
+        "Product Announcement",
+        "Industrial Hardware",
+        "Fasteners",
+        "Engineering",
+        "Manufacturing"
+      ],
+      "keywords": [
+        "Cap screws",
+        "Fasteners",
+        "Misaligned holes",
+        "Alignment solutions",
+        "Industrial components",
+        "Hardware innovation",
+        "Assembly",
+        "Drilling"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph78-10-comet-comets",
+      "documentId": "eph78-10",
+      "title": "COMET COMETS",
+      "summary": "This article, dated September 21, 1978, details three comets available for observation in October: Periodic Comet Ashbrook-Jackson (1977g), Periodic Comet Haneda-Campos (1978j), and Comet Machholz. It provides specifics on their magnitudes, locations, orbital characteristics, and discovery circumstances, noting the challenge of observing these often faint objects. The piece also highlights the dedication of amateur comet hunters like Don Machholz and discusses the puzzling brightness variations of Comet Haneda-Campos.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Comet Discovery",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet observation",
+        "Periodic Comet Ashbrook-Jackson (1977g)",
+        "Periodic Comet Haneda-Campos (1978j)",
+        "Comet Machholz",
+        "Comet discovery",
+        "Amateur comet hunting",
+        "Magnitude",
+        "Perihelion",
+        "October 1978"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph78-10-comet-machholz-by-don-machholz",
+      "documentId": "eph78-10",
+      "title": "COMET MACHHOLZ by Don Machholz",
+      "summary": "Don Machholz recounts his dedicated comet hunting journey, detailing his systematic approach, custom equipment, and the challenges of observing under various conditions. The narrative culminates with his discovery of a faint diffuse object on September 12, 1978, during his 691st session, which would later be known as Comet Machholz.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Comet Discovery",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet Machholz",
+        "Don Machholz",
+        "Comet hunting",
+        "Amateur astronomy",
+        "Astronomical observation",
+        "Telescope",
+        "Loma Prieta",
+        "Discovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-i-was-excited",
+      "documentId": "eph78-10",
+      "title": "I was excited!",
+      "summary": "An amateur astronomer recounts the thrilling discovery of a potential comet, meticulously detailing the steps taken to rule out other possibilities, such as stars, nebulae, or glare. After confirming its movement over two nights, the astronomer reported the 'possible comet' to the Smithsonian Astrophysical Observatory and anxiously awaited professional confirmation of the find.",
+      "categories": [
+        "observing report",
+        "personal account",
+        "discovery",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "comet discovery",
+        "amateur astronomer",
+        "celestial observation",
+        "star charts",
+        "NGC catalogue",
+        "Smithsonian Astrophysical Observatory",
+        "astronomical verification"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph78-10-comet-discovery-document",
+      "documentId": "eph78-10",
+      "title": "Comet Discovery Document",
+      "summary": "This document details the exciting discovery and confirmation of Comet Machholz, 1978i, by the author. It recounts the initial observations, the process of seeking confirmation from fellow astronomers and institutions like the Smithsonian Observatory, and the subsequent rush of media attention including live TV broadcasts and numerous interviews. The author reflects on the personal experience of comet hunting, its costs, and the transient nature of public fame following such a discovery.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Reports",
+        "Personal Account",
+        "Amateur Astronomy",
+        "Media Coverage"
+      ],
+      "keywords": [
+        "Comet Machholz 1978i",
+        "Comet discovery",
+        "Comet hunting",
+        "Astronomical observation",
+        "Media attention",
+        "Smithsonian Observatory",
+        "Edgar Everhart",
+        "Retrograde orbit"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph78-10-circular-no-3267",
+      "documentId": "eph78-10",
+      "title": "Circular No. 3267",
+      "summary": "This document represents Circular No. 3267, issued by the Central Bureau for Astronomical Telegrams under the International Astronomical Union. It primarily provides the bureau's official contact information, including its postal address at the Smithsonian Astrophysical Observatory in Cambridge, MA, along with TWX and telephone numbers.",
+      "categories": [
+        "Astronomical Communications",
+        "Bureau Information",
+        "Official Announcements"
+      ],
+      "keywords": [
+        "Circular No. 3267",
+        "Central Bureau for Astronomical Telegrams",
+        "International Astronomical Union",
+        "IAU",
+        "Astronomical communication",
+        "Contact information",
+        "Smithsonian Astrophysical Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-comet-machholz-1978k",
+      "documentId": "eph78-10",
+      "title": "COMET MACHHOLZ (1978k)",
+      "summary": "This document reports the discovery of Comet Machholz (1978k) by Don E. Machholz of Los Gatos, California, on September 12, 1978. It includes initial observational data from Machholz himself, as well as H. E. Schuster and E. Everhart, detailing the comet's celestial coordinates, estimated magnitude (around 10.7-11), and initial description noting its faintness, lack of condensation, and absence of a tail.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Report",
+        "Astronomy News",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Comet Machholz (1978k)",
+        "Don E. Machholz",
+        "comet discovery",
+        "astronomical observations",
+        "celestial coordinates",
+        "magnitude",
+        "1978"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-periodic-comet-haneda-campos-1978j",
+      "documentId": "eph78-10",
+      "title": "PERIODIC COMET HANEDA-CAMPOS (1978j)",
+      "summary": "This article provides updated precise astrometric positions for Periodic Comet Haneda-Campos (1978j) from observations made by D. Herald and M. L. Giclas on September 2 and 8, 1978. It also includes a total visual magnitude estimate of 9.9 by C. S. Morris on September 10, 1978. The data details celestial coordinates and observer information.",
+      "categories": [
+        "observing reports",
+        "cometary astronomy",
+        "astronomical observations"
+      ],
+      "keywords": [
+        "Periodic Comet Haneda-Campos",
+        "1978j",
+        "comet",
+        "astrometric positions",
+        "celestial coordinates",
+        "visual magnitude",
+        "observation data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-nova-cygni-1978",
+      "documentId": "eph78-10",
+      "title": "NOVA CYGNI 1978",
+      "summary": "An optical spectrum of Nova Cygni 1978 was obtained on Sept. 13.23 UT, revealing P-Cygni lines, broad H and K absorption with weaker emission components, and other weak emissions/absorptions. The Balmer jump into emission aligns with fading ultraviolet balance, similar to DO Her. Visual magnitude estimates around the same period were approximately 6.4.",
+      "categories": [
+        "observing report",
+        "astronomy",
+        "spectroscopy",
+        "novae"
+      ],
+      "keywords": [
+        "Nova Cygni 1978",
+        "optical spectrum",
+        "P-Cygni lines",
+        "Ca II H and K",
+        "Hα",
+        "Balmer series",
+        "Balmer jump",
+        "visual magnitude",
+        "stellar evolution",
+        "astronomical observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-circular-no-3272",
+      "documentId": "eph78-10",
+      "title": "Circular No. 3272",
+      "summary": "Circular No. 3272 is an official document issued by the Central Bureau for Astronomical Telegrams, which is part of the International Astronomical Union. This header provides contact information for the bureau, including its postal address, TWX, and telephone number.",
+      "categories": [
+        "Official Announcement",
+        "Astronomical News",
+        "Communication"
+      ],
+      "keywords": [
+        "Circular No. 3272",
+        "Central Bureau for Astronomical Telegrams",
+        "International Astronomical Union",
+        "Astronomy",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-comet-machholz-1978k",
+      "documentId": "eph78-10",
+      "title": "COMET MACHHOLZ (1978k)",
+      "summary": "This article provides updated parabolic orbital elements and a detailed ephemeris for Comet Machholz (1978k), calculated by M. P. Candy of Perth Observatory. The data includes positions (right ascension and declination), distances (Δ and r), and predicted magnitudes (m₁) for late September and early October 1978. An additional visual magnitude estimate from D. E. Machholz is also included.",
+      "categories": [
+        "Cometary Astronomy",
+        "Astronomical Data",
+        "Ephemerides",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Comet Machholz",
+        "1978k",
+        "orbital elements",
+        "ephemeris",
+        "magnitude estimate",
+        "astronomy",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-10-nova-cygni-1978",
+      "documentId": "eph78-10",
+      "title": "NOVA CYGNI 1978",
+      "summary": "Astronomers conducted photometric and spectroscopic observations of NOVA CYGNI 1978, with early reports noting its absence at V=13.3 between July and August. Later spectroscopic analysis in September, just after maximum light, revealed it to be a moderately slow nova, characterized by P-Cygni profiles for various lines and specific Hα and Hβ emission/absorption velocities. Based on interstellar lines, its distance was estimated at 1.3 kpc, with an absolute magnitude of -9.3 at maximum.",
+      "categories": [
+        "Astronomy",
+        "Observing Reports",
+        "Stellar Astrophysics",
+        "Spectroscopy",
+        "Novae"
+      ],
+      "keywords": [
+        "NOVA CYGNI 1978",
+        "Nova",
+        "Spectroscopy",
+        "Photometry",
+        "P-Cygni profile",
+        "H-alpha",
+        "H-beta",
+        "Stellar distance",
+        "Absolute magnitude",
+        "Maximum light",
+        "Observational astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph78-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7810/Eph78_10.pdf",
+      "txtPath": "7810/Eph78_10.md"
+    }
+  ]
+}

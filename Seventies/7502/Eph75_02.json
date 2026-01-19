@@ -1,0 +1,73 @@
+{
+  "articles": [
+    {
+      "id": "eph75-02-club-officers",
+      "documentId": "eph75-02",
+      "title": "Club Officers",
+      "summary": "This document lists the club's officers and board members, and addresses the club's low treasury due to the lease of its observing site, requesting donations. It also reports on recent activities, including a January meeting featuring a talk on Pioneer 10/11 findings by NASA's Mr. Worthmann, and a January 11 star party at Mt. Umanhum, which, despite cold and windy conditions, was well-attended and enthusiastic.",
+      "categories": [
+        "Club Administration",
+        "Financial Report",
+        "Meeting Report",
+        "Star Party Report",
+        "Astronomical News",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Club Officers",
+        "Board Members",
+        "Treasury",
+        "Donations",
+        "Observing Site",
+        "January Meeting",
+        "Pioneer 10",
+        "Pioneer 11",
+        "Saturn Flyby",
+        "Jupiter",
+        "Ames Research",
+        "NASA",
+        "Star Party",
+        "Mt. Umanhum",
+        "M46",
+        "Planetary Nebula",
+        "Telescope"
+      ],
+      "pageStart": 266,
+      "pageEnd": 266
+    },
+    {
+      "id": "eph75-02-coming-events",
+      "documentId": "eph75-02",
+      "title": "COMING EVENTS:",
+      "summary": "This article outlines upcoming events for an astronomy club from February to May 1975, including general meetings featuring talks on constellations and the Messier Catalog, star parties, and board meetings. It also includes a brief news note about members attending a W.A.A. meeting and an update on Dr. Gregory's health.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Star Parties",
+        "News"
+      ],
+      "keywords": [
+        "Coming Events",
+        "1975",
+        "General Meeting",
+        "Star Party",
+        "Board Meeting",
+        "Constellations",
+        "Messier Catalog",
+        "Telescope Building",
+        "W.A.A."
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7502/Eph75_02.pdf",
+      "txtPath": "7502/Eph75_02.md"
+    }
+  ]
+}

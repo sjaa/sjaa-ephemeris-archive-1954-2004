@@ -1,0 +1,145 @@
+{
+  "articles": [
+    {
+      "id": "eph77-08-calendar-of-events",
+      "documentId": "eph77-08",
+      "title": "CALENDAR OF EVENTS",
+      "summary": "This document outlines an astronomy association's calendar of events for August and September, featuring various activities. Highlights include a meeting on comet hunting by Don Machholz, multiple observing sessions at locations like El Sereno and Fremont Peak, and an AANC/NASA Joint Conference on Astronomy with mandatory pre-registration. Other events include a board meeting and a presentation by Dr. E.R. Therkelson.",
+      "categories": [
+        "events",
+        "meetings",
+        "observing",
+        "star parties",
+        "conference",
+        "news"
+      ],
+      "keywords": [
+        "Comet Hunting",
+        "Don Machholz",
+        "Black Hole",
+        "El Sereno",
+        "Fremont Peak State Park",
+        "AANC WEEKEND STAR PARTY",
+        "deep sky objects",
+        "telescopes",
+        "Dr. E.R. Therkelson",
+        "Henry Coe Park",
+        "AANC/NASA JOINT CONFERENCE ON ASTRONOMY",
+        "Olinder Center",
+        "astronomy events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-08-new-officers-elected",
+      "documentId": "eph77-08",
+      "title": "NEW OFFICERS ELECTED",
+      "summary": "The San Jose Astronomical Association's Board of Directors elected new officers for the upcoming year at their June 10 board meeting. John D. Rhodes was elected President, Gerald W. Rattley as Vice President, Robert Fingerhut as Treasurer, and Cathy Pinheiro as Secretary.",
+      "categories": [
+        "News",
+        "Organizational Update",
+        "Association Business",
+        "Elections"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Board Meeting",
+        "Officers",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "John D. Rhodes",
+        "Gerald W. Rattley",
+        "Robert Fingerhut",
+        "Cathy Pinheiro"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-08-bulletin-editor-resigns",
+      "documentId": "eph77-08",
+      "title": "BULLETIN EDITOR RESIGNS",
+      "summary": "The current editor of the SJAA bulletin is resigning effective after the September issue. This creates an opening for a new editor, and interested members are encouraged to apply. The outgoing editor expressed appreciation to those who contributed to the bulletin.",
+      "categories": [
+        "Organizational News",
+        "Volunteer Opportunity",
+        "Club Business"
+      ],
+      "keywords": [
+        "bulletin editor",
+        "resignation",
+        "SJAA",
+        "volunteer position",
+        "club news"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-08-save-these-maps-for-future-confusion",
+      "documentId": "eph77-08",
+      "title": "Save these Maps for future confusion",
+      "summary": "This document features a humorously inaccurate and convoluted map offering 'approximate directions' to the Los Gatos Red Cross, laden with nonsensical landmarks. It also includes a 'news notz' section compiling several astronomical updates from July 1986, discussing topics like X-ray astronomy, Halley's Comet, cosmic background radiation, and celestial observations.",
+      "categories": [
+        "Humor",
+        "Satire",
+        "Directions",
+        "Astronomy News",
+        "Space Science"
+      ],
+      "keywords": [
+        "Los Gatos Red Cross",
+        "Humorous Map",
+        "Confusing Directions",
+        "Astronomy News",
+        "Uhuru Satellite",
+        "Halley's Comet",
+        "Cosmic Microwave Background",
+        "Redshift Anomaly",
+        "Io Surface Composition",
+        "Comet Encke"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-08-a-d-s-i-n-f-i-n-i-t-u-m",
+      "documentId": "eph77-08",
+      "title": "A D S I N F I N I T U M",
+      "summary": "This document features several classified advertisements for astronomical equipment, including a Maksutov telescope, a dual Newtonian setup with digital control, and a Celestron 5\" f/6 telescope/telephoto. It also contains a \"Found\" notice for a Sanyo rechargeable flashlight located at Ed Levin Park.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Lost and Found"
+      ],
+      "keywords": [
+        "Telescope",
+        "Maksutov",
+        "Newtonian",
+        "Celestron",
+        "For Sale",
+        "Fork Mount",
+        "English Mount",
+        "Digital Display",
+        "Eyepieces",
+        "Flashlight",
+        "Used Equipment",
+        "Optical Instruments"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7708/Eph77_08.pdf",
+      "txtPath": "7708/Eph77_08.md"
+    }
+  ]
+}

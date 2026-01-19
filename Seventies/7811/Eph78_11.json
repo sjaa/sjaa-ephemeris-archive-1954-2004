@@ -1,0 +1,525 @@
+{
+  "articles": [
+    {
+      "id": "eph78-11-predictions",
+      "documentId": "eph78-11",
+      "title": "Predictions",
+      "summary": "This document outlines the astronomical club's calendar of events for November and December 1978, featuring various star parties, general meetings, and board meetings with specific dates and locations. It also lists several members' birthdays and includes a section of humorous quotes from club members, along with an editor's note about future quote inclusion.",
+      "categories": [
+        "Club Calendar",
+        "Club Events",
+        "Club Administration",
+        "Club News",
+        "Humor"
+      ],
+      "keywords": [
+        "1978",
+        "November",
+        "December",
+        "star party",
+        "General Meeting",
+        "Board of Directors meeting",
+        "Rosicrucian Planetarium",
+        "Sanborn Canyon",
+        "Fremont Peak",
+        "MIRA",
+        "astronomy club",
+        "birthdays",
+        "Los Gatos Red Cross",
+        "equipment night"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-personal-glimpses-penny-pinschmidt-editor",
+      "documentId": "eph78-11",
+      "title": "Personal Glimpses: Penny Pinschmidt, Editor",
+      "summary": "This article provides a personal glimpse into Penny Pinschmidt, a well-known editor among SJAA astronomers. She developed an interest in astronomy in 1976, became a SJAA member, and now enjoys observing, combining astronomy with her passions for writing and photography. Currently, she is a student at West Valley College, pursuing a diverse range of subjects, including two astronomy classes.",
+      "categories": [
+        "Member Profile",
+        "Club News",
+        "Biography"
+      ],
+      "keywords": [
+        "Penny Pinschmidt",
+        "SJAA",
+        "Astronomy club",
+        "Editor",
+        "Observing",
+        "Photography",
+        "Writing",
+        "West Valley College"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-secretary-s-library-cathy-pinheiro",
+      "documentId": "eph78-11",
+      "title": "SECRETARY'S LIBRARY     Cathy Pinheiro",
+      "summary": "Cathy Pinheiro provides an update from the Secretary's Library, reminding club members that its collection of books, magazines, and pamphlets is available for checkout. The column, returning after a month's absence, lists several titles including astronomy, space, and general interest topics.",
+      "categories": [
+        "Library Update",
+        "Club Communication",
+        "Resources"
+      ],
+      "keywords": [
+        "Secretary's Library",
+        "Cathy Pinheiro",
+        "Books",
+        "Magazines",
+        "Pamphlets",
+        "Club members",
+        "Pioneer Mission to Jupiter",
+        "Astronomy",
+        "Space",
+        "Hubble Atlas of Galaxies"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph78-11-by-denni-medlock",
+      "documentId": "eph78-11",
+      "title": "By Denni Medlock",
+      "summary": "This article details a lively Halloween costume party and birthday celebration for several members of an astronomy club, filled with humorous anecdotes and costume descriptions. It also includes reports from a general meeting, discussing a comet award, film photography techniques, and educational films, alongside accounts of various star parties, noting travel mishaps and observing conditions. The piece concludes with a brief technical discussion on the speed of gravity and a classified ad.",
+      "categories": [
+        "Club Activities",
+        "Meeting Reports",
+        "Observing Reports",
+        "News",
+        "Technical Discussions",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Halloween Party",
+        "Astronomy Club",
+        "Costumes",
+        "Birthday Celebration",
+        "General Meeting",
+        "Comet Award",
+        "Film Photography",
+        "Star Parties",
+        "Lunar Graze",
+        "Speed of Gravity",
+        "Equatorial Mount"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph78-11-comet-comments",
+      "documentId": "eph78-11",
+      "title": "COMET COMMENTS",
+      "summary": "In the preceding two months, amateur astronomers discovered five comets. However, only one of these five remains within observing reach, as three have moved below the southern horizon and another is too faint to be seen.",
+      "categories": [
+        "Astronomy News",
+        "Observing Reports",
+        "Comet Discoveries"
+      ],
+      "keywords": [
+        "comets",
+        "amateur astronomers",
+        "comet discoveries",
+        "observing conditions",
+        "celestial visibility",
+        "1978 astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-periodic-comet-haneda-campos-1978j",
+      "documentId": "eph78-11",
+      "title": "Periodic Comet Haneda-Campos (1978j).",
+      "summary": "Periodic Comet Haneda-Campos (1978j), discovered on September 1st, is currently at magnitude 13 in the constellation Fornax. The comet is moving further from both Earth and the Sun, causing it to steadily become fainter.",
+      "categories": [
+        "observing report",
+        "comet news"
+      ],
+      "keywords": [
+        "Comet Haneda-Campos",
+        "1978j",
+        "periodic comet",
+        "magnitude",
+        "Fornax",
+        "discovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-comet-machholz-1978i",
+      "documentId": "eph78-11",
+      "title": "Comet Machholz (1978i).",
+      "summary": "Comet Machholz (1978i) was observed on Oct. 11 at -47 degrees with a magnitude of 10.5. The comet is currently moving away from both the Sun and Earth, heading south, making it no longer visible from the observer's location. Orbital computations suggest its next return could be in 200 to 1,000 years.",
+      "categories": [
+        "observing report",
+        "comet",
+        "astronomy",
+        "orbital mechanics"
+      ],
+      "keywords": [
+        "Comet Machholz (1978i)",
+        "comet observation",
+        "celestial mechanics",
+        "magnitude",
+        "orbital return"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-comet-seargent-1978m",
+      "documentId": "eph78-11",
+      "title": "Comet Seargent (1978m).",
+      "summary": "Comet Seargent (1978m), a magnitude 5 object, was discovered on October 1st by David Seargent in New South Wales. It was located 35 degrees south of the sun and is moving further south. Its future visibility from Earth is uncertain, with a possibility of being seen in a few months.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Report",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Seargent",
+        "1978m",
+        "David Seargent",
+        "Comet discovery",
+        "Magnitude 5",
+        "Observational astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-comet-fujikawa-1978n",
+      "documentId": "eph78-11",
+      "title": "Comet Fujikawa (1978n).",
+      "summary": "Comet Fujikawa (1978n) was discovered on October 9 as an 11 magnitude object by Shigehisa Fujikawa, marking his third discovery. The comet is moving out of the sun's rays and is projected to travel west then north in the morning sky within the constellation Leo, with an ephemeris to follow.",
+      "categories": [
+        "comet discovery",
+        "observing reports",
+        "astronomical news"
+      ],
+      "keywords": [
+        "Comet Fujikawa",
+        "1978n",
+        "Shigehisa Fujikawa",
+        "comet discovery",
+        "magnitude 11",
+        "Leo constellation",
+        "morning sky",
+        "ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-comet-bradfield-1978o",
+      "documentId": "eph78-11",
+      "title": "Comet Bradfield (1978o).",
+      "summary": "Comet Bradfield (1978o) was discovered on October 10th as an 8th magnitude object visible low in the morning sky. It is predicted to move south, then loop west and north, potentially becoming visible again at magnitude 11 in early November from the low south. This discovery marks William Bradfield's eighth comet find in eight years.",
+      "categories": [
+        "Comets",
+        "Observing Reports",
+        "Astronomical News",
+        "Discovery"
+      ],
+      "keywords": [
+        "Comet Bradfield (1978o)",
+        "Comet discovery",
+        "William Bradfield",
+        "Magnitude",
+        "Observing conditions",
+        "Orbital path"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-comet-ashbrook-jackson-1977g",
+      "documentId": "eph78-11",
+      "title": "Comet Ashbrook-Jackson (1977g).",
+      "summary": "This article provides details and an ephemeris for Comet Ashbrook-Jackson (1977g), described as a 12th magnitude object in Pisces, approximately 1 arcminute across. It also highlights a recent surge in comet discoveries by amateur astronomers, noting their common characteristics (south of the ecliptic, morning sky, post-perihelion) without explaining the trend. Additional ephemerides for other comets are also included for observer reference.",
+      "categories": [
+        "Comet Astronomy",
+        "Observing Reports",
+        "Ephemeris Data",
+        "Amateur Astronomy",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Ashbrook-Jackson",
+        "Comets",
+        "Ephemeris",
+        "Amateur Astronomy",
+        "Observing",
+        "Pisces",
+        "Magnitude",
+        "Perihelion",
+        "Ecliptic",
+        "Don Machholz"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph78-11-rattley-rattles",
+      "documentId": "eph78-11",
+      "title": "Rattley Rattles",
+      "summary": "This document, titled \"Rattley Rattles,\" provides detailed observational notes and descriptions for a selection of deep-sky objects, primarily galaxies and one open cluster, found on Chart II of the Skalnate Pleso Atlas of the Heavens. It offers practical viewing tips for amateur astronomers, including recommended powers and sky conditions, along with key characteristics like brightness, size, shape, and membership in the Local Group of galaxies.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Deep-Sky Objects",
+        "Galaxies",
+        "Open Clusters"
+      ],
+      "keywords": [
+        "NGC 147",
+        "NGC 186",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224",
+        "NGC 278",
+        "NGC 281",
+        "NGC 404",
+        "NGC 457",
+        "NGC 538",
+        "M.31",
+        "M.32",
+        "M.33",
+        "Skalnate Pleso Atlas",
+        "Local Group",
+        "Andromeda",
+        "Cassiopeia",
+        "Triangulum",
+        "Amateur Astronomy",
+        "Observational Tips"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph78-11-finest-skalnate-pleso-objects-chart-ii-continued",
+      "documentId": "eph78-11",
+      "title": "Finest Skalnate Pleso Objects - Chart II, continued",
+      "summary": "This article, part of the \"Finest Skalnate Pleso Objects - Chart II\" series, serves as an observational guide for amateur astronomers. It meticulously details various deep-sky objects, including galaxies, open clusters, and planetary nebulae, providing their celestial coordinates, types, magnitudes, and essential viewing recommendations. Each entry offers practical advice on power settings, sky conditions, and notable features to enhance the observing experience.",
+      "categories": [
+        "Observational Astronomy",
+        "Deep-Sky Objects",
+        "Amateur Astronomy Guide",
+        "Celestial Catalog"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Observational guide",
+        "Skalnate Pleso Catalogue",
+        "NGC objects",
+        "Messier objects",
+        "Open clusters",
+        "Planetary nebulae",
+        "Galaxies",
+        "Stargazing tips",
+        "Binocular astronomy"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph78-11-jim-van-nuland",
+      "documentId": "eph78-11",
+      "title": "Jim Van Nuland",
+      "summary": "Jim Van Nuland led a perplexing graze expedition near Kerman, California, meticulously setting up observation stations that puzzled local residents. A diverse group of observers gathered, enjoying excellent night sky conditions before successfully conducting the lunar graze event, which yielded varied results reported across multiple stations. Following discussions of their findings, participants concluded the expedition, with Jim and Gerry eventually driving home after a long but successful outing.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Event",
+        "Expedition Report",
+        "Group Activity"
+      ],
+      "keywords": [
+        "Jim Van Nuland",
+        "graze expedition",
+        "grazing occultation",
+        "Kerman",
+        "Central Valley",
+        "Bishop Ave",
+        "measuring bicycle",
+        "lunar graze",
+        "CB radios",
+        "Timekube",
+        "astronomy",
+        "observing report"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-new-members-to-add-to-the-list-published-in-september",
+      "documentId": "eph78-11",
+      "title": "New members to add to the list published in September",
+      "summary": "This document presents a list of new members to be added to an existing membership roster that was published in September. It includes four new members with their names, addresses, cities, zip codes, and some phone numbers, indicating an update to an organization's member directory.",
+      "categories": [
+        "Membership Update",
+        "Administrative",
+        "Announcements"
+      ],
+      "keywords": [
+        "new members",
+        "membership list",
+        "directory update",
+        "contact information",
+        "member roster"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-bulletin-subscribers",
+      "documentId": "eph78-11",
+      "title": "Bulletin Subscribers",
+      "summary": "This document lists current bulletin subscribers with their names, addresses, and phone numbers. It also includes an update for a subscriber's change of address, indicating it serves as a contact roster for an organization's members.",
+      "categories": [
+        "Membership Roster",
+        "Contact Information",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "subscribers",
+        "membership",
+        "contact list",
+        "address changes",
+        "directory"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph78-11-profile-chart-on-the-september-24-lunar-graze-occultation",
+      "documentId": "eph78-11",
+      "title": "Profile Chart on The September 24 Lunar Graze Occultation",
+      "summary": "This document presents a profile chart summarizing data from an expedition observing the September 24 Lunar Graze Occultation, noting the exaggerated vertical scale and issues like poor seeing and equipment malfunctions that affected event timing. Despite challenges, the report package is slated for analysis by Dr. Dunham and subsequent forwarding to the Nautical Almanac Office at the Royal Greenwich Observatory. The corrected predicted profile is still pending for comparison.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Occultation",
+        "Expedition",
+        "Data Analysis"
+      ],
+      "keywords": [
+        "Lunar Graze Occultation",
+        "Occultation",
+        "Profile Chart",
+        "Expedition",
+        "Data Summary",
+        "Seeing Conditions",
+        "Nautical Almanac Office",
+        "Royal Greenwich Observatory"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph78-11-excerpts-from-the-first-three-minutes-by-steven-weinberg-submitted-by-allan-meyer",
+      "documentId": "eph78-11",
+      "title": "Excerpts from The First Three Minutes by Steven Weinberg submitted by Allan Meyer",
+      "summary": "This article provides excerpts from Steven Weinberg's \"The First Three Minutes,\" describing the universe at its \"first frame\" when its temperature was 100 million Kelvin. At this point, the universe was in a state of nearly perfect thermal equilibrium, filled with an undifferentiated soup of matter and radiation, and the text discusses its potential size during this extremely early period of cosmic evolution.",
+      "categories": [
+        "Cosmology",
+        "Theoretical Physics",
+        "Book Excerpt",
+        "Early Universe"
+      ],
+      "keywords": [
+        "Steven Weinberg",
+        "The First Three Minutes",
+        "Early Universe",
+        "Big Bang",
+        "Thermal Equilibrium",
+        "Universe Expansion",
+        "Matter and Radiation",
+        "Cosmic Evolution"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-blurbs",
+      "documentId": "eph78-11",
+      "title": "Blurbs",
+      "summary": "This bulletin blurb from the San Jose Astronomical Association (SJAA) confirms a new official return address stamp and addresses the editor's oversight regarding the 'Question of the Month,' which will be repeated. It also acknowledges cartoon submissions for the bulletin, praises members for their contributions, and announces an upcoming equipment night on November 18th.",
+      "categories": [
+        "Club News",
+        "Announcements",
+        "Membership Updates",
+        "Events"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Club Bulletin",
+        "Equipment Night",
+        "Announcements",
+        "Membership",
+        "Cartoons",
+        "Question of the Month"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-red-spot-recovered-by-jim-van-nuland",
+      "documentId": "eph78-11",
+      "title": "Red Spot Recovered by Jim Van Nuland",
+      "summary": "Astronomer Jim Van Nuland successfully recovered the Great Red Spot of Jupiter on October 13, performing astronomical detective work. The Jovian Jewel was found hidden within the south equatorial belt, disguised by gray clouds, but became visible with a 3\" Newtonian telescope under excellent seeing conditions. There is hope that the spot will soon regain its prominent visibility for all observers.",
+      "categories": [
+        "observing report",
+        "news",
+        "planetary astronomy"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Jim Van Nuland",
+        "astronomical observation",
+        "Newtonian telescope",
+        "seeing conditions",
+        "south equatorial belt"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-11-lower-limits-9-5h-7-0h-upper-limits-13-5h-10-2h-with-randomizing",
+      "documentId": "eph78-11",
+      "title": "Lower Limits, 9.5h; 7.0h Upper Limits, 13.5h, 10.2h With Randomizing",
+      "summary": "This document appears to be a log or record of observations related to the 'Great Red Spot on Jeridian Disk' (likely Jupiter's Great Red Spot). It lists numerous dates and times, possibly indicating observation windows or calculated limits. The title refers to 'Lower Limits' and 'Upper Limits' in hours, suggesting a measurement or prediction of visibility or event duration, potentially with randomized elements.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Planetary Science",
+        "Log Data"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Observation",
+        "Timing",
+        "Lower Limits",
+        "Upper Limits",
+        "Jeridian Disk"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph78-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7811/Eph78_11.pdf",
+      "txtPath": "7811/Eph78_11.md"
+    }
+  ]
+}

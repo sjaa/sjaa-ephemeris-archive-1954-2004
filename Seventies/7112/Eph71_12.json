@@ -1,0 +1,211 @@
+{
+  "articles": [
+    {
+      "id": "eph71-12-monthly-bulletin",
+      "documentId": "eph71-12",
+      "title": "MONTHLY BULLETIN",
+      "summary": "This is the monthly bulletin for December 1971, primarily listing the club's officers (President, Vice-President, Secretary, and Treasurer) along with their contact numbers. The bulletin also prominently features repeated mentions of the \"Morrison Lecture\", indicating a significant upcoming or discussed event.",
+      "categories": [
+        "Newsletter",
+        "Club Administration",
+        "Events"
+      ],
+      "keywords": [
+        "Monthly Bulletin",
+        "December 1971",
+        "Club Officers",
+        "Morrison Lecture",
+        "Organizational Update"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph71-12-december-8-8-p-m",
+      "documentId": "eph71-12",
+      "title": "DECEMBER 8, 8 p.m.",
+      "summary": "The article announces the Morrison Lecture featuring Dr. David Cudaback presenting \"High Altitude Astronomy\" on December 8 at 8 p.m. at West Valley College. Following the lecture, a star party is planned, and attendees are encouraged to bring their own telescopes and binoculars. The San Jose Amateur Astronomers are responsible for publicizing this joint event with the Astronomical Society of the Pacific.",
+      "categories": [
+        "event announcement",
+        "lecture",
+        "observing report",
+        "astronomy",
+        "local group news"
+      ],
+      "keywords": [
+        "Morrison Lecture",
+        "Dr. David Cudaback",
+        "High Altitude Astronomy",
+        "West Valley College",
+        "star party",
+        "telescopes",
+        "binoculars",
+        "San Jose Amateur Astronomers",
+        "public lecture",
+        "astronomical event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph71-12-planning-meeting-december-10-8-p-m",
+      "documentId": "eph71-12",
+      "title": "PLANNING MEETING, DECEMBER 10, 8 p.m.",
+      "summary": "A planning meeting is scheduled for December 10 at 8 p.m. to be held at Dave Ambrose's home in San Jose. The main objective of this gathering is to plan most of the remaining winter events.",
+      "categories": [
+        "Meeting Announcement",
+        "Events Planning"
+      ],
+      "keywords": [
+        "Planning Meeting",
+        "December 10",
+        "Winter Events",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph71-12-star-party-december-18-at-sjaa-site",
+      "documentId": "eph71-12",
+      "title": "STAR PARTY, DECEMBER 18 AT SJAA SITE",
+      "summary": "A star party is scheduled for December 18 at the SJAA site. Attendees are advised to contact Dave at 269-4833 for details, with a note that winter months often provide excellent viewing conditions.",
+      "categories": [
+        "Events",
+        "Announcement"
+      ],
+      "keywords": [
+        "Star Party",
+        "SJAA",
+        "December 18",
+        "Astronomy Event",
+        "Winter Viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph71-12-regular-meeting-january-7-8-p-m",
+      "documentId": "eph71-12",
+      "title": "REGULAR MEETING, JANUARY 7, 8 p.m.",
+      "summary": "The document announces a regular meeting on January 7, featuring talks on \"Double Stars in General\" and \"Pluto.\" It also includes an article titled \"CALENDAR OF ROCK,\" detailing how Stonehenge functioned as an accurate ancient astronomical observatory and calendar, marking key celestial events and predicting eclipses, debunking previous theories about its origin.",
+      "categories": [
+        "Events",
+        "Meeting Announcement",
+        "Historical Astronomy",
+        "Archaeology",
+        "Science History"
+      ],
+      "keywords": [
+        "Regular Meeting",
+        "Double Stars",
+        "Pluto",
+        "Stonehenge",
+        "Astronomical Observatory",
+        "Ancient Calendar",
+        "Solstices",
+        "Equinoxes",
+        "Eclipses",
+        "Gerald Hawkins",
+        "Druids",
+        "Carbon-14 dating",
+        "Prehistoric Culture"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph71-12-orbits-of-visual-binary-st-elements-2-contributed-by-jerry-hatiley",
+      "documentId": "eph71-12",
+      "title": "ORBITS OF VISUAL BINARY ST Elements 2        contributed by Jerry Hatiley",
+      "summary": "This document, contributed by Jerry Hatiley, presents orbital elements for several visual binary stars, extracted from the Third Catalogue of Orbits of Visual Binary Stars. It provides detailed astronomical data such as period, semi-major axis, and inclination for each system. The article also includes specific descriptions of motion, component magnitudes, spectral types, and predictions for future events like apastron passages for selected binaries including ξ² Cas, ε¹³ Cep, and Otta Struv.6.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Binary Stars",
+        "Orbital Mechanics",
+        "Star Catalogues",
+        "Observational Data"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "Star Orbits",
+        "Binary Systems",
+        "Periastron",
+        "Apastron",
+        "Retrograde Motion",
+        "Stellar Magnitudes",
+        "Spectral Types",
+        "Cassiopeia",
+        "Cepheus",
+        "Struve Stars",
+        "Astronomy Data"
+      ],
+      "pageStart": 0,
+      "pageEnd": 0
+    },
+    {
+      "id": "eph71-12-ephemerid-s",
+      "documentId": "eph71-12",
+      "title": "Ephemerid·s:",
+      "summary": "This document provides ephemerides and detailed descriptions for several star systems, specifically Lambda Cassiopeiae, Alpha Cassiopeiae, and Beta Tucanae. It outlines their physical characteristics such as magnitudes and spectral types, alongside orbital parameters like position angles, separations, and predicted future events. The text also includes observational notes and references to specific star catalogs.",
+      "categories": [
+        "Astrometry",
+        "Double Stars",
+        "Ephemerides",
+        "Observational Notes",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Double Stars",
+        "Multiple Star Systems",
+        "Lambda Cassiopeiae",
+        "Alpha Cassiopeiae",
+        "Beta Tucanae",
+        "Orbital Data",
+        "Magnitudes",
+        "Separation",
+        "Position Angle",
+        "Periastron",
+        "Apastron"
+      ],
+      "pageStart": 4,
+      "pageEnd": 66
+    },
+    {
+      "id": "eph71-12-morrison-lecture",
+      "documentId": "eph71-12",
+      "title": "MORRISON LECTURE",
+      "summary": "The Astronomical Society of the Pacific is sponsoring the Morrison Lecture, featuring Dr. David Cudaback from UC Berkeley, who will discuss \"HIGH ALTITUDE ASTRONOMY.\" The public lecture will take place at West Valley College, Saratoga Campus, Room SS135, on Friday, December 3rd, at 8 p.m., with no admission charge.",
+      "categories": [
+        "Events",
+        "Lecture",
+        "Announcement"
+      ],
+      "keywords": [
+        "Morrison Lecture",
+        "Astronomical Society of the Pacific",
+        "Dr. David Cudaback",
+        "HIGH ALTITUDE ASTRONOMY",
+        "Astronomy",
+        "University of California, Berkeley",
+        "West Valley College",
+        "Public Lecture",
+        "Free Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph71-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7112/Eph71_12.pdf",
+      "txtPath": "7112/Eph71_12.md"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "id": "eph76-10-what-s-going-on-in-the-club",
+      "documentId": "eph76-10",
+      "title": "WHAT'S GOING ON IN THE CLUB :",
+      "summary": "This club newsletter details the October and November event schedule, featuring general meetings with presentations on stellar distances and the Viking mission, alongside star parties at the Skyline site and El Sereno Open Space Preserve. It also provides dates for board meetings and lists new or returning club members with their contact information.",
+      "categories": [
+        "Club Events",
+        "Meeting Announcements",
+        "Star Parties",
+        "Membership Updates"
+      ],
+      "keywords": [
+        "Club meetings",
+        "Star parties",
+        "John Rhodes",
+        "Stellar distances",
+        "Viking mission",
+        "Skyline site",
+        "El Sereno Open Space Preserve",
+        "New members",
+        "Board meetings",
+        "October events",
+        "November events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-10-occulting-zone",
+      "documentId": "eph76-10",
+      "title": "OCCULTING ZONE",
+      "summary": "The article provides a schedule of lunar occultation events for October, primarily featuring dim, single stars, along with practical observing tips for successfully viewing these phenomena. It also includes predicted central meridian transit times for Jupiter's Great Red Spot during the same month, noting recent changes in its position and ongoing activity on the planet. The author, Jim Van Nuland, emphasizes preparation and technique for both types of observations.",
+      "categories": [
+        "Astronomy Events",
+        "Observing Guide",
+        "Lunar Occultations",
+        "Planetary Observations",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Lunar occultation",
+        "Occulting zone",
+        "Jupiter",
+        "Great Red Spot (GRS)",
+        "Observing tips",
+        "Star magnitude",
+        "Position angle",
+        "Cusp angle",
+        "Dark limb",
+        "Near-graze",
+        "PDT",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7610/Eph76_10.pdf",
+      "txtPath": "7610/Eph76_10.md"
+    }
+  ]
+}

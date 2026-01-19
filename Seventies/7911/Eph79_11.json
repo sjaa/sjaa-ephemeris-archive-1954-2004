@@ -1,0 +1,245 @@
+{
+  "articles": [
+    {
+      "id": "eph79-11-predictions-nov-79",
+      "documentId": "eph79-11",
+      "title": "Predictions Nov '79",
+      "summary": "The \"Predictions Nov '79\" document outlines the San Jose Astronomical Association's (SJAA) schedule for November and December 1979, detailing general meetings, board meetings, and various star parties. Key events include a talk on the University of California's planned 400-inch telescope and a lecture on Stonehenge and eclipses. The article also announces a significant change to the SJAA's general meeting schedule, shifting them to the end of the month starting January 1980 to better facilitate new moon star parties.",
+      "categories": [
+        "Events",
+        "Club Announcements",
+        "News",
+        "Astronomy"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomical events",
+        "Star parties",
+        "General meetings",
+        "Board meetings",
+        "400-inch telescope",
+        "Stonehenge",
+        "Eclipses",
+        "Schedule change",
+        "Lunar cycle",
+        "November 1979",
+        "December 1979"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph79-11-observations",
+      "documentId": "eph79-11",
+      "title": "Observations",
+      "summary": "October was an active month for the SJAA, highlighted by a successful John H. Wolfe lecture on Pioneer 11 and several indoor and outdoor star parties. While some observing events faced challenges like cloud cover and severe dewing at Fremont Peak, members actively participated in viewing, equipment work, and social gatherings. The article also provides club administrative updates, including changes to membership fees and upcoming deadlines for bulletin submissions.",
+      "categories": [
+        "Event Reports",
+        "Club News",
+        "Observing Reports",
+        "Administrative Announcements",
+        "Member Activities"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Pioneer 11 Lecture",
+        "SJAA",
+        "Fremont Peak",
+        "Observing Conditions",
+        "Dewing",
+        "Telescopes",
+        "Membership Updates",
+        "Astronomy Events",
+        "Community Outreach"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph79-11-comet-comments",
+      "documentId": "eph79-11",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports on a period of low bright comet activity, with only two amateur-discovered comets fainter than magnitude 11.5. It provides updates on Comet Bradfield (fading and diffuse) and Comet Meier (newly discovered, faint, and its orbital parameters), while also mentioning two very faint, unconfirmed probable comets discovered by Charles Kowal. Additionally, there's a brief mention of evidence for comet nucleus rotation periods.",
+      "categories": [
+        "observing reports",
+        "comet news",
+        "astronomical discoveries",
+        "cometology"
+      ],
+      "keywords": [
+        "comet activity",
+        "Comet Bradfield",
+        "Comet Meier",
+        "Comets Kowal",
+        "magnitude",
+        "ephemeris",
+        "comet nucleus rotation",
+        "amateur astronomy",
+        "Palomar observatories",
+        "Rolf Meier",
+        "Charles Kowal"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-11-comet-meier-1979i",
+      "documentId": "eph79-11",
+      "title": "Comet Meier (1979i)",
+      "summary": "This document presents observational data for Comet Meier (1979i) for specific dates in October, detailing its right ascension, declination, and estimated magnitude. The data was compiled and submitted by Don Machholz, likely as an observing report.",
+      "categories": [
+        "Observing Report",
+        "Comets",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Comet Meier (1979i)",
+        "Comet",
+        "Observational Data",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Don Machholz",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-11-eclipse-chaser-s-survey",
+      "documentId": "eph79-11",
+      "title": "ECLIPSE-CHASER'S SURVEY",
+      "summary": "Eric Flescher, an Earth/space science instructor at Washtenaw College, is conducting a survey of observers of a recent eclipse. The survey focuses on participants' perceptions of their environment and personal feelings during the event. Flescher is collecting responses from across the United States and Canada, with potential plans to extend his study to the 1980 Africa/India eclipse, and invites interested observers to obtain a survey.",
+      "categories": [
+        "Research",
+        "Survey",
+        "Eclipse",
+        "Call for Participation",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Eclipse",
+        "Survey",
+        "Eric Flescher",
+        "Washtenaw College",
+        "Observers",
+        "Perceptions",
+        "Feelings",
+        "1980 Africa/India eclipse"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph79-11-commandments-for-stargazers",
+      "documentId": "eph79-11",
+      "title": "COMMANDMENTS FOR STARGAZERS",
+      "summary": "This article, presented as 'Commandments for Stargazers,' humorously outlines ten essential rules of etiquette and best practices for amateur astronomers at an observing site. It covers maintaining darkness, minimizing noise and dust, walking carefully to prevent accidents, respecting fellow observers and their equipment, and ensuring the site is cleaned before departure, all while using lighthearted, biblical-style language.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Etiquette",
+        "Guidelines",
+        "Humor",
+        "Best Practices"
+      ],
+      "keywords": [
+        "stargazing",
+        "observing site",
+        "darkness preservation",
+        "light discipline",
+        "noise discipline",
+        "astronomy etiquette",
+        "equipment respect",
+        "site cleanup",
+        "amateur astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph79-11-james-van-nuland-portrait-of-a-serious-amateur-astronomer",
+      "documentId": "eph79-11",
+      "title": "James Van Nuland: Portrait of a serious amateur astronomer",
+      "summary": "James Van Nuland's journey into amateur astronomy began in grade school, waned for 20 years, and was rekindled in 1970, leading to his deep involvement with the SJAA and IOTA. He specializes in lunar occultations and grazes, often leading expeditions, and developed 'Van Nuland's Equation' for tracking Jupiter's Red Spot. Jim is known for his enthusiasm and encourages others to get involved in observing these phenomena.",
+      "categories": [
+        "Amateur Astronomy",
+        "Profile",
+        "Observing Reports",
+        "Club Activities",
+        "Technical"
+      ],
+      "keywords": [
+        "James Van Nuland",
+        "Amateur Astronomer",
+        "Lunar Occultations",
+        "Grazes",
+        "SJAA",
+        "IOTA",
+        "Jupiter's Red Spot",
+        "Van Nuland's Equation",
+        "Sunspots",
+        "Astronomy Mathematics",
+        "Spotting Scope"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph79-11-answers-to-the-autumn-constellation-scramble-from-last-month-s-bulletin",
+      "documentId": "eph79-11",
+      "title": "ANSWERS to the autumn constellation scramble from last month's bulletin:",
+      "summary": "This article serves as an answer key to a previous 'autumn constellation scramble,' listing numerous constellations and brightest stars. It then introduces a new challenge for readers to arrange a different set of stars by decreasing apparent magnitude, promising answers in the next bulletin. The document also includes a humorous anecdote about an astronomical group and an update regarding the delayed publication of a skyword puzzle solution.",
+      "categories": [
+        "Puzzles",
+        "Educational",
+        "Astronomy Bulletin",
+        "Constellations",
+        "Stars"
+      ],
+      "keywords": [
+        "Constellations",
+        "Stars",
+        "Apparent Magnitude",
+        "Astronomy Puzzles",
+        "Skyword Puzzle",
+        "Bulletin",
+        "Autumn Constellations"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph79-11-iron-off-his-new-gadtrack-to-the-stadium",
+      "documentId": "eph79-11",
+      "title": "IRON OFF HIS NEW GADTRACK TO THE STADIUM...",
+      "summary": "The article snippet introduces a character named Iron embarking on a journey to a stadium with a new \"Gadtrack,\" likely a mechanical device or vehicle. A sense of impending conflict or challenge is conveyed through the mention of \"Wolf picking the wrong night.\" The accompanying imagery reinforces the theme of mechanical devices or vehicles.",
+      "categories": [
+        "Fiction",
+        "Narrative",
+        "Speculative Technology",
+        "Action/Adventure"
+      ],
+      "keywords": [
+        "Iron",
+        "Gadtrack",
+        "Stadium",
+        "Wolf",
+        "Mechanical devices",
+        "Vehicle",
+        "Conflict",
+        "Departure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph79-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7911/Eph79_11.pdf",
+      "txtPath": "7911/Eph79_11.md"
+    }
+  ]
+}

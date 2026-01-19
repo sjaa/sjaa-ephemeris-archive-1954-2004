@@ -1,0 +1,302 @@
+{
+  "articles": [
+    {
+      "id": "eph77-01-what-s-going-on-in-the-club",
+      "documentId": "eph77-01",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This document outlines the club's January and February schedule, detailing general membership meetings that include a two-part \"Demon Stars\" lecture series, regular board meetings, and multiple indoor and outdoor star parties or field expeditions for astronomical observation. The article also notes an upcoming initiative to publish maps for observing sites in the bulletin to assist members with directions.",
+      "categories": [
+        "events",
+        "meetings",
+        "club news",
+        "astronomy education",
+        "observing activities"
+      ],
+      "keywords": [
+        "club events",
+        "membership meetings",
+        "board meetings",
+        "star parties",
+        "field expeditions",
+        "astronomical observation",
+        "Demon Stars",
+        "Allan Meyer",
+        "observing sites",
+        "site maps",
+        "January events",
+        "February events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-01-update",
+      "documentId": "eph77-01",
+      "title": "UPDATE...",
+      "summary": "This article, compiled by Ed Schell, provides a series of astronomical news updates. It includes the locations of the Viking I and II probes on Mars, the spectroscopic resolution of a cool supergiant star in the Milky Way's core, and new observations from Hale Observatories showing M87 ejecting dense luminous objects. Additionally, it notes the upcoming close approach of asteroid Adonis and the recent flyby of asteroid 1976 WA past Earth.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Space Exploration",
+        "Observing Reports",
+        "Solar System"
+      ],
+      "keywords": [
+        "Mars probes",
+        "Viking I",
+        "Viking II",
+        "supergiant star",
+        "Milky Way",
+        "M87",
+        "asteroids",
+        "Adonis",
+        "1976 WA",
+        "near-Earth objects",
+        "astronomy news"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-01-save-these-maps-for-future-confusion",
+      "documentId": "eph77-01",
+      "title": "Save these Maps for future confusion.",
+      "summary": "This document, titled \"Save these Maps for future confusion,\" presents two highly fragmented and informal sets of directions and location notes, primarily related to the Los Gatos Red Cross and various landmarks in the San Jose area. The 'maps' consist of cryptic place names and directional cues, suggesting personal jottings rather than formal navigational aids, with an additional mention of an 'occulting zone' on a separate page.",
+      "categories": [
+        "Personal notes",
+        "Navigation notes",
+        "Field notes"
+      ],
+      "keywords": [
+        "Los Gatos",
+        "Red Cross",
+        "San Jose",
+        "Directions",
+        "Maps",
+        "Occlting zone",
+        "Landmarks"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-01-lunar-occultations",
+      "documentId": "eph77-01",
+      "title": "LUNAR OCCULTATIONS",
+      "summary": "This document provides a detailed schedule of lunar occultations for January and early February, including dates, Pacific Standard Time (PST), star magnitude, moon illumination and elevation, cusp angle, and position angle. It highlights the inclusion of galactic objects like M67 in USNO predictions and offers observational notes on visibility, such as the challenge of observing M67 due to moonlight glare. The article encourages observers to attempt these events, particularly the brighter stars listed.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Predictions",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Lunar Occultations",
+        "Astronomical Predictions",
+        "January",
+        "February",
+        "M67",
+        "Stars",
+        "Moon",
+        "USNO",
+        "PST",
+        "Magnitude",
+        "Illumination",
+        "Elevation",
+        "Cusp Angle",
+        "Position Angle",
+        "1977"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-01-great-red-spot-of-jupiter",
+      "documentId": "eph77-01",
+      "title": "GREAT RED SPOT OF JUPITER",
+      "summary": "The Great Red Spot on Jupiter is currently challenging to observe due to its yellow hue and poor contrast, though it presents a splendid view under steady seeing conditions. Observers are encouraged to view it now while Jupiter is favorably positioned high in the evening sky.",
+      "categories": [
+        "Observing Reports",
+        "Observing Tips",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Observing",
+        "Planetary observation",
+        "Seeing conditions",
+        "Amateur astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph77-01-big-white-spot",
+      "documentId": "eph77-01",
+      "title": "Big White Spot",
+      "summary": "This article provides an update on a 'Big White Spot' (likely on Jupiter) discovered on October 24, noting it has become less obvious but maintained its size and increased speed, while advising observers to time its meridian passage before it potentially vanishes. It also reminds readers of the observable window around meridian passage and highlights two upcoming celestial events: Jupiter near noon on December 31, and Venus near the crescent on January 23.",
+      "categories": [
+        "observing reports",
+        "observing guide",
+        "celestial events",
+        "planetary observation"
+      ],
+      "keywords": [
+        "Big White Spot",
+        "Jupiter",
+        "Venus",
+        "meridian passage",
+        "celestial observation",
+        "Dec. 31",
+        "Jan. 23"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-01-red-spot-times",
+      "documentId": "eph77-01",
+      "title": "Red Spot times",
+      "summary": "This document provides a detailed schedule of predicted transit times for Jupiter's Great Red Spot (GRS). The table lists specific dates and times, spanning from late December through early February, likely to assist observers in planning their viewing sessions of this prominent planetary feature.",
+      "categories": [
+        "Astronomy",
+        "Observing Schedule",
+        "Planetary Observation",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Observing times",
+        "Planetary astronomy",
+        "Transit",
+        "Red Spot"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-01-white-spot-times",
+      "documentId": "eph77-01",
+      "title": "White spot times",
+      "summary": "The document presents a detailed tabular schedule of specific dates and times spanning January and early February. Titled \"White spot times,\" this schedule likely provides predicted observation windows for an astronomical feature or event referred to as a \"white spot.\"",
+      "categories": [
+        "Observing Schedule",
+        "Astronomical Phenomena",
+        "Ephemeris",
+        "Stargazing"
+      ],
+      "keywords": [
+        "White spot",
+        "Observation times",
+        "Astronomical schedule",
+        "Celestial events",
+        "Visibility predictions",
+        "Planetary features"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph77-01-elements-of-the-orbits-as-listed-in-the-third-catalogue-of-the-orbits-of-visual-binary-stars-by-w-s-finsen-and-c-e-worley-1970",
+      "documentId": "eph77-01",
+      "title": "Elements of the orbits as listed in the Third Catalogue of the Orbits of Visual Binary Stars by W. S. Finsen and C. E. Worley, 1970.",
+      "summary": "This document provides detailed orbital elements for four visual binary stars (β 232, 48 Cas, OΣ 50, OΣ 52) as compiled in the 1970 Third Catalogue of the Orbits of Visual Binary Stars by Finsen and Worley. For each system, it lists key orbital parameters, component magnitudes, spectral types, and an ephemeris for future positions and separations. The text also includes notes on the nature of the orbital computations (e.g., preliminary, definitive, indeterminate), predictions for apastron and periastron passages, and mentions of additional companion stars in some systems.",
+      "categories": [
+        "Stellar Astronomy",
+        "Binary Stars",
+        "Orbital Mechanics",
+        "Star Catalogues",
+        "Observational Astronomy",
+        "Astrophysical Data"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "Finsen and Worley",
+        "Third Catalogue",
+        "Ephemeris",
+        "Periastron",
+        "Apastron",
+        "Angular Separation",
+        "Orbital Period",
+        "Eccentricity",
+        "Inclination",
+        "Magnitude",
+        "Spectral Type",
+        "β 232",
+        "48 Cassiopeiae",
+        "OΣ 50",
+        "OΣ 52",
+        "Multiple Star Systems"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph77-01-the-orbits-of-visual-binary-stars-contributed-by-gerald-w-rattley",
+      "documentId": "eph77-01",
+      "title": "The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley",
+      "summary": "This article, contributed by Gerald W. Rattley, details the orbital elements and ephemerides for three visual binary star systems: OΣ 507, Σ 3062, and λ Cassiopeiae. It provides specific observational data including component magnitudes, spectra, orbital characteristics like apastron/periastron dates, and future predictions for position angle and separation. The information is compiled from the Third Catalogue of Visual Binary Stars and offers insights for amateur astronomers regarding observing these systems.",
+      "categories": [
+        "Astronomy",
+        "Observational Astronomy",
+        "Binary Stars",
+        "Star Systems",
+        "Ephemeris",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "Ephemeris",
+        "OΣ 507",
+        "Σ 3062",
+        "Lambda Cassiopeiae",
+        "Cassiopeia",
+        "Stellar Magnitudes",
+        "Spectra",
+        "Apastron",
+        "Periastron",
+        "Separation",
+        "Position Angle"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph77-01-rattley-rattles",
+      "documentId": "eph77-01",
+      "title": "Rattley Rattles",
+      "summary": "Gerry Rattley's column, \"Rattley Rattles,\" provides readers with valuable resources for obtaining astronomical publications. He directs enthusiasts to the California Institute of Technology bookstore for a catalogue featuring the \"Hubble Atlas of the Galaxies,\" and also recommends Sky Publishing Corporation for club member discounts and Herbert A. Luft for a diverse selection of astronomy books and atlases.",
+      "categories": [
+        "Resource Guide",
+        "Astronomical Publications",
+        "Book Recommendations",
+        "Club Information"
+      ],
+      "keywords": [
+        "Astronomical publications",
+        "Hubble Atlas of the Galaxies",
+        "California Institute of Technology bookstore",
+        "Sky Publishing Corporation",
+        "Herbert A. Luft",
+        "Astronomy books",
+        "Catalogues",
+        "Gerry Rattley"
+      ],
+      "pageStart": 461,
+      "pageEnd": 461
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7701/Eph77_01.pdf",
+      "txtPath": "7701/Eph77_01.md"
+    }
+  ]
+}

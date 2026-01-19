@@ -1,0 +1,522 @@
+{
+  "articles": [
+    {
+      "id": "eph77-12-future-predictions",
+      "documentId": "eph77-12",
+      "title": "Future Predictions",
+      "summary": "This document, titled \"Future Predictions,\" outlines a schedule of upcoming events for the San Jose Astronomical Association from November through January. It lists general meetings, indoor star parties, a Board of Directors meeting, and other activities like an outdoor \"F.E.A.O.\" event and the Winter Solstice. Potential speakers for the general meetings include Erni Piini, Allen Meyer, and Leo C. Henzl.",
+      "categories": [
+        "Club Announcements",
+        "Events",
+        "Meetings",
+        "Calendar"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "star party",
+        "general meeting",
+        "board meeting",
+        "Winter Solstice",
+        "Henry Coe State Park",
+        "event schedule",
+        "Erni Piini",
+        "Leo C. Henzl",
+        "John Rhodes"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-12-nov-12-f-e-a-o-at-coe-park",
+      "documentId": "eph77-12",
+      "title": "Nov. 12 F.E.A.O. at Coe Park",
+      "summary": "This article reports on a November 12th Field Event/Astronomy/Observing (F.E.A.O.) session held at Coe Park. Despite initial pleasant weather turning cold and some issues with high clouds, attendees, including both long-time members and new participants, enjoyed views of celestial objects like Jupiter, Saturn, Orion, and M3 through various telescopes, resulting in a positive observing experience.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Social Gathering",
+        "Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Coe Park",
+        "Observing session",
+        "Star party",
+        "Jupiter",
+        "Saturn",
+        "Orion",
+        "M3",
+        "Telescopes",
+        "Binoculars",
+        "Weather conditions",
+        "New members",
+        "Astronomy club",
+        "F.E.A.O."
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-12-sanborn-canyon-nov-19",
+      "documentId": "eph77-12",
+      "title": "Sanborn Canyon, Nov. 19.",
+      "summary": "A public astronomical observing session held at Sanborn Canyon on November 19 was highly successful, attracting over a hundred attendees including many club members. Participants engaged in observing, notably attempting to view Jupiter's Red Spot. The article also includes a welcome and contact information for several new members joining the organization.",
+      "categories": [
+        "Observing Report",
+        "Event Report",
+        "Club News",
+        "Membership Update"
+      ],
+      "keywords": [
+        "Sanborn Canyon",
+        "Astronomical Observing Session",
+        "Jupiter's Red Spot",
+        "West Valley",
+        "Club members",
+        "New members",
+        "Public outreach",
+        "Astronomy event"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-12-editorial",
+      "documentId": "eph77-12",
+      "title": "Editorial",
+      "summary": "This editorial by Penny E. Pinschmit discusses the governance of a bulletin's content, advocating for the editor to have primary decision-making power over the Board. The author suggests an alternative where the Board writes the bulletin as a committee but expresses discomfort with receiving feedback exclusively from the Board. Pinschmit appeals to the general membership for opinions and ideas, encouraging them to communicate with both the editor and the Board.",
+      "categories": [
+        "Editorial",
+        "Organizational Management",
+        "Internal Communication"
+      ],
+      "keywords": [
+        "Editorial control",
+        "Bulletin content",
+        "Editor role",
+        "Board responsibilities",
+        "Member feedback",
+        "Organizational governance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-12-news-notez",
+      "documentId": "eph77-12",
+      "title": "NEWS NOTEZ",
+      "summary": "The 'NEWS NOTEZ' section this month primarily features an abstract from The Astrophysical Journal by Allen Meyer, detailing observations of the Pleiades reflection nebulosity. The abstract explores the nebula's fine, organized filaments and proposes a mechanism where stellar radiation pressure on interstellar dust grains, akin to terrestrial cirrus cloud formation, causes these striations as an interstellar cloud interacts with the cluster.",
+      "categories": [
+        "research abstract",
+        "astrophysics",
+        "stellar phenomena",
+        "technical explanation"
+      ],
+      "keywords": [
+        "Pleiades",
+        "reflection nebulosity",
+        "interstellar clouds",
+        "striations",
+        "radiation pressure",
+        "dust grains",
+        "cirrus clouds",
+        "Astrophysical Journal",
+        "Allen Meyer"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph77-12-the-graze-expedition-november-4th-and-5th",
+      "documentId": "eph77-12",
+      "title": "The Graze Expedition - November 4th and 5th",
+      "summary": "A group of 23 amateur astronomers embarked on \"The Graze Expedition\" on November 4th and 5th, deploying 16 telescopes to observe an astronomical graze event. Despite meticulous planning and high enthusiasm, the expedition was unfortunately met with severe weather, including heavy rain, hail, and lightning, which prevented any successful observations. Despite the washout, participants maintained high spirits and camaraderie throughout the challenging night.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Expedition",
+        "Amateur Astronomy",
+        "Community Event"
+      ],
+      "keywords": [
+        "Graze Expedition",
+        "Lunar Graze",
+        "Occultation",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Weather Challenges",
+        "Field Observation",
+        "Group Activity",
+        "Astronomy Event"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph77-12-great-red-spot-on-meridian-pst",
+      "documentId": "eph77-12",
+      "title": "Great Red Spot on Meridian PST",
+      "summary": "This document provides a detailed schedule, in PST, for when Jupiter's Great Red Spot (GRS) will transit the central meridian, indicating optimal viewing times. The author, Jim Van Nuland, is soliciting feedback from observers to determine the utility and accuracy of these predictions for the astronomical community.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Events Schedule",
+        "Community Feedback"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "meridian transit",
+        "PST",
+        "observing schedule",
+        "planetary observation",
+        "astronomy predictions",
+        "visibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-12-ads",
+      "documentId": "eph77-12",
+      "title": "ADS",
+      "summary": "This document is an advertisement section listing two telescopes for sale. One is a TASCO 4 1/2\" reflecting telescope with a German mount, setting circles, and a wooden tripod. The other is an 8-inch Newtonian f/7 telescope, priced at $289.00, which includes a car top rack, four eyepieces, and a finder scope.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Reflecting Telescope",
+        "Newtonian Telescope",
+        "Tasco",
+        "German mount",
+        "Eyepieces",
+        "Finder scope",
+        "Used equipment",
+        "Astronomy gear"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-12-adoption-of-new-by-laws",
+      "documentId": "eph77-12",
+      "title": "Adoption of new By-laws",
+      "summary": "The article announces the upcoming vote for the ratification of new By-laws, which include a name change and grammatical corrections, to be held at the January 1978 meeting. It also features extensive tabular data detailing observations of numerous double stars across various constellations, including their magnitudes, positions, and other observational parameters.",
+      "categories": [
+        "Organizational News",
+        "Administrative",
+        "Astronomical Data",
+        "Observing Reports",
+        "Historical Document"
+      ],
+      "keywords": [
+        "By-laws",
+        "ratification",
+        "meeting",
+        "January 1978",
+        "double stars",
+        "astronomical observations",
+        "star catalog",
+        "celestial objects",
+        "magnitude",
+        "constellations"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph77-12-article-i-corporate-structure",
+      "documentId": "eph77-12",
+      "title": "ARTICLE I -- CORPORATE STRUCTURE",
+      "summary": "This document, \"ARTICLE I -- CORPORATE STRUCTURE,\" establishes the San Jose Astronomical Association as a non-profit corporation. It specifies the organization's dedication to astronomy and allied sciences through research and education, and designates its principal office in Santa Clara County, California.",
+      "categories": [
+        "organizational structure",
+        "non-profit",
+        "legal",
+        "governance",
+        "bylaws"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "corporate structure",
+        "non-profit corporation",
+        "astronomy",
+        "research",
+        "education",
+        "Santa Clara County",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-12-article-ii-members",
+      "documentId": "eph77-12",
+      "title": "ARTICLE II -- MEMBERS",
+      "summary": "This document, \"ARTICLE II -- MEMBERS,\" outlines the different classes of membership within the Corporation: Active, Contributing, and Honorary Members. It details the qualifications, rights (including voting and receiving 'Sky and Telescope' magazine), and obligations (such as paying dues) for each class. Additionally, it sets forth the rules regarding annual and pro-rated new member dues, and defines the Corporation's fiscal year.",
+      "categories": [
+        "Organizational Governance",
+        "Bylaws",
+        "Membership Rules"
+      ],
+      "keywords": [
+        "Membership",
+        "Active Members",
+        "Contributing Members",
+        "Honorary Members",
+        "Dues",
+        "Board of Directors",
+        "Voting Rights",
+        "Sky and Telescope",
+        "Fiscal Year",
+        "Corporation"
+      ],
+      "pageStart": 1,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph77-12-page-2-5-sjaa-by-laws-january-5-1978",
+      "documentId": "eph77-12",
+      "title": "Page 2-5                    SJAA By-Laws            January 5, 1978",
+      "summary": "This document, dated January 5, 1978, outlines a specific clause in the SJAA By-Laws concerning household memberships. It states that additional active members within a household receive full membership privileges, excluding a subscription to 'Sky and Telescope', with their annual dues adjusted by the magazine's corporate subscription cost.",
+      "categories": [
+        "Organizational Documents",
+        "Membership Policies",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA By-Laws",
+        "Membership",
+        "Dues",
+        "Sky and Telescope",
+        "Organizational Policy",
+        "1978"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-12-article-iii-membership-meetings",
+      "documentId": "eph77-12",
+      "title": "ARTICLE III -- MEMBERSHIP MEETINGS",
+      "summary": "This article outlines the rules and procedures for an organization's membership meetings. It specifies monthly meetings with a designated Annual Meeting in June for Director elections, sets quorum requirements for different meeting types (25% for Annual, attending members for others), and details how Special Meetings can be called. Additionally, it establishes notice requirements for Annual and Special Meetings.",
+      "categories": [
+        "Organizational Rules",
+        "Governance",
+        "Bylaws"
+      ],
+      "keywords": [
+        "Membership Meetings",
+        "Annual Meeting",
+        "Special Meetings",
+        "Quorum",
+        "Board of Directors",
+        "Elections",
+        "Meeting Notice",
+        "Organizational Procedures"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-12-article-iv-directors",
+      "documentId": "eph77-12",
+      "title": "ARTICLE IV -- DIRECTORS",
+      "summary": "This article, 'ARTICLE IV -- DIRECTORS,' outlines the structure and functions of a Corporation's Board of Directors. It details that a nine-member Board holds corporate powers, with directors elected for staggered two-year terms by active members. The article also specifies procedures for filling vacancies and scheduling regular or special board meetings.",
+      "categories": [
+        "Organizational Governance",
+        "Bylaws",
+        "Corporate Administration",
+        "Rules and Regulations"
+      ],
+      "keywords": [
+        "Directors",
+        "Board of Directors",
+        "Corporate Powers",
+        "Elections",
+        "Terms",
+        "Vacancies",
+        "Meetings",
+        "Governance",
+        "Corporation"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph77-12-january-5-1978-sjaa-by-laws-page-3-5",
+      "documentId": "eph77-12",
+      "title": "January 5, 1978          SJAA By-Laws          Page 3-5",
+      "summary": "This document outlines specific sections of the San Jose Astronomical Association (SJAA) By-Laws from January 5, 1978. It details requirements for notices of Board of Directors meetings, the necessary quorum for conducting business, and the qualifications and conditions for termination of Board membership.",
+      "categories": [
+        "Organizational Documents",
+        "Governance",
+        "By-Laws",
+        "Association Rules"
+      ],
+      "keywords": [
+        "SJAA By-Laws",
+        "Board of Directors",
+        "Meeting Notices",
+        "Quorum",
+        "Board Membership",
+        "Qualifications",
+        "Termination"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-12-article-v-officers",
+      "documentId": "eph77-12",
+      "title": "ARTICLE V -- OFFICERS",
+      "summary": "This article outlines the roles, election process, and duties of the Corporation's officers, including the President, Vice President, Secretary, and Treasurer. Officers are chosen by the Board of Directors for a one-year term, typically from within the Board, with provisions for electing qualified active members if necessary. It details the specific responsibilities of the President, Vice President, and Secretary.",
+      "categories": [
+        "Bylaws",
+        "Governance",
+        "Organizational Structure",
+        "Rules and Procedures"
+      ],
+      "keywords": [
+        "Officers",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Board of Directors",
+        "Election",
+        "Duties",
+        "Term",
+        "Corporation"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph77-12-page-4-5-sjaa-by-laws-january-5-1978",
+      "documentId": "eph77-12",
+      "title": "Page 4-5                    SJAA By-Laws                    January 5, 1978",
+      "summary": "This document, an excerpt from the SJAA By-Laws dated January 5, 1978, details the specific duties of the Secretary and the Treasurer within the corporation. It outlines their responsibilities regarding documentation, finances, notices, and reporting to the Board of Directors. Additionally, it specifies the procedure for filling vacancies in corporate offices by election from the Board of Directors.",
+      "categories": [
+        "Organizational Governance",
+        "Historical Document",
+        "Bylaws",
+        "Administrative Procedures"
+      ],
+      "keywords": [
+        "SJAA By-Laws",
+        "Secretary duties",
+        "Treasurer duties",
+        "Corporate vacancies",
+        "Board of Directors",
+        "Organizational structure",
+        "1978",
+        "Corporate responsibilities"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph77-12-article-vi-committees",
+      "documentId": "eph77-12",
+      "title": "ARTICLE VI -- COMMITTEES",
+      "summary": "This article outlines the structure and responsibilities of two types of committees within an organization. It details the formation of a Nominating Committee by the President one month before the Annual Meeting, tasked with proposing candidates for Director elections. Additionally, it states that the Board of Directors has the authority to establish and control its own committees.",
+      "categories": [
+        "Governance",
+        "Organizational Structure",
+        "Bylaws"
+      ],
+      "keywords": [
+        "Committees",
+        "Nominating Committee",
+        "Board of Directors",
+        "Annual Meeting",
+        "Elections",
+        "Governance",
+        "Organizational Structure"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph77-12-january-5-1978-sjaa-by-laws-page-5-5",
+      "documentId": "eph77-12",
+      "title": "January 5, 1978                SJAA By-Laws                Page 5-5",
+      "summary": "This document, dated January 5, 1978, outlines Section 3 of the SJAA By-Laws concerning President's Committees. It states that the President has the authority to establish and control these committees, and their actions or findings may be subject to ratification by the Board of Directors if the Board desires.",
+      "categories": [
+        "Organizational",
+        "Governance",
+        "By-Laws"
+      ],
+      "keywords": [
+        "SJAA",
+        "By-Laws",
+        "President",
+        "Committees",
+        "Board of Directors",
+        "Ratification",
+        "Organizational Structure"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph77-12-article-vii-dissolution",
+      "documentId": "eph77-12",
+      "title": "ARTICLE VII -- DISSOLUTION",
+      "summary": "This article details the procedure for dissolving a non-profit corporation, requiring a three-fourths vote of active members to initiate the dissolution. Upon dissolution, the corporation's funds and properties are to be distributed by the Board of Directors, with active member approval, exclusively to other charitable or scientific organizations in California, ensuring no assets benefit individuals.",
+      "categories": [
+        "Legal",
+        "Organizational Governance",
+        "Non-profit Operations",
+        "Bylaws"
+      ],
+      "keywords": [
+        "Dissolution",
+        "Non-profit corporation",
+        "Charitable purposes",
+        "Scientific purposes",
+        "Asset distribution",
+        "Membership vote",
+        "Board of Directors",
+        "California Revenue and Taxation Code"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-12-article-viii-amendments",
+      "documentId": "eph77-12",
+      "title": "ARTICLE VIII -- AMENDMENTS",
+      "summary": "This article outlines the process for amending, repealing, or adopting new By-Laws, requiring a two-thirds vote of Active Members present at a meeting and one month's notice to all members. It also provides a historical log of significant by-law changes and adoptions, dating from 1955 through 1978, detailing revisions to various articles and sections within the organizational structure.",
+      "categories": [
+        "Organizational Governance",
+        "Administrative Procedures",
+        "Historical Record"
+      ],
+      "keywords": [
+        "By-Laws",
+        "Amendments",
+        "Voting",
+        "Membership Meetings",
+        "Corporate Governance",
+        "Organizational History",
+        "Policies",
+        "Procedures"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7712/Eph77_12.pdf",
+      "txtPath": "7712/Eph77_12.md"
+    }
+  ]
+}

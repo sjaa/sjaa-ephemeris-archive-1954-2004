@@ -1,0 +1,199 @@
+{
+  "articles": [
+    {
+      "id": "eph77-06-calendar-of-events",
+      "documentId": "eph77-06",
+      "title": "CALENDAR OF EVENTS:",
+      "summary": "This calendar outlines the San Jose Astronomical Association's events for June and July, including an annual meeting with elections and a slide night on June 3rd, several board and general meetings, and multiple Field Expeditions for Astronomical Observation (F.E.A.O.). Notably, the association is testing Lexington School as a potential new observing site, and new officers will be installed at a picnic on July 9th.",
+      "categories": [
+        "Events Calendar",
+        "Organizational Meetings",
+        "Astronomical Observation",
+        "Club News",
+        "Site Scouting"
+      ],
+      "keywords": [
+        "June events",
+        "July events",
+        "San Jose Astronomical Association",
+        "Elections",
+        "Slide Night",
+        "Board Meeting",
+        "Field Expedition for Astronomical Observation",
+        "F.E.A.O.",
+        "Observing Sites",
+        "Lexington School",
+        "Olinder Center",
+        "Los Gatos Red Cross",
+        "Officer Installation",
+        "Picnic"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-06-membership-renewals",
+      "documentId": "eph77-06",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "Members are reminded to renew their membership by submitting their yellow Sky and Telescope renewal cards and the appropriate fee ($15 for regular, $10 for junior) to Treasurer John Rhodes. Renewing by July is crucial to avoid missing an issue of Sky and Telescope magazine.",
+      "categories": [
+        "membership",
+        "announcement",
+        "administration",
+        "fees"
+      ],
+      "keywords": [
+        "membership renewal",
+        "fees",
+        "Sky and Telescope",
+        "treasurer",
+        "deadline",
+        "junior membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-06-henry-coe-park-f-e-a-o-field-expedition-for-astronomical-observation",
+      "documentId": "eph77-06",
+      "title": "HENRY COE PARK F.E.A.O. (Field Expedition for Astronomical Observation)",
+      "summary": "The May F.E.A.O. at Henry Coe Park was impacted by adverse weather conditions (wind, cold, fog) and organizational issues despite high attendance. A major problem was the frequent leaving open of the gate to the observing site, necessitating stricter enforcement of closure rules. Future events require visitors without telescopes to park across the gate and walk, reducing gate traffic and ensuring continued access to the site.",
+      "categories": [
+        "Observing Report",
+        "Event Logistics",
+        "Site Management"
+      ],
+      "keywords": [
+        "Henry Coe Park",
+        "F.E.A.O.",
+        "Astronomical Observation",
+        "Observing Site Rules",
+        "Event Management",
+        "Weather Impact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-06-periodic-comet-encke",
+      "documentId": "eph77-06",
+      "title": "PERIODIC COMET ENCKE",
+      "summary": "This document provides an ephemeris for Periodic Comet Encke's 1977 perihelion passage, noting its challenging observational conditions due to its close proximity to the sun throughout June to August. Additionally, it includes brief scientific news items from April-May 1977 regarding evidence for quark electrical charge, a theory on cosmic rays originating from supernova explosions, and the discovery of two new 'Apollo' type asteroids.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Observing Reports",
+        "News",
+        "Astrophysics",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Comet Encke",
+        "Ephemeris",
+        "1977",
+        "Perihelion passage",
+        "Observational conditions",
+        "Quark charge",
+        "Cosmic rays",
+        "Supernovae",
+        "Apollo asteroids"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-06-lunar-occultations",
+      "documentId": "eph77-06",
+      "title": "LUNAR OCCULTATIONS",
+      "summary": "This article lists several lunar occultation events scheduled for June, primarily around the 21st, 22nd, and 24th, with details on magnitude, illumination, and visibility conditions. It notes that the list is short and some stars are dim but observable if skies are clear. The article also explains why disappearances are common around the first quarter moon due to its dark eastern limb, encouraging observers to watch these events.",
+      "categories": [
+        "observing reports",
+        "astronomical events",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "lunar occultations",
+        "occultation",
+        "moon",
+        "stars",
+        "observing",
+        "astronomical events",
+        "first quarter moon",
+        "June"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-06-saturn",
+      "documentId": "eph77-06",
+      "title": "SATURN",
+      "summary": "This article serves as a guide for observing Saturn and its satellites before the planet becomes obscured by the Sun until late in the year. It provides detailed instructions on how to plot satellite positions using provided tables, along with recommendations for telescope power and observing techniques. The document includes extensive tabular data listing the magnitudes, scope requirements, and orbital periods for Saturn's major moons, as well as their calculated positions for various dates in June and early July.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy News",
+        "Ephemeris Data",
+        "Amateur Astronomy",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Saturn",
+        "Saturnian moons",
+        "satellite observation",
+        "finder chart",
+        "telescope",
+        "magnification",
+        "averted vision",
+        "Mimas",
+        "Enceladus",
+        "Tethys",
+        "Dione",
+        "Rhea",
+        "Titan",
+        "Hyperion",
+        "Iapetus",
+        "observing tips",
+        "planet visibility",
+        "celestial positions"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph77-06-north-celestial-pole",
+      "documentId": "eph77-06",
+      "title": "North Celestial Pole",
+      "summary": "This document describes a star chart centered on the North Celestial Pole (NCP), showing faint stars with visual magnitudes less than 9.6 within 1.1 degrees of the 1950 pole. It specifies the chart's scale (1 arc-minute per millimeter) and area (3° x 3°). The text also details the Celestial Pole's annual motion of 20 arc-seconds along a circular path, noting its negligible curvature at the chart's scale.",
+      "categories": [
+        "astronomy",
+        "observing guide",
+        "celestial mechanics",
+        "star charts",
+        "technical"
+      ],
+      "keywords": [
+        "North Celestial Pole",
+        "NCP",
+        "star chart",
+        "visual magnitude",
+        "stellar motion",
+        "α UMi",
+        "arc-minute",
+        "arc-second",
+        "celestial coordinates",
+        "declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7706/Eph77_06.pdf",
+      "txtPath": "7706/Eph77_06.md"
+    }
+  ]
+}

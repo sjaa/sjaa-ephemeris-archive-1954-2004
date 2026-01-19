@@ -1,0 +1,91 @@
+{
+  "articles": [
+    {
+      "id": "eph74-08-sjaa-officers",
+      "documentId": "eph74-08",
+      "title": "SJAA Officers",
+      "summary": "The document lists the current officers and board members for the San Jose Astronomical Association (SJAA). It identifies the President, Vice-president, Treasurer, and Secretary by name along with their phone numbers, and also names the organization's board members.",
+      "categories": [
+        "Organizational Information",
+        "Leadership",
+        "Contact Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Officers",
+        "Board Members",
+        "President",
+        "Vice-president",
+        "Treasurer",
+        "Secretary",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-08-recent-activities",
+      "documentId": "eph74-08",
+      "title": "RECENT ACTIVITIES:",
+      "summary": "This document details two recent astronomy club activities: an installation picnic and star party on July 13 at Levin Park, and a star party on July 20 at Henry Coe State Park. The Levin Park event had mixed success due to poor sky conditions, though a potential fireball was observed. In contrast, the Henry Coe State Park star party was highly successful, offering excellent viewing of various deep-sky objects and showcasing notable astronomical equipment.",
+      "categories": [
+        "observing reports",
+        "club activities",
+        "star parties",
+        "events",
+        "astronomy equipment",
+        "astrophotography"
+      ],
+      "keywords": [
+        "star party",
+        "observing report",
+        "deep-sky objects",
+        "astronomy equipment",
+        "astrophotography",
+        "Levin Park",
+        "Henry Coe State Park",
+        "nebulae",
+        "galaxies",
+        "club event",
+        "fireball"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-08-coming-events",
+      "documentId": "eph74-08",
+      "title": "COMING EVENTS:",
+      "summary": "This article outlines upcoming astronomical events for August and September, featuring general meetings with discussions on topics like galaxies, an overnight star party coinciding with a new moon, and several public star parties. It also lists a board meeting and includes a request for bulletin submissions regarding future content.",
+      "categories": [
+        "Events",
+        "News",
+        "Astronomy Club Activities",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Coming Events",
+        "General Meeting",
+        "Star Party",
+        "Public Star Party",
+        "Overnight Star Party",
+        "New Moon",
+        "Galaxies",
+        "Board Meeting",
+        "August Events",
+        "September Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph74-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7408/Eph74_08.pdf",
+      "txtPath": "7408/Eph74_08.md"
+    }
+  ]
+}

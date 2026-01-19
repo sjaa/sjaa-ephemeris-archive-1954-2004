@@ -1,0 +1,571 @@
+{
+  "articles": [
+    {
+      "id": "eph78-06-june-in-the-year-1978",
+      "documentId": "eph78-06",
+      "title": "JUNE IN THE YEAR 1978",
+      "summary": "This document outlines a detailed schedule of astronomical events, club meetings, and star parties organized by the San Jose Astronomical Association and its affiliates for June and July 1978. Key events include indoor and outdoor star parties, general meetings featuring guest speakers like Ken Wilson and Tom Gates, a major expedition for a Lunar Graze Occultation of Aldebaran, and an annual banquet.",
+      "categories": [
+        "events",
+        "club activities",
+        "announcements",
+        "astronomy calendar"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "star parties",
+        "club meetings",
+        "astronomical events",
+        "lunar occultation",
+        "Riverside Telescope Makers Conference",
+        "Fremont Peak",
+        "amateur astronomy",
+        "1978"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph78-06-circumstances",
+      "documentId": "eph78-06",
+      "title": "Circumstances:",
+      "summary": "This document outlines the viewing conditions for an astronomical event involving the 'dark side of southern cusp'. It specifies the Sun's position at 4 degrees up and the Moon at 22 degrees up, located south of the Sun. The article notes that this phenomenon will be readily observable through a telescope.",
+      "categories": [
+        "Observing Conditions",
+        "Astronomy",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "dark side",
+        "southern cusp",
+        "Sun",
+        "Moon",
+        "telescopic observation",
+        "observing circumstances",
+        "celestial alignment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-probable-location-ne-of-galt-along-alta-mesa-rd-or-other-nearby",
+      "documentId": "eph78-06",
+      "title": "Probable location: NE of Galt, along Alta Mesa Rd. or other nearby.",
+      "summary": "This document provides detailed driving instructions to a probable location northeast of Galt, California, along Alta Mesa Road or a nearby area. Participants are instructed to take I-5 North from Stockton, exit east on Twin Cities Road (B13), and then turn north onto Alta Mesa Road, where an organizer will assign sites upon arrival.",
+      "categories": [
+        "Logistics",
+        "Directions",
+        "Event Planning"
+      ],
+      "keywords": [
+        "Galt",
+        "Alta Mesa Rd",
+        "Twin Cities Road",
+        "I-5",
+        "Stockton",
+        "Location",
+        "Directions",
+        "Meeting Point"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-time-start-continuous-record-at-5-00",
+      "documentId": "eph78-06",
+      "title": "Time: Start continuous record at 5:00-",
+      "summary": "This document outlines preparations for an early morning astronomical observation, instructing participants to be ready by 5:30 AM PDT for a central graze time at 6:11 AM. It advises allowing ample time for equipment setup, finding the target, and testing. Participants are also invited to arrive the evening before to enjoy dark sky viewing.",
+      "categories": [
+        "observing guide",
+        "event preparation",
+        "astronomy"
+      ],
+      "keywords": [
+        "graze",
+        "observation",
+        "setup",
+        "equipment",
+        "dark sky",
+        "PDT"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-cb-channel-14",
+      "documentId": "eph78-06",
+      "title": "CB: Channel 14.",
+      "summary": "This document outlines communication protocols for the \"Graze Chasers\" group operating on CB Channel 14, instructing members to respond to group calls with their individual handles. The author identifies their handle as \"Sunspot\" and provides practical details regarding handy-talkie range and potential retransmission via W6V.",
+      "categories": [
+        "Communication Guidelines",
+        "Group Operations",
+        "Radio Communication",
+        "Technical Information"
+      ],
+      "keywords": [
+        "CB Radio",
+        "Channel 14",
+        "Graze Chasers",
+        "Handles",
+        "Handy-talkies",
+        "W6V",
+        "Communication protocols"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-some-handy-numbers-and-stuff",
+      "documentId": "eph78-06",
+      "title": "Some handy numbers and stuff",
+      "summary": "This document compiles a detailed set of astronomical data, including various position angles related to lunar grazes (graze position, vertex, cusp, Watts), twilight and rise times, and specific lunar coordinates (elevation, azimuth, RA, Dec, illumination) for 5 AM, epoch 1978. It also lists stellar characteristics (magnitude 1.1, K5 spectrum) and mentions the constellation Taurus, with a diagram indicating the path of Aldebaran, strongly suggesting observations related to a lunar graze or occultation event. Contact information for Jim Van Nuland is provided.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Data",
+        "Lunar Occultation",
+        "Technical Notes"
+      ],
+      "keywords": [
+        "Graze Position Angle",
+        "Vertex Angle",
+        "Cusp Angle",
+        "Watts Angle",
+        "Moon North Pole PA",
+        "Twilight",
+        "Moonrise",
+        "Sunrise",
+        "Star Magnitude",
+        "Spectrum K5",
+        "Moon Elevation",
+        "Azimuth",
+        "Illumination",
+        "Right Ascension",
+        "Declination",
+        "Epoch 1978",
+        "Taurus",
+        "Aldebaran",
+        "Lunar Graze",
+        "Observing Data"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph78-06-the-finest-deep-sky-objects-on-the-skalnate-pleso-atlas-of-the-heavens-chart-iv",
+      "documentId": "eph78-06",
+      "title": "The Finest Deep Sky Objects on the Skalnate Pleso Atlas of the Heavens Chart IV",
+      "summary": "This article details a selection of \"finest deep sky objects\" from Chart IV of the Skalnate Pleso Atlas of the Heavens, primarily focusing on galaxies and the Coma Berenices star cluster. Each entry provides catalog information (NGC, Messier), detailed observational descriptions often referencing historical records (e.g., Herschel's notes), physical characteristics, and recommended telescope powers for optimal viewing. It serves as a practical guide for amateur astronomers interested in observing these specific celestial targets.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Deep Sky Objects",
+        "Amateur Astronomy",
+        "Celestial Atlas Reference"
+      ],
+      "keywords": [
+        "Deep Sky Objects",
+        "Galaxies",
+        "Star Clusters",
+        "NGC",
+        "Messier",
+        "Skalnate Pleso Atlas",
+        "Observational Astronomy",
+        "Telescopic Observing",
+        "Amateur Astronomy",
+        "William Herschel",
+        "Coma Berenices Cluster",
+        "Galaxy Morphology",
+        "Celestial Chart"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph78-06-finest-skalnate-pleso-objects-chart-iv-continued",
+      "documentId": "eph78-06",
+      "title": "Finest Skalnate Pleso Objects - Chart IV, continued",
+      "summary": "This article, a continuation of \"Finest Skalnate Pleso Objects - Chart IV,\" provides detailed observational descriptions for a selection of deep-sky objects, primarily galaxies and globular clusters, from the NGC and Messier catalogs. It includes celestial coordinates, catalog data, and extensive notes on visual characteristics and recommended magnifications for each object. The content serves as a guide for amateur astronomers exploring notable celestial targets like the Whirlpool and Black-eye Galaxies.",
+      "categories": [
+        "Observing Reports",
+        "Deep-sky Astronomy",
+        "Astronomy Catalogs",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Skalnate Pleso",
+        "NGC",
+        "Messier objects",
+        "Galaxies",
+        "Globular Clusters",
+        "Deep-sky observation",
+        "Telescope viewing",
+        "Canes Venatici",
+        "Coma Berenices",
+        "Ursa Major",
+        "Bootes",
+        "Draco",
+        "Whirlpool Galaxy",
+        "Black-eye Galaxy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph78-06-comet-comments-5-20-78",
+      "documentId": "eph78-06",
+      "title": "COMET COMMENTS (5-20-78)",
+      "summary": "The year 1978 has been productive for comets, with eight discoveries including two by amateurs. William Bradfield made his seventh discovery, Comet Bradfield (1978a), which was visible to U.S. observers but is now dimming rapidly. Rolf Meier discovered Comet Meier (1978f), a 10.6 magnitude object that may reach naked-eye visibility in November, while professional astronomer Paul Wild discovered Comet Wild (1978b).",
+      "categories": [
+        "Comet Discoveries",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Astronomical News",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Comet Bradfield",
+        "Comet Meier",
+        "Comet Wild",
+        "Comet hunting",
+        "1978",
+        "Amateur discoveries",
+        "Magnitude",
+        "Perihelion",
+        "Refractor",
+        "Reflector"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-comet-meier-1978f",
+      "documentId": "eph78-06",
+      "title": "Comet Meier (1978f)",
+      "summary": "This document presents observational data for Comet Meier (1978f). It includes an ephemeris table detailing the comet's Right Ascension, Declination, and estimated magnitude across various dates in June and July 1978, as sourced from IAUC 3220.",
+      "categories": [
+        "observing reports",
+        "astronomical data",
+        "cometary astronomy"
+      ],
+      "keywords": [
+        "Comet Meier",
+        "1978f",
+        "comet",
+        "ephemeris",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "IAUC 3220",
+        "1978"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-comet-wild-2-1978b",
+      "documentId": "eph78-06",
+      "title": "Comet Wild 2 (1978b)",
+      "summary": "This document provides an ephemeris for Comet Wild 2 (1978b) spanning from June 1 to July 11, 1978. It lists the comet's right ascension, declination, and visual magnitude on various dates during this period. The data is sourced from IAUC 3177 and includes a contact reference.",
+      "categories": [
+        "Comets",
+        "Astrometry",
+        "Ephemeris",
+        "Observing Data",
+        "Historical Data"
+      ],
+      "keywords": [
+        "Comet Wild 2",
+        "1978b",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "IAUC 3177",
+        "Don Machholz"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph78-06-don-machholz-nighttime-activities",
+      "documentId": "eph78-06",
+      "title": "DON MACHHOLZ' NIGHTTIME ACTIVITIES",
+      "summary": "Don Machholz is a dedicated comet hunter who has logged 1400-1500 hours over a decade with his 10-inch telescope, primarily in the mornings. He actively communicates with other comet hunters and observes numerous satellites and meteors during his searches, remaining optimistic about an eventual discovery. The article also covers a recent general meeting that featured a program at the Rosicrucian Planetarium and announced upcoming club events, including next month's program and board elections.",
+      "categories": [
+        "Amateur Astronomy",
+        "Profiles",
+        "Observing Reports",
+        "Club News",
+        "Events",
+        "Meeting Announcements"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "comet hunting",
+        "amateur astronomy",
+        "telescopes",
+        "observing",
+        "meteors",
+        "satellites",
+        "astronomy club meetings",
+        "planetarium",
+        "astronomy events",
+        "board elections"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-blurb-1",
+      "documentId": "eph78-06",
+      "title": "Blurb 1",
+      "summary": "The article announces the upcoming election night on June 17th, encouraging nominations for board positions. It also reports that Douglas H. Buettner has been appointed to the board, filling a vacancy. The last board meeting had low attendance, primarily focusing on discussions about the banquet.",
+      "categories": [
+        "Organizational News",
+        "Announcements",
+        "Governance",
+        "Personnel Updates"
+      ],
+      "keywords": [
+        "Election",
+        "Nominations",
+        "Board Positions",
+        "Board Meeting",
+        "Appointments",
+        "Banquet",
+        "Quorum",
+        "Organizational Updates"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph78-06-editorial",
+      "documentId": "eph78-06",
+      "title": "Editorial",
+      "summary": "The author, Penny E. Korstwood, expresses gratitude to various individuals, including Phil Hermeneuez, Jim Van Nuland, Don Machholz, Jeff Lo, and Cathy Pinheiro, for their contributions and help this month. She also solicits new content for the upcoming month, specifically an interview and puzzles, while mentioning her rush to prepare for an event called 'Riverside'.",
+      "categories": [
+        "Editorial",
+        "Community Engagement",
+        "Publication Update",
+        "Call for Contributions"
+      ],
+      "keywords": [
+        "Editorial",
+        "Thanks",
+        "Contributors",
+        "Community",
+        "Interviews",
+        "Puzzles",
+        "Riverside",
+        "Publication",
+        "Penny E. Korstwood"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-guest-editorial",
+      "documentId": "eph78-06",
+      "title": "GUEST EDITORIAL",
+      "summary": "A guest editorial criticizes the club's Board for unilaterally changing the meeting venue and time to the Rosicrucian Planetarium on Saturday nights without allowing member discussion or comments. The author deems this improper, arguing that such a significant decision warranted member input despite the Board's authority and ample time available at the meeting. The editorial invites other members to share their opinions on the matter.",
+      "categories": [
+        "Opinion",
+        "Club Governance",
+        "Club Operations",
+        "Internal Communication"
+      ],
+      "keywords": [
+        "Club Meeting Change",
+        "Board Decision",
+        "Member Discussion",
+        "Rosicrucian Planetarium",
+        "Club Governance",
+        "Editorial"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-mistakes",
+      "documentId": "eph78-06",
+      "title": "MISTAKES",
+      "summary": "This article, titled \"MISTAKES,\" serves as a detailed correction notice for several errors found in the previous month's bulletin. It addresses incorrect dates for 'Sun Day' and a star party, missing times for general meetings, and an inaccurate planetarium show topic, all attributed to various informational mix-ups.",
+      "categories": [
+        "corrections",
+        "club news",
+        "events",
+        "meeting information"
+      ],
+      "keywords": [
+        "bulletin errors",
+        "Sun Day",
+        "Rosicrucian Planetarium",
+        "Gerry Rattley",
+        "general meetings",
+        "star party",
+        "AANC",
+        "Peak"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph78-06-lecture",
+      "documentId": "eph78-06",
+      "title": "LECTURE",
+      "summary": "Phil Hermsmeyer attended a lecture by Dr. Wm. Kaufman titled \"Black Holes and Einstein's Theory of Relativity\" at San Jose City College. Dr. Kaufman presented a history of astronomy leading to Einstein's theories, explained relativity in layman's terms, and detailed the characteristics and effects of three types of black holes, including the fate of someone falling into one. Despite a low turnout from the SJAA, the lecture was dynamic, engaging, and well-received.",
+      "categories": [
+        "Lecture Review",
+        "Event Report",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "Black Holes",
+        "Einstein's Theory of Relativity",
+        "Dr. Wm. Kaufman",
+        "Astronomy History",
+        "Relativity",
+        "San Jose City College",
+        "SJAA",
+        "Lecture"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-henry-coe",
+      "documentId": "eph78-06",
+      "title": "HENRY COE",
+      "summary": "This article details a club-sponsored star party held at Henry Coe State Park on May 6th, despite many members being at another event. Attendees, including Phil Hermsmeyer, Pete Manly, and Jim Van Nuland, observed faint objects and prominent sections of the Milky Way, with twelfth magnitude galaxies visible in an 8-inch Newtonian telescope. The report describes the enjoyable observing experience and some of the equipment used.",
+      "categories": [
+        "observing reports",
+        "club events",
+        "astronomy",
+        "trip report"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "star party",
+        "observing",
+        "telescopes",
+        "faint objects",
+        "Milky Way",
+        "galaxies",
+        "Phil Hermsmeyer",
+        "Pete Manly",
+        "Jim Van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-fremont-peak",
+      "documentId": "eph78-06",
+      "title": "FREMONT PEAK",
+      "summary": "This article recounts a star party held at Fremont Peak on May 5th & 6th, hosted by AANC. While Friday was cold and windy, Saturday was much warmer, during which Gerry Rattley was the first to spot Comet Meier. Attendees also included Kevin and Denni Medlock, and Kevin, along with instructor Tom Bullock, made a deal on a 6-inch refractor.",
+      "categories": [
+        "observing report",
+        "star party",
+        "club news",
+        "events"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "AANC",
+        "star party",
+        "Comet Meier",
+        "Gerry Rattley",
+        "Kevin Medlock",
+        "Tom Bullock",
+        "6-inch refractor",
+        "West Valley",
+        "May 5th & 6th"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph78-06-july-16",
+      "documentId": "eph78-06",
+      "title": "JULY 16",
+      "summary": "An event for club members and guests is scheduled for July 16, from 2 PM to 6 PM. The gathering will take place at \"Michael's\" located at 430 E. El Camino Real in Sunnyvale, with a cost of $7.50 per person.",
+      "categories": [
+        "Event Announcement",
+        "Social Gathering",
+        "Club Meeting"
+      ],
+      "keywords": [
+        "July 16",
+        "Event",
+        "Sunnyvale",
+        "Michael's",
+        "Club",
+        "Invitation",
+        "Cost",
+        "Social Gathering"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-06-menu",
+      "documentId": "eph78-06",
+      "title": "MENU",
+      "summary": "This document details a banquet event, likely for the San Jose Astronomical Association, offering a menu with choice of main course, sides, and dessert. Reservations are required by July 14 to Bob Fingerhut, specifying the number of guests and submitting payment of $7.50 per person to \"San Jose Astronomical Assoc.\"",
+      "categories": [
+        "Events",
+        "Meeting",
+        "Club Activity",
+        "Invitation"
+      ],
+      "keywords": [
+        "Banquet",
+        "Reservations",
+        "SJAA",
+        "Annual Meeting",
+        "Menu",
+        "Bob Fingerhut",
+        "July 14",
+        "Dinner"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph78-06-blurbs-ii",
+      "documentId": "eph78-06",
+      "title": "Blurbs II",
+      "summary": "This bulletin provides updates on club members, including Phil Hestander's contribution to the Bulletins and John Rhodes' recent illness. It announces an upcoming presentation by Bob Fingerhut and Jack Petersen about their astronomy trip to Arizona, and discusses information regarding the February 1978 total eclipse, urging prompt planning for a club expedition. Additionally, it reminds members about the immediate deadline for club dues renewal to maintain their Sky & Telescope subscription.",
+      "categories": [
+        "News",
+        "Announcements",
+        "Events",
+        "Club Business",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Club news",
+        "Member updates",
+        "Astronomy trip",
+        "Eclipse planning",
+        "February 1978 total eclipse",
+        "Club dues",
+        "Membership renewal",
+        "San Jose Astronomical Association",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph78-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7806/Eph78_06.pdf",
+      "txtPath": "7806/Eph78_06.md"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "id": "eph75-06-june-1975",
+      "documentId": "eph75-06",
+      "title": "JUNE 1975",
+      "summary": "This June 1975 astronomy club bulletin details recent successful public star parties, including a lunar eclipse event that drew 1000 attendees, and highlights members who won awards at the Riverside Telescope Maker's Convention. It outlines upcoming club activities such as general meetings with talks, elections for board members and officers, and several star parties, including a summer picnic. The bulletin also includes a critical magazine subscription reminder, a for-sale item, and various member observing reports and news snippets.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Club Administration",
+        "Equipment Sales"
+      ],
+      "keywords": [
+        "June 1975",
+        "Astronomy Club",
+        "Star Party",
+        "Lunar Eclipse",
+        "Telescope Makers Convention",
+        "Club Elections",
+        "General Meeting",
+        "Mt. Umunhum",
+        "Pluto",
+        "M-64",
+        "Frank Holden",
+        "Tom Mungall",
+        "Dave Erickson",
+        "Don McChaughlin",
+        "Joe Gilbert",
+        "John Dobson",
+        "Sky and Telescope",
+        "Guidescope",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7506/Eph75_06.pdf",
+      "txtPath": "7506/Eph75_06.md"
+    }
+  ]
+}

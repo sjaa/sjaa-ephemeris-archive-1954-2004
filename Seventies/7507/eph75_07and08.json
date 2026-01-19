@@ -1,0 +1,146 @@
+{
+  "articles": [
+    {
+      "id": "eph75-07and08-outgoing-officers",
+      "documentId": "eph75-07and08",
+      "title": "Outgoing Officers:",
+      "summary": "This document lists the names and contact numbers of the outgoing officers: President Tom Mungall, Vice-president Brian Day, Treasurer Gerry Rattley, and Secretary Norman Wild. It serves as an announcement of the current leadership preparing for transition.",
+      "categories": [
+        "Administrative",
+        "Organizational Update",
+        "Leadership Change"
+      ],
+      "keywords": [
+        "Outgoing officers",
+        "Leadership",
+        "Organizational change",
+        "Officers",
+        "Administration",
+        "President",
+        "Vice-president",
+        "Treasurer",
+        "Secretary"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-07and08-new-board-members",
+      "documentId": "eph75-07and08",
+      "title": "New Board Members:",
+      "summary": "This bulletin announces a list of new board members and important administrative updates. It notes that this is a combined July-August issue, with no further bulletins until September, and lists all activities for the next two months. Members are also reminded to submit their $14 and blue card to Gerry Rattley soon to ensure uninterrupted delivery of Sky & Telescope magazine.",
+      "categories": [
+        "administrative",
+        "membership",
+        "announcements",
+        "newsletter"
+      ],
+      "keywords": [
+        "board members",
+        "membership fees",
+        "Sky & Telescope",
+        "bulletin",
+        "subscription renewal",
+        "organizational updates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-07and08-recent-activities",
+      "documentId": "eph75-07and08",
+      "title": "RECENT ACTIVITIES:",
+      "summary": "This document outlines recent club activities, including a June general meeting where new board members and officers were elected. During the meeting, a lecture was given questioning the constancy of the velocity of light, and contributing members received deeds to celestial objects. The article also details two successful star parties held at Mt. Umunhum, where attendees viewed various deep-sky objects, nebulae, clusters, and double stars under improving sky conditions.",
+      "categories": [
+        "Club Meeting Report",
+        "Observing Report",
+        "Elections",
+        "Technical Discussion",
+        "Star Party",
+        "Awards"
+      ],
+      "keywords": [
+        "board elections",
+        "officers",
+        "velocity of light",
+        "star party",
+        "Mt. Umunhum",
+        "deep-sky objects",
+        "nebulae",
+        "globular clusters",
+        "galactic clusters",
+        "double stars",
+        "M 33",
+        "M 8",
+        "M 51",
+        "M 13",
+        "Mizar",
+        "Alberio",
+        "contributing members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-07and08-editorial",
+      "documentId": "eph75-07and08",
+      "title": "EDITORIAL:",
+      "summary": "This editorial addresses the ongoing controversy surrounding the Mt. Umunhum site, defending its value as a compromise for the San Jose Amateur Astronomers despite its imperfections. The editor refutes exaggerated disadvantages, highlighting its convenience, controlled light pollution from club members, and potential for a permanent observatory given its relatively low cost and good landlord relations. The piece urges thoughtful consideration before discarding the site at lease renewal.",
+      "categories": [
+        "Editorial",
+        "Club Operations",
+        "Site Selection",
+        "Observatory Planning"
+      ],
+      "keywords": [
+        "Mt. Umunhum",
+        "Observatory site",
+        "San Jose Amateur Astronomers",
+        "Site controversy",
+        "Lease renewal",
+        "Amateur astronomy club",
+        "Site management",
+        "Cost efficiency"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph75-07and08-coming-events-july-4-1975-holiday-no-activity",
+      "documentId": "eph75-07and08",
+      "title": "COMING EVENTS: July 4, 1975: Holiday-NO ACTIVITY.",
+      "summary": "This article outlines the astronomy club's schedule for July and August 1975, featuring several star parties, a combination picnic and officer installation, and a general meeting with a Schmidt camera demonstration. It also includes a list of new members, technical notes on upcoming lunar occultations, and classified ads for astronomy equipment.",
+      "categories": [
+        "Events",
+        "Club Announcements",
+        "Astronomy",
+        "Technical Information",
+        "Observing",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Lunar Occultations",
+        "Schmidt Camera",
+        "Club Meetings",
+        "New Members",
+        "Astronomy Equipment",
+        "Levin Park",
+        "Henry Coe State Park",
+        "Mt. Umunhum",
+        "Riverside Telescope Makers Convention"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-07and08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7507/eph75_07and08.pdf",
+      "txtPath": "7507/eph75_07and08.md"
+    }
+  ]
+}

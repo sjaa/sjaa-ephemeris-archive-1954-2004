@@ -1,0 +1,129 @@
+{
+  "articles": [
+    {
+      "id": "eph76-08-what-s-going-on-in-the-club",
+      "documentId": "eph76-08",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "The club's August activities include a general meeting on August 6th, where members are invited to share slides of recent acquisitions, and a discussion on potential new star party locations. A board meeting is scheduled for August 13th, and members are encouraged to attend the 1976 Western Amateur Astronomers convention in Escondido from August 18-21.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Meetings",
+        "Announcements"
+      ],
+      "keywords": [
+        "August",
+        "General Meeting",
+        "Slide Show",
+        "Starparty",
+        "Board Meeting",
+        "Western Amateur Astronomers Convention",
+        "Escondido",
+        "1976"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-08-a-n-n-o-u-n-c-e-m-e-n-t-s",
+      "documentId": "eph76-08",
+      "title": "A N N O U N C E M E N T S",
+      "summary": "This announcement details new club leadership, including a President, Vice President, Treasurer, and Secretary. It also informs members that star party information will no longer appear in the bulletin due to the club's resignation from the A.A.N.C., and that non-renewing members will stop receiving *Sky and Telescope* and future bulletins. Additionally, it provides an update source for the Viking Mars probe and a classified ad for astronomy equipment.",
+      "categories": [
+        "Club Administration",
+        "Membership",
+        "Club Communications",
+        "Events",
+        "Space Exploration",
+        "Classifieds",
+        "Announcements"
+      ],
+      "keywords": [
+        "Club leadership",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "A.A.N.C.",
+        "Star parties",
+        "Membership renewal",
+        "Sky and Telescope",
+        "Bulletin",
+        "Viking probe",
+        "Mars mission",
+        "NASA",
+        "Astronomy equipment"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-08-rattley-rattles",
+      "documentId": "eph76-08",
+      "title": "RATTLEY RATTLES",
+      "summary": "Gerald W. Rattley's column, \"Rattley Rattles,\" begins with corrections to previous articles on \"The Orbits of Visual Binary Stars,\" specifically addressing incorrect dates and reversed diagram labels. Rattley apologizes for the errors and encourages readers to report future mistakes. The column then shifts to discuss upcoming plans for lunar grazing occultations, spearheaded by Dave Ambrose, and extends a special note of thanks to former club president Trudy E. Bell for establishing and maintaining the club's grazing occultation section, with an upcoming graze to be held in her honor.",
+      "categories": [
+        "Corrections",
+        "Club News",
+        "Observing Planning",
+        "Acknowledgments",
+        "Astronomical Concepts"
+      ],
+      "keywords": [
+        "Gerald W. Rattley",
+        "Visual Binary Stars",
+        "Orbits",
+        "Corrections",
+        "Sky & Telescope",
+        "Lunar Grazing Occultations",
+        "Dave Ambrose",
+        "Trudy E. Bell",
+        "Astronomy Magazine",
+        "Apastron",
+        "Periastron"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph76-08-the-orbits-of-visual-binary-stars-contributed-by-gerald-w-rattley",
+      "documentId": "eph76-08",
+      "title": "The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley",
+      "summary": "This article, contributed by Gerald W. Rattley, analyzes the orbital elements of selected visual binary stars, particularly Epsilon¹'² Lyrae and Beta 648 in Lyra. It provides data from the Third Catalogue of the Orbits of Visual Binary Stars, detailed descriptions including magnitudes and spectra, and ephemerides for future positions. The author highlights observational characteristics relevant for amateur astronomers while noting the provisional nature of some orbits.",
+      "categories": [
+        "Astronomy",
+        "Binary Stars",
+        "Celestial Mechanics",
+        "Observational Guides",
+        "Astronomical Data",
+        "Technical"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "Epsilon Lyrae",
+        "Beta 648",
+        "Lyra",
+        "Ephemerides",
+        "Double-double star",
+        "Amateur Astronomy",
+        "Stellar Orbits",
+        "Magnitudes",
+        "Spectra",
+        "Periastron",
+        "Apastron"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7608/Eph76_08.pdf",
+      "txtPath": "7608/Eph76_08.md"
+    }
+  ]
+}

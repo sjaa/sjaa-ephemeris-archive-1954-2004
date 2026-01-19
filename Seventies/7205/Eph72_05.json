@@ -1,0 +1,173 @@
+{
+  "articles": [
+    {
+      "id": "eph72-05-may-1972",
+      "documentId": "eph72-05",
+      "title": "MAY 1972",
+      "summary": "This document for May 1972 lists the club officers for that month, including the President, Vice-President, Secretary, and Treasurer. Each officer's name and contact phone number are provided.",
+      "categories": [
+        "Club Information",
+        "Organizational Update",
+        "Historical Record"
+      ],
+      "keywords": [
+        "May 1972",
+        "Officers",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "Contact Information",
+        "Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-05-may-5-regular-meeting",
+      "documentId": "eph72-05",
+      "title": "MAY 5, REGULAR MEETING",
+      "summary": "The regular May 5th meeting will take place at the Community Bank Building, featuring presentations on \"The Amateur and Astrophotography\" by Dr. A.B. Gregory and \"Celestial Photometry\" by Dï¿½ï¿½ï¿½t Glasspool. The agenda also includes discussions for the July banquet, reports from the Riverside Telescope Maker's Conference and Bay Area Astronomical Meeting, and a review of board candidates.",
+      "categories": [
+        "Meeting Announcement",
+        "Astronomy Talks",
+        "Conference Reports",
+        "Organizational News"
+      ],
+      "keywords": [
+        "May 5th meeting",
+        "Community Bank Building",
+        "Astrophotography",
+        "Celestial Photometry",
+        "Riverside Telescope Maker's Conference",
+        "Bay Area Astronomical Meeting",
+        "Board candidates",
+        "July banquet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-05-may-12-planning-meeting",
+      "documentId": "eph72-05",
+      "title": "MAY 12, PLANNING MEETING",
+      "summary": "A planning meeting is scheduled for May 12th at Norm Wild's residence to finalize banquet details, establish an arrangements committee, and discuss nominations for board members and officer candidates. Members are encouraged to attend, and a small starparty will follow the meeting. The address and phone number for Norm Wild are provided.",
+      "categories": [
+        "Meeting Announcement",
+        "Club Business",
+        "Event Planning",
+        "Observing Event"
+      ],
+      "keywords": [
+        "Planning Meeting",
+        "Banquet",
+        "Board Members",
+        "Officer Candidates",
+        "Nominations",
+        "Starparty",
+        "Club Meeting",
+        "Arrangements Committee"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-05-may-13-starparty",
+      "documentId": "eph72-05",
+      "title": "MAY 13, STARPARTY",
+      "summary": "A starparty is scheduled for May 13 at the Skyline site, located 1.8 miles past Skyline Blvd. on Highway 9. Interested individuals should contact Dave at 269-4838 for further details about the event.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Observing"
+      ],
+      "keywords": [
+        "Starparty",
+        "Astronomy event",
+        "May 13",
+        "Skyline site",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-05-may-19-20-massive-starparty-at-fremont-peak",
+      "documentId": "eph72-05",
+      "title": "MAY 19 & 20, MASSIVE STARPARTY AT FREMONT PEAK",
+      "summary": "The Astronomical Association of Northern California is hosting its annual \"Massive Starparty\" at Fremont Peak State Park on May 19 & 20. This event offers an excellent opportunity for astronomy enthusiasts to bring their telescopes, share interests with other organizations, camp, and enjoy the night sky. Attendees are advised to dress warmly and prepare for camping.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Observing Event"
+      ],
+      "keywords": [
+        "Starparty",
+        "Fremont Peak State Park",
+        "Astronomical Association of Northern California",
+        "Telescope",
+        "Camping",
+        "Astronomy Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-05-waa-alpo-convention-riverside",
+      "documentId": "eph72-05",
+      "title": "WAA/ALPO CONVENTION, RIVERSIDE",
+      "summary": "The Riverside Astronomical Society is hosting the WAA/ALPO Convention from August 16-19. The article encourages attendance, suggesting it will be as successful as the Riverside Telescope Makers Conference. Interested individuals can contact Dave at 269-4838 for more information.",
+      "categories": [
+        "events",
+        "convention announcement",
+        "astronomy news"
+      ],
+      "keywords": [
+        "WAA/ALPO Convention",
+        "Riverside Astronomical Society",
+        "Riverside Telescope Makers Conference",
+        "astronomy event",
+        "convention"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph72-05-orbits-of-visual-binary-stars-part-4",
+      "documentId": "eph72-05",
+      "title": "ORBITS OF VISUAL BINARY STARS--part 4",
+      "summary": "This article, part four of a series, details the orbital elements and observational characteristics of three visual binary stars: Delta Geminorum, Procyon, and Dubhe (Alpha Ursae Majoris). It presents data from the Third Catalogue of the Orbits of Visual Binary Stars, including orbital periods, inclinations, and separations, along with ephemerides for future observations. The document describes the physical properties of each binary system and offers guidance on their visibility, noting optimal viewing periods and challenges for observers.",
+      "categories": [
+        "Technical",
+        "Observational Guide",
+        "Astrophysics",
+        "Binary Stars"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "Ephemerides",
+        "Delta Geminorum",
+        "Procyon",
+        "Dubhe",
+        "Alpha Canis Minoris",
+        "Alpha Ursae Majoris",
+        "Astronomy",
+        "Star Observation",
+        "White Dwarf",
+        "Supergiant Binary"
+      ],
+      "pageStart": 200,
+      "pageEnd": 200
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph72-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7205/Eph72_05.pdf",
+      "txtPath": "7205/Eph72_05.md"
+    }
+  ]
+}

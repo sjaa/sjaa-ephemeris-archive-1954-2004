@@ -1,0 +1,327 @@
+{
+  "articles": [
+    {
+      "id": "eph77-03-what-s-going-on-in-the-club",
+      "documentId": "eph77-03",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This club newsletter outlines upcoming activities for March and April, including general membership meetings featuring talks on celestial charts and Venus probes, an informal equipment night, and mirror-making workshops. Members are encouraged to participate in public outreach at Canoas Elementary School and several star parties at Fremont Peak and Skyline. Additionally, the article shares recent astronomical news regarding Saturn's newly confirmed moons, observed albedo variations and cloud activity on Neptune, and updated rotation periods for Uranus and Neptune.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Public Outreach",
+        "Astronomical News",
+        "Technical Workshops",
+        "Observing Events"
+      ],
+      "keywords": [
+        "Club meetings",
+        "Astronomy talks",
+        "Telescopes",
+        "Equipment night",
+        "Mirror making",
+        "Star parties",
+        "Fremont Peak",
+        "Skyline site",
+        "Canoas Elementary School",
+        "Public education",
+        "Venus probes",
+        "Astronomy Day",
+        "Saturn's moons",
+        "Neptune's albedo",
+        "Uranus rotation",
+        "Neptune rotation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-03-red-spot-times",
+      "documentId": "eph77-03",
+      "title": "Red Spot times",
+      "summary": "This document provides a detailed schedule of observed or predicted 'Red Spot times' for the month of March, primarily in PST. It includes specific dates, times, visual magnitude, illumination, elevation, and other relevant notes for each event. A second, smaller table also lists additional date and time entries.",
+      "categories": [
+        "Observing Schedules",
+        "Astronomy",
+        "Data Tables",
+        "Astronomical Forecast"
+      ],
+      "keywords": [
+        "Red Spot",
+        "Jupiter",
+        "Observation schedule",
+        "PST",
+        "March",
+        "Magnitude",
+        "Illumination",
+        "Elevation",
+        "Twilight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-03-white-spot",
+      "documentId": "eph77-03",
+      "title": "White spot",
+      "summary": "This document provides a schedule for observing a 'White spot' across various dates in March, listing specific times. It also details observation opportunities for the spectroscopic binary λ Virginis and the visual binary ⍵ Leonis, providing their characteristics. Additionally, the article describes a challenging twilight occultation of the M25 galactic cluster, offering observing tips and highlighting its significance as the last such event of the year.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Astronomy",
+        "Binary Stars"
+      ],
+      "keywords": [
+        "White spot",
+        "Occultation",
+        "M25",
+        "Galactic cluster",
+        "Binary star",
+        "λ Virginis",
+        "⍵ Leonis",
+        "Observing schedule",
+        "Twilight observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-03-jupiter",
+      "documentId": "eph77-03",
+      "title": "JUPITER",
+      "summary": "Jim Van Nuland is seeking observations of Jupiter's Red Spot and a white spot from October 24, as his own viewing attempts have been hindered by poor seeing conditions. He requests other observers to contact him with timings to help maintain his predictions, noting that no fancy equipment is required. Additionally, he advises watching for the moon close to Jupiter on March 23 and 24.",
+      "categories": [
+        "observing reports",
+        "call for observations",
+        "community engagement",
+        "celestial events",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Red Spot",
+        "white spot",
+        "observing",
+        "seeing conditions",
+        "timings",
+        "predictions",
+        "moon",
+        "March 23",
+        "March 24"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-03-solar-eclipse",
+      "documentId": "eph77-03",
+      "title": "SOLAR ECLIPSE",
+      "summary": "This document announces an 11-day cruise to Mexico aboard Sitmar's TSS FAIRSEA, departing from Los Angeles on October 8th, specifically for viewing a total solar eclipse at sea on October 12th. The voyage offers a unique opportunity to experience the eclipse with renowned scientific authorities like Dr. Joseph M. Chamberlain, Dr. George Abell, Dr. J. Allen Hynek, and Dr. James Sadler, alongside cultural and recreational activities in Mexican ports. Officially endorsed by W.A.A. and N.A.N.C., the cruise promises an enriching blend of astronomy, education, and leisure.",
+      "categories": [
+        "events",
+        "advertisement",
+        "travel",
+        "astronomy",
+        "news"
+      ],
+      "keywords": [
+        "solar eclipse",
+        "cruise",
+        "Mexico",
+        "total eclipse",
+        "astronomy",
+        "scientific authorities",
+        "Sitmar's TSS FAIRSEA",
+        "Los Angeles",
+        "Puerto Vallarta",
+        "Mazatlan",
+        "October 8th",
+        "October 12th",
+        "Dr. Joseph M. Chamberlain",
+        "Dr. George Abell",
+        "Dr. J. Allen Hynek",
+        "Dr. James Sadler",
+        "W.A.A.",
+        "N.A.N.C.",
+        "Frank A. Miller"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph77-03-category-and-deck-regular-cost-special-cost-to-members",
+      "documentId": "eph77-03",
+      "title": "CATEGORY AND DECK | REGULAR COST | SPECIAL COST TO MEMBERS",
+      "summary": "This document outlines detailed pricing for various cruise cabin categories, differentiating between regular and special member costs based on occupancy and deck location. The rates include accommodations, meals, entertainment, and specialized astronomical/photographic lectures, complemented by \"Fly Free\" airfare options from specific major airports and reduced fares from other cities.",
+      "categories": [
+        "Travel",
+        "Cruise",
+        "Pricing",
+        "Promotions",
+        "Events"
+      ],
+      "keywords": [
+        "Cruise pricing",
+        "Cabin categories",
+        "Member discounts",
+        "Travel deal",
+        "Fly Free",
+        "Astronomical lectures",
+        "Photographic lectures",
+        "Shipboard accommodations",
+        "Sitmar Cruises"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-03-sitmarcruises",
+      "documentId": "eph77-03",
+      "title": "SITMARCRUISES",
+      "summary": "This document is an advertisement for SITMAR*CRUISES, offering special, limited-space rates to members and their families. It includes a reservation form requiring a $100 per person deposit, with instructions to make checks payable to ALL POINTS TRAVEL and send to their San Mateo address. Contact information for further inquiries is also provided.",
+      "categories": [
+        "Advertisement",
+        "Travel Offer",
+        "Call to Action",
+        "Special Rates"
+      ],
+      "keywords": [
+        "SITMAR CRUISES",
+        "cruise",
+        "special rates",
+        "members",
+        "families",
+        "reservation",
+        "deposit",
+        "ALL POINTS TRAVEL",
+        "San Mateo"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph77-03-northern-section-top",
+      "documentId": "eph77-03",
+      "title": "Northern Section (Top)",
+      "summary": "This document consists of fragmented internal notes pertaining to a \"Northern Section\" located in the Livermore area, referencing an entity named \"SAQA\". It lists specific points of interest within this area and outlines a route to San Francisco using several major highways. The precise purpose or context of these logistical notes is not explicitly detailed.",
+      "categories": [
+        "Internal Notes",
+        "Logistics",
+        "Navigation",
+        "Geographical Information"
+      ],
+      "keywords": [
+        "Northern Section",
+        "Livermore area",
+        "SAQA",
+        "Route Details",
+        "San Francisco",
+        "Highways",
+        "Logistical Planning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-03-western-section-left",
+      "documentId": "eph77-03",
+      "title": "Western Section (Left)",
+      "summary": "The document provides geographical and navigational details for the 'Western Section,' specifically focusing on Saratoga and Los Gatos. For Saratoga, it lists an elevation of 2621 ft, references Skyline Blvd., and a distance of 1.9 miles. For Los Gatos, it notes its proximity to Saratoga, mentions Hwy 9, and describes a route from Big Basin to Santa Cruz, suggesting travel or location-based information.",
+      "categories": [
+        "Geography",
+        "Locations",
+        "Navigation",
+        "Travel Information",
+        "Roads"
+      ],
+      "keywords": [
+        "Saratoga",
+        "Los Gatos",
+        "Skyline BLVD",
+        "Hwy 9",
+        "Big Basin",
+        "Santa Cruz",
+        "Elevation",
+        "Western Section",
+        "Directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-03-central-section",
+      "documentId": "eph77-03",
+      "title": "Central Section",
+      "summary": "This document identifies a 'Central Section' focusing on geographical locations in California. Key points listed include San Jose, Capri Resort & Ranch, Morgan Hill, Gilroy, and East Dunne Avenue.",
+      "categories": [
+        "Reference",
+        "Locations"
+      ],
+      "keywords": [
+        "San Jose",
+        "Capri Resort & Ranch",
+        "Morgan Hill",
+        "Gilroy",
+        "East Dunne Av",
+        "Central Section",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-03-southern-section-bottom",
+      "documentId": "eph77-03",
+      "title": "Southern Section (Bottom)",
+      "summary": "This document describes a \"Southern Section,\" detailing points of interest in the San Juan Bautista and Fremont Peak areas. It mentions San Juan Bautista's proximity to Monterey and provides details for Fremont Peak, including an overflow area, Coulter camp, a photo area, a ranger's home, and its elevation of 3169.",
+      "categories": [
+        "Geographical Description",
+        "Points of Interest",
+        "Regional Information"
+      ],
+      "keywords": [
+        "Southern Section",
+        "San Juan Bautista",
+        "Fremont Peak",
+        "Monterey",
+        "Elevation",
+        "Coulter camp",
+        "Photo area"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph77-03-san-jose-amateur-astronomers-march-1977",
+      "documentId": "eph77-03",
+      "title": "SAN JOSE AMATEUR ASTRONOMERS - MARCH 1977",
+      "summary": "This document presents a membership roster for the San Jose Amateur Astronomers, dated March 1977. It includes a comprehensive list of members' names, addresses, cities, zip codes, and phone numbers, primarily covering the greater San Jose, California area and surrounding communities.",
+      "categories": [
+        "Membership Roster",
+        "Organizational Document",
+        "Historical Record",
+        "Directory"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Membership list",
+        "Roster",
+        "March 1977",
+        "Amateur astronomy",
+        "San Jose",
+        "Contact information",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7703/Eph77_03.pdf",
+      "txtPath": "7703/Eph77_03.md"
+    }
+  ]
+}

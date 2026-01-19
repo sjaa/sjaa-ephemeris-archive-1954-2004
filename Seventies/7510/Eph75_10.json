@@ -1,0 +1,115 @@
+{
+  "articles": [
+    {
+      "id": "eph75-10-october-1975",
+      "documentId": "eph75-10",
+      "title": "OCTOBER 1975",
+      "summary": "This October 1975 club bulletin provides updates on recent club activities, including the passing of constitutional amendments and a correction regarding comet photo credits. It announces several upcoming events for the month, such as a Space Colonization talk by Dr. Soins, multiple star parties, and a board meeting. The bulletin also reminds members about membership renewal and highlights contributions to the club's library.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Membership",
+        "Observing Reports",
+        "Club Administration",
+        "Newsletter"
+      ],
+      "keywords": [
+        "Club meeting",
+        "Star party",
+        "Nova Cygni 1975",
+        "Space colonization",
+        "Membership renewal",
+        "Constitutional amendments",
+        "Astronomical Society of the Pacific",
+        "Mercury Magazine",
+        "Club officers",
+        "Astro-pix",
+        "Comet photography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph75-10-san-jose-amateur-astronomers",
+      "documentId": "eph75-10",
+      "title": "San Jose Amateur Astronomers",
+      "summary": "This document presents the 1975-1976 membership list for the San Jose Amateur Astronomers club. It details members' names, addresses, and phone numbers, with an asterisk indicating individuals who have a site release form on file with the club.",
+      "categories": [
+        "Membership List",
+        "Club Records",
+        "Historical Document",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Membership List",
+        "1975-1976",
+        "Amateur Astronomy Club",
+        "Contact Information",
+        "San Jose",
+        "California"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph75-10-directory-listing",
+      "documentId": "eph75-10",
+      "title": "Directory Listing",
+      "summary": "This document presents a directory listing of individuals, detailing their names, street addresses, and corresponding phone numbers. The majority of the listed contacts reside in various cities within California, predominantly in the San Jose metropolitan area. Some entries include additional notes or updated contact information.",
+      "categories": [
+        "Directory",
+        "Contact List",
+        "Reference Material",
+        "Personal Information"
+      ],
+      "keywords": [
+        "Directory",
+        "Contact Information",
+        "Address Book",
+        "Phone Numbers",
+        "California Addresses",
+        "San Jose",
+        "Saratoga",
+        "Los Altos",
+        "Sunnyvale",
+        "Cupertino",
+        "Mountain View",
+        "Listing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph75-10-space-colonization",
+      "documentId": "eph75-10",
+      "title": "SPACE COLONIZATION",
+      "summary": "Dr. Richard Reis, Executive Director of the Astronomical Society of the Pacific and editor of Mercury, will deliver a special lecture on space colonization to the San Jose Amateur Astronomers. The talk, scheduled for Friday, October 3, 1975, at 7:30 P.M., will explore space colonies as a concept moving beyond science fiction.",
+      "categories": [
+        "event announcement",
+        "lecture",
+        "astronomy club news"
+      ],
+      "keywords": [
+        "space colonization",
+        "space colonies",
+        "Dr. Richard Reis",
+        "Astronomical Society of the Pacific",
+        "San Jose Amateur Astronomers",
+        "lecture",
+        "1975"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7510/Eph75_10.pdf",
+      "txtPath": "7510/Eph75_10.md"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "articles": [
+    {
+      "id": "eph71-04-monthly-bulletin",
+      "documentId": "eph71-04",
+      "title": "MONTHLY BULLETIN",
+      "summary": "This document is the Monthly Bulletin for April 1971, listing the officers of an organization. It identifies David Erickson as President, Thomas Halliday as Vice-President, David Ambrose as Secretary, and J. Ernest Murphy as Treasurer.",
+      "categories": [
+        "bulletin",
+        "organizational update",
+        "administrative"
+      ],
+      "keywords": [
+        "Monthly Bulletin",
+        "April 1971",
+        "David Erickson",
+        "Thomas Halliday",
+        "David Ambrose",
+        "J. Ernest Murphy",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "officers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph71-04-april-meeting-concepts-in-astronomy",
+      "documentId": "eph71-04",
+      "title": "APRIL MEETING -- CONCEPTS IN ASTRONOMY",
+      "summary": "The SJAA is launching a new \"Concepts in Astronomy\" seminar series, beginning with its April 2nd meeting. The inaugural session will feature Dave Erickson discussing \"Atlases and their use\" and Dr. Gregory presenting on \"The Spring Constellations,\" with additional insights on viewing Jupiter for an upcoming star party. Future seminars in May and June are also outlined, covering topics like small telescopes and binocular viewing.",
+      "categories": [
+        "Meeting Announcement",
+        "Educational",
+        "Observing Tips",
+        "Club News"
+      ],
+      "keywords": [
+        "April Meeting",
+        "Concepts in Astronomy",
+        "Seminars",
+        "Star Atlases",
+        "Spring Constellations",
+        "Jupiter",
+        "Star Party",
+        "Telescopes",
+        "Binoculars",
+        "Astronomy Education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph71-04-star-party-formenty",
+      "documentId": "eph71-04",
+      "title": "STAR PARTY - FORMENTY",
+      "summary": "The SJAA Observatory is hosting a Star Party on Saturday, March 27, starting in the afternoon. Attendees are asked to bring a shovel, bag-dinner, and telescope, as the event includes burying the club's waterline in addition to an evening of astronomical observation. This party is expected to be well-attended, especially since February's event was canceled due to rain, and will feature observations of numerous Messier objects.",
+      "categories": [
+        "Event Announcement",
+        "Observing Report",
+        "Club Activity",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Star Party",
+        "SJAA Observatory",
+        "March 27",
+        "Waterline maintenance",
+        "Telescope",
+        "Messier objects",
+        "M95",
+        "M96",
+        "M97",
+        "M65",
+        "M53",
+        "M68",
+        "M99",
+        "M40",
+        "M61",
+        "M84",
+        "M85",
+        "M100",
+        "M86",
+        "M48",
+        "M87",
+        "M88",
+        "M89",
+        "M90",
+        "Astronomy Club"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph71-04-full-moon-starving-regular-meeting",
+      "documentId": "eph71-04",
+      "title": "FULL MOON - STARVING - REGULAR MEETING",
+      "summary": "The article announces the club's regular May meeting at the Skyline site, scheduled to include food, astronomy seminars (#3 & #4) in an amphitheater setting, and evening telescope viewing. Additionally, it reminds members to use a 'blue card' from Sky & Telescope for membership renewal and provides a correction to the SJAA Observatory map.",
+      "categories": [
+        "Events",
+        "Club Meeting",
+        "Astronomy Education",
+        "Observing",
+        "Club News",
+        "Membership"
+      ],
+      "keywords": [
+        "Club Meeting",
+        "Astronomy Seminars",
+        "Telescope Viewing",
+        "Membership Renewal",
+        "Skyline Site",
+        "SJAA Observatory",
+        "Map Correction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph71-04-april-culmination-for-messier-objects-10-p-m-local-mean-time",
+      "documentId": "eph71-04",
+      "title": "APRIL - Culmination for Messier Objects -- 10 P.M. Local Mean Time",
+      "summary": "This document provides an observing guide for April, detailing various Messier objects that reach culmination around 10 P.M. Local Mean Time. It lists specific Messier objects by date, along with their astronomical class (e.g., Galaxies, Gaseous Nebulae, Globular Clusters) and visual magnitude. The data aims to assist observers in locating and identifying these celestial targets throughout the month.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Objects",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Messier Objects",
+        "April",
+        "Culmination",
+        "Galaxies",
+        "Nebulae",
+        "Globular Clusters",
+        "Galactic Clusters",
+        "Magnitude",
+        "Astronomy Guide"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph71-04-editorial-the-7-day-week",
+      "documentId": "eph71-04",
+      "title": "EDITORIAL - \"THE 7-DAY WEEK\"",
+      "summary": "The editorial explores the historical development of the 7-day consecutive week, tracing its origins from ancient Mesopotamia around 2500 BC. It details how the system, rooted in astronomical observations, was adopted by the Jews via Moses and later introduced to the Roman calendar by Christians under Emperor Constantine in 321 AD, contrasting it with prior, less consistent calendar structures. The article emphasizes astronomers' responsibility for maintaining an accurate calendar.",
+      "categories": [
+        "Editorial",
+        "Calendar History",
+        "Astronomy History",
+        "Club News"
+      ],
+      "keywords": [
+        "7-day week",
+        "calendar system",
+        "Mesopotamia",
+        "Roman Empire",
+        "Emperor Constantine",
+        "Moses",
+        "timekeeping"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph71-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7104/Eph71_04.pdf",
+      "txtPath": "7104/Eph71_04.md"
+    }
+  ]
+}

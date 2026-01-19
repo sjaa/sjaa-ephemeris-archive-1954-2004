@@ -1,0 +1,334 @@
+{
+  "articles": [
+    {
+      "id": "eph79-12-december-79-predictions",
+      "documentId": "eph79-12",
+      "title": "December 79 Predictions",
+      "summary": "This document details the San Jose Astronomical Association's (SJAA) event schedule for December 1979 and January 1980, including general meetings, board meetings, and star parties. Highlights include a lecture by Ernie Piini on Stonehenge and the SJAA's 25th anniversary. The bulletin also informs members about a temporary change in the bulletin mailing schedule due to the holiday season.",
+      "categories": [
+        "events",
+        "club news",
+        "astronomical association activities",
+        "calendar"
+      ],
+      "keywords": [
+        "SJAA",
+        "December 1979",
+        "January 1980",
+        "General Meeting",
+        "Board Meeting",
+        "Star Party",
+        "Rosicrucian Planetarium",
+        "Ernie Piini",
+        "Stonehenge",
+        "Full Moon",
+        "New Moon",
+        "25th Anniversary",
+        "Bulletin Schedule"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph79-12-observations",
+      "documentId": "eph79-12",
+      "title": "Observations",
+      "summary": "Inclement weather has canceled recent outdoor star parties, leading to successful indoor 'gab sessions' where members shared presentations and worked on equipment. The club received a donated 12.5\" f/5 telescope and is seeking volunteers to build a Dobsonian mount for it. Other club news includes efforts to secure non-profit status, open board meetings, and a call for bulletin contributions.",
+      "categories": [
+        "Observing Reports",
+        "Club News",
+        "Events",
+        "Equipment"
+      ],
+      "keywords": [
+        "Weather",
+        "Star Party",
+        "Indoor Star Party",
+        "Telescope",
+        "Dobsonian Mount",
+        "Club Activities",
+        "Board Meetings",
+        "Volunteers",
+        "Donations",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-12-want-ads",
+      "documentId": "eph79-12",
+      "title": "Want Ads",
+      "summary": "This document features a series of classified advertisements. It includes a request for a 6\" Newtonian telescope on an equatorial mount, a report about a stolen 8\" Tinsley Dall-Kirkham telescope from the Los Gatos area, and an offer to sell an Eastman Kodak f/2.5 7\" Aero Ektar lens with a Graflex body, shutter, and photographic plates, suitable for use as an astro-camera.",
+      "categories": [
+        "Want Ads",
+        "For Sale",
+        "Wanted",
+        "Stolen Item Report",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Telescope",
+        "Newtonian",
+        "Equatorial mount",
+        "Tinsley Dall-Kirkham",
+        "Aero Ektar Lens",
+        "Eastman Kodak",
+        "Graflex",
+        "Astro-camera",
+        "Photographic plates",
+        "Optical instruments",
+        "Classifieds",
+        "San Jose",
+        "Los Gatos"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph79-12-comet-comments",
+      "documentId": "eph79-12",
+      "title": "COMET COMMENTS",
+      "summary": "The 'COMET COMMENTS' article from late 1979 reports that only Comet Meier (1979l) is currently within the reach of amateur telescopes, having passed its closest point to the sun in October and now approaching Earth. It notes that two amateur comet discoveries in 1979 are below the average of recent years, and describes Comet Meier as faint, small, and set to pass just south of the Big Dipper in late November-early December.",
+      "categories": [
+        "Observing Report",
+        "Celestial Events",
+        "Astronomy News",
+        "Comet Discoveries"
+      ],
+      "keywords": [
+        "Comet Meier (1979l)",
+        "Amateur Astronomy",
+        "Comet Discovery",
+        "Observing",
+        "1979",
+        "Big Dipper",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-12-comet-meier-1979l",
+      "documentId": "eph79-12",
+      "title": "Comet Meier (1979l)",
+      "summary": "This article provides observational data for Comet Meier (1979l) from November to December 1979, detailing its Right Ascension, Declination, and magnitude, as reported in IAU Circular 3413. It also includes a brief discussion on comet tails and notes the number of cloudy nights for observing in the local area through October 1979.",
+      "categories": [
+        "Observing Report",
+        "Cometary Science",
+        "Astronomy News",
+        "Local Observing Conditions"
+      ],
+      "keywords": [
+        "Comet Meier (1979l)",
+        "Comets",
+        "Observational data",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "IAU Circular 3413",
+        "Comet Tails",
+        "Cloudy nights",
+        "Don Machholz",
+        "1979"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph79-12-sjaa-member-s-corner",
+      "documentId": "eph79-12",
+      "title": "SJAA MEMBER'S CORNER",
+      "summary": "This article highlights two members of the SJAA: Jack Petersen and Fred Braniff. Jack is passionate about building sophisticated optical systems and going on astronomical field trips, including a memorable trip to the Arizona desert and an upcoming solar eclipse expedition. Fred, a general observer and crossword puzzle creator for the SJAA Bulletin, is working on connecting his Celestron 8 telescope to his IMSAI 8080 computer for astrophotography, troubleshooting issues like 'mirror slap'.",
+      "categories": [
+        "Member Profiles",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Equipment"
+      ],
+      "keywords": [
+        "Jack Petersen",
+        "Fred Braniff",
+        "SJAA",
+        "Telescopes",
+        "Celestron 8",
+        "Optical systems",
+        "Field trips",
+        "Solar eclipse",
+        "Astrophotography",
+        "Computers",
+        "IMSAI 8080",
+        "Mirror slap",
+        "Observing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph79-12-mira-expedition",
+      "documentId": "eph79-12",
+      "title": "MIRA EXPEDITION",
+      "summary": "An expedition of SJAA members visited the Monterey Institute for Research in Astronomy (MIRA) to explore potential collaborations, share insights on their solid-state TV camera, and participate in a MIRA-hosted star party. The group toured MIRA's professional observatory, discussed advanced astronomical instrumentation like spectrographs and electronic image detectors, and successfully demonstrated the SJAA's TV camera as a teaching tool during the public observing session.",
+      "categories": [
+        "Club Activity",
+        "Observing Report",
+        "Technical Discussion",
+        "Collaboration",
+        "Astronomy News",
+        "Outreach"
+      ],
+      "keywords": [
+        "MIRA",
+        "SJAA",
+        "Expedition",
+        "Star Party",
+        "Telescope",
+        "TV Camera",
+        "Spectrograph",
+        "Observatory",
+        "Astronomy",
+        "Electronic Image Detector",
+        "Digital Data Handling",
+        "Lunar Observing",
+        "Amateur Astronomy",
+        "Monterey",
+        "Carmel Valley"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph79-12-skyword-puzzle-5",
+      "documentId": "eph79-12",
+      "title": "SKYWORD PUZZLE #5",
+      "summary": "This document presents \"SKYWORD PUZZLE #5\" by Fred Braniff, which is a 13x13 crossword puzzle grid. The grid features numbered squares (1-35) indicating the starting points for clues, suggesting a recreational activity likely centered around sky or astronomy-related terminology.",
+      "categories": [
+        "Puzzle",
+        "Recreational Activity",
+        "Feature"
+      ],
+      "keywords": [
+        "Crossword",
+        "Puzzle",
+        "Skyword",
+        "Recreation",
+        "Brain teaser"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-12-across",
+      "documentId": "eph79-12",
+      "title": "Across",
+      "summary": "The provided document appears to be a list of clues for the \"Across\" section of a crossword puzzle. Many of the clues are related to astronomy, celestial bodies, and optical instruments, such as types of telescopes, constellations, and planetary features. Other clues cover general knowledge topics like anatomy, measurement, and abstract concepts.",
+      "categories": [
+        "Crossword Puzzle",
+        "Puzzles",
+        "Astronomy",
+        "General Knowledge"
+      ],
+      "keywords": [
+        "Crossword clues",
+        "Refractor",
+        "Reflector",
+        "Moon",
+        "Cygnus",
+        "Pleiades",
+        "Planet",
+        "Earth",
+        "Telescope",
+        "Human lens",
+        "Astronomy"
+      ],
+      "pageStart": 20,
+      "pageEnd": 20
+    },
+    {
+      "id": "eph79-12-down",
+      "documentId": "eph79-12",
+      "title": "Down",
+      "summary": "The document presents a list of \"Down\" clues, likely for a crossword puzzle or quiz, featuring questions related to astronomy, mathematics, and general knowledge. Topics range from constellations and celestial bodies to geometric concepts and specific astronomical terms, with answers promised in a subsequent publication, along with an unrelated short dialogue.",
+      "categories": [
+        "Puzzles",
+        "Astronomy",
+        "Quizzes",
+        "General Knowledge"
+      ],
+      "keywords": [
+        "Puzzle clues",
+        "Crossword",
+        "Astronomy",
+        "Constellations",
+        "Celestial bodies",
+        "Planets",
+        "Moons",
+        "Meteorites",
+        "Mathematics",
+        "General knowledge",
+        "Quiz"
+      ],
+      "pageStart": 7,
+      "pageEnd": 32
+    },
+    {
+      "id": "eph79-12-watching-the-saturn-watchers",
+      "documentId": "eph79-12",
+      "title": "WATCHING THE SATURN-WATCHERS",
+      "summary": "The article recounts the tense atmosphere at NASA's Mission Control during Pioneer 11's critical flyby past Saturn's rings on September 1st. Scientists and journalists anxiously awaited delayed data, fearing the spacecraft would be destroyed by debris, given the uncertainty of the ring's true extent. Relief finally came as Pioneer 11 successfully navigated the rings, sending back valuable data and images before continuing its journey out of the solar system.",
+      "categories": [
+        "Space Exploration",
+        "Mission Report",
+        "News",
+        "Observing Report",
+        "Human Interest"
+      ],
+      "keywords": [
+        "Pioneer 11",
+        "Saturn",
+        "Ring Crossing",
+        "NASA",
+        "Mission Control",
+        "Space Probe",
+        "Flyby",
+        "Ames Research Center",
+        "Data Transmission",
+        "Solar System"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph79-12-pioneer-saturn-visual-imaging-system",
+      "documentId": "eph79-12",
+      "title": "PIONEER-SATURN VISUAL IMAGING SYSTEM",
+      "summary": "The article presents a conceptual 'PIONEER-SATURN VISUAL IMAGING SYSTEM' with an associated image. It then lists the ten brightest stars by apparent magnitude, attributed to a prior 'star scramble' activity. The document concludes with two humorous, unrelated quotes.",
+      "categories": [
+        "Astronomy",
+        "Conceptual Technology",
+        "Observing Reports",
+        "Humor"
+      ],
+      "keywords": [
+        "Pioneer-Saturn",
+        "Visual Imaging System",
+        "Brightest Stars",
+        "Apparent Magnitude",
+        "Star Scramble",
+        "Astronomy Facts",
+        "Humor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph79-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7912/Eph79_12.pdf",
+      "txtPath": "7912/Eph79_12.md"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "articles": [
+    {
+      "id": "eph75-01-sjaa-officers",
+      "documentId": "eph75-01",
+      "title": "SJAA Officers",
+      "summary": "The San Jose Astronomical Association (SJAA) announced its January 1975 officers and a schedule of upcoming events. These include a general meeting featuring a Pioneer 10 report on Jupiter and the first star party at their new Mt. Umunhum observatory site, where attendees must sign a liability waiver. The article also recapped a December 1974 meeting discussing the new site's progress and telescope technology, and welcomed new members.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing",
+        "Technical",
+        "Membership",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "club officers",
+        "Mt. Umunhum observatory",
+        "star parties",
+        "Pioneer 10",
+        "Jupiter",
+        "Wright-Schmidt telescope",
+        "cold camera",
+        "astronomical events",
+        "membership",
+        "1975"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph75-01-elevation-3-000-ft",
+      "documentId": "eph75-01",
+      "title": "ELEVATION 3,000 FT.",
+      "summary": "This document outlines directions and key features for the SJAA site, noting an elevation of 3,000 ft. It details the site entrance, which is approximately 1600 ft from a paved road along a dirt road, passing an owner's trailer and a warning sign with a cattle guard. The document also warns against approaching a nearby radar station.",
+      "categories": [
+        "Site Information",
+        "Directions",
+        "Logistics",
+        "Club Information"
+      ],
+      "keywords": [
+        "SJAA site",
+        "Elevation 3,000 ft",
+        "Site entrance",
+        "Dirt road",
+        "Paved road",
+        "Radar station",
+        "Cattle guard",
+        "Directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-01-mt-umunhum",
+      "documentId": "eph75-01",
+      "title": "MT. UMUNHUM",
+      "summary": "Mount Umunhum is characterized by average wind speeds of 10-20 MPH, temperature extremes ranging from -10° to 110°, and an average annual snowfall of 3-4 feet. Reaching the summit takes approximately 25 minutes to cover 12 miles, with key surrounding roads including Hicks Rd and Blossom Hill Rd, connecting towards Los Gatos, and featuring a warning sign and cattle guard.",
+      "categories": [
+        "Location Description",
+        "Travel Information",
+        "Environmental Data",
+        "Geographic Information"
+      ],
+      "keywords": [
+        "Mount Umunhum",
+        "weather",
+        "travel",
+        "roads",
+        "Los Gatos",
+        "wind speed",
+        "temperature",
+        "snowfall",
+        "distance"
+      ],
+      "pageStart": 25,
+      "pageEnd": 25
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7501/Eph75_01.pdf",
+      "txtPath": "7501/Eph75_01.md"
+    }
+  ]
+}

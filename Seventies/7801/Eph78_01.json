@@ -1,0 +1,296 @@
+{
+  "articles": [
+    {
+      "id": "eph78-01-predictions",
+      "documentId": "eph78-01",
+      "title": "Predictions",
+      "summary": "This document outlines a series of upcoming events for the San Jose Astronomical Association in January and February. It details general meetings featuring talks on an eclipse trip, hydrogen sensitized film, and cold cameras, alongside several 'star parties' (both indoor and outdoor) and board of directors meetings. A key item for the January 6th meeting is a vote on new By-laws.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Reports",
+        "Club News",
+        "Technical Discussions"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Star Party",
+        "Board Meeting",
+        "Eclipse Trip",
+        "By-laws",
+        "Hydrogen Sensitized Film",
+        "Cold Cameras",
+        "Astronomy Club",
+        "San Jose Astronomical Association",
+        "January Events",
+        "February Events"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph78-01-a-basic-introductory-true-false-astronomy-quiz-by-bob-therkelson",
+      "documentId": "eph78-01",
+      "title": "A basic introductory true/false astronomy quiz by Bob Therkelson.",
+      "summary": "This document presents a basic introductory true/false astronomy quiz authored by Bob Therkelson. It features a series of statements covering a wide range of fundamental astronomical concepts, from planetary motion and stellar evolution to cosmology and celestial objects. The quiz is designed to test general knowledge about various aspects of the universe.",
+      "categories": [
+        "Education",
+        "Astronomy Quiz",
+        "Introductory Astronomy",
+        "Assessment"
+      ],
+      "keywords": [
+        "Astronomy quiz",
+        "True/false",
+        "Earth",
+        "Sun",
+        "Moon",
+        "Vernal Equinox",
+        "Neutron stars",
+        "Black holes",
+        "Milky Way galaxy",
+        "Cepheid variables",
+        "Quasars",
+        "Big Bang theory",
+        "Extraterrestrial life",
+        "Ecliptic",
+        "Stellar evolution",
+        "Comets",
+        "Minor planets",
+        "Bode's Law",
+        "Meteoroid",
+        "Red-Shift",
+        "Nebula",
+        "Solar day",
+        "Sidereal day",
+        "Radio astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph78-01-blurbs",
+      "documentId": "eph78-01",
+      "title": "Blurbs",
+      "summary": "The club editor discusses shared challenges with other clubs and details their tenure and a request for a name tag. The previous General Meeting featured a successful surprise birthday party for Jack, concluding at 10:00 PM due to a building curfew. The upcoming February General Meeting is considering a move to Mark Twain High School in Los Gatos to offer more flexible hours without a curfew.",
+      "categories": [
+        "Club Operations",
+        "Member Communications",
+        "Social Events",
+        "Meeting Announcements",
+        "Logistics"
+      ],
+      "keywords": [
+        "Club editor",
+        "General Meeting",
+        "Birthday party",
+        "Meeting location",
+        "Los Gatos",
+        "Mark Twain High School",
+        "Club curfew",
+        "Club activities",
+        "Map directions"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph78-01-an-abstract-by-allen-meyer-paraphrasing-a-summary-from-the-october-15th-issue-of-the-astrophysical-journal",
+      "documentId": "eph78-01",
+      "title": "An abstract by Allen Meyer paraphrasing a summary from the October 15th issue of The Astrophysical Journal.",
+      "summary": "An astronomical abstract details the Canis Major RI association of young stars, hypothesizing their formation was triggered by a 500,000-year-old supernova explosion, with the stars located on the outer edge of the remnant's expanding shell. The document also includes club news, covering discussions on potential new meeting locations, a significant increase in membership, and a proposed budget increase for the club bulletin.",
+      "categories": [
+        "Astronomical Research",
+        "Club News",
+        "Observational Astronomy",
+        "Star Formation",
+        "Supernovae"
+      ],
+      "keywords": [
+        "Canis Major RI association",
+        "Supernova remnant",
+        "Star formation",
+        "Young stars",
+        "HD 54662",
+        "Galactic astronomy",
+        "Radio emission",
+        "Optical emission",
+        "Club operations",
+        "Membership growth",
+        "Board meetings",
+        "The Astrophysical Journal"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph78-01-ed-schell",
+      "documentId": "eph78-01",
+      "title": "Ed Schell",
+      "summary": "This document, under the 'Ed Schell' heading, provides several brief astronomical updates, including predictions for Comet Kohler's fading, the detection of methane in interstellar space, and new findings about Neptune's heat emission. It also notes a correlation between the sun's rotation period and sunspot activity, and the observation of a new meteor shower. Additionally, the document contains a classified ad for a telescope and a humorous comic strip about astronomical funding.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Planetary Science",
+        "Solar Astronomy",
+        "Interstellar Medium",
+        "Events",
+        "Classifieds",
+        "Humor"
+      ],
+      "keywords": [
+        "Comet Kohler (1977m)",
+        "magnitude",
+        "IAU Circular",
+        "Methane",
+        "interstellar space",
+        "Neptune",
+        "infrared observations",
+        "heat emission",
+        "Sun's rotation",
+        "sunspots",
+        "meteor shower",
+        "alpha Circini",
+        "Newtonian telescope",
+        "astronomy budget"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph78-01-calico-observatory",
+      "documentId": "eph78-01",
+      "title": "Calico Observatory",
+      "summary": "This document is a short memo from Calico Observatory in San Jose, California, dated December 16, 1977. It confirms that 'Red Spot predictions' are attached, indicating a focus on astronomical observations.",
+      "categories": [
+        "Observing reports",
+        "Astronomy",
+        "Correspondence",
+        "Historical document"
+      ],
+      "keywords": [
+        "Calico Observatory",
+        "Red Spot",
+        "Predictions",
+        "Astronomy",
+        "Jupiter",
+        "1977",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-01-red-spot-predictions-a-change",
+      "documentId": "eph78-01",
+      "title": "Red Spot Predictions - a change",
+      "summary": "The article announces a change in how Great Red Spot (GRS) transit predictions are presented, with a random 0-10 minute subtraction from each time to prevent observer bias during timings. Observers are advised to contact 'Jim' for precise equations to compare theory with observation. A table of predicted GRS meridian transit times for January is provided.",
+      "categories": [
+        "observing predictions",
+        "planetary astronomy",
+        "technical update",
+        "observational guidance"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "predictions",
+        "observational bias",
+        "meridian transit",
+        "astronomy",
+        "timing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-01-henry-coe-cloud-star-party",
+      "documentId": "eph78-01",
+      "title": "Henry Coe Cloud/Star Party",
+      "summary": "A Henry Coe \"Cloud/Star Party\" experienced partial success, with attendees observing various celestial objects despite some cloud cover. The event's highlight was an apodizing filter attached to an 8-inch Newtonian telescope, which improved planetary definition and produced stunning spectral diffraction spikes around bright objects like the Pleiades. The filter, constructed as outlined by Allan Meyer, came highly recommended by the attendees.",
+      "categories": [
+        "Observing Report",
+        "Event Report",
+        "Equipment Review",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Henry Coe",
+        "Star Party",
+        "Cloud Party",
+        "Apodizing Filter",
+        "Newtonian Telescope",
+        "Jupiter",
+        "Saturn",
+        "Pleiades",
+        "Cassiopeia",
+        "Diffraction Spikes",
+        "Observing"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph78-01-rattley-rattles",
+      "documentId": "eph78-01",
+      "title": "Rattley Rattles",
+      "summary": "This article, titled \"Rattley Rattles,\" provides a comprehensive directory of member organizations belonging to the Astronomical Association of Northern California (AANC) as of October 1977. The San Jose Astronomical Association, itself an AANC member, published this list, which includes various astronomical societies, a planetarium, and an educational institution, along with contact information for their key representatives. It serves as a service to facilitate communication and networking among regional astronomical groups.",
+      "categories": [
+        "Directory",
+        "Organizational Information",
+        "Astronomy Association",
+        "Contact List"
+      ],
+      "keywords": [
+        "Astronomical Association of Northern California",
+        "AANC",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy organizations",
+        "Northern California",
+        "Contact information",
+        "Member directory",
+        "Amateur astronomy",
+        "October 1977"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph78-01-holt-planetarium-lawrence-hall-of-science",
+      "documentId": "eph78-01",
+      "title": "Holt Planetarium/ Lawrence Hall of Science",
+      "summary": "This document, likely a newsletter or internal communication from an astronomical association, provides contact information for key individuals and commercial entities associated with the Holt Planetarium/Lawrence Hall of Science, the Sonoma County Amateur Astronomers, and the SJAA (San Jose Astronomical Association). It also features a partial list of double stars, compiled by Gerald W. Rattley, noting that this is a monthly installment and a full compilation will be made available later.",
+      "categories": [
+        "Newsletter",
+        "Amateur Astronomy",
+        "Observational Astronomy",
+        "Directory",
+        "Star Catalogs"
+      ],
+      "keywords": [
+        "Holt Planetarium",
+        "Lawrence Hall of Science",
+        "Sonoma County Amateur Astronomers",
+        "SJAA",
+        "double stars",
+        "binary stars",
+        "astronomical organizations",
+        "contact directory",
+        "celestial objects",
+        "star catalog"
+      ],
+      "pageStart": 9,
+      "pageEnd": 15
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph78-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7801/Eph78_01.pdf",
+      "txtPath": "7801/Eph78_01.md"
+    }
+  ]
+}

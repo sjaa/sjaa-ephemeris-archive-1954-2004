@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "id": "eph76-01-bulletin",
+      "documentId": "eph76-01",
+      "title": "BULLETIN",
+      "summary": "This bulletin announces the cancellation of the January general meeting due to scheduling conflicts and holidays, while still planning a star party and board meeting for the month. It recaps December activities, including a talk on Saturn's rings and a winter star party, highlighting astrophotography efforts and member contributions. The bulletin also lists new members, contact changes, forthcoming events in February, and provides classified ads for telescope equipment.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Member Updates",
+        "Announcements",
+        "Classifieds"
+      ],
+      "keywords": [
+        "January Meeting Cancellation",
+        "Star Party",
+        "Board Meeting",
+        "Saturn's Rings",
+        "Astrophotography",
+        "Henry Coe State Park",
+        "Olinder Center",
+        "New Members",
+        "Member Contact Changes",
+        "Telescope For Sale",
+        "Mt. Umanhum"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7601/Eph76_01.pdf",
+      "txtPath": "7601/Eph76_01.md"
+    }
+  ]
+}

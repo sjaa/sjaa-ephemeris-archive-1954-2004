@@ -1,0 +1,153 @@
+{
+  "articles": [
+    {
+      "id": "eph72-03-monthly-bulletin",
+      "documentId": "eph72-03",
+      "title": "MONTHLY BULLETIN",
+      "summary": "This document is the Monthly Bulletin for March 1972, providing a list of the organization's officers for the month. It includes the names and contact phone numbers for the President, Vice-President, Secretary, and Treasurer.",
+      "categories": [
+        "Bulletin",
+        "Organizational Update",
+        "News"
+      ],
+      "keywords": [
+        "Monthly Bulletin",
+        "March 1972",
+        "Officers",
+        "Leadership",
+        "Contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-03-march-3-regular-meeting",
+      "documentId": "eph72-03",
+      "title": "MARCH 3, REGULAR MEETING",
+      "summary": "The regular March 3rd meeting will take place at 8 PM on the second floor of the Community Bank Building. The agenda includes a presentation by Ralph Bridge on \"The Calendar and Proposal for an Eight-Day Week,\" followed by Dave Aguilar discussing \"How Stars are Born and Croak.\"",
+      "categories": [
+        "Meeting Announcement",
+        "Events",
+        "Presentations"
+      ],
+      "keywords": [
+        "March 3",
+        "meeting",
+        "calendar",
+        "eight-day week",
+        "stars",
+        "stellar evolution",
+        "star formation",
+        "Community Bank Building"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-03-march-10-board-meeting",
+      "documentId": "eph72-03",
+      "title": "MARCH 10, BOARD MEETING",
+      "summary": "The board meeting for March is scheduled for March 10th at 8:00 PM, to be held at Dr. A.B. Gregory's residence in San Jose. The primary agenda includes discussing the spring calendar of events. All interested individuals are encouraged to attend, and directions can be obtained by contacting Dr. Gregory.",
+      "categories": [
+        "Meeting Announcement",
+        "Organizational News",
+        "Events Planning"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "March 10",
+        "Dr. A.B. Gregory",
+        "San Jose",
+        "Spring Calendar",
+        "Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-03-march-18-starparty",
+      "documentId": "eph72-03",
+      "title": "MARCH 18, STARPARTY",
+      "summary": "The club is announcing a star party on March 18th, which will be held at a new, more convenient location for the next few months. Specifically, the March event will take place at the Skyline site on Hwy. 9, 1.8 miles past Skyline Blvd.",
+      "categories": [
+        "Event Announcement",
+        "Club Activities",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Starparty",
+        "March 18",
+        "Skyline site",
+        "Hwy. 9",
+        "Club event",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-03-announcement-of-two-upcoming-conferences",
+      "documentId": "eph72-03",
+      "title": "ANNOUNCEMENT OF TWO UPCOMING CONFERENCES",
+      "summary": "This document announces two upcoming astronomical conferences: one hosted by the Astronomical Association of Northern California in September, which will include a telescope competition, and the eighth annual \"Bay Area Astronomical Meeting\" by Star Observers of Marin on April 15, 1972. Contact details are provided for more information, along with a hand-drawn map.",
+      "categories": [
+        "Announcements",
+        "Events",
+        "Conferences",
+        "Astronomy Meetings"
+      ],
+      "keywords": [
+        "Conferences",
+        "Meetings",
+        "Astronomical Association of Northern California",
+        "Star Observers of Marin",
+        "Bay Area Astronomical Meeting",
+        "Telescope Competition",
+        "1972",
+        "Northern California"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph72-03-cases-of-vis0-2-simpiy-ut-no-pert-3",
+      "documentId": "eph72-03",
+      "title": "CASES OF VIS0 2 SIMPIY UT No—pert 3",
+      "summary": "This article, 'CASES OF VIS0 2 SIMPIY UT No—pert 3' by Jerry Kutil'y, provides detailed orbital elements and observational data for several binary and multiple star systems within the Andromeda constellation. It includes specific information on star magnitudes, spectral types, current and future separations, position angles, and ephemeris tables for systems such as Z6 And, Phi And, Gamma-2 And, and ZZ28 And. The document serves as a guide for observing these stellar systems, outlining their orbital movements and visual characteristics over time.",
+      "categories": [
+        "Astronomy",
+        "Binary Stars",
+        "Observational Astronomy",
+        "Ephemeris",
+        "Star Data"
+      ],
+      "keywords": [
+        "Binary Stars",
+        "Multiple Star Systems",
+        "Andromeda (constellation)",
+        "Orbital Elements",
+        "Ephemeris",
+        "Stellar Magnitudes",
+        "Spectral Types",
+        "Position Angle",
+        "Stellar Separation",
+        "Periastron",
+        "Z6 And",
+        "Phi And",
+        "Gamma-2 And",
+        "ZZ28 And"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph72-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7203/Eph72_03.pdf",
+      "txtPath": "7203/Eph72_03.md"
+    }
+  ]
+}

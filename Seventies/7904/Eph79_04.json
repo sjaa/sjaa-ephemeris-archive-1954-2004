@@ -1,0 +1,439 @@
+{
+  "articles": [
+    {
+      "id": "eph79-04-i-saw-it",
+      "documentId": "eph79-04",
+      "title": "I SAW IT!",
+      "summary": "This article serves as a heartfelt obituary and tribute to Dr. A. B. Gregory, a cherished and generous club member whose recent death deeply affected the author, Penny. Penny also announces a trial change to the club bulletin's format, encouraging members to provide feedback on the new layout during its three-month experimental period.",
+      "categories": [
+        "Obituary",
+        "Club News",
+        "Editorial",
+        "Publication Update"
+      ],
+      "keywords": [
+        "Dr. A. B. Gregory",
+        "Obituary",
+        "Club Membership",
+        "Bulletin Format",
+        "Editorial Changes",
+        "Tribute",
+        "Penny Pinschmidt"
+      ],
+      "pageStart": 2,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph79-04-blurbs",
+      "documentId": "eph79-04",
+      "title": "Blurbs",
+      "summary": "This document, titled \"Blurbs,\" serves as an editorial collection of short announcements and updates. The editor thanks individuals for gifts, requests submissions for a special eclipse publication, and announces an upcoming mirror-making class. Other blurbs include news of a new board member, congratulations for a new Ph.D., a mention of a successful Messier Marathon, and a humorous discussion about the club's official name.",
+      "categories": [
+        "Club Announcements",
+        "Events",
+        "Internal Communications",
+        "Education",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Eclipse publication",
+        "Mirror-making class",
+        "Messier Marathon",
+        "Astronomy club",
+        "Call for reports",
+        "Board meeting",
+        "San Jose Astronomical Association",
+        "Optical testing",
+        "Club name"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph79-04-editorial",
+      "documentId": "eph79-04",
+      "title": "Editorial",
+      "summary": "The author, Larry E. Townsend, initially planned a scathing editorial but was deeply moved by a surprise event on March 17. Kevin Medlock, Jack Zeiders, and Gene Cisneros secretly organized a handmade equatorial mount and drive, along with eyepieces, as an early birthday gift for his 6-inch mirror. Overwhelmed with gratitude for this thoughtful gesture and the friendship of his club members, the author struggles to adequately express his profound appreciation.",
+      "categories": [
+        "Editorial",
+        "Club News",
+        "Personal Reflection",
+        "Member Recognition",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Larry E. Townsend",
+        "Kevin Medlock",
+        "Jack Zeiders",
+        "Gene Cisneros",
+        "Equatorial Mount",
+        "Telescope Drive",
+        "Eyepieces",
+        "Indoor Star Party",
+        "Amateur Astronomy",
+        "Club Activities",
+        "Friendship",
+        "Gratitude",
+        "Surprise Gift"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph79-04-comet-comments-3-18-79",
+      "documentId": "eph79-04",
+      "title": "COMET COMMENTS                                    3/18/79",
+      "summary": "This March 18, 1979 article announces the recovery of Periodic Comet Daniel (1979b), a 19th magnitude object with a 6.48-year period, sighted on February 2nd. It notes the comet is fading and discusses its discovery in 1909. The piece also provides historical context on successful comet hunting techniques used by a Czechoslovakian group, notably Anton Mrkos, between 1946-1959.",
+      "categories": [
+        "Cometology",
+        "Astronomical Observations",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Comet Daniel",
+        "1979b",
+        "Periodic Comet",
+        "Comet Hunting",
+        "Skalnate Pleso Observatory",
+        "Anton Mrkos",
+        "Schmidt Telescope",
+        "Siding Springs",
+        "Magnitude",
+        "Binoculars"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph79-04-calico-observatory",
+      "documentId": "eph79-04",
+      "title": "Calico Observatory",
+      "summary": "This report from Calico Observatory details recent observations of Jupiter's Great Red Spot (GRS), noting its current visibility as a pale grey-tan with a distinct dark border, making it easily discernible. The article also provides a schedule of dates and times in April and early May when the GRS will be best seen on the meridian, along with contact information for inquiries. It highlights observational details like magnification used and the spot's rapid movement.",
+      "categories": [
+        "observing report",
+        "planetary observation",
+        "observatory update",
+        "astronomy schedule"
+      ],
+      "keywords": [
+        "Calico Observatory",
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "planetary astronomy",
+        "observing schedule",
+        "meridian transit",
+        "telescope",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-04-classified",
+      "documentId": "eph79-04",
+      "title": "CLASSIFIED",
+      "summary": "This document primarily features classified advertisements for a variety of items, including several vintage cars and a wide array of astronomical equipment like refractors, star trackers, and optical glass blanks. It also includes a 'found' item notice from a star party and a heartfelt thank-you letter from Jean Gregory to the San Jose Astronomers Association for their support after Boris's passing.",
+      "categories": [
+        "Classifieds",
+        "Advertisements",
+        "Astronomy Equipment",
+        "Community News",
+        "Memoriam"
+      ],
+      "keywords": [
+        "For Sale",
+        "Automobiles",
+        "Telescopes",
+        "Refractors",
+        "Star Tracker",
+        "Optical Glass",
+        "Edmund Astroscan",
+        "Astro-physics",
+        "Cave Refractor",
+        "Chance Bros.",
+        "Los Gatos Red Cross indoor star party",
+        "San Jose Astronomers Assoc.",
+        "Condolence"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph79-04-the-occultation-of-the-moon-by-fog",
+      "documentId": "eph79-04",
+      "title": "The Occultation of the Moon by Fog",
+      "summary": "A large group of 29 astronomers from IOTA and other clubs gathered at 20 observing stations for the Lunar Graze Occultation of Aldebaran on March 4-5. Despite the extensive preparations and participation, the event was completely obscured by fog just 10 minutes before the scheduled occultation. The disappointed participants then ended their outing with an impromptu lecture on a CID camera.",
+      "categories": [
+        "Observing Report",
+        "Event Recount",
+        "Amateur Astronomy",
+        "Humor/Anecdotal"
+      ],
+      "keywords": [
+        "Lunar Graze Occultation",
+        "Aldebaran",
+        "IOTA",
+        "Fog",
+        "Clouded out",
+        "Observing stations",
+        "David Dunham",
+        "CID camera",
+        "SDAA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph79-04-clues-down",
+      "documentId": "eph79-04",
+      "title": "Clues Down",
+      "summary": "This document presents a list of 15 numbered clues, titled 'Clues Down,' which appear to be part of a crossword or similar puzzle. The clues cover a broad range of scientific topics, primarily focusing on astronomy, physics, and optics, with some references to technology and general science concepts.",
+      "categories": [
+        "Puzzle",
+        "Crossword Clues",
+        "Astronomy",
+        "Physics",
+        "Optics",
+        "Technology"
+      ],
+      "keywords": [
+        "stars",
+        "planets",
+        "Earth",
+        "Sun",
+        "binary stars",
+        "aberration",
+        "Saturn",
+        "image recorder",
+        "film",
+        "Epsilon Canis Majoris",
+        "temperature",
+        "expansion",
+        "time",
+        "light",
+        "weather"
+      ],
+      "pageStart": 20,
+      "pageEnd": 20
+    },
+    {
+      "id": "eph79-04-clues-across",
+      "documentId": "eph79-04",
+      "title": "Clues Across",
+      "summary": "This document presents a series of numbered 'Clues Across,' indicating it is part of a crossword puzzle. The clues cover a range of topics, including prominent figures in astronomy, specific celestial objects and constellations, general knowledge, and some personal references, designed for an interactive word challenge.",
+      "categories": [
+        "Puzzles",
+        "Astronomy Education",
+        "Interactive Content"
+      ],
+      "keywords": [
+        "Crossword",
+        "Puzzle",
+        "Clues",
+        "Astronomy",
+        "Constellations",
+        "Stars",
+        "Galaxies",
+        "Nicolaus Copernicus",
+        "Word puzzle"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph79-04-rattley-rattles",
+      "documentId": "eph79-04",
+      "title": "Rattley Rattles",
+      "summary": "This article, titled \"Rattley Rattles,\" provides a comprehensive list of upcoming multi-organizational astronomy meetings, conferences, and star parties for Bay Area amateur astronomers throughout the year. It details various events from April to September, including Astronomy Day, AANC star parties, the Riverside Telescope Makers Conference, and the ASP Summer Meeting. The author, Kenneth W. Laidig, aims to help enthusiasts plan which events to attend, noting registration recommendations and venue changes for some gatherings.",
+      "categories": [
+        "Events Calendar",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Conferences",
+        "Meetings",
+        "Community News"
+      ],
+      "keywords": [
+        "Rattley Rattles",
+        "Bay Area",
+        "Amateur Astronomers",
+        "Astronomy Day",
+        "Rosicrucian Planetarium",
+        "De Anza Minolta Planetarium",
+        "AANC",
+        "Astronomical Association of Northern California",
+        "Fremont Peak State Park",
+        "Riverside Telescope Makers Conference",
+        "Camp Oakes",
+        "Big Bear City",
+        "Astronomical Swap Meet",
+        "Monterey Park Astronomical Society",
+        "Astronomical Society of the Pacific",
+        "Sonoma State University",
+        "WAA",
+        "ALPO",
+        "IOTA",
+        "AL",
+        "University of Portland",
+        "Delta College",
+        "NASA",
+        "Lawrence Hall of Science",
+        "Kenneth W. Laidig"
+      ],
+      "pageStart": 10,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph79-04-we-saw-it",
+      "documentId": "eph79-04",
+      "title": "WE SAW IT",
+      "summary": "This article recounts a challenging yet ultimately successful expedition by a group of eclipse chasers to observe a solar eclipse on February 26. Faced with early morning rain and widespread cloud cover in Walla Walla, Washington, the group made a last-minute dash west into Oregon, battling travel difficulties to find a clear viewing spot. Despite some members missing it, the core group managed to witness the spectacular totality from a hill near Rufus, Oregon, emphasizing the perseverance required for such astronomical events.",
+      "categories": [
+        "Observing Report",
+        "Event Coverage",
+        "Travelogue",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "solar eclipse",
+        "February 26",
+        "Walla Walla",
+        "Washington",
+        "Oregon",
+        "Rufus",
+        "Goldendale",
+        "Columbia River",
+        "diamond ring",
+        "corona",
+        "eclipse chasing",
+        "weather challenges",
+        "bus trip"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph79-04-eclipse-viewing-report",
+      "documentId": "eph79-04",
+      "title": "Eclipse Viewing Report",
+      "summary": "This article details diverse experiences of club members viewing a recent solar eclipse, including high-altitude plane expeditions and ground observations. It also reports on a March 10th General Meeting, which featured the sad announcement of Dr. Gregory's death, good news regarding widespread eclipse viewing, and a guest speaker from NASA on Venus and Pioneer programs. The meeting concluded with several club announcements and a birthday celebration.",
+      "categories": [
+        "Observing Reports",
+        "Meeting Minutes",
+        "Club News",
+        "Technical Talk",
+        "Events"
+      ],
+      "keywords": [
+        "Eclipse",
+        "Solar Eclipse",
+        "Plane Viewing",
+        "General Meeting",
+        "Dr. Gregory",
+        "NASA",
+        "George Nothwang",
+        "Venus Exploration",
+        "Pioneer Program",
+        "Messier Marathon",
+        "Club Announcements",
+        "Observing Experiences"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph79-04-question-of-the-month-where-were-you-and-what-did-you-do-on-the-morning-of-february-26",
+      "documentId": "eph79-04",
+      "title": "Question of the Month: Where were you and what did you do on the morning of February 26?",
+      "summary": "This article features responses to a 'Question of the Month,' asking various individuals about their activities on the morning of February 26. The responses predominantly describe observations of a partial eclipse, with participants using telescopes, cameras, or even chartered planes, often contending with cloudy weather. Some individuals simply missed the event or were at work.",
+      "categories": [
+        "Reader Submissions",
+        "Observing Reports",
+        "Astronomical Events",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "February 26",
+        "partial eclipse",
+        "observing",
+        "clouds",
+        "refractor",
+        "photography",
+        "Cessna 182",
+        "Washington",
+        "San Jose"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph79-04-available-publications",
+      "documentId": "eph79-04",
+      "title": "Available Publications",
+      "summary": "The San Jose Astronomical Association (SJAA) provides its members with substantial discounts (10-45%) on a variety of astronomy publications through an arrangement with Sky Publishing Corp. The document lists numerous titles available for purchase, ranging from deep-sky atlases to handbooks and specific astronomy series. Additionally, it announces upcoming club events for April, including a general meeting focused on Astronomy Day at the Rosicrucian Planetarium and a Board of Directors meeting.",
+      "categories": [
+        "Publications",
+        "Club Announcements",
+        "Member Benefits",
+        "Events"
+      ],
+      "keywords": [
+        "Astronomy publications",
+        "SJAA",
+        "Discounts",
+        "Sky Publishing Corp.",
+        "Messier Album",
+        "Deep-sky atlases",
+        "Telescopes",
+        "Sundials",
+        "Observatories",
+        "Astronomy Day",
+        "Club meetings",
+        "Rosicrucian Planetarium",
+        "Board of Directors meeting"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph79-04-calendar-of-events",
+      "documentId": "eph79-04",
+      "title": "Calendar of Events",
+      "summary": "This document presents a calendar of events for April and May, primarily focused on astronomical activities and organizational meetings. Scheduled events include multiple indoor and outdoor star parties, a general club meeting, and a board of directors meeting. Notable events also include an AANC-sponsored star party at Fremont Peak and the Riverside Telescope Makers Conference.",
+      "categories": [
+        "Events",
+        "Calendar",
+        "Club Activities",
+        "Meetings",
+        "Star Parties"
+      ],
+      "keywords": [
+        "star party",
+        "calendar",
+        "astronomy events",
+        "club meetings",
+        "Los Gatos",
+        "Fremont Peak",
+        "San Jose",
+        "Sanborn Canyon",
+        "Riverside Telescope Makers Conference",
+        "April events",
+        "May events"
+      ],
+      "pageStart": 16,
+      "pageEnd": 16
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph79-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7904/Eph79_04.pdf",
+      "txtPath": "7904/Eph79_04.md"
+    }
+  ]
+}

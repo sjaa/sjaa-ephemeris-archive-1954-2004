@@ -1,0 +1,128 @@
+{
+  "articles": [
+    {
+      "id": "eph76-05-what-s-going-on-in-the-club",
+      "documentId": "eph76-05",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This document outlines upcoming club events and astronomical gatherings from May through July. Key activities include general meetings featuring speakers and elections, a NASA open house, various astronomical conferences, and club star parties. It also notes a board meeting and an annual banquet for officer installation.",
+      "categories": [
+        "Club Meetings",
+        "Events",
+        "Conferences",
+        "Observing Reports",
+        "News"
+      ],
+      "keywords": [
+        "Olinder Center",
+        "Allen Meyer",
+        "The Flying 36",
+        "Moffet Field",
+        "Ames Research Center",
+        "NASA Open House",
+        "Lawrence Hall of Science",
+        "Astronomical Society of the Pacific",
+        "Riverside Amateur Telescope Makers Conference",
+        "Big Bear",
+        "Board Elections",
+        "Monte Sereno",
+        "Club Star Party",
+        "Tom Mungall",
+        "AANC Star Party",
+        "Fremont Peak",
+        "Banquet",
+        "Officer Installation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-05-past-events-ancient-history",
+      "documentId": "eph76-05",
+      "title": "PAST EVENTS (ancient history)",
+      "summary": "This document chronicles several past astronomy events. An Astronomy Day event on April 10 at K-MART successfully drew around 100 people to observe celestial objects despite initial rain. However, a star party at Coe on April 24 was canceled due to adverse weather, and another at Skyline on May 1 was unannounced, while a large multi-club star party for hundreds of students took place at Fremont Peak from April 30 to May 1.",
+      "categories": [
+        "Event Reports",
+        "Observing Reports",
+        "Club Activities",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "Star party",
+        "Observing",
+        "Saturn",
+        "Mars",
+        "Moon",
+        "Double stars",
+        "Fremont Peak",
+        "K-MART",
+        "Weather impact",
+        "Astronomy clubs"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph76-05-rattley-rattles",
+      "documentId": "eph76-05",
+      "title": "Rattley Rattles",
+      "summary": "This article introduces planetary nebulae, highlighting their observability with modern amateur telescopes despite their small size compared to Messier objects. It provides an observing guide, listing over a dozen prominent planetary nebulae with their 1950 coordinates, magnitudes, sizes, types, and detailed descriptions. The author encourages readers to use moderate to high power for viewing and welcomes feedback on omitted favorites.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Objects",
+        "Amateur Astronomy",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Planetary Nebulae",
+        "NGC objects",
+        "Messier objects",
+        "Deep Sky Observing",
+        "Amateur Telescopes",
+        "Celestial Coordinates",
+        "Star Party",
+        "NGC 1535",
+        "M76",
+        "Crab Nebula",
+        "Clownface Nebula",
+        "M97 Owl Nebula",
+        "Ring Nebula"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-05-rattley-rattles-on",
+      "documentId": "eph76-05",
+      "title": "RATTLEY RATTLES ON...........",
+      "summary": "The document, titled \"RATTLEY RATTLES ON...........\", presents a log of astronomical observations detailing various celestial objects. Each entry includes an object identifier, coordinates, magnitude, and descriptive notes on features such as brightness, size, shape, and unique characteristics like \"Bubble\" or \"Saturn\" nebulae. Some entries also mention visibility with binoculars.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Deep-Sky Objects",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astronomical observations",
+        "Deep-sky objects",
+        "Planetary nebulae",
+        "Nebulae",
+        "Magnitude",
+        "Coordinates",
+        "Observational astronomy",
+        "Celestial objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7605/Eph76_05.pdf",
+      "txtPath": "7605/Eph76_05.md"
+    }
+  ]
+}

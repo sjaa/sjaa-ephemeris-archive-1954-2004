@@ -1,0 +1,184 @@
+{
+  "articles": [
+    {
+      "id": "eph72-02-notes-from-the-underground",
+      "documentId": "eph72-02",
+      "title": "NOTES FROM THE UNDERGROUND",
+      "summary": "This document, titled \"NOTES FROM THE UNDERGROUND\" and dated February 1972, serves as an internal communication, likely a newsletter. It lists the club's officers for that period, including the President, Vice-President, Secretary, and Treasurer, along with their respective names and contact phone numbers.",
+      "categories": [
+        "Newsletter",
+        "Club Information",
+        "Historical Document",
+        "Membership Information"
+      ],
+      "keywords": [
+        "February 1972",
+        "Officers",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "Contact Information",
+        "David Erickson",
+        "Tom Halliday",
+        "Jerry Rattley",
+        "Emmet Murphy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-02-february-4-regular-meeting",
+      "documentId": "eph72-02",
+      "title": "FEBRUARY 4, REGULAR MEETING",
+      "summary": "The regular meeting on February 4th will take place at West Valley College on Fruitvale Ave., Saratoga, at 8 p.m., noting a change in venue. The agenda includes two talks: Rick Mailhrist will discuss \"Binary Stars,\" specifically 32-22, and Horn Wald will present on \"The Eye and Vision,\" emphasizing its importance to observational astronomy.",
+      "categories": [
+        "Meeting Announcement",
+        "Astronomy Talks",
+        "Event"
+      ],
+      "keywords": [
+        "February 4",
+        "Regular Meeting",
+        "West Valley College",
+        "Saratoga",
+        "Binary Stars",
+        "32-22",
+        "The Eye and Vision",
+        "Observational Astronomy",
+        "Rick Mailhrist",
+        "Horn Wald"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-02-february-11-planning-meeting",
+      "documentId": "eph72-02",
+      "title": "FEBRUARY 11, PLANNING MEETING",
+      "summary": "A planning meeting is scheduled for February 11th at Dave Ambrose's home, located at 1755 El Codo Way. Attendees requiring directions should contact Dave at 253-8262. The meeting's agenda includes discussions regarding future upcoming meetings.",
+      "categories": [
+        "Meeting Announcement",
+        "Event Details",
+        "Community Planning"
+      ],
+      "keywords": [
+        "February 11",
+        "Planning Meeting",
+        "Dave Ambrose",
+        "Meeting Location",
+        "Upcoming Meetings",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-02-february-12-starparty-at-the-san-jose-amateur-astronomer-s-observatory-site",
+      "documentId": "eph72-02",
+      "title": "FEBRUARY 12, STARPARTY at the San Jose Amateur Astronomer's observatory site.",
+      "summary": "A starparty is scheduled for February 12th at the San Jose Amateur Astronomer's observatory site. This event offers participants the chance to observe prominent leaving winter and returning spring constellations, along with deep-sky objects such as M42, M3, M1, and the Virgo Galaxy \"cloud.\" Attendees should call Dave Erickson for directions, noting that the event is weather permitting.",
+      "categories": [
+        "Events",
+        "Observing Event",
+        "Community Announcement",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Starparty",
+        "Amateur Astronomy",
+        "Observing Event",
+        "Constellations",
+        "Deep-Sky Objects",
+        "M42",
+        "M3",
+        "M1",
+        "Virgo Galaxy Cloud",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-02-review-of-the-last-month-s-activities",
+      "documentId": "eph72-02",
+      "title": "REVIEW OF THE LAST MONTH'S ACTIVITIES",
+      "summary": "This article reviews the successful January 15 starparty at the SJAAO site, highlighting excellent viewing conditions that allowed for clear observations of objects like the Orion and Crab Nebulae, and even challenging targets like the Horsehead Nebula and uncataloged galaxies. It also invites attendees of the January 29 total lunar eclipse to share their observations at the upcoming February meeting, which will include a rerun of the starparty's successful viewing conditions.",
+      "categories": [
+        "observing report",
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "starparty",
+        "Pleiades",
+        "Orion Nebula",
+        "Crab Nebula",
+        "Horsehead Nebula",
+        "lunar eclipse",
+        "telescopes",
+        "astronomy",
+        "SJAAO"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph72-02-swap-shop",
+      "documentId": "eph72-02",
+      "title": "SWAP SHOP",
+      "summary": "This article is an advertisement from Tom Curtis, offering various used astronomical equipment for sale. Items include a 3-inch refractor telescope with 15 eyepieces, a custom spectroscope, and an equatorial mount with clock drive for $300, plus an additional Cave mount for $190. Contact information for the seller in Santa Clara is provided.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Equipment"
+      ],
+      "keywords": [
+        "refractor telescope",
+        "eyepieces",
+        "spectroscope",
+        "equatorial mount",
+        "clock drive",
+        "Cave mount",
+        "astronomy equipment",
+        "used equipment",
+        "Santa Clara"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph72-02-notes",
+      "documentId": "eph72-02",
+      "title": "NOTES",
+      "summary": "The San Jose Amateur Astronomers are inviting members to submit content for publication in their monthly bulletin, with arrangements to be made by contacting David Erickson. The club also announces and welcomes two new members, Richard Chalberg and Ronald G. Blake, providing their addresses for membership lists. Members are encouraged to contact club officers with any questions or suggestions.",
+      "categories": [
+        "Club Announcements",
+        "Membership Updates",
+        "Call for Submissions",
+        "Club Communication"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "monthly bulletin",
+        "publication",
+        "new members",
+        "Richard Chalberg",
+        "Ronald G. Blake",
+        "David Erickson",
+        "club officers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph72-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7202/Eph72_02.pdf",
+      "txtPath": "7202/Eph72_02.md"
+    }
+  ]
+}

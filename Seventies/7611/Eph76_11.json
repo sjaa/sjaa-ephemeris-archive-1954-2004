@@ -1,0 +1,188 @@
+{
+  "articles": [
+    {
+      "id": "eph76-11-what-s-going-on-in-the-club",
+      "documentId": "eph76-11",
+      "title": "WHAT'S GOING ON IN THE CLUB :",
+      "summary": "The article outlines upcoming events for an astronomy club, including a casual astronomy get-together, a lecture by a NASA scientist on Mars probes, and two club board meetings. It also details two star parties at El Sereno and Skyline sites, emphasizing specific traffic rules for attendees. Additionally, members are encouraged to submit black and white prints or drawings for the S.J.A.A. Bulletin cover.",
+      "categories": [
+        "Club Activities",
+        "Events",
+        "Meetings",
+        "Observing Events",
+        "Announcements"
+      ],
+      "keywords": [
+        "Astronomy Club",
+        "Meetings",
+        "Star Parties",
+        "Lectures",
+        "Mars Probes",
+        "NASA",
+        "Donald De Vincenzi",
+        "El Sereno",
+        "Skyline Site",
+        "Club Bulletin",
+        "Photography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph76-11-rattley-rattles",
+      "documentId": "eph76-11",
+      "title": "Rattley Rattles",
+      "summary": "Gerald W. Rattley begins by issuing corrections for previously published data concerning the stars ξ Sco and ε Equ. He then announces a significant change in format for future articles, opting to provide non-rounded orbital elements for double stars to facilitate independent computations by readers with access to computers or calculators. The article concludes with a detailed list of precise, non-rounded orbital elements for several binary stars, including their positions, ADS numbers, constellations, and the authority and date of computation.",
+      "categories": [
+        "Corrections",
+        "Technical Data",
+        "Observational Astronomy",
+        "Publication Update",
+        "Binary Stars"
+      ],
+      "keywords": [
+        "Double Stars",
+        "Binary Stars",
+        "Orbital Elements",
+        "Astronomical Data",
+        "ξ Sco",
+        "ε Equ",
+        "Position Angle",
+        "Separation",
+        "Periastron Passage",
+        "Eccentricity",
+        "Semi-major Axis",
+        "Inclination",
+        "Astronomy Computations",
+        "Star Catalogs"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-11-the-orbits-of-visual-binary-stars-contributed-by-gerald-w-rattley",
+      "documentId": "eph76-11",
+      "title": "The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley",
+      "summary": "Gerald W. Rattley's article details the orbital characteristics of three visual binary star systems: Σ 2576, λ Cygni, and τ Cygni. It provides their physical properties, orbital elements from the 1970 Third Catalogue, and ephemerides outlining their projected position angles and separations from 1975 to 2000. The analysis includes future orbital events like apastron passages and predicted maximum/minimum separations for each system.",
+      "categories": [
+        "Astronomy",
+        "Stellar Astrophysics",
+        "Observational Astronomy",
+        "Binary Stars",
+        "Star Catalogs"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Stellar Orbits",
+        "Orbital Elements",
+        "Ephemeris",
+        "Star Systems",
+        "Σ 2576",
+        "Lambda Cygni",
+        "Tau Cygni",
+        "Magnitude",
+        "Spectra",
+        "Separation",
+        "Position Angle",
+        "Apastron",
+        "Parsecs"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph76-11-the-orbits-of-visual-binary-stars-contributed-by-gerald-w-rattley",
+      "documentId": "eph76-11",
+      "title": "The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley",
+      "summary": "This article, contributed by Gerald W. Rattley, presents detailed orbital elements and ephemerides for four visual binary stars in the constellation Aquarius, drawing data from the 1970 Third Catalogue of the Orbits of Visual Binary Stars. For each system, it provides specific characteristics such as component magnitudes, spectral types, orbital parameters (period, eccentricity, inclination), distance from the Sun, mean true separation, and predictions for future position angles and separations, often noting their suitability for amateur observations or telescope testing.",
+      "categories": [
+        "Astronomy",
+        "Stellar Mechanics",
+        "Observational Astronomy",
+        "Reference Data",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "Ephemeris",
+        "Aquarius (constellation)",
+        "Star Orbits",
+        "Star Magnitudes",
+        "Star Spectra",
+        "Separation",
+        "Position Angle",
+        "Apastron",
+        "Periastron"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph76-11-lunar-occultations",
+      "documentId": "eph76-11",
+      "title": "LUNAR OCCULTATIONS",
+      "summary": "This document provides a detailed list of lunar occultation events scheduled for November, presenting 'Red Spot Times' which include observation times in PST, stellar magnitudes, lunar illumination percentages (waxing/waning), and moon elevations. Each entry specifies the star involved and notes if it's a disappearance or reappearance. The article also clarifies technical terms like negative cusp angles and variable star notations, serving as a guide for observers.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guides",
+        "Observational Data",
+        "Astronomy Schedules"
+      ],
+      "keywords": [
+        "Lunar Occultations",
+        "Occultations",
+        "Moon",
+        "Stars",
+        "Observing",
+        "PST",
+        "Magnitude",
+        "Illumination",
+        "Cusp Angles",
+        "Variable Stars",
+        "November"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-11-great-pink-spot-of-jupiter",
+      "documentId": "eph76-11",
+      "title": "GREAT PINK SPOT OF JUPITER",
+      "summary": "This article details the challenges and opportunities for observing Jupiter's Great Red Spot (referred to as the \"Great Pink Spot\"). It describes the spot's appearance as difficult to distinguish due to its color and surrounding belts, while encouraging observers to attempt viewing it during optimal times. The document also provides a comprehensive schedule of Jupiter's satellite events and key celestial phenomena, such as opposition and close approaches to the Moon, for November and early December.",
+      "categories": [
+        "Observing Reports",
+        "Observing Guides",
+        "Celestial Events",
+        "Ephemeris",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Jupiter's Moons",
+        "Satellite Transit",
+        "Satellite Occultation",
+        "Satellite Eclipse",
+        "Shadow Transit",
+        "Observation",
+        "November",
+        "December",
+        "Opposition",
+        "Star Party"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7611/Eph76_11.pdf",
+      "txtPath": "7611/Eph76_11.md"
+    }
+  ]
+}

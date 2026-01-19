@@ -1,0 +1,65 @@
+{
+  "articles": [
+    {
+      "id": "eph76-03-editorial",
+      "documentId": "eph76-03",
+      "title": "Editorial",
+      "summary": "The editorial questions the recurring low attendance at star parties, pondering reasons like remote locations, night driving, or cost, despite the benefit of dark skies. The editor offers to organize carpools and provide lifts to encourage more participation. Additionally, the piece solicits feedback on the new format and columns of the publication.",
+      "categories": [
+        "Editorial",
+        "Astronomy Events",
+        "Community Engagement",
+        "Publication News"
+      ],
+      "keywords": [
+        "star parties",
+        "attendance",
+        "dark skies",
+        "caravan",
+        "transportation",
+        "newsletter format",
+        "Tech Talk",
+        "Rattley Rattles",
+        "Jack M. Zeiders"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph76-03-rattley-rattles",
+      "documentId": "eph76-03",
+      "title": "RATTLEY RATTLES",
+      "summary": "Gerald W. Rattley introduces his monthly column by detailing the club's discount plan with Sky Publishing Corporation, providing a price list for various astronomical atlases and catalogs available to members. A separate \"tech talk\" section by Donald S. Mc Glauflin offers advice on improving German Equatorial mount stability through modification and recounts a successful observation session with a modified 12-inch telescope at a club star party.",
+      "categories": [
+        "Club News",
+        "Member Benefits",
+        "Technical Advice",
+        "Observing Report",
+        "Astronomy Publications"
+      ],
+      "keywords": [
+        "Sky Publishing",
+        "Discount Plan",
+        "Astronomy Atlases",
+        "Star Catalogs",
+        "German Equatorial Mount",
+        "Telescope Modification",
+        "Telescope Stability",
+        "Star Party",
+        "Saturn",
+        "SJAA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7603/Eph76_03.pdf",
+      "txtPath": "7603/Eph76_03.md"
+    }
+  ]
+}

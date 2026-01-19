@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "id": "eph77-09-calendar-of-events",
+      "documentId": "eph77-09",
+      "title": "CALENDAR OF EVENTS",
+      "summary": "This document outlines the San Jose Astronomical Association's upcoming events for September and October, featuring general meetings with lectures, board meetings, and various star parties including an AAVSO/NASA joint conference. It also provides \"news notz\" with reports on recent observing activities, a thank you to a guest speaker, and brief astronomy news items.",
+      "categories": [
+        "Events Calendar",
+        "Meeting Schedule",
+        "Observing Reports",
+        "Astronomy News",
+        "Club Activities",
+        "Conferences"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "AAVSO",
+        "NASA",
+        "Astronomy Conference",
+        "Star Party",
+        "General Meeting",
+        "Board Meeting",
+        "Field Expedition",
+        "Lecture",
+        "Telescopes",
+        "Comets",
+        "Meteorites",
+        "Quasars",
+        "Fremont Peak",
+        "Henry Coe State Park",
+        "Don Machholz",
+        "Equipment Night"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-09-a-d-s-i-n-f-i-n-i-t-u-m",
+      "documentId": "eph77-09",
+      "title": "A D S  I N F I N I T U M",
+      "summary": "This document is a classified advertisement listing a Criterion 6\" RV6 Dynascope telescope for sale. Priced at $215, the f/8 telescope is described as being in excellent condition and includes three eyepieces, with contact information provided for Doug Buettner.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Criterion RV6 Dynascope",
+        "Telescope",
+        "Eyepieces",
+        "For Sale",
+        "Used Equipment",
+        "Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-09-san-jose-astronomical-association-inc-september-1977",
+      "documentId": "eph77-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION, INC - SEPTEMBER 1977",
+      "summary": "This document is a membership roster for the San Jose Astronomical Association, Inc. from September 1977. It lists members' names, addresses, cities, ZIP codes, and phone numbers, serving as a contact directory for the organization.",
+      "categories": [
+        "Membership Roster",
+        "Historical Document",
+        "Organizational Directory",
+        "Contact List"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "membership list",
+        "1977",
+        "astronomy club",
+        "contact information",
+        "San Jose",
+        "directory",
+        "California"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7709/Eph77_09.pdf",
+      "txtPath": "7709/Eph77_09.md"
+    }
+  ]
+}

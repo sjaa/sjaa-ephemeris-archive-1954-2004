@@ -1,0 +1,125 @@
+{
+  "articles": [
+    {
+      "id": "eph76-06-what-s-going-on-in-the-club",
+      "documentId": "eph76-06",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This astronomy club bulletin outlines a series of upcoming events for May, June, and July, featuring multiple star parties at locations like Big Bear, Fremont Peak, and El Sereno. These gatherings offer opportunities to observe celestial objects, with large aperture telescopes highlighted at Fremont Peak. The club also schedules its annual board election meeting, a regular board meeting, and a banquet, with some event locations yet to be determined.",
+      "categories": [
+        "Events Calendar",
+        "Star Parties",
+        "Club Meetings",
+        "Observing Opportunities",
+        "Club News"
+      ],
+      "keywords": [
+        "Astronomy Club",
+        "Star Parties",
+        "Telescopes",
+        "Observing",
+        "Club Meetings",
+        "Board Elections",
+        "Fremont Peak",
+        "El Sereno",
+        "Big Bear",
+        "John Dobson",
+        "Deep Sky Objects"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-06-editor-s-note",
+      "documentId": "eph76-06",
+      "title": "Editor's Note:",
+      "summary": "This Editor's Note announces that Rattley, a regular contributor, will not be featured this month. He is currently engaged in a special, technical project involving equations and computer time, which many long-standing members may recognize. Readers can expect more information about this project in the next issue.",
+      "categories": [
+        "Editorial",
+        "Contributor Update",
+        "Future Content"
+      ],
+      "keywords": [
+        "Rattley",
+        "special project",
+        "equations",
+        "computer time",
+        "upcoming content",
+        "editor's note"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-06-ads-infinitum",
+      "documentId": "eph76-06",
+      "title": "Ads Infinitum:",
+      "summary": "The article's \"Ads Infinitum\" section features two primary classifieds: one offering a 6-inch Edmund f/8 reflector telescope with various accessories and publications for sale, and another seeking passengers to share the cost of a private plane trip to an ATM conference in Riverside. It also includes a hand-drawn map for directions and introduces a \"Tech Talk\" column by Don McGlauflin featuring contributions from club members.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Events",
+        "Transportation",
+        "Community Announcements",
+        "Technical Discussion",
+        "Directions"
+      ],
+      "keywords": [
+        "telescope",
+        "Edmund reflector",
+        "clock drive",
+        "eyepieces",
+        "camera adapters",
+        "Astronomy Magazines",
+        "ATM conference",
+        "Riverside",
+        "private plane",
+        "transportation",
+        "carpool",
+        "tech talk",
+        "club members",
+        "San Jose",
+        "Los Gatos",
+        "directions"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph76-06-formula-for-minor-axis-size-of-diagonal",
+      "documentId": "eph76-06",
+      "title": "FORMULA FOR MINOR AXIS SIZE OF DIAGONAL",
+      "summary": "This document features a technical article by Norman Wild providing a formula for calculating the minor axis size of a diagonal mirror in a reflector telescope, considering variables such as tube diameter, focusing mount height, and desired image illumination for various observational purposes. Additionally, it includes an update on Joe Perry's ongoing 32-inch telescope project, nearing completion, and announces a list of mirrors for sale. The document also teases an upcoming article on an off-axis guider.",
+      "categories": [
+        "Technical",
+        "Amateur Astronomy",
+        "Telescope Design",
+        "DIY Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Minor axis",
+        "Diagonal mirror",
+        "Reflector telescope",
+        "Telescope design",
+        "Amateur telescope making",
+        "Optics",
+        "Formulas",
+        "Image illumination",
+        "Joe Perry",
+        "32-inch telescope",
+        "Mirror sales"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7606/Eph76_06.pdf",
+      "txtPath": "7606/Eph76_06.md"
+    }
+  ]
+}

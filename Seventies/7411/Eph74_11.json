@@ -1,0 +1,89 @@
+{
+  "articles": [
+    {
+      "id": "eph74-11-membership-list",
+      "documentId": "eph74-11",
+      "title": "MEMBERSHIP LIST",
+      "summary": "This document is a membership list compiled for the years 1974-1975, providing names, addresses, and phone numbers for numerous individuals. It functions as a contact directory, likely for a club or organization, and includes some handwritten notes and corrections indicating updates to member information.",
+      "categories": [
+        "Membership directory",
+        "Administrative document",
+        "Historical record",
+        "Contact list"
+      ],
+      "keywords": [
+        "membership",
+        "directory",
+        "1974",
+        "1975",
+        "contact information",
+        "address list",
+        "phone numbers",
+        "organization"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph74-11-membership-list-continued-1474-5",
+      "documentId": "eph74-11",
+      "title": "MEMBERSHIP LIST (Continued): (1474-5)",
+      "summary": "This document continues a membership list, providing names, addresses, and phone numbers for various individuals. Additionally, it includes technical astronomical notes for November, detailing good observation times for Jupiter's Great Red Spot and the dates for the central meridian of the Sun.",
+      "categories": [
+        "Membership Information",
+        "Astronomical Data",
+        "Observing Information",
+        "Technical Notes"
+      ],
+      "keywords": [
+        "membership list",
+        "contact information",
+        "Jupiter",
+        "Great Red Spot",
+        "Redspot times",
+        "Sun's central meridian",
+        "November",
+        "observing times",
+        "astronomy data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-11-the-messier-catalog-ngc-sequence-part-two",
+      "documentId": "eph74-11",
+      "title": "THE MESSIER CATALOG, NGC SEQUENCE (Part Two)",
+      "summary": "The article, titled \"THE MESSIER CATALOG, NGC SEQUENCE (Part Two),\" presents a tabular catalog of various Messier and NGC celestial objects. It lists deep-sky objects such as galaxies and globular clusters, detailing their right ascension, declination, constellation, magnitude, type, size, and a brief observational description. This document serves as a reference guide for astronomers and observers.",
+      "categories": [
+        "catalogs",
+        "astronomical data",
+        "deep-sky objects",
+        "observing guides",
+        "reference"
+      ],
+      "keywords": [
+        "Messier Catalog",
+        "NGC Sequence",
+        "Deep-sky objects",
+        "Galaxies",
+        "Globular Clusters",
+        "Nebulae",
+        "Astronomical coordinates",
+        "Constellations",
+        "Observational astronomy",
+        "Celestial objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph74-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7411/Eph74_11.pdf",
+      "txtPath": "7411/Eph74_11.md"
+    }
+  ]
+}

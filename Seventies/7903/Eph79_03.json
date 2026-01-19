@@ -1,0 +1,382 @@
+{
+  "articles": [
+    {
+      "id": "eph79-03-march-in-the-year-1979",
+      "documentId": "eph79-03",
+      "title": "MARCH IN THE YEAR 1979",
+      "summary": "This document outlines a packed schedule of astronomical events and club activities for March and April 1979, with some notable events from late February. It details star parties, solar eclipse observations, lunar graze occultations, Messier Marathons, and various club meetings featuring talks and discussions. The listings provide dates, times, locations, and contact information for participants in the San Jose area.",
+      "categories": [
+        "Events Calendar",
+        "Astronomical Observations",
+        "Club Meetings",
+        "Community Activities",
+        "Historical Record"
+      ],
+      "keywords": [
+        "1979",
+        "March",
+        "April",
+        "February",
+        "Star Party",
+        "Solar Eclipse",
+        "Lunar Graze Occultation",
+        "Aldebaran",
+        "Messier Marathon",
+        "General Meeting",
+        "Board Meeting",
+        "Rosicrucian Planetarium",
+        "Henry Coe Park",
+        "Loma Prieta Mountain",
+        "Fremont Peak",
+        "San Jose",
+        "Don Machholz",
+        "Jim Van Nuland",
+        "George Nothwang",
+        "Venus Probe",
+        "Astronomy Day"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph79-03-graze-information",
+      "documentId": "eph79-03",
+      "title": "GRAZE INFORMATION",
+      "summary": "This document announces an IOTA expedition and invites SJAA members to observe a lunar graze of Aldebaran and other Hyades stars on the night of March 4-5, 1979, near Dixon, California. Participants are advised to bring binoculars, communicate via CB Channel 14 ('Graze Chasers'), and be ready by 11:40 PM PST for continuous recording starting at 12:07 AM PST. Instructions for location, weather updates, and communication are provided.",
+      "categories": [
+        "Observing Event",
+        "Expedition Announcement",
+        "Astronomical Event",
+        "Logistics and Planning"
+      ],
+      "keywords": [
+        "Lunar Graze",
+        "Aldebaran",
+        "Hyades Cluster",
+        "Occultation",
+        "IOTA",
+        "SJAA",
+        "March 1979",
+        "Dixon California",
+        "PST",
+        "CB Radio",
+        "Observing Expedition",
+        "Binoculars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-03-many-handy-numbers-and-neat-stuff",
+      "documentId": "eph79-03",
+      "title": "Many Handy Numbers and Neat Stuff",
+      "summary": "This document provides a detailed list of astronomical data points, including various angles (graze position, vertex, cusp, Watts), celestial coordinates for a star and the Moon, and key times (sunset, twilight, moonset). It also includes information on star magnitude, spectrum, Moon elevation, illumination, and constellation, likely for planning or reporting a lunar graze event. Contact information for Jim Van Nuland is provided.",
+      "categories": [
+        "Astronomy",
+        "Observing Data",
+        "Event Planning",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Graze Position Angle",
+        "Vertex angle",
+        "Cusp Angle",
+        "Watts Angle",
+        "Moon North Pole PA",
+        "North Cusp PA",
+        "South Cusp PA",
+        "Sunset",
+        "Civil Twilight",
+        "Astro. Twilight",
+        "Moonset",
+        "Star Magnitude",
+        "Spectrum",
+        "RA",
+        "Declination",
+        "Moon Elevation",
+        "Azimuth",
+        "Illumination",
+        "Taurus",
+        "Lunar graze",
+        "Astronomical data"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph79-03-editorial",
+      "documentId": "eph79-03",
+      "title": "Editorial",
+      "summary": "Penny E. Renshaw expresses profound gratitude for the positive feedback received on the February Bulletin, specifically thanking Dr. Gregory and Patrick Earhart for their encouraging calls. She also extends heartfelt thanks to all contributors for their valuable help, which significantly eased her workload and boosted her morale.",
+      "categories": [
+        "Editorial",
+        "Appreciation",
+        "Internal Communication",
+        "Bulletin Update"
+      ],
+      "keywords": [
+        "Editorial",
+        "Bulletin",
+        "Gratitude",
+        "Appreciation",
+        "Contributors",
+        "Encouragement",
+        "Feedback",
+        "Penny E. Renshaw"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-03-blurbs",
+      "documentId": "eph79-03",
+      "title": "BLURBS",
+      "summary": "This bulletin announces the combination of Astronomy Day with the general meeting, details an upcoming officers' banquet picnic, and schedules MDM star parties. It also mentions job openings at Kitt Peak National Observatory, a board resignation and replacement, and explains the bulletin's brevity due to the editor's eclipse travel plans, with a request for eclipse articles for the next issue. Finally, it provides Messier Marathon timings for observers.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Job Opportunities",
+        "Observing Information",
+        "Organizational Updates"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "General Meeting",
+        "Officer Installation",
+        "Star Parties",
+        "MDM",
+        "Kitt Peak National Observatory",
+        "Job Openings",
+        "Board Resignation",
+        "Eclipse",
+        "Messier Marathon",
+        "Bulletin"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph79-03-open-or-closed-universe",
+      "documentId": "eph79-03",
+      "title": "Open or Closed Universe",
+      "summary": "This article discusses the 'missing mass' problem, exploring whether there is sufficient mass to close the universe. Dr. Wallace Tucker presented a theory suggesting this missing mass exists as halos of stars, gas, and hot plasma in rich galaxy clusters, formed from galactic collisions. Recent X-ray observations from HEAO 1 support this, indicating that a universal hot plasma and massive dust/gas clouds could provide enough mass to close the universe.",
+      "categories": [
+        "Cosmology",
+        "Astrophysics",
+        "Research",
+        "Observational Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Missing Mass",
+        "Open or Closed Universe",
+        "Galaxy Clusters",
+        "X-ray Emissions",
+        "Hot Plasma",
+        "Galactic Collisions",
+        "Elliptical Galaxies",
+        "NGC6166",
+        "HEAO 1",
+        "Wallace Tucker"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-03-sanborn-canyon-star-party-jan-27-1979",
+      "documentId": "eph79-03",
+      "title": "Sanborn Canyon star party - Jan. 27, 1979",
+      "summary": "This article recounts a star party held at Sanborn Canyon on January 27, 1979, attended by several astronomy enthusiasts. Despite very cold temperatures and poor seeing conditions that eventually brought clouds and an unexpected snowstorm, attendees managed to observe objects like Jupiter's red spot before most left early due to the weather.",
+      "categories": [
+        "Event Report",
+        "Observing Report",
+        "Historical"
+      ],
+      "keywords": [
+        "Sanborn Canyon",
+        "Star Party",
+        "Amateur Astronomy",
+        "1979",
+        "Cold Weather",
+        "Snow",
+        "Jupiter's Red Spot",
+        "Observing Conditions",
+        "Infrared Mirror",
+        "Chris Pratt"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph79-03-general-meeting-by-cathy-pinheiro",
+      "documentId": "eph79-03",
+      "title": "General Meeting by Cathy Pinheiro",
+      "summary": "The article reports on a well-attended general meeting held on February 3rd at the Rosicrucian Planetarium, where Jack Brode presented on 1950s-60s moon watch programs. Club president Gerry made numerous announcements, including upcoming Red Cross star parties focused on eclipse planning, an important Aldebaran graze, Astronomy Day plans, and dates for the Riverside Telescope Maker's Conference and the WAA conference. The article concludes with a 'Question of the Month' segment and answers regarding observing in the visible light spectrum.",
+      "categories": [
+        "General Meeting Report",
+        "Club News",
+        "Astronomy Events",
+        "Observing Programs",
+        "Announcements",
+        "Awards"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Rosicrucian Planetarium",
+        "Moon Watch Programs",
+        "Eclipse Planning",
+        "Aldebaran Graze",
+        "Astronomy Day",
+        "Riverside Telescope Maker's Conference",
+        "WAA Conference",
+        "G. Bruce Blair Award",
+        "Amateur Astronomy",
+        "Club Announcements",
+        "Star Parties",
+        "Visible Light Spectrum"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph79-03-elementary-school-star-parties",
+      "documentId": "eph79-03",
+      "title": "ELEMENTARY SCHOOL STAR PARTIES --",
+      "summary": "The article details several activities by the San Jose Astronomical Association (SJAA), including three elementary school star parties at Oak and Wilson Elementary Schools. These events engaged children and parents with telescope observations of celestial objects, educational presentations, and demonstrations of new astronomical imaging technology, notably Pete Manly's TV camera interface. Additionally, the article recounts a surprise indoor birthday party for member Kevin Medlock, featuring a clue-based scavenger hunt for his gift.",
+      "categories": [
+        "Educational Outreach",
+        "Observing Reports",
+        "Club Activities",
+        "Technology Demonstrations",
+        "Social Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Parties",
+        "Elementary Schools",
+        "Astronomy Education",
+        "Telescopes",
+        "Jupiter",
+        "Moon",
+        "Pete Manly",
+        "TV Camera Interface",
+        "Kevin Medlock",
+        "Birthday Party",
+        "Public Outreach"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph79-03-february-17-1979",
+      "documentId": "eph79-03",
+      "title": "February 17, 1979",
+      "summary": "This document from February 17, 1979, reports the discovery of Comet Kowal (1979a), a faint 17 magnitude object found by Charles Kowal using the 48\" Schmidt telescope at Mt. Palomar. It also provides statistics on known comets and instructions to obtain the 'Catalogue of Cometary Orbits.' Additionally, the article includes community announcements, classified ads, and a call for members to donate to the American Red Cross due to the club's use of their building for indoor star parties.",
+      "categories": [
+        "Astronomy News",
+        "Comet Discovery",
+        "Community Announcements",
+        "Club Operations",
+        "Classifieds",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Comet Kowal (1979a)",
+        "Charles Kowal",
+        "Mt. Palomar",
+        "Comet discovery",
+        "Comet tails",
+        "Catalogue of Cometary Orbits",
+        "American Red Cross",
+        "Star parties",
+        "Astronomy club",
+        "1979"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph79-03-to-the-editor",
+      "documentId": "eph79-03",
+      "title": "To the Editor:",
+      "summary": "This document features a letter to the editor by Bob Schalck, who expresses gratitude for a previous story and passionately encourages participation in telescope making, highlighting its community benefits and personal rewards. Complementing this, Jim Van Nuland provides a practical observing schedule detailing when Jupiter's Great Red Spot will be on the meridian for optimal viewing during March and early April.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guides",
+        "Telescope Making",
+        "Community Letter",
+        "Hobby"
+      ],
+      "keywords": [
+        "Telescope making",
+        "Amateur astronomy",
+        "Jupiter",
+        "Great Red Spot",
+        "Observing schedule",
+        "Hobby",
+        "Community",
+        "Bay Area"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-03-astronomy-lens",
+      "documentId": "eph79-03",
+      "title": "ASTRONOMY LENS",
+      "summary": "This document features an astronomy-themed crossword puzzle titled \"Astronomy Lens.\" It displays a partially filled puzzle with astronomy-related terms and also provides answers to the previous month's \"Sky Word # I\" crossword puzzle.",
+      "categories": [
+        "Puzzle",
+        "Recreational",
+        "Education",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Crossword",
+        "Puzzle",
+        "Astronomy",
+        "Sky Word",
+        "Bellatrix",
+        "Resolution",
+        "Aperture",
+        "Binaries",
+        "Northoscopic"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-03-life",
+      "documentId": "eph79-03",
+      "title": "Life",
+      "summary": "The poem \"Life\" by Wolfgang Hanisch explores the profound origins of existence, depicting it as a mysterious spark emerging from emptiness and desire. It portrays a unifying \"golden drop\" that combines vast cosmic forces to ultimately bring about life. The document also contains a brief, seemingly unrelated note about a solar eclipse in February 1979, attributed to Bob Schalek.",
+      "categories": [
+        "Poetry",
+        "Literary",
+        "Historical Notes"
+      ],
+      "keywords": [
+        "Life",
+        "Poem",
+        "Existence",
+        "Mystery",
+        "Creation",
+        "Wolfgang Hanisch",
+        "Solar eclipse",
+        "February 1979",
+        "Bob Schalek"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph79-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7903/Eph79_03.pdf",
+      "txtPath": "7903/Eph79_03.md"
+    }
+  ]
+}

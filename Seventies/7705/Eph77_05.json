@@ -1,0 +1,356 @@
+{
+  "articles": [
+    {
+      "id": "eph77-05-calendar-of-events",
+      "documentId": "eph77-05",
+      "title": "CALENDAR OF EVENTS:",
+      "summary": "This article provides a comprehensive calendar of events for the San Jose Amateur Astronomers during May and early June. It details various club activities, including general meetings featuring guest speakers, board meetings, field expeditions for astronomical observation, and in-valley star parties. Notable events include a vote on changing the club's name, the annual board member elections, a spring slide exposition, and participation in the Riverside Telescope Makers Conference.",
+      "categories": [
+        "Events Calendar",
+        "Club Meetings",
+        "Observing Events",
+        "Club News",
+        "Astronomy Conference"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Astronomical Events",
+        "Observing Sessions",
+        "Star Parties",
+        "Club Meetings",
+        "Telescope Makers Conference",
+        "Club Elections",
+        "Name Change Vote",
+        "Amateur Astronomy",
+        "California Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-05-past-events",
+      "documentId": "eph77-05",
+      "title": "PAST EVENTS",
+      "summary": "The article reports on several astronomy events held in April, including two 'Astronomy Day' public viewing sessions, one at K-Mart with low turnout and another at the Rosicrucian Museum during a partial lunar eclipse that attracted about 500 people. A successful star party at Fremont Peak State Park featured John Dobson's 24-inch telescope and a rare observation of Pluto, while another star party at Skyline was hampered by poor sky conditions.",
+      "categories": [
+        "Past Events",
+        "Observing Reports",
+        "Public Outreach",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "lunar eclipse",
+        "star party",
+        "public viewing",
+        "Fremont Peak State Park",
+        "Pluto",
+        "Saturn",
+        "Moon",
+        "double stars",
+        "galaxies",
+        "star clusters",
+        "nebula",
+        "John Dobson",
+        "Rosicrucian Museum",
+        "Skyline"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-05-news-flash",
+      "documentId": "eph77-05",
+      "title": "News Flash!",
+      "summary": "The State Park District is converting the long-used Skyline observing site into a roadside park, making it unusable for club members. The area previously used for telescopes and cars has been dug up for picnic tables, and a new paved parking lot will be unsuitable due to heavy traffic on Highway 9. This change eliminates a cherished and long-standing observing location for the club.",
+      "categories": [
+        "news",
+        "observing site update",
+        "club announcement",
+        "site closure"
+      ],
+      "keywords": [
+        "Skyline observing site",
+        "State Park District",
+        "roadside park",
+        "observing area",
+        "club members",
+        "telescopes",
+        "Highway 9",
+        "site closure"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-05-bay-area-planetarium-guide",
+      "documentId": "eph77-05",
+      "title": "Bay Area Planetarium Guide",
+      "summary": "This document is a comprehensive guide to Bay Area planetarium programs and schedules for Spring 1977. It lists numerous planetariums across East Bay, South Bay, Peninsula, and San Francisco, detailing their operating hours, specific program titles, dates of operation, and admission costs. The guide also provides contact information, notes on reservations, and age restrictions for attendees.",
+      "categories": [
+        "Events Guide",
+        "Astronomy",
+        "Local Information",
+        "Educational Programs",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Planetarium",
+        "Bay Area",
+        "Spring 1977",
+        "Astronomy shows",
+        "Public programs",
+        "Chabot College",
+        "Morrison Planetarium",
+        "Lawrence Hall of Science",
+        "San Francisco",
+        "Oakland",
+        "Hayward",
+        "Telescope viewing",
+        "Educational events"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph77-05-key",
+      "documentId": "eph77-05",
+      "title": "KEY",
+      "summary": "The document lists key entities related to astronomy and education, specifically highlighting 'Educational Institutions', the 'Stanford Radio Telescope', 'Planetariums', and 'Observatories'. It appears to be a quick reference or index of significant locations and types of organizations in these fields.",
+      "categories": [
+        "Astronomy",
+        "Education",
+        "Research Facilities",
+        "Institutions"
+      ],
+      "keywords": [
+        "Educational Institutions",
+        "Stanford Radio Telescope",
+        "Planetariums",
+        "Observatories",
+        "Astronomy Education",
+        "Astronomical Facilities"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-05-los-medanos-college",
+      "documentId": "eph77-05",
+      "title": "LOS MEDANOS COLLEGE",
+      "summary": "This document provides location information for various California cities, features an address and showroom hours for an Oakland establishment, and prominently mentions LOS MEDANOS COLLEGE. It also highlights the OPTICA b/c COMPANY, a member of the Pacific Planetarium Association, emphasizing its central location among numerous observatories, planetaria, space research centers, and astronomy education institutions.",
+      "categories": [
+        "Astronomy",
+        "Education",
+        "Business",
+        "Locations",
+        "Advertisement"
+      ],
+      "keywords": [
+        "Los Medanos College",
+        "Optica b/c Company",
+        "Pacific Planetarium Association",
+        "Observatories",
+        "Planetaria",
+        "Astronomy education",
+        "California cities",
+        "Showroom hours"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph77-05-membership-renewals",
+      "documentId": "eph77-05",
+      "title": "Membership Renewals",
+      "summary": "Members of the San Jose Amateur Astronomers should anticipate receiving their yellow Sky and Telescope renewal cards shortly. Regular membership costs $15, while junior membership (under 18) is $10. Payments should be made to Treasurer John Rhodes, with checks payable to \"San Jose Amateur Astronomers.\"",
+      "categories": [
+        "Club News",
+        "Membership",
+        "Administrative Announcement"
+      ],
+      "keywords": [
+        "Membership Renewals",
+        "San Jose Amateur Astronomers",
+        "Sky and Telescope",
+        "Membership Fees",
+        "Treasurer",
+        "Junior Membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-05-news-notz",
+      "documentId": "eph77-05",
+      "title": "News Notz",
+      "summary": "This article, titled \"News Notz,\" provides several brief updates in astronomy, including recent findings on meteorite origins, new evidence for supernova-triggered star birth, and details on Nova Sagittarii 1977's discovery and brightening. It also reports on the redesigned Space Telescope's specifications and anticipated 1983 launch. Additionally, the document includes specific directions and access instructions for a location near Anderson Reservoir and Henry Coe Park.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Space Exploration",
+        "Logistics"
+      ],
+      "keywords": [
+        "Meteorites",
+        "Asteroid Belt",
+        "Supernovae",
+        "Star Birth",
+        "Nova Sagittarii 1977",
+        "Space Telescope",
+        "Cassegrain",
+        "Henry Coe Park",
+        "Anderson Reservoir",
+        "Astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph77-05-rattley-rattles",
+      "documentId": "eph77-05",
+      "title": "Rattley Rattles",
+      "summary": "An astronomical organization is awaiting approval from the University of Santa Clara to use its observatory and its 16-inch Alvan Clark refractor, with prospects looking favorable for use within six months. The society plans to utilize the observatory for meetings, public education, and various astronomical projects like astrophotography and variable star observations, also proposing telescope restoration and modifications. The university's primary condition is non-personal use, and the article also briefly announces an upcoming special meeting for a constitutional vote.",
+      "categories": [
+        "Observatory Use",
+        "Organizational News",
+        "Project Planning",
+        "Member Engagement",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "University of Santa Clara Observatory",
+        "Alvan Clark refractor",
+        "Telescope use",
+        "Astronomical society",
+        "Public observing",
+        "Astrophotography",
+        "Variable star observations",
+        "Telescope restoration",
+        "Constitutional change"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph77-05-sjaa",
+      "documentId": "eph77-05",
+      "title": "SJAA",
+      "summary": "The San Jose Amateur Astronomers (SJAA) is proposing to change its name to the San Jose Astronomical Association to cultivate a more professional image, with a membership vote pending. The document also provides comprehensive details for the 9th annual Riverside Telescope Makers Conference, scheduled for May 21-22, 1977, at Camp Oakes, including accommodation options, costs, and reservation instructions.",
+      "categories": [
+        "Club News",
+        "Organizational Announcement",
+        "Event Announcement",
+        "Astronomy Conference",
+        "Club Governance"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Amateur Astronomers",
+        "San Jose Astronomical Association",
+        "Name Change",
+        "By-laws",
+        "Riverside Telescope Makers Conference",
+        "RTMC",
+        "Telescope Making",
+        "Amateur Astronomy",
+        "Club Meeting",
+        "Camp Oakes",
+        "1977"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph77-05-lunar-occultations",
+      "documentId": "eph77-05",
+      "title": "LUNAR OCCULTATIONS",
+      "summary": "This article provides a detailed schedule of lunar occultation events occurring from late April through early June, including specific dates, times, and observational parameters like star magnitude, lunar illumination, elevation, cusp angle, and position angle. It offers observational advice for prominent events like ZC0944 and defines the technical headings used in the event table for astronomers and observers.",
+      "categories": [
+        "Astronomy",
+        "Astronomical Events",
+        "Observing Guide",
+        "Technical Information"
+      ],
+      "keywords": [
+        "Lunar occultations",
+        "Occultation predictions",
+        "Astronomical observing",
+        "May occultations",
+        "June occultations",
+        "ZC0944",
+        "Magnitude",
+        "Cusp Angle",
+        "Position Angle",
+        "Moon",
+        "Stars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-05-saturn",
+      "documentId": "eph77-05",
+      "title": "SATURN",
+      "summary": "This document provides updates and explanations regarding tables and figures for Saturn and its moons, noting variations due to a constant scale and a slightly smaller scaled figure for Saturn this month. The author discusses the challenges of observing satellites close to the planet, offers guidance on scope sizes, and invites readers to share their observational findings to refine the data.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Celestial Mechanics",
+        "Observational Guides"
+      ],
+      "keywords": [
+        "Saturn",
+        "Saturn's moons",
+        "Astronomical observation",
+        "Telescope aperture",
+        "Celestial tables",
+        "Observing tips",
+        "Astronomy feedback"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph77-05-moons-and-stars-observation-data",
+      "documentId": "eph77-05",
+      "title": "Moons and Stars Observation Data",
+      "summary": "This document presents detailed observation data for several moons, primarily focusing on Saturn's major satellites. It includes a table with astronomical characteristics such as visual magnitude, recommended telescope aperture, and orbital period for eight moons. Following this, the document provides daily positional observation logs for these moons over several weeks in May and early June.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Data",
+        "Planetary Moons",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Moons",
+        "Observation Data",
+        "Saturnian Moons",
+        "Mimas",
+        "Enceladus",
+        "Tethys",
+        "Dione",
+        "Rhea",
+        "Titan",
+        "Hyperion",
+        "Iapetus",
+        "Magnitude",
+        "Telescope",
+        "Orbital Period",
+        "Positional Astronomy",
+        "Astronomical Log"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7705/Eph77_05.pdf",
+      "txtPath": "7705/Eph77_05.md"
+    }
+  ]
+}

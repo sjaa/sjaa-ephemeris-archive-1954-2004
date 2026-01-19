@@ -1,0 +1,68 @@
+{
+  "articles": [
+    {
+      "id": "eph76-02-february-1976",
+      "documentId": "eph76-02",
+      "title": "FEBRUARY 1976",
+      "summary": "This document lists the officers of an organization for February 1976, including the President, Vice-president, Secretary, and Treasurer, along with their respective names and contact numbers. It appears to be an internal communication or a directory update for that specific month.",
+      "categories": [
+        "Organizational News",
+        "Internal Communication",
+        "Directory"
+      ],
+      "keywords": [
+        "February 1976",
+        "Officers",
+        "President",
+        "Vice-president",
+        "Secretary",
+        "Treasurer",
+        "Tom Mungall",
+        "Norm Wild",
+        "Bob Malm",
+        "Gerry Rattley"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-02-bulletin",
+      "documentId": "eph76-02",
+      "title": "BULLETIN",
+      "summary": "This BULLETIN from the San Jose Amateur Astronomers outlines a challenging January with cancelled meetings and lease renewal issues, yet maintains optimism for future improvements. The club announces several upcoming events, including star parties and a general meeting in early 1976, and promotes its extensive library. Additionally, it congratulates member Dave Erickson on his astronomical photographs published in MERCURY.",
+      "categories": [
+        "News & Updates",
+        "Events",
+        "Meetings",
+        "Star Parties",
+        "Club Library",
+        "Member Achievements",
+        "Organizational Challenges"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Club Bulletin",
+        "General Meeting",
+        "Star Party",
+        "Club Library",
+        "Organizational Challenges",
+        "Lease Negotiations",
+        "Astronomical Photography",
+        "Dave Erickson",
+        "Astronomy Education",
+        "Upcoming Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7602/Eph76_02.pdf",
+      "txtPath": "7602/Eph76_02.md"
+    }
+  ]
+}

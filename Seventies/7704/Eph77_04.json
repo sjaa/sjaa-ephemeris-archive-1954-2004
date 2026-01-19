@@ -1,0 +1,138 @@
+{
+  "articles": [
+    {
+      "id": "eph77-04-what-s-going-on-in-the-club",
+      "documentId": "eph77-04",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This document outlines an astronomy club's schedule of events for April and May, including general membership meetings, public astronomy days, club star parties, and a significant field observing session. Key highlights include a presentation on the Venus Probe by Dr. Nothwang of N.A.S.A., public events coinciding with a partial lunar eclipse, and details for accessing a club observing site. The bulletin concludes with a farewell note from the editor.",
+      "categories": [
+        "Events Calendar",
+        "Club News",
+        "Public Outreach",
+        "Observing Events",
+        "Meetings",
+        "Educational"
+      ],
+      "keywords": [
+        "Astronomy Events",
+        "Club Schedule",
+        "Star Parties",
+        "Venus Probe",
+        "Lunar Eclipse",
+        "Telescope Makers Conference",
+        "Observing Sessions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-04-lunar-occultations",
+      "documentId": "eph77-04",
+      "title": "LUNAR OCCULTATIONS",
+      "summary": "This document provides a detailed schedule of lunar occultation events for April, including specific dates, times (PST/PDT), star magnitudes, lunar illumination, and elevation. It encourages amateur astronomers to observe these events, particularly the occultation of λ Geminorum on April 24th, and to report their observations, even if using binoculars.",
+      "categories": [
+        "Astronomy Events",
+        "Observing Guide",
+        "Lunar Phenomena",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Lunar occultations",
+        "Occultations",
+        "Astronomy",
+        "Observing",
+        "Stars",
+        "Lambda Geminorum",
+        "λ Gem",
+        "SAO118443",
+        "Skywatching",
+        "Astronomical calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-04-jupiter",
+      "documentId": "eph77-04",
+      "title": "JUPITER",
+      "summary": "This report discusses observations of Jupiter, noting the end of the Red Spot's visibility for the current month with plans to re-observe it later. It also mentions the presumed disappearance of a white spot, last reported in February, with no subsequent sightings.",
+      "categories": [
+        "observing reports",
+        "planetary observations",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Red Spot",
+        "Great Red Spot",
+        "white spot",
+        "planetary observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-04-saturn",
+      "documentId": "eph77-04",
+      "title": "SATURN",
+      "summary": "This document provides instructions for drawing daily maps of Saturn's moons. Users are guided to cut out a Saturn figure, paste it onto quadrille paper, and then plot the positions of individual satellites using provided daily tables that specify distance and direction. The guide includes details on interpreting the data, plotting in pencil to observe movement, and notes the chart scale and time.",
+      "categories": [
+        "Observing Guide",
+        "Instructional",
+        "Astronomy",
+        "DIY Astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "Saturn's Moons",
+        "Plotting",
+        "Mapping",
+        "Observing",
+        "Dione",
+        "Celestial Mechanics (simplified)",
+        "Astronomical Chart"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-04-satellite-observation-schedule",
+      "documentId": "eph77-04",
+      "title": "Satellite Observation Schedule",
+      "summary": "This document provides a detailed observation schedule for several natural satellites, likely moons of a gas giant like Saturn, over a period from late March to early April. It lists each satellite's name, magnitude, recommended scope size, and orbital period, followed by daily positional data (coordinates) for observation. The schedule serves as a guide for astronomers to locate and observe these celestial bodies.",
+      "categories": [
+        "Astronomy",
+        "Observing Schedule",
+        "Celestial Mechanics",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Satellite observation",
+        "Mimas",
+        "Enceladus",
+        "Tethys",
+        "Dione",
+        "Rhea",
+        "Titan",
+        "Hyperion",
+        "Iapetus",
+        "Magnitude",
+        "Telescope",
+        "Orbital period",
+        "Astronomical guide",
+        "Planetary moons"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7704/Eph77_04.pdf",
+      "txtPath": "7704/Eph77_04.md"
+    }
+  ]
+}

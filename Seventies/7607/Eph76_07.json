@@ -1,0 +1,125 @@
+{
+  "articles": [
+    {
+      "id": "eph76-07-july-76-bulletin",
+      "documentId": "eph76-07",
+      "title": "July 76 Bulletin",
+      "summary": "This document is the 'July 76 Bulletin', featuring an astronomical image that depicts a dark nebulous region against a starfield. The image shows an irregular dark shape with fuzzy edges, characteristic of a dark nebula, surrounded by numerous stars.",
+      "categories": [
+        "Bulletin",
+        "Astronomy",
+        "Historical Document",
+        "Deep-Sky Object"
+      ],
+      "keywords": [
+        "July 1976",
+        "Bulletin",
+        "Astronomy",
+        "Astronomical Image",
+        "Dark Nebula",
+        "Nebula",
+        "Starfield",
+        "Deep-Sky"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph76-07-what-s-going-on-in-the-club",
+      "documentId": "eph76-07",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This club bulletin details upcoming astronomical events for July and August, including a banquet, officer installation, general meetings, and several club- and A.A.N.C.-sponsored star parties. It also provides information on the Western Amateur Astronomers convention, requests astrophoto submissions for the bulletin, and lists a used telescope for sale.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Announcements",
+        "Observing Reports",
+        "Astrophotography",
+        "Equipment Sale"
+      ],
+      "keywords": [
+        "Club events",
+        "Star parties",
+        "General meetings",
+        "Banquet",
+        "Officer installation",
+        "Astronomy convention",
+        "Astrophotography",
+        "Telescope for sale",
+        "Deadlines",
+        "A.A.N.C.",
+        "Western Amateur Astronomers"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-07-introduction-to-the-orbits-of-visual-binary-stars-contributed-by-gerry-rattley",
+      "documentId": "eph76-07",
+      "title": "Introduction to \"The Orbits of Visual Binary Stars\" contributed by Gerry Rattley.",
+      "summary": "Gerry Rattley introduces a new series of articles titled \"The Orbits of Visual Binary Stars,\" which will provide orbital diagrams and ephemerides for bright visual binary stars of interest to amateur astronomers. The articles will focus on stars with accurately computed orbits, using references like the Finsen & Worley catalogue and the Becvar Atlas. Rattley also offers resources for further learning, including club talks and a Sky & Telescope reprint by Jean Meeus, and a special notice reminds members of upcoming club membership renewals.",
+      "categories": [
+        "Program Announcement",
+        "Astronomy Education",
+        "Observational Astronomy",
+        "Club News",
+        "Administrative"
+      ],
+      "keywords": [
+        "Gerry Rattley",
+        "Visual Binary Stars",
+        "Orbits",
+        "Ephemerides",
+        "Amateur Astronomers",
+        "Finsen & Worley",
+        "Antonin Becvar",
+        "Jean Meeus",
+        "Sky & Telescope",
+        "Membership Renewal",
+        "San Jose Amateur Astronomers"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph76-07-elements-of-the-orbits-as-listed-in-the-third-catalogue-of-the-orbits-of-visual-binary-stars-by-w-s-finsen-and-c-e-worley-1970",
+      "documentId": "eph76-07",
+      "title": "Elements of the orbits as listed in the Third Catalogue of the Orbits of Visual Binary Stars by W. S. Finsen and C. E. Worley, 1970.",
+      "summary": "This document presents orbital elements from the 1970 Third Catalogue of the Orbits of Visual Binary Stars, providing detailed analysis and ephemerides for specific systems like ξ Scorpii and α Scorpii (Antares), including their stellar characteristics and orbital predictions. Additionally, it contains an announcement for a 1976 astronomy club banquet and officer installation, outlining event logistics such as location, menu, pricing, and reservation details.",
+      "categories": [
+        "Astronomy",
+        "Binary Stars",
+        "Stellar Orbits",
+        "Astronomical Catalogs",
+        "Amateur Astronomy Events",
+        "Club News"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "ξ Scorpii",
+        "α Scorpii",
+        "Antares",
+        "Ephemeris",
+        "Finsen and Worley Catalogue",
+        "Stellar Astrophysics",
+        "Amateur Astronomy Club",
+        "Banquet",
+        "Officer Installation",
+        "1970",
+        "1976"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7607/Eph76_07.pdf",
+      "txtPath": "7607/Eph76_07.md"
+    }
+  ]
+}

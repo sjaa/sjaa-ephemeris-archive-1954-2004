@@ -1,0 +1,195 @@
+{
+  "articles": [
+    {
+      "id": "eph77-11-november-in-the-year-1977",
+      "documentId": "eph77-11",
+      "title": "NOVEMBER IN THE YEAR 1977",
+      "summary": "This document outlines a schedule of astronomical events and meetings for October, November, and December 1977, organized by groups such as the Peninsula Astronomical Society and the Far-out Club. Events include various star parties (indoor, public, and club-specific), general meetings, and board meetings, along with planning for a graze occultation expedition. It also features a report on a past field observation event at Lexington School, which was partially successful despite significant light pollution.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Reports",
+        "Astronomy Clubs",
+        "Historical Document"
+      ],
+      "keywords": [
+        "1977",
+        "Astronomy events",
+        "Star party",
+        "General meeting",
+        "Board meeting",
+        "Occultation",
+        "Light pollution",
+        "Peninsula Astronomical Society",
+        "Far-out Club",
+        "Henry Coe Park",
+        "Los Gatos",
+        "Club activities",
+        "Observation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-11-blurbs",
+      "documentId": "eph77-11",
+      "title": "BLURBS",
+      "summary": "The article promotes a weekly telescope makers class at Chabot Observatory, emphasizing its educational value in optics, social atmosphere, and role in planning future events for astronomy enthusiasts. It also informs club members about a reduced December event schedule due to holidays, briefly mentions a past talk on the AANC Conference, and an ongoing request for a new title for Ed Schell's reports.",
+      "categories": [
+        "Club News",
+        "Education & Workshops",
+        "Observatory Activities",
+        "Events"
+      ],
+      "keywords": [
+        "Telescope making",
+        "Telescope optics",
+        "Astigmatism",
+        "Chabot Observatory",
+        "Astronomy class",
+        "Club meetings",
+        "December events",
+        "Holiday schedule",
+        "AANC Conference",
+        "Ed Schell"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-11-news-notez-ed-schell",
+      "documentId": "eph77-11",
+      "title": "NEWS NOTEZ Ed.Schell",
+      "summary": "Recent astronomical observations have identified LMC X-1 as a supernova remnant and revealed the ultraviolet spectrum of quasar 3C 273, potentially indicating a closed universe. In planetary science, the Viking Landers have detected and photographed frost on Mars. Additionally, a positive leap second is scheduled for December 31, 1977.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Space Exploration",
+        "Observational Astronomy",
+        "Events"
+      ],
+      "keywords": [
+        "LMC X-1",
+        "Supernova remnant",
+        "Quasar 3C 273",
+        "Ultraviolet spectrum",
+        "Closed universe",
+        "Leap second",
+        "Viking Landers",
+        "Mars frost",
+        "IAU Circular"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-11-editorial",
+      "documentId": "eph77-11",
+      "title": "EDITORIAL",
+      "summary": "This editorial argues that individuals who do not volunteer at the public star party for West Valley classes at Sanborn Canyon should not complain if West Valley attendees participate in other star parties. The author emphasizes the importance of community support and shared responsibility in hosting public astronomy events.",
+      "categories": [
+        "Editorial",
+        "Community Engagement",
+        "Astronomy",
+        "Opinion",
+        "Volunteerism"
+      ],
+      "keywords": [
+        "Star party",
+        "Sanborn Canyon",
+        "West Valley",
+        "Community involvement",
+        "Volunteerism",
+        "Public outreach",
+        "Astronomy events",
+        "Shared responsibility"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-11-great-red-spot-on-meridian-lct",
+      "documentId": "eph77-11",
+      "title": "GREAT RED SPOT ON MERIDIAN LCT",
+      "summary": "This article presents a detailed schedule for observing Jupiter's Great Red Spot (GRS) as it transits the meridian from late October to early December. An accompanying observing report notes the GRS is currently faint, occasionally pink, and primarily identifiable by its effect on surrounding belts, though timing predictions by Jim Van Nuland remain highly accurate.",
+      "categories": [
+        "Observing Guide",
+        "Observing Report",
+        "Planetary Astronomy",
+        "Events"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Meridian Transit",
+        "Observing Schedule",
+        "Planetary Observation",
+        "Astronomical Report",
+        "Brad Carlson",
+        "Jim Van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-11-an-announcement",
+      "documentId": "eph77-11",
+      "title": "An Announcement",
+      "summary": "The document announces an upcoming graze occultation event on November 4th-5th, encouraging participation and treating it like a star party. It also features a report on a successful Fremont Peak Star Party held in October, attended by hundreds from various astronomy clubs and colleges. Additionally, the document includes classified ads for used telescopes and an extensive list of double stars with observational data.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Announcements",
+        "Amateur Astronomy",
+        "Astronomical Data",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Graze Occultation",
+        "Star Party",
+        "Fremont Peak",
+        "AANC Conference",
+        "Double Stars",
+        "Telescopes for Sale",
+        "Amateur Clubs",
+        "Astronomy Bulletin"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph77-11-comet-update",
+      "documentId": "eph77-11",
+      "title": "COMET UPDATE",
+      "summary": "This \"COMET UPDATE\" provides current observational data and future predictions for various comets. It highlights brightest reported visual magnitudes for Comet Kohler (7.5) and Comet Encke (8.8), along with details about Kohler's tail and predicted positions through December. The article also lists 19 comets under observation since August 1st, noting periodic ones, and reports the discovery of a new comet, Sanguin (1977n).",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Astronomical Data",
+        "Comets"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet observations",
+        "Visual magnitude",
+        "Comet Kohler",
+        "Comet Encke",
+        "Predicted positions",
+        "IAU Circulars",
+        "Periodic comets",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7711/Eph77_11.pdf",
+      "txtPath": "7711/Eph77_11.md"
+    }
+  ]
+}

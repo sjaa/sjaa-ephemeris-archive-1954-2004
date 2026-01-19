@@ -1,0 +1,313 @@
+{
+  "articles": [
+    {
+      "id": "eph77-10-october-in-the-year-1977",
+      "documentId": "eph77-10",
+      "title": "OCTOBER IN THE YEAR 1977",
+      "summary": "This document outlines a schedule of astronomical events and club meetings for October and early November 1977. It details various star parties (indoor, close-in, far-out, AANC Post Conference, public), general club meetings, and board of directors meetings, complete with dates, times, and locations.",
+      "categories": [
+        "Events",
+        "Club Meetings",
+        "Observing Events",
+        "Historical"
+      ],
+      "keywords": [
+        "October 1977",
+        "November 1977",
+        "Star Parties",
+        "Astronomy Club Meetings",
+        "Fremont Peak",
+        "Los Gatos",
+        "Olinder Center",
+        "Penninsula Astronomical Society"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-10-the-eclipse-of-the-sun-june-22-1666",
+      "documentId": "eph77-10",
+      "title": "THE ECLIPSE OF THE SUN JUNE 22,1666",
+      "summary": "This document details observations of the June 22, 1666 solar eclipse in London and Paris, noting its duration, observation methods with telescopes, and contemporary discussions on the precision of timekeeping for astronomical study. The second part introduces Penny Pinschmidt as the new bulletin editor, who outlines changes to the publication's budget and appeals to readers for content contributions.",
+      "categories": [
+        "Historical Astronomy",
+        "Observing Report",
+        "Editorial",
+        "Society News"
+      ],
+      "keywords": [
+        "Solar eclipse 1666",
+        "Astronomical observation",
+        "Timekeeping",
+        "Telescope",
+        "Royal Society",
+        "Bulletin editor",
+        "Publication budget",
+        "Call for submissions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-10-news-notez-ed-schell",
+      "documentId": "eph77-10",
+      "title": "NEWS NOTEZ    Ed Schell",
+      "summary": "This news note reports on several astronomical events: a nova in Ophiuchus that has become the second strongest X-ray source, a predicted occultation of a 9.3 magnitude red star by Uranus's rings on December 23rd, and the discovery of a new comet by Merlin Kohler on September 4th, which appears brighter than initially predicted.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Discoveries",
+        "Predictions"
+      ],
+      "keywords": [
+        "nova",
+        "Ophiuchus",
+        "X-ray emission",
+        "Uranus",
+        "rings",
+        "occultation",
+        "comet",
+        "Merlin Kohler",
+        "IAU Circulars"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-10-blurbs",
+      "documentId": "eph77-10",
+      "title": "BLURBS",
+      "summary": "This article, titled \"BLURBS,\" outlines several upcoming astronomy-related events in October and November. Key events include an Oct. 7 general meeting with a show-and-tell equipment night and a concurrent board meeting, followed by an AANC Post Conference star party at Fremont Peak featuring John Dobson's \"Astronomy for children under 80\" class. John Dobson will also lead a telescope making class starting Oct. 13 at the Lawrence Hall of Science, and the blurb reminds members about gate lock protocols for a Nov. 12 star party at Coe.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Workshops/Classes",
+        "Observing Reports",
+        "News",
+        "Logistics"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Star Party",
+        "John Dobson",
+        "Telescope Making",
+        "Fremont Peak",
+        "Lawrence Hall of Science",
+        "Coe",
+        "Eclipse Trip",
+        "Astronomy Class",
+        "Equipment Night",
+        "October Events",
+        "November Events",
+        "Board Meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-10-adds-adds-with-only-one",
+      "documentId": "eph77-10",
+      "title": "Adds                    Adds? with only one?",
+      "summary": "The article is a \"For Sale\" advertisement for an 8-inch Newtonian f/7 telescope. The asking price is $289.00 and it includes a car top rack, four eyepieces, and a finder. Interested buyers can contact Brad Carlson at (408) 268-1580.",
+      "categories": [
+        "Advertisement",
+        "For Sale",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "telescope",
+        "Newtonian",
+        "8 inch",
+        "f/7",
+        "eyepieces",
+        "finder",
+        "car top rack",
+        "Brad Carlson",
+        "used equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph77-10-sept-star-party-henry-coe-state-park",
+      "documentId": "eph77-10",
+      "title": "Sept. star party, Henry Coe State Park",
+      "summary": "A star party was held on Saturday, Sept. 10, at Henry Coe State Park, attended by approximately 30 members and guests with at least 15 telescopes. Participants enjoyed excellent dark skies and good seeing conditions, observing objects such as Comet Kohler, the Trifid Nebula's dust lanes, a bright M31, and the fascinating M57. Despite chilly air, the viewing experience was highly rewarding.",
+      "categories": [
+        "Observing Report",
+        "Event",
+        "Star Party"
+      ],
+      "keywords": [
+        "Star Party",
+        "Henry Coe State Park",
+        "Comet Kohler",
+        "Trifid Nebula",
+        "M31",
+        "M57",
+        "Observing",
+        "Dark Skies",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-10-last-month-s-general-meeting",
+      "documentId": "eph77-10",
+      "title": "Last month's general meeting",
+      "summary": "Dr. Therkelson gave an excellent and well-received talk on celestial navigation at last month's general meeting. He explained the history, theory, and practical methods of celestial navigation, noting its diminished but still important role compared to modern electronic aids. The talk detailed how to determine a line of position using star observations and tables, with multiple stars fixing a precise location.",
+      "categories": [
+        "Meeting Report",
+        "Educational Talk",
+        "Astronomy History"
+      ],
+      "keywords": [
+        "celestial navigation",
+        "Dr. Therkelson",
+        "general meeting",
+        "navigation",
+        "stars",
+        "line of position",
+        "astronomy",
+        "electronic aids"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-10-a-partial-occultation-of-the-sun",
+      "documentId": "eph77-10",
+      "title": "A Partial Occultation of the Sun",
+      "summary": "The article announces a partial lunar occultation (eclipse) of the sun occurring on October 12, with local times from 11:49 am PDT to 2:13 pm. Members are advised to set up projection viewing for the sun and warn onlookers against direct viewing for safety.",
+      "categories": [
+        "event announcement",
+        "observing guidelines",
+        "safety warning"
+      ],
+      "keywords": [
+        "partial occultation",
+        "solar eclipse",
+        "lunar occultation",
+        "October 12",
+        "PDT",
+        "sun projection",
+        "direct viewing",
+        "eye safety"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph77-10-visual-binary-stars-for-the-year-1980",
+      "documentId": "eph77-10",
+      "title": "Visual Binary Stars for the Year 1980",
+      "summary": "This article presents the first installment of a comprehensive list of visual binary stars, providing their computed position angles and separations for the year 1980.0. Compiled by Gerry Rattley for amateur astronomers, the list addresses the inaccuracy of common double star sources by offering current orbital data for binaries with separations of 0.5 arcseconds or greater. It includes detailed stellar information and a reliability rating for the orbital computations, intended to be published in club bulletins.",
+      "categories": [
+        "Astronomy",
+        "Double Stars",
+        "Observing Guides",
+        "Star Catalogue",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Double Stars",
+        "Stellar Orbits",
+        "Amateur Astronomy",
+        "Astronomical Data",
+        "1980"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph77-10-board-meeting-notes",
+      "documentId": "eph77-10",
+      "title": "BOARD MEETING NOTES",
+      "summary": "The article outlines the San Jose Astronomical Association (SJAA) Board of Directors' multifaceted responsibilities, extending beyond planning general meetings and securing speakers, to managing club operations like budget, bylaws, and member programs. It specifically details the challenges of organizing star parties due to diverse member interests (beginners, veterans, astrophotographers) and logistical issues. To address this, the Board is implementing a new scheme involving simultaneous close-in and far-away star parties, including invitational events for college students, to better accommodate the varied needs of its membership.",
+      "categories": [
+        "Club Operations",
+        "Board Meetings",
+        "Event Planning",
+        "Astronomy Clubs",
+        "Star Parties",
+        "Membership Engagement"
+      ],
+      "keywords": [
+        "SJAA Board of Directors",
+        "Star parties",
+        "Club management",
+        "Membership interests",
+        "Astronomy events",
+        "Observing programs",
+        "Astrophotography",
+        "Beginner astronomers",
+        "West Valley College"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph77-10-sjaa",
+      "documentId": "eph77-10",
+      "title": "SJAA",
+      "summary": "The SJAA Graze Section announced an expedition to observe a lunar graze of the 6.3 magnitude star SAO118023 in Leo on November 5, 1977, near Hollister, CA. The event, expected to yield multiple disappearances and reappearances due to the Moon's irregular limb, required specific equipment like tape recorders and WWV receivers. A planning meeting was scheduled to prepare participants for timing techniques and logistics.",
+      "categories": [
+        "observing report",
+        "event announcement",
+        "astronomical expedition",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "lunar graze",
+        "occultation",
+        "SAO118023",
+        "November 5, 1977",
+        "Hollister",
+        "Paicines",
+        "timing techniques",
+        "WWV receivers",
+        "astronomy expedition",
+        "celestial mechanics"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph77-10-to-get-to-paicines",
+      "documentId": "eph77-10",
+      "title": "To get to Paicines:",
+      "summary": "This document provides detailed driving directions to Paicines, California, starting from Hwy 101 south past Gilroy. The meeting point in Paicines is set for around midnight, where attendees will then proceed to Limekiln Rd. to observe a celestial graze. It also includes notes on road conditions, differentiating between dirt and paved roads.",
+      "categories": [
+        "Directions",
+        "Events",
+        "Logistics",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Paicines",
+        "Directions",
+        "Hwy 101",
+        "Hwy 25",
+        "Hollister",
+        "Graze",
+        "Midnight",
+        "Limekiln Rd",
+        "Road conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7710/Eph77_10.pdf",
+      "txtPath": "7710/Eph77_10.md"
+    }
+  ]
+}

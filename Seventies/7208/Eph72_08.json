@@ -1,0 +1,62 @@
+{
+  "articles": [
+    {
+      "id": "eph72-08-july-banquet",
+      "documentId": "eph72-08",
+      "title": "July Banquet",
+      "summary": "The SJAA held its annual banquet on July 16th, attended by approximately 50 people, where new officers were installed, including Dr. A.S. Gregory as President. Outgoing President Dave Erickson highlighted the club's growth and its focus on public outreach, a sentiment echoed by Dr. Gregory who also stressed increased member participation. The evening concluded with a stimulating presentation on infrared astronomy by NASA physicist Dr. Lawrence Cathlff.",
+      "categories": [
+        "events",
+        "club news",
+        "organizational",
+        "meeting report",
+        "presentations"
+      ],
+      "keywords": [
+        "SJAA",
+        "annual banquet",
+        "officer installation",
+        "Dr. A.S. Gregory",
+        "Dave Erickson",
+        "public outreach",
+        "member participation",
+        "Dr. Lawrence Cathlff",
+        "NASA Ames",
+        "infrared astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph72-08-events-for-august",
+      "documentId": "eph72-08",
+      "title": "EVENTS FOR AUGUST",
+      "summary": "This document outlines a series of events scheduled for August, including a monthly meeting change, an overnight star party at Fremont Peak, and a public star party at the Skyline site. It also mentions a planning meeting at the Commedy Bank Bldg. and includes some humorous, non-event-related commentary.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Meetings"
+      ],
+      "keywords": [
+        "August events",
+        "star party",
+        "Fremont Peak",
+        "Skyline site",
+        "monthly meeting",
+        "planning meeting",
+        "public viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph72-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7208/Eph72_08.pdf",
+      "txtPath": "7208/Eph72_08.md"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "articles": [
+    {
+      "id": "eph75-03-march-bulletin-1975",
+      "documentId": "eph75-03",
+      "title": "March BULLETIN 1975",
+      "summary": "The March 1975 Bulletin details club leadership and recent activities, including a general meeting featuring presentations on deep-sky and Messier objects, and a pitch for the Astronomical Society of the Pacific. It also reports on a lightly attended but successful star party where attendees enjoyed clear views of Saturn. The bulletin also humorously notes a donation by the treasurer to improve the newsletter's printing quality, granting him a 'deed' to a crater on Ganymede.",
+      "categories": [
+        "Club News",
+        "Observing Reports",
+        "Meetings",
+        "Internal Communications",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "March BULLETIN 1975",
+        "Astronomical Club",
+        "Club Officers",
+        "General Meeting",
+        "Star Party",
+        "Deep-sky Objects",
+        "Messier Objects",
+        "Saturn",
+        "Ganymede",
+        "Galileo Crater",
+        "Astronomical Society of the Pacific"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-03-coming-events",
+      "documentId": "eph75-03",
+      "title": "COMING EVENTS:",
+      "summary": "This document outlines upcoming astronomical events including a general meeting on March 7, 1975, featuring a lecture on a 15\" telescope and a 'bring-your-own-slides' night, a board meeting on March 14, and a star party at Henry Coe State Park on March 15. It also announces a change of venue for the Riverside Telescope Makers convention to Bear Valley and provides a technical note explaining how to calculate composite magnitudes for multiple star systems.",
+      "categories": [
+        "Events",
+        "News",
+        "Technical",
+        "Astronomy Meetings",
+        "Observing"
+      ],
+      "keywords": [
+        "General meeting",
+        "Star party",
+        "Board meeting",
+        "Telescope",
+        "Slides night",
+        "Constellation Virgo",
+        "Riverside Telescope Makers convention",
+        "Composite magnitudes",
+        "Magnitude calculation",
+        "Binary stars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7503/Eph75_03.pdf",
+      "txtPath": "7503/Eph75_03.md"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "articles": [
+    {
+      "id": "eph76-04-isjqq",
+      "documentId": "eph76-04",
+      "title": "ISJQQ",
+      "summary": "The provided document describes an astronomical photograph depicting a comet with a bright white nucleus and a diffuse tail set against a starry black background. The only visible text within the image itself is \"ISJQQ\", which also serves as the document's title.",
+      "categories": [
+        "Astronomy",
+        "Astrophotography",
+        "Image Description"
+      ],
+      "keywords": [
+        "Comet",
+        "Astronomical Photograph",
+        "Nucleus",
+        "Tail",
+        "Stars",
+        "ISJQQ"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph76-04-what-s-going-on-in-the-club",
+      "documentId": "eph76-04",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This article outlines upcoming events for an astronomy club, primarily in March, April, and May. It features multiple star parties, including a spectacular event at Henry Coe Park to view comet West, an equipment and slide night, and a special star party for gifted students. Also listed are board meetings, Astronomy Day, and external conferences like the ASP summer meeting and the Riverside Amateur Telescope Makers Conference.",
+      "categories": [
+        "Club Activities",
+        "Observing Reports",
+        "Events",
+        "Star Parties",
+        "Educational Outreach",
+        "Meetings",
+        "Conferences"
+      ],
+      "keywords": [
+        "Comet West",
+        "Star Party",
+        "Henry Coe Park",
+        "Olinder Center",
+        "Half Moon Bay",
+        "Canoas Elementary School",
+        "Board Meeting",
+        "Astronomy Day",
+        "K-Mart",
+        "Lawrence Hall of Science",
+        "Big Bear",
+        "Astronomical Society of the Pacific",
+        "Riverside Amateur Telescope Makers Conference",
+        "Telescope",
+        "Equipment Night",
+        "Galaxies",
+        "Planets",
+        "Don McGlauflin",
+        "Kevin Medlock",
+        "Jim Van Nuland",
+        "Dr. Gregory"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-04-the-last-star-party-or-tales-of-you-should-have-been-there",
+      "documentId": "eph76-04",
+      "title": "The Last Star Party: (or: Tales Of You Should Have Been There)",
+      "summary": "The article recounts a winter star party where attendees observed with various telescopes despite a cold breeze and moonlight. The author, who arrived late, highlights good seeing conditions and the appearance of a comet with a distinctive tail. Many who stayed late witnessed this \"super show,\" while those who left early missed it due to fog.",
+      "categories": [
+        "observing report",
+        "events",
+        "personal account"
+      ],
+      "keywords": [
+        "star party",
+        "comet",
+        "telescopes",
+        "astronomy",
+        "observing",
+        "winter",
+        "Chabot Telescope Maker's Workshop"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-04-editorial",
+      "documentId": "eph76-04",
+      "title": "Editorial:",
+      "summary": "This editorial, from the new bulletin staff, introduces their second edition and seeks financial support to cover production costs and maintain the new format. The editor also invites reader input for improvements and encourages submissions for the 'Tech Talk' section from interested individuals.",
+      "categories": [
+        "Editorial",
+        "Publication Update",
+        "Community Engagement",
+        "Fundraising",
+        "Call for Submissions"
+      ],
+      "keywords": [
+        "Bulletin",
+        "editorial",
+        "financial support",
+        "donations",
+        "printing costs",
+        "Tech Talk",
+        "article submissions",
+        "community feedback"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-04-ads-infinitum",
+      "documentId": "eph76-04",
+      "title": "Ads Infinitum:",
+      "summary": "This document features two classified-style advertisements. Scott Hares is seeking specific telescope components, namely a spider and a diagonal holder for a 1.25\" minor axis diagonal to fit a 7\" I.D. tube. Jack Meyer is offering a 12\" mirror grinding machine for free, which requires a 120 RPM motor.",
+      "categories": [
+        "Classifieds",
+        "Community Announcements",
+        "Wanted/Giveaway"
+      ],
+      "keywords": [
+        "telescope parts",
+        "spider",
+        "diagonal holder",
+        "mirror grinding machine",
+        "mirror making",
+        "astronomy equipment",
+        "Scott Hares",
+        "Jack Meyer"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph76-04-rattley-rattles",
+      "documentId": "eph76-04",
+      "title": "RATTLEY RATTLES",
+      "summary": "The article enthusiastically describes Comet West as a spectacular and widely observed celestial event, highlighting its impressive brightness and long tail, surpassing Comet Kohoutek's performance. It encourages readers to observe the comet at an upcoming star party and bring astrophotography, while also providing a guide to other deep-sky objects like galaxies in Virgo for observation.",
+      "categories": [
+        "Observing Report",
+        "Star Party Announcement",
+        "Astronomy Guide",
+        "Deep-Sky Observation"
+      ],
+      "keywords": [
+        "Comet West",
+        "Star Party",
+        "Observing",
+        "Galaxies",
+        "Astrophotography",
+        "Magnitude",
+        "Deep-Sky Objects",
+        "Henry Coe State Park"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph76-04-rattley-continues-rattling",
+      "documentId": "eph76-04",
+      "title": "RATTLEY CONTINUES RATTLING.............................",
+      "summary": "This article comprises two distinct sections: an observational report by Gerry Rattley detailing a view of NGC 4656 and other planets visible for an upcoming star party. The second section, 'tech talk' by Don McGlauflin, provides instructions for constructing a 'flip-flop diagonal holder' for a telescope, designed to allow seamless switching between an eyepiece and camera without disturbing focus.",
+      "categories": [
+        "Observing Report",
+        "Technical Guide",
+        "Astronomical Events",
+        "DIY Astronomy",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "NGC 4656",
+        "Star Party",
+        "Planetary observation",
+        "Telescope accessories",
+        "Flip-flop diagonal holder",
+        "Eyepiece",
+        "Camera",
+        "Telescope photography",
+        "Collimation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7604/Eph76_04.pdf",
+      "txtPath": "7604/Eph76_04.md"
+    }
+  ]
+}

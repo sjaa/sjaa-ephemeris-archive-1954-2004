@@ -1,0 +1,143 @@
+{
+  "articles": [
+    {
+      "id": "eph77-07-calendar-of-events",
+      "documentId": "eph77-07",
+      "title": "CALENDAR OF EVENTS",
+      "summary": "This calendar outlines various club activities for July and August, including a club picnic and officer installation on July 9 at Ed Levin Park, and two observing sessions: one at Sanborn Canyon Park on July 16 and another on July 2. The usual July general meeting is canceled in favor of the picnic, but a lecture on Black Holes is scheduled for August 5 at Olinder Center.",
+      "categories": [
+        "events",
+        "observing reports",
+        "club activities",
+        "meetings",
+        "lectures"
+      ],
+      "keywords": [
+        "calendar",
+        "picnic",
+        "officer installation",
+        "observing session",
+        "astronomical observation",
+        "Black Holes",
+        "Ed Levin Park",
+        "Sanborn Canyon Park",
+        "Olinder Center",
+        "Los Gatos Red Cross"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-07-board-elections",
+      "documentId": "eph77-07",
+      "title": "BOARD ELECTIONS",
+      "summary": "At the June 3rd general meeting of the SJAA, five new members were elected to the association's board of directors: Jack Zeiders, Jim Van Nuland, John Gleason, Cathy Pinnero, and Bob Fingerhut. Additionally, four existing board members — Dr. Gregory, Allan Meyer, Gerry Rattley, and John Rhodes — will continue their service for another year.",
+      "categories": [
+        "Association News",
+        "Elections",
+        "Governance",
+        "Meetings"
+      ],
+      "keywords": [
+        "Board Elections",
+        "SJAA",
+        "Board of Directors",
+        "General Meeting",
+        "Jack Zeiders",
+        "Jim Van Nuland",
+        "John Gleason",
+        "Cathy Pinnero",
+        "Bob Fingerhut",
+        "Dr. Gregory",
+        "Allan Meyer",
+        "Gerry Rattley",
+        "John Rhodes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-07-membership-renewals",
+      "documentId": "eph77-07",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "Members are urged to renew their memberships for $15 (regular) or $10 (junior, under 18) by submitting their yellow Sky and Telescope renewal cards and fee to Treasurer John Rhodes. This month is the final opportunity to renew without risking a lapse in receiving Sky and Telescope magazine and the monthly bulletin.",
+      "categories": [
+        "Club Announcement",
+        "Membership",
+        "Administrative Update",
+        "Deadline Reminder"
+      ],
+      "keywords": [
+        "Membership Renewals",
+        "Membership Fee",
+        "Sky and Telescope",
+        "Junior Membership",
+        "Treasurer",
+        "Deadline",
+        "Bulletin"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-07-sjaa",
+      "documentId": "eph77-07",
+      "title": "SJAA",
+      "summary": "The SJAA is actively seeking old club records, including constitutional revisions and past bulletins, to compile a club history book. A recent Public Education and Astronomy Outreach (P.E.A.O.) event was unfortunately clouded out, though a potential new observing site at Lexington School was noted. Simultaneously, several SJAA members across different locations witnessed a spectacular blue-white fireball on June 18th, which briefly illuminated the sky like daylight and left a visible trail for minutes, estimated to be brighter than a full moon.",
+      "categories": [
+        "Club Administration",
+        "Observing Reports",
+        "Events",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "SJAA",
+        "club history",
+        "club records",
+        "P.E.A.O.",
+        "observing site",
+        "fireball",
+        "meteor",
+        "astrophotography",
+        "visual magnitude",
+        "Mt. Hamilton",
+        "Fremont Peak"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-07-a-d-s-i-n-f-i-n-i-t-u-m",
+      "documentId": "eph77-07",
+      "title": "A D S  I N F I N I T U M",
+      "summary": "This document, titled \"ADS INFINITUM,\" contains two classified advertisements. One ad is a 'wanted' request for a 6 or 8-inch telescope for a potential new member, considering various mount types. The second ad lists several 1¼\" eyepieces (K, 18mm; K, 12mm; Or. 9mm; Or. 6mm) for sale at $12 each, with contact information provided for both listings.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Wanted Ads",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Telescope",
+        "Eyepieces",
+        "For Sale",
+        "Wanted",
+        "Astronomy Equipment",
+        "Optical Equipment",
+        "K eyepieces",
+        "Orthoscopic eyepieces"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7707/Eph77_07.pdf",
+      "txtPath": "7707/Eph77_07.md"
+    }
+  ]
+}

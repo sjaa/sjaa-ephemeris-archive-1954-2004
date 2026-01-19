@@ -1,0 +1,192 @@
+{
+  "articles": [
+    {
+      "id": "eph74-12-december-1974",
+      "documentId": "eph74-12",
+      "title": "DECEMBER 1974",
+      "summary": "This document lists the officers and board members for the SJAA (San Jose Astronomical Association, or similar) for December 1974. It details the President, Vice-president, Treasurer, and Secretary with their respective phone numbers, as well as naming the board members.",
+      "categories": [
+        "Organizational Information",
+        "Historical Document",
+        "Personnel Listing"
+      ],
+      "keywords": [
+        "SJAA",
+        "December 1974",
+        "Officers",
+        "Board Members",
+        "Leadership",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-12-recent-activities",
+      "documentId": "eph74-12",
+      "title": "RECENT ACTIVITIES:",
+      "summary": "The article reports on two recent club activities: a November 1st meeting at Olinder Center featuring a talk by Frank Holden from Lick Observatory on double stars and their measurement, and a November 16th star party at Coe that was unfortunately canceled due to thick cloud cover. Despite the cancellation, several members, including Jim Van Nuland, attempted to observe, but eventually gave up due to the weather.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Guest Speaker",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Club Meeting",
+        "Star Party",
+        "Frank Holden",
+        "Lick Observatory",
+        "Double Stars",
+        "Binary Systems",
+        "Micrometer",
+        "Olinder Center",
+        "Coe",
+        "Jim Van Nuland",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-12-coming-events",
+      "documentId": "eph74-12",
+      "title": "COMING EVENTS:",
+      "summary": "This document outlines upcoming events for an astronomical club in late 1974 and early 1975. Key events include general meetings with a new start time at Olinder Center, featuring talks on a new observing site at Mt. Umanhum and astrophotography, along with star parties at Henry Coe State Park and the newly acquired Mt. Umanhum location. One meeting will also include a report from NASA Ames Research on Jupiter.",
+      "categories": [
+        "events",
+        "meetings",
+        "observing reports",
+        "observing sites",
+        "astrophotography",
+        "news"
+      ],
+      "keywords": [
+        "general meeting",
+        "Olinder Center",
+        "Mt. Umanhum",
+        "observing site",
+        "observatory",
+        "astrophotography",
+        "Wright-Schmidt telescope",
+        "cold cameras",
+        "star party",
+        "Henry Coe State Park",
+        "Jupiter",
+        "Ames Research",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-12-news-notes",
+      "documentId": "eph74-12",
+      "title": "NEWS NOTES:",
+      "summary": "Brian Day has been appointed as the club's new public relations man. Members are encouraged to contact him with ideas for publicizing the club.",
+      "categories": [
+        "News",
+        "Club Announcement",
+        "Public Relations"
+      ],
+      "keywords": [
+        "Brian Day",
+        "Public Relations",
+        "Appointment",
+        "Club Publicity",
+        "News Notes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-12-technical-notes",
+      "documentId": "eph74-12",
+      "title": "TECHNICAL NOTES:",
+      "summary": "This document provides technical astronomical data for December, calculated by Jim Van Nuland. It lists the predicted times (PST) for the passage of Jupiter's Great Red Spot across its central meridian throughout the month, along with the longitude of the Sun's central meridian for specific dates in December.",
+      "categories": [
+        "Technical",
+        "Observing Data",
+        "Astronomy",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Redspot",
+        "Meridian Passage",
+        "Sun",
+        "Central Meridian",
+        "Longitude",
+        "December",
+        "PST",
+        "Astronomical Calculations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-12-for-sale",
+      "documentId": "eph74-12",
+      "title": "FOR SALE:",
+      "summary": "An advertisement for the sale of astronomical equipment, including an 8\" F/6 fiberglass tube, mirror mount, heavy wooden laminated tripod with 1 1/2\" shafts, pipe fittings, and setting circles. Also available is a Pacific Instruments mount with a clock drive. The seller, Mike Szudy, is accepting offers and willing to sell parts individually.",
+      "categories": [
+        "For Sale",
+        "Advertisement",
+        "Equipment Sale"
+      ],
+      "keywords": [
+        "fiberglass tube",
+        "mirror mount",
+        "tripod",
+        "pipe fittings",
+        "setting circles",
+        "Pacific Instruments mount",
+        "clock drive",
+        "telescope parts",
+        "astronomical equipment",
+        "used equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph74-12-the-messier-catalog-ngc-sequence-courtesy-jim-van-nuland",
+      "documentId": "eph74-12",
+      "title": "The Messier Catalog (NGC sequence), courtesy Jim Van Nuland.",
+      "summary": "This document, 'Part Three--Conclusion' of 'The Messier Catalog (NGC sequence),' provides a tabular listing of various Messier objects. For each object, it includes its Messier (M) number, NGC number, celestial coordinates (RA and Dec), chart reference, constellation, apparent magnitude, type (e.g., Open Cluster, Globular Cluster, Planetary Nebula), size, and a brief descriptive comment. The data is presented in a format useful for astronomical observation.",
+      "categories": [
+        "Astronomical Catalog",
+        "Observing Guide",
+        "Deep-Sky Astronomy",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Messier Catalog",
+        "NGC sequence",
+        "Celestial Objects",
+        "Deep-sky objects",
+        "Open Clusters",
+        "Globular Clusters",
+        "Planetary Nebulae",
+        "Nebulae",
+        "Constellations",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph74-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7412/Eph74_12.pdf",
+      "txtPath": "7412/Eph74_12.md"
+    }
+  ]
+}

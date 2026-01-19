@@ -1,0 +1,148 @@
+{
+  "articles": [
+    {
+      "id": "eph76-09-what-s-going-on-in-the-club",
+      "documentId": "eph76-09",
+      "title": "WHAT'S GOING ON IN THE CLUB",
+      "summary": "This article details an astronomy club's upcoming events from August to October, including numerous star parties, lectures, and board meetings, while also announcing the club's rejoining of the A.A.N.C. It includes a comprehensive member questionnaire seeking feedback on club activities and preferences for various star party locations. Additionally, it features a correction to a previous article on celestial coordinates and a listing for a new astronomical supplies dealer.",
+      "categories": [
+        "Events Calendar",
+        "Club News",
+        "Star Parties",
+        "Member Feedback",
+        "Astronomy Talks",
+        "Corrections/Errata",
+        "Local Business"
+      ],
+      "keywords": [
+        "Club events",
+        "Star parties",
+        "A.A.N.C. conference",
+        "Board meetings",
+        "Astronomical lectures",
+        "Member questionnaire",
+        "Observing sites",
+        "Fremont Peak",
+        "El Sereno",
+        "Henry Coe State Park",
+        "Coordinate Systems",
+        "Astronomical supplies"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-09-the-orbits-of-visual-binary-stars-contributed-by-gerald-w-rattley",
+      "documentId": "eph76-09",
+      "title": "The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley",
+      "summary": "The article, contributed by Gerald W. Rattley, presents detailed information on the orbits of several visual binary (and one triple) star systems, referencing the 1970 Finsen and Worley catalogue. It provides orbital elements, physical characteristics, ephemerides, and observational guidance for specific systems like ζ Sgr, HN 126, β Del, and ε Equ. The analysis includes predictions for future stellar positions and notes their suitability for various astronomical instruments.",
+      "categories": [
+        "Astronomy",
+        "Stellar Dynamics",
+        "Observational Astronomy",
+        "Technical Report",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Visual binary stars",
+        "orbital elements",
+        "ephemeris",
+        "multiple star systems",
+        "Zeta Sagittarii",
+        "HN 126",
+        "Beta Delphini",
+        "Epsilon Equulei",
+        "stellar magnitudes",
+        "stellar separation",
+        "astronomical observations",
+        "astronomical catalogue"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph76-09-total-occultations",
+      "documentId": "eph76-09",
+      "title": "TOTAL OCCULTATIONS",
+      "summary": "This document outlines a schedule and detailed observing notes for several total occultations predicted for September, with specific times in Pacific Daylight Time. It provides a table listing various stars, including double and spectroscopic binaries like β Cap and → Scorpii, along with notes on their disappearance and reappearance. Additionally, it offers information regarding the visibility of Jupiter's Red Spot during an upcoming star party and invites contact for further predictions.",
+      "categories": [
+        "Astronomy Events",
+        "Observing Guide",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Total Occultations",
+        "Occultations",
+        "September",
+        "Double Stars",
+        "Spectroscopic Binary",
+        "Jupiter",
+        "Red Spot",
+        "Star Party",
+        "Observing Tips",
+        "β Cap",
+        "Scorpii",
+        "Cusp Angle",
+        "Position Angle",
+        "PDT"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph76-09-san-jose-amateur-astronomers-august-1976",
+      "documentId": "eph76-09",
+      "title": "SAN JOSE AMATEUR ASTRONOMERS — AUGUST 1976",
+      "summary": "This document is a membership or contact list for the San Jose Amateur Astronomers, dated August 1976. It contains the names, addresses, cities, ZIP codes, and phone numbers of approximately 50 members, primarily from San Jose and the surrounding Bay Area. An additional contact, P. Berrier, and an abbreviation 'S.O.' are also included.",
+      "categories": [
+        "Membership Roster",
+        "Organizational Document",
+        "Historical Record",
+        "Amateur Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Membership list",
+        "Contact information",
+        "August 1976",
+        "San Jose",
+        "Astronomy club",
+        "Roster",
+        "Bay Area"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph76-09-san-jose-amateur-astronomers-inc",
+      "documentId": "eph76-09",
+      "title": "SAN JOSE AMATEUR ASTRONOMERS, INC.",
+      "summary": "This document provides contact information for individuals associated with the San Jose Amateur Astronomers, Inc. It lists names, street addresses, cities, zip codes, and phone numbers for multiple people, along with the organization's main address in Sunnyvale, CA.",
+      "categories": [
+        "Organizational data",
+        "Contact information",
+        "Membership directory"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Amateur astronomy",
+        "Contact list",
+        "Directory",
+        "San Jose",
+        "Sunnyvale",
+        "Membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7609/Eph76_09.pdf",
+      "txtPath": "7609/Eph76_09.md"
+    }
+  ]
+}

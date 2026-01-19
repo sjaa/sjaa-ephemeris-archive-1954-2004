@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": "sjaa1954-proposal-for-an-amateur-astronomy-club",
+      "documentId": "sjaa1954",
+      "title": "Proposal for an Amateur Astronomy Club",
+      "summary": "In November 1954, William Weller initiated a proposal for an amateur astronomy club in San Jose, leading to a newspaper announcement and a positive, though limited, response. This culminated in the first meeting on December 6, 1954, at Herbert Hoover Jr. High School, attended by 40 people. The meeting featured discussions on telescopes by Walter Krumm and a talk on \"The Star of Bethlehem\" by Dr. Eggen, an astrophysicist from Lick Observatory.",
+      "categories": [
+        "Club Formation",
+        "Amateur Astronomy",
+        "Meeting Report",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Amateur astronomy club",
+        "San Jose",
+        "William Weller",
+        "Lick Observatory",
+        "First meeting",
+        "Walter Krumm",
+        "Dr. Eggen",
+        "Star of Bethlehem",
+        "Telescopes",
+        "1954"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa1954",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA1954.pdf",
+      "txtPath": "SJAA1954.txt"
+    }
+  ]
+}

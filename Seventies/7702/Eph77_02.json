@@ -1,0 +1,121 @@
+{
+  "articles": [
+    {
+      "id": "eph77-02-what-s-going-on-in-the-club",
+      "documentId": "eph77-02",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "This document outlines a club's event schedule for February and March, including general membership meetings with presentations, board meetings, and potential mirror/telescope building sessions. It also details upcoming equipment night and F.E.A.O. events, alongside information on astronomy classes for various skill levels. Additionally, the article features recent astronomical 'newz notz' and the election of new A.A.N.C. officers.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Astronomy Education",
+        "Astronomical Discoveries",
+        "Meeting Schedule"
+      ],
+      "keywords": [
+        "Club meetings",
+        "Astronomy presentations",
+        "Equipment night",
+        "Telescope building",
+        "Astronomy classes",
+        "Astrophotography",
+        "Astronomical news",
+        "Universe age",
+        "Planetary science",
+        "Pulsars",
+        "Gamma-ray radiation",
+        "F.E.A.O."
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph77-02-the-orbits-of-visual-binary-stars-contributed-by-gerald-w-rattley",
+      "documentId": "eph77-02",
+      "title": "The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley",
+      "summary": "This article presents detailed orbital elements and future ephemerides for four visual binary star systems: 55 Tauri, OΣ 82, Hu 1080, and 80 Tauri, all identified as members of the Hyades open star cluster in Taurus. For each system, it provides orbital parameters, component magnitudes, spectral types, distances, and predictions for their apparent separation and position angle up to the year 2000 and beyond, drawing data from established catalogues and computations.",
+      "categories": [
+        "Astronomy",
+        "Stellar Astronomy",
+        "Observational Astronomy",
+        "Binary Stars",
+        "Star Clusters"
+      ],
+      "keywords": [
+        "Visual binary stars",
+        "Stellar orbits",
+        "Ephemerides",
+        "Hyades cluster",
+        "Taurus constellation",
+        "Orbital elements",
+        "Double stars",
+        "Stellar observations",
+        "55 Tauri",
+        "OΣ 82",
+        "Hu 1080",
+        "80 Tauri"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph77-02-lunar-occultations",
+      "documentId": "eph77-02",
+      "title": "LUNAR OCCULTATIONS",
+      "summary": "This document presents a detailed schedule of lunar occultation events occurring from late February through early March, providing specific observation times in PST, star magnitudes, and lunar illumination parameters. It also includes observational notes for notable double stars involved, such as 68 Taurii and ADS3297, detailing their visual characteristics and making recommendations for observers.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guides",
+        "Schedules"
+      ],
+      "keywords": [
+        "Lunar occultations",
+        "Occultation schedule",
+        "Double stars",
+        "Stellar magnitudes",
+        "Lunar illumination",
+        "Observational astronomy",
+        "68 Taurii",
+        "ADS3297",
+        "SAO stars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph77-02-great-red-spot-of-jupiter",
+      "documentId": "eph77-02",
+      "title": "GREAT RED SPOT OF JUPITER",
+      "summary": "The Great Red Spot of Jupiter is currently faded but locatable by observing a specific dark belt that narrows and curves northward around it, appearing as a faint pink cloud. A white spot is also mentioned, visible as a gap in its dark belt. Additionally, the article alerts observers to Mercury near Mars on February 12th morning and notes that Uranus will not be occulted by the Moon locally on February 10th.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Astronomy",
+        "Celestial Events",
+        "Observation Tips"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "white spot",
+        "Mercury",
+        "Mars",
+        "Uranus",
+        "Moon",
+        "conjunction",
+        "occultation",
+        "planetary observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph77-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7702/Eph77_02.pdf",
+      "txtPath": "7702/Eph77_02.md"
+    }
+  ]
+}

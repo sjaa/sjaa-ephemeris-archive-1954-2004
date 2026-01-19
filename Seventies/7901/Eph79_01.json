@@ -1,0 +1,296 @@
+{
+  "articles": [
+    {
+      "id": "eph79-01-predictions",
+      "documentId": "eph79-01",
+      "title": "Predictions",
+      "summary": "This document outlines the San Jose Astronomical Association's events for January and February, including general meetings featuring talks on Copernicus's influence and the Moonwatch program, along with multiple indoor and outdoor star parties. It also lists Board of Directors meetings and concludes with humorous club quotes and contact information for the President and Editor.",
+      "categories": [
+        "Events Calendar",
+        "Club Meetings",
+        "Star Parties",
+        "Announcements",
+        "Humor"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Star Party",
+        "Board Meeting",
+        "Rosicrucian Planetarium",
+        "Copernicus",
+        "Ephemeris",
+        "Moonwatch program",
+        "San Jose Astronomical Association",
+        "Club Activities"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph79-01-catherine-the-great",
+      "documentId": "eph79-01",
+      "title": "Catherine the Great",
+      "summary": "Catherine Ann Constance Pinheiro, born in Los Gatos in 1958, is a technical illustrator at Intel with aspirations of becoming a freelance artist. She discovered astronomy through a club membership for her 18th birthday and now serves as the club's secretary, enjoying the social and observational aspects of the hobby while not favoring its mathematical or technical details. She is currently making a telescope and looking for her \"Camelot.\"",
+      "categories": [
+        "Member Profile",
+        "Biography",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "Catherine Pinheiro",
+        "Los Gatos",
+        "Intel",
+        "Technical Illustrator",
+        "Freelance Artist",
+        "West Valley College",
+        "Astronomy Club",
+        "Secretary",
+        "Telescope Making",
+        "Art",
+        "Graphic Design"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph79-01-blurbs",
+      "documentId": "eph79-01",
+      "title": "Blurbs",
+      "summary": "This bulletin is late due to holidays and the editor's illness, with no 'Comet Comments' this month due to a lack of new discoveries or bright northern comets. An attempted asteroidal occultation of SAO114159 by (18) Melpomene yielded early reports of multiple objects, prompting a call for more observers. Other news includes new AANC officers, a Foothill College course on cosmic evolution, and a casual report from a recent board meeting.",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Events",
+        "Club Business",
+        "Call to Action"
+      ],
+      "keywords": [
+        "Comets",
+        "Asteroidal Occultation",
+        "Melpomene",
+        "SAO114159",
+        "Observing",
+        "Amateur Astronomy",
+        "AANC",
+        "Club Officers",
+        "Astronomy Course",
+        "Foothill College",
+        "Bulletin"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph79-01-history",
+      "documentId": "eph79-01",
+      "title": "History",
+      "summary": "This article recounts the December 2 star party at Sanborn, highlighting several 'traumatic' events including the absence of Jack Zeiders for his birthday surprise, extreme cold weather, and the unexpected arrival of numerous West Valley College astronomy students. Amidst a loud music contest that annoyed attendees, the focus shifted to entertaining the college students, with several members braving the cold for the event.",
+      "categories": [
+        "Observing Report",
+        "Event Recap",
+        "Social Gathering"
+      ],
+      "keywords": [
+        "Sanborn",
+        "star party",
+        "cold weather",
+        "West Valley College",
+        "astronomy students",
+        "telescope",
+        "Jack Zeiders",
+        "Wolfgang Hanisch",
+        "Marty Maguire",
+        "Jim Van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-01-general-meeting-of-december-9",
+      "documentId": "eph79-01",
+      "title": "General Meeting of December 9",
+      "summary": "The December 9 general meeting featured an announcement regarding a now-canceled February eclipse flight. The program included Gerry Rattley presenting on Messier objects for an upcoming marathon and Richard Hansen showcasing astronomy-related postcards. The meeting concluded with a birthday celebration for several members.",
+      "categories": [
+        "Meeting Report",
+        "Club News",
+        "Astronomy Program",
+        "Member Events"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Eclipse Flight",
+        "Messier Objects",
+        "Messier Marathon",
+        "Astronomy Postcards",
+        "Club Activities",
+        "Member Recognition"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph79-01-rattley-rattles",
+      "documentId": "eph79-01",
+      "title": "Rattley Rattles",
+      "summary": "This article serves as a prelude to an upcoming two-part Messier catalogue/checklist for the Messier Marathon, which is three months away. It outlines a 13-zone sky division to aid observers, details the 110 Messier objects included in the catalogue (noting exceptions for viewing and AANC award requirements), and provides important registration information. Additionally, it lists useful alignment stars with 1980 coordinates for setting sidereal time.",
+      "categories": [
+        "Observing Guide",
+        "Event Announcement",
+        "Astronomy Club Activities",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier objects",
+        "Messier catalogue",
+        "AANC award",
+        "Observing checklist",
+        "Sky zones",
+        "Registration",
+        "Setting circles",
+        "Sidereal time",
+        "Alignment stars"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph79-01-rattley-rattles-on-continuation",
+      "documentId": "eph79-01",
+      "title": "RATTLEY RATTLES ON . . . (continuation)",
+      "summary": "This article details a multi-night Messier Marathon event, providing participants with guidance on note-taking for observation requirements and a bibliography of recommended books for Messier studies. It outlines participation rules, emphasizing self-discovery of objects, and specifies the dates (late March/early April), location (Don Machholz's site on Loma Prieta Mt.), and directions for the event.",
+      "categories": [
+        "Events",
+        "Observing Guide",
+        "Resources",
+        "Location Information"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Astronomy event",
+        "Deep-sky observing",
+        "Loma Prieta Mt.",
+        "Don Machholz",
+        "Messier objects",
+        "Observing guidelines",
+        "Bibliography",
+        "Star clusters",
+        "Nebulae"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph79-01-christmas-astronomically-speaking",
+      "documentId": "eph79-01",
+      "title": "Christmas, Astronomically Speaking.....",
+      "summary": "On December 16th, an astronomy club hosted a festive Christmas gathering at the Red Cross, featuring Santa and his Elf distributing presents and lighthearted interactions. Following the holiday merriment, attendees engaged in typical indoor star party activities, including unsuccessful carol singing and a dedicated mirror-polishing workshop. The report also touches on general club discussions and concludes with classified advertisements for astronomical equipment.",
+      "categories": [
+        "Social Event",
+        "Club Meeting Report",
+        "Member Activities",
+        "Telescope Making",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Christmas",
+        "Astronomy Club",
+        "Santa Claus",
+        "Telescope Mirror Grinding",
+        "Star Party",
+        "Don Machholz",
+        "Comet",
+        "Eyepiece",
+        "Telescope for sale",
+        "Club Newsletter"
+      ],
+      "pageStart": 8,
+      "pageEnd": 408
+    },
+    {
+      "id": "eph79-01-reply-to-the-president",
+      "documentId": "eph79-01",
+      "title": "Reply to the President",
+      "summary": "This article humorously describes the \"Limburger Cheese Photometer,\" a fictional astronomical instrument whose principle relies on limburger cheese decomposition to produce vapors that cause observers to pass out, with the number of unconscious observers correlating to stellar magnitude. Presented as a satirical response to a president, the piece parodies technical descriptions, scientific jargon, and the pursuit of federal grants in group astronomy.",
+      "categories": [
+        "Humor",
+        "Satire",
+        "Fictional Science",
+        "Parody"
+      ],
+      "keywords": [
+        "Limburger Cheese Photometer",
+        "Astronomy parody",
+        "Fictional instrument",
+        "Stellar magnitude",
+        "Group astronomy",
+        "Satirical science",
+        "J. L. Kraft"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph79-01-question-of-the-month-what-was-the-star-of-bethlehem",
+      "documentId": "eph79-01",
+      "title": "Question of the Month: \"What was the Star of Bethlehem?\"",
+      "summary": "This article presents a collection of diverse, often humorous, and speculative responses to the 'Question of the Month: What was the Star of Bethlehem?'. Responses range from astronomical theories like planetary conjunctions in Leo or a supernova, to more whimsical, religious, or purely imaginative interpretations. It highlights the varied perspectives on this historical and astronomical mystery.",
+      "categories": [
+        "Historical Astronomy",
+        "Opinion",
+        "Speculation",
+        "Community Input",
+        "Humor"
+      ],
+      "keywords": [
+        "Star of Bethlehem",
+        "Planetary Conjunction",
+        "Supernova",
+        "Astrology",
+        "Leo",
+        "Heliacal Rising",
+        "Christmas",
+        "Hanukkah",
+        "Star of David",
+        "Biblical Astronomy",
+        "Historical Mystery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-01-great-red-spot-on-meridian-pst",
+      "documentId": "eph79-01",
+      "title": "Great Red Spot On Meridian PST",
+      "summary": "This article provides a detailed schedule for observing Jupiter's Great Red Spot (GRS) on the meridian in Pacific Standard Time throughout January, coinciding with Jupiter's opposition on January 21st. It encourages amateur astronomers to use telescopes to look for the GRS, offering tips on power and waiting for good seeing conditions. The information is geared towards observers, originating from Calico Observatory.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Phenomena",
+        "Event Schedule",
+        "Local Astronomy"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Meridian Transit",
+        "Observing Schedule",
+        "PST",
+        "Opposition",
+        "Amateur Astronomy",
+        "Calico Observatory",
+        "January"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph79-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7901/Eph79_01.pdf",
+      "txtPath": "7901/Eph79_01.md"
+    }
+  ]
+}

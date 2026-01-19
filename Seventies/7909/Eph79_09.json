@@ -1,0 +1,487 @@
+{
+  "articles": [
+    {
+      "id": "eph79-09-predictions",
+      "documentId": "eph79-09",
+      "title": "Predictions",
+      "summary": "This document outlines a comprehensive calendar of events for the San Jose Astronomical Association (SJAA) for September and October 1979, alongside notable celestial occurrences. It details general and board meetings, various star parties, and lunar phases including a total lunar eclipse, while also announcing an AANC/NASA Joint Conference and a public lecture on the Pioneer 11 Saturn encounter.",
+      "categories": [
+        "Events Calendar",
+        "Club Announcements",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Calendar",
+        "Club Meetings",
+        "Star Parties",
+        "Lunar Eclipse",
+        "Pioneer 11",
+        "Saturn Encounter",
+        "NASA",
+        "Astronomical Events",
+        "Public Lecture",
+        "San Jose"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph79-09-observations",
+      "documentId": "eph79-09",
+      "title": "Observations",
+      "summary": "The San Jose Astronomical Association (SJAA) is introducing a promising new dark sky observing site, Bigger Pine Campground, located behind Mt. Hamilton, which club members will trial in October. They are also planning a significant October speaker event to draw a large crowd, hoping to secure a prestigious Morrison lecturer for December, following a successful August \"indoor\" star party that transitioned to outdoor observations. The club is actively seeking a publicity chairman and providing various updates and calls for bulletin contributions.",
+      "categories": [
+        "Club News",
+        "Observing Reports",
+        "Events",
+        "Site Review",
+        "Volunteer Opportunities",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Bigger Pine Campground",
+        "Dark Sky Site",
+        "Astrophotography",
+        "SJAA",
+        "Star Party",
+        "Astronomy Events",
+        "Morrison Lecturer",
+        "Perseids",
+        "Lunar Eclipse",
+        "Publicity",
+        "Club Membership",
+        "Observing Locations"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph79-09-comet-comments",
+      "documentId": "eph79-09",
+      "title": "COMET COMMENTS",
+      "summary": "This article reports on relatively low comet activity going into September, with two comets visible in the morning sky and one faint periodic comet recently recovered. Comet Holmes (1979f) was recovered at 19th magnitude and is expected to remain faint. Comet Bradfield (1979c) is in the morning sky, observed as small with no visible tail, and Comet Meier (1978f) is a 12th magnitude object also in the morning sky.",
+      "categories": [
+        "Observing Report",
+        "Celestial Objects",
+        "Astronomy News",
+        "Comet Activity Update"
+      ],
+      "keywords": [
+        "Comet Holmes",
+        "Comet Bradfield",
+        "Comet Meier",
+        "comet activity",
+        "morning sky",
+        "magnitude",
+        "comet recovery",
+        "periodic comet",
+        "observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-09-comet-bradfield-1979c",
+      "documentId": "eph79-09",
+      "title": "Comet Bradfield (1979c)",
+      "summary": "This document provides an ephemeris for Comet Bradfield (1979c), detailing its celestial coordinates (Right Ascension and Declination) and apparent magnitude over a period from August 23 to September 28. The comet maintained a relatively stable magnitude around 10 during this observation window, moving across various constellations.",
+      "categories": [
+        "Comets",
+        "Observing Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Bradfield",
+        "1979c",
+        "ephemeris",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "astronomy",
+        "celestial mechanics",
+        "observational data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-09-comet-meier-1978f",
+      "documentId": "eph79-09",
+      "title": "Comet Meier (1978f)",
+      "summary": "This document provides observational data for Comet Meier (1978f) for August and September, including its Right Ascension, Declination, and Magnitude. It also briefly discusses Comet Machholz (1978i), noting its very faint magnitude, position, and distance from the Sun and Earth a year after its discovery. The information appears to be an observing update for comets from 1978.",
+      "categories": [
+        "Observing Reports",
+        "Cometary Astronomy",
+        "Celestial Data",
+        "Astronomical Objects"
+      ],
+      "keywords": [
+        "Comet Meier (1978f)",
+        "Comet Machholz (1978i)",
+        "Comet",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Observational data",
+        "1978",
+        "Don Machholz"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph79-09-grazes-for-september-travelers",
+      "documentId": "eph79-09",
+      "title": "Grazes for September Travelers",
+      "summary": "The article details two significant lunar grazes scheduled for September: one near Fresno on Sep 5-6 involving an 8.4 magnitude star during a lunar eclipse, and another near Bakersfield on Sep 11-12 featuring the bright star Aldebaran. Both events occur during the week and at late-night hours, making personal attendance difficult for the author, but local observation groups are organizing expeditions. The author emphasizes the scientific importance of the full moon graze and the exceptional nature of the Aldebaran event, encouraging interested observers to contact them for leader information.",
+      "categories": [
+        "Observing Events",
+        "Astronomical Predictions",
+        "Call to Action",
+        "News"
+      ],
+      "keywords": [
+        "lunar grazes",
+        "September",
+        "Fresno",
+        "Bakersfield",
+        "Aldebaran",
+        "lunar eclipse",
+        "Hyades stars",
+        "Sky & Telescope",
+        "astronomy",
+        "observation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph79-09-long-range-forcasts",
+      "documentId": "eph79-09",
+      "title": "Long-Range Forcasts",
+      "summary": "This article provides long-range forecasts for various astronomical events, including lunar grazes, Aldebaran occultations through 1981, and minor planet occultations, noting that few are observable in the U.S. for 1979. It also details plans for recovering Jupiter's Great Red Spot in late 1979, with predictions to be published later. Observers interested in these events are encouraged to contact Jim Van Nuland.",
+      "categories": [
+        "Observing Forecasts",
+        "Astronomical Predictions",
+        "Observing Opportunities",
+        "Astronomy Updates"
+      ],
+      "keywords": [
+        "Lunar Grazes",
+        "Aldebaran Occultation",
+        "Minor Planet Occultations",
+        "Jupiter's Great Red Spot",
+        "Observing",
+        "Forecasts",
+        "1979",
+        "1980",
+        "1981"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph79-09-an-easy-and-accurate-method-of-polar-alignment",
+      "documentId": "eph79-09",
+      "title": "AN EASY AND ACCURATE METHOD OF POLAR ALIGNMENT",
+      "summary": "This article details an easy and accurate method for polar alignment using a telescope's setting circles and a specific table (not included). The technique involves leveling the telescope, setting declination to 89.1 degrees (9/10 of a degree south of 90), and adjusting the Right Ascension (RA) based on Polaris's position relative to Eastern Elongation (EE) at a given time. By then centering Polaris using only the latitude and azimuth controls, the telescope becomes accurately polar aligned.",
+      "categories": [
+        "Technical",
+        "How-to Guide",
+        "Equipment Setup",
+        "Observing Techniques"
+      ],
+      "keywords": [
+        "Polar alignment",
+        "Telescope",
+        "Setting circles",
+        "Polaris",
+        "Right Ascension (RA)",
+        "Declination (Dec)",
+        "Eastern Elongation (EE)",
+        "Latitude",
+        "Azimuth",
+        "Astronomy technique"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-09-culminations-elongations-of-polaris-1967-local-mean-time",
+      "documentId": "eph79-09",
+      "title": "CULMINATIONS & ELONGATIONS OF POLARIS 1967 LOCAL MEAN TIME",
+      "summary": "This document provides a tabular guide for determining the dates of Polaris's Upper Culmination (UC), Western Elongation (WE), Lower Culmination (LC), and Eastern Elongation (EE) at specific local mean times throughout 1967. It includes instructions for interpolating event times for dates not explicitly listed and specifies Polaris's apparent right ascension, declination, and magnitude for the year.",
+      "categories": [
+        "Astronomy",
+        "Reference Data",
+        "Navigational Astronomy"
+      ],
+      "keywords": [
+        "Polaris",
+        "Culmination",
+        "Elongation",
+        "1967",
+        "Local Mean Time",
+        "Right Ascension",
+        "Declination",
+        "Celestial Navigation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph79-09-the-finest-deep-sky-objects-on-the-skalnate-pleso-atlas-of-the-heavens-chart-xi",
+      "documentId": "eph79-09",
+      "title": "The Finest Deep Sky Objects on the Skalnate Pleso Atlas of the Heavens Chart XI",
+      "summary": "This document provides a detailed observational guide to a selection of deep-sky objects found on Chart XI of the Skalnate Pleso Atlas of the Heavens. It lists various planetary nebulae, globular clusters, open clusters, and galaxies, offering specific viewing recommendations, such as magnification, notable features, and conditions for amateur astronomers. Each entry includes coordinates, magnitude, size, type, and distance, alongside historical catalog designations and descriptive notes for visual observation.",
+      "categories": [
+        "Observational Astronomy",
+        "Deep-Sky Objects",
+        "Amateur Astronomy Guide",
+        "Star Atlases"
+      ],
+      "keywords": [
+        "Deep-Sky Objects",
+        "Skalnate Pleso Atlas",
+        "NGC objects",
+        "Messier objects",
+        "Planetary Nebulae",
+        "Globular Clusters",
+        "Open Clusters",
+        "Galaxies",
+        "Amateur Astronomy",
+        "Telescope Observing",
+        "Visual Astronomy",
+        "Stellar Magnitudes",
+        "Constellations"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph79-09-san-jose-astronomical-association-membership-list-september-1979",
+      "documentId": "eph79-09",
+      "title": "SAN JOSE' ASTRONOMICAL ASSOCIATION MEMBERSHIP LIST—September, 1979",
+      "summary": "This document is a membership list for the San Jose Astronomical Association, compiled in September 1979. It provides contact information, including names, addresses, cities, zip codes, and phone numbers, for its members.",
+      "categories": [
+        "Membership List",
+        "Directory",
+        "Organizational Document",
+        "Historical Record"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership",
+        "1979",
+        "Directory",
+        "Astronomy club",
+        "California"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph79-09-bulletin-subscribers",
+      "documentId": "eph79-09",
+      "title": "BULLETIN SUBSCRIBERS",
+      "summary": "This document lists individuals identified as 'BULLETIN SUBSCRIBERS', providing their names, street addresses, cities, zip codes, and in most cases, phone numbers. It functions as a directory or contact list for these subscribers.",
+      "categories": [
+        "Directory",
+        "Membership",
+        "Administrative",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Subscribers",
+        "Bulletin",
+        "Contact list",
+        "Directory",
+        "Membership list",
+        "Addresses",
+        "Phone numbers"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph79-09-sjaa-member-s-corner-by-frank-dibbell",
+      "documentId": "eph79-09",
+      "title": "SJAA MEMBER'S CORNER by Frank Dibbell",
+      "summary": "This article spotlights two members of the San Jose Astronomical Association (SJAA). Phil Ermanasyer, whose interest in astronomy began in junior high, has experience giving planetarium shows, owns an 8-inch Newtonian, and plans to build a larger scope. Gene Clemence, an original club member, is an electronics engineer and authorized Celestron dealer who enjoys building telescope gadgetry and aims to create his own 'Complete Telescope'.",
+      "categories": [
+        "Member Profile",
+        "Club News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Frank Dibbell",
+        "Phil Ermanasyer",
+        "Gene Clemence",
+        "Telescopes",
+        "Astronomy Club",
+        "Planetarium shows",
+        "Observing",
+        "Telescope building",
+        "Celestron dealer",
+        "Electronic gadgetry"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-09-astronorthwest-1979-by-denni-medlock",
+      "documentId": "eph79-09",
+      "title": "ASTRONORTHWEST—1979 by Denni Medlock",
+      "summary": "This article reviews the ASTRO*NORTHWEST—1979 conference, a joint gathering of amateur astronomy groups held at the University of Portland. It details various talks, including Don Machholz's comet discovery and updates on Voyager's Jupiter encounter, and highlights award presentations to Harry Gee and Kingsley Michman. Despite organizational challenges and mostly poor weather, the conference provided valuable talks and a star party opportunity.",
+      "categories": [
+        "Conference Report",
+        "Amateur Astronomy",
+        "Astronomy Events",
+        "Observing Report",
+        "History"
+      ],
+      "keywords": [
+        "ASTRO*NORTHWEST—1979",
+        "Western Amateur Astronomers",
+        "Astronomical League",
+        "Association of Lunar and Planetary Observers",
+        "Portland Astronomical Society",
+        "University of Portland",
+        "Don Machholz",
+        "Comet Machholz",
+        "Voyager",
+        "Jupiter encounter",
+        "Star formation",
+        "Harry Gee",
+        "Asteroid Herculina",
+        "Kingsley Michman",
+        "Chabot Observatory",
+        "Star party",
+        "Image intensifiers"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph79-09-across",
+      "documentId": "eph79-09",
+      "title": "Across",
+      "summary": "This document provides a list of 'Across' clues for a crossword puzzle, with each clue referencing a term or concept related to astronomy and space. The clues cover various topics from celestial objects and types of telescopes to constellations and astronomical figures.",
+      "categories": [
+        "Crossword Puzzle",
+        "Astronomy Education",
+        "Puzzles & Games"
+      ],
+      "keywords": [
+        "Power",
+        "Eyepiece",
+        "Galaxy",
+        "Newtonian",
+        "Sun",
+        "Aries",
+        "Orion",
+        "Moon",
+        "Star",
+        "Astronomer",
+        "Epsilon Tauri",
+        "Jupiter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-09-down",
+      "documentId": "eph79-09",
+      "title": "Down",
+      "summary": "This document extract, likely from an astronomy club bulletin, presents a \"Down\" section featuring a series of astronomy-related clues, possibly for a quiz or crossword. It also includes a \"Question of the Month\" for reader participation and several humorous quotes, some attributed to star party events.",
+      "categories": [
+        "Astronomy Club Newsletter",
+        "Quiz",
+        "Community Content",
+        "Observing Notes",
+        "Humor"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Quiz",
+        "Star identification",
+        "Celestial phenomena",
+        "Star parties",
+        "Don Machholz",
+        "Club bulletin",
+        "Gegenschein",
+        "Binary stars",
+        "Solar features"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph79-09-san-jose-to-pescadero-half-moon-bay-geological-south-half-santa-clara-san-mateo-counties-california-san-jose-quadrangle-15-series-map-no-1-geologic",
+      "documentId": "eph79-09",
+      "title": "SAN JOSE TO PESCADERO (HALF MOON BAY)(GEOLOGICAL) (SOUTH HALF, SANTA CLARA-SAN MATEO COUNTIES, CALIFORNIA) SAN JOSE QUADRANGLE. 15'. SERIES. MAP NO. 1 (GEOLOGIC)",
+      "summary": "This document is a geological map, specifically Map No. 1 in a 15' series, focusing on the region from San Jose to Pescadero (Half Moon Bay). It covers the southern half of Santa Clara and San Mateo Counties in California, within the San Jose Quadrangle, providing detailed geological information for this geographical area.",
+      "categories": [
+        "Geology",
+        "Cartography",
+        "Earth Sciences",
+        "Regional Study"
+      ],
+      "keywords": [
+        "San Jose",
+        "Pescadero",
+        "Half Moon Bay",
+        "Santa Clara County",
+        "San Mateo County",
+        "California",
+        "Geological Map",
+        "Quadrangle",
+        "Geology"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph79-09-log-of-trip-to-old-quartz-quarry-to-san-jose-to-mount-hamilton-road-thence-to-halls-valley-to-mount-hamilton",
+      "documentId": "eph79-09",
+      "title": "LOG OF TRIP TO OLD QUARTZ QUARRY, TO SAN JOSE TO MOUNT HAMILTON ROAD. THENCE TO HALLS VALLEY TO MOUNT HAMILTON",
+      "summary": "This document is a detailed mileage log outlining a trip starting from a San Jose post office and traversing towards Mount Hamilton. It provides precise directions, including turns, creek crossings, and notable landmarks such as springs, mines, and picnic grounds. The log concludes with additional notes on trails and routes extending beyond the main road, connecting to various valleys, creeks, and the Mount Hamilton Observatory.",
+      "categories": [
+        "Travel Log",
+        "Route Guide",
+        "Local Geography",
+        "Field Notes"
+      ],
+      "keywords": [
+        "Mount Hamilton",
+        "San Jose",
+        "Almaden",
+        "Halls Valley",
+        "Quartz Quarry",
+        "Vichy Springs",
+        "Guadalupe Creek",
+        "Almaden Creek",
+        "Isabel Creek",
+        "Quicksilver Mines",
+        "Lick Observatory",
+        "Mileage Log",
+        "Road Directions",
+        "Trails"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph79-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7909/Eph79_09.pdf",
+      "txtPath": "7909/Eph79_09.md"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "articles": [
+    {
+      "id": "eph75-12-december-1975",
+      "documentId": "eph75-12",
+      "title": "DECEMBER 1975",
+      "summary": "This December 1975 bulletin for an astronomy club details recent activities, including a sparsely attended star party at Henry Coe State Park and a well-attended general meeting featuring member equipment displays. Upcoming events include a general meeting with talks on Saturn and stellar coordinate charts, a star party, and a board meeting, along with a critical announcement about the non-renewal of the Mt. Umanhum observatory lease. The document also provides astronomical data for December, such as Great Red Spot transit times and occultation predictions.",
+      "categories": [
+        "Club Bulletin",
+        "Observing Reports",
+        "Event Announcements",
+        "Astronomical Data",
+        "Club Governance",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "December 1975",
+        "Astronomy Club",
+        "Star Party",
+        "General Meeting",
+        "Observing",
+        "Astronomical Equipment",
+        "Astrophotography",
+        "Jupiter Great Red Spot",
+        "Occultations",
+        "Saturn",
+        "Stellar Coordinate Charts",
+        "Henry Coe State Park",
+        "Mt. Umanhum Lease",
+        "Club Officers"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7512/Eph75_12.pdf",
+      "txtPath": "7512/Eph75_12.md"
+    }
+  ]
+}

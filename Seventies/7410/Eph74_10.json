@@ -1,0 +1,154 @@
+{
+  "articles": [
+    {
+      "id": "eph74-10-sjaa-officers",
+      "documentId": "eph74-10",
+      "title": "SJAA Officers",
+      "summary": "This document lists the current officers and board members of the SJAA (San Jose Astronomical Association), including contact information for key positions. It also contains an administrative note informing members that the current issue was mailed early due to a change in the date and location of the monthly public star party, advising them to check the \"coming events\" section for details.",
+      "categories": [
+        "Organizational Information",
+        "Administrative Notice",
+        "Event Announcement",
+        "Club Leadership"
+      ],
+      "keywords": [
+        "SJAA",
+        "Officers",
+        "Board Members",
+        "Star Party",
+        "Event Change",
+        "Club Updates",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-10-recent-activities",
+      "documentId": "eph74-10",
+      "title": "RECENT ACTIVITIES:",
+      "summary": "The article details two recent club activities: a September 6th meeting and a September 14th star party. The meeting featured a discussion on club speakers and a talk by Jim Vermilion on Europa's surface features, while the star party at Skyline was hampered by damp weather, though some members found success observing and imaging at the Coe site. Consequently, there is a strong recommendation to adopt Henry Coe State Park as the new regular star party location due to its better conditions.",
+      "categories": [
+        "Club News",
+        "Event Reports",
+        "Observing Reports",
+        "Astronomy Presentations",
+        "Club Meetings"
+      ],
+      "keywords": [
+        "Europa",
+        "Light Curves",
+        "Star Party",
+        "Henry Coe State Park",
+        "Club Meeting",
+        "Astrophotography",
+        "Observing Conditions",
+        "Club Administration",
+        "Galilean Moons"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-10-coming-events",
+      "documentId": "eph74-10",
+      "title": "COMING EVENTS:",
+      "summary": "This document outlines a series of upcoming astronomical events for a club or organization, primarily in the San Jose area. It includes public star parties, general meetings featuring equipment/slides and a guest speaker, and an overnight star party. The document also notes a change in venue for general meetings starting in November and provides directions.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Meetings",
+        "News"
+      ],
+      "keywords": [
+        "Star party",
+        "General meeting",
+        "Equipment night",
+        "Astro-slide night",
+        "Guest speaker",
+        "Henry Coe State Park",
+        "Skyline site",
+        "Eastridge Shopping Center",
+        "Leininger Center",
+        "Olinder Center",
+        "San Jose",
+        "Santa Clara",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph74-10-news-notes",
+      "documentId": "eph74-10",
+      "title": "NEWS NOTES:",
+      "summary": "Members of the club attended an impromptu star party at Coe on September 21, enjoying excellent views of Jupiter, including a rare satellite shadow transit and the Great Red Spot, along with various deep-sky objects like globular clusters M15 and M56, the Veil and Crab nebulae, and several Auriga clusters. The report also includes technical notes providing predicted October times for Jupiter's Red Spot meridian crossings and solar central meridian dates, plus a mention of an upcoming Messier Catalog arrangement.",
+      "categories": [
+        "Observing Report",
+        "News",
+        "Technical Notes",
+        "Astronomical Observations",
+        "Event Report"
+      ],
+      "keywords": [
+        "Star Party",
+        "Jupiter",
+        "Great Red Spot",
+        "Satellite Transit",
+        "Deep-sky Objects",
+        "Globular Clusters",
+        "Nebulae",
+        "Open Clusters",
+        "Meridian Crossing",
+        "Solar Observations",
+        "Messier Catalog",
+        "Astronomy Club",
+        "Coe"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph74-10-the-messier-catalog",
+      "documentId": "eph74-10",
+      "title": "The Messier Catalog",
+      "summary": "This document presents a portion of The Messier Catalog, listing various astronomical deep-sky objects with their NGC designations, celestial coordinates (Right Ascension and Declination), associated constellations, magnitudes, types (e.g., galaxies, nebulae, star clusters), sizes, and brief descriptions. The catalog provides essential observational data for identifying and locating these objects, likely serving as a guide for amateur astronomers.",
+      "categories": [
+        "Astronomy",
+        "Catalogs",
+        "Observing Guides",
+        "Deep-sky Objects",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Messier Catalog",
+        "NGC",
+        "Astronomical Objects",
+        "Galaxy",
+        "Nebula",
+        "Star Cluster",
+        "Open Cluster",
+        "Globular Cluster",
+        "Planetary Nebula",
+        "Andromeda Galaxy",
+        "Orion Nebula",
+        "Crab Nebula",
+        "Observational Astronomy",
+        "Constellations",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph74-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7410/Eph74_10.pdf",
+      "txtPath": "7410/Eph74_10.md"
+    }
+  ]
+}

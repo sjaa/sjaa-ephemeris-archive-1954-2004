@@ -1,0 +1,109 @@
+{
+  "articles": [
+    {
+      "id": "eph75-11-officers",
+      "documentId": "eph75-11",
+      "title": "Officers:",
+      "summary": "This document lists the current officers of an organization, including the President, Vice-president, Secretary, and Treasurer. Each officer's name is provided along with a contact phone number.",
+      "categories": [
+        "Administrative",
+        "Organization",
+        "Contact Information",
+        "Leadership"
+      ],
+      "keywords": [
+        "Officers",
+        "President",
+        "Vice-president",
+        "Secretary",
+        "Treasurer",
+        "Contact details",
+        "Organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-11-board-members",
+      "documentId": "eph75-11",
+      "title": "Board Members:",
+      "summary": "The document lists board members and details recent events from October 1975. These include a lecture by Dr. Reise on the future of space colonization and its economic potential, alongside a well-attended star party at Coe Park where viewing conditions improved after initial smoke. A report on another star party at Mt. Umumhum was unavailable.",
+      "categories": [
+        "Organizational Updates",
+        "Events",
+        "Observing Reports",
+        "Lectures"
+      ],
+      "keywords": [
+        "Board members",
+        "Space colonization",
+        "Dr. Reise",
+        "Star party",
+        "Coe Park",
+        "Mt. Umumhum",
+        "Astronomy events",
+        "1975 events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-11-coming-activities",
+      "documentId": "eph75-11",
+      "title": "COMING ACTIVITIES:",
+      "summary": "The article outlines upcoming activities for November 1975, starting with a star party at Henry Coe State Park on November 1st, which offers a dark sky option for astrophotography. A general meeting on November 7th will feature an \"equipment night\" where members showcase new or constructed gear, and an \"astro-slide night\" for sharing astronomical photos. The month concludes with a board meeting on November 14th.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Observing",
+        "Meetings",
+        "Equipment"
+      ],
+      "keywords": [
+        "Star party",
+        "Astronomy club events",
+        "Equipment demonstration",
+        "Astrophotography",
+        "Deep sky observing",
+        "Club meetings",
+        "1975"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph75-11-technical-notes",
+      "documentId": "eph75-11",
+      "title": "TECHNICAL NOTES:",
+      "summary": "This document provides technical notes detailing predicted meridian transit times for Jupiter's Great Red Spot (GRS) in Pacific Daylight Time (PDT) for November and December, along with annotations for associated Jovian moon events like Io reappearances and transits. Additionally, it lists several star occultation events with their Universal Time (UT), magnitude, and position angle. The data is attributed to Jim Van Nuland.",
+      "categories": [
+        "observing reports",
+        "technical notes",
+        "astronomical events",
+        "predictions"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Io",
+        "Jovian moons",
+        "occultations",
+        "meridian times",
+        "transit",
+        "PDT",
+        "UT"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7511/Eph75_11.pdf",
+      "txtPath": "7511/Eph75_11.md"
+    }
+  ]
+}

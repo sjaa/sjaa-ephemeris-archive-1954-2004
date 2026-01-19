@@ -1,0 +1,467 @@
+{
+  "articles": [
+    {
+      "id": "eph78-12-predictions",
+      "documentId": "eph78-12",
+      "title": "Predictions",
+      "summary": "This document, titled \"Predictions,\" outlines a schedule of upcoming club events for December and January, predominantly in 1978-1979. It details general meetings featuring talks on a Messier Marathon warm-up and astronomical memorabilia, as well as outdoor and indoor star parties. Also listed are board of directors meetings and a Christmas party, providing a comprehensive calendar for club members.",
+      "categories": [
+        "Events",
+        "Club Business",
+        "Observing",
+        "Education",
+        "Social Events",
+        "Announcements"
+      ],
+      "keywords": [
+        "Star party",
+        "General Meeting",
+        "Board Meeting",
+        "Messier Marathon",
+        "Rosicrucian Planetarium",
+        "Sanborn Canyon Park",
+        "Christmas party",
+        "Astronomical memorabilia",
+        "December events",
+        "January events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-editorial",
+      "documentId": "eph78-12",
+      "title": "EDITORIAL",
+      "summary": "This editorial by Penny E. Tomstrong expresses the editor's frustration over reader complaints regarding the inclusion or exclusion of quotes in the publication. Tomstrong feels caught in a dilemma, receiving criticism regardless of her editorial decisions. The piece highlights a personal challenge in managing reader expectations within The San Jose Astronomical Association.",
+      "categories": [
+        "Editorial",
+        "Internal Communication",
+        "Association News"
+      ],
+      "keywords": [
+        "Editorial",
+        "Reader Feedback",
+        "Complaints",
+        "San Jose Astronomical Association",
+        "Editor's Note"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph78-12-excerpts-from-the-first-three-minutes-by-steven-weinberg",
+      "documentId": "eph78-12",
+      "title": "Excerpts from The First Three Minutes by Steven Weinberg",
+      "summary": "This excerpt from Steven Weinberg's \"The First Three Minutes\" details the universe's state at 34 minutes 40 seconds after its beginning, when electron-positron annihilation was complete and the temperature was 1x10⁴ °K, outlining future events like atom formation and galaxy development. It also delves into the extremely early universe at 10⁻⁴³ seconds and 10³² °K, a period dominated by strong gravitational forces where current quantum understanding is limited.",
+      "categories": [
+        "Cosmology",
+        "Theoretical Physics",
+        "Early Universe",
+        "Book Excerpt",
+        "Educational"
+      ],
+      "keywords": [
+        "Steven Weinberg",
+        "The First Three Minutes",
+        "Early Universe",
+        "Big Bang",
+        "Cosmology",
+        "Temperature",
+        "Electron-Positron Annihilation",
+        "Atom Formation",
+        "Decoupling",
+        "Gravitational Forces",
+        "Quantum Gravitation",
+        "Universe Expansion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-more-on-the-messier-marathon",
+      "documentId": "eph78-12",
+      "title": "More on the Messier Marathon",
+      "summary": "Don Machholz details plans for a Messier Marathon in late March/early April 1979, an event to observe over 100 Messier objects in a single night. He proposes specific dates (March 23/24 and March 30/31) based on moon phases and weekend availability, and suggests Loma Prieta as the observing location. Participants are encouraged to prepare by studying Messier objects, using a recommended guide, and bringing telescopes or binoculars.",
+      "categories": [
+        "Event Planning",
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Stargazing"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier objects",
+        "Don Machholz",
+        "Observing",
+        "Loma Prieta",
+        "Moon phases",
+        "Telescopes",
+        "Binoculars",
+        "1979"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-personal-glimpses-norm-weinchel",
+      "documentId": "eph78-12",
+      "title": "Personal Glimpses: Norm Weinchel",
+      "summary": "Norm Weinchel, an electrical engineer turned real estate agent, developed a passionate interest in astrophotography after purchasing an 8\" Celestron. Despite initial challenges with deep-sky color photography, he successfully developed his own techniques and film, achieving impressive results. He continues to experiment with a 14\" Celestron and actively participates in the SJAA, always seeking new ideas and refining his astrophotography skills.",
+      "categories": [
+        "Member Profile",
+        "Astrophotography",
+        "Amateur Astronomy",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Norm Weinchel",
+        "Astrophotography",
+        "Deep-sky photography",
+        "Celestron telescope",
+        "Film development",
+        "Amateur astronomy",
+        "SJAA",
+        "Experimentation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph78-12-blurbs",
+      "documentId": "eph78-12",
+      "title": "Blurbs",
+      "summary": "This article, titled \"Blurbs,\" compiles various short announcements and community updates. It includes requests for a Santa suit for an upcoming Christmas party, the availability of red film and revised membership lists, and details about the December meeting schedule and a lost item. A significant portion features a \"Question of the Month\" section, presenting multiple member suggestions and the chosen question: \"What was the Star of Bethlehem?\"",
+      "categories": [
+        "Club Announcements",
+        "Events",
+        "Member Engagement",
+        "Requests",
+        "Lost & Found"
+      ],
+      "keywords": [
+        "Christmas party",
+        "Santa suit",
+        "red film",
+        "membership list",
+        "meeting schedule",
+        "Question of the Month",
+        "Star of Bethlehem",
+        "Sky & Telescope",
+        "star party"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph78-12-this-is-what-happened-nov-11",
+      "documentId": "eph78-12",
+      "title": "This is what happened Nov. 11:",
+      "summary": "The November 11th meeting covered updates on the upcoming February eclipse, noting potential issues with a chartered flight but offering ground expedition alternatives. Attendees were informed about the arrival of a new CID camera and a call for volunteers for asteroid occultation observations. The main program featured a presentation on MIRA, a professional astronomical organization, concluding with a recognition plaque for Don Machholz's comet discovery.",
+      "categories": [
+        "Meeting Report",
+        "News",
+        "Astronomical Events",
+        "Club Activities",
+        "Instrumentation"
+      ],
+      "keywords": [
+        "Eclipse",
+        "CID camera",
+        "Asteroid occultations",
+        "MIRA",
+        "Comet discovery",
+        "Astronomical club",
+        "Telescope",
+        "Star catalog"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-equipment",
+      "documentId": "eph78-12",
+      "title": "Equipment",
+      "summary": "An indoor show-and-tell star party on November 18 drew nearly 40 attendees to showcase a diverse array of astronomical equipment, from various telescopes to a CID camera. Participants presented their gear, shared astrophotography, and discussed their projects, highlighting the community's passion for observing tools.",
+      "categories": [
+        "Event Report",
+        "Amateur Astronomy",
+        "Equipment Showcase",
+        "Observing Report"
+      ],
+      "keywords": [
+        "astronomy equipment",
+        "telescopes",
+        "indoor star party",
+        "show-and-tell",
+        "astrophotography",
+        "amateur astronomy",
+        "CID camera",
+        "Celestron 14",
+        "Newtonian telescope",
+        "Maksutov"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph78-12-equip-con",
+      "documentId": "eph78-12",
+      "title": "Equip. con.",
+      "summary": "The author recounts a chaotic and humorous \"indoor star party\" where club members engaged in playful antics, disrobing the author of various items of clothing. Despite the initial boisterous behavior, the event lacked significant excitement, leading most attendees to leave for Sambo's around midnight, with the remaining few clearing out by 1:00 A.M., much earlier than usual.",
+      "categories": [
+        "Club Activity",
+        "Social Event",
+        "Humor",
+        "Meeting Report"
+      ],
+      "keywords": [
+        "indoor star party",
+        "club members",
+        "pranks",
+        "social gathering",
+        "Wolfgang Hanisch",
+        "Jay Freeman",
+        "Bruce DeGraff",
+        "Sambo's"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-perils-of-penny-and-her-petty-publishing-problems",
+      "documentId": "eph78-12",
+      "title": "Perils of Penny and her Petty Publishing Problems",
+      "summary": "Penny recounts her frantic and often chaotic experience producing the November issue of the Bulletin. She faced several hurdles, including falling behind schedule, a broken duplicating machine, and last-minute proofreading and artistic disruptions. Despite numerous challenges and errors, the bulletin was eventually completed and put to bed just before midnight.",
+      "categories": [
+        "Personal Account",
+        "Publishing Process",
+        "Behind the Scenes",
+        "Editorial Challenges"
+      ],
+      "keywords": [
+        "Bulletin",
+        "Publishing",
+        "Newsletter",
+        "Printing",
+        "Deadlines",
+        "Stress",
+        "Duplicating",
+        "Editing",
+        "Penny Pinschmidt",
+        "Gerry Rattley"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph78-12-cid-camera",
+      "documentId": "eph78-12",
+      "title": "CID Camera",
+      "summary": "A design meeting for the CID Camera was held on November 18, 1978, outlining its development plans. The initial version, featuring a variable rate clock driver and CRT display for demonstrations and astrocamera guiding, is expected within a month. Future additions include circuitry for digital photometry (AAVSO/occultation work) and a digital memory/scan converter for standard TV monitors, frame integration, and microprocessor interfacing, with a call for an intensifier and electronics volunteers.",
+      "categories": [
+        "Project Update",
+        "Technical Development",
+        "Amateur Astronomy",
+        "Electronics",
+        "Observing Technology"
+      ],
+      "keywords": [
+        "CID Camera",
+        "Astrocamera",
+        "Digital photometry",
+        "AAVSO",
+        "Occultation",
+        "Digital memory",
+        "Scan converter",
+        "Microprocessor",
+        "Intensifier",
+        "Electronics design",
+        "1978"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-comet-comments",
+      "documentId": "eph78-12",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on comet activity, noting a lull after recent discoveries. It specifically details Comet Fujikawa (1978n), now named Periodic Comet Denning-Fujikawa, confirming its rediscovery after 11 unnoticed revolutions since 1881. Periodic Comet Ashbrook-Jackson (1977q) is also mentioned as visible in the evening sky, and there's a brief discussion on average absolute magnitudes for comets.",
+      "categories": [
+        "Comet Updates",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Fujikawa",
+        "Comet Denning-Fujikawa",
+        "Comet Ashbrook-Jackson",
+        "Comet Discoveries",
+        "Absolute Magnitude",
+        "Comet Tails",
+        "Observation",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-correction",
+      "documentId": "eph78-12",
+      "title": "CORRECTION",
+      "summary": "This article issues a correction for an error in Allan Meyer's contribution, \"FIRST FRAME by Steven Weinberg,\" published in last month's Bulletin. The temperature of the universe was incorrectly stated as \"10 K\" instead of \"10⁰°K,\" a mistake attributed to last-minute rush and insufficient proofreading during the publication process.",
+      "categories": [
+        "Correction",
+        "Editorial",
+        "Errata",
+        "Publication Issues",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Correction",
+        "Editorial Error",
+        "Publication",
+        "Temperature of the Universe",
+        "Allan Meyer",
+        "Steven Weinberg",
+        "Bulletin"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph78-12-president-s-message-and-comments",
+      "documentId": "eph78-12",
+      "title": "President's Message and Comments",
+      "summary": "The club president expresses disappointment regarding consistently low attendance at general meetings and close-in star parties, despite featuring excellent programs and increased accessibility efforts. He appeals to members for ideas on how to boost participation in regular club functions, noting past attempts via polls have yielded minimal feedback. The message also acknowledges strong support for special projects like occultations and astrophotography, and includes a brief observation report on a newly discovered variable star.",
+      "categories": [
+        "President's Message",
+        "Club Administration",
+        "Member Engagement",
+        "Observational Report",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "Club attendance",
+        "Member participation",
+        "General meetings",
+        "Star parties",
+        "Variable star",
+        "Observational astronomy",
+        "Club management",
+        "Member feedback",
+        "Astrophotography",
+        "Occultations"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph78-12-october-28-29-star-party-at-fremont-peak",
+      "documentId": "eph78-12",
+      "title": "October 28-29 Star Party at Fremont Peak",
+      "summary": "The article recounts two amateur astronomy star parties, one at Fremont Peak (October 28-29) and another at Sanborn Canyon (November 4). The Fremont Peak event was characterized by humorous logistical challenges, equipment mishaps, a raccoon encounter, and eventual cold weather, alongside successful astrophotography attempts and student instruction. The Sanborn Canyon gathering faced initial cloudy skies and quirky social interactions but ultimately cleared, allowing for significant observing and educational outreach, with some participants humorously missing the best viewing conditions.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Community News"
+      ],
+      "keywords": [
+        "Star Party",
+        "Fremont Peak",
+        "Sanborn Canyon",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Observing",
+        "Telescopes",
+        "Student Outreach",
+        "Weather Conditions",
+        "Deep Sky Objects",
+        "Binary Stars",
+        "Social Gathering"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph78-12-criterion-6-newtonian-electric-drive-setting-circles-2-eyepieces-6x30-finderscope",
+      "documentId": "eph78-12",
+      "title": "Criterion 6\" Newtonian Electric drive, setting circles, 2 eyepieces, 6x30 finderscope.",
+      "summary": "This is an advertisement for a used Criterion 6\" Newtonian telescope. The sale includes an electric drive, setting circles, two eyepieces, and a 6x30 finderscope, with an asking price of $200 or best offer.",
+      "categories": [
+        "Equipment Sale",
+        "Classifieds",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "Criterion",
+        "Newtonian telescope",
+        "Electric drive",
+        "Setting circles",
+        "Finderscope",
+        "Used telescope",
+        "For sale",
+        "Astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-homemade-8-f-6-newtonian-schmidt-drive-6mm-18mm-barlow-and-orthoscopic-eyepieces",
+      "documentId": "eph78-12",
+      "title": "Homemade 8\" f/6 Newtonian Schmidt drive, 6mm, 18mm, Barlow, and Orthoscopic Eyepieces.",
+      "summary": "This article is an advertisement for the sale of a homemade 8\" f/6 Newtonian telescope featuring a Schmidt drive, along with a selection of 6mm, 18mm, Barlow, and Orthoscopic eyepieces. The seller, Steve Smith, is offering the complete setup for $250 or best offer.",
+      "categories": [
+        "for sale",
+        "equipment",
+        "advertisement",
+        "astronomy gear"
+      ],
+      "keywords": [
+        "8 inch Newtonian",
+        "f/6 telescope",
+        "Schmidt drive",
+        "homemade telescope",
+        "eyepieces",
+        "Barlow lens",
+        "Orthoscopic",
+        "astronomical equipment",
+        "telescope for sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph78-12-great-red-spot-on-meridian-pst",
+      "documentId": "eph78-12",
+      "title": "Great Red Spot on Meridian PST",
+      "summary": "This document provides a detailed schedule, in Pacific Standard Time (PST), for when Jupiter's Great Red Spot will transit the meridian. The list, spanning from early December to early January, is intended to guide observers to optimal viewing times for this prominent Jovian feature.",
+      "categories": [
+        "Observing Schedules",
+        "Astronomy",
+        "Planetary Observations",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Meridian transit",
+        "PST",
+        "Observation schedule",
+        "Planetary viewing",
+        "Calico Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph78-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7812/Eph78_12.pdf",
+      "txtPath": "7812/Eph78_12.md"
+    }
+  ]
+}

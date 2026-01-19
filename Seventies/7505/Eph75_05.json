@@ -1,0 +1,72 @@
+{
+  "articles": [
+    {
+      "id": "eph75-05-may-1975",
+      "documentId": "eph75-05",
+      "title": "MAY 1975",
+      "summary": "This May 1975 club newsletter details recent activities, including a decision to construct a portable 12 1/2-inch club telescope with a Dobson mount and successful star parties at Mt. Umunhum and Fremont Peak, featuring observations of various celestial objects. Upcoming events include a lecture on southern hemisphere observatories, a school star party, a public star party coinciding with a total lunar eclipse, and the next general meeting. The document also provides club news, want ads, and new member introductions.",
+      "categories": [
+        "Club Newsletter",
+        "Events",
+        "Observing Reports",
+        "Technical Development",
+        "Membership News"
+      ],
+      "keywords": [
+        "May 1975",
+        "Amateur Astronomy Club",
+        "Telescope Construction",
+        "Dobson Mount",
+        "Star Parties",
+        "Mt. Umunhum",
+        "Fremont Peak",
+        "Observing Reports",
+        "Quasar 3C-273",
+        "Pluto",
+        "Deep Sky Objects",
+        "Lunar Eclipse",
+        "Lectures",
+        "Observatories",
+        "Club Governance",
+        "Want Ads",
+        "New Members"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph75-05-technical-notes",
+      "documentId": "eph75-05",
+      "title": "TECHNICAL NOTES:",
+      "summary": "This technical note outlines a formula (D = (5750/T)² x √L) for approximating a star's diameter using its surface temperature and luminosity relative to the Sun. An example calculation for Sirius demonstrates the method, revealing its diameter to be about 1.5 times that of the sun. The article highlights that this calculated value is in good agreement with interferometer measurements.",
+      "categories": [
+        "Technical",
+        "Astronomy",
+        "Astrophysics",
+        "Educational"
+      ],
+      "keywords": [
+        "Stellar diameter",
+        "Star diameter",
+        "Luminosity",
+        "Absolute temperature",
+        "Absolute magnitude",
+        "Sirius",
+        "Stellar properties",
+        "Astrophysical calculations",
+        "Formula"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph75-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7505/Eph75_05.pdf",
+      "txtPath": "7505/Eph75_05.md"
+    }
+  ]
+}

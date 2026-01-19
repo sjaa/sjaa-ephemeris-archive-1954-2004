@@ -1,0 +1,108 @@
+{
+  "articles": [
+    {
+      "id": "sjaa-aofi-amend-certificate-of-amendment-of-articles-of-incorporation",
+      "documentId": "sjaa-aofi-amend",
+      "title": "CERTIFICATE OF AMENDMENT OF ARTICLES OF INCORPORATION",
+      "summary": "This document is a Certificate of Amendment of Articles of Incorporation for San Jose Amateur Astronomers, filed with the California Secretary of State on August 21, 1970. It details an amendment to Article IV, irrevocably dedicating the corporation's property to charitable and/or scientific non-profit purposes and specifying that assets upon dissolution must go to an exempt fund or foundation, in accordance with Revenue and Taxation Code Section 214. The amendment was approved by both the board of directors in September 1969 and the members in May 1970.",
+      "categories": [
+        "Legal Document",
+        "Corporate Governance",
+        "Non-profit Organization",
+        "Historical Record"
+      ],
+      "keywords": [
+        "Articles of Incorporation",
+        "Amendment",
+        "San Jose Amateur Astronomers",
+        "Non-profit",
+        "Charitable purposes",
+        "Scientific purposes",
+        "Corporate assets",
+        "Dissolution",
+        "California Secretary of State",
+        "Revenue and Taxation Code Section 214",
+        "Board of Directors",
+        "Member meeting",
+        "1970"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "sjaa-aofi-amend-state-of-california",
+      "documentId": "sjaa-aofi-amend",
+      "title": "State of California",
+      "summary": "This document is an official certification issued by March Fong Eu, the Secretary of State of California, dated October 7, 1977. It formally attests that an annexed transcript has been compared with the record on file in her office and is a full, true, and correct copy, bearing the Great Seal of the State of California.",
+      "categories": [
+        "Government Document",
+        "Legal Certification",
+        "Administrative Record"
+      ],
+      "keywords": [
+        "California Secretary of State",
+        "March Fong Eu",
+        "Official Certification",
+        "Legal Document",
+        "Public Record",
+        "State Government",
+        "1977"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "sjaa-aofi-amend-endorsed-filed",
+      "documentId": "sjaa-aofi-amend",
+      "title": "ENDORSED FILED",
+      "summary": "This document header indicates a formal filing action, stating that a document was \"ENDORSED FILED\" on September 29, 1977, in the office of the California Secretary of State, March Fong Eu, and attested by Deputy James E. Harris. It signifies the official recording or validation of a document within a state government agency.",
+      "categories": [
+        "Governmental Affairs",
+        "Legal Documents",
+        "Historical Records",
+        "Official Filings"
+      ],
+      "keywords": [
+        "California Secretary of State",
+        "March Fong Eu",
+        "Official Filing",
+        "1977",
+        "ENDORSED FILED",
+        "Government Administration",
+        "Legal Procedure"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "sjaa-aofi-amend-amendment-to-articles-of-incorporation",
+      "documentId": "sjaa-aofi-amend",
+      "title": "AMENDMENT TO ARTICLES OF INCORPORATION",
+      "summary": "The \"Amateur Astronomers,\" a California corporation, formally amended its Articles of Incorporation in 1977 to officially change its name to the \"San Jose Astronomical Association.\" The resolution for this name change was adopted by both the board of directors and the members, although the members' meeting did not meet the quorum requirement.",
+      "categories": [
+        "Legal Document",
+        "Organizational Change",
+        "Club Administration"
+      ],
+      "keywords": [
+        "Articles of Incorporation",
+        "Corporate Name Change",
+        "San Jose Astronomical Association",
+        "Amateur Astronomers",
+        "Club Governance",
+        "1977"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "sjaa-aofi-amend",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "SJAA_AofI_Amend.pdf",
+      "txtPath": "SJAA_AofI_Amend.md"
+    }
+  ]
+}

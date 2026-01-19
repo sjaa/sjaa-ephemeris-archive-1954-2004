@@ -1,0 +1,195 @@
+{
+  "articles": [
+    {
+      "id": "eph76-12-what-s-going-on-in-the-club",
+      "documentId": "eph76-12",
+      "title": "WHAT'S GOING ON IN THE CLUB:",
+      "summary": "The article outlines various upcoming club activities for December and January, including general membership meetings featuring a fall slide & print exposition, a book presentation, and a swap meet. It also details board meetings, social gatherings, and two star parties scheduled for December 18th and January 22nd. Additionally, the January general meeting will include a two-part review on \"Demon Stars\" by Allan Meyer.",
+      "categories": [
+        "Club Announcements",
+        "Events Schedule",
+        "Meetings",
+        "Observing Reports",
+        "Presentations",
+        "Membership Updates"
+      ],
+      "keywords": [
+        "Club Activities",
+        "General Membership Meeting",
+        "Board Meeting",
+        "Slide Exposition",
+        "Astrophotography",
+        "Swap Meet",
+        "Star Party",
+        "Demon Stars",
+        "Club Library",
+        "December Events",
+        "January Events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph76-12-lunar-occultations",
+      "documentId": "eph76-12",
+      "title": "LUNAR OCCULTATIONS",
+      "summary": "This document presents a detailed schedule of lunar occultations for December, primarily focusing on stellar disappearances, along with key observational data like star magnitude, lunar illumination, and timing. The author provides practical notes for observers, encouraging feedback on attempting reappearances and observing fainter stars (magnitudes 7.5-9) recently added to the list, especially for those with new telescopes.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy Events",
+        "Amateur Astronomy",
+        "Observational Data",
+        "Call for Participation"
+      ],
+      "keywords": [
+        "Lunar occultations",
+        "Occultation predictions",
+        "Astronomy schedule",
+        "Star disappearances",
+        "Star reappearances",
+        "Observing tips",
+        "Amateur astronomy",
+        "Telescope observation",
+        "Magnitude limits",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-12-great-yellow-spot-of-jupiter",
+      "documentId": "eph76-12",
+      "title": "GREAT YELLOW SPOT OF JUPITER",
+      "summary": "The article describes Jupiter's Great Yellow Spot, noting its low contrast against the surrounding belts due to its yellowish hue. It advises observers to locate the spot by identifying the distinct indentations it forms in the belts to its north and south, highlighting this as an unusual configuration worth observing.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Observations",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Yellow Spot",
+        "Planetary observation",
+        "Astronomical features",
+        "Observing tips",
+        "Jupiter's belts"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph76-12-big-white-spot",
+      "documentId": "eph76-12",
+      "title": "Big White Spot",
+      "summary": "A significant \"big white spot\" was observed on Jupiter during an October star party, noted to be about half the size of the Red Spot and located in the south tropical zone. Observers are encouraged to look quickly as the spot exhibits erratic motion and may be short-lived. The article also mentions a close approach of Jupiter to the Moon on December 4th and advises on distinguishing the spot from satellites or their shadows.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Celestial Events",
+        "Observing Advice"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Big White Spot",
+        "Red Spot",
+        "planetary observation",
+        "star party",
+        "Moon",
+        "satellite",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-12-red-spot-times",
+      "documentId": "eph76-12",
+      "title": "Red Spot times",
+      "summary": "This document provides a detailed astronomical schedule, primarily listing predicted transit times for Jupiter's Great Red Spot during December. It also includes an extensive ephemeris of events involving Jupiter's Galilean moons, such as shadow transits, eclipses, and occultations, indicated by abbreviations like II Sh.E. and I Oc. D. The inclusion of a \"Star Party Night\" suggests it serves as a practical guide for amateur astronomers planning observations.",
+      "categories": [
+        "Astronomical Schedule",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Celestial Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Galilean moons",
+        "Observing schedule",
+        "Transits",
+        "Eclipses",
+        "Occultations",
+        "Shadow phenomena",
+        "Star Party",
+        "December"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph76-12-white-spot-times",
+      "documentId": "eph76-12",
+      "title": "White spot times",
+      "summary": "This document provides a detailed schedule of astronomical events, primarily focusing on the transits, occultations, eclipses, and shadow transits of Jupiter's Galilean moons. The entries, spanning throughout December, list specific dates and times for these celestial phenomena. It also includes a reference to a \"Star Party night,\" suggesting its purpose as an observing guide or calendar.",
+      "categories": [
+        "Observing Schedule",
+        "Astronomical Events",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Galilean moons",
+        "transit",
+        "occultation",
+        "eclipse",
+        "shadow transit",
+        "observing",
+        "schedule",
+        "star party",
+        "celestial events",
+        "December"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph76-12-the-orbits-of-visual-binary-stars-contributed-by-gerald-w-rattley",
+      "documentId": "eph76-12",
+      "title": "The Orbits of Visual Binary Stars . . contributed by Gerald W. Rattley",
+      "summary": "This article, contributed by Gerald W. Rattley, details the orbital elements and ephemerides for three specific visual binary stars: 37 Pegasi, 52 Pegasi, and 85 Pegasi. It provides component magnitudes, spectral types, distances, and predictions for their future positions, separations, periastron, and apastron passages based on various orbit computations. Each star includes a table of orbital elements and an ephemeris table for selected years, offering descriptive text about their orbital characteristics and past/future events.",
+      "categories": [
+        "Astronomy",
+        "Stellar Orbits",
+        "Observational Astronomy",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Visual Binary Stars",
+        "Orbital Elements",
+        "Ephemeris",
+        "37 Pegasi",
+        "52 Pegasi",
+        "85 Pegasi",
+        "Stellar Magnitudes",
+        "Stellar Spectra",
+        "Periastron",
+        "Apastron",
+        "Separation",
+        "Position Angle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph76-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7612/Eph76_12.pdf",
+      "txtPath": "7612/Eph76_12.md"
+    }
+  ]
+}

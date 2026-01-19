@@ -1,0 +1,93 @@
+{
+  "articles": [
+    {
+      "id": "eph73-08and09-officers",
+      "documentId": "eph73-08and09",
+      "title": "Officers",
+      "summary": "This document lists the current officers of an organization, detailing their specific roles and providing their names along with corresponding phone numbers. The listed positions include President, Vice President, Treasurer, and Secretary/Bulletin Editor.",
+      "categories": [
+        "Organizational",
+        "Leadership",
+        "Contact Information",
+        "Administration"
+      ],
+      "keywords": [
+        "Officers",
+        "Leadership",
+        "Organization",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph73-08and09-board-members",
+      "documentId": "eph73-08and09",
+      "title": "Board Members",
+      "summary": "This document provides a straightforward list of individuals designated as \"Board Members\". It simply presents the names of the people who currently serve on the organization's board.",
+      "categories": [
+        "Organizational Information",
+        "Membership List",
+        "Administrative"
+      ],
+      "keywords": [
+        "Board Members",
+        "Organization",
+        "Personnel",
+        "Leadership",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph73-08and09-bulletin-for-august-and-september-1973",
+      "documentId": "eph73-08and09",
+      "title": "Bulletin for August and September, 1973",
+      "summary": "This bulletin covers events and activities for the San Jose Amateur Astronomers (SJAA) for August and September 1973. It recaps the annual banquet and mentions upcoming general meetings featuring talks on telescope nomenclature and an eclipse expedition, as well as an equipment night. The bulletin also lists scheduled star parties, board meetings, a regional conference, and details about public viewing opportunities at Lick Observatory, while also including a reminder about membership renewals.",
+      "categories": [
+        "Newsletter",
+        "Events",
+        "Meetings",
+        "Observing Reports",
+        "Star Parties",
+        "Public Outreach",
+        "Membership Information",
+        "Technical Topics"
+      ],
+      "keywords": [
+        "August 1973",
+        "September 1973",
+        "Bulletin",
+        "Annual Banquet",
+        "African Eclipse",
+        "Telescope Nomenclature",
+        "Schmidt Cameras",
+        "Star Party",
+        "Henry Coe State Park",
+        "Mt. Madonna State Park",
+        "Equipment Night",
+        "AANC Conference",
+        "Lick Observatory",
+        "Public Viewing",
+        "Membership Renewal",
+        "San Jose Amateur Astronomers"
+      ],
+      "pageStart": 29,
+      "pageEnd": 29
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph73-08and09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "7308/eph73_08and09.pdf",
+      "txtPath": "7308/eph73_08and09.md"
+    }
+  ]
+}
