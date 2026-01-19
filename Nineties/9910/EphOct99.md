@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # SJAA EPHEMERIS
 
 ## Through the Eyes of a Professional Observer
@@ -63,7 +63,7 @@ Copyright © 1999 San Jose Astronomical Association, Inc.
 
 **Volume 10 Number 10 Official Publication of the San Jose Astronomical Association, October 1999**
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # Vulcan Project
 
 ## Continued from previous page
@@ -104,7 +104,7 @@ The scope is uncovered and uncapped. It is then pointed at a white calibration s
 
 SJAA EPHEMERIS Page 2 October 1999
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # Continued from previous page
 
 checked for condensation, and if any is present, I have to dry it out with a blower. The calibration light is turned on illuminating the calibration screen and the dome lights are turned out.
@@ -143,7 +143,7 @@ Once the telescope is auto guiding, then I begin the data set runs. Each of thes
 
 **SJAA EPHEMERIS** Page 3 October 1999
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 # Vulcan Project
 
 *Continued from previous page*
@@ -176,7 +176,7 @@ So there you have the Vulcan Program in a nutshell. So far we have found several
 
 SJAA EPHEMERIS | Page 4 | October 1999
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 # Above Glacier Point — Labor Day 1999
 Jane Houston
 
@@ -212,7 +212,7 @@ Each night yielded special planetary activity. Friday night 9/3 three Galilean m
 
 SJAA EPHEMERIS                                   Page 5                                   October 1999
 
-=== PAGE 6 ===
+<!-- PAGE 6 -->
 # Houston on Glacier Point
 
 *Continued from previous page*
@@ -247,7 +247,7 @@ The moral of the story: Clouds—the bane of astronomers—sometimes really do h
 
 SJAA EPHEMERIS                                    Page 6                                    October 1999
 
-=== PAGE 7 ===
+<!-- PAGE 7 -->
 # Mooning
 ## Dave North
 
@@ -303,7 +303,7 @@ Sometimes, then, we can see more of one side or the other, and when that side is
 
 SJAA EPHEMERIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 1999
 
-=== PAGE 8 ===
+<!-- PAGE 8 -->
 # Mooning Continues
 
 *Continued from previous page*
@@ -379,7 +379,7 @@ For more information, visit the AANC website at **www.lhs.berkeley.edu/sii/aanc/
 
 SJAA EPHEMERIS | Page 8 | October 1999
 
-=== PAGE 9 ===
+<!-- PAGE 9 -->
 # The Shallow Sky
 ## Akkana Peck
 
@@ -431,7 +431,7 @@ Uranus and Neptune are still observable, close together in central Capricornus. 
 
 SJAA EPHEMERIS                                   Page 9                                   October 1999
 
-=== PAGE 10 ===
+<!-- PAGE 10 -->
 # Comet Comments for October 1999
 Don Machholz
 
@@ -631,7 +631,7 @@ Darkest Saturday Night:09-Oct-1999
 
 SJAA EPHEMERIS Page 10 October 1999
 
-=== PAGE 11 ===
+<!-- PAGE 11 -->
 # Officers and Board of Directors
 
 **Pres** David North (408) 297-5257  
@@ -746,7 +746,7 @@ with a blank subject line followed by a single text line that says "subscribe" o
 
 SJAA EPHEMERIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 1999
 
-=== PAGE 12 ===
+<!-- PAGE 12 -->
 # San Jose Astronomical Association Membership Form
 
 New __ Renewal __  

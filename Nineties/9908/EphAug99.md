@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # SJAA EPHEMERIS
 
 ## Star-B-Que Report
@@ -53,7 +53,7 @@ Speakers needed: Oct.23, Nov.20, Dec.18.
 Copyright © 1999 San Jose Astronomical Association, Inc.
 **Volume 10 Number 8 Official Publication of the San Jose Astronomical Association, August 1999**
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # Star-B-Que Report, 1999
 
 *Continued from page 1*
@@ -90,7 +90,7 @@ Star-friendly folks were everywhere! Ron Damani and Bob Fingerhut were running t
 
 SJAA EPHEMERIS                                                    Page 2                                                    August 1999
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # Bob Garfinkle
 # Lunar Bright Spots and Rays on the Moon
 ## General Meeting June 26, 1999
@@ -119,7 +119,7 @@ I hope this has whetted your appetite for adding rays and bright spots to your l
 
 SJAA EPHEMERIS                Page 3                August 1999
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 # Kindergarten Astronomy
 ## Mark Taylor
 
@@ -180,7 +180,7 @@ Some time back, when I twisted Akkana's arm to indulge this sport for the first 
 
 SJAA EPHEMERIS | Page 4 | August 1999
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 # Showtime For Meteors, Part I
 **David North**
 
@@ -231,7 +231,7 @@ For directions to SJAA star party locations, call our hotline at (408) 559-1221.
 
 SJAA EPHEMERIS Page 5 August 1999
 
-=== PAGE 6 ===
+<!-- PAGE 6 -->
 # Comet Comments
 Don Machholz
 
@@ -436,7 +436,7 @@ SJAA EPHEMERIS Page 6
 
 [Logo/Date marker: 1999]
 
-=== PAGE 7 ===
+<!-- PAGE 7 -->
 # Officers and Board of Directors
 
 **Pres** David North 408-297-5257  
@@ -556,7 +556,7 @@ with a blank subject line followed by a single text line that says "subscribe" o
 
 SJAA EPHEMERIS Page 7 August 1999
 
-=== PAGE 8 ===
+<!-- PAGE 8 -->
 # San Jose Astronomical Association Membership Form
 
 New __ Renewal __

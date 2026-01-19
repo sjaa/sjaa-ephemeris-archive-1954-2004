@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # SJAA EPHEMERIS
 
 *Chasing the shadow of the Sun - Eclipse tales from the SJAA*
@@ -71,7 +71,7 @@ Copyright © 1999 San Jose Astronomical Association, Inc.
 
 **Volume 10 Number 11 Official Publication of the San Jose Astronomical Association, November 1999**
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # Bob Garfinkle on the Black Sea
 
 *Continued from previous page*
@@ -108,7 +108,7 @@ an easy target to spot and Mercury at magnitude +0.9 was a little harder. I glan
 
 SJAA EPHEMERIS | Page 2 | November 1999
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # Ernie Piini from Germany
 
 *Continued from first page*
@@ -157,7 +157,7 @@ That evening, the entire AAI group and our contingent from Switzerland, enjoyed 
 
 SJAA EPHEMERIS Page 3 November 1999
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 # Continued from page three
 
 parade of two busses included a donkey that was transported by trailer to the church ceremony. There the animal was side-saddled with traditional wedding candles and was a hit for all who attended.
@@ -213,7 +213,7 @@ The first peak is expected the night of November 4/5, and the second the night o
 
 SJAA EPHEMERIS                    Page 4                    November 1999
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 # Daniel Stefanescu in Bucharest
 
 *continued from page one*
@@ -246,7 +246,7 @@ With first contact now imminent, I found it difficult to believe how synchronize
 
 SJAA EPHEMERIS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Page 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 1999
 
-=== PAGE 6 ===
+<!-- PAGE 6 -->
 # Stefanescu from Centerline
 
 *continued from page five*
@@ -277,7 +277,7 @@ The remainder of my stay in Romania included visiting with family as well as mor
 
 SJAA EPHEMERIS | Page 6 | November 1999
 
-=== PAGE 7 ===
+<!-- PAGE 7 -->
 # Mooning
 ## Dave North
 
@@ -303,7 +303,7 @@ Another point worth mentioning: the guy who put together an incredible collectio
 
 SJAA EPHEMERIS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Page 7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 1999
 
-=== PAGE 8 ===
+<!-- PAGE 8 -->
 # Show and Tell 1999
 Jane Houston
 
@@ -329,7 +329,7 @@ If I forgot anything, just drop a note to the Editor at Ephemeris@whiteoaks.com 
 
 SJAA EPHEMERIS | Page 8 | November 1999
 
-=== PAGE 9 ===
+<!-- PAGE 9 -->
 # The Shallow Sky
 Akkana Peck
 
@@ -366,7 +366,7 @@ Until three years ago, the search for Near-Earth Objects (NEO's) was carried out
 
 SJAA EPHEMERIS Page 9 November 1999
 
-=== PAGE 10 ===
+<!-- PAGE 10 -->
 # Celestial Calendar November 1999
 Richard Stanton
 
@@ -546,7 +546,7 @@ Got questions? SJAA has answers! The Editors have received a request for a "mail
 
 SJAA EPHEMERIS Page 10 November 1999
 
-=== PAGE 11 ===
+<!-- PAGE 11 -->
 # Officers and Board of Directors
 
 **Pres** David North (408) 297-5257  
@@ -663,7 +663,7 @@ with a blank subject line followed by a single text line that says "subscribe" o
 
 SJAA EPHEMERIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;November 1999
 
-=== PAGE 12 ===
+<!-- PAGE 12 -->
 # San Jose Astronomical Association Membership Form
 
 New __ Renewal __  

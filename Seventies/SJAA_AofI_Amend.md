@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # CERTIFICATE OF AMENDMENT OF ARTICLES OF INCORPORATION
 
 **FILED** A98785  
@@ -38,7 +38,7 @@ David Erickson, President
 *[Signature]*  
 David Ambrose, Secretary
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # State of California
 
 OFFICE OF THE SECRETARY OF STATE
@@ -59,7 +59,7 @@ March Fong Eu
 
 SEC/STATE FORM CE-107 (REV. 1-75)
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # ENDORSED FILED
 **In the office of the Secretary of State of the State of California**
 

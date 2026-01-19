@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # SJAA EPHEMERIS
 
 ## SJAA Activities Calendar
@@ -68,7 +68,7 @@ Copyright © 1999 San Jose Astronomical Association, Inc.
 
 **Volume 10 Number 12 Official Publication of the San Jose Astronomical Association, December 1999**
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # On the Sidewalk with John
 
 ![John Dobson shows the moon through Jane Houston's 6" f/5 at 24th and Noe. Photo by the author]
@@ -109,7 +109,7 @@ That's reason enough for me.
 
 SJAA EPHEMERIS | Page 2 | December 1999
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # Table of Red Stars
 Mark St. George, mstg@execulink.com
 
@@ -204,7 +204,7 @@ And by all means, bring telescopes, astro gadgets, and photos to share with the 
 
 SJAA EPHEMERIS | Page 3 | December 1999
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 # Mooning
 ## David North
 
@@ -267,7 +267,7 @@ My impression is that the gaps in the A ring (variously named after Encke, Keele
 
 SJAA EPHEMERIS Page 4 December 1999
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 # Meteor Watch
 # *"How'd it go?"*
 David North
@@ -336,7 +336,7 @@ Early risers will get lovely views of Venus this month, especially in the first 
 
 SJAA EPHEMERIS Page 5 December 1999
 
-=== PAGE 6 ===
+<!-- PAGE 6 -->
 # Comet Comments for December 1999
 Don Machholz
 
@@ -491,7 +491,7 @@ Heavy duty Astro-Physics 800 mount and pier assembly. The mount's controller can
 
 SJAA EPHEMERIS Page 6 December 1999
 
-=== PAGE 7 ===
+<!-- PAGE 7 -->
 # Officers and Board of Directors
 
 **Pres** David North (408) 297-5257  
@@ -610,7 +610,7 @@ To subscribe to or unsubscribe from the SJAA Mailing List send email to sjaa-req
 
 SJAA EPHEMERIS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Page 7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 1999
 
-=== PAGE 8 ===
+<!-- PAGE 8 -->
 # San Jose Astronomical Association Membership Form
 
 New __ Renewal __  

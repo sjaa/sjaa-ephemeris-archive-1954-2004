@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # THE SAN JOSE ASTRONOMICAL ASSOCIATION, INC.
 
 SJAA c/o James Van Nuland  
@@ -35,7 +35,7 @@ Memberships are accepted at any time, but it is not necessary to join to attend 
 
 President: Gerry Rattley 732-0202 Treasurer: Phil Hermsmeyer 252-5529
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # April Evening Skies
 
 **Abrams Planetarium**  
@@ -61,7 +61,7 @@ In addition to stars and other objects that should be visible to the unaided eye
 in that constellation. The open or galactic cluster (OCl) known as the "Beehive" can be located between the Gemini Twins and Hydra in Coma Berenices. The hair of Berenice, is another open cluster (OCl), between Leo and Bootes. Try to observe these objects with unaided eye and binoculars.  
 --D. David Batch
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # AANC>
 
 # ASTRONOMICAL ASSOCIATION OF NORTHERN CALIFORNIA

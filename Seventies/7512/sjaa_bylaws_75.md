@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # BY-LAWS
 
 # OF
@@ -25,7 +25,7 @@
 
 (c) Honorary Members: The Board of Directors shall have the power in its discretion, by a majority vote, to confer the title of Honorary Member upon any person.
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # Page 2
 
 ## (c) Cont.
@@ -49,7 +49,7 @@ Special meetings of the membership may be called at any time by order of the Pre
 ## SECTION 4. NOTICES OF MEETINGS:
 Written notice of Special Meeting and Annual Meetings shall be given to all active members not less than five (5) days prior to the meeting date. Notice of regular meetings is mandatory only to notify the membership concerning a change in time and/or place of meeting.
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # Page 3
 
 ## SECTION 5. QUORUM AT MEMBERSHIP MEETINGS:
@@ -81,7 +81,7 @@ Five (5) members of the Board of Directors shall constitute a quorum for the tra
 ### SECTION 7. QUALIFICATION FOR BOARD MEMBERSHIP:
 To be qualified for nomination to the Board, a member must have one (1) year active membership or attend 3 board meetings if bi-monthly or 6 board meetings if monthly. Termination of board membership will be automatic if member misses (3) three consecutive meetings without notification to the board. *** Added 9-5-75 Amend #3
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 # Page 4
 
 # ARTICLE 5
@@ -105,7 +105,7 @@ To be qualified for nomination to the Board, a member must have one (1) year act
 
 (d) The Secretary shall generally do and perform all such duties as pertain to his office and as may be required by the Board of Directors or by the President.
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 # Page 5
 
 ## SECTION 5. DUTIES OF THE TREASURER:
@@ -140,7 +140,7 @@ At its discretion, the Board of Directors may estallish committees whose powers 
 
 Upon a proposal concurred with by three-fourths (3/4) of the active members present and voting at a regular membership meeting duly note this Corporation may be dissolved; and upon such disolusionment the funds and properties of the Corporation shall be distributed by a majority vote of the Board of Directors, subject to the approval of the active members,
 
-=== PAGE 6 ===
+<!-- PAGE 6 -->
 # Page 6
 
 ## Article 7, Section 1 Cont.

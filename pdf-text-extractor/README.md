@@ -82,10 +82,10 @@ pdf-extract input.pdf output.txt sk-ant-...
 The output file will contain page-separated text:
 
 ```
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 [text from page 1]
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 [text from page 2]
 ```
 

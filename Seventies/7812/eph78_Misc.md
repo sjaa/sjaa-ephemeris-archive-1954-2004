@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # JULY 27-30 ASTRONOMY WEST 78
 
 ## Joint Conference on Astronomy
@@ -57,7 +57,7 @@ San Francisco, CA 94126
 
 (Mail your check or money order directly to the above address, including an $.80 service charge for each ticket ordered.) Be sure to specify which tour you want, number 1, 2, or 3, and the time (1:00 PM or later) and the date 28 July 1978. To avoid disappointment, be sure to register early.
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # DINING FACILITIES:
 
 We are exceptionally fortunate in that the dining facilities are not only within a block of the convention site, but the quality and quantity of food is exceptionally good. The on-campus facilities include a cafeteria, a restaurant, and snack facilities. Additionally, you will be provided with a guide to restaurants in the area.
@@ -128,7 +128,7 @@ Santa Rosa, CA 95404
 
 The program will start Thursday morning, 27 July, at 9 AM, with check-in at 8 AM. The conference will run for approximately 35 hours through noon Sunday, 30 July.
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 # ASTRONOMY WEST 78
 
 **Western Amateur Astronomers**
@@ -181,7 +181,7 @@ Andrew Fraknoi, Executive Officer ASP
 
 *Serving Western Astronomers through Unity for over a Quarter Century*
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 # MAIL TO: WAA REGISTRATION, c/o 1110 Petaluma Hill Road, Santa Rosa, CA 95404
 
 **NAME(S)** 1___________________________ 2___________________________
@@ -267,7 +267,7 @@ prior to check-in time.
 
 **Name of program attending:** ___Joint Conference on Astronomy_____
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 # POSSIBLE COMET DISCOVERED BY DON MACHHOLZ OF LOS GATOS
 
 SEPT. 12 5:15 A.M.

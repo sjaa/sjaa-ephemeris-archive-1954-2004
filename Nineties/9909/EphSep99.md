@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # SJAA EPHEMERIS
 
 ## The Celestial Tourist *On Location...*
@@ -72,7 +72,7 @@ Copyright © 1999 San Jose Astronomical Association, Inc.
 
 **Volume 10 Number 9 Official Publication of the San Jose Astronomical Association, September 1999**
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # U.S.S. Hornet Moonfest
 
 *Continued from page 1*
@@ -113,7 +113,7 @@ The Sun rode high as Refractor Red peered down. I could just see the arc of smal
 
 SJAA EPHEMERIS Page 2 September 1999
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 west of the landing site. Observers with larger telescopes spotted Moltke. Somewhere between, a laser reflector stares goggle-eyed amid dust-strewn footprints and silent instruments. A fat, robot spider casts short shadows in the blaze of day. No dust stirs. An outpost of Earth rests in tranquillity, under the midnight sky.
 
 My favorite mission was Apollo 15, the last with more than a smattering of live network coverage. The scenery at Hadley Base was truly spectacular. Anyone who glanced at a topographic map of Luna could see one reason why they had come, to seek a hunk of deep, primordial bedrock, turned and exposed billions of years ago, in the cataclysmic aftermath of the titanic impact that produced the Imbrium Basin. Next time you see a duffer chip a divot on a golf course, next time you watch a cook fold an omelet or splat the yolks on frying eggs, think on how the Lunar Apennines came to be, if you dare.
@@ -146,7 +146,7 @@ _Continued on page 4_
 
 SJAA EPHEMERIS Page 3 September 1999
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 # Mooning
 
 **Dave North**
@@ -204,7 +204,7 @@ So many pieces of history are places you can visit. Hornet's deck, where the tra
 
 SJAA EPHEMERIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 1999
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 # Continued from page 4
 
 full. Especially polar features and anything that sits near the limb, or is in a libration zone.
@@ -263,7 +263,7 @@ In last month's write-up of the FPOA/AANC Star-b-que, the source of a raffle ite
 
 SJAA EPHEMERIS Page 5 September 1999
 
-=== PAGE 6 ===
+<!-- PAGE 6 -->
 # Comet Comments
 Don Machholz
 
@@ -455,7 +455,7 @@ Intelligent Life in System ?
 
 SJAA EPHEMERIS Page 6 September 1999
 
-=== PAGE 7 ===
+<!-- PAGE 7 -->
 # Officers and Board of Directors
 
 **Pres** David North (408) 297-5257  
@@ -589,7 +589,7 @@ with a blank subject line followed by a single text line that says "subscribe" o
 
 SJAA EPHEMERIS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 1999
 
-=== PAGE 8 ===
+<!-- PAGE 8 -->
 # San Jose Astronomical Association Membership Form
 
 New __ Renewal __  

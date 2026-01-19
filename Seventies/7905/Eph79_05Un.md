@@ -1,4 +1,4 @@
-=== PAGE 1 ===
+<!-- PAGE 1 -->
 # Predictions
 
 **Apr. 27-28** AANC-sponsored star party at Fremont Peak.
@@ -46,7 +46,7 @@ Penny Pinschmidt, Editor 356-4330
 
 *The*
 
-=== PAGE 2 ===
+<!-- PAGE 2 -->
 # Editorial
 
 This is my 20th Bulletin. It is also my last. As of this date, April 20, 1979, I resign my editorship of the San Jose Astronomical Association's club bulletin. This decision was made entirely by me and with full knowledge of its consequences - maybe more than most will ever know or think.
@@ -67,7 +67,7 @@ As my father's grandfather clock struck 6:30, Wolf arrived. His last words to my
 
 2
 
-=== PAGE 3 ===
+<!-- PAGE 3 -->
 explaining the reason for this "meeting". I was told he can talk better while driving which, I assumed, was why he picked me up. He said something had happened that was very serious, and I was not to take anything in the wrong way. I was loved very dearly by the club and considered a wonderful person and editor, BUT....
 
 According to Wolf, on Sunday night, the 8th, Gerry wanted to talk to him. He was invited to Wolf's house. Eventually, Jack Zeiders also came to Wolf's. Gerry was very irate about the bulletin and the three of them talked into the wee small hours of the morning. A few people were contacted, and, at Wolf's suggestion, a meeting was scheduled for Monday night, the 9th, at Wolf's.
@@ -86,7 +86,7 @@ When I explained to Ed about the exclusive Monday meet-
 
 *5*
 
-=== PAGE 4 ===
+<!-- PAGE 4 -->
 ing and my "talk" with John and Wolf, he decided he would not host the upcoming indoor star party. No one else from the WLBA would host the meeting. After a long discussion, the WLBA decided continuing support of SdAA was inappropriate. They immediately mailed a letter to the club informing them of their action.
 
 Emotions, by then, were running high and wild from all sides. My response, or lack of response, was to mail a letter to the Board stating I would not be attending the April 13 board meeting, the first I have missed since my editorship 19 months ago. My other response, in order to give me time to think and sort things out, was to disassociate myself temporarily from the club. I hoped things would cool down.
@@ -105,7 +105,7 @@ This, for the most part, ends the factual portion of the account. Again, please 
 > 
 > Albert Einstein
 
-=== PAGE 5 ===
+<!-- PAGE 5 -->
 I believe that if Gerry had contacted me the day he received the bulletin, none of this would have happened. It could easily have been solved between Gerry and me.
 
 Wolf was wrong to organize the Monday night meeting. It was not a board meeting, as I was told (special board meetings have to be called three days in advance). To me, it was an improper and exclusive meeting of a small group to discuss official board, editor, and general membership-related subjects. Those whom they discussed were not informed of the meeting and, therefore, could not reply or offer rebuttal themselves. Complaints were raised that could easily have been explained away in a few sentences. In essence, I feel deeply hurt because I was tried, convicted, and sentenced without any defense.
@@ -124,7 +124,7 @@ In talking to a few people who were not involved but are aware of the situation,
 
 5
 
-=== PAGE 6 ===
+<!-- PAGE 6 -->
 on violence. Many people have been deeply hurt and will wear the scars for many years to come. This should not be the conduct of an amateur astronomy club.
 
 I have lost my joy, enthusiasm, and pride in this club. I will continue my interest in astronomy. You may see me at Fremont Peak and at general meetings a few times. I don't want to give the impression I'm discouraging any friendly contact. Quite the contrary, I need reassurance from sincere friends.
@@ -145,7 +145,7 @@ It hurts to be disappointed by my friends that I held in so much respect. In the
 
 *6*
 
-=== PAGE 7 ===
+<!-- PAGE 7 -->
 # Short Little Things
 
 Due to the loss of funding, the eclipse publication will be suspended.
@@ -163,6 +163,6 @@ An explanation is needed about the new format. The advantages are many. With all
 > Pinschmidt Used Car Lot  
 > 356-4330
 
-=== PAGE 8 ===
+<!-- PAGE 8 -->
 # San Jose Astronomical Association
 3509 Calico Ave. San Jose, CA. 95124
