@@ -1,0 +1,684 @@
+{
+  "articles": [
+    {
+      "id": "eph94-02-sjaa-ephemeris",
+      "documentId": "eph94-02",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The document, titled \"SJAA EPHEMERIS,\" is the official publication of the San Jose Astronomical Association. This specific issue is Volume 5, Number 2, released in February 1994.",
+      "categories": [
+        "publication",
+        "newsletter",
+        "astronomy club news"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "February 1994",
+        "astronomy publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-the-eyepiece",
+      "documentId": "eph94-02",
+      "title": "The Eyepiece",
+      "summary": "This newsletter column, 'The Eyepiece,' provides updates on club activities, including a review of a past speaker from MIRA and announcements for upcoming general meetings featuring Paul Graves. It lists numerous star parties and observational astronomy classes, along with reminders about the Julian Day calendar and an obituary for Walter Scott Houston. The article also touches on newsletter advertising and solicits plans for viewing an annular eclipse in May.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observational Astronomy",
+        "Astronomy Information",
+        "Obituary"
+      ],
+      "keywords": [
+        "Astronomy Club",
+        "Star Parties",
+        "Guest Speakers",
+        "Julian Day",
+        "Annular Eclipse",
+        "Walter Scott Houston",
+        "Observational Astronomy Class",
+        "Club Meetings",
+        "MIRA Observatory",
+        "Dartmouth Middle School"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-here-s-something-for-the-pc-owner",
+      "documentId": "eph94-02",
+      "title": "Here's something for the PC owner",
+      "summary": "This article announces the immediate availability of version 2 of \"SkyMap,\" a popular Windows 3.1 shareware astronomy program. SkyMap can accurately map the sky, display various celestial objects, and print high-quality charts, with its accuracy comparable to the \"Astronomical Almanac.\" New features in this release include a significant speed increase, a customizable comet catalog, and the addition of Pluto.",
+      "categories": [
+        "Software Release",
+        "Product Announcement",
+        "Astronomy Software",
+        "Shareware"
+      ],
+      "keywords": [
+        "SkyMap",
+        "Windows 3.1",
+        "Astronomy program",
+        "Shareware",
+        "Sky map",
+        "Comet catalog",
+        "Pluto",
+        "FTP download",
+        "Celestial objects",
+        "Map drawing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 20
+    },
+    {
+      "id": "eph94-02-walter-scott-huston",
+      "documentId": "eph94-02",
+      "title": "Walter Scott Huston",
+      "summary": "Walter Scott Huston, widely known as \"Scotty\" and author of Sky & Telescope's Deep Sky Wonders column since 1946, passed away on December 23rd at age 81 from pneumonia in Cancun, Mexico. A highly influential figure in amateur astronomy, he was celebrated for his deep sky and variable star observations, his contributions to AAVSO, and his long-standing presence at Stellafane conventions. His passion for astronomy, ignited in childhood, inspired generations of enthusiasts.",
+      "categories": [
+        "Obituary",
+        "Amateur Astronomy",
+        "Astronomy History",
+        "Observing Community"
+      ],
+      "keywords": [
+        "Walter Scott Huston",
+        "Scotty",
+        "Deep Sky Wonders",
+        "Sky & Telescope",
+        "Stellafane",
+        "Amateur Astronomy",
+        "Deep Sky Observer",
+        "Variable Star Observer",
+        "AAVSO",
+        "Cancun",
+        "Pneumonia"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-more-ibm-shareware-available",
+      "documentId": "eph94-02",
+      "title": "More IBM Shareware available",
+      "summary": "The article announces the release of STARPLOT V2.0, an IBM shareware drawing package specifically designed for creating star charts. It is now available for download from the SimTel Software Repository via anonymous FTP from OAK.Oakland.Edu and its mirror sites.",
+      "categories": [
+        "Software Release",
+        "Astronomy Software",
+        "Shareware",
+        "Announcement"
+      ],
+      "keywords": [
+        "IBM",
+        "STARPLOT V2.0",
+        "Shareware",
+        "Star Charts",
+        "Drawing Package",
+        "SimTel Software Repository",
+        "FTP",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-sky-map-continued-from-page-1",
+      "documentId": "eph94-02",
+      "title": "Sky Map (Continued from page 1)",
+      "summary": "This article describes two astronomy software programs: SkyMap and Starplot v2.0. SkyMap is a shareware program for Windows offering object search, map orientation adjustments for telescopes, global location settings, and a comprehensive star/object catalog suitable for both novice and serious amateur astronomers. Starplot v2.0 is a star chart drawing package that allows users to plot celestial objects, create detailed finder charts from Hubble GSC data, and import planet, minor planet, and comet positions via its Makeplan.exe utility.",
+      "categories": [
+        "Software Review",
+        "Astronomy Tools",
+        "Product Description",
+        "Shareware"
+      ],
+      "keywords": [
+        "SkyMap",
+        "Starplot",
+        "astronomy software",
+        "star charts",
+        "finder charts",
+        "celestial objects",
+        "telescope orientation",
+        "Hubble GSC",
+        "planets",
+        "comets",
+        "shareware",
+        "Windows program",
+        "amateur astronomy"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-02-shuttle-launch-and-paload-schedule",
+      "documentId": "eph94-02",
+      "title": "Shuttle Launch and Paload schedule",
+      "summary": "This document outlines the Space Shuttle launch schedule for missions from January 1994 to May 1995, detailing specific mission numbers (e.g., STS-60 to STS-71), launch dates, orbital inclinations, and primary payloads. Additionally, it includes an important notice regarding the availability of electronic still camera images of the Hubble Space Telescope from the STS-61 mission, accessible via an FTP server.",
+      "categories": [
+        "Spaceflight Schedule",
+        "NASA News",
+        "Technical Data",
+        "Space Exploration",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Launch Schedule",
+        "Payloads",
+        "NASA",
+        "Hubble Space Telescope",
+        "STS Missions",
+        "FTP",
+        "1994",
+        "1995"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-moon-calculations",
+      "documentId": "eph94-02",
+      "title": "Moon Calculations",
+      "summary": "A user seeks a simple program to calculate the Moon's angular position from Earth given location and time. The response explains that these calculations are complex, recommending the 'xephem' lunar code for reasonable accuracy or high-precision N-body ephemeris data from the US Naval Observatory for professional-grade work, which requires extensive coding and consideration of relativistic effects and Earth's motion.",
+      "categories": [
+        "Technical",
+        "Software",
+        "Astronomy",
+        "Programming",
+        "Positional Astronomy"
+      ],
+      "keywords": [
+        "Moon position",
+        "Lunar ephemeris",
+        "Astronomical calculations",
+        "Algorithms",
+        "xephem",
+        "US Naval Observatory",
+        "Relativity",
+        "Source code",
+        "Earth wobble",
+        "Angular position"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-product-manager",
+      "documentId": "eph94-02",
+      "title": "Product Manager",
+      "summary": "Orion Telescope Center is seeking an experienced Product Manager with a strong technical or engineering background for a senior position. The role requires a seasoned amateur astronomer with substantial telescope experience, excellent familiarity with optical and mechanical design, and broad knowledge of commercial telescopes and accessories. Responsibilities include new product design and product line development.",
+      "categories": [
+        "Job Opening",
+        "Recruitment",
+        "Career Opportunity"
+      ],
+      "keywords": [
+        "Product Manager",
+        "Orion Telescope Center",
+        "job",
+        "employment",
+        "telescope",
+        "amateur astronomer",
+        "technical",
+        "engineering",
+        "product design",
+        "optical design",
+        "mechanical design",
+        "accessories",
+        "Santa Cruz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-bolide-meteor",
+      "documentId": "eph94-02",
+      "title": "Bolide Meteor",
+      "summary": "A bright bolide meteor was reported to have been observed on Saturday, January 8, 1994, at 5:34 local time, from Selkirk and Clandeboye, Manitoba, Canada. Chris Rutkowski of the University of Manitoba disseminated the report and requested further observations or posts from anyone who witnessed the event.",
+      "categories": [
+        "Observing Report",
+        "Celestial Event",
+        "Call for Information",
+        "News"
+      ],
+      "keywords": [
+        "Bolide Meteor",
+        "Meteor",
+        "Manitoba",
+        "Canada",
+        "Selkirk",
+        "Clandeboye",
+        "January 1994",
+        "Chris Rutkowski",
+        "Observation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-02-here-is-a-quick-easy-and-cheap-focusing-aid",
+      "documentId": "eph94-02",
+      "title": "Here is a quick, easy and CHEAP focusing aid:",
+      "summary": "This article provides detailed instructions for constructing a quick, easy, and cheap focusing aid, primarily for Schmidt-Cassegrain Telescopes (SCTs), using a 12\"x12\" piece of 1/8\" aircraft modeling plywood. The process involves tracing the telescope's aperture, marking specific points, cutting two precisely placed holes, adding small wooden holders, and spray-painting the entire device flat black for optimal performance.",
+      "categories": [
+        "Technical",
+        "DIY/How-To",
+        "Observing Aids",
+        "Equipment Construction"
+      ],
+      "keywords": [
+        "Focusing aid",
+        "SCT",
+        "DIY astronomy",
+        "Telescope accessories",
+        "Plywood",
+        "Astronomical equipment",
+        "Construction guide",
+        "Optical aid"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-directions-for-use",
+      "documentId": "eph94-02",
+      "title": "DIRECTIONS FOR USE:",
+      "summary": "This document provides simple, five-step instructions for using a homemade telescope focuser, which was created by the author as an inexpensive alternative to commercially available devices. It describes how to achieve precise focus by merging a double image of a celestial object. The author, Dennis Ward of the Birmingham Astronomical Society, shares his DIY solution for improved astrophotography.",
+      "categories": [
+        "DIY",
+        "How-To",
+        "Astronomy Equipment",
+        "Observing Tips",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "focuser",
+        "telescope",
+        "focus",
+        "DIY",
+        "astronomy",
+        "exposure",
+        "Sky & Telescope",
+        "Birmingham Astronomical Society",
+        "astrophotography equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-more-astro-ad-s",
+      "documentId": "eph94-02",
+      "title": "More Astro Ad(s)",
+      "summary": "This document is a classified advertisement listing various used astronomical equipment for sale. Items include a Meade 8\" f/6 Newtonian telescope with accessories, a Celestron C90 Spotting Scope, Lumicon filters, Meade eyepieces, and other components, offered with individual and package pricing.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Equipment Sales",
+        "Advertisement"
+      ],
+      "keywords": [
+        "Meade telescope",
+        "Newtonian",
+        "Celestron C90",
+        "Spotting Scope",
+        "Lumicon filter",
+        "Deep Sky Filter",
+        "Eyepieces",
+        "Barlow",
+        "Camera Adapter",
+        "Astrophotography equipment",
+        "Astronomy accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-here-is-another-cheap-telescope-tool-suggested-by-crazy-ed-erbeck",
+      "documentId": "eph94-02",
+      "title": "Here is another CHEAP Telescope Tool suggested by 'CRAZY Ed' Erbeck",
+      "summary": "This article details how to construct a budget-friendly Newtonian telescope collimation tool, inspired by 'CRAZY Ed' Erbeck. It involves using a Kodak 35mm film canister with adhesive aluminum tape and a central hole, along with marking the primary mirror's center. The device is then used to align the primary mirror by centering the marked dot within the tool's hole, assuming the secondary mirror is already aligned.",
+      "categories": [
+        "DIY",
+        "Technical",
+        "Telescope Accessories",
+        "How-To Guide"
+      ],
+      "keywords": [
+        "Collimation",
+        "Newtonian telescope",
+        "DIY tool",
+        "Film canister",
+        "Primary mirror",
+        "Telescope alignment",
+        "Astronomy tools",
+        "Cheap telescope tool"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-notice",
+      "documentId": "eph94-02",
+      "title": "NOTICE",
+      "summary": "This notice announces the upcoming election for four Board of Director members. It lists four current members running for re-election and provides instructions for nominating additional candidates either in advance by contacting specific individuals or from the floor at the February general meeting.",
+      "categories": [
+        "election",
+        "organizational announcement",
+        "membership",
+        "board of directors"
+      ],
+      "keywords": [
+        "election",
+        "Board of Directors",
+        "nomination",
+        "members",
+        "general meeting",
+        "February"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-directions-to-our-favorite-places",
+      "documentId": "eph94-02",
+      "title": "Directions to our Favorite Places",
+      "summary": "This article provides detailed directions to several key locations for an astronomy club's activities, welcoming both members and the public. It includes directions to Milpitas Library for general meetings, Houge Park for observational astronomy classes and public star parties, Henry Coe State Park for scheduled star parties, and Grant Ranch for observing, outlining activities, times, and specific site rules for each.",
+      "categories": [
+        "Directions",
+        "Events",
+        "Club Information",
+        "Observational Astronomy",
+        "Logistics"
+      ],
+      "keywords": [
+        "Directions",
+        "Star Party",
+        "Observing Sites",
+        "Astronomy Meetings",
+        "Milpitas Library",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Grant Ranch",
+        "Public Events",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-remember-that-entering-grant-ranch-after-10-00-p-m-can-be-dangerous-to-your-automobile-tires-do-not-go-through-the-exit-gate-when-the-entrance-is-locked",
+      "documentId": "eph94-02",
+      "title": "REMEMBER THAT ENTERING GRANT RANCH AFTER 10:00 P.M. CAN BE DANGEROUS TO YOUR AUTOMOBILE TIRES. DO NOT GO THROUGH THE EXIT GATE WHEN THE ENTRANCE IS LOCKED!",
+      "summary": "This article issues a safety warning about dangerous conditions for automobile tires when entering Grant Ranch after 10:00 P.M. or attempting to exit through a locked entrance. It also provides the 1994 calendar for the San Jose Astronomical Association (SJAA), listing dates for general meetings, Houge Park Star Parties, and observational astronomy classes from February to July.",
+      "categories": [
+        "Safety Advisory",
+        "Event Schedule",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "Grant Ranch",
+        "automobile safety",
+        "access warning",
+        "SJAA",
+        "calendar",
+        "general meeting",
+        "star party",
+        "observational astronomy class",
+        "Houge Park",
+        "February 1994"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-02-telescope-loaner-status",
+      "documentId": "eph94-02",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides an update on the status of a telescope loaner program, listing various telescopes, their current users, due dates, and availability. Several telescopes, including a 4-1/2\" Newt/P mount, 6\" Dobson, 12-1/2\" Dobson, 6\" Newt/P mount, and another 6\" Newt/P mount, are currently available. Members interested in borrowing a telescope or getting on a waiting list are instructed to contact Paul Barton, with special conditions noted for the solar telescope.",
+      "categories": [
+        "program update",
+        "equipment loaner",
+        "astronomy club information",
+        "member services"
+      ],
+      "keywords": [
+        "telescope loaner",
+        "telescope availability",
+        "astronomy equipment",
+        "loan program",
+        "Paul Barton",
+        "due dates",
+        "waiting list",
+        "Celestron",
+        "Dobson",
+        "Newtonian telescope",
+        "Solar telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-astro-ads",
+      "documentId": "eph94-02",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" serves as a classifieds section for noncommercial advertisers to sell or seek astronomically related products and services. It provides submission guidelines, including an editor's contact information and monthly deadlines, and features numerous listings for used telescopes, mounts, cameras, filters, magazines, and other astronomical equipment.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "amateur astronomy",
+        "equipment sales",
+        "used equipment"
+      ],
+      "keywords": [
+        "Celestron C-11",
+        "Rich-field telescope",
+        "GEM",
+        "Pantax ME Super",
+        "C-6 Tube Assy",
+        "German Equatorial Mount",
+        "14-inch Mirror",
+        "Roll-off Roof Observatory",
+        "Deep Sky Nebula Filter",
+        "Olympus OM-1",
+        "Binoculars",
+        "Sky and Telescope",
+        "Celestron Ultima 8",
+        "astronomy equipment",
+        "for sale",
+        "wanted"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-02-february-1994",
+      "documentId": "eph94-02",
+      "title": "February 1994",
+      "summary": "This document provides an astronomical guide for February 1994, detailing lunar phases with their rise, transit, and set times. It also includes observational data for Mercury, Venus, Mars, Jupiter, and Saturn, listing their positions, magnitudes, and visibility times. Further information covers solar data, astronomical twilight times, sidereal time, and a specific recommendation for the darkest Saturday night on February 5th, making it a comprehensive monthly sky planner.",
+      "categories": [
+        "Astronomical Almanac",
+        "Observing Guide",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "February 1994",
+        "Lunar phases",
+        "Planetary data",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Astronomical twilight",
+        "Sidereal time",
+        "Magnitude",
+        "Rise/Set times",
+        "New Moon",
+        "Full Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-times-and-dates-are-pacific-daylight",
+      "documentId": "eph94-02",
+      "title": "TIMES AND DATES ARE PACIFIC DAYLIGHT",
+      "summary": "This document specifies that all listed times and dates are in Pacific Daylight Time (PDT). It also notes that planet distance and magnitude values, provided for the 17th of each month, are derived from 'Astronomy with Your Personal Computer' by Peter Duffet-Smith and 'MacEphem' by Elwood Charles Downey.",
+      "categories": [
+        "informational",
+        "technical notes",
+        "astronomical data sources"
+      ],
+      "keywords": [
+        "Pacific Daylight Time",
+        "PDT",
+        "planet distance",
+        "planet magnitude",
+        "astronomy software",
+        "MacEphem",
+        "Duffet-Smith"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-offices-and-board-of-directors",
+      "documentId": "eph94-02",
+      "title": "Offices and Board of Directors",
+      "summary": "This document provides a directory of key personnel and their contact information for an organization. It lists the President, Treasurer, Secretary, and Board of Directors, along with individuals contributing to the Ephemeris and the Editor, each with their respective phone numbers.",
+      "categories": [
+        "Organization Structure",
+        "Leadership",
+        "Contact Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "Personnel",
+        "Contact List",
+        "Ephemeris Contributors",
+        "Editor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-comet-comments",
+      "documentId": "eph94-02",
+      "title": "Comet Comments",
+      "summary": "This article provides updates on various comets, noting the departure of Comets Encke and Mueller, and anticipating Comet Shoemaker-Levy 9's impending impact with Jupiter. It details three new discoveries: Periodic Comets Kushida-Muramatsu and Wiseman-Skiff, and Comet McNaught-Russell, with the latter potentially reaching magnitude 11.5 in early April. The author also highlights the rare absence of visual comet discoveries in 1993.",
+      "categories": [
+        "Comets",
+        "Observing Reports",
+        "Astronomical Discoveries",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Periodic Comets",
+        "Comet Encke",
+        "Comet Shoemaker-Levy 9",
+        "Jupiter Impact",
+        "Comet Kushida-Muramatsu",
+        "Comet Wiseman-Skiff",
+        "Comet McNaught-Russell",
+        "Observational Astronomy",
+        "Magnitude",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-ephemerides",
+      "documentId": "eph94-02",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for three comets: Comet Mueller (1993p), Periodic Comet Shoemaker-Machmann 2, and Periodic Comet Shoemaker-Levy 9. For each comet, it lists celestial coordinates (Right Ascension, Declination), elongation, sky visibility, and apparent magnitude across various dates from late January through early March 1994. This information is essential for observers tracking these specific comets during the specified period.",
+      "categories": [
+        "Ephemerides",
+        "Observational Data",
+        "Astronomy",
+        "Comets"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Comet Mueller (1993p)",
+        "Periodic Comet Shoemaker-Machmann 2",
+        "Periodic Comet Shoemaker-Levy 9",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Observing data",
+        "February 1994"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-02-san-jose-astronomical-association-membership",
+      "documentId": "eph94-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the submission guidelines for EPHEMERIS, the monthly publication of the San Jose Astronomical Association (SJAA). Members are encouraged to submit typed articles to editor Bob Madden by the 12th of the previous month, with a preference for text files on 3-1/2\" IBM or MAC diskettes, though written submissions are also accepted.",
+      "categories": [
+        "Publication Guidelines",
+        "Membership Information",
+        "Club Communication"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "Article Submission",
+        "Newsletter",
+        "Membership",
+        "Guidelines",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-02-membership-only-12-membership-s-t-32-junior-under-18-20",
+      "documentId": "eph94-02",
+      "title": "Membership only: $12 Membership / S&T: $32 Junior (under 18): $20",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining three types of memberships: Membership Only ($12), Membership with Sky & Telescope magazine ($32), and Junior (under 18) ($20). It provides fields for applicant information and instructions for submission to the treasurer, Jack Petersen.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Information",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "Membership",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Application",
+        "Renewal",
+        "Dues",
+        "Fees",
+        "Astronomy Club",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9402/Eph94_02.pdf",
+      "txtPath": "9402/Eph94_02.md"
+    }
+  ]
+}

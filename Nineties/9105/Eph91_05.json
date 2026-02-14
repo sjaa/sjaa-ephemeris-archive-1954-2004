@@ -1,0 +1,697 @@
+{
+  "articles": [
+    {
+      "id": "eph91-05-sjaa-ephemeris",
+      "documentId": "eph91-05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the May 1991 issue, Volume 3, Number 5, of the SJAA Ephemeris. It serves as the official publication of the San Jose Astronomical Association, likely containing news, events, and other information for its members.",
+      "categories": [
+        "Association Publication",
+        "Astronomy Publication",
+        "Newsletter",
+        "Periodical"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "Astronomy",
+        "May 1991",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-calendar-notes",
+      "documentId": "eph91-05",
+      "title": "CALENDAR NOTES",
+      "summary": "The article outlines various astronomical events and organizational updates for May, including a board meeting, public star parties, and an introductory astronomy class, noting some schedule changes. It also details the Astronomical Association of Northern California's (AANC) exploration of hosting a Bay Area telescope makers conference and star party in September, actively seeking members with insurance expertise to assist with planning.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Reports",
+        "Volunteer Opportunities",
+        "Announcements",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "board meeting",
+        "star party",
+        "observational astronomy class",
+        "Riverside Telescope Maker's Convention",
+        "AANC",
+        "telescope makers conference",
+        "Bay Area",
+        "Grant Ranch",
+        "Fremont Peak",
+        "insurance",
+        "volunteers",
+        "May events",
+        "September events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-may-4th-11th-annual-bay-area-astronomical-auction",
+      "documentId": "eph91-05",
+      "title": "MAY 4TH 11TH ANNUAL BAY AREA ASTRONOMICAL AUCTION",
+      "summary": "The document outlines a schedule of astronomical events for May and June, primarily organized by the SJAA. Key events include the 11th Annual Bay Area Astronomical Auction on May 4th, several public star parties at various locations like Grant Ranch and Henry Coe State Park, board meetings, general meetings, and an introductory observational astronomy class.",
+      "categories": [
+        "Events Schedule",
+        "Observing Reports",
+        "Meetings",
+        "Educational"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "Star Party",
+        "Astronomy Class",
+        "SJAA",
+        "Bay Area",
+        "May Events",
+        "June Events",
+        "Grant Ranch",
+        "Henry Coe State Park",
+        "Public Outreach"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-auction-xi",
+      "documentId": "eph91-05",
+      "title": "AUCTION XI",
+      "summary": "Planning is underway for \"AUCTION XI,\" with organizers requesting donations of homemade or store-bought snacks like cookies, doughnuts, chips, and cake, while sodas will be sold. Attendees should consult a special auction page in the current issue for complete details and correct directions to the Milpitas Public Library, avoiding the former Los Gatos Red Cross location.",
+      "categories": [
+        "Events",
+        "Fundraising",
+        "Announcements",
+        "Community"
+      ],
+      "keywords": [
+        "Auction XI",
+        "Donations",
+        "Snack table",
+        "Milpitas Public Library",
+        "Event planning",
+        "Fundraiser",
+        "Logistics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-a-b-gregory-award",
+      "documentId": "eph91-05",
+      "title": "A. B. GREGORY AWARD",
+      "summary": "Nominations are open for the 1991 Dr. A. B. Gregory Award, which recognizes individuals who have made outstanding contributions of time and effort to help others in amateur astronomy, reflecting Dr. Gregory's spirit of assistance. Interested parties should contact the nominating committee with a short letter outlining reasons why a candidate deserves the award, which will be presented at the Annual Picnic in July.",
+      "categories": [
+        "Awards",
+        "Nominations",
+        "Community News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "A. B. Gregory Award",
+        "nominations",
+        "amateur astronomy",
+        "community service",
+        "volunteer recognition",
+        "1991",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-yosemite-star-party",
+      "documentId": "eph91-05",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "A star party will be held at Glacier Point in Yosemite on July 12 and 13, offering nearly six hours of full darkness each night. This event immediately follows a solar eclipse, with some members also planning to observe the 50% eclipsed Sun on the preceding Thursday.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Yosemite",
+        "Star Party",
+        "Glacier Point",
+        "Solar Eclipse",
+        "Night Sky",
+        "Astronomy Event",
+        "Observation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-05-magellan-reoriented-to-keep-electronics-cool",
+      "documentId": "eph91-05",
+      "title": "MAGELLAN REORIENTED TO KEEP ELECTRONICS COOL",
+      "summary": "The Magellan spacecraft underwent reorientation during its Venus mapping period to protect its electronics from severe solar heating, reducing mapping time by 10 minutes every other orbit. This maneuver was discontinued by March when the Sun's angle became less intense, no longer requiring the spacecraft to adjust its orientation for cooling.",
+      "categories": [
+        "Spacecraft Operations",
+        "Space Missions",
+        "Engineering",
+        "News"
+      ],
+      "keywords": [
+        "Magellan",
+        "Venus",
+        "Spacecraft",
+        "Reorientation",
+        "Electronics cooling",
+        "Solar heating",
+        "Mapping period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-launch-of-craf-and-cassini-reversed",
+      "documentId": "eph91-05",
+      "title": "LAUNCH OF CRAF AND CASSINI REVERSED",
+      "summary": "The launch order for the CRAF and Cassini missions has been reversed to provide better cost, schedule, and weight margins for the comet mission. Under the new plan, Cassini will launch to Saturn in November 1995, followed by CRAF in February 1996. CRAF will now include a Venus gravity assist, adding eight months to its flight, with an anticipated arrival at Comet Kopf in 2001.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Program Updates"
+      ],
+      "keywords": [
+        "CRAF",
+        "Cassini",
+        "Launch",
+        "Space Mission",
+        "Saturn",
+        "Comet Kopf",
+        "Venus gravity assist",
+        "Mission planning",
+        "Schedule changes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-japan-approves-two-missions",
+      "documentId": "eph91-05",
+      "title": "JAPAN APPROVES TWO MISSIONS",
+      "summary": "Japan's Space Activities Commission has approved two new missions: Comets, a research satellite aimed at testing advanced communications technologies, and Lunar-A, which will orbit the Moon and deploy three penetrators into its surface. These approvals signal advancements in both communication technology and lunar exploration efforts.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Space Technology",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Japan",
+        "Space Activities Commission",
+        "Comets",
+        "Lunar-A",
+        "Moon exploration",
+        "communications technology",
+        "space approval",
+        "penetrators"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-motorola-selects-satellite-builder-for-iridium-project",
+      "documentId": "eph91-05",
+      "title": "MOTOROLA SELECTS SATELLITE BUILDER FOR IRIDIUM PROJECT",
+      "summary": "Motorola has selected Lockheed to develop and build the 77 satellites for its Iridium project. This system aims to provide worldwide, portable hand-held, mobile, and fixed telecommunications coverage. Satellite launches are slated to begin in 1994, with full system operation anticipated by 1996.",
+      "categories": [
+        "news",
+        "project update",
+        "telecommunications",
+        "space industry"
+      ],
+      "keywords": [
+        "Motorola",
+        "Lockheed",
+        "Iridium project",
+        "satellites",
+        "telecommunications",
+        "mobile communication",
+        "satellite launches",
+        "global coverage"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-periodic-comet-hartley-1-1991j",
+      "documentId": "eph91-05",
+      "title": "Periodic Comet Hartley 1 (1991j):",
+      "summary": "Comet Hartley 1 (1991j), originally discovered in 1985 by Malcolm Hartley and later observed by Shoemaker and Levy, is making its first return after a 1988 Jupiter encounter altered its orbit to a 6.0-year period, maintaining a magnitude of 17. The article also announces an event requiring reservations for a limited 30 free admissions, with organizer Jim Van Nuland stressing the importance of commitment due to prior issues with last-minute cancellations.",
+      "categories": [
+        "Astronomical Object Description",
+        "Comet News",
+        "Event Announcement",
+        "Observing Information"
+      ],
+      "keywords": [
+        "Comet Hartley 1",
+        "1991j",
+        "Comet discovery",
+        "Orbital mechanics",
+        "Jupiter encounter",
+        "Magnitude 17",
+        "Carolyn Shoemaker",
+        "Eugene Shoemaker",
+        "David Levy",
+        "Malcolm Hartley",
+        "Astronomical event",
+        "Reservations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-may-starry-nights",
+      "documentId": "eph91-05",
+      "title": "MAY STARRY NIGHTS",
+      "summary": "The article details several astronomical events for May, encouraging observers to use telescopes as \"timemachines.\" On May 19th, Jupiter and its moons will pass M44 (the Beehive Cluster) with the First Quarter Moon nearby, offering a beautiful binocular view. The same evening presents an opportunity to observe asteroid (9) Metis near star 79 Canceri around midnight. Additionally, May 11th is highlighted for Jovian events, including the egress of Io's shadow and the Great Red Spot on the Central Meridian.",
+      "categories": [
+        "observing guide",
+        "celestial events",
+        "astronomy news"
+      ],
+      "keywords": [
+        "May 19th",
+        "Jupiter",
+        "M44",
+        "Beehive Star Cluster",
+        "Cancer",
+        "First Quarter Moon",
+        "Asteroid (9) Metis",
+        "79 Canceri",
+        "May 11th",
+        "Io",
+        "Great Red Spot",
+        "egress",
+        "Central Meridian",
+        "binoculars",
+        "telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-space-program-update",
+      "documentId": "eph91-05",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This update covers recent events in the space program, highlighting the successful deployment of the Gamma Ray Observatory (GRO) by the Atlantis shuttle and a crucial spacewalk that saved the GRO mission by deploying its high gain antenna. It also reports on the first 1991 shuttle mission's success, which included a biological experiment for drug research. Additionally, the article notes the discovery of cracks in shuttle door hinges on Discovery and Columbia, causing delays for their upcoming missions.",
+      "categories": [
+        "Space Missions",
+        "Astronomy",
+        "Space Exploration",
+        "Shuttle Operations",
+        "Aerospace News",
+        "Technical Issues"
+      ],
+      "keywords": [
+        "Gamma Ray Observatory",
+        "GRO",
+        "Atlantis",
+        "Spacewalk",
+        "NASA",
+        "Space Shuttle",
+        "Discovery",
+        "Columbia",
+        "Antenna",
+        "Mission Delay",
+        "Quasars",
+        "Supernovae",
+        "Black Holes",
+        "Space Station Freemdorn",
+        "Biological Processing Experiment",
+        "STS-39",
+        "STS-40"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-05-periodic-comet-mrkos-1991k",
+      "documentId": "eph91-05",
+      "title": "Periodic Comet Mrkos (1991k)",
+      "summary": "Antonin Mrkos of Czechoslovakia discovered his thirteenth comet, designated 1991k, on March 16. This periodic comet orbits the Sun every 5.8 years and reached its closest point to the Sun last month at 1.41 AU, but is not expected to brighten beyond magnitude 13.",
+      "categories": [
+        "Comet Discovery",
+        "Observational Astronomy",
+        "News",
+        "Solar System"
+      ],
+      "keywords": [
+        "Periodic Comet Mrkos",
+        "1991k",
+        "Antonin Mrkos",
+        "Comet Discovery",
+        "Orbit",
+        "Magnitude",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-comet-helin-lawrence-1991i",
+      "documentId": "eph91-05",
+      "title": "Comet Helin-Lawrence (1991i)",
+      "summary": "Comet Helin-Lawrence (1991i) was discovered on March 17 by Eleanor Helin, Kenneth Lawrence, and P. Rose using the 18\" Palomar Schmidt telescope. Currently at magnitude 14, it is expected to be visible in amateur telescopes when it reaches its closest approach to the Sun next February.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Helin-Lawrence (1991i)",
+        "Eleanor Helin",
+        "Kenneth Lawrence",
+        "P. Rose",
+        "Palomar Schmidt",
+        "Comet discovery",
+        "Comet observation",
+        "Magnitude 14",
+        "Amateur telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-periodic-comet-giacobini-zinner-1991m",
+      "documentId": "eph91-05",
+      "title": "Periodic Comet Giacobini-Zinner (1991m)",
+      "summary": "K. Meech and W. Weller have successfully recovered Periodic Comet Giacobini-Zinner (1991m) at a faint magnitude 22. The comet is still a year away from its perihelion, which will take place while it is positioned behind the Sun. Consequently, it is expected to remain faint and challenging to observe for the foreseeable future.",
+      "categories": [
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "Comet Giacobini-Zinner",
+        "comet recovery",
+        "magnitude 22",
+        "perihelion",
+        "K. Meech",
+        "W. Weller"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-eclipse-notes",
+      "documentId": "eph91-05",
+      "title": "Eclipse Notes:",
+      "summary": "This article, titled \"Eclipse Notes,\" discusses the low probability of a Kreutz Sun-grazing comet being near the Sun during the upcoming July 11 eclipse. It outlines that a table would provide predicted locations for such comets on July 11.8 UT, factoring in varying perihelion dates and assuming an absolute magnitude of 10 for potential observation preparation.",
+      "categories": [
+        "Eclipse",
+        "Comets",
+        "Observational Planning",
+        "Astronomy",
+        "Technical Notes"
+      ],
+      "keywords": [
+        "Eclipse",
+        "Comet",
+        "Kreutz Sun-grazing group",
+        "Sun-grazing orbit",
+        "July 11",
+        "Perihelion",
+        "Absolute magnitude",
+        "Celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-astro-ads",
+      "documentId": "eph91-05",
+      "title": "ASTRO ADS",
+      "summary": "The \"ASTRO ADS\" section serves as a free classifieds platform for non-commercial advertisers to sell astronomy-related products and services. It features numerous listings for used astronomical equipment, including various types of telescopes, mounts, eyepieces, and filters, alongside items like '91 eclipse cruise tickets and a complete collection of Astronomy Magazine.",
+      "categories": [
+        "Classifieds",
+        "Used Astronomical Equipment",
+        "Astronomy Sales",
+        "Observing Gear"
+      ],
+      "keywords": [
+        "Astronomy classifieds",
+        "Used telescopes",
+        "Telescope accessories",
+        "Eyepieces",
+        "Filters",
+        "Mounts",
+        "Celestron",
+        "Dobsonian",
+        "Refractor",
+        "Cassegrain",
+        "Binoculars",
+        "Eclipse cruise",
+        "Astronomy Magazine",
+        "Amateur astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-the-case-of-the-missing-masthead",
+      "documentId": "eph91-05",
+      "title": "THE CASE OF THE MISSING MASTHEAD",
+      "summary": "J. Gleason thanks members for submitting masthead designs for the club newsletter but clarifies that the goal is to completely replace the existing observatory icon, not just upgrade it. They encourage new submissions featuring diverse astronomical objects like galaxies, planets, stars, and telescopes, urging more creative input from Silicon Valley artists.",
+      "categories": [
+        "Club Announcement",
+        "Design Contest",
+        "Newsletter Update"
+      ],
+      "keywords": [
+        "Masthead design",
+        "Newsletter",
+        "Logo contest",
+        "Astronomical objects",
+        "Club activities",
+        "J. Gleason",
+        "Observatory icon",
+        "SJAA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-05-meteor-notes",
+      "documentId": "eph91-05",
+      "title": "METEOR NOTES",
+      "summary": "This article, 'METEOR NOTES' by Jim Richardson, details the challenges and potential rewards of observing the Eta Aquarid meteor shower, which peaks around May 4th. Observers face difficulties due to its variable peak timing, low radiant angle, and possible moonlight. Despite these hurdles, successful observers with a clear south-east horizon can witness swift, often-trained, yellow/white meteors, including rare, long-path meteors just before dawn. The document also lists officers and board members, along with ephemeris contributors.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Meteor Shower",
+        "Organization Information"
+      ],
+      "keywords": [
+        "Eta Aquarids",
+        "Meteor Shower",
+        "Observation",
+        "Radiant",
+        "Meteors",
+        "Astronomy",
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Jim Richardson",
+        "May 4"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-comet-ephemeris",
+      "documentId": "eph91-05",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document presents an ephemeris for a comet, detailing its predicted celestial coordinates (Right Ascension and Declination), elongation from the Sun, and estimated magnitude. The data covers daily and half-daily intervals from July 4th to July 18th, providing crucial information for tracking and observing the comet.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Ephemeris",
+        "Observational Data",
+        "Predictive Data"
+      ],
+      "keywords": [
+        "Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Celestial Coordinates",
+        "Observation Planning",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-this-month-s-meteors",
+      "documentId": "eph91-05",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article presents a tabular guide to various meteor showers observable during the specified period (April-June), including the Alpha Bootids, Phi Bootids, Alpha Scorpiids, Eta Aquarids, and Tau Herculids. For each shower, it details key information such as active dates, peak dates, maximum visual zenithal rates, radiant points, velocities, and specific observational notes like meteor color or speed.",
+      "categories": [
+        "astronomy",
+        "meteor showers",
+        "observing guide",
+        "celestial events",
+        "ephemeris"
+      ],
+      "keywords": [
+        "meteors",
+        "meteor showers",
+        "Eta Aquarids",
+        "Alpha Bootids",
+        "Phi Bootids",
+        "Alpha Scorpiids",
+        "Tau Herculids",
+        "radiant point",
+        "zenithal rate",
+        "observing",
+        "astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-05-auction-xi",
+      "documentId": "eph91-05",
+      "title": "AUCTION XI",
+      "summary": "The eleventh annual Bay Area Astronomical Auction is scheduled for May 4, welcoming astronomical and telescope-making items. Participants can pre-register by mailing a form with a SASE, noting minimum bids and whether items are outright donations or subject to a 10% commission. The event will also feature an afternoon Swap Meet for smaller items and a Silent Auction for larger items like complete telescopes.",
+      "categories": [
+        "Event Announcement",
+        "Auction Details",
+        "Community Event",
+        "How-To Guide"
+      ],
+      "keywords": [
+        "Auction",
+        "Astronomy",
+        "Bay Area",
+        "Telescope",
+        "Swap Meet",
+        "Silent Auction",
+        "Registration",
+        "Donations",
+        "May 4"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-directions-to-the-milpitas-library",
+      "documentId": "eph91-05",
+      "title": "DIRECTIONS TO THE MILPITAS LIBRARY",
+      "summary": "This document provides detailed driving directions to the Milpitas Library, guiding visitors via Highway 17 (880) and Highway 237 East. It also announces a community event at the library, featuring a Swap Meet from 2:00 pm to 5:00 pm and an auction starting at 6:00 pm, with a requested $1 donation for auction registration and available refreshments.",
+      "categories": [
+        "Directions",
+        "Event Announcement",
+        "Community Event"
+      ],
+      "keywords": [
+        "Milpitas Library",
+        "Directions",
+        "Swap Meet",
+        "Auction",
+        "Milpitas",
+        "Highway 17",
+        "Highway 880",
+        "Highway 237",
+        "Refreshments",
+        "Donation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-sjaa-auction-pre-registration",
+      "documentId": "eph91-05",
+      "title": "SJAA AUCTION PRE-REGISTRATION",
+      "summary": "This document is a pre-registration form for an auction hosted by the SJAA (San Jose Astronomical Association). It requests personal contact information and provides a table for participants to list items, their quantity, minimum bid, and whether they are a donation, allowing for pre-registration of auction items.",
+      "categories": [
+        "Events",
+        "Forms",
+        "Fundraising",
+        "Community"
+      ],
+      "keywords": [
+        "SJAA",
+        "auction",
+        "pre-registration",
+        "form",
+        "donation",
+        "bidding",
+        "fundraiser"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-05-san-jose-astronomical-association-membership-application",
+      "documentId": "eph91-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document introduces the membership application for the San Jose Astronomical Association (SJAA) and provides details about their monthly publication, \"EPHEMERIS.\" It encourages members to submit typed articles to the editor, John P. Gleason, by the 12th of the preceding month. Contact addresses for both the SJAA and the editor are included.",
+      "categories": [
+        "Membership",
+        "Club Information",
+        "Publication Guidelines",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership Application",
+        "EPHEMERIS",
+        "Article Submission",
+        "Publication",
+        "Editor",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-05-membership-only-10-membership-s-t-28-junior-under-18-18",
+      "documentId": "eph91-05",
+      "title": "Membership only: $10 Membership/S&T: $28 Junior (under 18): $18",
+      "summary": "This document serves as a membership application form for the San Jose Astronomical Association (SJAA), detailing different membership tiers and their costs, contact information for submission, and payment instructions. It also includes an announcement for the 11th Annual Bay Area Astronomical Auction on May 4th.",
+      "categories": [
+        "membership application",
+        "event announcement",
+        "organizational communication",
+        "financial information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership",
+        "dues",
+        "astronomy",
+        "Bay Area Astronomical Auction",
+        "Milpitas",
+        "non-profit",
+        "renewal",
+        "junior membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9105/Eph91_05.pdf",
+      "txtPath": "9105/Eph91_05.md"
+    }
+  ]
+}

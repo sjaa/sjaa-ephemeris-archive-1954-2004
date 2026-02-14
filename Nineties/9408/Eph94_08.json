@@ -1,0 +1,506 @@
+{
+  "articles": [
+    {
+      "id": "eph94-08-sjaa-ephemeris",
+      "documentId": "eph94-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the August 1994 issue (Volume 5, Number 8) of the \"SJAA EPHEMERIS.\" It serves as the official publication of the San Jose Astronomical Association.",
+      "categories": [
+        "Club Publication",
+        "Astronomy News",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "August 1994",
+        "Astronomy Club",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-the-eyepiece",
+      "documentId": "eph94-08",
+      "title": "The Eyepiece",
+      "summary": "The article describes a well-attended star party at Fremont Peak on July 9th, noting the excellent viewing conditions and the large number of participants. It highlights recent improvements at Fremont Peak State Park, such as a new fire pit and a Camp Host program, thanking Rick Morales and the State Park system. The document also provides a comprehensive list of upcoming astronomical events, star parties, picnics, and meetings scheduled for August and September.",
+      "categories": [
+        "Observing Report",
+        "Event Announcements",
+        "Club News",
+        "Park Information"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star Party",
+        "Coulter Camp",
+        "Rick Morales",
+        "Camp Host program",
+        "Observational Astronomy",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Houge Park",
+        "H. Coe SP",
+        "Grant Ranch County Park",
+        "AANC",
+        "M13",
+        "Jupiter",
+        "Sagittarius",
+        "Scorpius",
+        "Challenger 30\" telescope",
+        "C-11 telescope",
+        "Milpitas Library",
+        "Perseid meteor photos"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-08-speaker-mike-rushford-tri-valley-astronomers",
+      "documentId": "eph94-08",
+      "title": "Speaker: Mike Rushford, Tri-Valley Astronomers",
+      "summary": "Mike Rushford developed a sophisticated, computer-controlled H-alpha solar telescope and weather station system, largely built from surplus parts and custom programming. Housed in a remote-accessible observatory, the system allows users worldwide to control the telescope, capture high-resolution solar images, and observe phenomena like solar flares via a Bulletin-Board System. A unique image selection method using GIF compression ensures the sharpest possible views of the Sun.",
+      "categories": [
+        "Technical Project",
+        "Amateur Astronomy",
+        "Instrumentation",
+        "Remote Control",
+        "Solar Observation",
+        "DIY/Homemade"
+      ],
+      "keywords": [
+        "Mike Rushford",
+        "Tri-Valley Astronomers",
+        "Computer-controlled telescope",
+        "Solar telescope",
+        "H-alpha filter",
+        "Weather station",
+        "Remote access",
+        "Bulletin-Board System (BBS)",
+        "CCD camera",
+        "Image processing",
+        "GIF compression",
+        "Solar flares",
+        "Roll-off observatory",
+        "QuickBasic",
+        "Amateur astronomy projects"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-08-join-the-perseid-photography",
+      "documentId": "eph94-08",
+      "title": "Join the Perseid photography",
+      "summary": "This article is a call for volunteers to participate in a photographic study of the upcoming Perseid meteor shower in August 1994. Peter Jenniskens of NASA/Ames is leading the project, seeking an organizer in California to coordinate North American participation, which is favored this year after a successful European effort in 1993.",
+      "categories": [
+        "Call for Participation",
+        "Astronomy",
+        "Events",
+        "Observing Campaigns",
+        "Volunteer Opportunity"
+      ],
+      "keywords": [
+        "Perseid meteor shower",
+        "photography",
+        "meteor storm",
+        "Peter Jenniskens",
+        "NASA/Ames",
+        "astronomy study",
+        "volunteers",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-photographing-the-perseids-on-august-11-12-1994",
+      "documentId": "eph94-08",
+      "title": "Photographing the Perseids on August 11/12 1994.",
+      "summary": "This article outlines plans for observing and photographing the 1994 Perseid meteor shower, anticipated to be a richer display due to the parent Comet P/Swift-Tuttle. It details a multi-station photography project aimed at capturing meteor trajectories and orbits, inviting amateur astronomers to participate by setting up cameras and accurately recording observations across California. Instructions for equipment, precise timing, and camera aiming are provided, alongside expectations for peak rates and optimal viewing times on August 11/12.",
+      "categories": [
+        "Astronomy",
+        "Observing Guides",
+        "Meteor Showers",
+        "Amateur Astronomy",
+        "Scientific Projects",
+        "Events",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Perseids",
+        "Meteor shower",
+        "Comet P/Swift-Tuttle",
+        "Meteor photography",
+        "Multistation photography",
+        "Amateur astronomy",
+        "1994 Perseids",
+        "Meteor outburst",
+        "Trajectory",
+        "Orbit",
+        "Time exposure",
+        "August 11/12"
+      ],
+      "pageStart": 3,
+      "pageEnd": 500
+    },
+    {
+      "id": "eph94-08-continued-from-pg-3",
+      "documentId": "eph94-08",
+      "title": "Continued from pg 3",
+      "summary": "This article outlines the post-event procedure for a meteor photography project. Participants will analyze negatives to identify and document photographed meteors, which will then undergo astrometric measurement to calculate their atmospheric position, velocity, and orbital path. Successful collaborators will receive a detailed report, and interested individuals are encouraged to contact Dr. Peter Jenniskens for participation.",
+      "categories": [
+        "Meteor Research",
+        "Observing Procedures",
+        "Citizen Science",
+        "Project Methodology"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Photography",
+        "Astrometry",
+        "Meteor Orbit",
+        "Data Analysis",
+        "Observation Documentation",
+        "Peter Jenniskens",
+        "Collaboration"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-08-fremont-peak",
+      "documentId": "eph94-08",
+      "title": "FREMONT PEAK",
+      "summary": "This article describes an observing night at Fremont Peak, attended by about 50 people and 30 telescopes. Visitors from Poland were particularly impressed by the visibility of southern constellations, not seen from their home latitude, and the ease of use of a Compustar C-11 telescope. Despite issues with light pollution from passing cars, the event was considered a wonderful night.",
+      "categories": [
+        "observing report",
+        "star party",
+        "community event"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "observing",
+        "constellations",
+        "light pollution",
+        "Compustar C-11",
+        "telescopes",
+        "Poland"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph94-08-ptolemy",
+      "documentId": "eph94-08",
+      "title": "Ptolemy",
+      "summary": "This article explains why ancient Greek astronomers, including Ptolemy, favored circular orbits and epicycles for celestial bodies. It argues against the notion that this preference stemmed from aesthetic or philosophical biases, instead asserting it was based on their understanding of physics, which posited that space was filled with a transparent material organized into concentric spheres. Within this framework, circular motion was the only logical explanation for planetary movement, contrasting sharply with later Newtonian concepts of planets moving through a vacuum under action-at-a-distance.",
+      "categories": [
+        "History of Science",
+        "Astronomy",
+        "Ancient Physics",
+        "Cosmology",
+        "Discussion"
+      ],
+      "keywords": [
+        "Ptolemy",
+        "Greek astronomy",
+        "Circular orbits",
+        "Epicycles",
+        "Ancient physics",
+        "Celestial spheres",
+        "Plato",
+        "Newtonian gravity",
+        "Vacuum",
+        "Action at a distance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-parts-and-accessories-for-amateur-astronomers",
+      "documentId": "eph94-08",
+      "title": "Parts and accessories for amateur Astronomers",
+      "summary": "This document is an advertisement for parts and accessories for amateur astronomers, featuring a Plossl Eyepiece Set and Seasonal Star Charts. It offers discounted prices for 'SJAA' members and appears to be from an August 1994 publication, possibly a newsletter or bulletin, referencing an 'EPHEMERIS' section.",
+      "categories": [
+        "advertisement",
+        "equipment sales",
+        "amateur astronomy",
+        "publication excerpt"
+      ],
+      "keywords": [
+        "eyepieces",
+        "star charts",
+        "astronomy accessories",
+        "amateur astronomers",
+        "discounts",
+        "SJAA",
+        "August 1994"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-08-ephemeris",
+      "documentId": "eph94-08",
+      "title": "EPHEMERIS",
+      "summary": "This article, published in August 1994, provides an ephemeris and preliminary parabolic orbital elements for Comet N-N-Machholz (1994m). It details the comet's observed characteristics, celestial path through various constellations, and projected magnitude for July through September. Additionally, the document includes a calendar of events for the Santa Clara Valley Astronomical Association (SJAA) for the latter half of 1994, listing general meetings, star parties, and observational astronomy classes.",
+      "categories": [
+        "Cometology",
+        "Astronomical Ephemerides",
+        "Observational Astronomy",
+        "Astronomy Club Events"
+      ],
+      "keywords": [
+        "Comet N-N-Machholz (1994m)",
+        "Ephemeris",
+        "Orbital Elements",
+        "Comet Observation",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Constellations",
+        "SJAA Calendar",
+        "Star Party",
+        "Astronomical Events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-08-telescope-loaner-status",
+      "documentId": "eph94-08",
+      "title": "Telescope Loaner Status",
+      "summary": "This document outlines the current status of the SJAA (San Jose Astronomical Association) telescope loaner program. It provides a detailed table listing various telescopes by SJAA number, size, type, current user, and due date, indicating which telescopes are available for loan. Instructions are also included for members interested in borrowing a telescope, directing them to contact Paul Barton to be added to a waiting list.",
+      "categories": [
+        "Membership Services",
+        "Equipment Management",
+        "Astronomy Club Operations",
+        "Program Status"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "SJAA",
+        "Telescopes",
+        "Equipment Availability",
+        "Due Dates",
+        "Amateur Astronomy",
+        "Paul Barton",
+        "Observing Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-astro-ads",
+      "documentId": "eph94-08",
+      "title": "ASTRO ADS",
+      "summary": "The article describes \"ASTRO ADS,\" a free classifieds section for noncommercial advertisers to sell astronomically related products or services. Advertisements must be submitted by the 12th of each month to Bob Madden and will run for approximately three months. Several examples of used astronomical equipment are listed for sale, including various telescopes, mounts, and eyepieces.",
+      "categories": [
+        "Classifieds",
+        "Used Equipment",
+        "Advertisements",
+        "Buying and Selling",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "classifieds",
+        "telescopes",
+        "refractor",
+        "Schmidt Cassegrain",
+        "SCT",
+        "Newtonian",
+        "mounts",
+        "eyepieces",
+        "Celestron",
+        "Meade",
+        "Astro Physics",
+        "Teleview",
+        "Orion",
+        "astronomy products",
+        "astronomy services"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-08-august-1994",
+      "documentId": "eph94-08",
+      "title": "August 1994",
+      "summary": "This document presents an astronomical almanac for August 1994, providing comprehensive ephemeris data for celestial observation. It details lunar phases, rise/transit/set times for the Moon and five major planets (Mercury, Venus, Mars, Jupiter, Saturn), and information for the Sun. Additionally, it includes astronomical twilight timings, sidereal time, and specifies the darkest observing period for the month.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Almanac",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "August 1994",
+        "Lunar Phases",
+        "Planetary Ephemeris",
+        "Astronomical Twilight",
+        "Observing Conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-times-and-dates-are-pacific-daylight",
+      "documentId": "eph94-08",
+      "title": "TIMES AND DATES ARE PACIFIC DAYLIGHT",
+      "summary": "This document specifies that all listed times and dates are in Pacific Daylight Time (PDT). It further notes that planet distance and magnitude values, particularly for the 17th of the month, are derived from 'Astronomy with Your Personal Computer' by Peter Duffet-Smith and 'MacEphem' by Elwood Charles Downey.",
+      "categories": [
+        "Technical",
+        "Reference",
+        "Methodology"
+      ],
+      "keywords": [
+        "Pacific Daylight Time",
+        "PDT",
+        "Time zones",
+        "Planet distance",
+        "Magnitude",
+        "Astronomy software",
+        "Data derivation",
+        "Peter Duffet-Smith",
+        "MacEphem"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-offices-and-board-of-directors",
+      "documentId": "eph94-08",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the \"Offices and Board of Directors\" for an organization. It details the names and phone numbers for various leadership positions, including President, Vice President, Secretary, Treasurer, and multiple Directors.",
+      "categories": [
+        "Organizational Information",
+        "Contact Information",
+        "Leadership Directory"
+      ],
+      "keywords": [
+        "Offices",
+        "Board of Directors",
+        "Leadership",
+        "Contact details",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-ephemeris-contributors",
+      "documentId": "eph94-08",
+      "title": "Ephemeris Contributors",
+      "summary": "The document, titled \"Ephemeris Contributors,\" lists the names and contact numbers of individuals contributing to a project or publication named \"Ephemeris.\" It details specific contributors, an editor, and distribution personnel, providing their names and phone numbers.",
+      "categories": [
+        "Staff Directory",
+        "Contact Information",
+        "Publication Details"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Distribution",
+        "Contact list",
+        "Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-comet-comments",
+      "documentId": "eph94-08",
+      "title": "Comet Comments",
+      "summary": "This article provides an update on the current state of observable comets, noting that only three are presently visible, alongside one recent recovery and two new discoveries. It details Periodic Comet Borrelly's recovery and anticipated brightening, Comet Nakamura-Nishimura-Machholtz's multiple independent discoveries, and Comet McNaught-Hartley's photographic discovery. Information on their current magnitudes, locations, and discovery circumstances is included.",
+      "categories": [
+        "observing reports",
+        "astronomy news",
+        "comet discoveries",
+        "comet recovery"
+      ],
+      "keywords": [
+        "comets",
+        "observing",
+        "discovery",
+        "recovery",
+        "magnitude",
+        "Periodic Comet Borrelly",
+        "Comet Nakamura-Nishimura-Machholtz",
+        "Comet McNaught-Hartley"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-08-ephemerides",
+      "documentId": "eph94-08",
+      "title": "EPHEMERIDES",
+      "summary": "This article presents detailed ephemerides for Periodic Comet Borrelly (1994i) and Periodic Comet Tempel 1, outlining their predicted positions (Right Ascension, Declination), elongation from the Sun, sky visibility, and estimated visual magnitudes. Covering dates from July through September, these tables serve as an essential guide for astronomers and observers tracking these comets, published as part of the monthly \"EPHEMERIS\" by the San Jose Astronomical Association.",
+      "categories": [
+        "Ephemerides",
+        "Comets",
+        "Observational Astronomy",
+        "Astronomical Data",
+        "Publication"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Borrelly (1994i)",
+        "Comet Tempel 1",
+        "Astronomical Data",
+        "Right Ascension",
+        "Declination",
+        "Visual Magnitude",
+        "Cometary Tracking",
+        "Observing Guide"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-08-san-jose-astronomical-association-membership",
+      "documentId": "eph94-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document serves as a membership application and renewal form for the San Jose Astronomical Association (SJAA), detailing different membership types and their associated costs, including options for 'Membership Only,' 'Membership/S&T,' and 'Junior' memberships. It provides instructions for submission, contact information for the treasurer, and general details about the organization, including its non-profit status and a 24-hour information hotline. The form is from August 1994, as indicated by the footer.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Application Form",
+        "Financial",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Renewal",
+        "Dues",
+        "Astronomy Club",
+        "San Jose",
+        "Sky & Telescope",
+        "Non-profit",
+        "Contact Information",
+        "August 1994"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9408/Eph94_08.pdf",
+      "txtPath": "9408/Eph94_08.md"
+    }
+  ]
+}

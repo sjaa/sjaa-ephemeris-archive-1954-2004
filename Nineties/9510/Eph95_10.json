@@ -1,0 +1,645 @@
+{
+  "articles": [
+    {
+      "id": "eph95-10-sjaa-ephemeris",
+      "documentId": "eph95-10",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the October 1995 edition (Volume 6, Number 10) of the SJAA Ephemeris. It serves as the official publication of the San Jose Astronomical Association, indicating a regular bulletin for its members.",
+      "categories": [
+        "official publication",
+        "newsletter",
+        "historical document",
+        "astronomy club news"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "October 1995",
+        "astronomy club",
+        "publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-the-eyepiece",
+      "documentId": "eph95-10",
+      "title": "The Eyepiece",
+      "summary": "This article from \"The Eyepiece\" provides updates from the San Jose Astronomical Association (SJAA), including a successful public star party turnout and upcoming event schedules for October through December, featuring general meetings, observational classes, and numerous star parties. It also highlights member news, such as Albert Chen's admission to Cornell as an astronomy major and Bob Garfinkle's publishing success, while noting the illness of former Celestron representative Mark Coco and the cessation of ASTRO ADS due to postal regulations.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Member Achievements",
+        "Public Outreach",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star Party",
+        "Public Star Party",
+        "Houge Park",
+        "Fremont Peak",
+        "Observational Astronomy",
+        "General Meeting",
+        "Founders Supper",
+        "Stellafane",
+        "Mark Coco",
+        "Bob Garfinkle",
+        "Star Hopping",
+        "Lunar Observing",
+        "Cornell University",
+        "Albert Chen",
+        "Loaner Scope Program",
+        "Astronomy Magazine",
+        "Sky and Telescope",
+        "Ephemeris"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-10-by-ernie-piini",
+      "documentId": "eph95-10",
+      "title": "By Ernie Piini",
+      "summary": "Ernie Piini recounts his visit to the 60th Stellafane convention in July 1995, a revered gathering for amateur telescope makers in Vermont founded by Russell W. Porter. He describes the convention activities, including telescope judging, visiting Porter's original clubhouse, and attending programs, alongside side trips to historical astronomical sites like Hartness House and a personal observatory, concluding with a stop at the Christa McAuliffe Planetarium and Mystery Hill.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "History",
+        "Travelogue"
+      ],
+      "keywords": [
+        "Stellafane",
+        "Amateur Telescope Making",
+        "Russell W. Porter",
+        "Convention",
+        "Astronomy",
+        "Vermont",
+        "Hartness House",
+        "John Dobson",
+        "Dobsonian Telescope",
+        "Christa McAuliffe Planetarium",
+        "America's Stonehenge",
+        "1995"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-10-announcement-of-mark-coco-fund-by-tom-glinos",
+      "documentId": "eph95-10",
+      "title": "Announcement of Mark Coco Fund by Tom Glinos",
+      "summary": "Tom Glinos announced the creation of the Mark Coco Fund to raise money for experimental treatments for Mark Coco, a respected amateur astronomer, writer, and former Celestron employee who is battling a malignant brain tumor. The article provides details on how to contribute to the fund through St. Andrews Presbyterian Church and includes a heartfelt biography of Coco, highlighting his lifelong passion for astronomy, his career, family, and his ongoing bravery in the face of his illness.",
+      "categories": [
+        "News",
+        "Community Support",
+        "Fundraising",
+        "Amateur Astronomy",
+        "Biography"
+      ],
+      "keywords": [
+        "Mark Coco",
+        "fundraising",
+        "brain tumor",
+        "amateur astronomy",
+        "Celestron",
+        "community support",
+        "David Levy",
+        "experimental treatments",
+        "Star Trails"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-10-forty-years-ago-this-month",
+      "documentId": "eph95-10",
+      "title": "Forty Years Ago this month",
+      "summary": "This article recounts a meeting held forty years ago at San Jose State, which featured several short talks. Presentations included a discussion on the constellation Perseus, problems related to glass expansion in telescopes (comparing plate and Pyrex), and methods for telescope collimation. The meeting concluded with a lively question-and-answer session covering various astronomy topics such as telescopes, eyepieces, and mountings.",
+      "categories": [
+        "Meeting Minutes",
+        "Historical Event",
+        "Technical Discussion",
+        "Observing Tips"
+      ],
+      "keywords": [
+        "Meeting",
+        "San Jose State",
+        "Perseus",
+        "Constellation",
+        "Glass expansion",
+        "Pyrex",
+        "Collimation",
+        "Telescopes",
+        "Eyepieces",
+        "Mountings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-working-under-the-master",
+      "documentId": "eph95-10",
+      "title": "Working under the master",
+      "summary": "Jim Hodgers brought his vintage 10-inch F5 Coulter mirror to Master Optician Bob Goff for inspection and correction. Testing revealed significant flaws, including poor centering of the collimation spot, an uncorrected spherical center, and a turned-down outer edge, resulting in a 4-wave mirror. Over approximately 8 hours, Jim, under Bob's guidance, successfully refigured the mirror to significantly improve its quality to about 1/8 wave from edge to 2.5 inches from the center, despite running out of time for a final sub-diameter lap correction.",
+      "categories": [
+        "Mirror Making",
+        "Telescope Optics",
+        "Observing Reports",
+        "Technical",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "mirror refiguring",
+        "Bob Goff",
+        "Master Optician",
+        "Coulter mirror",
+        "Newtonian telescope",
+        "optical testing",
+        "collimation",
+        "spherical aberration",
+        "turned down edge",
+        "wavefront error",
+        "lap correction",
+        "telescope maintenance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-resources",
+      "documentId": "eph95-10",
+      "title": "Resources",
+      "summary": "The article emphasizes the crucial need for experienced amateur astronomers to serve as 'resource persons' for new members, who often have numerous questions about telescopes and observing. The author shares personal experiences of receiving invaluable guidance and providing help to others, highlighting the impact of mentorship within the astronomy community. It serves as a call to action for members to share their expertise in areas like observing, telescope making, and astrophotography.",
+      "categories": [
+        "Community Engagement",
+        "Mentorship",
+        "Amateur Astronomy",
+        "Membership Resources"
+      ],
+      "keywords": [
+        "Amateur astronomy",
+        "Mentorship",
+        "New members",
+        "Resource person",
+        "Telescopes",
+        "Observing",
+        "Star parties",
+        "Polar alignment",
+        "CCD imagery",
+        "Community"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-10-directions-to-hogue-park",
+      "documentId": "eph95-10",
+      "title": "Directions to Hogue Park",
+      "summary": "This document provides detailed driving directions to Hogue Park, the location for various astronomical events including General Meetings, Observational Astronomy classes, and public star parties. It outlines different routes from Highways 17 and 85, and mentions the timings and inclusive nature of these events, welcoming both members and non-members.",
+      "categories": [
+        "Directions",
+        "Event Information",
+        "Astronomy Club",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Hogue Park",
+        "directions",
+        "general meetings",
+        "observational astronomy class",
+        "star party",
+        "telescope",
+        "astronomy",
+        "night sky",
+        "driving instructions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-december-speaker",
+      "documentId": "eph95-10",
+      "title": "December Speaker",
+      "summary": "Doug Ferrell has arranged for Dr. Christopher P. McKay from NASA Ames Research Center to be the December speaker. Dr. McKay will present on \"From Antarctica to Mars, the search for life,\" focusing on the ongoing quest for extraterrestrial life.",
+      "categories": [
+        "Events",
+        "Lectures",
+        "Science",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "December Speaker",
+        "Dr. Christopher P. McKay",
+        "NASA Ames Research Center",
+        "Space Science",
+        "Antarctica",
+        "Mars",
+        "Search for Life",
+        "Astrobiology"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-notice-notice-notice",
+      "documentId": "eph95-10",
+      "title": "NOTICE  NOTICE  NOTICE",
+      "summary": "# NOTICE * NOTICE * NOTICE\n\nWe have been advised by Sky And Telescope that membership subscription (Club rate) has increased $4. Please note the increase on the application Pg 8.\n\n---",
+      "categories": [
+        "uncategorized"
+      ],
+      "keywords": [],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-10-periodical-publication-statement",
+      "documentId": "eph95-10",
+      "title": "Periodical Publication Statement",
+      "summary": "This document is a periodical publication statement for \"The SJAA Ephemeris,\" the monthly newsletter of the San Jose Astronomical Association. It is published 12 times a year, from January through December, and is included as part of membership benefits. The newsletter is also distributed to other astronomy clubs, publishers, and selected individuals.",
+      "categories": [
+        "Publication Information",
+        "Organizational Information",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "monthly publication",
+        "membership",
+        "astronomy clubs",
+        "publication statement"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-10-the-positions-of-comet-hale-bopp-through-1997",
+      "documentId": "eph95-10",
+      "title": "THE POSITIONS OF COMET HALE-BOPP THROUGH 1997",
+      "summary": "This document presents detailed ephemeris data for Comet Hale-Bopp (1994 Q1) from October 1995 through early 1998, providing its celestial coordinates, distances from the Sun and Earth, elongation, sky visibility (evening/morning), and estimated visual magnitude. Additionally, it includes a calendar of events for the Santa Clara Valley Amateur Astronomers (SJAA) from late 1995 to early 1996, listing general meetings, star parties, and observational astronomy classes.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observational Astronomy",
+        "Astronomy Club Events",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Comet Hale-Bopp",
+        "Ephemeris",
+        "Astronomical Data",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Star Party",
+        "SJAA",
+        "Astronomy Class"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-10-resources-continued-from-page-4",
+      "documentId": "eph95-10",
+      "title": "Resources (continued from page 4)",
+      "summary": "This brief segment, part of a larger 'Resources' section, encourages amateur astronomers to help others engage with the hobby, potentially fostering new enthusiasts. It specifically asks for input on different approaches, including radio astronomy, and provides a contact number for thoughts. The piece emphasizes the value of mentorship and community building within the astronomy hobby.",
+      "categories": [
+        "Amateur Astronomy",
+        "Community & Outreach",
+        "Discussion & Opinion",
+        "Resources"
+      ],
+      "keywords": [
+        "Amateur astronomy",
+        "Radio astronomy",
+        "Mentorship",
+        "Outreach",
+        "Hobby engagement",
+        "Community building"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-10-computer-filter-sources",
+      "documentId": "eph95-10",
+      "title": "Computer Filter Sources",
+      "summary": "Many astronomers use computers during observing, but their bright screens can impair night vision. The article suggests using red Rosco gels, available at professional photography stores for about $5, as an inexpensive computer screen filter to preserve dark adaptation. It also notes that Rosco offers free swatch books useful for creating eyepiece filters and includes wavelength charts.",
+      "categories": [
+        "Observing Tips",
+        "Equipment",
+        "Practical Advice",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Computer screen filter",
+        "Red light",
+        "Dark adaptation",
+        "Rosco gel",
+        "Observing",
+        "Astronomy equipment",
+        "Eyepiece filters"
+      ],
+      "pageStart": 1995,
+      "pageEnd": 1995
+    },
+    {
+      "id": "eph95-10-telescope-loaner-status",
+      "documentId": "eph95-10",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides an update on a telescope loaner program, detailing the current status of various telescopes including which are available, which are on loan, and their respective due dates. It also includes instructions for members interested in borrowing a telescope, contact information for the program coordinator, and notes a waitlist for specific equipment.",
+      "categories": [
+        "Club Resources",
+        "Equipment Management",
+        "Loaner Program",
+        "Bulletin/Newsletter Content"
+      ],
+      "keywords": [
+        "Telescope loaner",
+        "Equipment availability",
+        "Astronomy club",
+        "Loan program",
+        "Due dates",
+        "Solar telescope",
+        "Waitlist",
+        "October 1995"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-10-lunar-phase-date-rise-trans-set",
+      "documentId": "eph95-10",
+      "title": "Lunar Phase Date Rise Trans Set",
+      "summary": "This document provides a schedule of major lunar phases for a given period, including the time of each phase, its date, and the corresponding rise, transit, and set times. It lists the First Quarter (FQ), Full Moon (FM), Last Quarter (LQ), and New Moon (NM) with these specific astronomical data points.",
+      "categories": [
+        "Lunar Calendar",
+        "Astronomical Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "lunar phases",
+        "moon",
+        "full moon",
+        "new moon",
+        "first quarter",
+        "last quarter",
+        "rise time",
+        "set time",
+        "transit time",
+        "astronomy calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-nearer-planets",
+      "documentId": "eph95-10",
+      "title": "Nearer Planets",
+      "summary": "This article provides an astronomical guide for observing the \"Nearer Planets\" (Mercury, Venus, Mars, Jupiter, and Saturn). For three specific dates (likely the 7th, 17th, and 27th of a month), it lists potential observation times, each planet's approximate distance in Astronomical Units, and its apparent visual magnitude. This information aids skywatchers in locating and identifying these celestial bodies.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Magnitude",
+        "Astronomical Unit",
+        "Observation times",
+        "Skywatching",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-sol-star-type-g2v",
+      "documentId": "eph95-10",
+      "title": "SOL Star Type G2V",
+      "summary": "This document, titled \"SOL Star Type G2V,\" refers to our Sun, which is classified as a G2V star. It presents a list of celestial coordinates, specifically Right Ascension (RA) and Declination (Dec), along with other numerical data. These data points likely represent specific positional observations or ephemerides related to the Sun.",
+      "categories": [
+        "Astronomy",
+        "Solar Astronomy",
+        "Stellar Classification",
+        "Observational Data"
+      ],
+      "keywords": [
+        "SOL",
+        "Sun",
+        "G2V star",
+        "Stellar classification",
+        "Right Ascension",
+        "Declination",
+        "Celestial coordinates",
+        "Solar data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-astronomical-twilight-begin-end",
+      "documentId": "eph95-10",
+      "title": "Astronomical Twilight Begin End",
+      "summary": "This document provides a simple table listing specific Julian Dates along with their corresponding start and end times for astronomical twilight. It serves as a concise reference for these particular astronomical events across different dates.",
+      "categories": [
+        "Ephemeris",
+        "Data",
+        "Astronomy",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Twilight Times",
+        "Ephemeris Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-sidereal-time",
+      "documentId": "eph95-10",
+      "title": "Sidereal Time",
+      "summary": "This document provides three specific data points related to Sidereal Time, showing values for 'Transit Right Ascension' and 'Local Midnight' at particular dates and times. It appears to be a log or table of calculated sidereal time values for specific astronomical events.",
+      "categories": [
+        "astronomy",
+        "technical",
+        "observational data",
+        "timekeeping"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right Ascension",
+        "Local Midnight",
+        "astronomical calculations",
+        "time measurement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-darkest-saturday-night-21-oct-1995",
+      "documentId": "eph95-10",
+      "title": "Darkest Saturday Night 21-Oct-1995",
+      "summary": "This document provides specific astronomical timing data for \"Darkest Saturday Night\" on October 21, 1995. It lists the times for sunset, twilight end, moon rise, and dawn begin, all given in Pacific Daylight Time. The information details key transitional periods of light and darkness for that particular date and location.",
+      "categories": [
+        "observing data",
+        "astronomical ephemeris",
+        "timekeeping"
+      ],
+      "keywords": [
+        "Darkest Saturday Night",
+        "October 21, 1995",
+        "Sunset",
+        "Twilight End",
+        "Moon Rise",
+        "Dawn Begin",
+        "Pacific Daylight Time",
+        "astronomical times",
+        "night sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-officers-and-board-of-directors",
+      "documentId": "eph95-10",
+      "title": "Officers and Board of Directors",
+      "summary": "This document provides a directory of an organization's key personnel, including the President, Vice President, Treasurer, Secretary, and Board of Directors, along with their contact phone numbers. It also lists individuals contributing to the ephemeris and the club editor. The content serves as an internal contact list for leadership and contributors.",
+      "categories": [
+        "Organizational",
+        "Contact Information",
+        "Directory",
+        "Administrative",
+        "Personnel"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact List",
+        "Ephemeris Contributors",
+        "Editor",
+        "Personnel Directory",
+        "Club Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-comet-comments",
+      "documentId": "eph95-10",
+      "title": "COMET COMMENTS",
+      "summary": "This article from September 1995 announces the discovery of two new comets: C/1995 O1 (Bradfield), expected to be visible in the northern morning sky, and C/1995 Q2 (Hartley-Drinkwater), currently visible in the southern morning sky. It also provides an update on Comet Hale-Bopp, noting its continued brightening and anticipation of it becoming very bright in late 1996 and early 1997, particularly for Northern Hemisphere observers.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Cometary Astronomy"
+      ],
+      "keywords": [
+        "Comet",
+        "C/1995 O1 (Bradfield)",
+        "C/1995 Q2 (Hartley-Drinkwater)",
+        "Comet Hale-Bopp",
+        "Comet Discovery",
+        "Astronomy",
+        "Sky Observation",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-sp-d-arrest",
+      "documentId": "eph95-10",
+      "title": "SP/d'ARREST",
+      "summary": "This document provides comprehensive astronomical data for comets P/d'ARREST, C/1995 O1 (Bradfield), and 1994 O1 (Hale-Bopp). It details their ephemerides, including positional coordinates (right ascension, declination), elevation, and estimated sky magnitude from September to November 1995. Additionally, it lists key orbital elements such as perihelion date and distance, eccentricity, and orbital period for each comet.",
+      "categories": [
+        "Astronomy",
+        "Cometary Data",
+        "Ephemerides",
+        "Orbital Mechanics",
+        "Observational Aids"
+      ],
+      "keywords": [
+        "Comets",
+        "Ephemerides",
+        "Orbital Elements",
+        "P/d'ARREST",
+        "C/1995 O1 (Bradfield)",
+        "1994 O1 (Hale-Bop)",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Perihelion"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-10-san-jose-astronomical-association-membership",
+      "documentId": "eph95-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association publishes its monthly newsletter, EPHEMERIS, providing contact information for submissions. Members are encouraged to submit typed articles to the editor, Bob Madden, by the 12th of the preceding month, with diskette submissions preferred.",
+      "categories": [
+        "Club Information",
+        "Publication Guidelines",
+        "Membership Communication"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "membership",
+        "article submission",
+        "newsletter",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-10-san-jose-astronomical-association-membership",
+      "documentId": "eph95-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options for the San Jose Astronomical Association (SJAA), including different membership types (standard, with Sky & Telescope, junior) and their respective costs. It provides a form for new or renewing members to fill out with their personal details and instructions on how to submit the form and payment to the treasurer. Contact information for the SJAA, including a mailing address and a 24-hour information hotline, is also provided.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Organizational Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Junior Membership",
+        "Sky & Telescope",
+        "Membership Renewal",
+        "Membership Application",
+        "Contact Information",
+        "October 1995"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9510/Eph95_10.pdf",
+      "txtPath": "9510/Eph95_10.md"
+    }
+  ]
+}

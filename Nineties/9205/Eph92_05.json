@@ -1,0 +1,579 @@
+{
+  "articles": [
+    {
+      "id": "eph92-05-sjaa-ephemeris",
+      "documentId": "eph92-05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document represents the May 1992 issue, Volume 3, Number 5, of the \"SJAA EPHEMERIS.\" It is identified as the official publication of the San Jose Astronomical Association, suggesting it contains news, updates, and other information pertinent to the club and its members.",
+      "categories": [
+        "Club Publication",
+        "Newsletter",
+        "Astronomy",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "Astronomy Club",
+        "Newsletter",
+        "May 1992",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-directions-to-houge-park-site-of-sjaa-public-star-party",
+      "documentId": "eph92-05",
+      "title": "Directions to Houge Park Site of SJAA Public Star Party",
+      "summary": "This document provides detailed directions to Houge Park for San Jose Astronomical Association (SJAA) public star parties and other events, including specific instructions for parking and telescope access. It also features an extensive calendar of SJAA activities for May and June, encompassing star parties, general meetings with guest speakers on astrophotography and cosmology, astronomy classes, an auction, and notes on upcoming celestial events like lunar and solar eclipses. The editor includes apologies for previous directional errors and promotes organizational news.",
+      "categories": [
+        "Directions",
+        "Event Schedule",
+        "Star Parties",
+        "Astronomy Clubs/Organizations",
+        "Public Outreach",
+        "Meetings & Lectures",
+        "Astronomical Events",
+        "Announcements"
+      ],
+      "keywords": [
+        "Houge Park",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Star Party",
+        "Directions",
+        "Astronomy Day",
+        "Astrophotography",
+        "John Gleason",
+        "Milpitas Library",
+        "Grant Ranch",
+        "Fremont Peak",
+        "Riverside Telescope Maker's Conference",
+        "Neutron Stars",
+        "Black Holes",
+        "Cosmology",
+        "Dr. Roger Romani",
+        "Lunar Eclipse",
+        "Solar Eclipse",
+        "Beginning Astronomy Class",
+        "Telescope",
+        "Auction",
+        "Events Calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-star-parties-by-ed",
+      "documentId": "eph92-05",
+      "title": "Star Parties by ed",
+      "summary": "This article details two recent star parties at Fremont Peak and Grant Ranch, both significantly impacted by dense fog, cold temperatures, and strong winds. Despite the adverse conditions, some observations were made, including Jupiter and Comet Tanaka-Machholtz, and a technical experiment to sharpen a homemade telescope's image with a mask proved effective. The author emphasizes the challenging weather experienced at both locations.",
+      "categories": [
+        "observing reports",
+        "events",
+        "amateur astronomy",
+        "telescope technical"
+      ],
+      "keywords": [
+        "star parties",
+        "Fremont Peak",
+        "Grant Ranch",
+        "fog",
+        "wind",
+        "cold weather",
+        "Jupiter",
+        "Comet Tanaka-Machholtz",
+        "homemade telescope",
+        "telescope mask",
+        "Lenless Wright camera"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph92-05-comet-comments",
+      "documentId": "eph92-05",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports on recent comet activity, noting a new discovery expected to be visible soon. It details the status of Comet Shoemaker-Levy, with the 1991d designation fading and 1991a brightening, while Comet Mueller is believed to have disintegrated after perihelion.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discovery",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet",
+        "Shoemaker-Levy",
+        "Mueller",
+        "Discovery",
+        "Visibility",
+        "Perihelion",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-periodic-comet-howell-1992c",
+      "documentId": "eph92-05",
+      "title": "Periodic Comet Howell (1992c):",
+      "summary": "Periodic Comet Howell (1992c) was successfully recovered by S. Larson and J. Scotti from Kitt Peak on March 5, observed at magnitude 21. It is anticipated to brighten considerably, reaching magnitude 15 by early next year.",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Reports",
+        "News",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Periodic Comet Howell",
+        "1992c",
+        "Comet recovery",
+        "Kitt Peak",
+        "Magnitude 21",
+        "Magnitude 15",
+        "S. Larson",
+        "J. Scotti"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-comet-tanaka-machholz-1992d",
+      "documentId": "eph92-05",
+      "title": "Comet Tanaka-Machholz (1992d):",
+      "summary": "Amateur astronomer Don Machholz independently discovered Comet Tanaka-Machholz (1992d) on March 31, 1992, confirming an earlier sighting by Z. Tanaka. The comet, initially misidentified regarding its speed, will make its closest approach to the sun on April 22 at 1.26 AU and become an evening sky object by mid-June. Machholz also shares personal news of his son's birth and a new job offer during the discovery week.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Report",
+        "Astronomy News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet Tanaka-Machholz",
+        "1992d",
+        "Don Machholz",
+        "Z. Tanaka",
+        "Comet Discovery",
+        "Observing",
+        "Amateur Astronomy",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-ephemerides",
+      "documentId": "eph92-05",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for two comets: Shoemaker-Levy (1991a₁) and Tanaka-Machholz (1992d). For each comet, it lists observational data including date, celestial coordinates (RA and DEC), elongation, sky visibility, and apparent magnitude over several weeks. A separate, brief section lists attendees, possibly for an observing event or meeting focused on constellations near Leo.",
+      "categories": [
+        "Ephemerides",
+        "Comet Observing",
+        "Astronomy Data",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Levy 1991a1",
+        "Comet Tanaka-Machholz 1992d",
+        "Ephemerides",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Comets",
+        "Observing",
+        "Celestial Coordinates",
+        "Don Machholz",
+        "Leo constellation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-time-again-for-the-great-sjaa-auction",
+      "documentId": "eph92-05",
+      "title": "TIME AGAIN FOR THE GREAT SJAA AUCTION",
+      "summary": "The San Jose Astronomical Association (SJAA) is holding its annual auction on May 2nd at Houge Park, commencing at 2:00 PM. Attendees are encouraged to bring items for sale, including 'white elephants,' and funds for making purchases. Further details can be obtained by contacting the SJAA hotline, Jim Van Nuland, or any Board of Directors member.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Fundraising"
+      ],
+      "keywords": [
+        "SJAA",
+        "auction",
+        "sale",
+        "Houge Park",
+        "May 2nd",
+        "club event",
+        "fundraising",
+        "white elephants"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-05-flashing-telrad",
+      "documentId": "eph92-05",
+      "title": "Flashing Telrad",
+      "summary": "This document describes a circuit modification for a Telrad finder scope, enabling it to be used more effectively with very faint astronomical objects. The modification involves a 6 to 9 Volts switched power supply to enhance its performance for low-light viewing.",
+      "categories": [
+        "Technical",
+        "Modifications",
+        "Equipment",
+        "How-to Guide"
+      ],
+      "keywords": [
+        "Telrad",
+        "Finder Scope",
+        "Circuit Modification",
+        "Faint Objects",
+        "Astronomy Equipment",
+        "DIY Astronomy",
+        "Voltage Switch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-notes",
+      "documentId": "eph92-05",
+      "title": "NOTES:",
+      "summary": "This document provides technical notes regarding a TELRAD device, highlighting the polarity sensitivity of its LED illuminator and instructing to mark wires before disconnection. It also advises removing a now-unnecessary 50Ω resistor from the TELRAD switch/control. Additionally, it lists the Radio Shack part number for a TLC555 device (276-1718), noting that total parts cost should be under $5.00.",
+      "categories": [
+        "Technical Notes",
+        "Electronics",
+        "DIY/Modification",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "TELRAD",
+        "LED",
+        "polarity",
+        "resistor",
+        "TLC555",
+        "Radio Shack",
+        "electronics",
+        "wiring",
+        "modification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-sjaa-observatory-structure-design-team-report",
+      "documentId": "eph92-05",
+      "title": "SJAA OBSERVATORY STRUCTURE DESIGN TEAM REPORT",
+      "summary": "A design team has been formed to plan the structure for the SJAA observatory at the proposed Grant Ranch site. The team has met twice, discussing observatory priorities and reviewing the site's physical layout. Key design considerations include public service as the primary purpose, accommodating large groups (20-40 people), handicap access, simple expansion, low maintenance, and fitting a park environment, all for a 10-11\" Schmidt-Cass telescope.",
+      "categories": [
+        "observatory design",
+        "project update",
+        "team report",
+        "planning"
+      ],
+      "keywords": [
+        "SJAA",
+        "observatory",
+        "Grant Ranch",
+        "design team",
+        "public service",
+        "handicap access",
+        "Schmidt-Cass",
+        "expansion",
+        "low maintenance",
+        "structure design"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-raisin-bread",
+      "documentId": "eph92-05",
+      "title": "RAISIN BREAD",
+      "summary": "Bob Madden expresses concern about low attendance at general meetings, emphasizing the value of past talks by Ethan Clifton, Dr. Schramm (clarifying the Big Bang with raisin bread), and Bill Dellinges. He highlights impressive upcoming presentations by John Gleason on astrophotography and Dr. Romani on Neutron Stars, Black Holes, and Cosmology, urging members to show interest and support.",
+      "categories": [
+        "Society News",
+        "Meeting Reports",
+        "Event Announcements",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "General Meetings",
+        "Membership Attendance",
+        "Astrophotography",
+        "Big Bang",
+        "Cosmology",
+        "Neutron Stars",
+        "Black Holes",
+        "Astronomy Seminars",
+        "SJAA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-05-sjaa-public-star-party-site",
+      "documentId": "eph92-05",
+      "title": "SJAA Public Star Party Site",
+      "summary": "The document identifies the location for the SJAA Public Star Parties, specifically Houge Park. It includes a map detailing the park's position relative to several major streets and Highway 17, indicating it is a designated public viewing site.",
+      "categories": [
+        "Events",
+        "Locations",
+        "Astronomy Clubs"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Party",
+        "Public",
+        "Observing Site",
+        "Houge Park",
+        "Location",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-sjaa-auction-astronomical-items-mirrors-lenses-eye-pieces-mounts-and-complete-telescopes",
+      "documentId": "eph92-05",
+      "title": "SJAA AUCTION ASTRONOMICAL ITEMS MIRRORS - LENSES - EYE-PIECES - MOUNTS - AND COMPLETE TELESCOPES",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting an auction for astronomical items. Members are encouraged to bring their surplus mirrors, lenses, eyepieces, mounts, and complete telescopes to sell, and also to purchase new equipment. Ten percent of all sales will be donated to the SJAA.",
+      "categories": [
+        "auction",
+        "event",
+        "fundraiser",
+        "astronomy equipment",
+        "community"
+      ],
+      "keywords": [
+        "SJAA",
+        "auction",
+        "astronomical items",
+        "mirrors",
+        "lenses",
+        "eyepieces",
+        "mounts",
+        "telescopes",
+        "sale",
+        "buy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-lunar-phases-date-rise-tran-set",
+      "documentId": "eph92-05",
+      "title": "Lunar/Phases Date Rise Tran Set",
+      "summary": "This document presents a concise almanac detailing the lunar phases for the month of May. It lists the exact time and date for the New Moon, First Quarter, Full Moon, and Last Quarter, alongside their respective rise, transit, and set times. This information provides essential data for tracking lunar cycles and planning observations.",
+      "categories": [
+        "Astronomy",
+        "Lunar Phases",
+        "Ephemeris",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Moonrise",
+        "Moonset",
+        "Transit",
+        "Ephemeris",
+        "Astronomy calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-nearer-planets",
+      "documentId": "eph92-05",
+      "title": "Nearer Planets",
+      "summary": "This document presents astronomical data for the 'nearer planets' (Mercury, Venus, Mars, Jupiter, and Saturn) for three specific dates in May. For each planet, it details their rise, transit, and set times, distance in Astronomical Units (AU), and apparent magnitude.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Planetary Positions",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planetary data",
+        "Astronomical data",
+        "Magnitude",
+        "AU",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "May",
+        "Visibility",
+        "Planets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-sol-star-type-g2v-mag-26-72",
+      "documentId": "eph92-05",
+      "title": "SOL Star Type G2V Mag - 26.72",
+      "summary": "This document, titled \"SOL Star Type G2V Mag - 26.72\" referring to our Sun, presents a structured list of astronomical data. Each entry includes celestial coordinates, a date (DD-MM format), and three numerical values, likely representing specific observation times or event times related to the Sun or objects observed in relation to it.",
+      "categories": [
+        "Astronomy",
+        "Solar Astronomy",
+        "Observing Reports",
+        "Ephemeris Data",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "SOL",
+        "Sun",
+        "G2V star",
+        "Magnitude",
+        "Celestial coordinates",
+        "Observation times",
+        "Solar observation",
+        "Star data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-astronomical-twilight",
+      "documentId": "eph92-05",
+      "title": "Astronomical Twilight",
+      "summary": "This document lists Julian Dates and corresponding calendar dates in May, alongside pairs of times. These times likely represent the start of morning astronomical twilight and the end of evening astronomical twilight, defining the period each day when astronomical darkness is not present. The data illustrates the progression of twilight and daylight durations over the month of May.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Ephemeris",
+        "Twilight",
+        "Time",
+        "Date"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-siderial-time",
+      "documentId": "eph92-05",
+      "title": "Siderial Time",
+      "summary": "This document provides a set of sidereal time values corresponding to specific astronomical events and dates in May, observed at 0000 PDT. It lists sidereal times for 'Transit Right' on May 7th, 'Ascention' on May 17th, and 'Local Midnight' on May 27th. The data appears to be a schedule or log of celestial timing.",
+      "categories": [
+        "Astronomy",
+        "Timekeeping",
+        "Observational Data",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right",
+        "Ascension",
+        "Local Midnight",
+        "PDT",
+        "Astronomical Timing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-darkest-saturday-night-may-02",
+      "documentId": "eph92-05",
+      "title": "Darkest Saturday Night May 02",
+      "summary": "The article announces a \"Darkest Saturday Night\" event for May 02, providing key astronomical times in Pacific Daylight Time: sunset at 19:58, twilight ending at 21:41, and moonrise at 20:16. It also includes an administrative update noting that membership dues will increase to $12 on July 1st, the first such increase in 10 years.",
+      "categories": [
+        "Events",
+        "Astronomical Data",
+        "News",
+        "Membership Update"
+      ],
+      "keywords": [
+        "Darkest Night",
+        "May 02",
+        "Sunset",
+        "Twilight",
+        "Moon Rise",
+        "Pacific Daylight Time",
+        "Membership Dues",
+        "Price Increase",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-05-astro-ads",
+      "documentId": "eph92-05",
+      "title": "ASTRO ADS",
+      "summary": "This article, titled \"ASTRO ADS,\" is a classifieds section offering free advertising for noncommercial sellers of astronomically related products and services. Submissions are due by the 12th of each month and run for approximately three months. The document lists various used astronomical equipment for sale, including telescopes, eyepieces, mounts, and astrophotography gear, with seller contact information.",
+      "categories": [
+        "Advertisements",
+        "Classifieds",
+        "Astronomy Equipment",
+        "Used Gear Market"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Used astronomy equipment",
+        "Telescopes",
+        "Eyepieces",
+        "Mounts",
+        "Astronomical accessories",
+        "Astrophotography",
+        "Celestron",
+        "Meade",
+        "Lumicon",
+        "Digital setting circles",
+        "Optical equipment"
+      ],
+      "pageStart": 5,
+      "pageEnd": 238
+    },
+    {
+      "id": "eph92-05-san-jose-astronomical-association-membership",
+      "documentId": "eph92-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership options including 'Membership only', 'Membership / S&T', and 'Junior', along with their respective fees. It provides instructions for submission to the Treasurer, Jack Peterson, including contact addresses and a telephone number. The form also mentions the SJAA's monthly publication, \"EPHEMERIS\", and provides guidelines for article submissions.",
+      "categories": [
+        "Membership Application",
+        "Organizational Information",
+        "Publication Information",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "EPHEMERIS",
+        "Astronomy Club",
+        "Dues",
+        "Jack Peterson",
+        "Bob Madden",
+        "San Jose",
+        "Milpitas",
+        "Non-profit",
+        "S&T"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9205/Eph92_05.pdf",
+      "txtPath": "9205/Eph92_05.md"
+    }
+  ]
+}

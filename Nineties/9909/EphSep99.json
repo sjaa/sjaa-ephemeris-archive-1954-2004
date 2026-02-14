@@ -1,0 +1,671 @@
+{
+  "articles": [
+    {
+      "id": "ephsep99-the-celestial-tourist-on-location",
+      "documentId": "ephsep99",
+      "title": "The Celestial Tourist On Location...",
+      "summary": "The author recounts a visit to the USS Hornet aircraft carrier museum during its week-long Moon Fest, celebrating the 30th anniversary of the Apollo 11 moon landing. The article describes the ship's immense size, its historical aviation displays, and various Apollo exhibits, including a humorous comparison between Saturn cars and the Saturn V rocket. While appreciating the historical venue, the author notes some Apollo displays were less engaging due to prior familiarity.",
+      "categories": [
+        "Event Report",
+        "Museum Visit",
+        "Personal Account",
+        "History"
+      ],
+      "keywords": [
+        "USS Hornet",
+        "Apollo 11",
+        "Moon Fest",
+        "Aircraft Carrier Museum",
+        "Space History",
+        "Aviation History",
+        "Anniversary"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephsep99-sjaa-activities-calendar",
+      "documentId": "ephsep99",
+      "title": "SJAA Activities Calendar",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) activity calendar for September and October, featuring numerous star parties at locations such as Houge Park, Fremont Peak, and Henry Coe. It also details dates for observational astronomy classes and general meetings, including a 'Slide/Equipment night' and a speaker schedule for November and December. The calendar provides specific times for events and astronomical data like sunset and moon phases.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Observing Events",
+        "Meetings"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Activity Calendar",
+        "Star Party",
+        "Observational Astronomy",
+        "General Meeting",
+        "Houge Park",
+        "Fremont Peak",
+        "Henry Coe",
+        "September 1999",
+        "October 1999",
+        "Speaker Schedule",
+        "Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephsep99-u-s-s-hornet-moonfest",
+      "documentId": "ephsep99",
+      "title": "U.S.S. Hornet Moonfest",
+      "summary": "The author details their experience observing the Moon from the deck of the U.S.S. Hornet during a \"Moonfest,\" reflecting on the ship's historical connection to the Apollo program and the challenges of the Apollo 11 lunar landing. The article emphasizes the importance of observing lunar albedo and color variations beyond just topography, and connects the astronomical event to personal memories of space exploration, including the Apollo-Soyuz Test Project. It serves as both an observing report and a historical reflection on lunar exploration.",
+      "categories": [
+        "Observing Report",
+        "Space History",
+        "Amateur Astronomy",
+        "Astronomy Event",
+        "Personal Reflection"
+      ],
+      "keywords": [
+        "U.S.S. Hornet",
+        "Moonfest",
+        "Lunar Observation",
+        "Apollo Program",
+        "Apollo 11",
+        "Apollo-Soyuz Test Project",
+        "Amateur Astronomy",
+        "Lunar Albedo",
+        "Telescope",
+        "Space Exploration"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep99-mooning",
+      "documentId": "ephsep99",
+      "title": "Mooning",
+      "summary": "This article details an upcoming lunar observing opportunity for Mare Orientale on September 24th, providing optimal viewing times and conditions, while also reflecting on past viewing experiences. It then transitions into a philosophical discussion on the legacy of the Apollo program, suggesting it was a forward-looking anomaly that hints at future space exploration. The author expresses hope for a return to the Moon and Apollo sites in the 21st century, imagining future astronauts' reactions to the historical artifacts.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Space Exploration",
+        "Historical Commentary",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observation",
+        "Mare Orientale",
+        "Apollo program",
+        "Space exploration",
+        "Terminator",
+        "September 24",
+        "Future of space travel",
+        "Libration",
+        "International Space Station"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep99-continued-from-page-4",
+      "documentId": "ephsep99",
+      "title": "Continued from page 4",
+      "summary": "This article discusses lunar observing, challenging the notion that a full moon offers little interest, particularly highlighting polar and limb features. It also explores the variable duration of observing sessions, from a minute to several hours, depending on factors like moon phase and seeing conditions, emphasizing that the primary goal is enjoyment with no fixed rules.",
+      "categories": [
+        "Observing Tips",
+        "Astronomy",
+        "Opinion",
+        "Lunar Observing"
+      ],
+      "keywords": [
+        "lunar observing",
+        "Moon",
+        "full moon",
+        "seeing conditions",
+        "observing sessions",
+        "eyepiece",
+        "binoculars",
+        "libration zone"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep99-meteoric-intermission",
+      "documentId": "ephsep99",
+      "title": "Meteoric Intermission",
+      "summary": "The article highlights the Alpha Aurigids meteor shower as the sole notable event for meteor watchers in September, peaking on the first day just before dawn. While rates are typically low, it can be spectacular for a brief period, suggesting potential observers set an alarm for 3 a.m. despite the uncertainty of a significant display.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Meteor Showers",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Meteoric Intermission",
+        "David North",
+        "September",
+        "meteor watchers",
+        "Alpha Aurigids",
+        "peak activity",
+        "early morning",
+        "September 1",
+        "meteor shower",
+        "observing tips"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-the-shallow-sky",
+      "documentId": "ephsep99",
+      "title": "The Shallow Sky",
+      "summary": "This article serves as a monthly guide for observing various celestial objects, detailing their visibility and specific features for different viewing methods. It covers planets such as Jupiter, Saturn, Mars, Uranus, Neptune, Pluto, and Venus, providing tips for naked-eye, binocular, and telescopic observers. Key highlights include Jupiter's moons, Saturn's rings, Venus's changing phases, and Mars's close approach to Antares.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Sky Watching",
+        "Monthly Sky Report"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Venus",
+        "Planetary Observation",
+        "Amateur Astronomy",
+        "Telescope",
+        "Binoculars",
+        "Naked Eye Observing",
+        "Antares",
+        "Galilean Moons",
+        "Saturn's Rings",
+        "Venus Phases",
+        "Sky Conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-correction",
+      "documentId": "ephsep99",
+      "title": "Correction",
+      "summary": "This article issues a correction regarding a misstated raffle item at the FPOA/AANC Star-b-que event. Gary Hand of Hands on Optics had mistakenly shipped two custom 60mm Plossl eyepieces, and upon realizing the error, instructed the recipient to donate them to a star party, which ultimately benefited FPOA and the winner. FPOA expressed gratitude to Gary Hand for his generosity.",
+      "categories": [
+        "Correction",
+        "Events",
+        "News",
+        "Astronomy Clubs",
+        "Donations"
+      ],
+      "keywords": [
+        "Correction",
+        "Raffle",
+        "Eyepieces",
+        "Hands on Optics",
+        "Gary Hand",
+        "FPOA",
+        "AANC",
+        "Star-b-que",
+        "Donation",
+        "Star Party"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep99-comet-comments",
+      "documentId": "ephsep99",
+      "title": "Comet Comments",
+      "summary": "This article discusses several comets visible in the sky, including the newly discovered Comet Lynn (1999 N2) which was found by Daniel Lynn of Australia using binoculars, now fading in the evening sky. It also mentions Comet Lee in the morning sky and Periodic Comet Tempel 2 in the evening southern sky. Notably, the article highlights a recent surge in visual comet discoveries from Australia, with Daniel Lynn's being the fourth consecutive and seventh of the last nine visual discoveries by Australians.",
+      "categories": [
+        "Comet Discoveries",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Lynn (1999 N2)",
+        "Comet Lee",
+        "Periodic Comet Tempel 2",
+        "Daniel Lynn",
+        "Australia",
+        "Comet Hunting",
+        "Visual Discovery",
+        "Binoculars",
+        "Evening Sky",
+        "Morning Sky",
+        "Celestial Objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-ephemerides",
+      "documentId": "ephsep99",
+      "title": "Ephemerides",
+      "summary": "This document provides ephemerides for three comets: C/1999 H1 (Lee), Periodic Comet Tempel 2, and Comet Lynn. For each comet, it lists predicted celestial coordinates (Right Ascension and Declination), elongation from the sun, and sky magnitude at five-day intervals from early August to early October. This data serves as a guide for locating and observing these celestial objects.",
+      "categories": [
+        "Ephemerides",
+        "Astronomy",
+        "Comets",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "C/1999 H1 (Lee)",
+        "Periodic Comet Tempel 2",
+        "Comet Lynn",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Celestial Coordinates",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-elements",
+      "documentId": "ephsep99",
+      "title": "Elements",
+      "summary": "This document provides detailed orbital elements for three celestial objects: 'Lee,' 'Lynn,' and 'P/Tempel 2.' For each object, it lists key astronomical parameters such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period. The data is attributed to Don Machholz, including his contact information.",
+      "categories": [
+        "Technical Data",
+        "Orbital Elements",
+        "Astronomy",
+        "Comets"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Comet Lee",
+        "Comet Lynn",
+        "P/Tempel 2",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Argument of Perihelion",
+        "Ascending Node",
+        "Astronomical Data",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-lunar-phases",
+      "documentId": "ephsep99",
+      "title": "LUNAR PHASES:",
+      "summary": "This document outlines the schedule for the primary lunar phases, including Last Quarter, New Moon, First Quarter, and Full Moon. For each phase, it provides the date, specific time in PDT, and the moon's rise, transit, and set times.",
+      "categories": [
+        "Astronomical Events",
+        "Lunar Phases",
+        "Ephemeris",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Moon Rise",
+        "Moon Set",
+        "Moon Transit",
+        "PDT",
+        "Astronomy Calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-nearer-planets",
+      "documentId": "ephsep99",
+      "title": "NEARER PLANETS:",
+      "summary": "This document provides an astronomical ephemeris for the nearer planets—Mercury, Venus, Mars, Jupiter, and Saturn—listing their rise, transit, and set times, along with their Right Ascension and Declination for three specific dates within a month. It also includes their distance in Astronomical Units and visual magnitude. Additionally, the document contains information regarding the Sun's star type and local hours of darkness.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Planetary Data",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planetary positions",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical Units",
+        "Hours of darkness",
+        "Almanac"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-astronomical-twilight",
+      "documentId": "ephsep99",
+      "title": "ASTRONOMICAL TWILIGHT:",
+      "summary": "This document provides a tabular listing of the begin and end times for astronomical twilight across several specific Julian Dates. It appears to be an ephemeris or schedule for sky conditions related to astronomical observations.",
+      "categories": [
+        "Ephemeris",
+        "Observational Data",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Twilight Times",
+        "Sky Conditions",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-sidereal-time",
+      "documentId": "ephsep99",
+      "title": "SIDEREAL TIME:",
+      "summary": "This document presents a table outlining sidereal time values at local midnight for three specific dates: the 7th, 17th, and 27th. It shows the local sidereal time to be 21:56, 22:35, and 23:14 respectively for these dates, serving as a practical reference for astronomical calculations and observations.",
+      "categories": [
+        "Technical",
+        "Astronomical Data",
+        "Observing Aids",
+        "Reference"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Astronomy",
+        "Astronomical Calculations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-darkest-saturday-night-11-sep-1999",
+      "documentId": "ephsep99",
+      "title": "DARKEST SATURDAY NIGHT: 11-Sep-1999",
+      "summary": "This document provides astronomical data for the evening of September 11, 1999, titled 'Darkest Saturday Night'. It lists key times including sunset, twilight end, moonset, and dawn begin, calculating a total of 8 hours and 24 minutes of darkness, likely for optimal astronomical observing conditions.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Conditions"
+      ],
+      "keywords": [
+        "September 11, 1999",
+        "Sunset",
+        "Twilight",
+        "Moonset",
+        "Dawn",
+        "Dark hours",
+        "Astronomical data",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep99-officers-and-board-of-directors",
+      "documentId": "ephsep99",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization, detailing their roles such as President, Vice President, Secretary, Treasurer, and Director. Each entry includes the individual's name and a contact phone number. It serves as a directory for the organization's leadership personnel.",
+      "categories": [
+        "Organization",
+        "Leadership",
+        "Contact Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Personnel",
+        "Contact Details"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-ephemeris-staff",
+      "documentId": "ephsep99",
+      "title": "Ephemeris Staff",
+      "summary": "This document outlines the staff and services involved with \"Ephemeris.\" It lists Jane Houston and Morris Jones as editors, Bob Brauer and Lew Kurtz for circulation, and Accuprint for printing, along with their respective contact phone numbers.",
+      "categories": [
+        "Staff Directory",
+        "Contact Information",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Staff",
+        "Editors",
+        "Circulation",
+        "Printing",
+        "Contact numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-sjaa-loaner-scope-status",
+      "documentId": "ephsep99",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA Loaner Scope program currently has all its telescopes available for members to borrow. Members interested in utilizing this service should contact Mike Koop via email or phone to arrange a loan.",
+      "categories": [
+        "Program Update",
+        "Membership Services",
+        "Equipment Availability"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Equipment",
+        "Availability",
+        "Members",
+        "Contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-stored-scopes",
+      "documentId": "ephsep99",
+      "title": "Stored Scopes",
+      "summary": "The 'Stored Scopes' program offers telescopes for immediate loan to SJAA members, with these scopes kept at various members' homes. Interested individuals should contact Mike Koop to arrange for pickup at any SJAA event. The list includes a 4\" Quantum S/C and a 7\" f/9 Newtonian telescope.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Information"
+      ],
+      "keywords": [
+        "Stored Scopes",
+        "Telescope loan",
+        "SJAA",
+        "Astronomy club",
+        "Equipment borrowing",
+        "Mike Koop",
+        "Quantum S/C",
+        "Newtonian telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-current-scope-loans",
+      "documentId": "ephsep99",
+      "title": "Current Scope Loans",
+      "summary": "This document lists telescopes currently loaned out, providing details such as the scope number, description, borrower's name, and due date. Individuals interested in borrowing a scope can be added to a waiting list until the equipment becomes available after its return date. The list includes various types of telescopes, ranging from refractors and Newtonians to several Dobsonian and Celestron S/C models.",
+      "categories": [
+        "equipment management",
+        "lending program",
+        "inventory",
+        "astronomy club resources"
+      ],
+      "keywords": [
+        "telescope loans",
+        "astronomical equipment",
+        "borrowing telescopes",
+        "due dates",
+        "waiting list",
+        "Dobson",
+        "Newt/P Mount",
+        "Celestron S/C",
+        "Solar Scope",
+        "Refractor",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-extended-scope-loans",
+      "documentId": "ephsep99",
+      "title": "Extended Scope Loans",
+      "summary": "This document lists astronomical telescopes with extended loan periods, indicating they are available for potential new borrowers. It provides details on each scope, including its type, current borrower, and due date, with arrangements possible for transferring the loan to another interested party.",
+      "categories": [
+        "Equipment Management",
+        "Loan Program",
+        "Observing Equipment"
+      ],
+      "keywords": [
+        "Telescope",
+        "Scope loan",
+        "Extended loan",
+        "Dobsonian",
+        "Refractor",
+        "Newtonian",
+        "C-11 Compstar",
+        "Astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-notes",
+      "documentId": "ephsep99",
+      "title": "Notes:",
+      "summary": "This document consists of notes primarily thanking individuals for their generous donations and support to an astronomy loaner program. Contributions include optical equipment like eyepieces and Barlows, a refractor telescope, a storage container, monetary funds, and services such as telescope repair and renovation. The notes also include a request to contact John Paul De Silva.",
+      "categories": [
+        "Community News",
+        "Acknowledgments",
+        "Club Operations",
+        "Equipment Donations"
+      ],
+      "keywords": [
+        "loaner program",
+        "donations",
+        "eyepieces",
+        "Barlows",
+        "refractor",
+        "solar scope",
+        "astrophotography scope",
+        "equipment repair",
+        "astronomy club",
+        "volunteer support"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-periodical-publication-statement",
+      "documentId": "ephsep99",
+      "title": "Periodical Publication Statement",
+      "summary": "This \"Periodical Publication Statement\" details the publication schedule and contact information for the \"SJAA Ephemeris,\" the official newsletter of the San Jose Astronomical Association. The newsletter is published monthly, 12 times a year, from January through December, and the statement provides the association's mailing address.",
+      "categories": [
+        "Organizational Information",
+        "Publication Notice",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "newsletter",
+        "publication schedule",
+        "monthly",
+        "contact information",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep99-submit",
+      "documentId": "ephsep99",
+      "title": "Submit",
+      "summary": "This document provides instructions for members to submit articles for publication in the SJAA Ephemeris, specifying the email address for submissions. Additionally, it details how to subscribe to or unsubscribe from the SJAA Mailing List by sending specific commands to a designated email address.",
+      "categories": [
+        "Instructions",
+        "Community Information",
+        "Communication Guidelines",
+        "Publications"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Article submission",
+        "Mailing list",
+        "Subscribe",
+        "Unsubscribe",
+        "Guidelines",
+        "Publication"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephsep99-san-jose-astronomical-association-membership-form",
+      "documentId": "ephsep99",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing fees for new or renewal memberships ($15 for regular, $6 for junior). Members have the option to add a Sky & Telescope subscription for an additional $30, which is not available for multi-year subscriptions. The form provides instructions for submission, either in person at an SJAA meeting or by mail with a check, and includes the association's contact information and mailing address.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization",
+        "Administrative",
+        "Subscription"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Renewal",
+        "Junior membership",
+        "Fees",
+        "Sky and Telescope",
+        "Subscription",
+        "Payment",
+        "Contact information",
+        "Campbell, CA"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep99",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9909/EphSep99.pdf",
+      "txtPath": "9909/EphSep99.md"
+    }
+  ]
+}

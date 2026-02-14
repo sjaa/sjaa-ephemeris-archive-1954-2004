@@ -1,0 +1,886 @@
+{
+  "articles": [
+    {
+      "id": "eph98-01-leonids",
+      "documentId": "eph98-01",
+      "title": "LEONIDS",
+      "summary": "The article discusses the variability of meteor shower observations, specifically focusing on the Leonids, which were initially considered somewhat disappointing. It then details Lew Kurtz's personal attempt to observe the Leonids from Fremont Peak, where he faced challenging weather conditions including clouds and rain. Despite the initial poor forecast and conditions, the skies unexpectedly cleared in the early morning, offering a chance for observation.",
+      "categories": [
+        "Observing Reports",
+        "Meteor Showers",
+        "Personal Accounts",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Leonids",
+        "Meteor shower",
+        "Observing",
+        "Fremont Peak",
+        "Lew Kurtz",
+        "Weather",
+        "Clouds",
+        "Rain",
+        "Pleiades"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph98-01-january",
+      "documentId": "eph98-01",
+      "title": "JANUARY",
+      "summary": "The provided document outlines a schedule of astronomical events and meetings for January. Key activities include several star parties at locations like Houge Park, Milpitas, and Fremont Peak, a general meeting featuring a discussion on Hubble Space Telescope discoveries by Al Stern of ASP, and a beginning astronomy class.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Sessions",
+        "Education",
+        "Astronomy Calendar"
+      ],
+      "keywords": [
+        "January",
+        "Star party",
+        "Houge Park",
+        "Bernal Intermediate",
+        "Milpitas",
+        "Fremont Peak",
+        "Coe",
+        "General meeting",
+        "Hubble Space Telescope",
+        "Al Stern",
+        "ASP",
+        "Beginning astronomy class",
+        "Sunset",
+        "Moonset",
+        "Moonrise"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-february",
+      "documentId": "eph98-01",
+      "title": "FEBRUARY",
+      "summary": "The document outlines the San Jose Astronomical Association's (SJAA) event schedule for February. Key activities include several star parties at Houge Park, Fremont Peak, and Coe, a general meeting, an open board meeting, and a beginning astronomy class. The schedule also provides sunset and moon phase details for some dates and notes that SJAA insurance covers only members at sponsored events.",
+      "categories": [
+        "Events Schedule",
+        "Club Announcements",
+        "Astronomy Education",
+        "Observing Events"
+      ],
+      "keywords": [
+        "February",
+        "Star Party",
+        "Houge Park",
+        "Fremont Peak",
+        "Coe",
+        "General Meeting",
+        "Beginning Astronomy Class",
+        "SJAA",
+        "Astronomy",
+        "Calendar",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-ice-and-water-on-the-moons-the-historical-perspective",
+      "documentId": "eph98-01",
+      "title": "ICE AND WATER ON THE MOONS THE HISTORICAL PERSPECTIVE",
+      "summary": "This article provides a concise historical overview of conjectures and observations regarding the possibility of water and ice on the Moon. It traces diverse opinions from 1739 onwards, presenting direct quotes from early observers to highlight the long-standing debate on this topic.",
+      "categories": [
+        "History of Science",
+        "Lunar Science",
+        "Astronomy",
+        "Scientific Speculation"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar water",
+        "Lunar ice",
+        "Historical perspective",
+        "Astronomical observation",
+        "Fouchy",
+        "Bailly"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph98-01-leonids-from-p-1",
+      "documentId": "eph98-01",
+      "title": "Leonids, from p. 1",
+      "summary": "An observer documented their experience viewing the Leonid meteor shower under challenging conditions, including significant moonlight, humidity, and later fog. Despite the poor visibility, they noted numerous very bright Leonids, often short-lived and concentrated near the Leo constellation, distinguishing them from Perseids. The observer expressed hope for a more spectacular shower in the future.",
+      "categories": [
+        "Observing Report",
+        "Meteor Shower",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Leonids",
+        "Meteor shower",
+        "Meteor observation",
+        "Observing conditions",
+        "Moonlight",
+        "Humidity",
+        "Fog",
+        "Leo constellation",
+        "Meteor magnitude",
+        "Sporadic meteor",
+        "Perseids"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph98-01-bill-arnett-san-jose",
+      "documentId": "eph98-01",
+      "title": "Bill Arnett, San Jose:",
+      "summary": "Bill Arnett observed the Leonids meteor shower from 3:10 to 4:40 am PST at the summit of Quimby Road near San Jose. Despite moonlight limiting visibility, he positively identified 11 very fast Leonids, many of which were bright (magnitude zero or better), and also noted one brilliant sporadic fireball along with several brief smoke trails.",
+      "categories": [
+        "observing report",
+        "meteor shower",
+        "astronomy"
+      ],
+      "keywords": [
+        "Leonids",
+        "meteor shower",
+        "fireball",
+        "observing",
+        "San Jose",
+        "Quimby Road",
+        "Grant Ranch",
+        "sporadic meteor",
+        "magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-craig-cholar",
+      "documentId": "eph98-01",
+      "title": "Craig Cholar:",
+      "summary": "Craig Cholar observed the Leonids meteor shower for an hour, counting only six meteors from his backyard despite some horizon obstructions. He noted the meteors were fast, with one bright event leaving a 10-second trail. Transparency was good, and all observed meteors appeared to be Leonids, leading him to conclude that the shower was not particularly active during his viewing.",
+      "categories": [
+        "Observing Report",
+        "Meteor Shower"
+      ],
+      "keywords": [
+        "Leonids",
+        "meteor shower",
+        "meteor observation",
+        "Craig Cholar",
+        "Ursa Minor",
+        "Ursa Major",
+        "transparency"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-phil-harrington-new-york",
+      "documentId": "eph98-01",
+      "title": "Phil Harrington, New York:",
+      "summary": "An observer from Long Island, New York, reported a disappointing Leonid meteor shower experience due to a bright moon and a brief 30-minute observation period. Only two bright Leonids and one faint sporadic meteor were spotted, leading to the conclusion that it was \"not a big show.\"",
+      "categories": [
+        "observing report",
+        "meteor shower",
+        "personal account",
+        "astronomy"
+      ],
+      "keywords": [
+        "Leonids",
+        "meteor shower",
+        "observation report",
+        "Long Island",
+        "New York",
+        "limiting magnitude",
+        "moon",
+        "sporadic meteor"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph98-01-ice-and-water-from-p-1",
+      "documentId": "eph98-01",
+      "title": "Ice and Water, from p. 1",
+      "summary": "This document compiles a historical timeline of observations, theories, and speculations regarding the presence of ice and water on the Moon, spanning from 1882 to 1996. Over more than a century, astronomers and scientists proposed ideas ranging from visible snow and frozen seas to vast underground oceans, permafrost, and eventually, more focused hypotheses about water ice in permanently shadowed polar regions. The entries highlight the persistent scientific interest and evolving understanding of lunar volatiles prior to definitive modern discoveries.",
+      "categories": [
+        "History of Science",
+        "Lunar Science",
+        "Astrophysics",
+        "Scientific Theories",
+        "Planetary Geology"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar ice",
+        "Lunar water",
+        "Lunar craters",
+        "Lunar poles",
+        "Maria",
+        "Hydrosphere",
+        "Permafrost",
+        "Volatiles",
+        "Scientific history",
+        "Lunar theories",
+        "Apollo missions",
+        "Pickering",
+        "Firsoff",
+        "Kopal",
+        "Goddard",
+        "Shadowed regions"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph98-01-rich-neuschaffer",
+      "documentId": "eph98-01",
+      "title": "Rich Neuschaffer",
+      "summary": "The article details an astronomical observing session at Fremont Peak, where clear skies allowed for excellent views of Saturn (including Cassini Division and planet shadow) and Jupiter's Great Red Spot. The observer also tested new equipment, noting improved clarity for deep-sky objects and stars like Rigel. The report concludes with updates on park conditions, including a new ranger, changes to observatory access, and the unfortunate discovery of bark beetle damage to trees.",
+      "categories": [
+        "Observing Report",
+        "Equipment Review",
+        "Park News/Updates"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Astronomy",
+        "Observing",
+        "Saturn",
+        "Jupiter",
+        "Great Red Spot",
+        "M42",
+        "Rigel",
+        "Eyepieces",
+        "Star Diagonal",
+        "Seeing",
+        "Park Ranger",
+        "Bark Beetle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-akkana-peck",
+      "documentId": "eph98-01",
+      "title": "Akkana Peck",
+      "summary": "The author describes an observation of the lunar occultation of Saturn from Foothill Observatory. Despite initial chancy weather conditions and missing the full disappearance due to thick clouds, clear skies prevailed for the dramatic reappearance of Saturn from behind the Moon. The observation provided unique views and prompted discussion among fellow observers.",
+      "categories": [
+        "observing report",
+        "astronomical event",
+        "personal account"
+      ],
+      "keywords": [
+        "lunar occultation",
+        "Saturn",
+        "Foothill Observatory",
+        "telescope",
+        "observing",
+        "weather",
+        "Mare Crisium",
+        "Mare Marginis",
+        "astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph98-01-bill-arnett",
+      "documentId": "eph98-01",
+      "title": "Bill Arnett",
+      "summary": "Bill Arnett recounts his experience observing a lunar occultation of Aldebaran despite cold and damp conditions. He shared the viewing with his wife using a binoviewer, a technique he highly recommends for shared astronomical observations. Despite poor visibility, he successfully witnessed Aldebaran's reappearance and also explored some lunar features in favorable libration zones.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Events",
+        "Personal Account",
+        "Equipment Review",
+        "Lunar Observing"
+      ],
+      "keywords": [
+        "Bill Arnett",
+        "Lunar Occultation",
+        "Aldebaran",
+        "Binoviewer",
+        "LX200",
+        "Mare Marginis",
+        "Crater Neper",
+        "Mare Smithii",
+        "Mare Australe",
+        "Moon",
+        "Astronomy",
+        "Rukl's atlas",
+        "Akkana's Hitchhiker's Guide to the Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-the-shallow-sky",
+      "documentId": "eph98-01",
+      "title": "THE SHALLOW SKY",
+      "summary": "This article provides an astronomical observing guide for January, detailing optimal viewing times for various celestial objects and events. It highlights lunar phases, planetary positions for Saturn, Mercury, Venus, and Jupiter, and the Quadrantid meteor shower's intense peak with minimal moon interference. The guide also mentions the Earth's perihelion and encourages amateur astronomers to observe these phenomena.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Amateur Astronomy",
+        "Planetary Observing",
+        "Meteor Showers",
+        "Lunar Observing"
+      ],
+      "keywords": [
+        "January",
+        "Moon",
+        "Saturn",
+        "Quadrantids",
+        "Meteor Shower",
+        "96P/Machholz 1",
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Perihelion",
+        "Sunspots",
+        "Libration",
+        "Shadow Transit"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph98-01-ephemerides",
+      "documentId": "eph98-01",
+      "title": "Ephemerides",
+      "summary": "This article discusses the recent discovery of two sungrazer comets by the SOHO satellite and provides an ephemeris for several long-lasting comets, detailing their current movements and positions in the sky. Additionally, it offers insights into comet hunting, noting that a significant portion of visual comet discoveries are made by amateur astronomers using binoculars, with 150mm binoculars being particularly successful.",
+      "categories": [
+        "Ephemerides",
+        "Comets",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Comet Hunting"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Hale-Bopp",
+        "SOHO satellite",
+        "Sungrazers",
+        "Binoculars",
+        "Amateur astronomers",
+        "Comet discovery",
+        "Visual observation",
+        "C/1995 O1"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-orbital-elements",
+      "documentId": "eph98-01",
+      "title": "Orbital Elements",
+      "summary": "This document provides detailed orbital elements for five comets: Hale-Bopp, Meunier-Dupouy, Hartley 2, Tempel-Tuttle, and Utsunomiya, including their perihelion dates, distances, orbital inclinations, and periods. Additionally, it offers ephemeris data (Right Ascension, Declination, elongation, and predicted magnitude) for Meunier-Dupouy, Utsunomiya, Hartley 2, and Tempel-Tuttle for various dates in early 1998, likely intended for astronomical observation.",
+      "categories": [
+        "astronomy",
+        "comets",
+        "orbital mechanics",
+        "observing guides",
+        "technical data"
+      ],
+      "keywords": [
+        "orbital elements",
+        "ephemeris",
+        "comets",
+        "Hale-Bopp",
+        "Meunier-Dupouy",
+        "Hartley 2",
+        "Tempel-Tuttle",
+        "Utsunomiya",
+        "astronomical data",
+        "celestial mechanics",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "perihelion"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph98-01-lunar",
+      "documentId": "eph98-01",
+      "title": "Lunar",
+      "summary": "This document provides an astronomical almanac detailing celestial events and positions for a specific month, likely January 1998, with all times in PST. It lists lunar phases, daily rise, transit, and set times for Mercury, Venus, Mars, Jupiter, Saturn, and the Sun, along with their coordinates (R.A., Dec.) and magnitudes. Additional information includes astronomical twilight, sidereal time, and a notable \"Darkest Saturday Night\" event.",
+      "categories": [
+        "Astronomical Almanac",
+        "Celestial Events",
+        "Observational Astronomy",
+        "Planetary Data",
+        "Lunar Calendar"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Rise times",
+        "Transit times",
+        "Set times",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-periodical-publication-statement",
+      "documentId": "eph98-01",
+      "title": "PERIODICAL PUBLICATION STATEMENT",
+      "summary": "This document is a periodical publication statement for \"SJAA Ephemeris,\" the monthly newsletter of the San Jose Astronomical Association. It specifies that the newsletter is published 12 times a year, from January through December. The statement also provides the full mailing address for the San Jose Astronomical Association.",
+      "categories": [
+        "Publication Information",
+        "Organizational Details",
+        "Newsletter",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "Newsletter",
+        "Publication Schedule",
+        "Monthly Publication",
+        "Astronomy",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-to-subscribe-to-unsubscribe-from-the-sjaa-mailing-list-send-mail-to",
+      "documentId": "eph98-01",
+      "title": "To Subscribe to/Unsubscribe from the SJAA Mailing List send mail to",
+      "summary": "This document provides instructions on how to subscribe to or unsubscribe from the SJAA mailing list. Users need to send an email to sjaa-request@seds.org with a blank subject line and either 'subscribe' or 'unsubscribe' in the email body.",
+      "categories": [
+        "instructions",
+        "club services",
+        "communication",
+        "membership"
+      ],
+      "keywords": [
+        "SJAA",
+        "mailing list",
+        "subscribe",
+        "unsubscribe",
+        "email instructions",
+        "SFAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-submit",
+      "documentId": "eph98-01",
+      "title": "SUBMIT",
+      "summary": "Members are encouraged to submit articles for publication in the *SJAA Ephemeris* newsletter. Submissions should be sent to Dave North at Timocharis@aol.com by the tenth of the month to be included in the following month's issue, and must include the author's name and phone number.",
+      "categories": [
+        "Newsletter",
+        "Call for Submissions",
+        "Community Engagement",
+        "Internal Communications"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "newsletter",
+        "article submission",
+        "members",
+        "publication",
+        "contributions",
+        "Dave North"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-activities-through-other-clubs",
+      "documentId": "eph98-01",
+      "title": "ACTIVITIES THROUGH OTHER CLUBS",
+      "summary": "This article outlines various astronomy activities and observing opportunities hosted by different clubs. TAC offers weekly reservations at Montebello and mobile star parties, while PAS provides public viewing at Foothill Observatory every clear Friday evening, including a 16-inch reflector and a 6-inch refractor, plus solar viewing on clear Saturday mornings.",
+      "categories": [
+        "observing events",
+        "club activities",
+        "public outreach",
+        "star parties",
+        "solar viewing"
+      ],
+      "keywords": [
+        "TAC",
+        "Montebello",
+        "Page Mill Road",
+        "El Monte Road",
+        "star parties",
+        "Van Meter school",
+        "PAS",
+        "Foothill Observatory",
+        "public viewing",
+        "reflector",
+        "refractor",
+        "solar viewing",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-january",
+      "documentId": "eph98-01",
+      "title": "January",
+      "summary": "The document outlines a series of astronomical events and meetings scheduled for January. Key activities include a PAS meeting on the Galileo Orbiter Mission to Jupiter by Dr. Jeff Moore of NASA Ames, a PAS Board of Directors meeting, and multiple star parties hosted by HVAG, SFAA, and PAS.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Astronomy Calendar",
+        "Observing Events"
+      ],
+      "keywords": [
+        "January events",
+        "PAS",
+        "Galileo Orbiter Mission",
+        "Jupiter",
+        "Dr. Jeff Moore",
+        "NASA Ames",
+        "Star parties",
+        "Foothill Observatory",
+        "HVAG",
+        "SFAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-february",
+      "documentId": "eph98-01",
+      "title": "February",
+      "summary": "This document, likely an excerpt from an ephemeris or calendar, announces a single event for February: an HVAG Starparty scheduled for the 28th at Grant Ranch. It is part of a larger publication from January 1998 by the SJAA.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Calendar",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "February",
+        "Starparty",
+        "HVAG",
+        "Grant Ranch",
+        "Astronomy",
+        "SJAA",
+        "Ephemeris",
+        "1998"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph98-01-the-candidates-speak",
+      "documentId": "eph98-01",
+      "title": "THE CANDIDATES SPEAK!",
+      "summary": "The article announces the upcoming board elections scheduled for February, with four director terms expiring. One incumbent, Terry Kahl, is seeking re-election, alongside new candidates Bill Arnett, Mike Koop, and Mark Taylor. Another candidate, Rich Neuschaffer, has withdrawn, and the candidate list is not yet final as nominations may still occur before election night.",
+      "categories": [
+        "news",
+        "organizational updates",
+        "elections",
+        "members"
+      ],
+      "keywords": [
+        "board elections",
+        "director terms",
+        "Terry Kahl",
+        "Bill Arnett",
+        "Mike Koop",
+        "Mark Taylor",
+        "Rich Neuschaffer",
+        "February election",
+        "nominations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-bill-arnett",
+      "documentId": "eph98-01",
+      "title": "Bill Arnett",
+      "summary": "Bill Arnett, creator of popular astronomy websites like 'The Nine Planets,' introduces himself and his principal interest in serving on the SJAA board. He aims to help the club embrace the information age by leveraging the internet's popularity in astronomy and space science to attract new members. His goal is to transition enthusiasts from appreciating digital images to enjoying 'original photons' through direct observation.",
+      "categories": [
+        "profile",
+        "club operations",
+        "technology",
+        "outreach",
+        "astronomy"
+      ],
+      "keywords": [
+        "Bill Arnett",
+        "The Nine Planets",
+        "SJAA",
+        "Internet",
+        "Web sites",
+        "Astronomy club",
+        "Information age",
+        "Outreach",
+        "Space science",
+        "Astronomical observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-terry-kahl",
+      "documentId": "eph98-01",
+      "title": "Terry Kahl",
+      "summary": "Terry Kahl, a current SJAA board member of five years, is seeking re-election to continue contributing to the club and sharing knowledge with new members. They actively participate in club events and school star parties, with a particular focus on encouraging more women to become active in astronomy by simplifying the perception of the hobby and promoting supportive domestic environments.",
+      "categories": [
+        "Board Elections",
+        "Community Engagement",
+        "Advocacy",
+        "Personal Statement"
+      ],
+      "keywords": [
+        "Terry Kahl",
+        "SJAA",
+        "Board member",
+        "Re-election",
+        "Star parties",
+        "Women in astronomy",
+        "Astronomy participation",
+        "Club functions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-mark-taylor",
+      "documentId": "eph98-01",
+      "title": "Mark Taylor",
+      "summary": "Mark Taylor, an active member who joined the SJAA in 1996, details his deep involvement in club activities, including attending meetings and participating in numerous star parties. He expresses his desire to serve on the board to implement improvements for the club and encourages all members to attend board meetings to contribute their own ideas.",
+      "categories": [
+        "Board Candidate Statement",
+        "Member Profile",
+        "Club Affairs"
+      ],
+      "keywords": [
+        "Mark Taylor",
+        "SJAA",
+        "Board membership",
+        "Club activities",
+        "Star parties",
+        "Member engagement",
+        "Astronomical club"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph98-01-officers-and-board-of-directors",
+      "documentId": "eph98-01",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors, including their names, titles (President, VP, Secretary, Treasurer, Director), and contact phone numbers. It serves as a directory for the organization's leadership positions.",
+      "categories": [
+        "Organization",
+        "Administration",
+        "Directory",
+        "Leadership"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Contact Information",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-ephemeris-staff",
+      "documentId": "eph98-01",
+      "title": "Ephemeris Staff",
+      "summary": "The document \"Ephemeris Staff\" provides a directory of key personnel involved with the Ephemeris publication. It lists David North as the Editor, Bob Brauer and Lew Kurtz as the Circulation staff, and Mrs. Crazy Ed for Layout, along with their respective phone numbers.",
+      "categories": [
+        "Staff Directory",
+        "Contact Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Staff",
+        "Editor",
+        "Circulation",
+        "Layout",
+        "Contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-mike-koop",
+      "documentId": "eph98-01",
+      "title": "Mike Koop",
+      "summary": "Paul Barton has retired from the Telescope Loan Program after 10 years of dedicated service. The article expresses gratitude for his hard work and vision, while also looking forward to future consultations.",
+      "categories": [
+        "Program Update",
+        "Personnel News",
+        "Volunteer Recognition"
+      ],
+      "keywords": [
+        "Paul Barton",
+        "Telescope Loan Program",
+        "Retirement",
+        "Program leadership",
+        "Volunteer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-scope-loans",
+      "documentId": "eph98-01",
+      "title": "Scope Loans",
+      "summary": "This document provides a record of various telescopes currently on loan, listing the scope's description, the borrower's name, and its return due date. It serves as an administrative log for managing astronomical equipment loans.",
+      "categories": [
+        "administrative record",
+        "equipment management",
+        "lending program"
+      ],
+      "keywords": [
+        "scope loans",
+        "telescopes",
+        "equipment",
+        "lending",
+        "borrowers",
+        "due dates",
+        "astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-extended-scope-loans",
+      "documentId": "eph98-01",
+      "title": "Extended Scope Loans",
+      "summary": "This document, titled 'Extended Scope Loans,' provides a tabular list of various telescopes currently on loan to individuals. It details each loaned item by its description (e.g., '6\" f9 Dobson', '8\" Celestron S/C'), the borrower's name, and the associated due date, which range from specific dates in late 1997 and early 1998 to indefinite periods. The list serves as a record of loaned astronomy equipment, likely for an organization or club.",
+      "categories": [
+        "Equipment Management",
+        "Loans",
+        "Administrative Records",
+        "Astronomy Club Operations",
+        "Inventory"
+      ],
+      "keywords": [
+        "Telescope loans",
+        "Astronomy equipment",
+        "Scope borrowing",
+        "Due dates",
+        "Equipment tracking",
+        "Club equipment",
+        "Loaner program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-availible-scopes",
+      "documentId": "eph98-01",
+      "title": "Availible Scopes",
+      "summary": "This document provides an inventory of available telescopes, detailing their specifications and current storage locations. It lists an 11-inch Dobsonian, a 13-inch Dobsonian, and a 7-inch f/9 Newtonian telescope, along with the names of the individuals responsible for storing each instrument.",
+      "categories": [
+        "Equipment List",
+        "Club Resources",
+        "Inventory"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Dobsonian",
+        "Newtonian",
+        "Astronomy Equipment",
+        "Availability",
+        "Storage"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-01-waiting-list",
+      "documentId": "eph98-01",
+      "title": "Waiting List",
+      "summary": "This document outlines a waiting list for telescope loans, featuring an 8\" Celestron S/C and a C8 for astrophotography, accessible to San Jose Astronomical Association (SJAA) members. Members can reserve a scope or offer storage space by contacting Mike Koop, with a reminder for current scope holders to provide updates. The content is dated January 1998.",
+      "categories": [
+        "Club Communication",
+        "Equipment Loan Program",
+        "Member Services",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "Waiting List",
+        "Telescope",
+        "Equipment Loan",
+        "Celestron S/C",
+        "C8",
+        "Astrophotography",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Club Equipment",
+        "Members",
+        "Storage"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph98-01-san-jose-astronomical-association-membership-form",
+      "documentId": "eph98-01",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is the San Jose Astronomical Association (SJAA) membership form, outlining options for new, renewal, and junior memberships, associated fees, and an optional Sky & Telescope subscription. It provides instructions for submitting the form and payment via check to the Treasurer or at an SJAA meeting, along with the organization's contact details.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Administration",
+        "Local Astronomy Club",
+        "Finance"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Membership Form",
+        "Fees",
+        "Subscription",
+        "Sky & Telescope",
+        "Renewal",
+        "Junior Membership",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph98-01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9801/Eph98_01.pdf",
+      "txtPath": "9801/Eph98_01.md"
+    }
+  ]
+}

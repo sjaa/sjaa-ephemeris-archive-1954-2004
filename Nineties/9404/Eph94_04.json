@@ -1,0 +1,704 @@
+{
+  "articles": [
+    {
+      "id": "eph94-04-sjaa-ephemeris",
+      "documentId": "eph94-04",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the April 1994 issue of the SJAA EPHEMERIS, the official publication of the San Jose Astronomical Association. It is identified as Volume 5, Number 4 of their regular publication series.",
+      "categories": [
+        "Astronomical Publication",
+        "Newsletter",
+        "Association News"
+      ],
+      "keywords": [
+        "SJAA",
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "April 1994",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-the-eyepiece",
+      "documentId": "eph94-04",
+      "title": "The Eyepiece",
+      "summary": "This issue of \"The Eyepiece\" newsletter celebrates member achievements, including Ernie Piini's photo in Astronomy magazine and Bob Garfinkle's new book \"Star Hopping.\" It announces the upcoming new board officers (President Bob Brauer, VP Jack Petersen, Treasurer Jim Hodgers) and thanks outgoing leader Jack Zeiders for his dynamic contributions, such as acquiring the club's solar telescope. The article also provides a comprehensive calendar of club activities and astronomical events for April and May, featuring numerous star parties, an observational astronomy class, and the annual Astronomy Swap and Auction.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Member Achievements",
+        "Organizational Updates",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Club Announcements",
+        "Astronomy Events",
+        "Star Parties",
+        "Member Recognition",
+        "Club Leadership",
+        "Book Publication",
+        "Solar Telescope",
+        "Astronomy Day",
+        "Swap and Auction",
+        "Observational Astronomy Class"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph94-04-static-curved-space-time-manifold-a-naive-idealism",
+      "documentId": "eph94-04",
+      "title": "STATIC CURVED SPACE-TIME MANIFOLD, A NAIVE IDEALISM",
+      "summary": "The article strongly criticizes the prevailing concept of the Cosmos as a static, curved space-time manifold, deeming it a \"naive idealism\" alongside myths of instantaneous gravity and the unsurpassable speed of light. The author argues that this model is fundamentally flawed, especially when considering the hypothetical destruction of galaxies, and introduces the idea that \"TIME has inertia\" and cannot be a static, unchangeable entity.",
+      "categories": [
+        "Theoretical Physics",
+        "Critique",
+        "Cosmology",
+        "Opinion"
+      ],
+      "keywords": [
+        "Static Curved Space-Time Manifold",
+        "Cosmology",
+        "Naive Idealism",
+        "Gravity",
+        "Speed of Light",
+        "Riemannian manifold",
+        "Geodesics",
+        "Galaxies",
+        "Time inertia",
+        "Physics theory"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-04-double-triple-and-multiple-stars",
+      "documentId": "eph94-04",
+      "title": "Double, Triple and Multiple Stars",
+      "summary": "The article explores the increasing complexity of multi-star systems, contrasting the solvable two-body problem with the more challenging three-body problem. It defines 'regular' multiple star systems and highlights Sigma-939 in Monoceros as a close approximation of a regular triple system. Detailed instructions are provided for locating Sigma-939, along with other notable multi-star systems like The Trapezium.",
+      "categories": [
+        "Observing Guides",
+        "Astronomy Education",
+        "Celestial Objects",
+        "Stellar Systems"
+      ],
+      "keywords": [
+        "Double Stars",
+        "Triple Stars",
+        "Multiple Stars",
+        "Observing",
+        "Celestial Mechanics",
+        "Monoceros",
+        "Sigma-939",
+        "Rosette Nebula",
+        "NGC 2244",
+        "The Trapezium",
+        "Orion",
+        "Amateur Astronomy",
+        "Position Angle",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-star-hopping-a-book-review",
+      "documentId": "eph94-04",
+      "title": "Star Hopping: A book review",
+      "summary": "San Jose Astronomical Association member Bob Garfinkle has authored \"Star-Hopping: Your Visa to Viewing the Universe,\" published by Cambridge University Press. This comprehensive guide, reviewed by fellow SJAA members, caters to both novice and advanced stargazers, detailing celestial objects, equipment, sky charts, and offering monthly star-hops and a Messier Marathon chapter. The book, which also covers light pollution reduction and deep-sky filters, has received positive attention, including a review in \"Astronomy\" magazine.",
+      "categories": [
+        "Book Review",
+        "Astronomy Education",
+        "Member News"
+      ],
+      "keywords": [
+        "Star-Hopping: Your Visa to Viewing the Universe",
+        "Bob Garfinkle",
+        "Star-hopping",
+        "Astronomy book",
+        "Observing guide",
+        "San Jose Astronomical Association",
+        "Messier Marathon",
+        "Deep sky filters",
+        "Light pollution reduction",
+        "Amateur astronomy"
+      ],
+      "pageStart": 107,
+      "pageEnd": 107
+    },
+    {
+      "id": "eph94-04-uranometria-2000-0",
+      "documentId": "eph94-04",
+      "title": "Uranometria 2000.0",
+      "summary": "This article is a book recommendation for \"The Deep Sky Field Guide to Uranometria 2000.0,\" a companion to the Uranometria 2000.0 star atlas. The guide is praised for its organized listing of deep sky objects, including galaxies, clusters, and nebulae, with valuable details like surface brightness and visual magnitude. It also provides notes and lists nearly 5,000 additional galaxies, making deep sky object identification and observation easier for astronomers.",
+      "categories": [
+        "Book Review",
+        "Astronomy Resources",
+        "Deep Sky Observing",
+        "Product Recommendation"
+      ],
+      "keywords": [
+        "Uranometria 2000.0",
+        "Deep Sky Field Guide",
+        "star atlas",
+        "deep sky objects",
+        "galaxies",
+        "clusters",
+        "nebula",
+        "surface brightness",
+        "visual magnitude",
+        "astronomy",
+        "observing guide"
+      ],
+      "pageStart": 2,
+      "pageEnd": 47
+    },
+    {
+      "id": "eph94-04-space-time",
+      "documentId": "eph94-04",
+      "title": "Space/Time",
+      "summary": "The article critiques the belief in an eternal space-time manifold as naive and idealistic. It introduces a concept of time having inertia and proposes an equivalence between time and mass, represented by the formula (1/T)+(1/log M) = 1 (ABIAN). Additionally, it suggests radical interventions such as altering Earth's orbit and tilt to prevent epidemics and repositioning Venus to become a \"born again Earth.\"",
+      "categories": [
+        "Theoretical Physics",
+        "Speculative Science",
+        "Critique",
+        "Cosmology"
+      ],
+      "keywords": [
+        "Space-Time manifold",
+        "Time inertia",
+        "Mass-Time equivalence",
+        "Abian formula",
+        "Planetary engineering",
+        "Orbital mechanics",
+        "Epidemic prevention"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph94-04-collimation-of-newtonions",
+      "documentId": "eph94-04",
+      "title": "Collimation of Newtonions",
+      "summary": "This article clarifies the theoretical basis of collimating Newtonian telescopes, rather than providing a step-by-step guide. It emphasizes two main adjustments: first, ensuring the primary mirror's optical axis perfectly aligns with incoming and reflected light, centered on the spider. Second, aligning the secondary mirror and focuser's optical axis with the previously established primary mirror axis, ensuring the focuser's 'tunnel' image is centered.",
+      "categories": [
+        "Technical",
+        "Maintenance",
+        "Optics",
+        "Equipment Setup"
+      ],
+      "keywords": [
+        "Collimation",
+        "Newtonian telescope",
+        "Optical alignment",
+        "Primary mirror",
+        "Secondary mirror",
+        "Focuser",
+        "Optical axis",
+        "Spider"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-book-report",
+      "documentId": "eph94-04",
+      "title": "Book Report",
+      "summary": "This article is a book report by Paul Barton recommending Stephen W. Hawking's 'A Brief History of Time'. Barton praises the book for its ability to explain complex topics like Einstein's Theory of Relativity, Astrophysics, the Big Bang, and Black Holes in a very readable, non-mathematical manner. Despite its age, the author considers it a must-read for serious amateur astronomers.",
+      "categories": [
+        "Book Review",
+        "Astronomy",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "A Brief History of Time",
+        "Stephen W. Hawking",
+        "Einstein's Theory of Relativity",
+        "Astrophysics",
+        "Big Bang",
+        "Black Holes",
+        "Event Horizons",
+        "Amateur Astronomy",
+        "Science Communication"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-04-messier-hunting",
+      "documentId": "eph94-04",
+      "title": "Messier Hunting",
+      "summary": "This article recounts a successful \"Messier Hunting\" astronomical observing session at Coulter camp on an excellent new moon night. Approximately 40 amateur astronomers gathered with a variety of telescopes, enthusiastically pursuing Messier objects under clear skies and good seeing conditions. The event was described as one of the best observing nights of the year, highlighting the collective effort and optimal viewing conditions.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy Event",
+        "Stargazing",
+        "Telescopes"
+      ],
+      "keywords": [
+        "Messier Hunting",
+        "Messier Marathon",
+        "Amateur Astronomy",
+        "Stargazing",
+        "Observing Session",
+        "Telescopes",
+        "New Moon",
+        "Coulter Camp",
+        "Seeing Conditions",
+        "Celestron",
+        "Dobsonian"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-sky-telescope-news-bulletin",
+      "documentId": "eph94-04",
+      "title": "SKY & TELESCOPE NEWS BULLETIN",
+      "summary": "The Sky & Telescope News Bulletin from March 5, 1994, reports on several significant astronomical developments. Japanese amateur Minoru Yamamoto discovered a new nova in Sagittarius, which has been observed fluctuating in brightness and showing high reddening. The bulletin also provides updates on the Clementine mission, which is orbiting the Moon and sending back detailed images, and the potential discovery of a satellite orbiting asteroid Ida by scientists analyzing images from the Galileo spacecraft, a finding that could redefine understanding of asteroids.",
+      "categories": [
+        "News Bulletin",
+        "Observing Reports",
+        "Space Missions",
+        "Discoveries",
+        "Planetary Science",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Nova",
+        "Sagittarius",
+        "Minoru Yamamoto",
+        "Clementine mission",
+        "Moon",
+        "Asteroid Ida",
+        "Galileo spacecraft",
+        "Asteroid satellite",
+        "Planetary science",
+        "Observational astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-04-april-23rd-1994",
+      "documentId": "eph94-04",
+      "title": "April 23rd, 1994",
+      "summary": "The San Jose Astronomical Association is hosting a swap meet and auction on April 23rd, 1994, at Hogue Park. Doors open at 1:00 PM, with the swap meet from 2:00-5:00 PM and the auction commencing at 6:00 PM. Attendees are invited to bring unused items to swap or sell for cash.",
+      "categories": [
+        "event announcement",
+        "community event",
+        "astronomy club activity"
+      ],
+      "keywords": [
+        "swap meet",
+        "auction",
+        "San Jose Astronomical Association",
+        "Hogue Park",
+        "April 1994",
+        "event"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-04-directions-to-houge-park",
+      "documentId": "eph94-04",
+      "title": "Directions to HOUGE PARK",
+      "summary": "This document provides directions to Houge Park, including a map detailing routes and street names. It also features a registration form for the 1994 Bay Area Astronomical Auction, outlining details for bidders and items, with 10% of sales benefiting the San Jose Astronomical Association (SJAA). The document is part of a larger publication titled 'EPHEMERIS' from April 1994.",
+      "categories": [
+        "event information",
+        "logistics",
+        "astronomy club activities",
+        "historical document",
+        "publication excerpt"
+      ],
+      "keywords": [
+        "Houge Park",
+        "directions",
+        "map",
+        "Bay Area Astronomical Auction",
+        "1994",
+        "registration",
+        "auction",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-04-your-visa-to-viewing-the-universe",
+      "documentId": "eph94-04",
+      "title": "Your Visa to Viewing the Universe",
+      "summary": "Robert Garfinkle's book, \"Your Visa to Viewing the Universe,\" serves as a comprehensive guide for both novice and veteran stargazers, emphasizing the essential \"star-hopping\" technique. It provides detailed monthly star-hops, a guide to the Messier Marathon, and covers fundamental astronomy skills such as reading star charts, understanding telescope types, and using light pollution filters. The book also delves into the history of the universe and ancient sky myths, making it a well-rounded resource for exploring the cosmos.",
+      "categories": [
+        "Book Description",
+        "Observational Astronomy",
+        "Stargazing Guide",
+        "Astronomy Education",
+        "Reference"
+      ],
+      "keywords": [
+        "Star-hopping",
+        "Stargazing",
+        "Observational Astronomy",
+        "Messier Marathon",
+        "Star Charts",
+        "Telescopes",
+        "Night Sky",
+        "Constellations",
+        "Astronomy Techniques",
+        "Celestial Navigation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-special-20-discount-order-form",
+      "documentId": "eph94-04",
+      "title": "SPECIAL 20% DISCOUNT ORDER FORM",
+      "summary": "This document, published in April 1994, features a special 20% discount order form for Garfinkle's *Star-Hopping* book from Cambridge University Press, valid through August 30, 1994, detailing payment and shipping terms. It also includes the 1994 calendar for the SJAA, outlining general meetings, Houge Park star parties, and observational astronomy classes from April to August.",
+      "categories": [
+        "Promotional Offer",
+        "Order Form",
+        "Event Schedule",
+        "Astronomy Club Activities",
+        "Publication"
+      ],
+      "keywords": [
+        "Star-Hopping",
+        "Book Discount",
+        "Cambridge University Press",
+        "SJAA",
+        "Astronomy Calendar",
+        "Star Party",
+        "Observational Astronomy",
+        "1994 Events",
+        "Astronomy Club",
+        "Promotional Material"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-04-telescope-loaner-status",
+      "documentId": "eph94-04",
+      "title": "Telescope Loaner Status",
+      "summary": "This document, titled \"Telescope Loaner Status,\" by Paul Barton, details the current status of telescopes available for loan through the SJAA (likely San Jose Astronomical Association). It lists various telescopes by type and size, indicating who currently has them, their due dates, and which are available. The article also provides instructions for members interested in borrowing a telescope and notes a waiting list for certain models.",
+      "categories": [
+        "Club Services",
+        "Equipment Management",
+        "Member Resources",
+        "Loaner Program"
+      ],
+      "keywords": [
+        "telescope loaner",
+        "SJAA",
+        "astronomy club",
+        "equipment availability",
+        "telescope borrowing",
+        "Paul Barton",
+        "dobsonian",
+        "refractor",
+        "newtonian",
+        "celestron"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-astro-ads",
+      "documentId": "eph94-04",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free platform for noncommercial advertisers to sell astronomy-related products or services, requiring submissions by the 12th of each month for a three-month run. The document includes examples of ads for astronomical equipment such as a roll-off roof observatory, Meade LX200 telescope, Celestron Ultima 8, and Teleview wide field eyepieces.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomy equipment",
+        "community information"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "astronomy products",
+        "astronomy services",
+        "noncommercial advertising",
+        "roll-off roof observatory",
+        "Meade LX200",
+        "Celestron Ultima 8",
+        "Teleview eyepieces",
+        "telescopes",
+        "observatory"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph94-04-march-1994",
+      "documentId": "eph94-04",
+      "title": "March 1994",
+      "summary": "This document provides a tabular listing of the lunar phases for March 1994, detailing the exact time and date for Last Quarter, New Moon, First Quarter, and Full Moon. It also includes the corresponding moonrise, transit, and moonset times for each phase.",
+      "categories": [
+        "Astronomical Data",
+        "Celestial Events",
+        "Almanac",
+        "Historical Data"
+      ],
+      "keywords": [
+        "March 1994",
+        "Lunar Phases",
+        "Moon",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Astronomy",
+        "Rise Times",
+        "Set Times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-nearer-planets",
+      "documentId": "eph94-04",
+      "title": "Nearer Planets",
+      "summary": "The document \"Nearer Planets\" provides a concise ephemeris for Mercury, Venus, Mars, Jupiter, and Saturn for three specific dates in April. It lists each planet's approximate distance in AU, apparent magnitude, and what appear to be rise, transit, and set times. Additionally, it includes data for the Sun (SOL), detailing its star type, magnitude, Right Ascension (RA), and Declination (DEC) with associated times.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Planetary Astronomy",
+        "Observational Guide"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Ephemeris",
+        "Astronomical Unit",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Planetary Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-astronomical-twilight-dawn-dusk",
+      "documentId": "eph94-04",
+      "title": "Astronomical Twilight Dawn Dusk",
+      "summary": "This document lists specific future dates and times, identified by Julian Dates, for astronomical twilight events (dawn and dusk) in the years 2006, 2018, and 2030. It functions as a concise ephemeris for these particular celestial phenomena.",
+      "categories": [
+        "Astronomy",
+        "Almanac",
+        "Timekeeping",
+        "Ephemeris",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Dawn",
+        "Dusk",
+        "Julian Date",
+        "Time Prediction",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-sidereal-time",
+      "documentId": "eph94-04",
+      "title": "Sidereal Time",
+      "summary": "This document provides specific sidereal time calculations for various dates in April, all set at 0000 PDT. It details values for 'Transit Right,' 'Ascention' (likely Right Ascension), and 'Local Midnight' relevant to astronomical timekeeping.",
+      "categories": [
+        "Astronomy",
+        "Technical",
+        "Observing Aids"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right",
+        "Right Ascension",
+        "Local Midnight",
+        "PDT",
+        "Astronomical Calculations",
+        "Timekeeping"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-darkest-saturday-night-mar-12",
+      "documentId": "eph94-04",
+      "title": "Darkest Saturday Night Mar. 12",
+      "summary": "This document provides key astronomical times for 'Darkest Saturday Night Mar. 12,' including sunset, twilight end, moonset, and dawn, all specified in Pacific Daylight Time. It highlights optimal dark sky conditions for observation and references the computational sources for these values, along with planet distance and magnitude data for the 17th of the month.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Conditions",
+        "Event Announcement",
+        "Reference"
+      ],
+      "keywords": [
+        "darkest night",
+        "March 12",
+        "sunset",
+        "moonset",
+        "twilight",
+        "dawn",
+        "Pacific Daylight Time",
+        "astronomical times",
+        "observing conditions",
+        "planet magnitude",
+        "astronomical software"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-offices-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph94-04",
+      "title": "Offices and Board of Directors | Ephemeris Contributors",
+      "summary": "This document lists the offices and Board of Directors for 'Ephemeris Contributors', including names and contact phone numbers for the President, Vice President, Secretary, Treasurer, and several Directors. It also identifies individuals responsible for editing and distribution.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Administration"
+      ],
+      "keywords": [
+        "Ephemeris Contributors",
+        "Board of Directors",
+        "Officers",
+        "Contact Information",
+        "Bob Brauer",
+        "Jack Petersen",
+        "Jim Van Nuland",
+        "Jim Hodgers",
+        "Gene Cleneros",
+        "Paul Barton",
+        "Bob Madden",
+        "Bill O' Shaughnessy",
+        "Jack Zeiders",
+        "Don Machholtz",
+        "Pat Donnelly",
+        "Editor",
+        "Distribution"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-comet-comments",
+      "documentId": "eph94-04",
+      "title": "Comet Comments",
+      "summary": "This article discusses current comet activity, highlighting Comet McNaught-Russell (1993v) which is rapidly brightening and expected to be a binocular object in early April, potentially a return from 574 AD. It also briefly notes the recovery of the much fainter Periodic Comet Wild 3 (1994b), which will not get significantly brighter.",
+      "categories": [
+        "Comets",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet McNaught-Russell",
+        "1993v",
+        "binocular object",
+        "Periodic Comet Wild 3",
+        "1994b",
+        "comet recovery",
+        "orbital period",
+        "brightness"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-ephemerides",
+      "documentId": "eph94-04",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for five periodic comets—Schwassmann-Wachmann 2, Tempel 1, Shoemaker-Levy (1991e), McNaught-Russell (1993V), and Tempel 2—for observers from March to May 1994. Each entry includes the date, right ascension, declination, elongation, sky conditions, and visual magnitude to assist with astronomical observation.",
+      "categories": [
+        "Ephemerides",
+        "Cometary Astronomy",
+        "Observing Data"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Periodic Comets",
+        "Schwassmann-Wachmann 2",
+        "Tempel 1",
+        "Shoemaker-Levy",
+        "McNaught-Russell",
+        "Tempel 2",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Observational Astronomy",
+        "1994"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph94-04-san-jose-astronomical-association-membership",
+      "documentId": "eph94-04",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association publishes its monthly newsletter, EPHEMERIS, and encourages members to submit articles for publication. Submissions should be typed, preferably on a 3-1/2\" IBM or MAC diskette, and sent to editor Bob Madden by the 12th of the previous month.",
+      "categories": [
+        "Association Information",
+        "Membership",
+        "Publication Information",
+        "Submission Guidelines"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership",
+        "EPHEMERIS",
+        "Article submission",
+        "Newsletter",
+        "Publication guidelines"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-04-san-jose-astronomical-association-membership",
+      "documentId": "eph94-04",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document serves as a membership application form for the San Jose Astronomical Association (SJAA), outlining different membership tiers and their corresponding costs. It provides instructions for submission, including mailing details to the treasurer and payment information, along with contact numbers. The form also includes the organization's address and a hotline number, and is dated April 1994.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational Information",
+        "Publication Excerpt"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Dues",
+        "Astronomy club",
+        "San Jose",
+        "Sky & Telescope",
+        "Ephemeris",
+        "1994"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9404/Eph94_04.pdf",
+      "txtPath": "9404/Eph94_04.md"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "articles": [
+    {
+      "id": "eph93-05-sjaa-ephemeris",
+      "documentId": "eph93-05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association (SJAA) titled \"SJAA EPHEMERIS.\" It is Volume 4, Number 5, and was published in May 1993, indicating it is a regular periodical from the organization.",
+      "categories": [
+        "Organizational Publication",
+        "Newsletter",
+        "Historical Document",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "May 1993",
+        "Astronomical Publication",
+        "Club Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-the-eye-piece",
+      "documentId": "eph93-05",
+      "title": "The Eye Piece",
+      "summary": "Bob Madden's \"The Eye Piece\" addresses past errors in the newsletter and discusses the logistical challenges of its monthly publication, including proofreading, content generation, and cost management. The article provides a detailed calendar of upcoming astronomical events for May, June, and July, featuring star parties, public outreach events, general meetings, and astronomy classes in the San Jose area. It also solicits feedback from readers and calls for volunteers to assist with proofreading and editing the \"Ephemeris\" newsletter.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Newsletter Publication",
+        "Volunteer Opportunities",
+        "Observing Events"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Star Parties",
+        "Astronomy Club",
+        "General Meetings",
+        "Observing",
+        "Newsletter",
+        "Publication",
+        "Volunteer",
+        "San Jose",
+        "Events Calendar",
+        "Astronomy Education",
+        "Public Outreach",
+        "Auction"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-05-the-stargazer-s-notebook",
+      "documentId": "eph93-05",
+      "title": "THE STARGAZER'S NOTEBOOK",
+      "summary": "This article, \"THE STARGAZER'S NOTEBOOK,\" offers practical advice for amateur astronomers to enhance their stargazing experiences. Author Bill Dellinges shares two crucial checklists: one for essential equipment to prevent forgotten items, and another for potential observation targets to maximize time under the night sky. The article concludes with a technical tip regarding the use of a Barlow lens with a star diagonal.",
+      "categories": [
+        "Observing Tips",
+        "Equipment Checklist",
+        "Astronomy Guides",
+        "Technical Advice"
+      ],
+      "keywords": [
+        "stargazing",
+        "checklist",
+        "telescope",
+        "dark sky site",
+        "observing preparation",
+        "equipment",
+        "polar alignment",
+        "Mars",
+        "Jupiter",
+        "Virgo galaxies",
+        "Castor",
+        "Porrima",
+        "Izar",
+        "Barlow lens",
+        "magnification",
+        "star diagonal"
+      ],
+      "pageStart": 294,
+      "pageEnd": 294
+    },
+    {
+      "id": "eph93-05-loaner-telescopes",
+      "documentId": "eph93-05",
+      "title": "LOANER TELESCOPES",
+      "summary": "The article announces that 12 loaner telescopes are now available for members, though most lack essential eyepieces. The club is seeking donations of 20-30mm eyepieces (1-1/4\" or .96\" diameter) or cash, aiming to raise around $200, possibly through an auction or direct purchase from suppliers like Orion, to equip these telescopes.",
+      "categories": [
+        "News",
+        "Equipment",
+        "Donations",
+        "Club Services"
+      ],
+      "keywords": [
+        "Loaner telescopes",
+        "Eyepieces",
+        "Donations",
+        "Members",
+        "Focal length",
+        "Telescope accessories",
+        "Fundraising"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-correction",
+      "documentId": "eph93-05",
+      "title": "CORRECTION",
+      "summary": "This document includes a correction clarifying the KAO as the Kuiper Airborne Observatory, not the Kuiper Solar Observatory. It also features a letter from Seth Shostak responding to feedback on his SETI talk, clarifying that while both radio and light waves are subject to the inverse square law, visible light suffers greater attenuation from interstellar dust, making microwaves more suitable for interstellar communication. Shostak also highlights the high sensitivity of the NASA SETI experiment using the Arecibo antenna.",
+      "categories": [
+        "Correction",
+        "Correspondence",
+        "SETI",
+        "Astrophysics",
+        "Interstellar Communication"
+      ],
+      "keywords": [
+        "KAO",
+        "Kuiper Airborne Observatory",
+        "SETI",
+        "Seth Shostak",
+        "Interstellar communication",
+        "Radio waves",
+        "Light waves",
+        "Microwaves",
+        "Interstellar dust",
+        "Attenuation",
+        "Arecibo antenna",
+        "NASA SETI experiment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-05-observing",
+      "documentId": "eph93-05",
+      "title": "Observing",
+      "summary": "This article offers essential advice for beginning astronomical observers, emphasizing preparation beyond simply owning a telescope. It highlights the critical need for personal comfort through warm clothing and the proper selection and use of detailed star charts for effective sky navigation. The author also recommends specific chart publications and a suitable red-light flashlight as crucial tools for successful nighttime observing sessions.",
+      "categories": [
+        "Observing Guide",
+        "Beginner's Tips",
+        "Amateur Astronomy",
+        "Equipment Advice"
+      ],
+      "keywords": [
+        "Amateur Astronomy",
+        "Observing Tips",
+        "Star Charts",
+        "Beginner Astronomers",
+        "Comfort",
+        "Flashlights",
+        "Star Parties",
+        "Celestial Navigation",
+        "Telescope Operation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-star-parties",
+      "documentId": "eph93-05",
+      "title": "STAR PARTIES",
+      "summary": "A star party held on Saturday, March 20, at Fremont Peak experienced mixed seeing conditions due to high thin clouds, but was generally pleasant with mild temperatures. Despite initial delays due to light pollution from various sources, attendees enjoyed viewing numerous astronomical objects like M51 and M81/M82 with a dozen telescopes on Telescope Row and more at a Messier Marathon. The article also lists participants and their telescopes, and reminds visitors to pay the State Park fee to support Ranger Rick Morales.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Community Astronomy"
+      ],
+      "keywords": [
+        "Star Party",
+        "Fremont Peak",
+        "Observing Conditions",
+        "Messier Marathon",
+        "Telescopes",
+        "Light Pollution",
+        "Park Fees",
+        "Paul Barton",
+        "M51",
+        "M81",
+        "M82",
+        "Corvus",
+        "Crater",
+        "Hydra"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-aavao-and-aas-hold-consecutive-meetings",
+      "documentId": "eph93-05",
+      "title": "AAVAO AND AAS HOLD CONSECUTIVE MEETINGS!",
+      "summary": "The AAVSO and the American Astronomical Society (AAS) will hold consecutive meetings in Berkeley, California, in June. The AAVSO's 82nd Spring Meeting is scheduled for June 4-6, followed by the 182nd AAS Annual Meeting from June 6-10. Additionally, a 3rd CCD Workshop will be jointly hosted by AAVSO, AAS, and Sky & Telescope magazine on June 6.",
+      "categories": [
+        "meetings",
+        "events",
+        "announcement",
+        "astronomical societies"
+      ],
+      "keywords": [
+        "AAVSO",
+        "AAS",
+        "American Astronomical Society",
+        "CCD Workshop",
+        "Berkeley",
+        "Sky & Telescope",
+        "astronomy meetings",
+        "registration",
+        "June 1993"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-05-directions-to-our-favorite-places-by-your-editor",
+      "documentId": "eph93-05",
+      "title": "Directions to our Favorite Places by your Editor",
+      "summary": "This article provides detailed directions to several key locations for astronomy enthusiasts, including the Milpitas Library for board meetings and beginning astronomy classes, Houge Park for public star parties, and Henry Coe State Park and Grant Ranch as observing sites. It includes specific instructions for navigation, park rules, safety precautions, and accessibility information for each location. The document aims to guide members and the public to various astronomical events and activities.",
+      "categories": [
+        "Directions",
+        "Observing Sites",
+        "Events",
+        "Logistics",
+        "Community Astronomy"
+      ],
+      "keywords": [
+        "Directions",
+        "Astronomy",
+        "Star Parties",
+        "Observing Sites",
+        "Milpitas Library",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Grant Ranch",
+        "Meetings",
+        "Classes",
+        "Local Astronomy",
+        "Safety"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-05-general-meeting",
+      "documentId": "eph93-05",
+      "title": "General Meeting",
+      "summary": "This article summarizes a general meeting featuring presentations by Rick McWilliams of Tangent Instruments and Ron Scheldrup of The Star Port. McWilliams discussed the evolution of his digital setting circles and guiding computers, from early RA/Dec displays to current models with extensive object catalogs and advanced calibration, along with plans for a large portable telescope. Scheldrup presented his 'Star Port,' an electronic star chart building on McWilliams' technology, which uses an LED grid and touchscreen to dynamically display the sky and guide users to objects, also serving as an indoor planning tool.",
+      "categories": [
+        "Events",
+        "Technical",
+        "Product News",
+        "Observing Technology",
+        "Astronomy Instrumentation"
+      ],
+      "keywords": [
+        "Rick McWilliams",
+        "Tangent Instruments",
+        "Ron Scheldrup",
+        "The Star Port",
+        "Digital Setting Circles",
+        "Telescope Guiding Computers",
+        "Astronomical Instrumentation",
+        "Observational Astronomy",
+        "Star Charts",
+        "Deep-sky objects",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-comparisons-considerations",
+      "documentId": "eph93-05",
+      "title": "Comparisons, considerations",
+      "summary": "This article compares two telescope computer devices, \"Star Port\" and \"McCircles,\" highlighting their similar functionalities for telescope alignment and object finding. Key differences include price (McCircles being significantly cheaper), power source, and portability, with McCircles being much more compact. The author also suggests that learning the sky with star charts is a cost-effective alternative to such gadgets.",
+      "categories": [
+        "Product Comparison",
+        "Astronomical Equipment",
+        "Buying Guide",
+        "Analysis"
+      ],
+      "keywords": [
+        "Star Port",
+        "McCircles",
+        "Telescope Computer",
+        "Astronomical Gadgets",
+        "Goto System",
+        "Portability",
+        "Price Comparison",
+        "Star Charts",
+        "Astronomy Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-astro-ad",
+      "documentId": "eph93-05",
+      "title": "ASTRO AD",
+      "summary": "This document features classified advertisements for used astronomical equipment, including a Celestron SPC 80 Refractor and a 12.5\" Newtonian telescope, detailing their specifications, prices, and contact information. Additionally, it provides the 1993 calendar for the San Jose Astronomical Association (SJAA), outlining dates for general meetings, star parties, and observational astronomy classes from May to December, with special events like an auction and a picnic highlighted.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Events Calendar",
+        "Club News",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Celestron SPC 80 Refractor",
+        "Newtonian telescope",
+        "astronomy equipment",
+        "telescope sales",
+        "San Jose Astronomical Association (SJAA)",
+        "1993 calendar",
+        "general meetings",
+        "star parties",
+        "observational astronomy class",
+        "auction",
+        "picnic",
+        "eyepieces",
+        "telescope mounts"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-05-sjaa-loaner-status",
+      "documentId": "eph93-05",
+      "title": "SJAA Loaner Status",
+      "summary": "The article provides an update on the San Jose Astronomical Association's (SJAA) telescope loaner program, detailing which members currently possess specific telescopes, their models, and their due dates in May and June 1993. It also lists individuals on a waiting list and instructs interested members to contact Paul Barton to borrow a telescope, stressing the importance of timely returns.",
+      "categories": [
+        "Club Operations",
+        "Program Update",
+        "Equipment Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Astronomy Club",
+        "Equipment Borrowing",
+        "Due Dates",
+        "Waiting List",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-astro-ads",
+      "documentId": "eph93-05",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classifieds service for noncommercial advertisers to sell used astronomical products and services. Advertisements, which detail various telescopes and accessories from brands like Meade, Astro-Physics, and Celestron, must be submitted to Editor Bob Madden by the 12th of each month and will run for approximately three months.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Used Sales",
+        "Community Bulletin"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "astronomy",
+        "telescopes",
+        "equipment",
+        "accessories",
+        "for sale",
+        "Meade",
+        "Astro-Physics",
+        "Celestron",
+        "eyepieces",
+        "mounts",
+        "classified ads"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-05-may-1993",
+      "documentId": "eph93-05",
+      "title": "May 1993",
+      "summary": "This document provides astronomical data for May 1993, including lunar phases in Universal Time and the positions, magnitudes, and rise/transit/set times for Mercury, Venus, Mars, Jupiter, and Saturn in Pacific Daylight Time. It also details astronomical twilight, sidereal time, and highlights the darkest Saturday night for observation, attributing the data to specific astronomical software and books.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Planetary Positions",
+        "Lunar Phases"
+      ],
+      "keywords": [
+        "May 1993",
+        "Lunar Phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Pacific Daylight Time",
+        "Astrophotography",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-offices-and-board-of-directors",
+      "documentId": "eph93-05",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current officers and members of the Board of Directors, providing their names, positions (such as President, Vice President, Treasurer, Secretary, and Director), and corresponding phone numbers. It serves as a directory for the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Contact Information",
+        "Governance"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "Contact Information",
+        "Organizational Structure",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-ephemeris-contributors",
+      "documentId": "eph93-05",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists the names and phone numbers of individuals who are identified as \"Ephemeris Contributors.\" It functions as a basic contact directory for these individuals.",
+      "categories": [
+        "Contact List",
+        "Directory",
+        "Reference"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "contributors",
+        "contact information",
+        "phone numbers",
+        "directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-comet-comments",
+      "documentId": "eph93-05",
+      "title": "Comet Comments",
+      "summary": "This article discusses several recent comet and asteroid discoveries and observations within our solar system. It highlights the fading of Comet Schumasse, the discovery of Comet Shoemaker-Levy (1993e) with its multiple nuclei possibly from a Jupiter encounter, and the announcements of Comet Mueller (1993d) and Periodic Comet Forbes (1993f). Additionally, it touches on the mysterious object 1993FW, which may be a cometoid or large asteroid, located far from the Sun.",
+      "categories": [
+        "Astronomical Discoveries",
+        "Observing Reports",
+        "Solar System News",
+        "Cometary Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Asteroids",
+        "Comet Shoemaker-Levy",
+        "Comet Mueller",
+        "Comet Forbes",
+        "1993FW",
+        "Solar System",
+        "Observations",
+        "Magnitude",
+        "Perihelion",
+        "Jupiter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-periodic-comet-schaumasse-1992x",
+      "documentId": "eph93-05",
+      "title": "PERIODIC COMET SCHAUMASSE (1992x)",
+      "summary": "This document provides an ephemeris for Periodic Comet Schaumasse (1992x) for the period of late April to mid-May. It lists the comet's predicted right ascension, declination, elongation from the sun, sky visibility (eastern), and estimated visual magnitude for several dates.",
+      "categories": [
+        "Comets",
+        "Ephemeris",
+        "Observing Guide",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Periodic Comet Schaumasse",
+        "1992x",
+        "comet",
+        "ephemeris",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "astronomical coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-comet-shoemaker-levy-1993e",
+      "documentId": "eph93-05",
+      "title": "COMET SHOEMAKER-LEVY (1993e)",
+      "summary": "This document provides an ephemeris for Comet Shoemaker-Levy (1993e), detailing its predicted celestial coordinates (Right Ascension and Declination), elongation, sky visibility, and magnitude. The data covers a period from late April through early June 1993, offering astronomers essential information for locating and observing the comet.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Comets",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Levy (1993e)",
+        "Ephemeris",
+        "Comet",
+        "Astronomical data",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "1993"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-05-san-jose-astronomical-association-membership",
+      "documentId": "eph93-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association publishes \"EPHEMERIS\" monthly and encourages members to submit articles for publication. Submissions should be typed, preferably on a 3-1/2\" IBM or MAC diskette, and sent to editor Bob Madden no later than the 12th of the previous month.",
+      "categories": [
+        "Membership Information",
+        "Publication Guidelines",
+        "Astronomical Association",
+        "Newsletter"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership",
+        "EPHEMERIS",
+        "Article Submission",
+        "Publication",
+        "Guidelines",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-05-san-jose-astronomical-association-membership",
+      "documentId": "eph93-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership options (e.g., Membership only, Membership/S&T, Junior) and their associated fees. It provides clear instructions on how to apply or renew, including a mailing address for the treasurer and a hotline number for information.",
+      "categories": [
+        "Membership",
+        "Administrative",
+        "Organizational"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Membership renewal",
+        "Membership fees",
+        "Sky & Telescope",
+        "Junior membership",
+        "Non-profit organization",
+        "Milpitas",
+        "May 1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9305/Eph93_05.pdf",
+      "txtPath": "9305/Eph93_05.md"
+    }
+  ]
+}

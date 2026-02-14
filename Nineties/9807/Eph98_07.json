@@ -1,0 +1,888 @@
+{
+  "articles": [
+    {
+      "id": "eph98-07-benoit-on-ccd-s",
+      "documentId": "eph98-07",
+      "title": "BENOIT ON CCD'S",
+      "summary": "At a recent meeting, amateur CCD imager Benoit Schillings discussed his pioneering work on adaptive optics for amateur astronomy. Driven by a challenge to achieve sub-arcsecond resolution, Schillings developed a DIY adaptive optical guiding system that significantly improved image tightness for modest aperture instruments. His refined 'Mark II' system was later adopted and sold by SBIG, demonstrating a significant advancement in amateur imaging technology.",
+      "categories": [
+        "Meeting Report",
+        "Technical",
+        "Amateur Astronomy",
+        "Imaging Technology"
+      ],
+      "keywords": [
+        "Benoit Schillings",
+        "CCD",
+        "Adaptive Optics",
+        "Amateur Imaging",
+        "Guiding System",
+        "Sub-arcsecond resolution",
+        "SBIG",
+        "Telescope Technology"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph98-07-july",
+      "documentId": "eph98-07",
+      "title": "JULY",
+      "summary": "The document provides a detailed schedule of astronomical events and meetings for the month of July. It lists several star parties at Houge Park and Fremont Peak, along with a general meeting at Houge Park. Each star party entry includes useful observing information such as sunset times and moon phase/set/rise times.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Calendar",
+        "Observing Events"
+      ],
+      "keywords": [
+        "July",
+        "Star Party",
+        "Astronomy Events",
+        "General Meeting",
+        "Houge Park",
+        "Fremont Peak",
+        "Moon Phases",
+        "Observing Schedule",
+        "Sunset"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-august",
+      "documentId": "eph98-07",
+      "title": "AUGUST",
+      "summary": "The August schedule for the San Jose Astronomical Association (SJAA) features a \"Planetary Observing\" class, a general meeting with a presentation on \"The Wonders of Jupiter\" by Jose Olivarez, and multiple star parties at Houge Park, Fremont Peak, and Coe. The document also provides contact information and an important note regarding SJAA insurance coverage for members.",
+      "categories": [
+        "Events",
+        "Astronomy Clubs",
+        "Observing",
+        "Education",
+        "Meetings",
+        "Lectures",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "August",
+        "Astronomy",
+        "Star Parties",
+        "Jupiter",
+        "Planetary Observing",
+        "Houge Park",
+        "Fremont Peak",
+        "Coe",
+        "SJAA",
+        "Jose Olivarez",
+        "Rich Neuschaefer",
+        "General Meeting",
+        "Night Sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-the-celestial-tourist-speaks",
+      "documentId": "eph98-07",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "Jay Freeman, 'The Celestial Tourist,' recounts his profound experience observing the quasar 3C273 in the early 1980s, reflecting on its immense cosmological distance and the ancient origin of its light. He also reviews the movie 'Deep Impact,' finding it to be a 'pretty good' dramatization of humanity's response to a potential comet impact, despite not being 'excellent science fiction'.",
+      "categories": [
+        "Observing Report",
+        "Movie Review",
+        "Astronomy Opinion",
+        "Cosmology"
+      ],
+      "keywords": [
+        "Jay Freeman",
+        "The Celestial Tourist",
+        "3C273",
+        "Quasar",
+        "Celestron 14",
+        "Cosmology",
+        "Deep Impact (movie)",
+        "Comet",
+        "Astronomy observation",
+        "Science fiction",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph98-07-perseis-from-p-1",
+      "documentId": "eph98-07",
+      "title": "Perseis, from p. 1",
+      "summary": "An adaptive optic guider significantly improves image quality for amateur astronomers by correcting mount imperfections, especially for longer exposures, reducing image spread by half. While less effective for short-exposure lunar and planetary CCD imaging, a new program is being developed to enhance results in those areas. The article praises Benoit's insightful and engaging presentation on the topic, highlighting his expertise in CCD work.",
+      "categories": [
+        "Technical",
+        "Astrophotography",
+        "Equipment",
+        "Presentation Summary"
+      ],
+      "keywords": [
+        "adaptive optic guider",
+        "CCD imaging",
+        "amateur astronomy",
+        "mount performance",
+        "astrophotography",
+        "exposure time",
+        "lunar imaging",
+        "planetary imaging",
+        "Benoit"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph98-07-tourist-from-p-1",
+      "documentId": "eph98-07",
+      "title": "Tourist, from p. 1",
+      "summary": "This article reviews a science fiction production, likely a film, evaluating its scientific details and plot elements. The reviewer notes that while some scientific lapses were present for dramatization, the overall accuracy was decent for the genre, avoiding major scientific blunders often seen in such cinema.",
+      "categories": [
+        "Movie Review",
+        "Science Fiction",
+        "Film Analysis",
+        "Critique"
+      ],
+      "keywords": [
+        "Science fiction",
+        "Film review",
+        "Scientific accuracy",
+        "Dramatization",
+        "Cinema",
+        "Plot",
+        "Hugo Gernsback"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph98-07-periodical-publication-statement",
+      "documentId": "eph98-07",
+      "title": "PERIODICAL PUBLICATION STATEMENT",
+      "summary": "The 'SJAA Ephemeris,' the official newsletter of the San Jose Astronomical Association, is published monthly, totaling 12 issues per year, from January through December. The statement also provides the full postal address for the San Jose Astronomical Association.",
+      "categories": [
+        "Publication Information",
+        "Organizational Details",
+        "Newsletter"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "newsletter",
+        "publication schedule",
+        "monthly",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-akkana-peck",
+      "documentId": "eph98-07",
+      "title": "Akkana Peck",
+      "summary": "The article provides an astronomical guide for July, highlighting the return of Jupiter and Saturn to the night sky, along with their key observational events like Jupiter's retrograde motion and a double moon shadow transit. It also details the visibility of Mercury, Venus, Mars, and the dim outer planets (Uranus, Neptune, Pluto), and mentions the peak of the Delta-Aquarid meteor shower.",
+      "categories": [
+        "observing reports",
+        "astronomical guide",
+        "celestial events",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "July",
+        "Jupiter",
+        "Saturn",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "retrograde motion",
+        "moon shadow transit",
+        "western quadrature",
+        "opposition",
+        "Delta-Aquarid meteor shower",
+        "eastern elongation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph98-07-david-north",
+      "documentId": "eph98-07",
+      "title": "David North",
+      "summary": "This article is a personal report from a representative attending the RTMC astronomy convention, detailing the event's atmosphere, challenges, and highlights. The author describes the dusty mountain location, parking difficulties, but praises the abundance of unique amateur-built telescopes and the inspiring community of astronomy enthusiasts. Specific innovative telescope designs, such as an f/40 refractor, a split-ring mount, and various Dobsonian and portable designs, are noted as key attractions of the event.",
+      "categories": [
+        "observing reports",
+        "events",
+        "amateur astronomy",
+        "technical innovation"
+      ],
+      "keywords": [
+        "RTMC",
+        "telescopes",
+        "amateur astronomy",
+        "observing convention",
+        "telescope design",
+        "DIY astronomy",
+        "Big Bear",
+        "astronomy events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph98-07-rtmc-from-p-2",
+      "documentId": "eph98-07",
+      "title": "RTMC, from p. 2",
+      "summary": "This article provides a brief recap of an event, highlighting various telescope manufacturers and vendors showcasing their innovations. The author mentions specific companies like Starsplitter, Celestron, Pocono, and Mountain Instruments, noting interesting products and designs. The event offered a valuable opportunity to see new inventory and connect with people in the astronomy community.",
+      "categories": [
+        "Event Report",
+        "Equipment Showcase",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "RTMC",
+        "Telescopes",
+        "Vendors",
+        "Astronomy Equipment",
+        "Celestron",
+        "Meade",
+        "Astrophysics",
+        "Starsplitter",
+        "Orion",
+        "Pocono",
+        "Joe Sunseri",
+        "Bill Vorce",
+        "Teletrade",
+        "Protostar",
+        "Mountain Instruments",
+        "Crazy Ed Optical",
+        "Mounts",
+        "Refractors"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph98-07-david-north",
+      "documentId": "eph98-07",
+      "title": "David North",
+      "summary": "This article details celestial observation opportunities for July, primarily focusing on lunar events. It highlights a rare chance to view Mare Orientale during a full Moon on July 8th/9th due to maximum western limb libration, and mentions the smallest Moon of the year around July 4th. The author also notes close approaches by Jupiter and Saturn, two first-quarter Moons, and good conditions for observing eastern lunar features like Mare Crisium.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Lunar Observation",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observation",
+        "Full Moon",
+        "Mare Orientale",
+        "Libration",
+        "Jupiter",
+        "Saturn",
+        "First Quarter Moon",
+        "Eastern lunar features",
+        "Aphelion",
+        "July observations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-david-north",
+      "documentId": "eph98-07",
+      "title": "David North",
+      "summary": "This article discusses the personal benefits of using an observer's eye patch for enhanced stargazing comfort. It also provides an update on the Fremont Peak Observatory's 30\" Challenger Telescope, which is back in operation after repairs and is awaiting further upgrades like custom focusers and light baffles. Additionally, it notes the lack of a quorum at a recent board meeting and the rescheduling of an astrophotography class to September.",
+      "categories": [
+        "Observing Aids",
+        "Observatory News",
+        "Club Administration",
+        "Educational Events"
+      ],
+      "keywords": [
+        "Observer's eye patch",
+        "Fremont Peak Observatory",
+        "Challenger Telescope",
+        "Telescope maintenance",
+        "Board meeting",
+        "Astrophotography class"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph98-07-don-machholz",
+      "documentId": "eph98-07",
+      "title": "Don Machholz",
+      "summary": "This article details recent comet discoveries, including Comet 1998 K1 (Mueller) and three LINEAR comets initially found as asteroidal objects with comae or tails. It also analyzes the declination ranges where amateur astronomers typically discover comets, providing a statistical breakdown for both hemispheres. Additionally, the document includes ephemerides for several notable comets like C/1997 J2 (Meunier-Dupouy), C/1995 O1 (Hale-Bopp), and C/1998 J1 (SOHO) for July and early August.",
+      "categories": [
+        "Comet Discoveries",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Astronomical Data",
+        "News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Amateur Comet Hunting",
+        "Declination",
+        "Ephemerides",
+        "Magnitude",
+        "LINEAR",
+        "Palomar Sky Survey",
+        "C/1998 K1 (Mueller)",
+        "C/1998 K2 (LINEAR)",
+        "C/1998 K3 (LINEAR)",
+        "C/1998 K5 (LINEAR)",
+        "C/1997 J2 (Meunier-Dupouy)",
+        "C/1995 O1 (Hale-Bopp)",
+        "C/1998 J1 (SOHO)"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-orbital-elements",
+      "documentId": "eph98-07",
+      "title": "Orbital Elements",
+      "summary": "This document presents a table detailing the orbital elements for three celestial objects: Comet Hale-Bopp, Comet Meunier-Dupouy, and SOHO. Key parameters listed include perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, orbital period, and absolute magnitude, offering a comparative overview of their trajectories.",
+      "categories": [
+        "Technical Data",
+        "Astronomy",
+        "Orbital Mechanics",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Hale-Bopp",
+        "Meunier-Dupouy",
+        "SOHO",
+        "Comets",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Orbital Period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-submit",
+      "documentId": "eph98-07",
+      "title": "SUBMIT",
+      "summary": "The SJAA *Ephemeris* newsletter encourages members to submit articles for publication. Submissions, which should include the author's name and phone number, must be sent via email to Dave North at Timocharis@aol.com by the tenth of each month to be included in the following month's issue.",
+      "categories": [
+        "Announcement",
+        "Call for Submissions",
+        "Newsletter",
+        "Guidelines"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "Article submission",
+        "Publication",
+        "Newsletter",
+        "Submission deadline",
+        "Dave North"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph98-07-lunar-phase-time",
+      "documentId": "eph98-07",
+      "title": "Lunar Phase Time",
+      "summary": "This document provides a table detailing the timing of major lunar phases for a given month, including First Quarter (FQ), Full Moon (FM), Last Quarter (LQ), and New Moon (NM). For each phase, it lists the time, date, moonrise time, transit time, and moonset time, with all times specified in Pacific Daylight Time (PDT).",
+      "categories": [
+        "Astronomy",
+        "Lunar Events",
+        "Almanac",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "lunar phases",
+        "moon",
+        "first quarter",
+        "full moon",
+        "last quarter",
+        "new moon",
+        "moonrise",
+        "moonset",
+        "transit",
+        "PDT",
+        "astronomical timing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-mercury",
+      "documentId": "eph98-07",
+      "title": "Mercury",
+      "summary": "This document provides an astronomical ephemeris for the planet Mercury, detailing its magnitude and distance in A.U. It lists daily rise, transit, and set times, along with its Right Ascension and Declination for the 7th, 17th, and 27th of the month, serving as a guide for observers.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Observing Guide",
+        "Planetary Information"
+      ],
+      "keywords": [
+        "Mercury",
+        "Ephemeris",
+        "Rise Time",
+        "Transit Time",
+        "Set Time",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical Unit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-venus",
+      "documentId": "eph98-07",
+      "title": "Venus",
+      "summary": "This document provides an astronomical ephemeris for Venus for three dates within a month (7th, 17th, 27th). It includes the planet's rise, transit, and set times, along with its Right Ascension, Declination, magnitude, and distance from the Sun in Astronomical Units.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Planetary Information"
+      ],
+      "keywords": [
+        "Venus",
+        "ephemeris",
+        "rise time",
+        "set time",
+        "transit time",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "astronomical units"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-mars",
+      "documentId": "eph98-07",
+      "title": "Mars",
+      "summary": "This document provides astronomical ephemeris data for Mars for three specific dates, likely within a single month. It lists Mars's distance from Earth (2.5 AU), apparent magnitude (+1.5), and its rise, transit, and set times, along with its right ascension (R.A.) and declination (Dec.) for each date.",
+      "categories": [
+        "Ephemeris Data",
+        "Planetary Astronomy",
+        "Observing Information",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Mars",
+        "ephemeris",
+        "astronomy",
+        "magnitude",
+        "rise time",
+        "transit time",
+        "set time",
+        "right ascension",
+        "declination",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-jupiter",
+      "documentId": "eph98-07",
+      "title": "Jupiter",
+      "summary": "This document provides an ephemeris for Jupiter, listing its magnitude, distance, and daily rise, transit, and set times for various dates. It also includes the planet's Right Ascension and Declination, making it a useful resource for astronomical observers.",
+      "categories": [
+        "observing reports",
+        "ephemeris",
+        "astronomical data",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "Jupiter",
+        "ephemeris",
+        "magnitude",
+        "rise time",
+        "set time",
+        "transit time",
+        "Right Ascension",
+        "Declination",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-saturn",
+      "documentId": "eph98-07",
+      "title": "Saturn",
+      "summary": "This document provides an astronomical ephemeris for Saturn, detailing its observable characteristics and positional data over a period of three dates. It includes its magnitude, distance in A.U., daily rise, transit, and set times, along with its Right Ascension and Declination.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guide",
+        "Planetary Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "Ephemeris",
+        "Planetary Position",
+        "Magnitude",
+        "Rise/Set times",
+        "Right Ascension",
+        "Declination",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-sol-star-type-g2v-intelligent-life-in-system",
+      "documentId": "eph98-07",
+      "title": "SOL/Star Type G2V Intelligent Life in System?",
+      "summary": "The article presents a speculative question regarding the existence of intelligent life within a SOL/Star Type G2V system. Following this intriguing title, it provides a table of astronomical data, including hours of darkness, rise/transit/set times, right ascension, and declination across several dates, which appears to be observational or ephemeris data.",
+      "categories": [
+        "Astrobiology",
+        "Observational Astronomy",
+        "Stellar Classification"
+      ],
+      "keywords": [
+        "Intelligent Life",
+        "G2V Star",
+        "Astronomical Data",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-astronomical-twilight",
+      "documentId": "eph98-07",
+      "title": "Astronomical Twilight",
+      "summary": "This document provides a tabular listing of astronomical twilight start and end times for specific Julian Dates (JD). It details how these times vary across different dates, offering a schedule for when astronomical twilight begins and concludes.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Twilight Times",
+        "Begin Time",
+        "End Time",
+        "Sky Conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-siderealtime",
+      "documentId": "eph98-07",
+      "title": "Siderealtime",
+      "summary": "This document, titled \"Siderealtime,\" presents a concise table illustrating the progression of sidereal time. It lists the \"Transit Right Ascension at Local Midnight\" for specific numerical values (07, 17, 27) at 00:00, showing corresponding sidereal times of 17:52, 18:31, and 19:11. This data likely serves as a reference or an example for understanding sidereal time calculations.",
+      "categories": [
+        "technical",
+        "astronomical data",
+        "reference"
+      ],
+      "keywords": [
+        "Sidereal time",
+        "Right Ascension",
+        "Astronomy",
+        "Celestial Coordinates",
+        "Timekeeping"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-darkest-saturday-night-25-jul-98",
+      "documentId": "eph98-07",
+      "title": "Darkest Saturday Night 25-Jul-98",
+      "summary": "This document details the astronomical timings for \"Darkest Saturday Night\" on July 25, 1998. It lists crucial times such as sunset, twilight end, moon set, dawn begin, and the total hours of darkness available for optimal stargazing.",
+      "categories": [
+        "Observing Conditions",
+        "Astronomy",
+        "Night Sky",
+        "Planning"
+      ],
+      "keywords": [
+        "Dark Sky",
+        "Night Sky",
+        "Astronomical Times",
+        "Sunset",
+        "Moonset",
+        "Twilight",
+        "Darkness Hours",
+        "Stargazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-activities-through-other-clubs",
+      "documentId": "eph98-07",
+      "title": "ACTIVITIES THROUGH OTHER CLUBS",
+      "summary": "This article outlines astronomy observing activities and events hosted by various clubs. TAC offers indefinite Wednesday observing at Montebello (requiring a permit holder and website check), as well as mobile First Quarter Friday star parties and Third Quarter Friday star parties at Van Meter school. PAS provides public viewing at Foothill Observatory every clear Friday evening and solar viewing every clear Saturday morning, encouraging SJAA members to attend.",
+      "categories": [
+        "Observing Events",
+        "Club Activities",
+        "Public Outreach",
+        "Astronomy Schedules"
+      ],
+      "keywords": [
+        "TAC",
+        "PAS",
+        "Montebello site",
+        "Van Meter school",
+        "Foothill Observatory",
+        "Star parties",
+        "Public viewing",
+        "Solar viewing",
+        "Astronomy clubs",
+        "Observing schedules"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-july",
+      "documentId": "eph98-07",
+      "title": "July",
+      "summary": "The article outlines the Palo Alto Astronomical Society's (PAS) activities for July and August, including general meetings and board meetings held at Foothill College. It also details a series of star parties scheduled at Foothill Park, providing dates, times, and instructions for public participation and telescope owners. These events are primarily held on Saturday evenings, with specific parking and entry information provided.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Meetings",
+        "Observing"
+      ],
+      "keywords": [
+        "Palo Alto Astronomical Society",
+        "PAS",
+        "General Meeting",
+        "Board Meeting",
+        "Foothill College",
+        "Foothill College Observatory",
+        "Star Parties",
+        "Foothill Park",
+        "Telescope",
+        "July Events",
+        "August Events",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-stanford-seminars",
+      "documentId": "eph98-07",
+      "title": "STANFORD SEMINARS",
+      "summary": "Stanford University is hosting a summer seminar series titled 'New Science and Technology in the Aerospace Age' on Thursdays at Terman Auditorium. The series features speakers from NASA Ames Research Center and SETI, covering topics such as space missions, infrared astronomy, air traffic management, and the search for life beyond Earth. All SJAA members are invited to attend these free presentations.",
+      "categories": [
+        "Events",
+        "Seminars",
+        "Astronomy",
+        "Aerospace",
+        "Science"
+      ],
+      "keywords": [
+        "Stanford Seminars",
+        "Aerospace Technology",
+        "NASA Ames",
+        "Space Exploration",
+        "SETI",
+        "Infrared Astronomy",
+        "Mars Missions"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph98-07-officers-and-board-of-directors",
+      "documentId": "eph98-07",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors, including their positions (President, VP, Secretary, Treasurer, Director) and associated phone numbers. It provides a direct contact list for the leadership of the organization.",
+      "categories": [
+        "Organization",
+        "Administration",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact List",
+        "Directory",
+        "Management"
+      ],
+      "pageStart": 446,
+      "pageEnd": 446
+    },
+    {
+      "id": "eph98-07-ephemeris-staff",
+      "documentId": "eph98-07",
+      "title": "Ephemeris Staff",
+      "summary": "This document lists the staff members responsible for the \"Ephemeris\" publication, detailing their specific roles and contact information where available. Key positions include Editor, Circulation, Layout, and Proofing, with individuals like David North and Bob Brauer named.",
+      "categories": [
+        "Internal Information",
+        "Staff Directory",
+        "Publication Credits",
+        "Organizational"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Staff",
+        "Editor",
+        "Circulation",
+        "Layout",
+        "Proofing",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-mike-koop",
+      "documentId": "eph98-07",
+      "title": "Mike Koop",
+      "summary": "The article informs all SJAA members that they can reserve available telescopes by contacting Mike Koop. His phone number, (408) 473-6315, is provided for reservations.",
+      "categories": [
+        "member services",
+        "club operations",
+        "equipment access",
+        "announcement"
+      ],
+      "keywords": [
+        "Mike Koop",
+        "SJAA",
+        "scope reservation",
+        "telescopes",
+        "members",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-current-scope-loans",
+      "documentId": "eph98-07",
+      "title": "Current Scope Loans",
+      "summary": "This document lists telescopes currently on loan, detailing the scope's description, the borrower, and the due date. Interested individuals are encouraged to join a waiting list for scopes once they become available after their respective due dates.",
+      "categories": [
+        "Equipment Management",
+        "Loan Program",
+        "Astronomy Club Resources"
+      ],
+      "keywords": [
+        "telescope loans",
+        "astronomy equipment",
+        "loaned scopes",
+        "due dates",
+        "Dobson",
+        "Celestron",
+        "refractor",
+        "Newtonian",
+        "astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-extended-scope-loans",
+      "documentId": "eph98-07",
+      "title": "Extended Scope Loans",
+      "summary": "This document lists astronomical telescopes with extended loan periods, detailing the scope type, current borrower, and due date (or indefinite status). It outlines a process for interested individuals to request borrowing these scopes by arranging a transfer time with the current borrower.",
+      "categories": [
+        "Equipment Loan",
+        "Astronomy",
+        "Resource Management",
+        "Administrative"
+      ],
+      "keywords": [
+        "telescope loans",
+        "extended loans",
+        "astronomical equipment",
+        "borrowing scopes",
+        "equipment management",
+        "telescopes",
+        "loan period",
+        "borrower",
+        "due date"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-07-available-scopes",
+      "documentId": "eph98-07",
+      "title": "Available Scopes",
+      "summary": "The article lists several telescopes available for immediate loan to members of the San Jose Astronomical Association (SJAA). Interested members can contact Mike Koop to arrange pick-up at SJAA events. It also highlights a recent donation of an 8\" f/8 reflector to the loaner program and requests more members to volunteer storage space for scopes.",
+      "categories": [
+        "Loaner Program",
+        "Membership Services",
+        "Equipment",
+        "News",
+        "Community"
+      ],
+      "keywords": [
+        "Telescope loan",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Astronomy equipment",
+        "Loaner program",
+        "Telescopes",
+        "Donation",
+        "Scope storage"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph98-07-san-jose-astronomical-association-membership-form",
+      "documentId": "eph98-07",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing options for new or renewal memberships at $15 for regular members and $6 for juniors. It also offers an optional $27 add-on for a Sky & Telescope subscription. The form provides instructions for payment via check to \"SJAA\" and submission either at an SJAA meeting or by mail to the treasurer.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizations",
+        "Finance",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership form",
+        "Astronomy club",
+        "Dues",
+        "Fees",
+        "Renewal",
+        "Sky & Telescope",
+        "Junior membership",
+        "Application"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph98-07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9807/Eph98_07.pdf",
+      "txtPath": "9807/Eph98_07.md"
+    }
+  ]
+}

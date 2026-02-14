@@ -1,0 +1,564 @@
+{
+  "articles": [
+    {
+      "id": "eph93-04-sjaa-ephemeris",
+      "documentId": "eph93-04",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA Ephemeris, Volume 4, Number 4, is the official publication of the San Jose Astronomical Association for April 1993. As an 'Ephemeris,' it likely contains astronomical data, news, and reports relevant to the association's members.",
+      "categories": [
+        "Publication",
+        "Astronomy News",
+        "Association News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "April 1993",
+        "Astronomy Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-04-the-eye-piece",
+      "documentId": "eph93-04",
+      "title": "The Eye Piece",
+      "summary": "The 'Eye Piece' column introduces new author Jeff Horne and an upcoming series by Bill Dillinges called 'Stargazers Notebook,' which will cover various astronomy topics and equipment. It also solicits donations of .965 and 1.25-inch eyepieces for the club's telescope loaner system and announces the re-election of current club officers. A comprehensive calendar of events from April to June is provided, detailing general meetings, astronomy classes, and numerous public and member star parties.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Announcements",
+        "Astronomy Education",
+        "Equipment"
+      ],
+      "keywords": [
+        "Astronomy club news",
+        "Events calendar",
+        "Star parties",
+        "Telescope loaner system",
+        "Eyepiece donations",
+        "Astronomy classes",
+        "Club officers",
+        "Stargazers Notebook",
+        "Sky and Telescope",
+        "Digital Setting Circles",
+        "FOSTER Program"
+      ],
+      "pageStart": 1,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-04-sky-and-telescope-back-issues",
+      "documentId": "eph93-04",
+      "title": "Sky and Telescope Back Issues",
+      "summary": "The article discusses the value of preserving back issues of *Sky and Telescope* magazine. The author agrees with most readers that these magazines are worth saving, primarily because they provide a historical perspective on the development of astronomy and related topics.",
+      "categories": [
+        "Opinion/Commentary",
+        "Hobby & Collecting",
+        "Magazine Analysis"
+      ],
+      "keywords": [
+        "Sky and Telescope",
+        "back issues",
+        "magazine",
+        "collecting",
+        "historical value",
+        "astronomy publication"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-04-continued-from-page-1",
+      "documentId": "eph93-04",
+      "title": "Continued from page 1",
+      "summary": "This article, part of a larger collection of Sky & Telescope magazines dating back to 1967, provides a curated list of interesting articles from past issues. Primarily aimed at new club members or amateur astronomers, it highlights practical topics related to telescope making, observing techniques, and equipment. The listed articles cover a range of subjects including astrophotography drives, limiting magnitude determination, telescope balancing, and optical configurations.",
+      "categories": [
+        "Amateur Astronomy",
+        "Telescope Making (ATM)",
+        "Observing Guides",
+        "Equipment Reviews",
+        "Astrophotography",
+        "Historical Resources"
+      ],
+      "keywords": [
+        "Sky & Telescope",
+        "Telescope making",
+        "Observing techniques",
+        "Astrophotography",
+        "Schmidt-Cassegrain telescopes",
+        "Barn door drives",
+        "Limiting magnitude",
+        "Star atlas",
+        "Stepper motor",
+        "Foucault test",
+        "Telescope balancing",
+        "Optical configurations",
+        "Poncet Mount",
+        "Polar alignment"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3200
+    },
+    {
+      "id": "eph93-04-double-triple-and-multiple-stars",
+      "documentId": "eph93-04",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "This article by Patrick Donnelly advocates for observing double and multiple stars as a rewarding alternative to galaxies, especially during spring months when conditions like moonlight, clouds, or light pollution might hinder deep-sky viewing. It provides a guided tour of specific multiple star systems within the constellation Cancer, detailing their visual characteristics, magnitudes, and separations, including Iota Cancri, Alpha Cancri, the triple system +1254 in M44 (the Beehive Cluster), and Zeta Cancri.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Double Stars",
+        "Multiple Stars",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Double stars",
+        "Multiple stars",
+        "Cancer constellation",
+        "Iota Cancri",
+        "Alpha Cancri",
+        "M44",
+        "Praesepe",
+        "Beehive Cluster",
+        "Zeta Cancri",
+        "Observational astronomy",
+        "Spring observing",
+        "Light pollution",
+        "Star magnitudes",
+        "Separation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-04-continued-from-page-2",
+      "documentId": "eph93-04",
+      "title": "Continued from page 2",
+      "summary": "This article describes the multi-star system Zeta, detailing the separations and orbital periods of its components, highlighting the challenge of resolving close pairs like AB (0.9\") and the C component's binary nature (0.18\"). It notes Zeta is 70 light-years distant with a sun-like B component. The piece also encourages amateur astronomers to explore other double and multiple stars in the constellation Cancer.",
+      "categories": [
+        "Astronomy",
+        "Observational Astronomy",
+        "Stars",
+        "Double Stars",
+        "Multiple Stars",
+        "Constellations"
+      ],
+      "keywords": [
+        "Zeta (star)",
+        "Multiple star system",
+        "Double stars",
+        "Star separation",
+        "Orbital period",
+        "Seeing (astronomy)",
+        "Telescope resolution",
+        "Cancer (constellation)",
+        "Light years"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-04-the-ten-brightest-globular-clusters",
+      "documentId": "eph93-04",
+      "title": "THE TEN BRIGHTEST GLOBULAR CLUSTERS",
+      "summary": "This article ranks and details the ten brightest globular clusters, discussing their apparent magnitudes, distances, and visibility from different geographic locations. It highlights Omega Centauri as the brightest and largest, while noting M4 and NGC-6397 as the closest. The author also explains why most bright globular clusters are located in the southern celestial hemisphere, offering valuable data for observers.",
+      "categories": [
+        "Astronomy",
+        "Observational Astronomy",
+        "Celestial Objects",
+        "Educational",
+        "Reference"
+      ],
+      "keywords": [
+        "Globular Clusters",
+        "Omega Centauri",
+        "M22",
+        "M5",
+        "M13",
+        "M4",
+        "Apparent Magnitude",
+        "Absolute Magnitude",
+        "Distance",
+        "Celestial Equator",
+        "Milky Way",
+        "NGC-6397",
+        "NGC-6752",
+        "47-Tucani",
+        "Burnham's Celestial Handbook",
+        "Sky Atlas 2000"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-04-seti-and-microwave-comments",
+      "documentId": "eph93-04",
+      "title": "SETI and Microwave Comments",
+      "summary": "This article, presented as a letter to the editor, discusses a 1993 SETI speech by Dr. Seth Shostak. The author, a Microwave Engineer, respectfully disagrees with Shostak's assertion that radio waves do not attenuate in space, explaining that microwave signals do attenuate with distance and due to weather conditions. This attenuation necessitates large antennas or improved receiver sensitivity to detect faint extraterrestrial signals.",
+      "categories": [
+        "SETI",
+        "Technical Analysis",
+        "Opinion",
+        "Science Communication"
+      ],
+      "keywords": [
+        "SETI",
+        "Microwave attenuation",
+        "Radio waves",
+        "Laser optical wave",
+        "Seth Shostak",
+        "Extra Terrestrial Intelligence",
+        "Antenna",
+        "Receiver sensitivity",
+        "Signal-to-noise ratio",
+        "Space communication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-04-getting-it-all-together",
+      "documentId": "eph93-04",
+      "title": "GETTING IT ALL TOGETHER",
+      "summary": "This article provides practical advice for organizing astronomical observing equipment to ensure all necessary tools are at hand during a session and to protect them during transport. The author recommends using dedicated containers for different types of items, maintaining consistency in packing, and slowing down when repacking after a session. It also briefly touches on equipment security and temperature considerations for optics in vehicles.",
+      "categories": [
+        "observing tips",
+        "equipment management",
+        "practical advice",
+        "astronomy lifestyle"
+      ],
+      "keywords": [
+        "observing session",
+        "equipment organization",
+        "packing",
+        "storage",
+        "astronomy gear",
+        "safety",
+        "checklist",
+        "transport"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-04-astro-ad",
+      "documentId": "eph93-04",
+      "title": "ASTRO AD",
+      "summary": "This 'ASTRO AD' section features two listings for used astronomical equipment. The first is an INTES MK 63 6-inch f/10 Maksutov telescope, complete with numerous accessories and in immaculate condition, being sold for $1500 due to lack of space. The second ad offers a Celestron SPC 80 Refractor telescope with a Super Polaris Mount, eyepieces, and three years of *Astronomy* magazine back issues, all in new condition, for $400.",
+      "categories": [
+        "Advertisements",
+        "For Sale",
+        "Astronomy Equipment",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "INTES MK 63",
+        "Maksutov telescope",
+        "Celestron SPC 80",
+        "Refractor telescope",
+        "Telescope sale",
+        "Amateur astronomy",
+        "Astronomy equipment",
+        "Eyepieces",
+        "Mount",
+        "Astronomy magazine"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-04-comet-comments",
+      "documentId": "eph93-04",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholtz's \"COMET COMMENTS\" reports no recent comet discoveries but highlights the good performance of Periodic Comet Schaumasse in the northern evening sky. The column also announces the re-introduction of its \"Seeking Comets\" feature, which will discuss visual comet discoveries made since 1975.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discovery",
+        "Astronomy News",
+        "Comets"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comet Schaumasse",
+        "Don Machholtz",
+        "Visual Comet Discoveries",
+        "Seeking Comets",
+        "Astronomy",
+        "Comet Observations"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-04-seeking-comets",
+      "documentId": "eph93-04",
+      "title": "SEEKING COMETS",
+      "summary": "This article analyzes the altitudes at which comets are discovered, challenging the common belief that low horizons are necessary for comet hunters. Based on visual discoveries from 1975 to 1992, it shows average discovery altitudes of approximately 23 degrees in the morning sky and 27 degrees in the evening sky. The data indicates that comets are often found at moderate altitudes rather than exclusively near the horizon.",
+      "categories": [
+        "Astronomy",
+        "Comet Discovery",
+        "Data Analysis",
+        "Research"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Altitude",
+        "Astronomical observation",
+        "Visual discoveries",
+        "Sky altitude",
+        "Observing techniques"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-04-observing-tool-list",
+      "documentId": "eph93-04",
+      "title": "Observing Tool List",
+      "summary": "This document provides a comprehensive list of essential tools and items for an astronomy observing session, categorized into telescope tools, general tools, clothing, food/drink, and other miscellaneous necessities. It covers everything from optical equipment and alignment tools to appropriate attire, snacks, and practical comforts like chairs and bug repellent, ensuring a well-prepared and comfortable viewing experience.",
+      "categories": [
+        "observing guide",
+        "equipment list",
+        "astronomy preparation",
+        "checklist"
+      ],
+      "keywords": [
+        "observing",
+        "astronomy",
+        "tools",
+        "equipment",
+        "checklist",
+        "telescope accessories",
+        "clothing",
+        "field guide",
+        "preparation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-04-stuff-i-use",
+      "documentId": "eph93-04",
+      "title": "Stuff I Use",
+      "summary": "This document comprises two main sections: a personal list of recommended equipment for amateur astronomers, detailing specific brands for telescope tools, general tools, clothing, and other essentials like star charts and binoculars. It also includes the San Jose Astronomical Association's (SJAA) 1993 calendar, outlining dates for general meetings, star parties at Houge Park, and observational astronomy classes.",
+      "categories": [
+        "Equipment Recommendations",
+        "Astronomy Club Information",
+        "Events Calendar",
+        "Observing Gear"
+      ],
+      "keywords": [
+        "Telescope tools",
+        "Astronomy gear",
+        "Observing clothing",
+        "Star charts",
+        "SJAA",
+        "Astronomical events",
+        "Star party",
+        "Club meetings",
+        "1993 calendar",
+        "Tele Vue",
+        "Orion",
+        "REI"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-04-astro-ads",
+      "documentId": "eph93-04",
+      "title": "ASTRO ADS",
+      "summary": "This section, titled \"ASTRO ADS,\" offers free classified advertisements for noncommercial sellers of astronomically related products and services. It features listings for various used telescopes and accessories from brands like Meade, Astro-Physics, Tasco, Celestron, and Yeager, along with contact information for potential buyers. Ads are accepted monthly and run for approximately three months.",
+      "categories": [
+        "classifieds",
+        "used equipment sales",
+        "community announcements"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "telescopes for sale",
+        "astronomical equipment",
+        "Meade",
+        "Astro-Physics",
+        "Tasco",
+        "Celestron",
+        "Yeager",
+        "eyepieces",
+        "mounts",
+        "refractors",
+        "reflectors",
+        "accessories"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-04-sjaa-loaner-status",
+      "documentId": "eph93-04",
+      "title": "SJAA Loaner Status",
+      "summary": "The \"SJAA Loaner Status\" article details the current status of telescopes borrowed through the San Jose Astronomical Association's loaner program. It lists various telescopes by size, type, borrower, and due date, along with instructions on how to join a general or specific telescope waiting list. The program aims to make astronomical equipment accessible to members.",
+      "categories": [
+        "Club News",
+        "Equipment Management",
+        "Program Status",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Astronomy Club",
+        "Equipment Lending",
+        "Telescopes",
+        "Due Dates",
+        "Waiting List",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-04-april-1993",
+      "documentId": "eph93-04",
+      "title": "April 1993",
+      "summary": "This document provides a comprehensive astronomical guide for April 1993, detailing celestial events and timings. It includes lunar phases, rise, transit, and set times for the Sun and major planets (Mercury, Venus, Mars, Jupiter, Saturn), along with their magnitudes and distances. Additionally, it lists astronomical twilight times, sidereal time, and highlights April 24th as the darkest Saturday night, with all times specified in Pacific Daylight Time.",
+      "categories": [
+        "Astronomical data",
+        "Sky guide",
+        "Celestial mechanics",
+        "Monthly forecast"
+      ],
+      "keywords": [
+        "April 1993",
+        "Lunar phases",
+        "Planetary positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Astronomical twilight",
+        "Sidereal time",
+        "Pacific Daylight Time",
+        "Sky observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-04-offices-and-board-of-directors",
+      "documentId": "eph93-04",
+      "title": "Offices and Board of Directors",
+      "summary": "This document outlines the organizational structure by listing the \"Offices and Board of Directors\" with their respective contact numbers. It also identifies individuals contributing to \"Ephemeris\" and the \"Editor\" along with their contact information, serving as a directory for key personnel. This appears to be an internal contact list for an organization's leadership and contributors.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Personnel Directory",
+        "Internal Document"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Offices",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Ephemeris Contributors",
+        "Editor",
+        "Contact information",
+        "Organizational structure",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-04-ephemeris",
+      "documentId": "eph93-04",
+      "title": "EPHEMERIS",
+      "summary": "This document provides an ephemeris for Periodic Comet Schaumasse (1992x), detailing its celestial coordinates, elongation, and predicted visual magnitude from late March through early May. Additionally, it includes graphical representations, labeled 'Morning Sky' and 'Evening Sky', illustrating the distribution of comet discoveries across a range of 'degrees', attributed to Don Machholz. The content is dated April 1993.",
+      "categories": [
+        "Ephemeris",
+        "Observing Data",
+        "Astronomy",
+        "Comets",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Comet Schaumasse",
+        "1992x",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Comet Discoveries",
+        "Don Machholz",
+        "1993"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-04-ephemeris",
+      "documentId": "eph93-04",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is the monthly publication of the San Jose Astronomical Association, which encourages members to submit articles. Submissions must be sent to editor Bob Madden by the 12th of the previous month, with digital formats on 3-1/2\" IBM or MAC diskettes being preferred.",
+      "categories": [
+        "Club News",
+        "Publication Information",
+        "Submission Guidelines"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "monthly publication",
+        "article submission",
+        "editor",
+        "submission guidelines"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-04-membership-only-12-membership-s-t-32-junior-under-18-20",
+      "documentId": "eph93-04",
+      "title": "Membership only: $12 Membership / S&T: $32 Junior (under 18): $20",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing different membership types and their associated costs, such as \"Membership only\" and \"Membership/S&T\" options, as well as a \"Junior (under 18)\" rate. It provides instructions on how to submit the form and payment, including mailing details for the treasurer and general contact information for the association. The form also indicates options for new memberships or renewals.",
+      "categories": [
+        "Membership",
+        "Forms/Applications",
+        "Organizations/Clubs",
+        "Fees/Dues",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Dues",
+        "Astronomy club",
+        "Sky & Telescope",
+        "Contact information",
+        "Milpitas CA",
+        "1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9304/Eph93_04.pdf",
+      "txtPath": "9304/Eph93_04.md"
+    }
+  ]
+}

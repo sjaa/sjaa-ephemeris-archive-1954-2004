@@ -1,0 +1,770 @@
+{
+  "articles": [
+    {
+      "id": "eph99-03-sjaa-activities-calendar",
+      "documentId": "eph99-03",
+      "title": "SJAA Activities Calendar",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) activities calendar for March and April, including observational astronomy classes, numerous star parties at various locations, and general meetings. It also reports on the January 1999 general meeting where Jay Freeman was honored with the A. B. Gregory Award for his contributions to amateur astronomy and subsequently delivered a talk on deep-sky observing with small telescopes.",
+      "categories": [
+        "Events Calendar",
+        "News",
+        "Meeting Report",
+        "Awards",
+        "Amateur Astronomy",
+        "Observing Tips"
+      ],
+      "keywords": [
+        "SJAA",
+        "Activities Calendar",
+        "Observational Astronomy Class",
+        "Star Party",
+        "General Meeting",
+        "A. B. Gregory Award",
+        "Jay Freeman",
+        "Deep-sky observing",
+        "Telescopes",
+        "Amateur Astronomy",
+        "Houge Park",
+        "Fremont Peak",
+        "Henry Coe"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph99-03-twin-blue-moons-in-1999",
+      "documentId": "eph99-03",
+      "title": "Twin \"Blue Moons\" in 1999",
+      "summary": "The article discusses the rare occurrence of \"blue moons,\" defined as two full moons in a single calendar month, highlighting 1999 as a year featuring twin blue moons in January and March. This phenomenon, along with February having no full moon, is noted for its rarity, making 1999 only the third time this century such a pattern occurred, last seen in 1961 and 1915. The article also touches upon the cyclical nature of blue moons and their historical patterns.",
+      "categories": [
+        "astronomy",
+        "celestial events",
+        "almanac",
+        "lunar cycles"
+      ],
+      "keywords": [
+        "blue moon",
+        "full moon",
+        "1999",
+        "lunar eclipse",
+        "calendar month",
+        "rare event",
+        "metonic cycle",
+        "synodic month"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-mooning",
+      "documentId": "eph99-03",
+      "title": "Mooning",
+      "summary": "This article, 'Mooning,' highlights March as an optimal time for lunar observation due to the Moon's high elevation at first quarter, which provides clearer views. It offers a detailed guide for observing specific lunar features on March 22nd and 23rd, including prominent craters like Aristotle and Eudoxis, various rilles such as Hyginus and Triesnecker, and geological formations like the Alpine Valley and Altai Scarp, providing targets for both casual and dedicated observers.",
+      "categories": [
+        "Lunar Observation",
+        "Observing Guide",
+        "Astronomy Tips",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observation",
+        "First quarter Moon",
+        "March",
+        "Craters",
+        "Rilles",
+        "Alpine Valley",
+        "Altai Scarp",
+        "Aristotle",
+        "Eudoxis",
+        "Hyginus",
+        "Triesnecker",
+        "Mare Serenitatis",
+        "Mare Tranquilitatis",
+        "Seeing conditions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph99-03-comet-comments",
+      "documentId": "eph99-03",
+      "title": "COMET COMMENTS",
+      "summary": "The article \"COMET COMMENTS\" by Don Machholz provides updates on several comets, including Comet Linear, Comet Williams, and Periodic Comets Jager and Harrington-Abell. A primary focus is the visual discovery of Comet Tilbrook (C/1998 A1) by Australian amateur astronomer Justin Tilbrook, detailing its discovery circumstances and subsequent dimming. The author also highlights recent trends in visual comet discoveries, noting a prevalence of finds by Southern Hemisphere observers, particularly from Australia.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discoveries",
+        "Amateur Astronomy",
+        "Astronomical News",
+        "Comet Hunting"
+      ],
+      "keywords": [
+        "Comet Tilbrook",
+        "Justin Tilbrook",
+        "Comet Linear",
+        "Comet Williams",
+        "Comet Jager",
+        "Comet Harrington-Abell",
+        "Comet hunting",
+        "Visual discovery",
+        "Amateur astronomy",
+        "Southern Hemisphere observers",
+        "Australia",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-ephemerides-epoch-2000-0h-ut",
+      "documentId": "eph99-03",
+      "title": "EPHEMERIDES - Epoch 2000, 0h UT",
+      "summary": "This document provides ephemerides for three comets: C/1998 M5 (LINEAR), C/1998 P1 (Williams), and P/1998 U3 (Jager). For each comet, it details their celestial coordinates (Right Ascension, Declination), elongation, and predicted sky magnitude for various dates between February and April, all referenced to Epoch 2000, 0h UT. This data is essential for tracking and observing these specific comets.",
+      "categories": [
+        "Ephemerides",
+        "Astronomical Data",
+        "Comet Observation",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet",
+        "C/1998 M5 (LINEAR)",
+        "C/1998 P1 (Williams)",
+        "P/1998 U3 (Jager)",
+        "Astronomical Coordinates",
+        "Sky Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "Epoch 2000"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph99-03-elements",
+      "documentId": "eph99-03",
+      "title": "ELEMENTS",
+      "summary": "This document, titled 'ELEMENTS', provides detailed orbital elements for several celestial objects, including Williams, LINEAR (M5), Harrington-Abell, and Jager, with references to MPEC and MPC circulars. It also includes an observational ephemeris for comet 52P/Harrington-Abell, listing its predicted right ascension, declination, and sky magnitude for various dates in early 1999.",
+      "categories": [
+        "Astronomy",
+        "Orbital Mechanics",
+        "Cometary Data",
+        "Ephemeris",
+        "Observing Reports",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Williams",
+        "LINEAR (M5)",
+        "Harrington-Abell",
+        "Jager",
+        "52P/Harrington-Abell",
+        "Comets",
+        "Orbital Elements",
+        "Ephemeris",
+        "Perihelion",
+        "Inclination",
+        "Eccentricity",
+        "Magnitude",
+        "MPEC",
+        "MPC",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph99-03-shallow-sky",
+      "documentId": "eph99-03",
+      "title": "Shallow Sky",
+      "summary": "This article provides an observing guide for March 1999, with a strong focus on lunar features and Mars. For the Moon, it highlights specific rilles, craters like Plato, Copernicus, and Clavius, and \"catenae\" to observe around the first quarter, offering tips for specific dates. It also advises starting Mars observation early in anticipation of its April 24 opposition, recommending practice to discern subtle features such as polar caps, Syrtis Major, and suggesting the use of sketches and filters.",
+      "categories": [
+        "Observing Guide",
+        "Lunar Observing",
+        "Planetary Observing",
+        "Amateur Astronomy",
+        "Monthly Sky Guide"
+      ],
+      "keywords": [
+        "Lunar Observing",
+        "Mars Observing",
+        "Moon Craters",
+        "Lunar Rilles",
+        "Planetary Opposition",
+        "Observing Tips",
+        "Amateur Astronomy",
+        "Syrtis Major",
+        "First Quarter Moon",
+        "Catenae"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph99-03-andrah-foundation-supports-loaner-program",
+      "documentId": "eph99-03",
+      "title": "Andrah Foundation Supports Loaner Program",
+      "summary": "The Andrah Foundation, a charitable organization founded by Ruth S. Knoll and Thomas Knoll, with recent contributions directed by Paul and Ann Summers, has donated $250. This gift is intended to support community activities that promote astronomy awareness and interest, specifically recommending its use for the Telescope Loaner Program. The article also provides a guide for observing Mercury, Venus, Jupiter, Saturn, Uranus, Neptune, and Pluto in the March sky.",
+      "categories": [
+        "Funding",
+        "Community Outreach",
+        "Astronomy Program",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Andrah Foundation",
+        "Telescope Loaner Program",
+        "Donation",
+        "Astronomy",
+        "Ruth S. Knoll",
+        "Thomas Knoll",
+        "Paul Summers",
+        "Ann Summers",
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Sky Observation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph99-03-a-s-p-seeks-project-astro-volunteers",
+      "documentId": "eph99-03",
+      "title": "A.S.P. Seeks Project ASTRO Volunteers",
+      "summary": "The article details two distinct astronomy initiatives: the Astronomical Society of the Pacific (ASP) is seeking amateur and professional astronomers for Project ASTRO to partner with 4th-9th grade teachers in Bay Area schools for hands-on science education. Separately, the San Jose Astronomical Association (SJAA) is hosting a \"Weekly Grind\" workshop at Houge Park, where members, guided by experts like Jane Houston, are actively engaged in grinding their own telescope mirrors.",
+      "categories": [
+        "Education",
+        "Amateur Astronomy",
+        "Volunteer Opportunities",
+        "Workshops",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Project ASTRO",
+        "ASP",
+        "Astronomy Education",
+        "Volunteers",
+        "Bay Area",
+        "Mirror Grinding",
+        "Telescope Making",
+        "Hands-on Science",
+        "SJAA",
+        "NASA Ames Research Center"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph99-03-lunar-phases-dates-pst",
+      "documentId": "eph99-03",
+      "title": "LUNAR PHASES (Dates PST):",
+      "summary": "This document provides a detailed schedule of lunar phases for a specific month, listing the exact times and dates (PST) for Full Moon, Last Quarter, New Moon, and First Quarter. For each phase, it also includes the moon's rise, transit, and set times, offering comprehensive information for tracking lunar cycles.",
+      "categories": [
+        "Astronomy",
+        "Lunar Calendar",
+        "Ephemeris",
+        "Observing Aids"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "PST",
+        "Moonrise",
+        "Moonset",
+        "Astronomical data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-nearer-planets",
+      "documentId": "eph99-03",
+      "title": "NEARER PLANETS:",
+      "summary": "This document presents an astronomical ephemeris for five 'nearer planets'—Mercury, Venus, Mars, Jupiter, and Saturn—across three specific dates. For each planet and date, it provides detailed observational data including rise, transit, and set times, Right Ascension, Declination, distance in Astronomical Units (A.U.), and visual magnitude, serving as a comprehensive guide for planetary observers.",
+      "categories": [
+        "Observational Data",
+        "Astronomy",
+        "Ephemeris",
+        "Planetary Science",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planetary Positions",
+        "Ephemeris",
+        "Rise Time",
+        "Transit Time",
+        "Set Time",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-sol-star-type-g2v-intelligent-life-in-system",
+      "documentId": "eph99-03",
+      "title": "SOL Star Type G2V Intelligent Life in System?",
+      "summary": "This article, titled \"SOL Star Type G2V Intelligent Life in System?\", raises a speculative question about the potential for intelligent life to exist within a G2V star system, which is the classification for our Sun. It includes a table presenting astronomical data such as rise, transit, and set times, along with right ascension and declination coordinates for various dates. The specific connection between these observational data points and the central question of intelligent life is not elaborated in the provided content.",
+      "categories": [
+        "Astrobiology",
+        "Stellar Classification",
+        "Observational Astronomy",
+        "Speculative Science"
+      ],
+      "keywords": [
+        "G2V star",
+        "intelligent life",
+        "astrobiology",
+        "stellar classification",
+        "astronomical data",
+        "right ascension",
+        "declination",
+        "Sun"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-astronomical-twilight",
+      "documentId": "eph99-03",
+      "title": "ASTRONOMICAL TWILIGHT:",
+      "summary": "This document presents a table detailing the beginning and end times of astronomical twilight for several specific dates, identified by Julian Date. It provides precise time data, likely intended for astronomical planning or determining optimal observing windows. The information helps users understand the duration of astronomical twilight on those particular days.",
+      "categories": [
+        "Astronomical Data",
+        "Reference",
+        "Timetable"
+      ],
+      "keywords": [
+        "astronomical twilight",
+        "Julian Date",
+        "twilight times",
+        "observing conditions",
+        "astronomy",
+        "time data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-sidereal-time",
+      "documentId": "eph99-03",
+      "title": "SIDEREAL TIME:",
+      "summary": "This document presents a table detailing sidereal time values for specific dates (the 7th, 17th, and 27th), showing the right ascension transiting at local midnight. It serves as a reference for calculating or understanding sidereal time at given moments.",
+      "categories": [
+        "Technical",
+        "Astronomy",
+        "Timekeeping",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Transit",
+        "Astronomical Timekeeping"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-darkest-saturday-night",
+      "documentId": "eph99-03",
+      "title": "DARKEST SATURDAY NIGHT:",
+      "summary": "This document provides astronomical twilight times for March 13, 1999, titled \"DARKEST SATURDAY NIGHT.\" It details specific timings for sunset, the end of astronomical twilight, moonrise, and the beginning of dawn, culminating in a calculated duration of 9 hours and 15 minutes of darkness.",
+      "categories": [
+        "astronomy",
+        "observing conditions",
+        "ephemeris"
+      ],
+      "keywords": [
+        "darkness",
+        "astronomical twilight",
+        "sunset",
+        "moonrise",
+        "dawn",
+        "March 13, 1999",
+        "night sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-y2k-strikes-the-sjaa",
+      "documentId": "eph99-03",
+      "title": "Y2K strikes the SJAA!",
+      "summary": "The SJAA's eleven-inch Compustar telescope is experiencing a Y2K problem, as its date entry system assumes years in the 1900s and cannot accept '00' for 2000. A workaround involves entering a date four years prior, which allows the scope to correctly polar align and go to designated objects. This issue affects club equipment that was once a groundbreaking demonstration.",
+      "categories": [
+        "Technical Issue",
+        "Equipment Report",
+        "Club News"
+      ],
+      "keywords": [
+        "Y2K",
+        "SJAA",
+        "Compustar",
+        "Telescope",
+        "Club equipment",
+        "Date problem",
+        "Workaround",
+        "Polar alignment",
+        "Go-to system"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph99-03-the-chronicle-of-a-net-community-26-jan-1999",
+      "documentId": "eph99-03",
+      "title": "The Chronicle of a Net Community 26 Jan 1999",
+      "summary": "This article chronicles a real-time online discussion among amateur astronomers on January 26, 1999, as they attempt to observe lunar occultations. Participants share their experiences and sightings of stars like Aldebaran and other Hyades members from various Bay Area locations, despite challenges like cloudy weather or a bright moon. The exchanges capture their enthusiasm for witnessing these celestial events.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Events",
+        "Community Discussion",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Lunar occultation",
+        "Aldebaran",
+        "Hyades",
+        "Moon",
+        "Bay Area",
+        "Astronomy",
+        "Observing",
+        "SAO 93981",
+        "SAO 94004",
+        "75 Tauri"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-january-30-1999",
+      "documentId": "eph99-03",
+      "title": "January 30, 1999",
+      "summary": "The San Jose Astronomical Association's January 30, 1999, meeting covered operational and administrative matters. Discussions included implementing hosts for dark sky parties, encouraging donations for loaner scopes, and successfully raising over $400 through APD sales. Key administrative decisions involved establishing a club PO box and electing an AANC representative, while the urgent need for a club treasurer was also highlighted.",
+      "categories": [
+        "Meeting Minutes",
+        "Club Administration",
+        "Event Planning",
+        "Financial Report"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "Meeting Minutes",
+        "Club Operations",
+        "Dark Sky Parties",
+        "Loaner Scopes",
+        "Fundraising",
+        "Treasurer",
+        "PO Box",
+        "AANC",
+        "Fremont Peak",
+        "Astrophoto Data (APD) Sales",
+        "Astronomical Sketch"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph99-03-a-one-day-workshop-on-saturday-march-27-1999-in-the-may-treat-morrison-auditorium-and-morrison-planetarium",
+      "documentId": "eph99-03",
+      "title": "A One-Day Workshop on Saturday March 27, 1999 in the May Treat Morrison Auditorium and Morrison Planetarium",
+      "summary": "The article primarily details a one-day astronomy workshop held on Saturday, March 27, 1999, at the Morrison Planetarium, featuring prominent speakers discussing topics such as the future of the universe, lunar and Mars exploration, exoplanets, and SETI. Additionally, it includes a collection of informal, timestamped observing reports from several individuals sharing their real-time experiences of an Aldebaran occultation.",
+      "categories": [
+        "Events",
+        "Astronomy Workshop",
+        "Science Communication",
+        "Observing Reports",
+        "Space Science",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astronomy Workshop",
+        "Cosmology",
+        "Space Exploration",
+        "SETI",
+        "Exoplanets",
+        "Lunar Exploration",
+        "Mars Exploration",
+        "Aldebaran Occultation",
+        "Amateur Astronomy",
+        "Science Education",
+        "Morrison Planetarium",
+        "1999"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph99-03-officers-and-board-of-directors",
+      "documentId": "eph99-03",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization, detailing their positions such as President, Vice President, Secretary, Treasurer, and Director. Each entry includes the individual's name and contact phone number, providing a clear directory of the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Contact Information",
+        "Leadership",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Management",
+        "Personnel",
+        "Contact List",
+        "Organization Structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-ephemeris-staff",
+      "documentId": "eph99-03",
+      "title": "Ephemeris Staff",
+      "summary": "This document, titled \"Ephemeris Staff,\" lists the key personnel involved with the Ephemeris publication along with their respective phone numbers. It identifies the Editors (Jane Houston and Morris Jones), Circulation staff (Bob Brauer and Lew Kurtz), and the printing service (Accuprint).",
+      "categories": [
+        "Staff Directory",
+        "Contact Information",
+        "Internal Document"
+      ],
+      "keywords": [
+        "Ephemeris Staff",
+        "Editor",
+        "Circulation",
+        "Printing",
+        "Personnel",
+        "Contact List"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-submit",
+      "documentId": "eph99-03",
+      "title": "Submit",
+      "summary": "The San Jose Astronomical Association (SJAA) Ephemeris encourages its members to submit articles for publication. Submissions should be sent directly to the editors via email at ephemeris@whiteoaks.com.",
+      "categories": [
+        "Call for Submissions",
+        "Club Information",
+        "Publications"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "Article Submission",
+        "Publication",
+        "Members",
+        "Email Submission"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-sjaa-loaner-scope-status",
+      "documentId": "eph99-03",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "All San Jose Astronomical Association (SJAA) loaner scopes are currently available for members to borrow. Members interested in utilizing this service should contact Mike Koop via email or phone at the provided work or home numbers.",
+      "categories": [
+        "Club News",
+        "Member Services",
+        "Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Equipment Availability",
+        "Member Benefit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-stored-scopes",
+      "documentId": "eph99-03",
+      "title": "Stored Scopes",
+      "summary": "The San Jose Astronomical Association (SJAA) maintains a list of telescopes, referred to as \"Stored Scopes,\" which are available for immediate loan to its members. These scopes are kept at various members' homes, and interested borrowers can arrange pickup by contacting Mike Koop at any SJAA event.",
+      "categories": [
+        "Club Resources",
+        "Equipment Loan Program",
+        "Member Services",
+        "Observing Aids"
+      ],
+      "keywords": [
+        "Telescopes",
+        "SJAA",
+        "Equipment loan",
+        "Dobson",
+        "Refractor",
+        "Newt/P Mount",
+        "Stored Scopes",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-current-scope-loans",
+      "documentId": "eph99-03",
+      "title": "Current Scope Loans",
+      "summary": "This document lists telescopes that are currently on loan, specifying each scope's description, the borrower, and its due date. It also informs potential borrowers that they can be placed on a waiting list for a scope to become available.",
+      "categories": [
+        "equipment management",
+        "loan program",
+        "resource availability"
+      ],
+      "keywords": [
+        "scope loans",
+        "telescopes",
+        "borrowing equipment",
+        "due dates",
+        "astronomy equipment",
+        "waiting list"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-extended-scope-loans",
+      "documentId": "eph99-03",
+      "title": "Extended Scope Loans",
+      "summary": "This document lists telescopes that have had their loan periods extended, making them available for potential transfer to new borrowers. Individuals interested in borrowing one of these scopes can contact the organization to arrange a transfer with the current borrower. The list includes various telescope types, current borrowers, due dates, and specific notes regarding contact or indefinite loan periods.",
+      "categories": [
+        "Equipment Loan Program",
+        "Club Logistics",
+        "Availability"
+      ],
+      "keywords": [
+        "telescope loans",
+        "extended loan",
+        "scope availability",
+        "borrowing equipment",
+        "Dobsonian",
+        "Refractor",
+        "C-11 Compustar",
+        "C8",
+        "astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-waiting-list",
+      "documentId": "eph99-03",
+      "title": "Waiting List:",
+      "summary": "This document presents a waiting list or equipment borrowing record, detailing specific astronomical scopes and their current or requested borrowers. It includes entries for a Solar Scope borrowed by Dave North and a Newtonian scope requested by Darryl Lambert.",
+      "categories": [
+        "Equipment Management",
+        "Internal Record"
+      ],
+      "keywords": [
+        "Waiting list",
+        "Solar Scope",
+        "Newtonian",
+        "Borrower",
+        "Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-periodical-publication-statement",
+      "documentId": "eph99-03",
+      "title": "Periodical Publication Statement",
+      "summary": "The 'SJAA Ephemeris,' the San Jose Astronomical Association's official newsletter, is published monthly, totaling 12 issues per year, from January through December. The statement also provides the association's mailing address.",
+      "categories": [
+        "Publication Information",
+        "Organizational Information",
+        "Newsletter",
+        "Administrative"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "publication schedule",
+        "monthly publication",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-03-to-subscribe-to-or-unsubscribe-from-the-sjaa-mailing-list-send-email-to",
+      "documentId": "eph99-03",
+      "title": "To subscribe to or unsubscribe from the SJAA Mailing List send email to:",
+      "summary": "This document provides instructions on how to subscribe to or unsubscribe from the SJAA Mailing List. Users need to send an email to sjaa-request@seds.org with a blank subject line and a single text line containing either 'subscribe' or 'unsubscribe'. This information was published in the SJAA Ephemeris, March 1999.",
+      "categories": [
+        "instructions",
+        "mailing list",
+        "announcement"
+      ],
+      "keywords": [
+        "SJAA Mailing List",
+        "subscribe",
+        "unsubscribe",
+        "email instructions",
+        "SJAA Ephemeris",
+        "March 1999"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph99-03-san-jose-astronomical-association-membership-form",
+      "documentId": "eph99-03",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing options for new or renewal memberships at standard ($15) and junior ($6) rates. It also offers an optional Sky & Telescope magazine subscription for an additional $27. Instructions for submitting the form and payment (checks payable to SJAA) are provided, along with contact details for the treasurer and the association's mailing address.",
+      "categories": [
+        "Membership",
+        "Forms/Applications",
+        "Organization Information",
+        "Financial/Fees"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Membership Fees",
+        "Junior Membership",
+        "Sky and Telescope",
+        "Subscription",
+        "Renewal",
+        "Contact Information",
+        "Non-profit",
+        "March 1999"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph99-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9903/Eph99_03.pdf",
+      "txtPath": "9903/Eph99_03.md"
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "articles": [
+    {
+      "id": "eph91-02-ephemeris",
+      "documentId": "eph91-02",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled \"EPHEMERIS,\" is identified as Volume 3, Number 2 of the official publication of the San Jose Astronomical Association. It was published in February 1991, serving as a regular newsletter or journal for the organization.",
+      "categories": [
+        "Astronomy",
+        "Club Publication",
+        "Newsletter",
+        "Historical Document"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Astronomy",
+        "Publication",
+        "February 1991",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-board-elections",
+      "documentId": "eph91-02",
+      "title": "BOARD ELECTIONS!",
+      "summary": "The SJAA will hold board elections at its February 2nd General Meeting, where five members will be elected to two-year terms on the nine-member Board of Directors. Nominations are open from the committee and the floor. The elected Board will then select officers for one-year terms.",
+      "categories": [
+        "Organizational News",
+        "Events",
+        "Announcements",
+        "Governance"
+      ],
+      "keywords": [
+        "Board Elections",
+        "General Meeting",
+        "Board of Directors",
+        "Nominations",
+        "SJAA",
+        "Officers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-slide-show",
+      "documentId": "eph91-02",
+      "title": "SLIDE SHOW",
+      "summary": "Following upcoming elections, Bob Fingerhut will host a slide show event featuring three presentations. One of these will showcase Space Art by the renowned Chesley Bonestell, who was honored with Asteroid 3129 shortly before his death in 1986.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Presentations",
+        "Art"
+      ],
+      "keywords": [
+        "Bob Fingerhut",
+        "Chesley Bonestell",
+        "Space Art",
+        "Slide Show",
+        "Asteroid 3129",
+        "Elections"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-star-parties-this-month",
+      "documentId": "eph91-02",
+      "title": "STAR PARTIES THIS MONTH",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting multiple star parties this month. Events include a party at Grant Ranch/Halls Valley on February 9th, a New Moon star party at Fremont Peak State Park on February 16th, and a public star party at Branham Lane Park on February 22nd. Attendees are reminded that all events are weather permitting and directions are available via their \"Hot\" line.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "star parties",
+        "SJAA",
+        "Grant Ranch",
+        "Halls Valley",
+        "Fremont Peak State Park",
+        "New Moon",
+        "Branham Lane Park",
+        "astronomy events",
+        "February events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-board-meeting-reminder",
+      "documentId": "eph91-02",
+      "title": "BOARD MEETING REMINDER",
+      "summary": "The SJAA Board Meetings have been rescheduled to take place before the General Meetings at 6:30. All members of the San Jose Astronomical Association are invited and welcome to attend these board meetings.",
+      "categories": [
+        "announcement",
+        "meeting information",
+        "organizational update"
+      ],
+      "keywords": [
+        "SJAA",
+        "board meeting",
+        "general meeting",
+        "meeting time",
+        "members",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-astrophoto-ix",
+      "documentId": "eph91-02",
+      "title": "ASTROPHOTO IX",
+      "summary": "The article announces the Astrophoto IX conference on March 30 in Thousand Oaks, covering celestial photography for all skill levels, sponsored by Ventura County Astronomical and Orange County Astronomers. It also lists several upcoming events in February and early March, including general meetings, board elections, star parties at various locations, and an observational astronomy class.",
+      "categories": [
+        "Events",
+        "Astrophotography",
+        "Meetings",
+        "Observing Reports",
+        "Education"
+      ],
+      "keywords": [
+        "Astrophoto IX",
+        "Ventura County Astronomical",
+        "Orange County Astronomers",
+        "Thousand Oaks",
+        "Celestial Photography",
+        "Star Party",
+        "General Meeting",
+        "Board Elections",
+        "Introductory Observational Astronomy Class",
+        "Grant Ranch County Park",
+        "Fremont Peak State Park",
+        "Branham Lane Park",
+        "Observing Meteors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-sjaa-hotline",
+      "documentId": "eph91-02",
+      "title": "SJAA HOTLINE",
+      "summary": "The article announces an astrophotography seminar, likely hosted by the Ventura County Astronomical Society, featuring lectures, workshops, new equipment displays, vendor booths, and a professional-level photo exhibit. Attracting hundreds of amateur astrophotographers, it offers a full day of learning from leading experts. Preregistration, including proceedings, costs $20.",
+      "categories": [
+        "event announcement",
+        "astronomy conference",
+        "astrophotography education",
+        "workshop"
+      ],
+      "keywords": [
+        "astrophotography",
+        "seminar",
+        "conference",
+        "workshops",
+        "equipment",
+        "lectures",
+        "photo exhibit",
+        "amateur astronomers",
+        "Ventura County Astronomical Society"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-space-program-update",
+      "documentId": "eph91-02",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "The ASTRO-1 Spacelab mission, aboard the Space Shuttle Columbia, successfully made 400 observations of 135 targets, exceeding pre-launch objectives despite significant technical issues with onboard systems. Its four telescopes (HUT, UIT, WUPPE, BBXRT) yielded remarkable data, including detailed observations of Jupiter and Io, the binary star Z-Cam, imaging of new galaxies and white dwarfs, insights into star formation, and the first high-quality X-ray spectrum of NGC 1399's gas halo. The Tracking and Data Relay Satellite System (TDRSS) was critical in enabling ground control to manage the mission given the onboard failures.",
+      "categories": [
+        "Space Mission Report",
+        "Astronomy Research",
+        "Observing Report",
+        "Technical Report",
+        "News Update"
+      ],
+      "keywords": [
+        "ASTRO-1 Spacelab",
+        "Space Shuttle Columbia",
+        "Ultraviolet Telescopes",
+        "X-ray Telescope",
+        "HUT",
+        "UIT",
+        "WUPPE",
+        "BBXRT",
+        "Jupiter",
+        "Io",
+        "Z-Cam",
+        "NGC 1399",
+        "Star Formation",
+        "Galaxies",
+        "White Dwarfs",
+        "TDRSS",
+        "Space Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-02-galileo-and-magellan-provide-data-about-venus",
+      "documentId": "eph91-02",
+      "title": "GALILEO AND MAGELLAN PROVIDE DATA ABOUT VENUS",
+      "summary": "The Galileo probe returned high-resolution data on Venus' middle cloud deck, potentially offering insights into the planet's unusually fast atmospheric rotation and the presence of lightning. Meanwhile, the Magellan mission has completed approximately one-third of its radar mapping of Venus' surface, revealing an absence of small craters, which suggests recent volcanic resurfacing and contradicts earlier theories of an ancient, volcanically inactive surface.",
+      "categories": [
+        "Space Missions",
+        "Planetary Science",
+        "Observational Data",
+        "News"
+      ],
+      "keywords": [
+        "Galileo",
+        "Magellan",
+        "Venus",
+        "Atmosphere",
+        "Cloud Deck",
+        "Volcanic Activity",
+        "Radar Mapping",
+        "Planetary Rotation",
+        "Craters",
+        "Space Probes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-galileo-explores-the-earth-moon-system",
+      "documentId": "eph91-02",
+      "title": "GALILEO EXPLORES THE EARTH/ MOON SYSTEM",
+      "summary": "During its Earth flyby on December 8, 1990, the Galileo spacecraft captured novel observations of the Moon, including unprecedented views of the Orientale Basin and the South Pole-Aitken Basin. Spectroscopic analysis of the South Pole-Aitken Basin indicated a high iron content, suggesting a deep impact that exposed mantle material. Galileo also created a time-lapse movie of Earth's rotation during this period.",
+      "categories": [
+        "mission report",
+        "planetary science",
+        "space exploration",
+        "observational astronomy"
+      ],
+      "keywords": [
+        "Galileo spacecraft",
+        "Earth flyby",
+        "Moon observations",
+        "Orientale Basin",
+        "South Pole-Aitken Basin",
+        "spectroscopy",
+        "iron content",
+        "mantle",
+        "planetary crust",
+        "time-lapse movie"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-nasa-breakthrough-with-drug-to-cure-space-sickness",
+      "documentId": "eph91-02",
+      "title": "NASA BREAKTHROUGH WITH DRUG TO CURE SPACE SICKNESS",
+      "summary": "NASA researchers have discovered that the drug promethazine, when injected on the first day of a space flight, effectively eliminates severe symptoms of space motion sickness, with astronauts becoming symptom-free by the second day. This breakthrough treatment has been administered to astronauts 14 times since 1988.",
+      "categories": [
+        "News",
+        "Medical Research",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "NASA",
+        "Promethazine",
+        "Space Sickness",
+        "Space Motion Sickness",
+        "Astronauts",
+        "Medical Breakthrough",
+        "Drug Treatment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-exploring-in-lynx",
+      "documentId": "eph91-02",
+      "title": "EXPLORING IN LYNX",
+      "summary": "Steve Gottlieb's article \"EXPLORING IN LYNX\" describes the challenges and rewards of deep-sky observing in the constellation Lynx, a region notably devoid of bright stars. Despite navigation difficulties, he highlights fascinating objects like the distant globular cluster NGC 2419, the bright edge-on galaxy NGC 2683, the unusual \"Bearpaw\" galaxy NGC 2537, and the rich Abell 779 galaxy cluster, offering personal observing notes for each.",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Astronomy",
+        "Constellation Guides",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Lynx",
+        "deep sky objects",
+        "globular cluster",
+        "galaxy",
+        "galaxy cluster",
+        "NGC 2419",
+        "NGC 2683",
+        "NGC 2537",
+        "Abell 779",
+        "star-hopping",
+        "amateur astronomy",
+        "Steve Gottlieb"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-02-sjaa-ephemeris",
+      "documentId": "eph91-02",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This article details several deep-sky observing reports, focusing on the NGC 2832 galaxy cluster, the planetary nebula Jones-Emberson 1, and the double stars 12 Lyncis and 71338. It describes visual characteristics, observational challenges, recommended equipment (like OIII filters), and historical notes for these celestial objects. The author shares personal experiences and techniques for resolving faint or close targets using various telescope apertures and magnifications.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Astronomy",
+        "Double Stars",
+        "Planetary Nebulae",
+        "Galaxy Clusters"
+      ],
+      "keywords": [
+        "NGC 2832",
+        "Jones-Emberson 1",
+        "12 Lyncis",
+        "71338",
+        "planetary nebula",
+        "galaxy cluster",
+        "double stars",
+        "OIII filter",
+        "telescope observation",
+        "magnification",
+        "surface brightness"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-comet-comments",
+      "documentId": "eph91-02",
+      "title": "COMET COMMENTS",
+      "summary": "The article provides an update on comet activity, noting the recent discovery of a new faint and a new bright comet, alongside the continued visibility of Periodic Comet Wild 2 and Comet Levy. It details the reclassification of Periodic Comet Shoemaker-Levy 2 from an asteroid due to its observed tail and announces the discovery of Comet Brewington (1991a), while also reflecting on 1990 as a modest year for new comet finds.",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Discoveries",
+        "Cometary Astronomy"
+      ],
+      "keywords": [
+        "Comet",
+        "Comet discovery",
+        "Don Machholz",
+        "Periodic Comet Wild 2",
+        "Comet Levy",
+        "Comet Austin",
+        "Periodic Comet Shoemaker-Levy 2",
+        "Periodic Comet Shoemaker-Levy 1",
+        "Comet Brewington (1991a)",
+        "Howard Brewington",
+        "Carolyn Shoemaker",
+        "Eugene Shoemaker",
+        "David Levy",
+        "Asteroid",
+        "CCD images",
+        "Orbital period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-meteor-notes",
+      "documentId": "eph91-02",
+      "title": "METEOR NOTES",
+      "summary": "This article, 'METEOR NOTES,' provides a detailed forecast for major meteor showers occurring during the remainder of 1991, specifically tailored for observers in the San Jose area. It includes key data such as maximum dates, local maximum times, radiant locations, expected rates, and moon conditions, along with an overall outlook for each shower. The author emphasizes that the maximum times refer to local maximums based on radiant elevation, not global stream passage.",
+      "categories": [
+        "observing guide",
+        "astronomy forecast",
+        "celestial events",
+        "meteor showers"
+      ],
+      "keywords": [
+        "meteor showers",
+        "meteor notes",
+        "observing guide",
+        "astronomy",
+        "San Jose",
+        "1991",
+        "Lyrids",
+        "Eta Aquarids",
+        "Delta Aquarids",
+        "Alpha Capricornids",
+        "Perseids",
+        "Orionids",
+        "Taurids",
+        "radiant",
+        "moon conditions"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-02-shower-leonids",
+      "documentId": "eph91-02",
+      "title": "SHOWER: LEONIDS",
+      "summary": "This document provides details for observing the Leonids meteor shower, specifically on November 17, 1991, at 5:07 AM PST. It includes observation location coordinates, an estimated local rate of 10 meteors per hour, and notes that the moon had set, indicating good viewing conditions.",
+      "categories": [
+        "observing reports",
+        "celestial events",
+        "meteor showers"
+      ],
+      "keywords": [
+        "Leonids",
+        "meteor shower",
+        "November 1991",
+        "observation",
+        "astronomy",
+        "celestial event",
+        "moon",
+        "rate"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-shower-geminids",
+      "documentId": "eph91-02",
+      "title": "SHOWER: GEMINIDS",
+      "summary": "This document details an observation report for the Geminids meteor shower, which peaked on December 14, 1991, at 2:11 AM PST. Observers noted an excellent outlook with the Moon having set, recording a local rate of 60 meteors per hour from a specific sky location.",
+      "categories": [
+        "observing report",
+        "meteor shower",
+        "astronomy",
+        "historical event"
+      ],
+      "keywords": [
+        "Geminids",
+        "meteor shower",
+        "observation",
+        "December 1991",
+        "peak date",
+        "PST",
+        "rate",
+        "moon set"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-shower-ursids",
+      "documentId": "eph91-02",
+      "title": "SHOWER: URSIDS",
+      "summary": "This document details the Ursids meteor shower, specifically forecasting its peak on December 22, 1991. It provides observational parameters such as the maximum date and time (5:30 AM PST), location, a local rate of 10 meteors/hour, moon rise time, and a \"poor\" outlook for viewing.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Ursids",
+        "Meteor Shower",
+        "December 22, 1991",
+        "Observation",
+        "Forecast",
+        "Astronomy",
+        "Viewing conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-officers-and-board-of-directors",
+      "documentId": "eph91-02",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document provides a list of the current officers and board of directors for an organization. It details the names and contact phone numbers for individuals holding key leadership roles, including President, Vice President, Treasurer, Secretary, Editor, and several Directors.",
+      "categories": [
+        "Organizational Information",
+        "Governance",
+        "Contact Information",
+        "Leadership Roster"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Organizational Structure",
+        "Contact List",
+        "Management",
+        "Roster"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-ephemeris-contributors",
+      "documentId": "eph91-02",
+      "title": "EPHEMERIS CONTRIBUTORS",
+      "summary": "This document lists individuals who are contributors to an ephemeris, providing their names and, in most cases, their contact phone numbers. It serves as a directory for these contributors, with some contact details noted as incomplete.",
+      "categories": [
+        "Astronomy",
+        "Contact List",
+        "Directory",
+        "Informational"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact Information",
+        "Directory",
+        "Astronomy Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-comet-ephemeris",
+      "documentId": "eph91-02",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document is titled \"COMET EPHEMERIS\" and presents a table structure for tracking a comet's position and brightness over time. The table includes columns for date, right ascension and declination for two different epochs (1950 and 2000), elongation, sky conditions, and visual magnitude. It serves as a format or placeholder for detailed astronomical data related to comet observations.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observing Data",
+        "Astronomy",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Comet",
+        "Ephemeris",
+        "RA",
+        "DEC",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Astronomical Data",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-periodic-comet-wild-2-1989t",
+      "documentId": "eph91-02",
+      "title": "Periodic Comet Wild 2 (1989t)",
+      "summary": "This document provides an ephemeris for Periodic Comet Wild 2 (1989t), detailing its predicted celestial positions (right ascension and declination) and visual magnitudes. The data covers a period from late January to early March, serving as a guide for astronomers and observers to locate and track the comet.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observing Guide",
+        "Astronomy Data"
+      ],
+      "keywords": [
+        "Comet Wild 2",
+        "1989t",
+        "Periodic Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Comet Observation",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-comet-levy-1990c",
+      "documentId": "eph91-02",
+      "title": "Comet Levy (1990c)",
+      "summary": "This document presents observational data for Comet Levy (1990c). It contains a table detailing the comet's right ascension, declination, position angle, and magnitude, recorded on various dates from late January to early March. This data serves as an ephemeris or a log of its observed positions and brightness over time.",
+      "categories": [
+        "observing reports",
+        "technical",
+        "astronomy"
+      ],
+      "keywords": [
+        "Comet Levy",
+        "1990c",
+        "Comet",
+        "Observational data",
+        "Ephemeris",
+        "Magnitude",
+        "Right ascension",
+        "Declination",
+        "Position angle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-02-this-month-s-meteors",
+      "documentId": "eph91-02",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This document, titled 'THIS MONTH'S METEORS', presents an ephemeris for upcoming meteor showers. It details the Delta Leonids, Virginids, and Delta Normids, providing information such as their active dates, date of maximum, maximum visual zenithal rate, radiant point coordinates (R.A. and DEC), velocity, and additional notes for each shower. The content serves as a guide for observing these celestial events.",
+      "categories": [
+        "Astronomy",
+        "Celestial Events",
+        "Observing Guide",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor showers",
+        "Delta Leonids",
+        "Virginids",
+        "Delta Normids",
+        "Radiant point",
+        "Zenithal rate",
+        "Meteor velocity",
+        "Observation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-02-astro-ads",
+      "documentId": "eph91-02",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classifieds service for non-commercial advertisers to sell astronomy-related products and services, with submissions due by the 15th of each month for a three-month run. The document then lists several example advertisements, featuring a variety of used astronomical equipment such as telescopes, binoculars, filters, finderscopes, and related accessories like video digitizer boards and scientific calculators. Items are offered by individuals with contact information and asking prices.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment Sales",
+        "Used Equipment",
+        "Community Service"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Astronomy equipment",
+        "Telescopes",
+        "Accessories",
+        "Binoculars",
+        "Filters",
+        "Finderscopes",
+        "Schmidt-Cassegrain",
+        "Schmidt-Newtonian",
+        "Meade",
+        "Celestron",
+        "Questar",
+        "Video Digitizer",
+        "Calculators",
+        "Non-commercial ads",
+        "Submission guidelines"
+      ],
+      "pageStart": 6,
+      "pageEnd": 41
+    },
+    {
+      "id": "eph91-02-san-jose-astronomical-association-membership-application",
+      "documentId": "eph91-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), outlining various membership tiers including general, S&T magazine inclusive, and junior memberships. It provides instructions for submitting the application and payment to the treasurer. Additionally, it contains contact information for the SJAA's monthly publication, \"SJAA Ephemeris,\" and guidelines for article submissions.",
+      "categories": [
+        "Membership Application",
+        "Astronomical Association Information",
+        "Newsletter/Publication Information",
+        "Non-profit Organization"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Astronomy club",
+        "Ephemeris",
+        "Newsletter",
+        "Dues",
+        "Contact information",
+        "Space & Telescope",
+        "Milpitas",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-02",
+      "title": "<!-- <!-- PAGE 1 --> -->",
+      "issueDate": null,
+      "pdfPath": "9102/Eph91_02.pdf",
+      "txtPath": "9102/Eph91_02.md"
+    }
+  ]
+}

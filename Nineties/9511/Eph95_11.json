@@ -1,0 +1,803 @@
+{
+  "articles": [
+    {
+      "id": "eph95-11-sjaa-ephemeris",
+      "documentId": "eph95-11",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the November 1995 issue (Volume 6, Number 11) of \"SJAA Ephemeris,\" which is the official publication of the San Jose Astronomical Association. It serves as a communication for the club's members and the wider astronomy community.",
+      "categories": [
+        "newsletter",
+        "club publication",
+        "astronomy club news"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "November 1995",
+        "astronomy",
+        "club newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-the-eyepiece",
+      "documentId": "eph95-11",
+      "title": "The Eyepiece",
+      "summary": "Lew Kurtz announces his takeover as newsletter editor for SJAA from Bob Madden, detailing his background and some internal changes to the newsletter's content layout. The article also provides a schedule of upcoming events for November and December, including general meetings with guest speakers (Bob Garfinkle on star hopping, and Dr. Christopher McKay on the search for life) and various star parties.",
+      "categories": [
+        "Newsletter Update",
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Meetings"
+      ],
+      "keywords": [
+        "Lew Kurtz",
+        "Bob Madden",
+        "SJAA",
+        "Newsletter Editor",
+        "Star Parties",
+        "General Meetings",
+        "Star Hopping",
+        "Bob Garfinkle",
+        "Dr. Christopher McKay",
+        "NASA Ames Research Center",
+        "Ephemeris",
+        "Comet Comments",
+        "Celestial Calendar",
+        "ASTRO Ads"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-11-forty-years-ago-this-month",
+      "documentId": "eph95-11",
+      "title": "Forty Years Ago this Month",
+      "summary": "This article recounts the San Jose Astronomical Association's meeting held on November 21, 1955, detailing various presentations given by members. Topics included the constellation Taurus, images from the 'Big Schmidt' telescope, astronomical book reviews, and a discussion about an Orrery. The meeting also featured a report on plans for the club's first loaner telescope, a 6-inch f/8.",
+      "categories": [
+        "Club History",
+        "Meeting Report",
+        "Astronomical Education",
+        "Club Activities"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Club Meeting",
+        "Taurus",
+        "Pleiades",
+        "Big Schmidt Telescope",
+        "Mt. Palomar",
+        "Orrery",
+        "Club Telescope",
+        "Astronomical Books",
+        "1955"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-11-fremont-peak-report",
+      "documentId": "eph95-11",
+      "title": "Fremont Peak Report",
+      "summary": "An astronomer recounts a successful observing night at Fremont Peak on September 23, 1995, noting excellent seeing conditions despite some light pollution. The report details a comparative observation of Saturn and 35 deep space objects using a personal 6\" rich field scope and the club's 8\" dobsonian, along with observations of Uranus and Neptune through a neighboring 20\" dobsonian. The experience reinforced the author's preference for larger aperture telescopes with specific focal ratios for deep sky viewing.",
+      "categories": [
+        "Observing Report",
+        "Telescope Comparison",
+        "Deep Sky Observing",
+        "Planetary Observing"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Astronomy",
+        "Observing",
+        "Telescopes",
+        "Dobsonian",
+        "Rich Field Telescope",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Deep Space Objects",
+        "Ring Nebula",
+        "Dumbbell Nebula",
+        "M13",
+        "M22",
+        "Andromeda Galaxy",
+        "Veil Nebula",
+        "Trifid Nebula",
+        "Lagoon Nebula",
+        "Double Cluster",
+        "Oxygen III Filter",
+        "Seeing Conditions",
+        "Aperture",
+        "Focal Ratio"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-forty-continued-from-page-1",
+      "documentId": "eph95-11",
+      "title": "Forty - continued from page 1",
+      "summary": "The club is planning to construct a high-quality 10 or 12-inch richfield telescope, with all labor to be performed by members. Separately, Steve Bieda and Bob Cunningham announced a series of 27 star maps for sale to members at a special price of $1.50 per set. Following the meeting, a small group observed with Dean Pritchett's new 2.4-inch refractor.",
+      "categories": [
+        "Meeting Report",
+        "Club Project",
+        "Announcement",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Richfield telescope",
+        "Telescope building",
+        "Star maps",
+        "Club meeting",
+        "Astronomical instruments",
+        "Refractor",
+        "Observing"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph95-11-periodical-publication-statement",
+      "documentId": "eph95-11",
+      "title": "Periodical Publication Statement",
+      "summary": "This statement details the publication schedule for the SJAA Ephemeris, the newsletter of the San Jose Astronomical Association. It confirms that the newsletter is published monthly, 12 times a year, from January through December, by the San Jose Astronomical Association.",
+      "categories": [
+        "Publication Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "publication schedule",
+        "monthly"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-news-and-views",
+      "documentId": "eph95-11",
+      "title": "News and Views",
+      "summary": "This article provides an update on the SJAA's recent activities, including the addition of new editorial staff, the launch of a club website, and a successful summer of observing. Celebrating its 40th anniversary, the club has joined the Astronomical League to secure liability insurance, which also grants members access to League benefits and publications. The author encourages members to get involved and share ideas for club activities or design a new logo.",
+      "categories": [
+        "Club News",
+        "Administrative Update",
+        "Announcements",
+        "Membership Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomical League",
+        "Liability Insurance",
+        "Club Anniversary",
+        "Newsletter",
+        "Website",
+        "Observing",
+        "Membership",
+        "Editorial Staff",
+        "Board of Directors",
+        "Club Activities"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-11-mt-lassen-star-party-report",
+      "documentId": "eph95-11",
+      "title": "Mt. Lassen Star Party Report",
+      "summary": "The 2nd Annual Mt. Lassen Star Party, hosted by SJAA and attended by several astronomy clubs, offered exceptionally dark skies for observing deep-sky objects and faint galaxies. Despite some chilly, breezy conditions, participants enjoyed spectacular views through various telescopes, highlighting the benefits of high-altitude, remote observing sites. The event also featured a large social dinner and camaraderie among attendees.",
+      "categories": [
+        "observing reports",
+        "events",
+        "astronomy clubs",
+        "deep-sky observing",
+        "star parties"
+      ],
+      "keywords": [
+        "Mt. Lassen Star Party",
+        "SJAA",
+        "Lost Creek Campground",
+        "Devastated Area parking lot",
+        "dark skies",
+        "Milky Way",
+        "Barnard dark nebulae",
+        "Abell galaxies",
+        "M31",
+        "telescopes",
+        "binoviewers",
+        "astronomy clubs",
+        "star party report",
+        "Lassen Peak",
+        "observing conditions",
+        "social event"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-11-the-lunatic-fringe-4",
+      "documentId": "eph95-11",
+      "title": "THE LUNATIC FRINGE #4",
+      "summary": "This installment of \"THE LUNATIC FRINGE\" by Rich Neuschaefer, titled \"Moon Sheep,\" encourages amateur astronomers to embrace the bright Moon rather than curse it. It provides an observing guide for finding specific lunar objects about one day past first quarter, near the terminator, emphasizing the importance of the terminator's position for successful viewing of small features.",
+      "categories": [
+        "Observing Guide",
+        "Lunar Observation",
+        "Amateur Astronomy",
+        "Tips & Tricks"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar features",
+        "Terminator",
+        "First Quarter",
+        "Observing tips",
+        "Rich Neuschaefer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-easy",
+      "documentId": "eph95-11",
+      "title": "Easy:",
+      "summary": "This document describes three prominent lunar features: Archimedes, Aristillus, and Plato. For each feature, it provides its size, specific location relative to other lunar landmarks like the Lunar Apennines and Mare Imbrium, and key characteristics such as central peaks or being a walled plain within a mountain range.",
+      "categories": [
+        "Lunar Features",
+        "Observing Guide",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Archimedes",
+        "Aristillus",
+        "Plato",
+        "Lunar Apennines",
+        "Mare Imbrium",
+        "Lunar Alps",
+        "craters",
+        "moon",
+        "selenography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-medium",
+      "documentId": "eph95-11",
+      "title": "Medium:",
+      "summary": "This document describes several prominent lunar mountains—Mons Piton, Montes Spitzbergen, Mons Pico, and Montes Teneriffe—as exposed mountain tops in Mare Imbrium, likened to 'white sheep.' It details their relative locations near features like Archimedes, Aristillus, and Plato. Additionally, it briefly defines the Alpine Valley as a significant cut across the Lunar Alps.",
+      "categories": [
+        "Lunar Geography",
+        "Observational Astronomy",
+        "Educational"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar features",
+        "Mons Piton",
+        "Montes Spitzbergen",
+        "Mons Pico",
+        "Montes Teneriffe",
+        "Mare Imbrium",
+        "Alpine Valley",
+        "Lunar Alps",
+        "Archimedes",
+        "Aristillus",
+        "Plato"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-challenge",
+      "documentId": "eph95-11",
+      "title": "Challenge:",
+      "summary": "This document presents a lunar observation challenge, detailing specific features such as the Plato Rimae, Archytas Rima, and four craterlets within the Plato walled plain. It provides guidance on locating these features using charts 4, 11, and 12 from Antonin Rukl's \"Atlas of the Moon.\"",
+      "categories": [
+        "observing challenges",
+        "lunar features",
+        "astronomy references",
+        "observing guides"
+      ],
+      "keywords": [
+        "Plato Rimae",
+        "Archytas Rima",
+        "Plato",
+        "craterlets",
+        "Lunar Alps",
+        "Mare Frigoris",
+        "Moon",
+        "lunar observation",
+        "Antonin Rukl",
+        "Atlas of the Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-mt-lassen-continued-from-page-3",
+      "documentId": "eph95-11",
+      "title": "Mt. Lassen - continued from page 3",
+      "summary": "The article describes a highly successful public star party at Mt. Lassen, featuring over 27 telescopes and hundreds of appreciative visitors. Organized with the help of park staff, the event demonstrated excellent visitor etiquette and generated strong enthusiasm for a repeat next year. Planning for 'Lassen 96' is expected to begin early next year.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Public Outreach",
+        "Event Planning"
+      ],
+      "keywords": [
+        "Mt. Lassen",
+        "star party",
+        "astronomy",
+        "public event",
+        "observing",
+        "SJAA",
+        "park staff",
+        "event coordination",
+        "Lassen 96"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-11-sjaa-web-page-and-local-bbs",
+      "documentId": "eph95-11",
+      "title": "SJAA web-page and Local bbs",
+      "summary": "The San Jose Astronomy Association (SJAA) has launched new online resources, including a World Wide Web page and a local Bulletin Board System (BBS), to provide members and the public with access to event schedules, educational materials, and astronomy-related software. These platforms also offer links to AstroNet, a broader resource for club listings, shareware, and discussions, accessible via the Internet or modem dial-in.",
+      "categories": [
+        "news",
+        "announcement",
+        "technical information",
+        "club resources",
+        "online services"
+      ],
+      "keywords": [
+        "SJAA",
+        "web page",
+        "BBS",
+        "Internet",
+        "AstroNet",
+        "online astronomy",
+        "event schedule",
+        "software",
+        "modem access"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-11-status-updated-9-29-95",
+      "documentId": "eph95-11",
+      "title": "STATUS UPDATED: 9/29/95",
+      "summary": "As of September 29, 1995, Pioneer 10 remains healthy and continues to collect valuable scientific data from the outer Solar System, with a maneuver planned for early 1996 to optimize communication. In contrast, Pioneer 11, though appearing healthy, suffers from insufficient power to operate scientific instruments and maintain accurate antenna pointing, leading to significant data loss. The article also clarifies that Pioneer 10's RTGs were initially selected for higher efficiency as it was the primary mission.",
+      "categories": [
+        "spacecraft status report",
+        "space exploration",
+        "deep space missions",
+        "technical update",
+        "science news"
+      ],
+      "keywords": [
+        "Pioneer 10",
+        "Pioneer 11",
+        "spacecraft status",
+        "RTG",
+        "power management",
+        "deep space communication",
+        "scientific instruments",
+        "outer Solar System",
+        "interplanetary probe"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-galileo-mission-status-10-1-95",
+      "documentId": "eph95-11",
+      "title": "Galileo Mission Status - 10/1/95",
+      "summary": "The Galileo spacecraft is approximately nine weeks away from its crucial Jupiter probe entry and orbit insertion on December 7, 1995, concluding its interplanetary cruise. Recent activities include engineering tests, a switch to a suppressed-carrier downlink for improved data rates, and ongoing scientific readouts despite a detected transient power drop. The spacecraft also experienced its most intense interplanetary dust storm to date, prompting planned special dust measurements related to Jupiter's rotation.",
+      "categories": [
+        "Mission Status Report",
+        "Spacecraft Operations",
+        "Planetary Science",
+        "Engineering Updates"
+      ],
+      "keywords": [
+        "Galileo Mission",
+        "Jupiter",
+        "Spacecraft Status",
+        "Jupiter Orbit Insertion",
+        "Probe Entry",
+        "Interplanetary Cruise",
+        "Suppressed-carrier Downlink",
+        "Dust Storm",
+        "Telemetry",
+        "JPL",
+        "NASA"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-11-comet-comments-oct-6-1995",
+      "documentId": "eph95-11",
+      "title": "COMET COMMENTS, Oct 6, 1995",
+      "summary": "This 'COMET COMMENTS' update from October 6, 1995, reports on the current visibility of several comets, noting an exciting bright comet and the dimming of Comet Bradfield and Comet Hale-Bopp. The primary focus is the rediscovery of the long-lost Periodic Comet de Vico (P/1221), last observed in 1846, which was found by Japanese observers and Don Machholz, who had previously encouraged amateurs to look for its return. Currently barely visible to the naked eye with a thin tail, P/de Vico will fade by year-end and is next expected in 2069.",
+      "categories": [
+        "Observing Report",
+        "Comet News",
+        "Cometary Astronomy",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Comet de Vico",
+        "Comet Hale-Bopp",
+        "Comet Bradfield",
+        "Comet Rediscovery",
+        "Comet Observation",
+        "Don Machholz",
+        "1995",
+        "Periodic Comet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-ephemerides",
+      "documentId": "eph95-11",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for three comets: 122P/de Vico, C/1995 Q1 (Bradfield), and 1995 O1 (Hale-Bopp). For each comet, it lists observational data including Right Ascension, Declination, elongation, sky visibility (morning or evening), and apparent magnitude, across various dates from October to December. This data serves as a guide for astronomical observation and tracking of these celestial bodies.",
+      "categories": [
+        "Ephemerides",
+        "Astronomy",
+        "Comets",
+        "Observational Data",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "122P/de Vico",
+        "C/1995 Q1 (Bradfield)",
+        "1995 O1 (Hale-Bopp)",
+        "Hale-Bopp",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical observation",
+        "Comet tracking",
+        "Celestial coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-orbital-elements",
+      "documentId": "eph95-11",
+      "title": "ORBITAL ELEMENTS",
+      "summary": "This document presents a table detailing the orbital elements for three comets: P/de Vico, C/1995 Q1 (Bradfield), and 1995 O1 (Hale-Bopp). It provides specific astronomical data including perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period for each object, referencing Minor Planet Circulars as the source.",
+      "categories": [
+        "Technical",
+        "Data",
+        "Comets",
+        "Orbital Mechanics",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Comet P/de Vico",
+        "Comet C/1995 Q1 Bradfield",
+        "Comet 1995 O1 Hale-Bopp",
+        "Hale-Bopp",
+        "Perihelion",
+        "Eccentricity",
+        "Orbital Period",
+        "Inclination",
+        "Ascending Node",
+        "Argument of Perihelion",
+        "MPC",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-lunar-phase",
+      "documentId": "eph95-11",
+      "title": "Lunar Phase",
+      "summary": "This document presents a table detailing the dates and times for the four primary lunar phases: Full Moon, Last Quarter, New Moon, and First Quarter. For each phase, it provides the precise date and time, along with the Moon's approximate rise, transit, and set times.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-nearer-planets",
+      "documentId": "eph95-11",
+      "title": "Nearer Planets",
+      "summary": "This document provides an astronomical guide detailing observational data for Mercury, Venus, Mars, Jupiter, and Saturn. For each planet, it includes its average distance from the Sun in Astronomical Units, apparent visual magnitude, and a series of specific times across three dates of a given month, likely indicating their visibility windows or positions.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Planetary Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Planetary observation",
+        "Astronomical data",
+        "Magnitude",
+        "Orbital distance",
+        "Visibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-sol-star-type-g2v",
+      "documentId": "eph95-11",
+      "title": "SOL Star Type G2V",
+      "summary": "This document provides tabular data for SOL, our Sun, which is classified as a G2V star. It lists Right Ascension (RA) and Declination (Dec) coordinates along with additional numerical values that appear to represent specific time points or observation windows across different days (07, 17, 27). This serves as a reference for tracking the Sun's celestial position.",
+      "categories": [
+        "Astronomy",
+        "Stellar Data",
+        "Ephemeris",
+        "Reference Data"
+      ],
+      "keywords": [
+        "SOL",
+        "Sun",
+        "G2V star",
+        "Right Ascension",
+        "Declination",
+        "Astronomical coordinates",
+        "Stellar classification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-astronomical-twilight",
+      "documentId": "eph95-11",
+      "title": "Astronomical Twilight",
+      "summary": "The document, titled \"Astronomical Twilight,\" provides a tabular schedule detailing the begin and end times of astronomical twilight for several specific Julian Dates. This data is essential for planning astronomical observations when the sky is sufficiently dark, allowing astronomers to determine optimal viewing periods.",
+      "categories": [
+        "Observing Aids",
+        "Astronomy",
+        "Ephemeris",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "Observation times",
+        "Schedule",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-sidereal-time",
+      "documentId": "eph95-11",
+      "title": "Sidereal Time",
+      "summary": "This document, titled 'Sidereal Time,' presents a concise table illustrating calculations or specific values related to sidereal time. It lists entries such as 'Transit Right,' 'Ascension of,' and 'Local Midnight' with corresponding numerical values that likely represent time offsets or related measurements.",
+      "categories": [
+        "Astronomy",
+        "Timekeeping",
+        "Technical Data",
+        "Reference"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right Ascension",
+        "Local Midnight",
+        "Time Calculations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-darkest-saturday-night-18-nov-1995",
+      "documentId": "eph95-11",
+      "title": "Darkest Saturday Night: 18-Nov-1995",
+      "summary": "This document outlines astronomical conditions for November 18, 1995, detailing times for sunset, twilight end, moonrise, and dawn begin, indicating a night suitable for dark-sky observation. It also presents the 1995/1996 calendar for the SJAA, listing dates for monthly general meetings, Hogue Park Star Parties, and Observational Astronomy Classes from November through March.",
+      "categories": [
+        "observing conditions",
+        "events schedule",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "Darkest Saturday Night",
+        "18-Nov-1995",
+        "astronomical conditions",
+        "SJAA",
+        "calendar",
+        "star parties",
+        "observing classes",
+        "general meetings",
+        "ephemeris"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-11-telescope-loaner-status",
+      "documentId": "eph95-11",
+      "title": "Telescope Loaner Status",
+      "summary": "This article details the current status of a telescope loaner program, listing various telescopes, their users, due dates, and availability. It provides instructions for members to contact Paul Barton to borrow a telescope or join a waitlist, and includes a special note about the solar telescope's usage policy.",
+      "categories": [
+        "Loaner Program",
+        "Equipment Management",
+        "Member Services",
+        "Club Announcement"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Telescope availability",
+        "Equipment status",
+        "Due dates",
+        "Astronomy club",
+        "Paul Barton",
+        "Waitlist",
+        "Dobson",
+        "Celestron",
+        "Refractor",
+        "Newt/P Mount",
+        "Solar telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-astro-ads",
+      "documentId": "eph95-11",
+      "title": "ASTRO ADS",
+      "summary": "The article introduces \"ASTRO ADS,\" a free classifieds service for noncommercial advertisers offering astronomy-related products or services. It features two specific advertisements for used telescopes: a 12.5-inch f/9 Ritchy Chretien telescope with accessories for $2,000 (or $1500 without eyepieces) and an 8-inch f/8 Newtonian telescope on a Meade mount for $500.",
+      "categories": [
+        "Advertisements",
+        "Classifieds",
+        "Astronomy Equipment Sales"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Telescope sales",
+        "Ritchy Chretien",
+        "Newtonian telescope",
+        "Star Instruments",
+        "Meade mount",
+        "Used astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-officers-and-board-of-directors",
+      "documentId": "eph95-11",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors, detailing their positions such as President, Vice President, Treasurer, Secretary, and Director. Each entry includes the individual's name and their corresponding phone number, serving as a contact directory for the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Administrative"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact Information",
+        "Directory",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-ephemeris-contributors",
+      "documentId": "eph95-11",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists individuals who contribute to ephemerides, providing their names and corresponding phone numbers. It serves as a contact directory for these contributors.",
+      "categories": [
+        "Contact List",
+        "Directory",
+        "Informational"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact Information",
+        "Phone Numbers",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-11-editor",
+      "documentId": "eph95-11",
+      "title": "Editor",
+      "summary": "This document introduces Lew Kurtz as the editor, likely for a newsletter or publication, and provides contact information including phone and email. It encourages members to submit articles for publication, detailing preferred submission methods (email, diskette, typed) and setting a submission deadline of the the 12th for inclusion in the following month's newsletter.",
+      "categories": [
+        "Editorial Information",
+        "Publication Guidelines",
+        "Call for Submissions",
+        "Newsletter Information"
+      ],
+      "keywords": [
+        "editor",
+        "Lew Kurtz",
+        "article submission",
+        "publication guidelines",
+        "newsletter",
+        "submission deadline",
+        "contact information",
+        "email",
+        "diskette"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-11-san-jose-astronomical-association-membership",
+      "documentId": "eph95-11",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership tiers including options with or without a Sky and Telescope subscription, and a junior rate. It provides instructions for submitting the form and payment, along with contact information for the association and its treasurer. The document also includes general organizational details and hotlines.",
+      "categories": [
+        "Membership Information",
+        "Organizational Documents",
+        "Application Form",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Sky and Telescope",
+        "Contact Details",
+        "Treasurer",
+        "Non-profit organization",
+        "November 1995"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9511/Eph95_11.pdf",
+      "txtPath": "9511/Eph95_11.md"
+    }
+  ]
+}

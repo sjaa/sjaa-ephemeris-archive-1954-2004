@@ -1,0 +1,659 @@
+{
+  "articles": [
+    {
+      "id": "ephdec99-sjaa-activities-calendar",
+      "documentId": "ephdec99",
+      "title": "SJAA Activities Calendar",
+      "summary": "The SJAA Activities Calendar provides a detailed schedule for December and January, outlining numerous star parties at Houge Park and Fremont Peak, along with dedicated deep-sky observing nights and school star parties. It also features a Christmas Potluck, an observational astronomy class, and a general meeting with guest speaker Michael Light, offering a comprehensive look at the organization's upcoming astronomical and social events.",
+      "categories": [
+        "Events",
+        "Observing Events",
+        "Meetings",
+        "Education",
+        "Social Events",
+        "Astronomy Calendar",
+        "Club Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Activities Calendar",
+        "Star Parties",
+        "Deep-Sky Observing",
+        "Fremont Peak",
+        "Houge Park",
+        "Observational Astronomy",
+        "General Meeting",
+        "School Star Parties",
+        "Astronomy Events",
+        "December Events",
+        "January Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-on-the-sidewalk-with-john",
+      "documentId": "ephdec99",
+      "title": "On the Sidewalk with John",
+      "summary": "The article describes an encounter with John Dobson, inventor of the Dobsonian telescope, as he shares views of the moon with passersby on a San Francisco street corner. Dobson passionately educates and inspires curious onlookers with astronomical facts, embodying his dedication to public astronomy. The author reflects on Dobson's significant impact on making astronomy accessible and his continued efforts in teaching telescope making.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Education",
+        "People in Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "John Dobson",
+        "Dobsonian telescope",
+        "Sidewalk astronomy",
+        "Moon",
+        "Jupiter",
+        "Public outreach",
+        "Telescope making",
+        "San Francisco"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephdec99-on-the-sidewalk-with-john",
+      "documentId": "ephdec99",
+      "title": "On the Sidewalk with John",
+      "summary": "The article describes an evening of sidewalk astronomy with John Dobson in San Francisco, highlighting his passion for sharing the universe and prompting critical thought, even challenging conventional labels like 'planet' or 'star'. It showcases heartwarming interactions with the public, from police officers to an elderly woman seeing the moon, underscoring the profound impact of direct astronomical observation. Dobson, a proponent of the steady-state universe, uses these street corner sessions to plant seeds of curiosity about cosmology.",
+      "categories": [
+        "Observing Report",
+        "People & Personalities",
+        "Public Outreach",
+        "Philosophy of Astronomy"
+      ],
+      "keywords": [
+        "John Dobson",
+        "Sidewalk Astronomy",
+        "San Francisco",
+        "Jupiter",
+        "Saturn",
+        "Moon",
+        "Steady-State Universe",
+        "Cosmology",
+        "Public Engagement",
+        "24th and Noe"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec99-table-of-red-stars",
+      "documentId": "ephdec99",
+      "title": "Table of Red Stars",
+      "summary": "This document, \"Table of Red Stars\" by Mark St. George, presents a comprehensive list of red stars, noting that most are carbon stars and all are variable. For each entry, the table provides the star's name, celestial coordinates (Right Ascension and Declination), a range of visual magnitudes (generally 10 or brighter), and descriptive comments such as specific color observations or historical names. It serves as a practical guide for observing or studying a variety of red, often variable, celestial objects.",
+      "categories": [
+        "Star Catalog",
+        "Variable Stars",
+        "Observational Data",
+        "Astronomy Reference"
+      ],
+      "keywords": [
+        "Red stars",
+        "Variable stars",
+        "Carbon stars",
+        "Stellar data",
+        "Astronomical catalog",
+        "Magnitude",
+        "Celestial coordinates",
+        "Deep-sky objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-party-time-at-houge",
+      "documentId": "ephdec99",
+      "title": "Party Time at Houge",
+      "summary": "The article announces a Winter Solstice potluck party at Houge Park on December 18. Attendees are encouraged to bring food, beverages (especially with silly astro themes), and participate in an optional \"Silly Astro Gift Exchange\" by bringing a wrapped, useless, and weird item. Guests are also invited to share telescopes, astro gadgets, and photos.",
+      "categories": [
+        "Events",
+        "Social Gathering",
+        "Community"
+      ],
+      "keywords": [
+        "Winter Solstice",
+        "Party",
+        "Potluck",
+        "Gift Exchange",
+        "Houge Park",
+        "Astronomy",
+        "Telescopes"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec99-david-north",
+      "documentId": "ephdec99",
+      "title": "David North",
+      "summary": "The author laments a lack of observable occultations and unfavorable lunar librations in the Bay Area for the current month, but declares the unofficial start of 'Moon Season.' This period, beginning in December, offers favorable evening views of the Moon due to its higher elevation, especially around and after full moon. The article also suggests using a single polarizing filter to enhance lunar contrast, particularly during daylight or twilight viewing, and encourages readers to experiment with its potential effects on seeing conditions.",
+      "categories": [
+        "Lunar Observing",
+        "Observing Techniques",
+        "Equipment Tips",
+        "Astronomical Conditions",
+        "Personal Commentary"
+      ],
+      "keywords": [
+        "Lunar Observing",
+        "Moon Season",
+        "Polarizing Filters",
+        "Astronomical Seeing",
+        "Contrast Enhancement",
+        "Occultations",
+        "Librations",
+        "Evening Observing",
+        "Sky Conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-akkana-peck",
+      "documentId": "ephdec99",
+      "title": "Akkana Peck",
+      "summary": "This article provides observing tips for Jupiter and Saturn in December 1999, noting that both planets are well-placed for viewing. For Jupiter, it describes visible festoons and the less prominent Great Red Spot, while for Saturn, it highlights the well-tilted rings, the Crepe ring, Cassini's division, B-ring shading, and surprisingly easier-to-observe A-ring gaps. The author encourages sharing these celestial sights with friends and family during the holidays.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Monthly Sky Guide"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "Great Red Spot",
+        "Rings of Saturn",
+        "Crepe ring",
+        "Cassini's Division",
+        "A-ring gap",
+        "Telescope observation",
+        "December 1999",
+        "Planetary features"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec99-meteor-watch",
+      "documentId": "ephdec99",
+      "title": "Meteor Watch",
+      "summary": "This article, 'Meteor Watch' by David North, provides a guide to celestial observations for December 1999. It details the upcoming Geminids meteor shower, described as the year's strongest with ideal viewing conditions, and the Ursids shower, which will be hampered by a full moon. Additionally, it covers observing opportunities for planets like Mars, Venus, and Mercury, alongside mentions of lunar events such as perigee and apogee, and the winter solstice.",
+      "categories": [
+        "Astronomy Events",
+        "Observing Guide",
+        "Meteor Showers",
+        "Planetary Observations",
+        "Lunar Events",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Meteor Watch",
+        "Geminids",
+        "Ursids",
+        "Meteor shower",
+        "Asteroid 3200 Phaethon",
+        "Comet 8p/Tuttle",
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Venus",
+        "Mercury",
+        "Moon",
+        "Winter Solstice",
+        "Perigee",
+        "Apogee",
+        "December 1999",
+        "Occultation",
+        "Conjunction",
+        "Fireball",
+        "IRAS"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec99-comet-comments-for-december-1999",
+      "documentId": "ephdec99",
+      "title": "Comet Comments for December 1999",
+      "summary": "This article provides an update on various comets for December 1999, noting the continued visibility of Periodic Comet Machholz 2 and predictions for Comet LINEAR (C/1999 S4) to become unaided-eye visible next July. It highlights numerous recent discoveries by automated programs like LINEAR and LONEOS, alongside one by amateur astronomers McNaught and Hartley, and discusses the diminishing opportunities for amateur comet discoveries due to automated searches, impacting eligibility for the Wilson Comet Award.",
+      "categories": [
+        "Comet Updates",
+        "Observing Reports",
+        "Astronomical Discoveries",
+        "Amateur Astronomy",
+        "Awards"
+      ],
+      "keywords": [
+        "Comet Machholz 2",
+        "Comet LINEAR C/1999 S4",
+        "Comet McNaught-Hartley C/1999 T1",
+        "Comet discovery",
+        "Automated sky surveys",
+        "Amateur comet hunting",
+        "Wilson Comet Award",
+        "December 1999"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-ephemeris",
+      "documentId": "ephdec99",
+      "title": "Ephemeris",
+      "summary": "This document provides an ephemeris for comet 141P/Machholz 2, detailing its celestial coordinates (Right Ascension and Declination), elevation, sky position, and apparent magnitude for various dates from November 20XX to January 20XX. It serves as a navigational guide for astronomers, showing the comet's predicted path and brightness changes over time.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Observing Guide",
+        "Prediction"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Comet",
+        "141P/Machholz 2",
+        "Astronomy",
+        "Celestial Coordinates",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-elements",
+      "documentId": "ephdec99",
+      "title": "Elements",
+      "summary": "This document provides detailed orbital elements for two comets: P/Machholz 2 and LINEAR (1999 S4). The data includes perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, orbital period, and absolute magnitude. Contact information for Don Machholz, presumably related to comet observations or data, is also listed.",
+      "categories": [
+        "Cometary Data",
+        "Orbital Elements",
+        "Astronomical Reference",
+        "Observational Data"
+      ],
+      "keywords": [
+        "P/Machholz 2",
+        "LINEAR (1999 S4)",
+        "Comet",
+        "Orbital Elements",
+        "Perihelion",
+        "Orbital Period",
+        "Magnitude",
+        "MPC",
+        "Astronomy",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-lunar-phases",
+      "documentId": "ephdec99",
+      "title": "Lunar Phases:",
+      "summary": "This document presents a table outlining the dates and times for the four primary lunar phases: New Moon, First Quarter, Full Moon, and Last Quarter. For each phase, it provides the precise time in PST, along with their respective rise, transit, and set times.",
+      "categories": [
+        "Astronomical Data",
+        "Celestial Events",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Moon",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Rise Time",
+        "Set Time",
+        "Transit Time",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-nearer-planets",
+      "documentId": "ephdec99",
+      "title": "Nearer Planets:",
+      "summary": "This document provides a concise astronomical guide for observing the 'nearer planets'—Mercury, Venus, Mars, Jupiter, and Saturn. It lists essential data such as their distance in Astronomical Units (A.U.), apparent magnitude, Right Ascension (R.A.), and Declination (Dec.) for the 7th, 17th, and 27th of an unspecified month, along with approximate observation times.",
+      "categories": [
+        "Observing Guide",
+        "Ephemeris",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Planetary positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Astronomical Unit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-sol-star-type-g2v-intelligent-life-in-system",
+      "documentId": "ephdec99",
+      "title": "SOL Star Type G2V Intelligent Life in System?",
+      "summary": "This document fragment opens with a speculative question regarding the existence of intelligent life around a G2V star, which is spectroscopically similar to our Sun. It then presents a table of numerical data, labeled \"Hours of Darkness,\" seemingly representing astronomical or observational records. The text, however, does not provide any analysis or direct connection between this data and the initial query about intelligent life.",
+      "categories": [
+        "Astrobiology",
+        "Astronomy",
+        "Observational Data"
+      ],
+      "keywords": [
+        "SOL",
+        "G2V star",
+        "Intelligent life",
+        "Hours of Darkness",
+        "Astronomical data",
+        "Stellar classification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-astronomical-twilight",
+      "documentId": "ephdec99",
+      "title": "Astronomical Twilight:",
+      "summary": "The document provides a concise table detailing the beginning and end times of astronomical twilight for specific Julian Dates, specifically 2,451,519, 2,451,529, and 2,451,539. This data, presented in a 24-hour format, is essential for planning astronomical observations.",
+      "categories": [
+        "Astronomical Phenomena",
+        "Timekeeping",
+        "Observing Aid"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Twilight Times",
+        "Observing Conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-sidereal-time",
+      "documentId": "ephdec99",
+      "title": "Sidereal Time:",
+      "summary": "This document provides astronomical data related to sidereal time, specifically 'Transit Right Ascension at Local Midnight' for three dates (7th, 17th, 27th of an unspecified month). It also includes a detailed table for the 'Darkest Saturday Night' on December 4, 1999, listing sunset, twilight end, moon rise, dawn begin times, and total hours of darkness.",
+      "categories": [
+        "Astronomical Data",
+        "Observational Planning",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Sunset",
+        "Twilight",
+        "Moon Rise",
+        "Dawn",
+        "Hours Dark",
+        "December 1999"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-for-sale",
+      "documentId": "ephdec99",
+      "title": "For Sale",
+      "summary": "An Astro-Physics 800 heavy-duty mount and pier assembly is available for sale. Priced at $2400, the mount's controller is compatible with autoguiders like the ST-4.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sale",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Astro-Physics 800 mount",
+        "telescope mount",
+        "pier assembly",
+        "autoguider",
+        "ST-4",
+        "astronomy equipment",
+        "for sale"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec99-officers-and-board-of-directors",
+      "documentId": "ephdec99",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current Officers and Board of Directors for an organization, detailing the names and contact phone numbers for each leadership position. It identifies individuals holding roles such as President, Vice President, Secretary, Treasurer, and several Directors.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Administration"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Personnel",
+        "Contact Information",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-ephemeris-staff",
+      "documentId": "ephdec99",
+      "title": "Ephemeris Staff",
+      "summary": "This document lists the staff and contact information for the \"Ephemeris\" newsletter and various programs of the San Jose Astronomical Association (SJAA), such as Mentoring, School Star Parties, and Telescope Loaner. It also includes publication details for the monthly SJAA Ephemeris newsletter and the association's mailing address.",
+      "categories": [
+        "Organizational Information",
+        "Contact Directory",
+        "Publication Details",
+        "Program Information"
+      ],
+      "keywords": [
+        "Ephemeris Staff",
+        "San Jose Astronomical Association",
+        "Newsletter",
+        "Contact Information",
+        "Program Staff",
+        "Mentoring Program",
+        "Telescope Loaner Program",
+        "Observational Astronomy",
+        "School Star Party"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-sjaa-loaner-scope-status",
+      "documentId": "ephdec99",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article announces that all loaner telescopes are currently available for San Jose Astronomical Association (SJAA) members. Members interested in borrowing a scope should contact Mike Koop via email or phone.",
+      "categories": [
+        "Club Announcement",
+        "Member Services",
+        "Equipment Loaner Program"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Availability",
+        "Member Benefits",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-available-scopes",
+      "documentId": "ephdec99",
+      "title": "Available Scopes",
+      "summary": "This document lists various astronomical telescopes available for immediate loan to members of the SJAA, stored at other members' homes. Interested individuals should contact Mike Koop to arrange pickup at an SJAA event. The list includes different types of scopes such as Newtonians, Dobsons, and a Quantum S/C.",
+      "categories": [
+        "member services",
+        "equipment loan",
+        "resource listing",
+        "astronomy club information"
+      ],
+      "keywords": [
+        "telescopes",
+        "scope loan",
+        "SJAA",
+        "astronomy equipment",
+        "Newtonian",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "loan program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-scope-loans",
+      "documentId": "ephdec99",
+      "title": "Scope Loans",
+      "summary": "The 'Scope Loans' article details telescopes currently borrowed by members, including the scope number, description, borrower, and due date. Individuals interested in borrowing a scope will be placed on a waiting list until the requested item becomes available.",
+      "categories": [
+        "observing resources",
+        "equipment loan program",
+        "member services",
+        "administrative report"
+      ],
+      "keywords": [
+        "scope loans",
+        "telescopes",
+        "borrowing equipment",
+        "due dates",
+        "Celestron S/C",
+        "Dobson",
+        "Solar Scope",
+        "Refractor",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-extended-scope-loans",
+      "documentId": "ephdec99",
+      "title": "Extended Scope Loans",
+      "summary": "This article lists astronomical telescopes (scopes) that have had their loan periods extended, providing details such as the scope number, description, current borrower, and due date. Individuals interested in borrowing one of these extended-loan scopes are instructed that the organization will contact the current borrower to arrange a transfer time. The list includes various types of telescopes like Dobsons, Refractors, and a C-11 Compustar.",
+      "categories": [
+        "Equipment Loan Program",
+        "Inventory Management",
+        "Astronomy Club Operations",
+        "Observing Equipment"
+      ],
+      "keywords": [
+        "scope loans",
+        "telescopes",
+        "extended loan",
+        "borrowing equipment",
+        "Dobson",
+        "Refractor",
+        "C-11 Compustar",
+        "due date"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-notes",
+      "documentId": "ephdec99",
+      "title": "Notes:",
+      "summary": "The author expresses gratitude to Ed Erbeck for donating three 2-inch focusers. Additionally, a request is made for volunteers who have space to store one or two telescopes to contact the author.",
+      "categories": [
+        "Announcements",
+        "Community Bulletin",
+        "Donations",
+        "Equipment"
+      ],
+      "keywords": [
+        "Donation",
+        "Focusers",
+        "Telescope storage",
+        "Community request",
+        "Equipment",
+        "Volunteers",
+        "Ed Erbeck"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec99-submit",
+      "documentId": "ephdec99",
+      "title": "Submit",
+      "summary": "This document outlines instructions for members to submit articles for publication in the SJAA Ephemeris newsletter by emailing the editors. It also provides guidance on how to subscribe or unsubscribe from the SJAA Mailing List via email. The content is dated December 1999, indicating it's part of an older publication.",
+      "categories": [
+        "Instructions",
+        "Membership Communication",
+        "Newsletter Information",
+        "Guidelines"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "article submission",
+        "mailing list",
+        "subscribe",
+        "unsubscribe",
+        "newsletter",
+        "members"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephdec99-san-jose-astronomical-association-membership-form",
+      "documentId": "ephdec99",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), outlining the process for new and renewing members. It details membership fees ($15 for regular, $6 for junior), an optional add-on for a Sky & Telescope subscription, and instructions for submitting the form and payment via check to their P.O. Box or at a meeting.",
+      "categories": [
+        "Membership",
+        "Association Information",
+        "Forms",
+        "Club Administration"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Renewal",
+        "Membership Fees",
+        "Sky & Telescope",
+        "Subscription",
+        "Contact Information",
+        "Campbell CA",
+        "December 1999"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec99",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9912/EphDec99.pdf",
+      "txtPath": "9912/EphDec99.md"
+    }
+  ]
+}

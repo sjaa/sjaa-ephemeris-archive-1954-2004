@@ -1,0 +1,557 @@
+{
+  "articles": [
+    {
+      "id": "eph91-03-sjaa-ephemeris",
+      "documentId": "eph91-03",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the header for \"SJAA Ephemeris,\" the official publication of the San Jose Astronomical Association. It specifies the edition as Volume 3, Number 3, published in March 1991. The content indicates it is a periodic newsletter or magazine from an amateur astronomy club.",
+      "categories": [
+        "Publication",
+        "Newsletter",
+        "Astronomy Club",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "Astronomy",
+        "Newsletter",
+        "March 1991"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-calendar-notes",
+      "documentId": "eph91-03",
+      "title": "CALENDAR NOTES",
+      "summary": "This document outlines upcoming events including a General Meeting featuring Jim Richardson speaking on meteors and meteor observations, an outdoor session for an Introductory Observational Astronomy class on March 9th, and a public star party on March 22nd. Additionally, it announces the re-election of five members to the Board of Directors in February, with new officers to be elected and installed at the March 2nd General Meeting.",
+      "categories": [
+        "Events",
+        "Organizational News",
+        "Meetings",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Observations",
+        "General Meeting",
+        "Observational Astronomy",
+        "Star Party",
+        "Board Elections",
+        "Board of Directors",
+        "Officers",
+        "Jim Richardson",
+        "Grant Ranch",
+        "Branham Lane Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-new-tv-series-on-pbs",
+      "documentId": "eph91-03",
+      "title": "NEW TV SERIES ON PBS",
+      "summary": "PBS is launching a new six-part series called \"the Astronomers\" in April, funded by the W.M. Keck Foundation, which will explore different branches of astronomy and the people involved, as part of an educational outreach program. Instructors can obtain curriculum guides for the series, which will air locally on KTEH (54) and KCSM (60). The article also lists various astronomy events, star parties, and meetings scheduled for March and early April.",
+      "categories": [
+        "News",
+        "Education",
+        "Media",
+        "Events",
+        "Observing Events",
+        "Meetings",
+        "Classes"
+      ],
+      "keywords": [
+        "PBS",
+        "TV series",
+        "The Astronomers",
+        "KTEH",
+        "W.M. Keck Foundation",
+        "Astronomy",
+        "Educational outreach",
+        "Curriculum guides",
+        "Star party",
+        "Meteor observation",
+        "General meeting",
+        "Observational Astronomy Class",
+        "SJAA"
+      ],
+      "pageStart": 239,
+      "pageEnd": 239
+    },
+    {
+      "id": "eph91-03-astrophoto-ix",
+      "documentId": "eph91-03",
+      "title": "ASTROPHOTO IX",
+      "summary": "The Astrophoto IX conference, sponsored by the Ventura County Astronomical Society and Orange County Astronomers, will take place on March 30 in Thousand Oaks. This day-long seminar will cover all aspects of celestial photography, offering information for both beginners and advanced astrophotographers, alongside lectures, photo exhibits, equipment information, and vendor booths. Attracting hundreds of amateur astrophotographers, preregistration is $20.",
+      "categories": [
+        "Events",
+        "Technical",
+        "Conferences",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Astrophoto IX",
+        "Astrophotography",
+        "Conference",
+        "Celestial photography",
+        "Ventura County Astronomical Society",
+        "Orange County Astronomers",
+        "Lectures",
+        "Workshops",
+        "Photo exhibits",
+        "Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-apple-talk",
+      "documentId": "eph91-03",
+      "title": "APPLE TALK",
+      "summary": "The SJAA newsletter editor has transitioned from MS-DOS and PageMaker to a Macintosh for production, resulting in an improved format and faster processing for the monthly publication. Members are encouraged to submit drawings for a new masthead icon, with the best selection to be featured prominently on the cover.",
+      "categories": [
+        "Club News",
+        "Technical Update",
+        "Call for Submissions",
+        "Newsletter Production"
+      ],
+      "keywords": [
+        "SJAA",
+        "Newsletter",
+        "Macintosh",
+        "MS-DOS",
+        "PageMaker",
+        "Editor",
+        "Masthead icon",
+        "Format improvement",
+        "Club officers"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-03-comet-comments",
+      "documentId": "eph91-03",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz's \"COMET COMMENTS\" reports on recent activities in cometary astronomy. The author notes the discovery of two new comets and the successful recovery of an additional one, indicating a period of new findings in this field.",
+      "categories": [
+        "News",
+        "Cometary Discoveries",
+        "Astronomy",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Comet",
+        "Discovery",
+        "Recovery",
+        "Don Machholz",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-comet-metcalf-brewington-1991a",
+      "documentId": "eph91-03",
+      "title": "Comet Metcalf-Brewington (1991a):",
+      "summary": "Howard Brewington discovered Comet Metcalf-Brewington (1991a) on Jan. 6, 1991, which was subsequently identified as the long-lost Periodic Comet Metcalf, last seen in 1906, with a 7.76-year orbital period. This discovery, aided by a pre-discovery flare, closely matched predicted positions. The article also briefly notes the photographic discovery of Comet Arai (1991b) and the recovery of Periodic Comet Swift-Gehrels (1991c) around the same time.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discoveries",
+        "Astronomy News",
+        "Periodic Comets"
+      ],
+      "keywords": [
+        "Comet Metcalf-Brewington (1991a)",
+        "Periodic Comet Metcalf",
+        "Howard Brewington",
+        "Comet Arai (1991b)",
+        "Periodic Comet Swift-Gehrels (1991c)",
+        "Comet discovery",
+        "Comet recovery",
+        "Orbital period",
+        "Magnitude",
+        "Perihelion",
+        "1991"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-meteor-notes",
+      "documentId": "eph91-03",
+      "title": "METEOR NOTES",
+      "summary": "This article provides a historical overview of how meteors transitioned from being considered unusual atmospheric phenomena to being recognized as extraterrestrial objects. For centuries, meteors were dismissed, but mounting evidence from bright fireballs and meteorite falls slowly changed scientific views. The turning point came in 1803 when the Paris Academy officially acknowledged the extraterrestrial origin of meteors, establishing Meteor Science as a distinct branch of Astronomy.",
+      "categories": [
+        "History of Astronomy",
+        "Science History",
+        "Meteor Science",
+        "Educational"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteorites",
+        "Astronomy",
+        "Meteorology",
+        "Atmospheric Phenomena",
+        "Extraterrestrial Origin",
+        "Paris Academy",
+        "Scientific Recognition"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-september-13-1768",
+      "documentId": "eph91-03",
+      "title": "September 13, 1768",
+      "summary": "On September 13, 1768, a 3.5 kg olivine-hypersthene chondrite, known as the Luce meteorite, fell in Sarthe, France, at 16:30. Despite initially being discredited as a lightning strike, it is a confirmed meteorite fall, though only 166g of material is preserved in Vienna.",
+      "categories": [
+        "Historical Event",
+        "Meteorite Fall",
+        "Scientific Record"
+      ],
+      "keywords": [
+        "Luce meteorite",
+        "Meteorite fall",
+        "Chondrite",
+        "1768",
+        "Sarthe, France",
+        "Meteoritics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-june-16-1794",
+      "documentId": "eph91-03",
+      "title": "June 16, 1794",
+      "summary": "On June 16, 1794, a significant shower of olivine-hypersthene chondrite meteorites, with individual stones up to 3.5 kg, fell in Siena, Tuscany, Italy. This widely documented event occurred at 1900 hours and was instrumental in stimulating scientific interest in understanding the phenomenon of objects falling from the sky.",
+      "categories": [
+        "Events",
+        "Historical Events",
+        "Meteoritics",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Siena meteorites",
+        "meteorite fall",
+        "Tuscany",
+        "Italy",
+        "1794",
+        "olivine-hypersthene chondrite",
+        "stones from the sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-october-13-1795",
+      "documentId": "eph91-03",
+      "title": "October 13, 1795",
+      "summary": "On October 13, 1795, the 25 kg Wold Cottage Meteorite, an olivine-hypersthene chondrite, fell in Yorkshire, Great Britain, significantly influencing English acceptance of meteoritic falls. A few years later, in 1798, German students Brandes and Benzenburg utilized visual triangulations to determine that meteors occur about sixty miles above Earth, have high velocities, and originate from space.",
+      "categories": [
+        "historical events",
+        "astronomy history",
+        "meteorites",
+        "scientific discovery",
+        "observing reports"
+      ],
+      "keywords": [
+        "Wold Cottage Meteorite",
+        "meteoritic falls",
+        "olivine-hypersthene chondrite",
+        "meteor studies",
+        "Brandes",
+        "Benzenburg",
+        "visual triangulations",
+        "meteors",
+        "atmospheric entry",
+        "18th century astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-april-26-1803",
+      "documentId": "eph91-03",
+      "title": "April 26, 1803",
+      "summary": "On April 26, 1803, a significant shower of 2000-3000 L'Aigle meteorites, totaling about 37 kg and classified as olivine-hypersthene chondrites, fell in Orne, France. This widely witnessed event, occurring at 1300 hours, was pivotal in finally convincing the Paris Academy of the true nature of meteors and meteorites.",
+      "categories": [
+        "historical event",
+        "meteorite fall",
+        "scientific discovery"
+      ],
+      "keywords": [
+        "L'Aigle meteorites",
+        "meteorite fall",
+        "Orne France",
+        "1803",
+        "olivine-hypersthene chondrite",
+        "Paris Academy",
+        "scientific acceptance",
+        "historical astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-individual-shower-notes-march-1991",
+      "documentId": "eph91-03",
+      "title": "INDIVIDUAL SHOWER NOTES - MARCH 1991",
+      "summary": "This document, titled \"INDIVIDUAL SHOWER NOTES - MARCH 1991,\" provides details on the Delta Pavonids meteor shower. It notes its association with Comet Grigg-Mellish, its tendency to produce bright meteors, and its activity period from March 11 to April 16, with a maximum on April 6th.",
+      "categories": [
+        "Observing Notes",
+        "Astronomical Events",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Delta Pavonids",
+        "Meteor Shower",
+        "Comet Grigg-Mellish",
+        "March 1991",
+        "Meteors",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-record-your-observations",
+      "documentId": "eph91-03",
+      "title": "Record Your Observations",
+      "summary": "Steve Gottlieb's article encourages amateur astronomers to record descriptive notes of their deep sky observations, arguing that this practice enhances observing skills, allows for comparisons, and increases enjoyment. It outlines a structured system for documenting deep sky objects, particularly galaxies, by detailing aspects such as brightness, size, shape, brightness variations, and nearby field objects, drawing inspiration from historical astronomical cataloging standards like those used in the NGC.",
+      "categories": [
+        "Observational Astronomy",
+        "Guides",
+        "Techniques",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Observational astronomy",
+        "Deep sky objects",
+        "Observing techniques",
+        "Astronomical record-keeping",
+        "Galaxy description",
+        "NGC codes",
+        "Visual observing",
+        "Brightness scale",
+        "Size estimation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-03-comet-ephemeris",
+      "documentId": "eph91-03",
+      "title": "COMET EPHEMERIS",
+      "summary": "Despite its title, this article details techniques for observing and recording deep-sky objects, primarily galaxies, using a 17.5-inch amateur telescope. It emphasizes meticulous documentation, including field sketches, nearby star identification, and noting other deep-sky objects within the field of view. The piece provides examples of specific galaxy observations with descriptive characteristics.",
+      "categories": [
+        "Observing Techniques",
+        "Amateur Astronomy",
+        "Deep Sky Observing",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Galaxy observation",
+        "Amateur astronomy",
+        "Telescope",
+        "Field sketches",
+        "NGC objects",
+        "IC objects",
+        "Star observation",
+        "Double stars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-officers-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph91-03",
+      "title": "OFFICERS AND BOARD OF DIRECTORS | EPHEMERIS CONTRIBUTORS",
+      "summary": "This document lists the officers and board of directors, as well as additional contributors, for an organization. It includes names and contact phone numbers for various roles such as President, Vice President, Treasurer, Secretary, Editor, and Directors.",
+      "categories": [
+        "Organizational",
+        "Directory",
+        "Administrative",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Leadership",
+        "Contact List",
+        "Staff Roster",
+        "Organization Members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-comet-ephemeris",
+      "documentId": "eph91-03",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides detailed ephemerides for two comets, Comet Levy (1990c) and Comet Metcalf-Brewington (1991a), spanning from late February to early April. It lists crucial observational data such as right ascension and declination for both 1950 and 2000 epochs, solar elongation, sky visibility (morning or evening), and predicted visual magnitude. This information is essential for astronomers and skywatchers to locate and track these comets.",
+      "categories": [
+        "Ephemeris",
+        "Observational Data",
+        "Comets",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Levy",
+        "Comet Metcalf-Brewington",
+        "Ephemeris",
+        "Celestial Coordinates",
+        "Apparent Magnitude",
+        "Comet Observation",
+        "Astronomy Data",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-this-month-s-meteors",
+      "documentId": "eph91-03",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This document provides an ephemeris detailing several meteor showers active from February through April, including the Delta Leonids, Virginids, and Delta Pavonids. For each shower, it lists key observational data such as active dates, date of maximum activity, maximum visual zenithal rate, radiant point coordinates, velocity, and specific notes on meteor characteristics. This information serves as a guide for observers interested in tracking upcoming meteor events.",
+      "categories": [
+        "Astronomy",
+        "Celestial Events",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "Ephemeris",
+        "Radiant Point",
+        "Zenithal Rate",
+        "Delta Leonids",
+        "Virginids"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-03-astro-ads",
+      "documentId": "eph91-03",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS is a free classifieds section for non-commercial advertisers to sell astronomically related products or services, with submissions due by the 15th of each month for a three-month run. This particular issue lists a variety of used astronomy equipment including eyepieces, a 10-inch telescope mirror, a Questar 3.5\" telescope, a binocular viewer, nebular filter, and specialized video/computer hardware. It also provides contact information for sellers and an invitation for observing under dark skies.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Used Gear",
+        "Technical Sales",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Astronomy Classifieds",
+        "Telescope Mirror",
+        "Eyepieces",
+        "Questar",
+        "Binocular Viewer",
+        "Nebular Filter",
+        "Video Digitizer",
+        "IEEE Controller",
+        "Amateur Astronomy",
+        "Used Equipment",
+        "Observing Sites"
+      ],
+      "pageStart": 41,
+      "pageEnd": 41
+    },
+    {
+      "id": "eph91-03-space-program-update",
+      "documentId": "eph91-03",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This article provides an update on several international space programs. It details the upcoming STS-37 Discovery mission, issues causing delays for NAVSTAR/GPS satellite launches, and the recent re-entry of the Salyut 7 space station. Additionally, it highlights the successful test firing of the Ariane 5's VULCAN engine and outlines NASA's proposed $15.7 billion fiscal year 1992 budget, which seeks funding increases for new heavy-lift boosters, Lifesat, and ongoing projects like Space Station Freedom.",
+      "categories": [
+        "Space News",
+        "Space Missions",
+        "Satellite Operations",
+        "Space Technology",
+        "Aerospace Engineering",
+        "Space Program Budget"
+      ],
+      "keywords": [
+        "Space Shuttle Discovery",
+        "STS-37",
+        "NAVSTAR/GPS",
+        "Salyut 7",
+        "Ariane 5",
+        "VULCAN engine",
+        "NASA budget",
+        "Space Station Freedom",
+        "Heavy-lift booster",
+        "Lifesat",
+        "Space program updates"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-03-san-jose-astronomical-association-membership-application",
+      "documentId": "eph91-03",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA). It also includes guidelines for members to submit articles to their monthly publication, \"EPHEMERIS,\" specifying the submission deadline and editor's contact information.",
+      "categories": [
+        "Membership",
+        "Publication Guidelines",
+        "Organizational Information",
+        "Newsletter"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership Application",
+        "EPHEMERIS",
+        "Article Submission",
+        "Publication",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-03-membership-only-10-membership-s-t-28-junior-under-18-18",
+      "documentId": "eph91-03",
+      "title": "Membership only: $10 Membership/S&T: $28 Junior (under 18): $18",
+      "summary": "This document serves as a membership application and renewal form for the San Jose Astronomical Association (SJAA). It outlines different membership tiers, including 'Membership only' ($10), 'Membership/S&T' ($28), and 'Junior (under 18)' ($18), along with instructions for submission and payment to the treasurer.",
+      "categories": [
+        "Membership Information",
+        "Forms",
+        "Local Astronomy Club",
+        "Non-profit Organization"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "membership application",
+        "membership renewal",
+        "dues",
+        "astronomy club",
+        "Milpitas",
+        "California",
+        "S&T"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9103/Eph91_03.pdf",
+      "txtPath": "9103/Eph91_03.md"
+    }
+  ]
+}

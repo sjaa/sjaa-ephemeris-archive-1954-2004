@@ -1,0 +1,598 @@
+{
+  "articles": [
+    {
+      "id": "eph90-06-ephemeris",
+      "documentId": "eph90-06",
+      "title": "EPHEMERIS",
+      "summary": "This document is the June 1990 issue (Volume 2, Number 5) of \"EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It serves as a regular bulletin for the amateur astronomy club.",
+      "categories": [
+        "Publication",
+        "Amateur Astronomy",
+        "Newsletter",
+        "Club Information"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "June 1990",
+        "Amateur Astronomy",
+        "Club Publication",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-field-of-view",
+      "documentId": "eph90-06",
+      "title": "FIELD OF VIEW",
+      "summary": "The article reports on the successful 10th annual Bay-Area Auction and swap meet, which raised $850 for SJAA, alongside an observation report for Comet Austin. It announces Dr. Dale Kruichshank's upcoming talk on meteors and near-Earth asteroids, and details a busy schedule of club events for June and July, including numerous star parties and general meetings. Additionally, the piece discusses a significant proposal for SJAA to acquire professional telescope mountings from Lockheed for a potential joint observatory project at Grant Ranch Park.",
+      "categories": [
+        "Club Activities",
+        "Observational Astronomy",
+        "Astronomy Events",
+        "Club News",
+        "Equipment & Technology",
+        "Educational Content"
+      ],
+      "keywords": [
+        "Bay-Area Auction",
+        "Swap Meet",
+        "SJAA",
+        "Comet Austin",
+        "Meteors",
+        "Near-Earth Asteroids",
+        "Star Parties",
+        "Astronomy Classes",
+        "Grant Ranch Park",
+        "Henry Coe State Park",
+        "Yosemite",
+        "Lockheed",
+        "Telescope Mountings",
+        "Observatory Project",
+        "Orthokeratology",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-membership-renewals",
+      "documentId": "eph90-06",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "The SJAA is reminding its members, including those who receive *Sky & Telescope* and membership-only individuals, to renew their memberships. Members should use the application on the back of the Ephemeris and mail it to Treasurer Jack Peterson early to ensure they do not miss upcoming issues of the monthly newsletter.",
+      "categories": [
+        "Membership",
+        "Announcements",
+        "Administration",
+        "Organizational News"
+      ],
+      "keywords": [
+        "membership renewal",
+        "SJAA",
+        "Sky & Telescope",
+        "Ephemeris",
+        "newsletter",
+        "dues"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-annual-picnic",
+      "documentId": "eph90-06",
+      "title": "ANNUAL PICNIC",
+      "summary": "The Annual Picnic and Installation of Officers is scheduled for July 7 at Grant Ranch County Park's Rose Garden picnic area, from 1:00 pm to dark. Burgers and hot dogs will be provided, with attendees asked to bring desserts and tableware. While a star party isn't planned due to a full Moon, solar telescopes are welcome during the day.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Social Gathering",
+        "Announcement"
+      ],
+      "keywords": [
+        "Annual Picnic",
+        "Installation of Officers",
+        "Grant Ranch County Park",
+        "July 7",
+        "Full Moon",
+        "Solar Telescopes",
+        "Club Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-branham-lane-events",
+      "documentId": "eph90-06",
+      "title": "BRANHAM LANE EVENTS",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting a series of public star parties on select Fridays from June through December at Branham Lane. These events encourage participants to bring telescopes and invite friends, with contact information provided for more details.",
+      "categories": [
+        "Events",
+        "Observing",
+        "News"
+      ],
+      "keywords": [
+        "Star parties",
+        "Public observing",
+        "SJAA",
+        "Branham Lane",
+        "Astronomy events",
+        "Telescopes"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-06-orthokeratology-hope-for-the-astigmatic-astronomer",
+      "documentId": "eph90-06",
+      "title": "ORTHOKERATOLOGY: HOPE FOR THE ASTIGMATIC ASTRONOMER",
+      "summary": "Orthokeratology (OK) is a non-surgical treatment using rigid contact lenses to reshape the cornea, primarily correcting myopia and significantly reducing astigmatism. The author, an astigmatic and myopic astronomer, details his personal experience with OK, highlighting how it dramatically improved his uncorrected vision, particularly eliminating the frustrating effects of astigmatism during astronomical observing. This allowed him to observe comfortably without the need for glasses or conventional contact lenses, greatly enhancing his overall experience.",
+      "categories": [
+        "Health & Medical Treatment",
+        "Personal Account / Testimonial",
+        "Astronomy & Observing"
+      ],
+      "keywords": [
+        "Orthokeratology",
+        "OK treatment",
+        "Myopia",
+        "Astigmatism",
+        "Cornea reshaping",
+        "Rigid contact lenses",
+        "Vision correction",
+        "Astronomical observing",
+        "Eyeglasses",
+        "Eye relief",
+        "Optometry",
+        "Uncorrected vision"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-06-the-eye-and-its-ability-to-view-dim-celestial-objects",
+      "documentId": "eph90-06",
+      "title": "THE EYE AND ITS ABILITY TO VIEW DIM CELESTIAL OBJECTS",
+      "summary": "This article explores the human eye's ability to view dim celestial objects, contrasting modern professional astronomy with traditional amateur observing techniques. It emphasizes the importance of dark adaptation and contrast over absolute light gathering for visual astronomy, drawing parallels to the systematic methods of historical observers like Sir William Herschel. Herschel's practices, including pupil measurement, optimal magnification, and meticulous dark adaptation, are presented as foundational for discerning faint deep-sky objects.",
+      "categories": [
+        "observing techniques",
+        "history of astronomy",
+        "visual astronomy",
+        "human vision",
+        "astronomical equipment"
+      ],
+      "keywords": [
+        "dark adaptation",
+        "contrast",
+        "visual observation",
+        "dim objects",
+        "Sir William Herschel",
+        "magnification",
+        "deep-sky observing",
+        "amateur astronomy",
+        "eyepieces",
+        "telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-meteor-notes",
+      "documentId": "eph90-06",
+      "title": "METEOR NOTES",
+      "summary": "This article, \"METEOR NOTES,\" by Jim Richardson, details the challenges and opportunities for observing meteor showers, particularly in June, when many are only detectable via radar or radio wave reflection due to occurring during daylight hours. It provides specific notes on various low-rate visual June showers, along with historical observations and associated comets. The report also briefly covers April-May shower activity and an unusual recent meteorite strike.",
+      "categories": [
+        "Astronomy",
+        "Observing Reports",
+        "Technical",
+        "Meteor Science",
+        "News"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor showers",
+        "Radio detection",
+        "Visual observation",
+        "June showers",
+        "Daytime meteors",
+        "Radar observations",
+        "Arietids",
+        "Zeta Perseids",
+        "Beta Taurids",
+        "Tau Herculids",
+        "Chi Scorpiids",
+        "June Lyrids",
+        "Eta Aquarids",
+        "Meteorite",
+        "Comet",
+        "ZHR"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-06-comet-comments",
+      "documentId": "eph90-06",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports a quiet period for new comet discoveries, noting several existing comets. Comet Cernis-Kiuchi-Nakamura (1990b) has dimmed, while Comet Skorinchenko-George is temporarily hidden. Comet Austin and Periodic Comet Schwassmann-Wachmann 3 are still visible in the morning sky, with Comet Austin being dimmer than anticipated but offering changing observational perspectives in late May and early June as it approaches Earth and passes opposition.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Austin",
+        "Observing",
+        "Brightness",
+        "Opposition",
+        "Celestial Objects",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-astro-ads",
+      "documentId": "eph90-06",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS serves as a free classifieds section for non-commercial advertisers to sell astronomy-related products and services, outlining submission instructions and deadlines. The listings include various used telescopes, such as Meade 2120LX5 and Celestron Super C8, along with accessories like the Celestron Sky Sensor computer control. Additionally, it features \"Celestial Images,\" offering fine black and white astrophotography prints, with \"The Belt of Orion\" highlighted as a featured print.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment Sales",
+        "Astrophotography",
+        "Community Bulletin"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Astronomy equipment",
+        "Telescopes",
+        "Meade",
+        "Celestron",
+        "Sky Sensor",
+        "Astrophotography",
+        "Orion",
+        "Horsehead Nebula",
+        "Used equipment",
+        "Amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-consumer-scientific",
+      "documentId": "eph90-06",
+      "title": "CONSUMER SCIENTIFIC",
+      "summary": "CONSUMER SCIENTIFIC is an advertisement for a retailer offering science and nature products catering to both hobbyists and professionals. Their product range includes optics, books, science kits, labware, chemicals, maps, globes, and weather instruments. The ad provides contact details and a physical address in Mountain View, CA.",
+      "categories": [
+        "Advertisement",
+        "Retail",
+        "Product Listing",
+        "Science Supplies"
+      ],
+      "keywords": [
+        "Consumer Scientific",
+        "science products",
+        "nature products",
+        "hobbyist",
+        "professional",
+        "optics",
+        "books",
+        "science kits",
+        "labware",
+        "chemicals",
+        "maps",
+        "globes",
+        "weather instruments",
+        "Mountain View"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-06-sjaa-ephemeris",
+      "documentId": "eph90-06",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The 'SJAA EPHEMERIS' document presents a collection of classified advertisements primarily for used astronomical equipment and components. Listings include various telescopes, eyepieces, tripods, lenses, mirrors, and hardware, alongside requests for specific items like Deep Sky magazine back issues and astronomy software. Each entry provides a brief description, price, and contact information, with dates indicating the approximate listing period.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy",
+        "Community Notices",
+        "Optical Equipment"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Eyepieces",
+        "Mounts",
+        "Lenses",
+        "Mirrors",
+        "Tripods",
+        "Astronomy accessories",
+        "Used equipment",
+        "Deep Sky magazine",
+        "Astronomy software",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-officers-and-board-of-directors",
+      "documentId": "eph90-06",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document lists the officers and board of directors for an organization, detailing their titles (e.g., President, Vice President, Secretary, Editor, Director), names, and corresponding phone numbers. It also includes a separate section identifying individuals who are 'Ephemeris Contributors,' along with their contact information. Essentially, it serves as a directory of key personnel and their roles within the organization.",
+      "categories": [
+        "Organization Administration",
+        "Contact Information",
+        "Directory",
+        "Governance"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Contact Details",
+        "Personnel",
+        "Organizational Structure",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-comet-ephemeris",
+      "documentId": "eph90-06",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document presents detailed ephemeris data for two celestial objects: Comet Austin (1989c₁) and Periodic Comet Schwassmann-Wachmann 3 (1989d₁). It provides their celestial coordinates (Right Ascension and Declination for 1950 and 2000 epochs), solar elongation, sky visibility (morning or evening), and estimated visual magnitude for observation dates spanning from late May to early July.",
+      "categories": [
+        "astronomy data",
+        "comets",
+        "ephemeris",
+        "observing guides",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "Schwassmann-Wachmann 3",
+        "ephemeris",
+        "comets",
+        "astronomy",
+        "celestial coordinates",
+        "magnitude",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-this-month-s-meteors",
+      "documentId": "eph90-06",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This document provides a detailed table outlining various meteor showers active during the current month, predominantly June. For each shower, it lists critical observing information such as active dates, peak activity date, maximum zenith hourly rate (ZHR), radiant coordinates, and meteor velocity, alongside specific notes like \"Daytime\" visibility or historical observation years.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Meteor Showers",
+        "Celestial Calendar",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Meteor showers",
+        "Meteors",
+        "Astronomy",
+        "Observing",
+        "Zenith Hourly Rate",
+        "Radiant",
+        "Meteor velocity",
+        "Daytime meteors",
+        "June meteors",
+        "Tau Herculids",
+        "Daytime Arietids",
+        "Daytime Zeta Perseids",
+        "Theta Ophiuchids",
+        "June Lyrids",
+        "June Bootids"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-06-astrophotography-breakthrough",
+      "documentId": "eph90-06",
+      "title": "ASTROPHOTOGRAPHY BREAKTHROUGH!!",
+      "summary": "This article announces a significant breakthrough in amateur astrophotography with the advent of affordable automatic guiding technology. It highlights the SBIG ST-4 Star Tracker and Imaging Camera, a CCD-based system that eliminates the need for manual guiding during long exposures. The ST-4 offers high tracking accuracy for under $1000, enabling amateur astrophotographers to achieve professional-quality results.",
+      "categories": [
+        "Astrophotography",
+        "Product Review",
+        "Technology",
+        "Amateur Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "astrophotography",
+        "automatic guiding",
+        "SBIG ST-4",
+        "CCD camera",
+        "star tracker",
+        "long exposure",
+        "telescope accessory",
+        "tracking accuracy",
+        "off-axis guider",
+        "amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-june-starry-nights",
+      "documentId": "eph90-06",
+      "title": "JUNE STARRY NIGHTS",
+      "summary": "The article \"JUNE STARRY NIGHTS\" by Richard Stanton provides a guide for astronomical observations in June. It details a lunar occultation of pi Scorpii on June 6th, highlights Uranus reaching opposition on June 29th, and recommends observing Saturn. Additionally, it presents a deep-sky challenge to find Barnard's Dark S-nebula in Ophiuchus.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Planetary Observing",
+        "Deep-Sky Observing",
+        "Lunar Phenomena"
+      ],
+      "keywords": [
+        "June",
+        "Lunar Occultation",
+        "pi Scorpii",
+        "Uranus",
+        "Opposition",
+        "Saturn",
+        "Deep Sky Challenge",
+        "Barnard's Dark S-nebula",
+        "Ophiuchus",
+        "Sagittarius",
+        "M22",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph90-06-check-out-of-hubble-making-slow-but-steady-progress",
+      "documentId": "eph90-06",
+      "title": "CHECK-OUT OF HUBBLE MAKING SLOW BUT STEADY PROGRESS",
+      "summary": "The Hubble Space Telescope's activation is progressing steadily, with operators overcoming initial challenges and gaining experience with its systems. Key components like solar arrays and the aperture door are deployed, and the high-gain antenna is largely operational. While first photos are expected soon (likely out of focus), full check-out, troubleshooting, focusing, and calibration of all systems will take eight months before Hubble's mission truly begins.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Mission Status",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "HST",
+        "check-out",
+        "activation",
+        "progress",
+        "solar arrays",
+        "aperture door",
+        "high gain antenna",
+        "first photos",
+        "calibration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-the-rest-of-the-mission",
+      "documentId": "eph90-06",
+      "title": "THE REST OF THE MISSION",
+      "summary": "The article details Discovery's successful mission, which extended Hubble's orbit to a record altitude and debuted new carbon brakes designed for Kennedy Space Center landings. It also covers a theory of ancient Martian oceans, reports on two previously rescued satellites being relaunched, and previews the upcoming STS-35 Columbia mission with the Astro-1 and Broad Band X-ray telescopes.",
+      "categories": [
+        "Space Shuttle Missions",
+        "Astronomy News",
+        "Space Technology",
+        "Planetary Science",
+        "Satellite Relaunch"
+      ],
+      "keywords": [
+        "Discovery",
+        "Hubble",
+        "Orbit reboost",
+        "Carbon brakes",
+        "Kennedy Space Center",
+        "Mars",
+        "Oceanus Borealis",
+        "Episodic Oceans",
+        "Westar 6",
+        "Palapa",
+        "Columbia",
+        "STS-35",
+        "Astro-1",
+        "Broad Band X-ray telescope",
+        "Comet Austin"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-telescope-mounting-proposal",
+      "documentId": "eph90-06",
+      "title": "TELESCOPE MOUNTING PROPOSAL",
+      "summary": "The San Jose Astronomical Association (SJAA) is pursuing a proposal to acquire two large telescope fork mountings from Lockheed, intended for a permanent observatory site. One mounting can support a 28-inch telescope, potentially in a joint project with the Hall's Valley astronomy group at Grant Ranch Park, while the other supports a 36-inch tube assembly, with plans emphasizing public and educational use. The article also includes a detailed celestial calendar for June 1990, outlining lunar phases, and rise/transit/set times for the sun and various planets.",
+      "categories": [
+        "Club News",
+        "Observatory Development",
+        "Proposals",
+        "Astronomical Data",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Mountings",
+        "Observatory Project",
+        "Lockheed",
+        "Grant Ranch Park",
+        "Public Outreach",
+        "Education",
+        "Celestial Calendar",
+        "Lunar Phases",
+        "Planetary Positions",
+        "June 1990"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph90-06-ephemeris",
+      "documentId": "eph90-06",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is a monthly publication by the San Jose Astronomical Association, encouraging members to submit articles. Submissions are due by the 12th of the previous month and should be sent to Editor John P. Gleason, whose contact information is provided.",
+      "categories": [
+        "Publication Information",
+        "Newsletter",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Monthly Publication",
+        "Article Submission",
+        "Editor Contact",
+        "Member Contributions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-06-san-jose-astronomical-association-membership-application",
+      "documentId": "eph90-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership types—Membership Only, Membership/S&T, and Junior (Under 18)—along with their respective costs. The form provides instructions for submission either at an SJAA meeting or by mail to the treasurer, including contact and address details.",
+      "categories": [
+        "Membership Application",
+        "Organizational Administration",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Astronomy Club",
+        "Dues",
+        "Renewal",
+        "Milpitas",
+        "Science & Technology magazine"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9006/Eph90_06.pdf",
+      "txtPath": "9006/Eph90_06.md"
+    }
+  ]
+}

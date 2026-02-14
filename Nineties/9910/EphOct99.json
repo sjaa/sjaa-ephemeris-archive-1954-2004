@@ -1,0 +1,814 @@
+{
+  "articles": [
+    {
+      "id": "ephoct99-through-the-eyes-of-a-professional-observer",
+      "documentId": "ephoct99",
+      "title": "Through the Eyes of a Professional Observer",
+      "summary": "The author, a professional observer, shares insights from her work on the Lick Vulcan Camera Project, a NASA Ames feasibility study for the Kepler Program. The project aims to detect exoplanets, specifically Jupiter-sized planets, by observing a 1% drop in stellar brightness during a transit event. She explains the scientific theory and the \"Folded Time\" technique used to enhance the signal-to-noise ratio, thereby reducing measurement noise to enable the detection of these subtle brightness changes.",
+      "categories": [
+        "Observing Report",
+        "Exoplanet Research",
+        "Technical Astronomy",
+        "Space Programs",
+        "Instrumentation"
+      ],
+      "keywords": [
+        "Professional Observer",
+        "Vulcan Camera",
+        "Lick Observatory",
+        "Kepler Program",
+        "NASA Ames Research Center",
+        "Exoplanets",
+        "Planet Detection",
+        "Transit Method",
+        "Stellar Brightness",
+        "Signal-to-Noise Ratio",
+        "Folded Time",
+        "Cygnus",
+        "William Borucki"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-sjaa-activities-calendar",
+      "documentId": "ephoct99",
+      "title": "SJAA Activities Calendar",
+      "summary": "The San Jose Astronomical Association (SJAA) has published its activities calendar for October and November 1999. The schedule includes numerous star parties at locations like Houge Park, Fremont Peak, and Henry Coe, as well as general meetings featuring speakers on subjects such as telescope and mirror making, and cosmology. Noteworthy events include an 'Autumn Astronomy Day' and a reminder about the end of Daylight Saving Time.",
+      "categories": [
+        "Events",
+        "Calendar",
+        "Astronomy Club",
+        "Announcements",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Activities Calendar",
+        "October 1999",
+        "November 1999",
+        "Star Party",
+        "Houge Park",
+        "Fremont Peak",
+        "Henry Coe",
+        "General Meeting",
+        "Jane Houston",
+        "Telescope Making",
+        "Mirror Making",
+        "Dr. Ken Croswell",
+        "The Magnificent Universe",
+        "Autumn Astronomy Day",
+        "Daylight Saving Time"
+      ],
+      "pageStart": 2,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephoct99-continued-from-previous-page",
+      "documentId": "ephoct99",
+      "title": "Continued from previous page",
+      "summary": "This article details a method for detecting exoplanet transits using a small 4\" f/3 cooled CCD camera system, emphasizing the use of precise time synchronization (WWVB, GPS) and advanced computing for data analysis. It describes how this setup allows for the determination of a planet's orbital period and size ratio from transit information, while also noting limitations for very large stars. The text covers the technical aspects of the equipment, including CCD functionality and a multi-computer control system, along with a typical observing workflow.",
+      "categories": [
+        "Technical",
+        "Observing Methods",
+        "Astronomical Equipment",
+        "Exoplanet Detection",
+        "Data Analysis"
+      ],
+      "keywords": [
+        "exoplanet transit",
+        "CCD camera",
+        "orbital period",
+        "planet size",
+        "astronomical observation",
+        "data acquisition",
+        "WWVB",
+        "GPS",
+        "telescope",
+        "auto guiding",
+        "image processing",
+        "calibration",
+        "magnitude",
+        "Vulcan Project"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct99-continued-from-previous-page",
+      "documentId": "ephoct99",
+      "title": "Continued from previous page",
+      "summary": "This article details the comprehensive setup procedure for a CCD astrophotography observing session. It meticulously explains the calibration process for bias, dark, and flat frames, defining each and outlining their role in reducing image noise and improving quality. The piece concludes by describing the steps for dome rotation, guide star acquisition with an autoguider, and initiating data capture runs for astronomical imaging.",
+      "categories": [
+        "Technical",
+        "Astrophotography",
+        "Observational Astronomy",
+        "How-to Guide",
+        "CCD Imaging"
+      ],
+      "keywords": [
+        "CCD calibration",
+        "Bias frame",
+        "Dark frame",
+        "Flat frame",
+        "Autoguider",
+        "Telescope operation",
+        "Astrophotography",
+        "Observing session",
+        "Image calibration",
+        "Noise reduction",
+        "Guide star",
+        "Astronomical imaging",
+        "Dome operation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct99-vulcan-project",
+      "documentId": "ephoct99",
+      "title": "Vulcan Project",
+      "summary": "The 'Vulcan Project' details the operational routine and goals of an astronomical observation program focused on detecting Jupiter-sized exoplanets by observing stellar dimming during planetary transits. The process involves extensive nightly data collection, manual dome adjustments, CD data recording and auditing, and overcoming environmental challenges during long observing sessions. The project has identified several candidate stars in the Cygnus field, with further spectroscopic measurements planned for verification.",
+      "categories": [
+        "Observational Astronomy",
+        "Exoplanet Research",
+        "Technical Procedures",
+        "Project Report",
+        "Amateur Astronomy Perspective"
+      ],
+      "keywords": [
+        "Vulcan Project",
+        "Exoplanets",
+        "Planetary Transits",
+        "Stellar Dimming",
+        "CCD Imaging",
+        "Data Acquisition",
+        "Lick Observatory",
+        "Crocker Dome",
+        "Cygnus Field",
+        "Observing Techniques"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct99-above-glacier-point-labor-day-1999",
+      "documentId": "ephoct99",
+      "title": "Above Glacier Point — Labor Day 1999",
+      "summary": "This article details the San Francisco Amateur Astronomers' Labor Day 1999 weekend trip to Glacier Point, Yosemite National Park. The club provided public solar viewing and night sky observations, offering exceptional views of planets like Jupiter and Saturn, along with various deep-sky objects, leveraging the high elevation and transparent skies. The event showcased successful astronomy outreach efforts and the unique observing conditions of the Sierra Nevada mountains.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Outreach",
+        "Club Activity",
+        "Event",
+        "Travelogue"
+      ],
+      "keywords": [
+        "Glacier Point",
+        "Yosemite National Park",
+        "Labor Day 1999",
+        "San Francisco Amateur Astronomers",
+        "Public stargazing",
+        "Solar viewing",
+        "Jupiter",
+        "Saturn",
+        "Deep-sky objects",
+        "Sierra Nevada",
+        "Reflectors",
+        "Telescopes",
+        "Half Dome",
+        "California astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct99-houston-on-glacier-point",
+      "documentId": "ephoct99",
+      "title": "Houston on Glacier Point",
+      "summary": "This article recounts a memorable observing session at Glacier Point, where both seasoned astronomers and the public enjoyed stunning celestial views. Highlights included an occultation of Ganymede and a shadow transit of Europa on Jupiter, clear sightings of Saturn's moons, and a unique experience of watching the third-quarter moon rise with prominent earthshine. The event also featured observations of Betelgeuse and M42 (Orion Nebula) rising above the horizon, leaving observers awestruck by the majesty of nature.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Event",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Glacier Point",
+        "Jupiter",
+        "Saturn",
+        "Moonrise",
+        "Orion Nebula",
+        "Ganymede",
+        "Europa",
+        "Great Red Spot",
+        "Astrofest",
+        "Telescope",
+        "Public Viewing",
+        "Earthshine",
+        "Betelgeuse",
+        "Milky Way",
+        "Mare Crisium"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-report-from-henry-coe",
+      "documentId": "ephoct99",
+      "title": "Report from Henry Coe",
+      "summary": "The article reports on an amateur astronomy trip to Henry Coe State Park on August 11-12 to observe the Perseid meteors. Despite a forecast of low clouds and fog, the elevation at Henry Coe allowed observers to be above the clouds, which unexpectedly blocked city lights and provided exceptionally clear, steady skies. The author enjoyed superb views of numerous Messier objects, noting the excellent dark sky conditions and advocating for the potential benefits of 'low clouds and fog' forecasts at higher elevations.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Site Review",
+        "Meteor Shower",
+        "Dark Sky Observing"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Perseid meteors",
+        "Observing conditions",
+        "Light pollution",
+        "Low clouds and fog",
+        "Messier objects",
+        "M13",
+        "M17",
+        "Bay Area astronomy",
+        "Dark skies"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct99-dave-north",
+      "documentId": "ephoct99",
+      "title": "Dave North",
+      "summary": "This article outlines several astronomical events for October, including a prime-time lunar occultation of Uranus on the 18th, optimal moon viewing opportunities near Copernicus and Mare Orientale, and a detailed explanation of lunar libration. It also features news about the San Jose Astronomical Association, specifically the presentation of the Dr. A.B. Gregory Award to Ed Erbeck by President David North.",
+      "categories": [
+        "Celestial Events",
+        "Observing Guide",
+        "Technical Explanation",
+        "Club News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Lunar occultation",
+        "Uranus",
+        "Moon",
+        "Libration",
+        "Copernicus",
+        "Mare Orientale",
+        "Observing",
+        "Astronomy",
+        "SJAA",
+        "Dr. A.B. Gregory Award",
+        "October events",
+        "Northern California"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephoct99-mooning-continues",
+      "documentId": "ephoct99",
+      "title": "Mooning Continues",
+      "summary": "This article explains lunar libration, detailing why observers on Earth see different parts of the Moon over time. It describes how terminator visibility changes near full moon and how contrast features are best seen at first and third quarters. The text attributes north-south libration to the Moon's inclined orbit and east-west libration to its elliptical orbit combined with a fixed rotation rate.",
+      "categories": [
+        "Astronomy",
+        "Lunar Observation",
+        "Celestial Mechanics",
+        "Educational"
+      ],
+      "keywords": [
+        "Moon",
+        "Libration",
+        "Terminator",
+        "Full Moon",
+        "First Quarter",
+        "Third Quarter",
+        "Maria",
+        "Highlands",
+        "Elliptical Orbit",
+        "Rotation",
+        "Orbital Inclination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-october-meteor-watch",
+      "documentId": "ephoct99",
+      "title": "October Meteor Watch",
+      "summary": "The article details two meteor showers for October: the Draconids (Oct 6-10, peaking Oct 8/9) and the Orionids (active throughout Oct, peaking Oct 21/22). Observers are advised to watch for Draconids in the early evening, as a new moon will favor visibility, despite uncertainty about high rates. Conversely, the Orionids, originating from Halley's Comet, are expected to have poor visibility on their peak night due to a near full moon.",
+      "categories": [
+        "Observing Reports",
+        "Celestial Events",
+        "Astronomy News",
+        "Tips"
+      ],
+      "keywords": [
+        "October",
+        "Meteor Watch",
+        "Draconids",
+        "Orionids",
+        "Meteor Shower",
+        "21P/Giacobini-Zinner",
+        "Halley's Comet",
+        "Draco",
+        "New Moon",
+        "Full Moon",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-autumn-astronomy-day",
+      "documentId": "ephoct99",
+      "title": "Autumn Astronomy Day",
+      "summary": "Northern California astronomy clubs, including the SJAA, will be celebrating Autumn Astronomy Day. The SJAA is scheduled to host a star party on Friday, October 15, followed by the final Public Program of the season at Fremont Peak on Saturday, October 16. More information is available on the AANC website.",
+      "categories": [
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "Autumn Astronomy Day",
+        "star party",
+        "public program",
+        "astronomy clubs",
+        "Northern California",
+        "Fremont Peak"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephoct99-akkana-peck",
+      "documentId": "ephoct99",
+      "title": "Akkana Peck",
+      "summary": "This article provides an observing guide for the October 1999 night sky, primarily focusing on telescopic observations of Jupiter and Saturn. It details observable features such as Jupiter's bands, moons, and the Great Red Spot, as well as Saturn's prominent rings and divisions, offering tips for amateur astronomers. Additionally, it briefly covers observing prospects for Mars, Uranus, Neptune, Mercury, and Venus, while recommending online resources for event timings.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Sky Report",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Planetary Observation",
+        "Great Red Spot",
+        "Cassini's Division",
+        "Telescopic Astronomy",
+        "October Sky",
+        "Moon Transits",
+        "Sky Guide",
+        "Astronomy Tips"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephoct99-comet-comments-for-october-1999",
+      "documentId": "ephoct99",
+      "title": "Comet Comments for October 1999",
+      "summary": "Don Machholz's \"Comet Comments for October 1999\" details the visibility of several comets, noting that 1998 T1 (LINEAR) and 1999 N2 (Lynn) are fading, while Comets Lee, Temple 2, and the rapidly brightening 1999 J3 (LINEAR) are visible. The report also mentions one new comet discovered by SOHO in August and the absence of new discoveries during the August 11 solar eclipse.",
+      "categories": [
+        "Observing Report",
+        "Astronomy News",
+        "Comet Hunting"
+      ],
+      "keywords": [
+        "Comets",
+        "Don Machholz",
+        "October 1999",
+        "1998 T1 (LINEAR)",
+        "1999 N2 (Lynn)",
+        "Comet Lee",
+        "Comet Temple 2",
+        "1999 J3 (LINEAR)",
+        "SOHO",
+        "Solar Eclipse",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-comet-ephemerides",
+      "documentId": "ephoct99",
+      "title": "Comet Ephemerides",
+      "summary": "This document provides ephemerides for three comets—C/1999 H1 (Lee), Periodic Comet Tempel 2 (P/10), and 1999 J3 (LINEAR)—detailing their celestial coordinates (Right Ascension, Declination), elongation, and predicted sky magnitudes for several dates from September to November. Additionally, it lists the orbital elements for each comet, such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period. The article also includes a brief explanation of comet orbital inclination and its distribution among observed comets.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Ephemeris",
+        "Observational Data",
+        "Orbital Elements",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Comet Lee",
+        "C/1999 H1",
+        "Comet Tempel 2",
+        "P/10",
+        "Comet LINEAR",
+        "1999 J3",
+        "Ephemerides",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Orbital Elements",
+        "Perihelion",
+        "Inclination",
+        "Eccentricity",
+        "Orbital Period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-lunar-phases",
+      "documentId": "ephoct99",
+      "title": "LUNAR PHASES:",
+      "summary": "This document presents a schedule of lunar phases for a specific month, detailing the Last Quarter (LQ), New Moon (NM), First Quarter (FQ), and Full Moon (FM). For each phase, it provides the date, the rise, transit, and set times, and notes a time zone change from PDT to PST towards the end of the period.",
+      "categories": [
+        "Astronomy",
+        "Lunar Calendar",
+        "Observing Information"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Moonrise",
+        "Moonset",
+        "Transit",
+        "PDT",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-nearer-planets",
+      "documentId": "ephoct99",
+      "title": "NEARER PLANETS:",
+      "summary": "This document provides an ephemeris for the planets Mercury, Venus, Mars, Jupiter, and Saturn, detailing their distances in Astronomical Units (A.U.), apparent magnitudes, and celestial coordinates (Right Ascension and Declination) for three specific dates. Additionally, it includes a section on \"Hours of Darkness\" and basic information about the Sun's star type.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Planetary Positions",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planetary positions",
+        "Ephemeris",
+        "Astronomical Unit",
+        "Apparent magnitude",
+        "Right Ascension",
+        "Declination",
+        "Solar System"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-astronomical-twilight",
+      "documentId": "ephoct99",
+      "title": "Astronomical Twilight:",
+      "summary": "This document presents a tabular dataset detailing the begin and end times for Astronomical Twilight across several specific Julian Dates. It serves as a record or schedule indicating the duration of twilight periods, likely relevant for astronomical observation planning.",
+      "categories": [
+        "Astronomical Data",
+        "Timekeeping",
+        "Observing Schedules"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "Observation times",
+        "Astronomy",
+        "Time data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-sidereal-time",
+      "documentId": "ephoct99",
+      "title": "Sidereal Time:",
+      "summary": "This document provides astronomical data for October 1999, including sidereal time ('Transit Right Ascension at Local Midnight') for various dates. It also details the observational conditions for the 'Darkest Saturday Night' on October 9, 1999, specifying sunset, twilight end, moonset, dawn begin, and total hours of darkness.",
+      "categories": [
+        "ephemeris",
+        "technical data",
+        "observing conditions",
+        "astronomical data"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right Ascension",
+        "Local Midnight",
+        "October 1999",
+        "Sunset",
+        "Twilight",
+        "Moonset",
+        "Darkness Hours"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephoct99-officers-and-board-of-directors",
+      "documentId": "ephoct99",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization, detailing their respective roles such as President, Vice President, Secretary, Treasurer, and Director. It provides their names along with contact phone numbers for each individual.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Governance"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact Information",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-ephemeris-staff",
+      "documentId": "ephoct99",
+      "title": "Ephemeris Staff",
+      "summary": "This document provides a staff listing for \"Ephemeris,\" detailing the editors (Jane Houston, Morris Jones), circulation contacts (Bob Brauer, Lew Kurtz), and the printing service (Accuprint), along with their respective phone numbers.",
+      "categories": [
+        "Staff List",
+        "Contact Information",
+        "Organizational Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Staff",
+        "Editors",
+        "Circulation",
+        "Printing",
+        "Contacts",
+        "Phone numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-mentoring-program-chairman",
+      "documentId": "ephoct99",
+      "title": "Mentoring Program Chairman",
+      "summary": "This document identifies Ed Erbeck as the Mentoring Program Chairman. His contact phone number, (408) 279-5413, is provided for the program's administration.",
+      "categories": [
+        "Contact Information",
+        "Program Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "Mentoring Program",
+        "Chairman",
+        "Ed Erbeck",
+        "Contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-telescope-loaner-program",
+      "documentId": "ephoct99",
+      "title": "Telescope Loaner Program",
+      "summary": "The article announces a \"Telescope Loaner Program.\" It provides contact details for Mike Koop, including his phone number, for those interested in participating in the program.",
+      "categories": [
+        "Program",
+        "Equipment Loan",
+        "Community Service"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Telescope",
+        "Loaner Program",
+        "Mike Koop",
+        "Astronomy Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-web-page",
+      "documentId": "ephoct99",
+      "title": "Web Page",
+      "summary": "This document presents an extremely brief and incomplete web page. It contains only the title 'Web Page,' the author's name 'Bill Arnett,' and his email address. No actual article content or further information is provided in the text.",
+      "categories": [
+        "Web Content",
+        "Document Metadata",
+        "Incomplete Document"
+      ],
+      "keywords": [
+        "Web Page",
+        "Bill Arnett",
+        "Author",
+        "Email",
+        "Placeholder"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-sjaa-loaner-scope-status",
+      "documentId": "ephoct99",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The San Jose Astronomical Association (SJAA) announces that all its loaner telescopes are currently available for any SJAA member to borrow. Members interested in utilizing this service should contact Mike Koop via email or phone to arrange a pickup.",
+      "categories": [
+        "member services",
+        "announcement",
+        "program status",
+        "club operations"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "availability",
+        "members",
+        "contact information",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-stored-scopes",
+      "documentId": "ephoct99",
+      "title": "Stored Scopes",
+      "summary": "The San Jose Astronomical Association (SJAA) offers \"Stored Scopes\" for immediate loan to its members. These telescopes are kept at members' homes and can be borrowed by contacting Mike Koop for pickup at official SJAA events. The current list includes a 4\" Quantum S/C and a 7\" f/9 Newtonian.",
+      "categories": [
+        "Equipment Loan Program",
+        "Member Services",
+        "Club Resources",
+        "Program Information"
+      ],
+      "keywords": [
+        "Stored scopes",
+        "Telescope loan",
+        "SJAA",
+        "Astronomy club",
+        "Equipment borrowing",
+        "Member benefits",
+        "Quantum S/C",
+        "Newtonian telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-current-scope-loans",
+      "documentId": "ephoct99",
+      "title": "Current Scope Loans",
+      "summary": "This document lists astronomical scopes currently on loan, detailing each scope's description, the borrower, and the due date. Individuals interested in borrowing a scope can join a waiting list until it becomes available.",
+      "categories": [
+        "Equipment Loan Program",
+        "Astronomy Club Information",
+        "Resource Management"
+      ],
+      "keywords": [
+        "Telescope loans",
+        "Equipment borrowing",
+        "Astronomical equipment",
+        "Waiting list",
+        "Due dates",
+        "Dobson",
+        "Newtonian",
+        "Celestron S/C",
+        "Refractor",
+        "Solar scope",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-extended-scope-loans",
+      "documentId": "ephoct99",
+      "title": "Extended Scope Loans",
+      "summary": "This document lists astronomical telescopes that have had their loan periods extended, making them unavailable for immediate borrowing. Prospective borrowers can express interest to arrange a transfer with the current loanee. The list details various scopes, their descriptions, current borrowers, and due dates, with some noted as 'Indefinite'.",
+      "categories": [
+        "Equipment Loan Program",
+        "Astronomy Equipment",
+        "Community Program",
+        "Inventory Status"
+      ],
+      "keywords": [
+        "Scope loans",
+        "Telescope borrowing",
+        "Extended loan",
+        "Astronomy equipment",
+        "Dobsonian",
+        "Refractor",
+        "C-11 Compustar",
+        "Newtonian"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-periodical-publication-statement",
+      "documentId": "ephoct99",
+      "title": "Periodical Publication Statement",
+      "summary": "The SJAA Ephemeris, the official newsletter of the San Jose Astronomical Association, is published monthly throughout the year, from January to December. The document also provides the mailing address for the San Jose Astronomical Association.",
+      "categories": [
+        "administrative",
+        "publication information",
+        "organizational details"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "publication",
+        "monthly",
+        "contact information",
+        "Campbell CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct99-submit",
+      "documentId": "ephoct99",
+      "title": "Submit",
+      "summary": "This article provides instructions for members of the San Jose Astronomical Association (SJAA) to submit articles for publication in the SJAA Ephemeris, including the contact email. It also details how to subscribe to or unsubscribe from the SJAA Mailing List via email commands.",
+      "categories": [
+        "Guidelines",
+        "Membership Information",
+        "Call for Submissions"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "article submission",
+        "mailing list",
+        "subscribe",
+        "unsubscribe"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephoct99-san-jose-astronomical-association-membership-form",
+      "documentId": "ephoct99",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing fees for new or renewal regular and junior memberships, along with an optional add-on for a Sky & Telescope subscription. It provides instructions for submitting the form and payment (checks payable to SJAA) either in-person at meetings or by mail to their P.O. Box, including contact information and a mailing address.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizations",
+        "Administrative",
+        "Financial"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Membership Fees",
+        "Junior Membership",
+        "Sky & Telescope",
+        "Application",
+        "Contact Information",
+        "October 1999"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct99",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9910/EphOct99.pdf",
+      "txtPath": "9910/EphOct99.md"
+    }
+  ]
+}

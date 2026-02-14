@@ -1,0 +1,722 @@
+{
+  "articles": [
+    {
+      "id": "eph92-02-sjaa-ephemeris",
+      "documentId": "eph92-02",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association (SJAA) for February 1992. Titled 'SJAA EPHEMERIS,' it is identified as Volume 3, Number 2 of their publication series.",
+      "categories": [
+        "Astronomical Association Publication",
+        "Newsletter",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "Astronomy Publication",
+        "February 1992",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-february-speaker-arranged-by-bob-garfinkle",
+      "documentId": "eph92-02",
+      "title": "February Speaker Arranged by Bob Garfinkle",
+      "summary": "An announcement for a general meeting on February 8th at the Milpitas Library features Dr. David Schramm, a University of Chicago professor and co-author of \"Shadows of Creation.\" Dr. Schramm will deliver a talk on the latest ideas in cosmology, exploring topics like the Big Bang vs. Steady State Universe debate and the potential fates of the universe (Big Chill or Big Crunch), emphasizing the role of dark matter.",
+      "categories": [
+        "Event Announcement",
+        "Speaker Event",
+        "Astronomy",
+        "Cosmology"
+      ],
+      "keywords": [
+        "February 8th",
+        "Milpitas Library",
+        "Dr. David Schramm",
+        "Cosmology",
+        "Big Bang",
+        "Steady State Universe",
+        "Big Chill",
+        "Big Crunch",
+        "Dark Matter",
+        "Universe",
+        "Speaker",
+        "Bob Garfinkle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-editors-comments",
+      "documentId": "eph92-02",
+      "title": "Editors Comments",
+      "summary": "This editor's column announces upcoming general meeting speakers, including Dr. David Schramm on Cosmology and Shilo Unruh from Lick Observatory, urging members to attend meetings and provide feedback. It also features a detailed calendar of events for February and March, listing various star parties, general meetings, and an introductory astronomy class. The editor also mentions ongoing content, a request for a columnist to return, and an intention to publish an article on Einstein.",
+      "categories": [
+        "Community News",
+        "Events Calendar",
+        "Announcements",
+        "Astronomy Club Activities",
+        "Speaker Series"
+      ],
+      "keywords": [
+        "Editors Comments",
+        "Calendar of Events",
+        "Dr. David Schramm",
+        "Cosmology",
+        "Shilo Unruh",
+        "Lick Observatory",
+        "General Meeting",
+        "Board of Directors",
+        "Star Party",
+        "Milpitas Library",
+        "Beginning Astronomy",
+        "Henry Coe State Park",
+        "Grant Ranch",
+        "Feedback",
+        "Clyde Tombaugh",
+        "Einstein"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-star-party-paul-barton",
+      "documentId": "eph92-02",
+      "title": "Star Party Paul Barton",
+      "summary": "On Friday, December 13, 1991, an amateur astronomy star party was held at Branham Lane, featuring several attendees and their telescopes despite cool, 40°F temperatures and a thick but stable sky. Observers noted excellent views of moon craters with a 6-inch Starfire, though M-1 was difficult to spot with an 18-inch reflector. The event saw low public turnout, possibly due to the cold conditions.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Amateur Astronomy",
+        "Club Activity"
+      ],
+      "keywords": [
+        "Star Party",
+        "Branham Lane",
+        "1991",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Observing",
+        "Moon Craters",
+        "M-1",
+        "Weather Conditions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph92-02-dr-clyde-tombaugh-s-talk-to-the-eas",
+      "documentId": "eph92-02",
+      "title": "Dr. Clyde Tombaugh's talk to the EAS",
+      "summary": "In this 1989 talk, Dr. Clyde Tombaugh recounts the discovery of Pluto, detailing the initial secrecy, orbital confirmation, and the public announcement on March 13, 1930. He shares personal anecdotes about his early astronomical work, including building his own telescope, and the immense effort at Lowell Observatory, where he spent 7000 hours blinking 90 million star images with the 13-inch telescope to locate the planet.",
+      "categories": [
+        "Historical Account",
+        "Astronomical Discovery",
+        "Observational Astronomy",
+        "Biography",
+        "Talk/Presentation"
+      ],
+      "keywords": [
+        "Clyde Tombaugh",
+        "Pluto",
+        "Planet X",
+        "Astronomical Discovery",
+        "Lowell Observatory",
+        "13-inch telescope",
+        "Blink Comparator",
+        "Astronomy History",
+        "1930"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-02-c-tombaugh-talk-continued",
+      "documentId": "eph92-02",
+      "title": "C. Tombaugh Talk Continued",
+      "summary": "Clyde Tombaugh recounts the exhilarating moment of discovering Pluto beyond Neptune's orbit, emphasizing that the discovery was made by meticulously examining photographic plates during the daytime, not through a telescope at night. He humorously mentions being criticized by astrologers for not recalling the exact minute of discovery, given the overwhelming excitement of the moment.",
+      "categories": [
+        "Astronomy History",
+        "Personal Account",
+        "Discovery",
+        "Observational Astronomy",
+        "Biography"
+      ],
+      "keywords": [
+        "Clyde Tombaugh",
+        "Pluto",
+        "Discovery",
+        "Neptune",
+        "Photographic Plates",
+        "Astronomy",
+        "History of Astronomy",
+        "Astrologers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-december-board-gleanings",
+      "documentId": "eph92-02",
+      "title": "December Board Gleanings",
+      "summary": "This article, 'December Board Gleanings,' reports on the Solar Filter Fund, which has $434.50 and is soliciting donations. It also announces upcoming board elections scheduled for February 8, 1992, with Jim Van Nuland and Paul Mancuso forming the nominating committee. A list of current board members with continuing and expiring terms is provided.",
+      "categories": [
+        "Club Business",
+        "Announcements",
+        "Fundraising"
+      ],
+      "keywords": [
+        "Solar Filter Fund",
+        "Donations",
+        "Elections",
+        "Board Members",
+        "Nominating Committee",
+        "Club Finances"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-december-general-meeting",
+      "documentId": "eph92-02",
+      "title": "December General Meeting",
+      "summary": "The December General Meeting featured the presentation of the A.B. Gregory Award to Paul Barton. He was recognized by SJAA for his significant dedication and numerous hours spent assisting individuals with various astronomical activities, acknowledging his generous contributions.",
+      "categories": [
+        "Meeting Report",
+        "Awards",
+        "Community Recognition",
+        "News"
+      ],
+      "keywords": [
+        "December General Meeting",
+        "A.B. Gregory Award",
+        "Paul Barton",
+        "SJAA",
+        "Astronomical Activity",
+        "Award Presentation",
+        "Volunteer Recognition"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-emie-plim-talk",
+      "documentId": "eph92-02",
+      "title": "Emie Plim Talk",
+      "summary": "Emie Plim delivered a talk detailing his eclipse experience in Baja California as part of a Joel Harris tour. He showcased slides and extensive video of the preparations and eclipse day, featuring spectacular photographs, some enhanced with specialized filters and darkroom techniques, two of which were published in Astronomy magazine. The presentation concluded with Emie serving eclipse cake.",
+      "categories": [
+        "Event Report",
+        "Eclipse",
+        "Astronomy",
+        "Photography",
+        "Travel"
+      ],
+      "keywords": [
+        "Emie Plim",
+        "Eclipse",
+        "Baja California",
+        "Joel Harris tour",
+        "Photography",
+        "Astronomy magazine",
+        "Filters",
+        "Darkroom",
+        "Presentation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-miscellaneous-ramblings-of-a-demented-mind",
+      "documentId": "eph92-02",
+      "title": "Miscellaneous ramblings of a demented mind",
+      "summary": "This article covers various club updates, including successful star parties despite cloud cover, an ongoing fundraising drive for a Hydrogen Alpha filter, and an observing report from Fremont Peak. It also highlights concerns about local light pollution, announces new astronomy classes and a beginners astrophotography group, and solicits member feedback for future club activities while noting a change in meeting location.",
+      "categories": [
+        "Club News",
+        "Event Reports",
+        "Fundraising",
+        "Observing Reports",
+        "Education",
+        "Light Pollution",
+        "Club Activities"
+      ],
+      "keywords": [
+        "star parties",
+        "Hydrogen Alpha filter",
+        "Fremont Peak",
+        "dark skies",
+        "light pollution",
+        "astronomy education",
+        "astrophotography",
+        "club activities",
+        "fundraising",
+        "observing"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-02-ramblings-continued",
+      "documentId": "eph92-02",
+      "title": "Ramblings Continued",
+      "summary": "The article discusses the inconvenience of the previous meeting location, the Red Cross building, due to its southern location and parking issues. Members are encouraged to contact any board member with thoughts or suggestions for a new SJAA home or potential meeting site.",
+      "categories": [
+        "Organizational",
+        "Logistics",
+        "Membership Communication"
+      ],
+      "keywords": [
+        "SJAA",
+        "Meeting location",
+        "Red Cross building",
+        "Parking",
+        "New site",
+        "Member input",
+        "Board members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-double-triple-and-multiple-stars-patrick-donnelly",
+      "documentId": "eph92-02",
+      "title": "Double, Triple, and Multiple stars Patrick Donnelly",
+      "summary": "Patrick Donnelly's article explores the growing complexity of celestial mechanics as more elements are added, contrasting the easily solvable two-body problem with the intricate three-body problem and its application to multiple star systems. He presents Sigma-939 in Monoceros as a compelling example of a nearly regular triple system, providing detailed observing instructions and coordinates for amateur astronomers interested in finding this unique configuration. The piece emphasizes the challenge and reward of observing such systems, also mentioning the Trapezium and Theta-2 Orionis.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy Education",
+        "Celestial Mechanics",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Double stars",
+        "Triple stars",
+        "Multiple star systems",
+        "Sigma-939",
+        "Monoceros",
+        "Observing",
+        "Celestial mechanics",
+        "Three-body problem",
+        "Rosette Nebula",
+        "Trapezium",
+        "NGC 2244"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-astro-ads",
+      "documentId": "eph92-02",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classifieds service for noncommercial advertisers to sell astronomy-related products and services, with submissions due by the 12th of each month for a three-month run. The current listings feature a variety of used astronomical equipment, including several telescopes (Celestron 14, Ultra Finder, C-8, C-5), a Dr. James Baker-designed objective lens, and shareware CCD images and subscription information for CCD News.",
+      "categories": [
+        "classifieds",
+        "astronomy equipment sales",
+        "observing equipment",
+        "digital imaging",
+        "community announcements"
+      ],
+      "keywords": [
+        "telescopes",
+        "Celestron 14",
+        "Ultra Finder",
+        "C-8",
+        "C-5",
+        "objective lens",
+        "CCD images",
+        "shareware",
+        "astronomical optics",
+        "used equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph92-02-ephemeris-page-5-february-1992",
+      "documentId": "eph92-02",
+      "title": "EPHEMERIS Page 5 February 1992",
+      "summary": "This February 1992 'EPHEMERIS' page serves as a community bulletin, primarily featuring classified advertisements for a wide range of used astronomical equipment, including telescopes, eyepieces, and astrophotography gear. It also includes announcements for two upcoming astronomy conventions (COSMOCON 92 and National Astronomy Expo), a personal ad seeking a travel companion for an astronomy-focused trip to Europe, and information for requesting an astronomy materials catalog from the ASP.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Events",
+        "Personal Ad",
+        "Travel",
+        "Publications",
+        "Computers"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Eyepieces",
+        "Astrophotography",
+        "Mounts",
+        "Astronomy Conventions",
+        "ASP",
+        "COSMOCON",
+        "Celestron",
+        "Tele-View",
+        "Lumicon",
+        "IBM PC",
+        "Wanted Ads",
+        "For Sale Ads",
+        "Observatories",
+        "Sky and Telescope"
+      ],
+      "pageStart": 5,
+      "pageEnd": 390
+    },
+    {
+      "id": "eph92-02-calendar-of-comming-events-1992",
+      "documentId": "eph92-02",
+      "title": "Calendar of Comming Events - 1992",
+      "summary": "This document outlines a calendar of astronomical events scheduled from March through May 1992, featuring various star parties, general meetings (including officer elections and a potential talk on optical glass making), and introductory astronomy classes. It also includes a detailed report of a successful Branham Lane Star Party held on January 10, 1992, noting attendees, telescopes used, and sky conditions.",
+      "categories": [
+        "events",
+        "observing reports",
+        "club activities",
+        "education",
+        "star parties",
+        "meetings",
+        "technical talks",
+        "conference"
+      ],
+      "keywords": [
+        "1992",
+        "star party",
+        "general meeting",
+        "astronomy class",
+        "officer election",
+        "optical glass making",
+        "Branham Lane",
+        "Grant Ranch",
+        "Fremont Peak",
+        "Henry Coe State Park",
+        "Texas Star Party",
+        "Riverside Telescope Maker's Conference",
+        "Milpitas Library",
+        "Shilo Unruh",
+        "Paul Barton",
+        "telescopes",
+        "amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-late-breaking-news",
+      "documentId": "eph92-02",
+      "title": "LATE BREAKING NEWS",
+      "summary": "The astronomy club's first meeting at the Milpitas Library was deemed a success, featuring a talk by Ethan Cliffton and considerable discussion regarding a proposed observatory, for which member ideas are highly sought. Key upcoming activities include a Livermore Lab laser star test scheduled for late February and a school star party at Empire Garden School on February 11, while the Hydrogen Alpha filter fund continues to grow, reaching $577.50.",
+      "categories": [
+        "club news",
+        "meeting report",
+        "event announcement",
+        "project discussion",
+        "community outreach",
+        "fundraising"
+      ],
+      "keywords": [
+        "Milpitas Library meeting",
+        "proposed observatory",
+        "Ethan Cliffton",
+        "Livermore Lab",
+        "laser star test",
+        "Hydrogen Alpha filter fund",
+        "school star party",
+        "Empire Garden School",
+        "February 1992"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-02-comet-comments",
+      "documentId": "eph92-02",
+      "title": "Comet Comments",
+      "summary": "This article, titled \"Comet Comments\" by Don Machholtz, provides an update on comet activity, including two new comets moving southward in the evening sky and Comet Shoemaker-Levy (1991d) in the morning sky. It highlights comet discoveries and recoveries from 1991, detailing professional finds, recovered comets, and specific events like an outburst of Halley's Comet. The piece also offers observing notes and details for several individual comets, such as Periodic Comet Tsuchinshan 2, Periodic Comet Kowal 2, Comet Zanotta-Brewington, and Comet Mueller.",
+      "categories": [
+        "observing reports",
+        "comet news",
+        "astronomical discoveries",
+        "celestial events"
+      ],
+      "keywords": [
+        "Comets",
+        "Don Machholtz",
+        "Comet Shoemaker-Levy",
+        "1991 comet finds",
+        "Comet recoveries",
+        "Halley's Comet outburst",
+        "Periodic Comet Chemykh",
+        "Periodic Comet Tsuchinshan 2",
+        "Jim Scotti",
+        "Periodic Comet Kowal 2",
+        "M. Ishikawa",
+        "Comet Zanotta-Brewington",
+        "Mauro Zanotta",
+        "Howard Brewington",
+        "Comet Mueller",
+        "Jean Muller",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-offices-and-board-of-directors",
+      "documentId": "eph92-02",
+      "title": "Offices and Board of Directors",
+      "summary": "This document provides a directory of key personnel for an organization, listing individuals holding various offices, board directorships, and contributor roles. It includes contact information (phone numbers) for the President, Vice President, Treasurer, Secretary, Directors, Ephemeris Contributors, and the Editor.",
+      "categories": [
+        "Organizational Information",
+        "Administrative",
+        "Contact List"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "Personnel Directory",
+        "Contact Information",
+        "Ephemeris Contributors",
+        "Editor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-ephemerides",
+      "documentId": "eph92-02",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for three comets – Shoemaker-Levy (1991d), Zanotta-Brewington (1991g¹), and Mueller (1991h.) – detailing their Right Ascension, Declination, elongation, sky visibility, and magnitude for various dates in early 1991. It also includes a specific note for Comet Mueller, encouraging observers to monitor its brightness as it approaches perihelion and assess its survival.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guide",
+        "Comets",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "comets",
+        "ephemerides",
+        "Shoemaker-Levy",
+        "Zanotta-Brewington",
+        "Mueller",
+        "RA",
+        "DEC",
+        "magnitude",
+        "elongation",
+        "perihelion",
+        "observational astronomy",
+        "1991"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-a-request",
+      "documentId": "eph92-02",
+      "title": "A REQUEST",
+      "summary": "The Astronomical Association of Northern California (AANC) has requested a coordinator from the author's organization to represent them at monthly meetings. This volunteer role involves attending one evening meeting per month at the Lawrence Hall of Science and reporting activities to the board, noting a lapse in their organization's participation in recent years.",
+      "categories": [
+        "Call for Volunteers",
+        "Organizational News",
+        "Community Engagement",
+        "Meetings"
+      ],
+      "keywords": [
+        "AANC",
+        "Coordinator",
+        "Volunteer",
+        "Lawrence Hall of Science",
+        "Monthly meetings",
+        "Representation",
+        "February 1992"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-02-about-sjaa",
+      "documentId": "eph92-02",
+      "title": "ABOUT SJAA",
+      "summary": "SJAA is a non-profit 501(c)3 educational organization comprising about 350 non-professional astronomers. They provide astronomy-related classroom activities and observing sessions for schools and organizations, and host regular public activities such as lectures, discussions, introductory courses, and dark-sky observing sessions, all offered free of charge.",
+      "categories": [
+        "Organization Profile",
+        "Education",
+        "Community Outreach",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "SJAA",
+        "Non-profit",
+        "Educational Organization",
+        "Observing Sessions",
+        "Astronomy",
+        "Public Outreach",
+        "Lectures",
+        "Dark Skies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-the-eyepiece",
+      "documentId": "eph92-02",
+      "title": "THE EYEPIECE",
+      "summary": "The article primarily addresses the need for the SJAA to consolidate its vision for a new observatory, urging members to submit ideas and sketches to architect Ethan Cliffton. It highlights concerns about external restrictions from the Parks Planning Commission potentially limiting the observatory's size, emphasizing the importance of members proactively defining their requirements for a facility suitable for both club use and public education. The author stresses the urgency of member input and reviewing the master plan to ensure the project's success and avoid future dissatisfaction.",
+      "categories": [
+        "Club News",
+        "Project Planning",
+        "Call to Action",
+        "Editorial"
+      ],
+      "keywords": [
+        "Observatory planning",
+        "SJAA",
+        "Ethan Cliffton",
+        "Parks Planning Commission",
+        "Facility design",
+        "Member involvement",
+        "Public education",
+        "Master Plan",
+        "Newsletter content"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-celestial-calendar",
+      "documentId": "eph92-02",
+      "title": "CELESTIAL CALENDAR",
+      "summary": "This celestial calendar provides a schedule of the Moon's primary lunar phases, including New Moon, First Quarter, Full Moon, and Last Quarter, for a given month. For each phase, it specifies the date, exact time, and the Moon's approximate rise, transit, and set times.",
+      "categories": [
+        "Celestial Events",
+        "Astronomy Calendar",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Celestial calendar",
+        "Moon",
+        "Astronomy",
+        "Rise and set times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-nearer-planets",
+      "documentId": "eph92-02",
+      "title": "Nearer Planets",
+      "summary": "This document provides an astronomical ephemeris for the nearer planets—Mercury, Venus, Mars, Jupiter, and Saturn—for various dates in February. It details their rise, transit, and set times, alongside their approximate distance in Astronomical Units (AU) and visual magnitude, serving as a guide for observers.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Data",
+        "Ephemeris",
+        "Planetary Positions"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "planetary observation",
+        "ephemeris",
+        "rise times",
+        "set times",
+        "transit times",
+        "magnitude",
+        "AU",
+        "astronomical data",
+        "skywatching"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-astronomical-twilight",
+      "documentId": "eph92-02",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a concise table detailing the start and end times of astronomical twilight for specific dates in February. It lists the Julian Date, calendar date, and the corresponding 24-hour times when astronomical twilight begins and ends, providing practical data for astronomical planning.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Reference"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "Ephemeris Data",
+        "Time",
+        "Observation Planning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-02-siderial-time",
+      "documentId": "eph92-02",
+      "title": "Siderial Time",
+      "summary": "This document presents astronomical data for February 1992, specifically detailing sidereal time transits, ascensions, and local midnight for various dates, all in Pacific Standard Time. It also provides sunset, twilight end, and moonrise times for Saturday night, February 29th.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Siderial Time",
+        "Ephemeris",
+        "Pacific Standard Time",
+        "Sunset",
+        "Twilight End",
+        "Moon Rise",
+        "Transit",
+        "Ascension",
+        "February 1992"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph92-02-san-jose-astronomical-association-membership",
+      "documentId": "eph92-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines membership options and fees for the San Jose Astronomical Association (SJAA), including individual, membership/S&T, and junior rates. It provides instructions for application submission, contact details for the treasurer, and general SJAA contact information and hotline. The document also notes that it is part of their monthly publication, \"Ephemeris\", from February 1992.",
+      "categories": [
+        "Membership Information",
+        "Astronomical Club",
+        "Administrative",
+        "Publication Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Dues",
+        "Contact Information",
+        "Ephemeris",
+        "February 1992",
+        "Non-Profit"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9202/Eph92_02.pdf",
+      "txtPath": "9202/Eph92_02.md"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "articles": [
+    {
+      "id": "eph94-09-sjaa-ephemeris",
+      "documentId": "eph94-09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association (SJAA), titled \"SJAA EPHEMERIS.\" It represents Volume 5, Number 8 of their publication series, issued in September 1994.",
+      "categories": [
+        "Publication",
+        "Astronomy Club News",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "Astronomy Publication",
+        "September 1994",
+        "Club Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-the-eyepiece",
+      "documentId": "eph94-09",
+      "title": "The Eyepiece",
+      "summary": "This article from \"The Eyepiece\" newsletter discusses impressive Internet pictures of Jupiter and a comet, along with an upcoming report from the Galileo probe. It highlights a successful trip by club members to the Mt. Lassen dark sky site and announces the generous donation of a 6\" Edmund Scientific telescope to the club's loaner program. The issue also provides a detailed calendar of numerous September and October events, including star parties, observational classes, and general meetings, plus a notice about renewing Astronomy magazine subscriptions.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Equipment",
+        "Membership"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Comet",
+        "Hubble",
+        "Galileo",
+        "Mt. Lassen",
+        "Star Parties",
+        "Telescope Donation",
+        "Edmund Scientific",
+        "Loaner Program",
+        "Observational Astronomy Class",
+        "Club Meetings",
+        "Astronomy Magazine",
+        "Newtonian reflector",
+        "Schmidt Camera"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-09-by-jove-a-sight-to-remember",
+      "documentId": "eph94-09",
+      "title": "By Jove - A Sight to Remember",
+      "summary": "This article details Ernie Piini's thrilling experience of observing the impact scars on Jupiter from Comet Shoemaker-Levy 9 on July 23, 1994, after a week of poor seeing. Using an 11-inch Celestron telescope, he and fellow observers witnessed multiple dark spots on Jupiter's surface, verifying a once-in-a-lifetime astronomical event. Piini recounts subsequent observations of the spots before their eventual disappearance and reflects on the excitement of the sighting, including a past meeting with comet co-discoverer David Levy.",
+      "categories": [
+        "observing report",
+        "astronomical event",
+        "personal account",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Comet Shoemaker-Levy 9",
+        "impacts",
+        "observing",
+        "telescope",
+        "seeing conditions",
+        "July 1994",
+        "Ernie Piini",
+        "Al Beats",
+        "David Levy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-astronomy-and-gastronomy-at-lassen-give-new-meaning-to-man-s-understanding-of-cosmic-expansion",
+      "documentId": "eph94-09",
+      "title": "Astronomy and Gastronomy at Lassen Give New Meaning to Man's Understanding of Cosmic Expansion",
+      "summary": "The first annual Lassen National Park Astro-Gastronomy Weekend was a resounding success, drawing many participants from the SJAA. The event featured a blend of gourmet dining and exceptional stargazing conditions, with participants experiencing views surpassing other popular observing sites. Observers noted incredible transparency and steadiness, making normally dim objects visible to the naked eye and revealing intricate details in nebulae and galaxies.",
+      "categories": [
+        "observing report",
+        "event report",
+        "trip report",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "Lassen National Park",
+        "Astro-Gastronomy Weekend",
+        "SJAA",
+        "observing conditions",
+        "celestial objects",
+        "deep sky",
+        "telescopes",
+        "gastronomy",
+        "star gazing",
+        "Milky Way"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-09-by-bob-madden",
+      "documentId": "eph94-09",
+      "title": "By Bob Madden",
+      "summary": "The author recounts his meticulous planning and challenging experience observing the Perseid Meteor Shower, detailing previous struggles with light pollution and his search for optimal dark-sky sites in the Sierra Mountains. Alongside friends, he successfully observed and photographed the shower over several nights, achieving impressive meteor counts and witnessing spectacular fireballs, despite initial concerns about smoke haze.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Personal Narrative",
+        "Astronomy",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Perseid Meteor Shower",
+        "Meteor observation",
+        "Dark sky sites",
+        "Light pollution",
+        "Astrophotography",
+        "Sierra Mountains",
+        "Fremont Peak",
+        "Bear Valley Ski Area",
+        "Fireball",
+        "Meteor count",
+        "O-III filter",
+        "Amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-astronomy-conference",
+      "documentId": "eph94-09",
+      "title": "Astronomy Conference",
+      "summary": "The article reports on an astronomy conference in Flagstaff, Arizona, attended by Bob Garfinkle, which included talks by prominent astronomers, observatory tours, and an exhibition. It also features a personal recommendation for an excellent dark sky observing site at the Grand Canyon's North Rim. Additionally, a press release details new high-resolution Hubble Space Telescope images of Pluto and Charon, emphasizing their unusual characteristics and potential to provide clues about early Solar System evolution.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Space Science",
+        "Planetary Science",
+        "Recreational Astronomy"
+      ],
+      "keywords": [
+        "Astronomy conference",
+        "Flagstaff",
+        "Lowell Observatory",
+        "David Levy",
+        "Shoemaker-Levy-9",
+        "Carl Sagan",
+        "Dark sky observing",
+        "Grand Canyon",
+        "Hubble Space Telescope",
+        "Pluto",
+        "Charon",
+        "Solar System",
+        "Clementine satellite",
+        "Faint Object Camera"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-09-eyepiece-continued-from-page-1",
+      "documentId": "eph94-09",
+      "title": "Eyepiece (Continued from Page 1)",
+      "summary": "The AANC is organizing an \"Astro-Forum\" on September 17 at Chabot Observatory in Oakland, from 9:00 am to 4:00 pm. This event is for Association officers and members to discuss topics like club programs, newsletters, speakers, and membership. Attendees can purchase a buffet lunch for $3 or bring their own, and more details can be obtained from Jim Van Nuland.",
+      "categories": [
+        "Events",
+        "Meeting Announcement",
+        "Club News"
+      ],
+      "keywords": [
+        "AANC",
+        "Astro-Forum",
+        "Chabot Observatory",
+        "Oakland",
+        "Association programs",
+        "Membership",
+        "Speakers",
+        "Newsletters",
+        "September 17"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph94-09-lassen-continued-from-page-2",
+      "documentId": "eph94-09",
+      "title": "Lassen (continued from page 2)",
+      "summary": "The article praises Lassen National Park for its exceptionally friendly and professional staff, specifically highlighting Ranger Matt Bates for assisting observers by directing traffic away from their telescopes. Attendees experienced unbeatable dark skies, deeming it the best they've found in the state. Plans are already underway for a four-night return trip next summer, possibly including a public observing night.",
+      "categories": [
+        "Observing Report",
+        "Park Review",
+        "Travel Report",
+        "Astronomy Event"
+      ],
+      "keywords": [
+        "Lassen National Park",
+        "Dark Skies",
+        "Astronomy",
+        "Observing",
+        "Park Rangers",
+        "Customer Service",
+        "Stargazing",
+        "National Parks",
+        "Camping"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-09-real-time-data-superhighway-astronomy-meetings-online",
+      "documentId": "eph94-09",
+      "title": "Real-Time Data SuperHighway Astronomy Meetings Online",
+      "summary": "This article introduces IRC (Internet Relay Chat) Astronomy as a new way for amateur and professional astronomers worldwide to connect and discuss in real-time. It highlights the benefits of instant communication, similar to a 'party-line,' and details how to join the #Astronomy channel for weekly 'cyberspace star parties' held every Sunday at 2000 UT. Contact information for further details is also provided.",
+      "categories": [
+        "news",
+        "internet technology",
+        "community events",
+        "how-to guide"
+      ],
+      "keywords": [
+        "IRC",
+        "Internet Relay Chat",
+        "astronomy meetings",
+        "real-time data",
+        "online community",
+        "cyberspace star parties",
+        "Internet global computer network",
+        "astronomical computing",
+        "#Astronomy channel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-sjaa-ccd-imaging-information-exchange",
+      "documentId": "eph94-09",
+      "title": "SJAA CCD Imaging Information Exchange",
+      "summary": "Two SJAA members, Doug Snyder and Gary Heath, who recently acquired ST6 CCD cameras, are looking to connect with other members interested in CCD imaging. Their goal is to exchange data, information, experiences, and insights on the use of accessories. Contact information is provided for interested parties.",
+      "categories": [
+        "Community Announcement",
+        "Amateur Astronomy",
+        "Imaging Technology",
+        "Collaboration"
+      ],
+      "keywords": [
+        "CCD Imaging",
+        "ST6 CCD Camera",
+        "Amateur Astronomy",
+        "SJAA",
+        "Information Exchange",
+        "Astronomy Equipment",
+        "Doug Snyder",
+        "Gary Heath"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-treasurer-s-report",
+      "documentId": "eph94-09",
+      "title": "Treasurer's report",
+      "summary": "This document presents the Treasurer's report by Jim Hodgers, detailing the financial status of various organizational funds. As of different dates in 1993 and 1994, it provides balances for the Checkbook, Observatory Fund, Gregory Fund, and Ephemeris pool.",
+      "categories": [
+        "Financial Report",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "Treasurer's report",
+        "financial",
+        "funds",
+        "checkbook",
+        "observatory fund",
+        "Gregory Fund",
+        "Ephemeris pool",
+        "balances"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-pluto-continued-from-page-4",
+      "documentId": "eph94-09",
+      "title": "Pluto (Continued from page 4)",
+      "summary": "The article details an international scientific investigation into Pluto's surface and potential atmosphere, utilizing ultraviolet and visual light observations with the aim of constructing rough planetary maps. Led by Rudolf Albrecht, the collaborative project involves institutions across Europe and the U.S. The document also provides the 1994 calendar for the SJAA, listing general meetings, star parties, and observational astronomy classes.",
+      "categories": [
+        "Scientific Research",
+        "Planetary Science",
+        "Astronomy Events",
+        "Collaborative Projects"
+      ],
+      "keywords": [
+        "Pluto",
+        "planetary atmosphere",
+        "planetary surface",
+        "ultraviolet light",
+        "visual light",
+        "Space Telescope European Coordinating Facility",
+        "European Southern Observatory",
+        "European Space Agency",
+        "SJAA",
+        "astronomy calendar",
+        "star party",
+        "observational astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-09-telescope-loaner-status",
+      "documentId": "eph94-09",
+      "title": "Telescope Loaner Status",
+      "summary": "This article, 'Telescope Loaner Status' by Paul Barton, provides an updated list of telescopes available for loan to members. It details which telescopes are currently borrowed, their return dates, and which are available for immediate use, including a special solar telescope for experienced members. Members interested in borrowing a telescope are instructed to contact Paul Barton to be added to a general or specific waiting list.",
+      "categories": [
+        "Club News",
+        "Member Services",
+        "Equipment Loan Program"
+      ],
+      "keywords": [
+        "telescope loaner",
+        "telescope status",
+        "Paul Barton",
+        "equipment borrowing",
+        "astronomy club",
+        "member benefits",
+        "Dobsonian",
+        "Refractor",
+        "Newtonian",
+        "solar telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-astro-ads",
+      "documentId": "eph94-09",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" serves as a classifieds section for free noncommercial advertisements of astronomically related products and services. It provides submission guidelines, including a monthly deadline, and features several listings for used astronomical equipment such as telescopes, eyepieces, mounts, and mirror blanks from various brands like Teleview, Celestron, Meade, and Takahashi. The ads include contact information and pricing for each item.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomical equipment sales",
+        "community bulletin"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "classifieds",
+        "astronomical products",
+        "telescopes",
+        "eyepieces",
+        "mounts",
+        "Teleview",
+        "Celestron",
+        "Meade",
+        "Takahashi",
+        "Schmidt Cassegrain",
+        "Newtonian",
+        "refractor",
+        "mirror blank",
+        "used equipment",
+        "for sale"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-09-september-1994",
+      "documentId": "eph94-09",
+      "title": "September 1994",
+      "summary": "This document provides an astronomical almanac for September 1994, detailing lunar phases, positions (AU), magnitudes, and rise/set times for nearer planets (Mercury, Venus, Mars, Jupiter, Saturn), as well as solar data. It also includes information on astronomical twilight, sidereal time, and highlights a 'Darkest Saturday Night' on September 3rd, with all times given in Pacific Daylight Time.",
+      "categories": [
+        "astronomical data",
+        "ephemeris",
+        "observing guide",
+        "almanac",
+        "planetary data",
+        "lunar data"
+      ],
+      "keywords": [
+        "September 1994",
+        "lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "astronomical twilight",
+        "sidereal time",
+        "rise times",
+        "set times",
+        "magnitude",
+        "AU",
+        "Pacific Daylight Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-offices-and-board-of-directors",
+      "documentId": "eph94-09",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current Offices and Board of Directors, detailing the names and contact phone numbers for the President, Vice President, Secretary, Treasurer, and several Directors. It provides a directory of the organization's leadership with their respective roles.",
+      "categories": [
+        "Organizational Information",
+        "Leadership",
+        "Directory"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Contact Information",
+        "Leadership Roster"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-ephemeris-contributors",
+      "documentId": "eph94-09",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists the names and phone numbers of individuals involved as contributors, editor, and in the distribution of an ephemeris. It serves as a contact directory for those responsible for its content and dissemination.",
+      "categories": [
+        "Directory",
+        "Contacts",
+        "Contributors List",
+        "Astronomical Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Distribution",
+        "Contacts",
+        "Don Machholz",
+        "Paul Barton",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-comet-comments",
+      "documentId": "eph94-09",
+      "title": "Comet Comments",
+      "summary": "The article provides updates on three visible comets, detailing new orbital calculations for Comet Nakamura-Nishimura-Machholtz (1994m) regarding its perihelion and closest Earth approach. It also discusses Periodic Comet DeVico, expected to return within the next five years after being missed for decades, urging observers to look for it as it may achieve naked-eye visibility. The author offers a detailed paper on Comet DeVico for those interested in its history, orbit, and search suggestions.",
+      "categories": [
+        "observing reports",
+        "comet news",
+        "astronomy resources",
+        "technical details",
+        "call for observations"
+      ],
+      "keywords": [
+        "comets",
+        "Comet Nakamura-Nishimura-Machholtz (1994m)",
+        "Periodic Comet DeVico",
+        "perihelion",
+        "orbit calculation",
+        "naked-eye visibility",
+        "observers",
+        "astronomy",
+        "search suggestions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-ephemerides",
+      "documentId": "eph94-09",
+      "title": "EPHEMERIDES",
+      "summary": "This document presents ephemerides for three comets: Periodic Comet Borrelly (1994l), Comet Nakamura-Nishimura-Machholz (1994m), and Periodic Comet Tempel 1. It provides detailed astronomical data, including Right Ascension, Declination, elongation, sky visibility (morning or evening), and estimated visual magnitudes for these objects from August 21 to October 15, 1994. The data is intended to guide observers in locating and monitoring the comets.",
+      "categories": [
+        "Astronomical Data",
+        "Comet Observing",
+        "Ephemeris",
+        "Observational Astronomy",
+        "Technical"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Periodic Comet Borrelly",
+        "Comet Nakamura-Nishimura-Machholz",
+        "Periodic Comet Tempel 1",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Celestial Coordinates",
+        "1994"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-09-san-jose-astronomical-association-membership",
+      "documentId": "eph94-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining various membership tiers including 'Membership Only', 'Membership / S&T', and 'Junior (under 18)', each with a specified annual fee. It provides fields for personal information and instructions on how to submit the form, either by bringing it to an SJAA meeting or mailing it to the treasurer, Jim Hodgers, at the association's San Jose address.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Non-profit organization",
+        "Local club/association"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Membership fees",
+        "Sky & Telescope",
+        "Non-profit",
+        "Contact information",
+        "Treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-09-sjaa-hotline",
+      "documentId": "eph94-09",
+      "title": "SJAA HOTLINE",
+      "summary": "This document is an excerpt from the 'SJAA HOTLINE' and the 'EPHEMERIS' monthly publication by the San Jose Astronomical Association (SJAA), dated September 1994. It provides a 24-hour information hotline number and details for members interested in submitting articles for publication, including deadlines, contact information for the editor, and preferred submission formats.",
+      "categories": [
+        "Organizational Information",
+        "Publication Guidelines",
+        "Contact Information",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Newsletter",
+        "Article Submission",
+        "Hotline",
+        "September 1994"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9409/Eph94_09.pdf",
+      "txtPath": "9409/Eph94_09.md"
+    }
+  ]
+}

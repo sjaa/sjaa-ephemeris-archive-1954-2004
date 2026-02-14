@@ -1,0 +1,616 @@
+{
+  "articles": [
+    {
+      "id": "eph94-11-sjaa-ephemeris",
+      "documentId": "eph94-11",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the November 1994 issue (Volume 5, Number 8) of the \"SJAA EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It serves as a regular communication for members of the astronomy club.",
+      "categories": [
+        "Publication",
+        "Newsletter",
+        "Astronomy Club News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "November 1994",
+        "Astronomy club",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-the-eyepiece",
+      "documentId": "eph94-11",
+      "title": "The Eyepiece",
+      "summary": "This issue of 'The Eyepiece' highlights editor Bob Madden's concerns over low member article submissions, leading to discussions about potentially reducing the publication's size and increasing membership dues to support the Observatory Fund. The document also provides a comprehensive calendar of November and December events, including various star parties and general meetings featuring speakers on topics like Pluto and the Jupiter/SL9 collisions. Furthermore, it includes a review of the 'Redscope' astronomical software, detailing its features for calculating telescope parameters.",
+      "categories": [
+        "Club News",
+        "Event Schedule",
+        "Software Review",
+        "Membership Updates",
+        "Financial Discussions"
+      ],
+      "keywords": [
+        "Membership dues",
+        "Star parties",
+        "Club meetings",
+        "Observatory fund",
+        "Redscope software",
+        "Astronomical software",
+        "Pluto",
+        "Jupiter/SL9 collisions",
+        "Publication challenges",
+        "Amateur astronomy",
+        "Telescope parameters"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-11-redshift-continued-from-page-1",
+      "documentId": "eph94-11",
+      "title": "RedShift (continued from page 1)",
+      "summary": "This article reviews 'RedShift' (also referred to as 'Redscope') software, designed for amateur astronomers to simulate observing conditions and equipment performance. It allows users to conduct 'thought experiments' with various telescope, eyepiece, and filter combinations, helping them plan future equipment purchases or optimize existing setups from the comfort of their home. The program, currently PC-only, is praised for its affordability and extensive features, including data on numerous commercially available eyepieces and a detailed glossary.",
+      "categories": [
+        "Software Review",
+        "Amateur Astronomy",
+        "Equipment Planning",
+        "Product Review"
+      ],
+      "keywords": [
+        "RedShift",
+        "Redscope",
+        "Amateur Astronomy",
+        "Telescope Simulation",
+        "Eyepieces",
+        "Filters",
+        "Observation Planning",
+        "PC Software",
+        "Lumicon",
+        "Equipment Review",
+        "Shareware"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph94-11-s-80-test-report-from-yosemite-by-timmyd-netcom-com-tim-debenedictis",
+      "documentId": "eph94-11",
+      "title": "S-80 test report from Yosemite by timmyd@netcom.com (Tim DeBenedictis)",
+      "summary": "This report details Tim DeBenedictis's purchase and field test of an S-80 spotting scope, along with a Velbon DH-10ML tripod and an Orion slow-motion control, for backpacking astronomy. He reviews the equipment, praising Pocono Mountain Optics' service, and recounts a demanding hike to Clouds' Rest in Yosemite. The S-80 performed well for terrestrial observations of Half Dome but showed only an \"unimpressive smudge\" for the Andromeda galaxy under initial hazy conditions, though the sky cleared later.",
+      "categories": [
+        "Product Review",
+        "Observing Report",
+        "Field Test",
+        "Equipment Review",
+        "Backpacking Astronomy"
+      ],
+      "keywords": [
+        "S-80 spotting scope",
+        "Yosemite",
+        "Clouds' Rest",
+        "Tim DeBenedictis",
+        "Pocono Mountain Optics",
+        "Velbon DH-10ML tripod",
+        "Orion slow-motion control",
+        "Half Dome",
+        "Andromeda Galaxy",
+        "Backpacking",
+        "Astronomical observations",
+        "Terrestrial observations",
+        "Optical equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-11-yosemite-continued-from-page-2",
+      "documentId": "eph94-11",
+      "title": "Yosemite (continued from page 2",
+      "summary": "An amateur astronomer recounts an exceptional stargazing experience from 10,000 feet on Clouds' Rest in Yosemite. The incredibly dark sky allowed for spectacular naked-eye views of the Milky Way, Andromeda galaxy, and numerous Pleiads, while an 80mm spotting scope revealed fine details in deep-sky objects like dust lanes in Andromeda, split double stars, and even the faint Crab Nebula. The report highlights the clarity of the high-altitude sky and the performance of the equipment, despite minor observational discomforts.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Travel",
+        "Equipment Review"
+      ],
+      "keywords": [
+        "Yosemite",
+        "Clouds' Rest",
+        "Stargazing",
+        "Naked-eye astronomy",
+        "Milky Way",
+        "Andromeda galaxy",
+        "Pleiades",
+        "80mm spotting scope",
+        "Deep-sky objects",
+        "Double stars",
+        "Crab Nebula",
+        "M31",
+        "M1",
+        "Eta Cassiopeiae",
+        "Sigma Orionis",
+        "M-35",
+        "M-41",
+        "High altitude astronomy",
+        "Dark sky",
+        "Astrophotography (implied, but more observation)",
+        "Orthoscopic eyepiece"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-11-discovery-gauges-size-and-age-of-the-universe",
+      "documentId": "eph94-11",
+      "title": "DISCOVERY GAUGES SIZE AND AGE OF THE UNIVERSE",
+      "summary": "Astronomers using the Canada-France-Hawaii Telescope have discovered Cepheid variable stars in the distant Virgo Cluster, resolving a decades-long debate about the universe's distance scale. This discovery sets the Virgo Cluster at 50 million Light Years away, implying that remote cosmic objects are closer than previously thought, and leads to a revised Hubble Constant. The new measurements suggest the universe is 7-11 billion years old, creating a paradox with the estimated age of the oldest stars (16 billion years) which challenges current cosmological models.",
+      "categories": [
+        "Astronomy",
+        "Cosmology",
+        "Astrophysics",
+        "Scientific Discovery",
+        "Research News"
+      ],
+      "keywords": [
+        "Cepheid variable stars",
+        "Virgo Cluster",
+        "Distance scale",
+        "Hubble Constant",
+        "Age of the universe",
+        "Cosmology paradox",
+        "Canada-France-Hawaii Telescope",
+        "Big Bang",
+        "Galaxy distances"
+      ],
+      "pageStart": 3,
+      "pageEnd": 1994
+    },
+    {
+      "id": "eph94-11-age-continued-from-page-3",
+      "documentId": "eph94-11",
+      "title": "AGE (continued from page 3)",
+      "summary": "This article discusses the use of Cepheid variable stars as a reliable tool for estimating cosmological distances, particularly in the Virgo Cluster. It highlights the crucial role of the High Resolution Camera (HRCam) on the Canada-France-Hawaii Telescope, which produces sharper images by correcting for atmospheric turbulence. The work of Dr. McClure, Dr. Racine, and Dr. Stetson in developing the HRCam and its analysis software, respectively, was recognized with prestigious astronomical awards.",
+      "categories": [
+        "Astronomy",
+        "Instrumentation",
+        "Research",
+        "Observational Astronomy",
+        "Cosmology",
+        "Awards"
+      ],
+      "keywords": [
+        "Cosmological Constant",
+        "General Relativity",
+        "Cepheid variables",
+        "Distance measurement",
+        "Virgo Cluster",
+        "High Resolution Camera (HRCam)",
+        "Canada-France-Hawaii Telescope",
+        "Mauna Kea",
+        "Atmospheric turbulence",
+        "Muhlmann Prize",
+        "Petrie Prize",
+        "Einstein",
+        "McClure",
+        "Racine",
+        "Stetson"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-11-for-more-information",
+      "documentId": "eph94-11",
+      "title": "For More Information:",
+      "summary": "This document provides contact information for several prominent astronomers from various universities and observatories. It also includes an email from 1994, posted to a scientific newsgroup, questioning the validity and media hype surrounding a press release on new determinations of the universe's size and age. The sender specifically asks for clarification on a reported Hubble Constant (H_0) value and its implications for globular cluster ages, seeking to understand if the scientific controversy has been settled.",
+      "categories": [
+        "Scientific Discussion",
+        "Cosmology",
+        "Astronomy News Analysis",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Hubble Constant",
+        "Universe's Age",
+        "Universe's Size",
+        "Globular Cluster Ages",
+        "Press Release",
+        "Scientific Controversy",
+        "Astronomy Research",
+        "H_0"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-bram-boroson",
+      "documentId": "eph94-11",
+      "title": "Bram Boroson",
+      "summary": "Ethan Bradford discusses a press release concerning the universe's size and age, specifically addressing a reported Hubble Constant (H_0) of 88 km/s/Mpc. He argues this value is higher than many recent estimates and exacerbates the 'age problem' related to globular clusters. While Cepheid observations support a higher H_0, Bradford contends the controversy isn't settled due to unaddressed systematic errors, though he anticipates a resolution within a few years.",
+      "categories": [
+        "Cosmology",
+        "Astrophysics",
+        "Scientific Discussion",
+        "Research Analysis",
+        "Astronomical Measurement"
+      ],
+      "keywords": [
+        "Hubble Constant",
+        "H_0",
+        "Age of the Universe",
+        "Cepheid Variables",
+        "Globular Clusters",
+        "Systematic Errors",
+        "Distance Measurement",
+        "Cosmology",
+        "Research Debate"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-11-what-have-you-seen-lately-from-strong-uoport-edu-caroline-strong",
+      "documentId": "eph94-11",
+      "title": "What Have You Seen Lately From: strong@uoport.edu (Caroline Strong)",
+      "summary": "This document is a newsgroup post from Caroline Strong on October 3, 1994, to sci.astro.amateur. It appears to be an observing report or a query about recent observations, specifically mentioning the Horsehead Nebula.",
+      "categories": [
+        "observing report",
+        "amateur astronomy",
+        "discussion"
+      ],
+      "keywords": [
+        "Horsehead Nebula",
+        "Caroline Strong",
+        "sci.astro.amateur",
+        "astronomy",
+        "observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-juniper-sky-ranch-sept-30-oct-1",
+      "documentId": "eph94-11",
+      "title": "Juniper Sky Ranch Sept 30-Oct 1:",
+      "summary": "An amateur astronomy enthusiast details a successful observing weekend at Juniper Sky Ranch, highlighted by exceptional views of various deep-sky objects including the Veil Nebula, Crescent Nebula, and a first-time clear sighting of the Horsehead Nebula with an H-beta filter. The report also covers a daytime trip to scout potential sites for the 1995 Oregon Star Party, including a visit to Pine Mountain Observatory.",
+      "categories": [
+        "observing report",
+        "star party",
+        "deep-sky observing",
+        "event planning",
+        "astronomy travel"
+      ],
+      "keywords": [
+        "Juniper Sky Ranch",
+        "Saturn",
+        "Veil Nebula",
+        "NGC 6888",
+        "Crescent Nebula",
+        "NGC 281",
+        "NGC 7331",
+        "Stephan's Quintet",
+        "NGC 253",
+        "Horsehead Nebula",
+        "H-beta filter",
+        "Oregon Star Party (OSP)",
+        "Pine Mountain Observatory",
+        "observing session",
+        "telescopes"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-11-whatcha-been-looking-at-lately-from-jackz-sxzi-hp-com-jack-zeiders",
+      "documentId": "eph94-11",
+      "title": "Whatcha been looking at lately? From: jackz@sxzi.hp.com (Jack Zeiders)",
+      "summary": "This article is a discussion among amateur astronomers sharing their recent celestial observations and favorite deep-sky objects. Participants describe various nebulae, galaxies, and star clusters, often mentioning specific NGC numbers, magnitudes, and useful filters like OIII and UHC. The conversation also includes tips on magnification and observing conditions for different objects.",
+      "categories": [
+        "observing reports",
+        "amateur astronomy",
+        "deep-sky objects",
+        "observing tips",
+        "equipment recommendations"
+      ],
+      "keywords": [
+        "NGC 7662",
+        "Blue Snowball",
+        "NGC 6210",
+        "NGC 7538",
+        "Bubble Nebula",
+        "NGC 7635",
+        "NGC 891",
+        "Coccoon Nebula",
+        "M39",
+        "NGC 6888",
+        "Oxygen III filter",
+        "UHC filter",
+        "Veil Nebula",
+        "Pickerings Triangular Wisp",
+        "Pelican Nebula",
+        "North American Nebula",
+        "Pegasus J cluster",
+        "NGC 7331",
+        "Stephans Quintet",
+        "Arp 229",
+        "Arp 331",
+        "NGC 404",
+        "deep sky observing",
+        "filters",
+        "galaxies",
+        "nebulae",
+        "planetary nebula"
+      ],
+      "pageStart": 229,
+      "pageEnd": 1994
+    },
+    {
+      "id": "eph94-11-mounting-rings-made-easy-by-paul-barton",
+      "documentId": "eph94-11",
+      "title": "Mounting Rings Made Easy by Paul Barton",
+      "summary": "This article describes a simple DIY method for creating mounting rings for an Optical Tube Assembly (OTA) or finder scope using thick-walled PVC pipe. The process involves cutting the PVC pipe to width, slitting it, heating it in an oven until soft, and then shaping it around the OTA or a form until cool. The finished ring can then be lined with felt and attached to an equatorial mount.",
+      "categories": [
+        "DIY",
+        "Technical Tip",
+        "Equipment Modification",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Mounting rings",
+        "PVC pipe",
+        "Optical Tube Assembly",
+        "OTA",
+        "Equatorial mount",
+        "DIY astronomy equipment",
+        "Finder scope mount",
+        "Telescope accessories"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-11-observational-astronomy-class",
+      "documentId": "eph94-11",
+      "title": "Observational Astronomy Class",
+      "summary": "This document outlines information for an Observational Astronomy Class, indicating several instances of 'no meeting' and listing a series of numbers without explicit context. A critical instruction advises participants to consult their Ephemeris monthly for any schedule or content changes.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Class Announcement",
+        "Schedule Update"
+      ],
+      "keywords": [
+        "Observational Astronomy Class",
+        "No meeting",
+        "Ephemeris",
+        "Schedule changes",
+        "Astronomy education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-telescope-loaner-status",
+      "documentId": "eph94-11",
+      "title": "Telescope Loaner Status",
+      "summary": "This document from the San Jose Astronomical Association (SJAA) details the current status of its telescope loaner program for members. It lists various telescopes, indicating which are currently borrowed, by whom, and their respective due dates, with several units marked as available. The article also provides instructions for members on how to borrow a telescope by contacting Paul Barton to be added to a waiting list, noting a special solar telescope available for experienced members.",
+      "categories": [
+        "Club Operations",
+        "Member Services",
+        "Equipment Management",
+        "Loan Program",
+        "Status Report"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "SJAA",
+        "telescope availability",
+        "equipment borrowing",
+        "astronomy club",
+        "Dobson telescope",
+        "Refractor",
+        "Newtonian",
+        "member benefits",
+        "star parties"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-astro-ads",
+      "documentId": "eph94-11",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS offers free classified advertisements for non-commercial astronomy-related products and services. Ads must be submitted to the editor by the 12th of each month and typically run for three months. The document includes examples of ads for various astronomical equipment such as telescopes, mounts, flats, and mirror blanks.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomy equipment",
+        "community services"
+      ],
+      "keywords": [
+        "astronomy ads",
+        "telescope for sale",
+        "astronomical equipment",
+        "refractor",
+        "telescope mount",
+        "optical flats",
+        "mirror blanks",
+        "wanted ads",
+        "classifieds submission"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-11-november-1994",
+      "documentId": "eph94-11",
+      "title": "November 1994",
+      "summary": "This document provides an astronomical almanac for November 1994, detailing lunar phases, rise, transit, and set times for the Moon and five nearer planets (Mercury, Venus, Mars, Jupiter, Saturn). It also includes solar data, astronomical twilight times, sidereal time, and highlights the 'Darkest Saturday Night' of the month. All presented times and dates are in Pacific Standard.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Monthly Sky Report",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "November 1994",
+        "Lunar Phases",
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Rise Times",
+        "Transit Times",
+        "Set Times",
+        "Magnitude",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Dark Sky",
+        "Pacific Standard Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-offices-and-board-of-directors",
+      "documentId": "eph94-11",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current Officers and Board of Directors of an organization, detailing their names, positions (President, Vice President, Secretary, Treasurer, and Director), and contact phone numbers. It serves as a directory for the organization's leadership.",
+      "categories": [
+        "Organization",
+        "Directory",
+        "Governance",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Contact Details"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-ephemeris-contributors",
+      "documentId": "eph94-11",
+      "title": "Ephemeris Contributors",
+      "summary": "This document provides contact information for individuals involved in the production and distribution of an ephemeris. It lists Don Machholz and Paul Barton as contributors, with Bob Madden serving as the editor. Paul Barton and Bob Madden are also responsible for the distribution.",
+      "categories": [
+        "Publication Details",
+        "Contact Information",
+        "Editorial Staff"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Distribution",
+        "Don Machholz",
+        "Paul Barton",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-comet-comments",
+      "documentId": "eph94-11",
+      "title": "Comet Comments",
+      "summary": "Don Machholz's \"Comet Comments\" provides updates on several comets, detailing the recent recovery of one and the ongoing observations of Periodic Comet Machholz 2 (1994o), noting its dimming and a companion's brief brightening. The article also reports on fragments breaking off Periodic Comet Harrington (1994g) and the recovery of Periodic Comet Reimuth 1 (1994p). It concludes with detailed ephemerides for Periodic Comet Borrelly (1994i) and Machholz 2 (1994o), alongside orbital elements for the latter.",
+      "categories": [
+        "observing reports",
+        "cometology",
+        "astronomical data",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "comets",
+        "Periodic Comet Machholz 2",
+        "Periodic Comet Harrington",
+        "Periodic Comet Reimuth 1",
+        "Periodic Comet Borrelly",
+        "ephemerides",
+        "astronomical observation",
+        "orbital elements",
+        "comet fragments",
+        "magnitude",
+        "comet recovery"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-11-san-jose-astronomical-association-membership",
+      "documentId": "eph94-11",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association (SJAA) publishes a monthly newsletter called \"EPHEMERIS\" and actively encourages its members to submit articles for publication. Submissions must be typed, sent to editor Bob Madden by the 17th of the previous month, and are preferred as a text file on a 3-1/2\" diskette, though written submissions are also accepted.",
+      "categories": [
+        "Membership Information",
+        "Publication Guidelines",
+        "Call for Submissions",
+        "Club News"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Membership",
+        "Article submission",
+        "Publication",
+        "Newsletter",
+        "Submission guidelines",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-11-membership-only-12-membership-s-t-32-junior-under-18-20",
+      "documentId": "eph94-11",
+      "title": "Membership only: $12 Membership / S&T: $32 Junior (under 18): $20",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership tiers: $12 for basic, $32 including a Sky & Telescope subscription, and $20 for juniors. It provides fields for personal information and instructions for submitting the form and payment to the SJAA treasurer.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Administrative",
+        "Non-profit Organization"
+      ],
+      "keywords": [
+        "Membership",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Application",
+        "Fees",
+        "Dues",
+        "Sky & Telescope",
+        "Junior Membership",
+        "Renewal",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9411/Eph94_11.pdf",
+      "txtPath": "9411/Eph94_11.md"
+    }
+  ]
+}

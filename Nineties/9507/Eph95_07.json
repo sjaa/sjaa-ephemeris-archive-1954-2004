@@ -1,0 +1,735 @@
+{
+  "articles": [
+    {
+      "id": "eph95-07-sjaa-ephemeris",
+      "documentId": "eph95-07",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association, titled \"SJAA EPHEMERIS.\" It is from July 1995, identified as Volume 6, Number 7, serving as a periodical for the organization.",
+      "categories": [
+        "Newsletter",
+        "Astronomy",
+        "Organization News",
+        "Publication",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "Newsletter",
+        "July 1995",
+        "Astronomy Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-the-eyepiece",
+      "documentId": "eph95-07",
+      "title": "The Eyepiece",
+      "summary": "This article from \"The Eyepiece\" outlines upcoming activities and news for the San Jose Astronomical Association, featuring Don Machholz as the speaker for the July General Meeting on Messier Marathons. Key updates include a Board vote on general liability insurance, which will grant all members Astronomic League membership, and a resurgence in amateur telescope making within the club, including the development of mirror grinding machines and optical test benches. The document concludes with a detailed calendar of star parties, general meetings, and astronomy classes scheduled for July and August.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Membership",
+        "Amateur Telescope Making",
+        "Speaker Series",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Messier Marathons",
+        "Astronomic League",
+        "Telescope Making",
+        "Mirror Grinding",
+        "Ronchi test",
+        "Foucault test",
+        "Star Parties",
+        "General Meetings",
+        "Observational Astronomy Class",
+        "Fremont Peak",
+        "Houge Park",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-07-forty-years-ago-this-month",
+      "documentId": "eph95-07",
+      "title": "Forty Years Ago this month",
+      "summary": "This article, looking back forty years, details a July 18 club meeting led by President Walt Krumm. Key discussions included Bob Cunningham's presentation on the constellation Sagittarius and Walt Krumm's comprehensive discourse on various telescope mountings, offering construction tips. The meeting also featured the presentation of a telescope to Dean Pritchett and concluded with members observing through scopes, alongside an announcement for a September mirror testing 'Show and Tell'.",
+      "categories": [
+        "observing reports",
+        "club history",
+        "meeting summary",
+        "technical discussion",
+        "astronomy education",
+        "club announcements"
+      ],
+      "keywords": [
+        "Walt Krumm",
+        "Bob Cunningham",
+        "Dean Pritchett",
+        "telescope mountings",
+        "Sagittarius",
+        "nebulae",
+        "altazimuth mount",
+        "German mount",
+        "equatorial mount",
+        "Springfield mount",
+        "mirror testing",
+        "Ronchi pattern",
+        "amateur astronomy club",
+        "observing session"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-07-riverside-telescope-maker-s-conference",
+      "documentId": "eph95-07",
+      "title": "Riverside Telescope Maker's Conference",
+      "summary": "The author recounts his first experience at the Riverside Telescope Maker's Conference (RTMC95), highlighting the large attendance, diverse astronomical instruments, engaging presentations, and friendly atmosphere. He notes a strong emphasis on CCD cameras, particularly praising and purchasing a $325 Pixel 211, and details activities like vendor sales, a swap meet, and astrophotography sessions. Despite some minor disappointments, the author found the conference valuable and expressed a strong desire to return.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Equipment Review"
+      ],
+      "keywords": [
+        "RTMC",
+        "Riverside Telescope Maker's Conference",
+        "Telescopes",
+        "CCD Cameras",
+        "Astrophotography",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Astronomical Instruments",
+        "Pixel 211",
+        "Dennis Di Cicco"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-new-pxl-211-us-325",
+      "documentId": "eph95-07",
+      "title": "New PXL-211 US $325",
+      "summary": "This article is a review of the new PXL-211 camera, priced at $325, following a test at RTMC95 and initial personal use. The author, Olivier Thizy, found it easy to set up and capable of producing good astrophotography results with short exposures, despite its small chip. Key drawbacks include poor bundled software, an unfriendly acquisition program, and a limited 10-12 bit depth, but it's noted as a good entry-level option for its price.",
+      "categories": [
+        "product review",
+        "equipment review",
+        "astrophotography",
+        "observing report",
+        "technical"
+      ],
+      "keywords": [
+        "PXL-211 camera",
+        "CCD camera",
+        "astrophotography",
+        "RTMC95",
+        "equipment review",
+        "image processing",
+        "Cookbook 211",
+        "NGC4565",
+        "software limitations",
+        "chip size"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-07-space-telescope-science-institute-newsletter",
+      "documentId": "eph95-07",
+      "title": "Space Telescope Science Institute Newsletter",
+      "summary": "Douglas Snyder sends an informal message to Bob, recounting a personal experience at 'the Peak' and regretting missing the RTMC event. He then states his intention to share excerpts from the Space Telescope Science Institute Newsletter that he receives.",
+      "categories": [
+        "Informal Communication",
+        "Newsletter Introduction",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Space Telescope Science Institute",
+        "Newsletter",
+        "RTMC",
+        "Douglas Snyder",
+        "Astronomy",
+        "Personal Update"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-excerpts-from-the-may-1995-space-telescope-science-institute-newsletter",
+      "documentId": "eph95-07",
+      "title": "Excerpts from the May 1995 Space Telescope Science Institute Newsletter",
+      "summary": "The May 1995 STScI Newsletter announced the Cycle 6 Call For Proposals for the Hubble Space Telescope, setting a September 15, 1995, deadline for electronic submissions for observations commencing July 1, 1996. Proposals could request use of HST instruments like WFPC2, FOC, GHRS, and FGS, with a note encouraging amateur proposals due to their past success and educational value.",
+      "categories": [
+        "News",
+        "Announcements",
+        "Observing Programs",
+        "Space Telescopes"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "HST",
+        "STScI",
+        "Call For Proposals",
+        "Cycle 6",
+        "Space Instruments",
+        "Amateur Astronomy",
+        "Observing",
+        "1995"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-what-causes-a-quasar",
+      "documentId": "eph95-07",
+      "title": "WHAT CAUSES A QUASAR?",
+      "summary": "Research using the WFC2 on luminous quasars revealed a wide variety of environments, from undetectable host galaxies to systems where quasars actively consume nearby matter or interact with close galaxies. Additionally, the STScI Digitized Sky Survey (DSS) is now accessible online and its CD-ROM sets (102-volume and a compressed 16-volume version) have been completed and distributed, offering sky data for various users.",
+      "categories": [
+        "Observational Astronomy",
+        "Astrophysics",
+        "Astronomical Surveys",
+        "Data Resources",
+        "News/Announcement"
+      ],
+      "keywords": [
+        "Quasars",
+        "WFC2",
+        "Host Galaxies",
+        "Galaxy Interaction",
+        "Digitized Sky Survey (DSS)",
+        "STScI",
+        "Palomar Observatory Sky Survey",
+        "Data Access",
+        "CD-ROMs"
+      ],
+      "pageStart": 52,
+      "pageEnd": 953
+    },
+    {
+      "id": "eph95-07-humility-and-illumination-the-virgo-cluster",
+      "documentId": "eph95-07",
+      "title": "Humility and Illumination... the Virgo Cluster",
+      "summary": "On May 28, Mark Wagner, Dean Linebacker, and Alan Nelms undertook a deep-sky observing session at Fremont Peak, utilizing a 30-inch Challenger telescope to explore the Virgo Cluster portion of the Herschel 400 list. While initial, isolated galaxies were easily located, navigating the dense core of the Virgo Cluster proved significantly challenging, leading to difficulties in target identification despite clear skies and powerful optics.",
+      "categories": [
+        "Observing Report",
+        "Deep-Sky Astronomy",
+        "Telescope Use"
+      ],
+      "keywords": [
+        "Virgo Cluster",
+        "Herschel 400",
+        "Fremont Peak",
+        "30-inch telescope",
+        "Deep-sky observing",
+        "Galaxies",
+        "Star-hopping",
+        "NGC4030",
+        "NGC4179",
+        "The Sky software"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-07-springtime-fishing",
+      "documentId": "eph95-07",
+      "title": "Springtime Fishing",
+      "summary": "This article explains the astronomical significance of the Vernal Equinox, occurring annually on March 20th, detailing its role as a celestial 'New Year' and the zero point for Right Ascension. It elucidates complex phenomena like the Earth's axial tilt, precession of the equinoxes—shifting the equinox point through constellations like Pisces—and its impact on the North Star. The piece also clarifies how atmospheric refraction influences perceived day length and how Earth's orbit dictates the rapid increase in daylight after spring.",
+      "categories": [
+        "Astronomy",
+        "Celestial Mechanics",
+        "Observational Astronomy",
+        "Educational",
+        "Annual Astronomical Events"
+      ],
+      "keywords": [
+        "Vernal Equinox",
+        "Spring Equinox",
+        "Right Ascension",
+        "RA",
+        "Declination",
+        "Ecliptic",
+        "Precession",
+        "North Star",
+        "Polaris",
+        "Vega",
+        "Pisces",
+        "Aries",
+        "Aquarius",
+        "Summer Solstice",
+        "Winter Solstice",
+        "Atmospheric Refraction",
+        "Earth's Orbit",
+        "Celestial Coordinates",
+        "M74 Galaxy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-ronchi-screens",
+      "documentId": "eph95-07",
+      "title": "Ronchi Screens",
+      "summary": "This article by Bob Madden introduces Ronchi screens, originally described by Vasco Ronchi in 1925, as an easier alternative to the Foucault test for telescope mirror testing. It explains their construction as equally spaced opaque and transparent lines and provides instructions on how to set them up in place of a Foucault tester's knife edge. The piece guides the user on positioning the screen to observe vertical lines and recommends further reading for pattern interpretation.",
+      "categories": [
+        "Technical",
+        "Telescope Making",
+        "How-to Guide"
+      ],
+      "keywords": [
+        "Ronchi screens",
+        "Telescope mirror testing",
+        "Foucault test",
+        "Optical testing",
+        "Amateur telescope making",
+        "Radius of curvature",
+        "Vasco Ronchi"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-07-the-light-hearted",
+      "documentId": "eph95-07",
+      "title": "The Light Hearted",
+      "summary": "Daniel Taylor, in 'The Light Hearted,' recounts his shift from an equipment-focused approach to amateur astronomy towards a simpler, more personal visual observing experience, urging others to appreciate the universe's beauty directly. Separately, Bob Madden announces a 40th-anniversary celebration for the SJAA, seeking early members and organizers for an event planned for October.",
+      "categories": [
+        "Observational Astronomy",
+        "Personal Reflection",
+        "Amateur Astronomy Club News",
+        "Events"
+      ],
+      "keywords": [
+        "Amateur Astronomy",
+        "Visual Observing",
+        "Telescope Equipment",
+        "Night Sky",
+        "SJAA",
+        "Anniversary",
+        "Event Planning",
+        "Personal Experience"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-humility-continued-from-page-3",
+      "documentId": "eph95-07",
+      "title": "Humility (continued from page 3)",
+      "summary": "This article describes a challenging deep-sky observing session, primarily focusing on attempting to view numerous faint galaxies in Virgo from Herschel's list, leading to a sense of 'humility' due to the difficulty. Despite the arduous task, the observers managed to view several notable galaxies and concluded the night by observing various well-known deep-sky objects. The session culminated in a spectacular sighting of an unusually bright, shadow-casting blue-green meteor.",
+      "categories": [
+        "observing report",
+        "deep-sky astronomy",
+        "meteor sighting",
+        "astronomical challenges"
+      ],
+      "keywords": [
+        "Virgo constellation",
+        "galaxies",
+        "Herschel's list",
+        "deep-sky observing",
+        "NGC4216",
+        "Messier objects",
+        "meteor",
+        "eyepiece view",
+        "telescope",
+        "star-hopping"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-07-camera-continued-from-page-2",
+      "documentId": "eph95-07",
+      "title": "Camera (continued from page 2)",
+      "summary": "This article provides a personal review of an entry-level camera, likely a CCD camera, highlighting its strengths and weaknesses. The author praises its affordability and suitability for learning astrophotography techniques despite limitations like inadequate cooling and the lack of a shutter, which makes short exposures difficult. He expresses overall satisfaction and considers an upgrade to a TC255 model.",
+      "categories": [
+        "equipment review",
+        "technical analysis",
+        "astrophotography",
+        "user experience"
+      ],
+      "keywords": [
+        "camera",
+        "CCD",
+        "TC255",
+        "TC211",
+        "cooling",
+        "shutter",
+        "exposure",
+        "budget",
+        "entry-level",
+        "astrophotography techniques",
+        "image processing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-07-yosemite-star-party",
+      "documentId": "eph95-07",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The article announces a Yosemite Star Party scheduled for July 28-29, with specific rules regarding observing area, camping, and a participant limit of 25 people. Reservations are being handled by Jim Van Nuland. Additionally, it provides the San Jose Astronomical Association's (SJAA) calendar for July to September 1995, detailing dates for general meetings, house park star parties, and observational astronomy classes.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Calendar",
+        "Star Party",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "July 28-29",
+        "Glacier Point",
+        "Bridalveil Campground",
+        "Reservations",
+        "SJAA Calendar",
+        "1995",
+        "General Meeting",
+        "House Park Star Party",
+        "Observational Astronomy Class",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-07-telescope-loaner-status",
+      "documentId": "eph95-07",
+      "title": "Telescope Loaner Status",
+      "summary": "This article, titled \"Telescope Loaner Status\" by Paul Barton, provides a current list of telescopes available for loan. It details various telescopes, their current borrowers, and due dates, noting several instruments are presently available for use. The document also includes instructions for members to borrow a telescope by contacting Paul Barton and highlights a specialized solar telescope reserved for experienced members for specific events.",
+      "categories": [
+        "Equipment Loan Program",
+        "Membership Services",
+        "Astronomy Club Management",
+        "Availability Report"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Telescope availability",
+        "Astronomy equipment",
+        "Dobson",
+        "Newtonian",
+        "Refractor",
+        "Celestron",
+        "Solar telescope",
+        "Due dates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-astro-ads",
+      "documentId": "eph95-07",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS is a free classifieds service for noncommercial advertisers to sell astronomically related products or services. Ads are submitted monthly to the Editor and run for approximately three months. The current listings include various used astronomical equipment such as a Meade DS-16A Equatorial Mount, Televue Plossl Eyepieces, a Meade 8-inch SC telescope, and an 8-inch Newtonian telescope.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomy equipment sales",
+        "community bulletin"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "astronomy products",
+        "used equipment",
+        "Meade DS-16A",
+        "Equatorial Mount",
+        "Mathis drive",
+        "Televue Plossl Eyepieces",
+        "Barlow lens",
+        "Meade 8-inch SC",
+        "Newtonian telescope",
+        "RA drive",
+        "telescopes",
+        "accessories"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-07-lunar-phase-date-rise-trans-set",
+      "documentId": "eph95-07",
+      "title": "Lunar Phase Date Rise Trans Set",
+      "summary": "This document provides a tabular listing of key lunar phases, including First Quarter, Full Moon, Last Quarter, and New Moon. For each phase, it specifies the date and time, along with the corresponding rise, transit, and set times of the Moon.",
+      "categories": [
+        "Astronomical Data",
+        "Celestial Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-nearer-planets",
+      "documentId": "eph95-07",
+      "title": "Nearer Planets",
+      "summary": "This document provides an astronomical guide for observing the 'Nearer Planets' (Mercury, Venus, Mars, Jupiter, and Saturn). For each planet, it lists its average distance in Astronomical Units (AU), its apparent magnitude, and a set of three times (likely rise, transit, and set) for three specific dates (7th, 17th, and 27th) within an unspecified month.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Planetary Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Astronomical Unit",
+        "Magnitude",
+        "Observing",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-sol-star-type-g2v",
+      "documentId": "eph95-07",
+      "title": "SOL Star Type G2V",
+      "summary": "This document, titled 'SOL Star Type G2V', presents a table of astronomical data. It includes celestial coordinates (Right Ascension and Declination) along with corresponding dates and the calculated rise, transit, and set times, likely pertaining to the Sun or a similar G2V star.",
+      "categories": [
+        "Astronomy",
+        "Stellar Data",
+        "Celestial Mechanics",
+        "Reference Data"
+      ],
+      "keywords": [
+        "SOL",
+        "G2V",
+        "Star Type",
+        "Right Ascension",
+        "Declination",
+        "Rise Time",
+        "Transit Time",
+        "Set Time",
+        "Sun",
+        "Stellar Classification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-astronomical-twilight",
+      "documentId": "eph95-07",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a table detailing the start and end times for astronomical twilight on specific dates, identified by Julian Date and the day of the month. This information is crucial for astronomers and sky observers to determine periods of optimal darkness for their observations and planning.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Planning",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "Observing conditions",
+        "Dark sky",
+        "Timing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-sidereal-time",
+      "documentId": "eph95-07",
+      "title": "Sidereal Time",
+      "summary": "This document presents a table illustrating sidereal time values on various dates at midnight. It shows the calculated sidereal time for specific dates (7th, 17th, 27th) at 00:00, indicating a progression of sidereal time.",
+      "categories": [
+        "Astronomy",
+        "Timekeeping",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Astronomical Time",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-darkest-saturday-night-22-jul-1995",
+      "documentId": "eph95-07",
+      "title": "Darkest Saturday Night 22-JUL-1995",
+      "summary": "This document outlines the astronomical times for the night of July 22, 1995, providing details on sunset, the end of astronomical twilight, moonrise, and the beginning of dawn. It highlights the periods of darkness available for potential astronomical observation on what was termed the \"Darkest Saturday Night.\"",
+      "categories": [
+        "Observing Conditions",
+        "Astronomical Data",
+        "Ephemeral"
+      ],
+      "keywords": [
+        "Darkness",
+        "Astronomical twilight",
+        "Sunset",
+        "Moonrise",
+        "Dawn",
+        "Night sky",
+        "Observing",
+        "1995",
+        "July"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-officers-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph95-07",
+      "title": "Officers and Board of Directors | Ephemeris Contributors",
+      "summary": "This document lists the officers and board of directors for an organization, detailing their positions such as President, Vice President, Treasurer, Secretary, and Directors, along with their contact phone numbers. It also identifies the contributors to 'Ephemeris' and specifies Bob Madden as the editor, providing contact information for most individuals.",
+      "categories": [
+        "Organizational Directory",
+        "Governance",
+        "Publication Information",
+        "Contact List"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Editor",
+        "Leadership",
+        "Organizational Structure",
+        "Contact Information",
+        "Roles",
+        "Administration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-comet-comments",
+      "documentId": "eph95-07",
+      "title": "COMET COMMENTS",
+      "summary": "This article discusses the current state of comet activity, noting that only one comet has been discovered so far this year, a slow pace compared to previous years. It highlights Periodic Comet d'Arrest's approach and brightening, while also exploring reasons for the low discovery rate, including a potential lack of easily discoverable comets, poor weather impacting amateur searches, and inconsistent professional survey programs. The author, Don Machholz, shares his own observing hours and touches on historical discovery trends.",
+      "categories": [
+        "Comet Observations",
+        "Astronomy News",
+        "Observing Reports",
+        "Comet Discoveries",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet d'Arrest",
+        "Comet discovery",
+        "Comet hunting",
+        "Amateur astronomy",
+        "Professional observatories",
+        "Perihelion",
+        "Don Machholz",
+        "Astronomy trends",
+        "Visual finds",
+        "Photographic finds"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-ephemerides-orbital-elements",
+      "documentId": "eph95-07",
+      "title": "EPHEMERIDES | ORBITAL ELEMENTS",
+      "summary": "This document provides an ephemeris for Comet 6P/d'Arrest, listing its celestial coordinates (Right Ascension and Declination), elongation from the Sun, and estimated visual magnitude (M) for various dates from late June to early August. The data is presented in a table format, aiding observers in locating and tracking the comet.",
+      "categories": [
+        "Ephemerides",
+        "Astronomical Data",
+        "Comet Data",
+        "Observation Planning"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Orbital Elements",
+        "6P/d'Arrest",
+        "Comet",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomy",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-07-object-6p-d-arrest",
+      "documentId": "eph95-07",
+      "title": "Object 6P/d'ARREST",
+      "summary": "This document presents the detailed orbital elements for comet 6P/d'Arrest, including its perihelion date (July 27, 1995), perihelion distance, argument of perihelion, ascending node, inclination, eccentricity, and an orbital period of 6.51 years. The data is attributed to MPC 20122, with Don Machholz listed as a contact, and appears within the \"EPHEMERIS\" publication of the San Jose Astronomical Association.",
+      "categories": [
+        "Astronomical Data",
+        "Cometology",
+        "Orbital Mechanics",
+        "Publication Information"
+      ],
+      "keywords": [
+        "6P/d'Arrest",
+        "Comet",
+        "Orbital Elements",
+        "Perihelion",
+        "Orbital Period",
+        "Eccentricity",
+        "MPC 20122",
+        "EPHEMERIS",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-07-san-jose-astronomical-association-membership",
+      "documentId": "eph95-07",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership tiers including 'Membership only', 'Membership/S&T', and 'Junior (under 18)' with associated costs. It provides instructions for submitting the form and payment, along with contact information for the treasurer and the SJAA hotline. The form also includes sections to indicate if it's a new membership or a renewal.",
+      "categories": [
+        "Membership Application",
+        "Organizational Information",
+        "Forms",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Dues",
+        "Renewal",
+        "Application Form",
+        "Astronomy Club",
+        "California",
+        "Hotline",
+        "Treasurer"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9507/Eph95_07.pdf",
+      "txtPath": "9507/Eph95_07.md"
+    }
+  ]
+}

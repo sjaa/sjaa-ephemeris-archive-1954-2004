@@ -1,0 +1,645 @@
+{
+  "articles": [
+    {
+      "id": "eph90-01-ephemeris",
+      "documentId": "eph90-01",
+      "title": "EPHEMERIS",
+      "summary": "This document is the January 1990 issue, Volume 2 No. 1, of \"EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It represents a historical newsletter or journal providing information to the club's members for that specific month.",
+      "categories": [
+        "Club Publication",
+        "Astronomy",
+        "Newsletter",
+        "Historical Documents"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "January 1990",
+        "Astronomy Club",
+        "Publication",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-sjaa-events-this-month",
+      "documentId": "eph90-01",
+      "title": "SJAA EVENTS THIS MONTH",
+      "summary": "The SJAA has several events scheduled for January, including a General Meeting on January 6th featuring Kevin Medlock discussing the Large Amateur Telescope project and CCD camera. A Board Meeting will take place on January 13th, where members can suggest candidates for new board elections in February. Additionally, two star parties are planned for January 20th at Grant Ranch and January 27th at Fremont Peak State Park.",
+      "categories": [
+        "events",
+        "meeting announcement",
+        "observing reports",
+        "organizational news"
+      ],
+      "keywords": [
+        "SJAA",
+        "events",
+        "General Meeting",
+        "Board Meeting",
+        "star party",
+        "Kevin Medlock",
+        "Large Amateur Telescope",
+        "CCD camera",
+        "Group 70",
+        "Grant Ranch",
+        "Fremont Peak State Park",
+        "nominating committee"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph90-01-astronomy-class-begins-january-13th",
+      "documentId": "eph90-01",
+      "title": "ASTRONOMY CLASS BEGINS JANUARY 13TH",
+      "summary": "The San Jose Astronomical Association (SJAA) is launching its Introductory Observational Astronomy class on January 13th, 1990, with Wolfgang Hanish taking over as the new teacher. The class aims to guide attendees through seasonal constellations and topics like astrophotography and telescope use, encouraging new members and those interested in amateur astronomy to attend. Jack Zeiders, the class's originator, is taking a sabbatical after three years of dedicated service.",
+      "categories": [
+        "Education",
+        "Events",
+        "Club News",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Astronomy class",
+        "SJAA",
+        "Observational astronomy",
+        "Wolfgang Hanish",
+        "Jack Zeiders",
+        "Constellations",
+        "Astrophotography",
+        "Telescopes",
+        "Amateur astronomy",
+        "1990"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-branham-lane-star-parties",
+      "documentId": "eph90-01",
+      "title": "BRANHAM LANE STAR PARTIES",
+      "summary": "The SJAA is organizing a series of public star parties on various Fridays throughout the year, from January to December. Participants are encouraged to bring their telescopes and invite friends, with contact details for further information available within the issue.",
+      "categories": [
+        "Events",
+        "News",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Star Parties",
+        "SJAA",
+        "Public Events",
+        "Astronomy",
+        "Telescopes",
+        "Observing Dates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-electronics-oriented-astronomy-seminar",
+      "documentId": "eph90-01",
+      "title": "ELECTRONICS ORIENTED ASTRONOMY SEMINAR",
+      "summary": "The third Electronics Oriented Astronomy Seminar is scheduled for March 17, 1990, at Chapman College, Orange, California. This announcement includes a call for papers with a February 15th deadline, stressing that the seminar's occurrence hinges on sufficient program contributions. Topics like CCD camera experiments and early astro-video work with CID devices are mentioned.",
+      "categories": [
+        "Events",
+        "Seminar Announcement",
+        "Call for Papers",
+        "Technical",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Electronics Oriented Astronomy Seminar",
+        "Call for Papers",
+        "CCD camera",
+        "Astro-video",
+        "CID device",
+        "Chapman College",
+        "March 1990"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-late-breaking-news",
+      "documentId": "eph90-01",
+      "title": "LATE BREAKING NEWS",
+      "summary": "Club members Jack Peterson (Treasurer) and Maria Sye were married on December 9th. The article extends well wishes to the newlyweds.",
+      "categories": [
+        "News",
+        "Club News",
+        "Personal News",
+        "Community"
+      ],
+      "keywords": [
+        "Marriage",
+        "Wedding",
+        "Club Members",
+        "Jack Peterson",
+        "Maria Sye",
+        "Treasurer",
+        "Personal Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-the-eighties-looking-back",
+      "documentId": "eph90-01",
+      "title": "THE EIGHTIES - LOOKING BACK",
+      "summary": "This article, \"The Eighties - Looking Back,\" reviews the transformative decade of 1980-1989 in amateur astronomy, highlighting major advancements in equipment like fluorite refractors, Dobsonian telescopes, and the advent of personal computers and CCD cameras for imaging. It also recounts significant astronomical events such as Halley's Comet and the Mars opposition, alongside the growth of the SJAA including the Fremont Peak observatory and plans for a 72-inch amateur telescope. The piece concludes by listing upcoming general meetings and star parties for the San Jose Astronomical Association in January and February.",
+      "categories": [
+        "Amateur Astronomy",
+        "Historical Retrospective",
+        "Equipment & Technology Review",
+        "Observing Events",
+        "Club Activities"
+      ],
+      "keywords": [
+        "1980s",
+        "amateur astronomy",
+        "telescopes",
+        "astrophotography",
+        "optical equipment",
+        "fluorite refractors",
+        "Dobsonian telescopes",
+        "digital setting circles",
+        "CCD cameras",
+        "personal computers",
+        "Halley's Comet",
+        "Mars opposition",
+        "Fremont Peak Observatory",
+        "SJAA",
+        "star parties",
+        "telescope making",
+        "Sky Atlas 2000",
+        "Uranometria 2000"
+      ],
+      "pageStart": 2,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph90-01-double-triple-and-multiple-stars",
+      "documentId": "eph90-01",
+      "title": "DOUBLE, TRIPLE AND MULTIPLE STARS",
+      "summary": "The author recounts a Thanksgiving observing session focused on the Pleiades cluster, which brought back memories of a college project to measure its distance. The article then describes the Pleiades as a multiple star system, an open cluster of 500-1000 stars, and highlights several specific double and multiple stars within it, such as Alcyone, Taygeta, Atlas, and Pelione, that are worth observing.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Guide",
+        "Star Systems",
+        "Education/History"
+      ],
+      "keywords": [
+        "Double stars",
+        "Triple stars",
+        "Multiple stars",
+        "Pleiades",
+        "Open cluster",
+        "Alcyone",
+        "Taygeta",
+        "Atlas",
+        "Pelione",
+        "Observing",
+        "Star gazing",
+        "Tauri"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-01-introducing-amateur-astronomy",
+      "documentId": "eph90-01",
+      "title": "INTRODUCING AMATEUR ASTRONOMY!",
+      "summary": "The article highlights the past year of the SJAA's introductory astronomy class, featuring expert-led sessions on diverse topics like binocular use, astrophotography, and observing techniques, alongside hands-on experiences with telescopes. It also includes an invitation to a future class. Furthermore, the document provides detailed observing challenges and tips for resolving several difficult double and multiple star systems within the Pleiades Cluster using various telescope sizes.",
+      "categories": [
+        "Amateur Astronomy",
+        "Astronomy Education",
+        "Club Activities",
+        "Observing Guide",
+        "Star Observing"
+      ],
+      "keywords": [
+        "Amateur Astronomy",
+        "Astronomy Class",
+        "Telescopes",
+        "Binoculars",
+        "Astrophotography",
+        "Double Stars",
+        "Multiple Stars",
+        "Pleiades Cluster",
+        "Observing Techniques",
+        "Fremont Peak Observatory",
+        "Grazing Occultations"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-01-astro-tips",
+      "documentId": "eph90-01",
+      "title": "ASTRO-TIPS",
+      "summary": "The article describes a clever tip for astronomers: using a Telrad finder in conjunction with binoculars to easily locate celestial objects. The author, Paul M. Summers, discovered that because the Telrad projects its reticle at infinity, it can be seen through binoculars, allowing for quick and accurate centering of objects like the M8 Lagoon Nebula. The main challenge is initially locating the reticle, which is overcome by practice and adjusting brightness.",
+      "categories": [
+        "observing tips",
+        "astronomy techniques",
+        "equipment usage"
+      ],
+      "keywords": [
+        "Telrad finder",
+        "binoculars",
+        "M8 Lagoon Nebula",
+        "astronomy tips",
+        "observing",
+        "star parties",
+        "equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-the-celestial-tourist-speaks",
+      "documentId": "eph90-01",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "The author recounts his experience with a recently acquired 90mm fluorite refractor (Celestron SP-90F) at a public star party. He highlights its superior optical performance and portability, particularly noting how it outperformed larger telescopes under challenging seeing conditions and light pollution. While praising the refractor's exquisite views and utility as a highly portable instrument, he offers a balanced perspective, acknowledging that its cost-to-aperture ratio makes it more suitable as a secondary telescope rather than a sole primary instrument.",
+      "categories": [
+        "Observing Report",
+        "Equipment Review",
+        "Amateur Astronomy",
+        "Telescope Comparison"
+      ],
+      "keywords": [
+        "90mm fluorite refractor",
+        "Celestron SP-90F",
+        "star party",
+        "observing conditions",
+        "chromatic aberration",
+        "spherical aberration",
+        "Saturn",
+        "Gamma Andromedae",
+        "Stefan's Quintet",
+        "small refractors",
+        "telescope value",
+        "aperture",
+        "Fremont Peak Observatory Association"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-01-great-red-spot",
+      "documentId": "eph90-01",
+      "title": "GREAT RED SPOT",
+      "summary": "Jim van Nuland reports on recent observations of Jupiter, noting the Great Red Spot (GRS) is exceptionally colorful and easier to spot, despite a reversal in its latitudinal motion requiring earlier observation times. He also highlights a prominent dark lump in the North Equatorial Belt and the possible return of the South Equatorial Belt. The article offers practical observing tips, including recommended magnification and timing, and encourages readers to share their observations.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Observing Tips"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "North Equatorial Belt",
+        "South Equatorial Belt",
+        "Observing",
+        "Telescope",
+        "Filters",
+        "Seeing conditions",
+        "Planetary features"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-comet-comments",
+      "documentId": "eph90-01",
+      "title": "COMET COMMENTS",
+      "summary": "The \"Comet Comments\" article provides updates on several comets, detailing the discovery of Comet Aarseth-Brewington by Knut Aarseth and Howard Brewington, including their observing methods and the comet's prospects for observation before perihelion. It also reports on the recovery of Periodic Comet Sanguin and Periodic Comet Tuttle-Giacobini-Kresak, noting their orbital characteristics and predicted magnitudes.",
+      "categories": [
+        "Comet Observations",
+        "Astronomical Discoveries",
+        "Comet Recoveries",
+        "Amateur Astronomy",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Comet Recovery",
+        "Periodic Comets",
+        "Magnitude",
+        "Perihelion",
+        "Orbital Period",
+        "Observation Prospects",
+        "Amateur Astronomers",
+        "Comet Aarseth-Brewington",
+        "Comet Sanguin",
+        "Comet Tuttle-Giacobini-Kresak",
+        "Astronomical Instruments"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-seeking-comets",
+      "documentId": "eph90-01",
+      "title": "SEEKING COMETS",
+      "summary": "This article analyzes the apparent motion of comets against background stars, providing crucial data for both visual and photographic comet hunters. It reports that amateur-discovered morning comets averaged 3.3 arc minutes per hour, while evening comets averaged 2.1 arc minutes per hour from 1975-1989. The analysis suggests that visual motion detection is possible in under an hour, while photographic detection requires specific focal lengths and exposure times to show streaking.",
+      "categories": [
+        "Comet hunting",
+        "Observing techniques",
+        "Astronomical data",
+        "Amateur astronomy",
+        "Analysis"
+      ],
+      "keywords": [
+        "Comets",
+        "Apparent motion",
+        "Visual observation",
+        "Photographic observation",
+        "Comet hunters",
+        "Arc minutes per hour",
+        "Focal length",
+        "Exposure",
+        "Comet Austin"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-visually-observing-the-horsehead",
+      "documentId": "eph90-01",
+      "title": "VISUALLY OBSERVING THE HORSEHEAD",
+      "summary": "Stephen R. Waldee recounts his persistent and ultimately successful quest to visually observe the elusive Horsehead Nebula (Barnard 33). Initially failing with large instruments due to light pollution and inexperience, he eventually discerned the nebula under darker skies, employing various telescopes, H-Beta and UltraBlock filters, and focused observing techniques. His experience highlights the challenge of this observation and the satisfaction derived from dedicated deep-sky viewing.",
+      "categories": [
+        "Observing Reports",
+        "Visual Astronomy",
+        "Deep-Sky Observing",
+        "Amateur Astronomy Techniques",
+        "Equipment Usage"
+      ],
+      "keywords": [
+        "Horsehead Nebula",
+        "Barnard 33",
+        "Visual observation",
+        "Deep-sky objects",
+        "Nebula filters",
+        "H-Beta filter",
+        "UltraBlock filter",
+        "Telescopes",
+        "Light pollution",
+        "Observing techniques",
+        "Orion constellation",
+        "Amateur astronomy",
+        "Dark nebula"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-01-officers-and-board-of-directors",
+      "documentId": "eph90-01",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document lists the current officers and board of directors, including their respective titles such as President, Vice President, Treasurer, Secretary, and Editor. Each individual's name is provided along with a contact phone number, detailing the leadership structure of the organization.",
+      "categories": [
+        "Administration",
+        "Organizational Structure",
+        "Directory",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Organization",
+        "Contact Information",
+        "Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-comet-ephemeris",
+      "documentId": "eph90-01",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides detailed ephemeris data for two comets, Helin-Roman-Alu (1989v) and Aarseth-Brewington (1989al). It lists their celestial coordinates (RA and DEC for both 1950 and 2000 epochs), elongation from the Sun, sky visibility, and predicted magnitude across various dates from December to February. This information is crucial for observers tracking these celestial objects.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observing Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet",
+        "Ephemeris",
+        "Helin-Roman-Alu",
+        "Aarseth-Brewington",
+        "1989v",
+        "1989al",
+        "RA",
+        "DEC",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Celestial Coordinates",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-jupiter-s-red-spot",
+      "documentId": "eph90-01",
+      "title": "JUPITER'S RED SPOT",
+      "summary": "This document provides a detailed schedule for observing Jupiter's Great Red Spot (GRS) as it transits the central meridian. The times, presented in Pacific Standard Time (PST), cover observation opportunities from late December to early February. This resource is designed to assist astronomers and sky-watchers in planning their observations of the prominent Jovian feature.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Astronomical Events",
+        "Schedules"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Meridian Transit",
+        "Observation",
+        "PST",
+        "Schedule",
+        "Planetary Observation"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph90-01-astro-ads",
+      "documentId": "eph90-01",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled 'ASTRO ADS', serves as a free classifieds section for non-commercial advertisers selling astronomically related products and services. It lists various used telescopes, such as Meade and Celestron models, along with accessories like eyepieces, filters, mounts, and even a collection of Sky & Telescope magazines. Each ad includes a description of the item, asking price, and contact information for potential buyers.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Marketplace",
+        "Used Gear"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Telescopes",
+        "Meade",
+        "Celestron",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Eyepieces",
+        "Filters",
+        "Lumicon",
+        "Telrad",
+        "Barlow",
+        "Equatorial Mount",
+        "Motor Drive",
+        "Sky & Telescope",
+        "Astronomy Accessories",
+        "For Sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-space-program-update",
+      "documentId": "eph90-01",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This space program update details several ongoing missions and upcoming events from late 1989. It covers the successful completion of a Space Shuttle Discovery mission, the upcoming Columbia launch, and the deployment of the COBE satellite to study cosmic background radiation. Additionally, it provides an update on the Galileo Jupiter spacecraft's first course correction and fuel status, mentions Geosat's measurement of Earth's geoid, and reports a delay in the first Pegasus air-launched booster flight test.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Mission Updates",
+        "Astronomy",
+        "Aerospace"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Discovery",
+        "Columbia",
+        "COSMIC BACKGROUND EXPLORER",
+        "COBE",
+        "Big Bang",
+        "Galileo",
+        "Jupiter",
+        "Venus",
+        "Ida asteroid",
+        "GEOSAT",
+        "Earth's Geoid",
+        "Pegasus",
+        "NASA",
+        "Department of Defense"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-expectations-for-hipparcos-satellite-increased",
+      "documentId": "eph90-01",
+      "title": "EXPECTATIONS FOR HIPPARCOS SATELLITE INCREASED",
+      "summary": "Expectations for the European Hipparcos satellite have increased despite its initial elliptical orbit due to a motor failure. Successful perigee raising, increased ground station tracking, and sufficient power during eclipses suggest it will now last longer and complete more of its mission. The article also includes news on the Soviet space program, noting the Kvant-2 module docking with Mir and the launch of the Granat astronomy satellite.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Satellite Operations",
+        "Astronomy",
+        "Technical Updates"
+      ],
+      "keywords": [
+        "Hipparcos",
+        "Satellite",
+        "Orbit Adjustment",
+        "Space Program",
+        "Ground Tracking",
+        "Power Management",
+        "Mir Station",
+        "Granat Satellite",
+        "Astrophysics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-more-from-the-cosmic-mind-boggling-book",
+      "documentId": "eph90-01",
+      "title": "MORE FROM THE COSMIC MIND BOGGLING BOOK",
+      "summary": "This article presents fascinating facts about various extreme celestial objects. It highlights the incredible density of Sirius B, a white dwarf nearly as massive as the Sun, and theorizes that some white dwarfs may be Earth-sized diamonds. The piece also describes the immense density of neutron stars, where a pinhead of material would weigh a million tons.",
+      "categories": [
+        "Astronomy Facts",
+        "Educational",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Sirius B",
+        "white dwarf",
+        "neutron star",
+        "pulsar",
+        "density",
+        "diamonds",
+        "supernova",
+        "stars"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph90-01-ephemeris",
+      "documentId": "eph90-01",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is the monthly publication of the San Jose Astronomical Association, providing essential contact information for both the association and its editor. Members are invited to contribute articles, with a submission deadline of the 12th of the preceding month.",
+      "categories": [
+        "Association News",
+        "Publication Information",
+        "Submission Guidelines"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Monthly Publication",
+        "Article Submission",
+        "Editor Contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-01-membership-only-10-membership-s-t-26-junior-under-18-18",
+      "documentId": "eph90-01",
+      "title": "MEMBERSHIP ONLY: $10    MEMBERSHIP/S&T: $26    JUNIOR (UNDER 18): $18",
+      "summary": "This document outlines the membership options and fees for the San Jose Astronomical Association (SJAA), including different tiers for membership only, membership with Sky & Telescope magazine, and junior members. It provides a form for new or renewal applications, including payment instructions and mailing address for the treasurer.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Forms/Applications",
+        "Financial"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Dues",
+        "Application",
+        "Renewal",
+        "Junior Membership",
+        "San Jose Astronomical Association",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9001/Eph90_01.pdf",
+      "txtPath": "9001/Eph90_01.md"
+    }
+  ]
+}

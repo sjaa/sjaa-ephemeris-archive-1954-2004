@@ -1,0 +1,729 @@
+{
+  "articles": [
+    {
+      "id": "eph95-05-sjaa-ephemeris",
+      "documentId": "eph95-05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association, titled \"SJAA Ephemeris.\" It is Volume 6, Number 4, and was published in May 1995.",
+      "categories": [
+        "Publication",
+        "Astronomy Organization News",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "May 1995",
+        "Astronomy",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-the-eyepiece",
+      "documentId": "eph95-05",
+      "title": "The Eyepiece",
+      "summary": "This article from \"The Eyepiece\" column by Bob Madden provides updates on an astronomical association's activities, including a successful Swap and Auction and recent observing reports from Fremont Peak. It encourages members to contribute articles on \"My favorite Objects\" and Messier Marathon experiences. The column also lists a comprehensive calendar of upcoming events from May through August, featuring star parties, general meetings, observational astronomy classes, and trips to Mount Lassen and Yosemite.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Observing Reports",
+        "Call for Participation"
+      ],
+      "keywords": [
+        "Swap and Auction",
+        "Fremont Peak",
+        "Messier Marathon",
+        "My favorite Objects",
+        "Observational Astronomy Class",
+        "Star Parties",
+        "General Meetings",
+        "Mount Lassen Trip",
+        "Yosemite Star Party",
+        "Astronomy Day",
+        "RTMC",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-05-forty-years-ago-this-month",
+      "documentId": "eph95-05",
+      "title": "Forty Years Ago this month",
+      "summary": "This article, looking back forty years, details a significant meeting where the San Jose Amateur Astronomers club was officially formed. The meeting also featured discussions on objects for amateur observation, the constellation Bootes, and optical components like lenses and eyepieces, highlighting the burgeoning interest and educational efforts within the nascent astronomy group.",
+      "categories": [
+        "Club History",
+        "Observing Reports",
+        "News",
+        "Technical Discussion",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "Club Formation",
+        "Amateur Observation",
+        "Planets",
+        "Double Stars",
+        "Nebulae",
+        "Galactic Clusters",
+        "Bootes",
+        "Arcturus",
+        "Lenses",
+        "Eyepieces",
+        "Optical Relationships",
+        "By-Laws",
+        "Robert Cunningham",
+        "John Delaney",
+        "Mr. Lindsay",
+        "December 1954",
+        "May 1955"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-05-blue-moon",
+      "documentId": "eph95-05",
+      "title": "Blue Moon",
+      "summary": "This article explores the definition of a \"Blue Moon,\" stemming from an internet discussion. It highlights two main interpretations: the popular modern definition as the second full moon in a calendar month, and an older, more literal definition where the Moon physically appears blue due to atmospheric scattering from events like volcanic eruptions. The discussion also delves into the complexities of defining the \"second full moon\" when considering different time zones, illustrating how a Blue Moon's occurrence can vary by location and suggesting that the term itself lacks strict astronomical significance.",
+      "categories": [
+        "Astronomy Terminology",
+        "Time Zones",
+        "Public Debate",
+        "Astronomical Phenomena",
+        "Cultural Astronomy"
+      ],
+      "keywords": [
+        "Blue Moon",
+        "Full Moon",
+        "Calendar month",
+        "Time zones",
+        "UT",
+        "Local time",
+        "Atmospheric scattering",
+        "Volcanic dust",
+        "Definition",
+        "Patrick Moore"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-may-speaker-ken-croswell",
+      "documentId": "eph95-05",
+      "title": "May Speaker: Ken Croswell",
+      "summary": "Ken Croswell, author of the new book \"The Alchemy of the Heavens\" about the Milky Way Galaxy, is announced as the May speaker. He will be giving talks to various astronomy groups in the San Francisco Bay Area throughout April and May to promote his book. The article provides a schedule of his speaking engagements at several astronomical societies.",
+      "categories": [
+        "Events",
+        "Speaker Announcement",
+        "Book Promotion",
+        "Astronomy News",
+        "Community Event"
+      ],
+      "keywords": [
+        "Ken Croswell",
+        "The Alchemy of the Heavens",
+        "Milky Way Galaxy",
+        "Astronomy Speaker",
+        "Book Tour",
+        "San Francisco Bay Area",
+        "Astronomical Societies",
+        "Lectures"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-05-croswell-continued-from-page-2",
+      "documentId": "eph95-05",
+      "title": "Croswell (continued from page 2)",
+      "summary": "This article highlights Ken Croswell's book, which masterfully explains complex concepts about the Milky Way, including its formation from colliding galaxies, the origin of elements from exploding stars, and the massive black hole at its core. The book also discusses the oldest stars as relics of the Big Bang, profiles influential astronomers, and offers insights into the universe's origin and ultimate fate.",
+      "categories": [
+        "Book Review",
+        "Astronomy",
+        "Science Communication",
+        "Cosmology"
+      ],
+      "keywords": [
+        "Ken Croswell",
+        "Milky Way",
+        "Galaxy formation",
+        "Black holes",
+        "Stellar evolution",
+        "Big Bang",
+        "Cosmology",
+        "Astronomy book",
+        "Science writing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-05-endorsements",
+      "documentId": "eph95-05",
+      "title": "ENDORSEMENTS:",
+      "summary": "The article presents three glowing endorsements for Ken Croswell's book, \"THE ALCHEMY OF THE HEAVENS.\" Reviewers praise the book as an accessible yet scientifically rigorous synthesis of knowledge about the Milky Way galaxy, suitable for both general readers and scientists. It is highlighted for its clear explanations, engaging storytelling, and up-to-date account of astronomical discoveries, making it a significant contribution to popular science literature.",
+      "categories": [
+        "Book Review",
+        "Endorsement",
+        "Popular Science",
+        "Astronomy",
+        "Literature"
+      ],
+      "keywords": [
+        "Ken Croswell",
+        "THE ALCHEMY OF THE HEAVENS",
+        "Milky Way",
+        "Galaxy",
+        "Astronomy",
+        "Popular Science",
+        "Book",
+        "Astrophysics",
+        "Science Communication",
+        "Discoveries"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-a-night-at-fremont-peak",
+      "documentId": "eph95-05",
+      "title": "A Night at Fremont Peak",
+      "summary": "Jay R. Freeman recounts a successful night of amateur astronomical observation at Fremont Peak in late March, utilizing a 90mm refractor. He details his systematic exploration of numerous Messier galaxies in Virgo and Coma Berenices, describes views of NGC 4565 and Mars, and shares observations of the Merope nebula and other Pleiades stars with fellow observers. Despite cutting the session short due to illness, he considered it a fine night of observing.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Deep Sky Observing",
+        "Planetary Observing"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "90mm refractor",
+        "Messier objects",
+        "Virgo Cluster",
+        "Coma Berenices",
+        "galaxies",
+        "NGC 4565",
+        "Mars",
+        "Pleiades",
+        "Merope nebula",
+        "star-hopping",
+        "polar alignment",
+        "deep sky observation",
+        "California"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-05-by-mark-wagner",
+      "documentId": "eph95-05",
+      "title": "By Mark Wagner",
+      "summary": "Mark Wagner recounts an astronomy observing session with several companions, noting a sparse crowd due to cold temperatures, clouds, and wind. Despite challenging weather conditions, they managed to view objects like the summer globulars M3, M13, M92, and the Blackeye Galaxy M64 through large telescopes. The sky eventually cleared late in the evening, unfortunately after they had finished packing their equipment, and a list of observed NGC objects is provided.",
+      "categories": [
+        "observing report",
+        "deep-sky observing",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "observing session",
+        "deep-sky objects",
+        "globular clusters",
+        "galaxies",
+        "M3",
+        "M13",
+        "M92",
+        "M64",
+        "Obsession telescope",
+        "Nagler eyepiece",
+        "weather conditions",
+        "NGC objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-wow-it-is-refractor-like",
+      "documentId": "eph95-05",
+      "title": "Wow, it IS refractor-like!",
+      "summary": "An amateur astronomer expresses profound satisfaction with his new Takahashi TSC-225 Schmidt-Cassegrain telescope, noting its exceptional, \"refractor-like\" image quality. He discovers that precise collimation is the key to unlocking the scope's full potential and subsequently provides a comprehensive, step-by-step guide on how to properly adjust the secondary mirror for Schmidt-Cassegrain telescopes.",
+      "categories": [
+        "Equipment Review",
+        "Technical Guide",
+        "Maintenance",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Takahashi TSC-225",
+        "Schmidt-Cassegrain",
+        "SCT",
+        "Collimation",
+        "Telescope maintenance",
+        "Optical performance",
+        "Refractor-like images",
+        "Secondary mirror adjustment",
+        "Amateur astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-05-new-scope-continued-from-page-4",
+      "documentId": "eph95-05",
+      "title": "New Scope (continued from page 4)",
+      "summary": "The article details a successful, hour-long procedure for precisely collimating a Schmidt-Cassegrain Telescope (SCT), emphasizing the fine adjustment of screws to achieve a perfect diffraction ring pattern. This meticulous alignment dramatically improved the telescope's performance, yielding astonishingly clear, \"refractor-like\" views of celestial objects like Mars and M13, and revealing previously unseen planetary details. The author, initially skeptical of SCTs, expresses profound satisfaction with the transformation, particularly for low-contrast extended sources.",
+      "categories": [
+        "Technical",
+        "Observing Report",
+        "Equipment Maintenance",
+        "How-To"
+      ],
+      "keywords": [
+        "Telescope collimation",
+        "SCT",
+        "Optical alignment",
+        "Planetary observation",
+        "Mars",
+        "M13",
+        "Diffraction pattern",
+        "Telescope optics",
+        "Observing experience"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-05-grant-ranch-4-2-95",
+      "documentId": "eph95-05",
+      "title": "Grant Ranch - 4/2/95",
+      "summary": "Mark Wagner, Rich Neuschaefer, and John Hales conducted a successful observing session at Grant Ranch on April 2, 1995, after a previous attempt at Fremont Peak was clouded out. They utilized various telescopes, including a new Takahashi 78mm refractor, a JMI 18\" telescope, and a 10\" f5.6 Dobsonian, enjoying clear skies and excellent transparency. Highlights included views of the Moon, Sombrero Galaxy (M104), and NGC4565, while also discussing equipment and using a homemade laser collimator.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Club/Community",
+        "Equipment Discussion",
+        "Field Report"
+      ],
+      "keywords": [
+        "Grant Ranch",
+        "Observing session",
+        "Mark Wagner",
+        "Rich Neuschaefer",
+        "John Hales",
+        "Takahashi 78mm refractor",
+        "JMI 18\" telescope",
+        "10\" f5.6 Dobsonian",
+        "Transparency",
+        "Sombrero Galaxy (M104)",
+        "NGC4565",
+        "Herschel list",
+        "Laser collimator",
+        "Fremont Peak",
+        "Jupiter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-astro-ads",
+      "documentId": "eph95-05",
+      "title": "ASTRO ADS",
+      "summary": "This article features 'ASTRO ADS,' a free classifieds section for noncommercial astronomical products, showcasing listings for a Brookstone Newtonian and a Meade 8-inch SC telescope. It also announces that the Mount Lassen Star Party for August 1995 is fully booked with 25 telescopes, and organizers are exploring a larger, more distant site for future events.",
+      "categories": [
+        "Classifieds",
+        "Events",
+        "Announcements",
+        "Equipment Sales"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Classifieds",
+        "Telescopes",
+        "Star Party",
+        "Mount Lassen",
+        "Astronomical equipment",
+        "Event capacity"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-yosemite-star-party",
+      "documentId": "eph95-05",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The article announces the Yosemite Star Party for July 28-29, detailing rules like no vehicles in the observing area, camping at Bridalveil Campground, a 25-person limit, and a scope-to-person guideline, with Jim Van Nuland handling reservations. It also includes the 1995 San Jose Astronomical Association (SJAA) calendar, listing general meetings, star parties, and observational astronomy classes, alongside a brief mention of a DIY astronomy device.",
+      "categories": [
+        "Event Announcement",
+        "Event Calendar",
+        "Observing Guidelines",
+        "Astronomy Club News",
+        "DIY Astronomy"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "Star Party",
+        "Astronomy",
+        "Observing",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Calendar",
+        "Reservations",
+        "Bridalveil Campground",
+        "Glacier Point",
+        "DIY Astronomy",
+        "Telescope"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-05-telescope-loaner-status",
+      "documentId": "eph95-05",
+      "title": "Telescope Loaner Status",
+      "summary": "This document, authored by Paul Barton, provides a status update for a telescope loaner program, detailing various telescopes, their current users, and due dates or availability. It lists several telescopes ready for loan, along with instructions for members to contact Paul Barton to borrow an instrument or join a waiting list. A special note is included regarding the availability of a solar telescope for experienced members during specific events.",
+      "categories": [
+        "Equipment Management",
+        "Club Resources",
+        "Inventory Status",
+        "Astronomy Programs"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Telescope availability",
+        "Astronomy equipment",
+        "Club resources",
+        "Due dates",
+        "Dobsonian",
+        "Newtonian",
+        "Refractor",
+        "Celestron",
+        "Solar telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-astro-ads",
+      "documentId": "eph95-05",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classified advertising service for noncommercial sales of astronomically related products or services, with submissions due by the 12th of each month. The article features several classifieds for used astronomical equipment, including various telescopes, eyepieces, and optical components. These ads detail items like an 8-inch Meade Schmidt-Cass, a 12.5-inch Dobsonian, TeleVue telescopes and eyepieces, and ATM stock.",
+      "categories": [
+        "classifieds",
+        "astronomical equipment",
+        "marketplace",
+        "community announcements"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "astronomy products",
+        "telescopes",
+        "eyepieces",
+        "Meade",
+        "Dobsonian",
+        "TeleVue",
+        "optical equipment",
+        "selling",
+        "buying",
+        "astronomical accessories"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-05-lunar-phase-date-rise-trans-set",
+      "documentId": "eph95-05",
+      "title": "Lunar Phase Date Rise Trans Set",
+      "summary": "This document provides a tabular schedule of key lunar phases, including First Quarter, Full Moon, Last Quarter, and New Moon, for a specific period. For each phase, it lists the date and corresponding rise, transit, and set times, offering a clear reference for observing the Moon's movement.",
+      "categories": [
+        "Astronomical data",
+        "Schedules",
+        "Lunar events"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-nearer-planets",
+      "documentId": "eph95-05",
+      "title": "Nearer Planets",
+      "summary": "This document provides an ephemeris for the nearer planets, including Mercury, Venus, Mars, Jupiter, and Saturn, across several dates. It lists specific times, apparent magnitudes, and distances in Astronomical Units (A.U.) for each planet, likely serving as a guide for observers.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Planetary Information",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planetary positions",
+        "Magnitude",
+        "A.U.",
+        "Observational data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-sol-star-type-g2v-vmag-26-72",
+      "documentId": "eph95-05",
+      "title": "SOL Star Type G2V VMag -26.72",
+      "summary": "This document presents astronomical data for the Sun (SOL), detailing its G2V spectral type and visual magnitude. It includes what appear to be the Sun's Right Ascension and Declination coordinates, along with its calculated sunrise, meridian transit, and sunset times for several distinct observation points. This type of information is characteristic of an astronomical ephemeris for solar tracking.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Solar Data"
+      ],
+      "keywords": [
+        "Sun",
+        "SOL",
+        "G2V",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Sunrise",
+        "Sunset",
+        "Meridian Transit",
+        "Solar Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-astronomical-twilight",
+      "documentId": "eph95-05",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a concise table detailing the beginning and end times of astronomical twilight for several specific Julian Dates. It provides precise time data relevant to understanding periods of optimal darkness for astronomical observations.",
+      "categories": [
+        "Astronomy",
+        "Technical data",
+        "Observing planning"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Twilight times",
+        "Julian Date",
+        "Observing conditions",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-siderial-time",
+      "documentId": "eph95-05",
+      "title": "Siderial Time:",
+      "summary": "This document provides astronomical timing data, including sidereal time calculations for transit right ascension and local midnight, alongside specific event times for the 'Darkest Saturday Night' on May 27, 1995. Key times such as sunset, twilight end, moonset, and dawn begin are listed, all specified in Pacific Daylight (PDT) and Local Civil time.",
+      "categories": [
+        "Astronomical Timing",
+        "Observing Report",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Astronomical timing",
+        "Pacific Daylight Time",
+        "May 27 1995",
+        "Sunset",
+        "Twilight",
+        "Moonset",
+        "Dawn",
+        "Transit",
+        "Right Ascension",
+        "Local Midnight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-officers-and-board-of-directors",
+      "documentId": "eph95-05",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization. It provides their titles, names, and contact phone numbers, detailing the leadership structure and contact information for key personnel.",
+      "categories": [
+        "Organizational Information",
+        "Leadership",
+        "Contact Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact",
+        "Organization",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-ephemeris-contributors",
+      "documentId": "eph95-05",
+      "title": "Ephemeris Contributors",
+      "summary": "The document lists individuals who contribute to ephemeris data, including their names and contact phone numbers. It also identifies an editor responsible for this content, along with their respective phone number.",
+      "categories": [
+        "Directory",
+        "Contact List",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Contact Information",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-comet-comments",
+      "documentId": "eph95-05",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz's 'COMET COMMENTS' discusses the current slow comet activity but anticipates a summer pickup, providing observation details for Periodic Comet d'Arrest and 95P/Chiron. The article highlights 95P/Chiron's unusual history, its reclassification from a minor planet to the largest known comet due to observed coma and tail, and its current observability for large telescopes.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet",
+        "95P/Chiron",
+        "Periodic Comet d'Arrest",
+        "Observation",
+        "Coma",
+        "Minor Planet",
+        "Telescopes",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-ephemerides",
+      "documentId": "eph95-05",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for two celestial objects: comet 6P/d'Arrest and centaur 95/Chiron. It lists their Right Ascension, Declination, elongation, sky visibility (morning/evening), and apparent magnitude for various dates from April through June. This data is essential for observers to locate and track these specific astronomical bodies.",
+      "categories": [
+        "Astronomical Data",
+        "Observational Astronomy",
+        "Ephemerides",
+        "Comets",
+        "Minor Planets"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet 6P/d'Arrest",
+        "Chiron",
+        "Astronomical Positions",
+        "Magnitude",
+        "Observational Data",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-orbital-elements",
+      "documentId": "eph95-05",
+      "title": "ORBITAL ELEMENTS",
+      "summary": "This document provides detailed orbital elements for two celestial bodies: Comet 6P/d'Arrest and object 95P/Chiron. For each, it lists parameters such as epoch, perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period, along with their respective MPC sources.",
+      "categories": [
+        "Technical Data",
+        "Celestial Mechanics",
+        "Astronomy Reference"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "6P/d'Arrest",
+        "95P/Chiron",
+        "Comet",
+        "Centaur",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Orbital Period",
+        "MPC"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-05-san-jose-astronomical-association-membership",
+      "documentId": "eph95-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the guidelines for members of the San Jose Astronomical Association to submit articles for their monthly publication, EPHEMERIS. Submissions, preferably on diskette but written also accepted, must be sent to the editor, Bob Madden, by the 12th of the previous month for publication.",
+      "categories": [
+        "Membership Information",
+        "Publication Guidelines",
+        "Club Communication"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "membership",
+        "article submission",
+        "publication",
+        "editor",
+        "deadline"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-05-san-jose-astronomical-association-membership",
+      "documentId": "eph95-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership application process for the San Jose Astronomical Association (SJAA). It details various membership types, including standard, junior, and one that includes a Sky & Telescope subscription, along with their respective costs. The form provides instructions on how to submit the application and payment to the treasurer.",
+      "categories": [
+        "membership",
+        "application form",
+        "club administration",
+        "contact information",
+        "historical document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership",
+        "dues",
+        "application",
+        "Sky & Telescope",
+        "junior membership",
+        "Bob Elsberry",
+        "treasurer",
+        "May 1995"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9505/Eph95_05.pdf",
+      "txtPath": "9505/Eph95_05.md"
+    }
+  ]
+}

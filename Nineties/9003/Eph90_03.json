@@ -1,0 +1,587 @@
+{
+  "articles": [
+    {
+      "id": "eph90-03-ephemeris",
+      "documentId": "eph90-03",
+      "title": "EPHEMERIS",
+      "summary": "This document serves as the masthead for 'EPHEMERIS,' the official publication of the San Jose Astronomical Association. It identifies the issue as Volume 2, Number 2, released in March 1990.",
+      "categories": [
+        "Publication",
+        "Organizational News",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "March 1990",
+        "Astronomy",
+        "Newsletter",
+        "Masthead"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-field-of-view",
+      "documentId": "eph90-03",
+      "title": "FIELD OF VIEW",
+      "summary": "The article announces several upcoming events for March, including a presentation by Dr. William Straka on Mars missions and sample return. It also highlights multiple star parties, such as a public program at Branham Lane Park, a \"Freeze Party\" at Grant Ranch, and a Messier Marathon at Henry Coe State Park.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news",
+        "speaker announcement"
+      ],
+      "keywords": [
+        "Mars mission",
+        "sample return",
+        "star parties",
+        "public astronomy",
+        "Messier Marathon",
+        "Lockheed Palo Alto Research Laboratory",
+        "Branham Lane Park",
+        "Grant Ranch",
+        "Henry Coe State Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-election-results",
+      "documentId": "eph90-03",
+      "title": "ELECTION RESULTS",
+      "summary": "The Board of Directors for the organization was elected at the February meeting, with four members elected or re-elected and several continuing their terms. Following this, the Board elected its officers at the Feb. 10 meeting, with all key positions (President, Vice-president, Treasurer, and Secretary) remaining unchanged. Additionally, the Bulletin Editor will continue in his non-elective role.",
+      "categories": [
+        "news",
+        "organization update",
+        "election results",
+        "governance"
+      ],
+      "keywords": [
+        "election results",
+        "Board of Directors",
+        "officers",
+        "President",
+        "Vice-president",
+        "Treasurer",
+        "Secretary",
+        "Bulletin Editor",
+        "Tom Ahl",
+        "Paul Mancuso",
+        "Jack Peterson",
+        "Jim Van Nuland",
+        "John Gleason"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-indoor-star-party",
+      "documentId": "eph90-03",
+      "title": "INDOOR STAR PARTY",
+      "summary": "An \"Indoor Star Party\" is scheduled for March 31 at the Red Cross, offering an informal gathering for astronomy enthusiasts. Attendees are encouraged to bring items like books, eyepieces, or photos to share, ask questions, or seek assistance, as there is no formal agenda. The event provides an open platform for participants to engage in activities of their choice related to astronomy.",
+      "categories": [
+        "Event Announcement",
+        "Meeting",
+        "Community Event",
+        "Informal Gathering"
+      ],
+      "keywords": [
+        "Indoor Star Party",
+        "March 31",
+        "Red Cross",
+        "Astronomy Meeting",
+        "Informal Event",
+        "Sharing",
+        "Questions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-astronomy-day",
+      "documentId": "eph90-03",
+      "title": "ASTRONOMY DAY",
+      "summary": "The article announces two upcoming astronomical events: National Astronomy Day on April 28th, an event promoting astronomy and telescope making, with activities at Branham Lane Park. It also details the 10th Annual Astronomical Auction on May 5th in Los Gatos, featuring an afternoon flea market and a main auction event, with specific guidelines for item sales and commissions.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Astronomy Outreach",
+        "Fundraising"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "National Astronomy Day",
+        "Telescope Making",
+        "Astronomical Auction",
+        "Flea Market",
+        "Swap Meet",
+        "Silent Bid Sale",
+        "Los Gatos",
+        "April 28",
+        "May 5",
+        "AANC",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-branham-lane-star-parties",
+      "documentId": "eph90-03",
+      "title": "BRANHAM LANE STAR PARTIES",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting a series of public star parties on specific Fridays at Branham Lane throughout the year, from March to December. The announcement encourages participation, urging attendees to bring telescopes and invite friends, with contact information provided for further details.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Astronomy Clubs",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Star parties",
+        "SJAA",
+        "Branham Lane",
+        "Public events",
+        "Astronomy",
+        "Telescopes",
+        "Observing",
+        "Event dates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-electronics-seminar-iii",
+      "documentId": "eph90-03",
+      "title": "ELECTRONICS SEMINAR III",
+      "summary": "The document announces an \"ELECTRONICS SEMINAR III\" sponsored by the Orange County Astronomers, featuring professionals like James Janecek from JPL. It also details a comprehensive schedule of astronomy-related events for March and April, including general meetings, public star parties, a Messier Marathon, and introductory observational astronomy classes.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Public Outreach",
+        "Education",
+        "Technical Seminars",
+        "Organizational Announcements"
+      ],
+      "keywords": [
+        "Electronics Seminar",
+        "Orange County Astronomers",
+        "JPL",
+        "Star Party",
+        "Messier Marathon",
+        "Observational Astronomy",
+        "General Meetings",
+        "Astronomy Classes",
+        "SJAA",
+        "Event Schedule",
+        "March Events",
+        "April Events"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-03-encyclopedia-glactica",
+      "documentId": "eph90-03",
+      "title": "ENCYCLOPEDIA GLACTICA",
+      "summary": "This article announces a seminar focused on the acquisition and processing of astronomical imagery, specifically covering CCD cameras, modern sensors, and video for amateur astronomers. The program welcomes amateur-level papers, includes refreshments and printed proceedings, and provides contact details for registration and inquiries.",
+      "categories": [
+        "Events",
+        "Technical",
+        "Amateur Astronomy",
+        "Imaging Techniques"
+      ],
+      "keywords": [
+        "Seminar",
+        "Astronomical Imaging",
+        "CCD Cameras",
+        "Amateur Astronomy",
+        "Video Astronomy",
+        "Image Processing",
+        "Modern Sensors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-march-starry-nights",
+      "documentId": "eph90-03",
+      "title": "MARCH STARRY NIGHTS",
+      "summary": "Richard Stanton's \"March Starry Nights\" column addresses the repetitive nature of reporting on monthly meteor events. He expresses a desire for readers to contribute their meteor watch results to make the section more engaging and less cyclical.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy Column",
+        "Meteor Shower Outlook"
+      ],
+      "keywords": [
+        "March",
+        "Meteors",
+        "Starry Nights",
+        "Richard Stanton",
+        "Meteor watches",
+        "Stargazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-march-meteor-summary",
+      "documentId": "eph90-03",
+      "title": "MARCH METEOR SUMMARY",
+      "summary": "This article provides an astronomical summary for March, detailing minor meteor showers (Corona Australids, Virginids) and specific Galilean satellite events for Ganymede on March 16-17. It also presents a deep-sky challenge to observe Ambartsumian's Knot (NGC 3561) and discusses Sir John Herschel's Lunar Chart for weather prediction. A major section announces the 1990 Messier Marathon for March 24, outlining optimal viewing conditions, observable objects (up to 109), and its history with the SJAA.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Deep-Sky Objects",
+        "Meteor Showers",
+        "Planetary Phenomena",
+        "Amateur Astronomy",
+        "Weather Forecasting"
+      ],
+      "keywords": [
+        "March Astronomy",
+        "Meteor Showers",
+        "Galilean Satellites",
+        "Ganymede",
+        "Deep Sky Observing",
+        "Ambartsumian's Knot",
+        "NGC 3561",
+        "Messier Marathon",
+        "1990 Messier Marathon",
+        "Amateur Astronomy",
+        "Astronomical Events",
+        "Sir John Herschel",
+        "Weather Prediction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-part-two-the-stars-real-and-artificial",
+      "documentId": "eph90-03",
+      "title": "PART TWO: THE STARS, REAL AND ARTIFICIAL",
+      "summary": "This article, 'PART TWO: THE STARS, REAL AND ARTIFICIAL,' delves into the anxieties of collimation for visual astronomers, contrasting it with the focus of astrophotographers. The author strongly advises against using real stars for collimation due to its frustrating and time-consuming nature, recounting personal experiences of wasted observing time. It emphasizes the importance of initial daytime alignment before attempting any collimation, even if one opts for more challenging methods.",
+      "categories": [
+        "Astronomy",
+        "Technical Guide",
+        "Observing Tips",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Collimation",
+        "Visual astronomy",
+        "Astrophotography",
+        "Newtonian telescope",
+        "Test star",
+        "Mirror cell",
+        "Primary mirror",
+        "Telescope alignment",
+        "Observing",
+        "Fremont Peak"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-03-double-triple-multiple-stars",
+      "documentId": "eph90-03",
+      "title": "DOUBLE, TRIPLE & MULTIPLE STARS",
+      "summary": "This article first provides a detailed guide on telescope collimation, outlining techniques for using Polaris and artificial stars to achieve precise alignment, while also discussing common difficulties encountered during the process. It then transitions to an observing guide for the winter sky, explaining the abundance of bright stars due to our position in the Orion Arm and recommending numerous open clusters and multiple star systems across constellations like Perseus, Taurus, Auriga, Gemini, Monoceros, Canis Major, Puppis, and Orion.",
+      "categories": [
+        "Technical",
+        "Observing Guide",
+        "Astronomy",
+        "Deep Sky Objects",
+        "Stars"
+      ],
+      "keywords": [
+        "Collimation",
+        "Telescope",
+        "Polaris",
+        "Artificial Star",
+        "Orion Arm",
+        "Winter Sky",
+        "Open Clusters",
+        "Double Stars",
+        "Multiple Stars",
+        "Perseus",
+        "Taurus",
+        "Pleiades",
+        "Hyades",
+        "Gemini",
+        "Monoceros",
+        "Orion",
+        "Deep Sky Observing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-03-great-red-spot",
+      "documentId": "eph90-03",
+      "title": "GREAT RED SPOT",
+      "summary": "Jim Van Nuland addresses recent reports of the Great Red Spot (GRS) reversing direction, noting his observations show it oscillating around an average position rather than a clear trend. He also discusses the absence of Jupiter's South Equatorial Belt (SEB), drawing comparisons to historical observations from the late 1950s and early 1960s to suggest such fading events can last for a few years. The author provides observing tips for viewing the GRS, recommending specific power and encouraging observers to share their results, especially those using smaller instruments or various filters.",
+      "categories": [
+        "observing reports",
+        "planetary astronomy",
+        "amateur astronomy",
+        "observing tips & techniques",
+        "historical astronomy"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "South Equatorial Belt",
+        "planetary observations",
+        "telescope",
+        "seeing",
+        "filters",
+        "amateur astronomy",
+        "historical records"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-comet-comments",
+      "documentId": "eph90-03",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on comet observations for the coming months, primarily focusing on Comet Austin's anticipated visibility and potential brightness fluctuations. It details Comet Austin's approaching April 9 perihelion, discussing its expected appearance in late April through May for northern hemisphere observers and offering specific viewing times. The piece also briefly introduces the newly discovered Periodic Comet Wild (1990a).",
+      "categories": [
+        "Comet Observation",
+        "Astronomy News",
+        "Celestial Events",
+        "Observing Reports",
+        "Astronomy Predictions"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "Comet Wild (1990a)",
+        "Perihelion",
+        "Magnitude",
+        "Comet observation",
+        "Northern Hemisphere",
+        "Solar region",
+        "Brightness",
+        "Comet tail",
+        "Star parties",
+        "Orbital period",
+        "1990 discoveries"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-astro-ads",
+      "documentId": "eph90-03",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" serves as a classifieds section for non-commercial advertisers offering astronomically related products and services. It features listings for a variety of used telescopes, eyepieces, filters, mounts, and other accessories from brands like Meade, Celestron, Lumicon, and Televue, complete with seller contact information. The section also outlines ad submission guidelines and includes a report for a lost and found item.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Sales",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Eyepieces",
+        "Astronomy Equipment",
+        "Classified Ads",
+        "Meade",
+        "Celestron",
+        "Mounts",
+        "Filters",
+        "Accessories",
+        "Newtonian reflector",
+        "Schmidt Cassegrain"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-03-siaa-ephemeris",
+      "documentId": "eph90-03",
+      "title": "SIAA EPHEMERIS",
+      "summary": "The 'SIAA EPHEMERIS' document contains classified advertisements for used astronomical equipment. Multiple individuals are selling various items, including Celestron C-6 Newtonian and 4-inch reflecting telescopes, Meade accessories, eyepieces (Tele Vue Nagler, Kellner), Barlow lenses, filters (Lumicon UHC, Deepsky), and equatorial mounts. All listings provide contact information and asking prices, with items generally described as being in excellent condition.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomy Equipment",
+        "Second-hand Market"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Celestron",
+        "Meade",
+        "Newtonian Reflector",
+        "Reflecting Telescope",
+        "Eyepieces",
+        "Tele Vue",
+        "Nagler",
+        "Kellner",
+        "Barlow Lens",
+        "Filters",
+        "Lumicon UHC",
+        "Deepsky Filter",
+        "Equatorial Mount",
+        "Astronomy",
+        "Used Equipment",
+        "For Sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-revised-shuttle-manifest-delays-space-telescope",
+      "documentId": "eph90-03",
+      "title": "REVISED SHUTTLE MANIFEST DELAYS SPACE TELESCOPE",
+      "summary": "A revised shuttle manifest, necessitated by previous flight delays and budget issues, has postponed the launch of the Hubble Space Telescope until April 19. Other missions, including the DOD launch of Atlantis, Astro-1 spacelab, and the Gamma Ray Observatory, have also received new launch dates ranging from February to November.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Astronomy",
+        "Launch Schedule"
+      ],
+      "keywords": [
+        "Shuttle Manifest",
+        "Hubble Space Telescope",
+        "Launch Delays",
+        "Space Shuttle",
+        "Gamma Ray Observatory",
+        "Astro-1",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-columbia-deploys-syncom-and-retrieves-ldef",
+      "documentId": "eph90-03",
+      "title": "COLUMBIA DEPLOYS SYNCOM AND RETRIEVES LDEF",
+      "summary": "The Space Shuttle Columbia launched on January 9, successfully deploying the Syncom 4-F5 communication satellite the following day. Columbia then rendezvoused with and retrieved the Long Duration Exposure Facility (LDEF), which had been collecting space environment data since 1984. The remainder of the nearly 11-day mission involved conducting medical experiments to support future long-duration space travel.",
+      "categories": [
+        "Space Mission",
+        "News",
+        "Spacecraft Operations"
+      ],
+      "keywords": [
+        "Columbia",
+        "Space Shuttle",
+        "Syncom 4-F5",
+        "LDEF",
+        "Satellite Deployment",
+        "Satellite Retrieval",
+        "Medical Experiments",
+        "Spaceflight",
+        "Payload Bay"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-japan-launches-muses-a-to-the-moon",
+      "documentId": "eph90-03",
+      "title": "JAPAN LAUNCHES MUSES-A TO THE MOON",
+      "summary": "Japan successfully launched the Muses-A satellite on January 24th, placing it into a highly elliptical Earth orbit. In mid-March, a lunar orbiter will separate to enter a 10,000-mile high lunar orbit, while the primary Muses-A spacecraft continues its Earth and Moon swing-bys.",
+      "categories": [
+        "Space News",
+        "Space Exploration",
+        "Launch Report"
+      ],
+      "keywords": [
+        "Muses-A",
+        "Japan",
+        "Moon",
+        "Lunar Orbiter",
+        "Satellite Launch",
+        "Earth Orbit",
+        "Spacecraft",
+        "Swing-by"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-comet-ephemeris",
+      "documentId": "eph90-03",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides an astronomical ephemeris for two comets: Comet Austin (1989c₁) and Comet Skorichenko-George (1989e₁). It lists their celestial coordinates (Right Ascension and Declination for 1950 and 2000 epochs), elongation from the Sun, visibility in the sky, and estimated visual magnitude for specific dates from late February to early April.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Ephemeris",
+        "Observing Aids",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Comet Austin (1989c₁)",
+        "Comet Skorichenko-George (1989e₁)",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Comet Observation",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-03-jupiter-s-red-spot",
+      "documentId": "eph90-03",
+      "title": "JUPITER'S RED SPOT",
+      "summary": "This article presents an ephemeris for observing Jupiter's Great Red Spot, detailing the dates and times (PST/PDT) when it will be on the meridian from early March through early April. It serves as a practical guide for astronomers to plan their observations of this prominent Jovian feature. The article is part of \"EPHEMERIS,\" a monthly publication by the San Jose Astronomical Association.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Ephemeris",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Planetary Observation",
+        "Ephemeris",
+        "Observing Schedule",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-03-membership-only-10-membership-s-t-26-junior-under-18-18",
+      "documentId": "eph90-03",
+      "title": "MEMBERSHIP ONLY: $10    MEMBERSHIP/S&T: $26    JUNIOR (UNDER 18): $18",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing different membership tiers and their associated costs, such as 'Membership only,' 'Membership/S&T,' and 'Junior (Under 18).' It provides instructions for submitting the form, including the treasurer's mailing address, payment methods, and options for new or renewal memberships. Additionally, the document includes mailing information for the 'SJAA Ephemeris' newsletter, identifying it as time-sensitive, non-profit news material.",
+      "categories": [
+        "Membership",
+        "Forms/Applications",
+        "Club/Association information",
+        "Non-profit organization",
+        "Newsletter/Periodical"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership application",
+        "Dues",
+        "Astronomy club",
+        "Junior membership",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9003/Eph90_03.pdf",
+      "txtPath": "9003/Eph90_03.md"
+    }
+  ]
+}

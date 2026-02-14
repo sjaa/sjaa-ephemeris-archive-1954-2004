@@ -1,0 +1,632 @@
+{
+  "articles": [
+    {
+      "id": "eph90-10-ephemeris",
+      "documentId": "eph90-10",
+      "title": "EPHEMERIS",
+      "summary": "This document is titled \"EPHEMERIS\" and represents Volume 2, Number 10 of the official publication of the San Jose Astronomical Association, issued in October 1990. It serves as a periodical or newsletter for the association members.",
+      "categories": [
+        "Astronomy",
+        "Club Publication",
+        "Periodical",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "October 1990",
+        "Astronomy Club",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-pulkovo-observatory",
+      "documentId": "eph90-10",
+      "title": "PULKOVO OBSERVATORY",
+      "summary": "This article announces the upcoming General Meeting featuring a presentation on Pulkovo Observatory by Lick Observatory historian Shilo Unruh. It also provides an update on subscription renewals for 'Astronomy' and 'Telescope Making' magazines, urging immediate action. The document also recaps a recent 'Equipment/Slide Night' showcasing advanced astronomical gear and photography, and lists a comprehensive schedule of October and November events including star parties, board meetings, and the AANC Conference.",
+      "categories": [
+        "Meeting Announcements",
+        "News/Updates",
+        "Observing Reports",
+        "Equipment Reviews",
+        "Event Schedules",
+        "Conference Information"
+      ],
+      "keywords": [
+        "Pulkovo Observatory",
+        "Shilo Unruh",
+        "General Meeting",
+        "Astronomy magazine",
+        "Telescope Making magazine",
+        "Subscription Renewals",
+        "Equipment/Slide Night",
+        "Takahashi refractor",
+        "SBIG automatic guider",
+        "Comet Levy",
+        "Odyssey II telescope",
+        "Losmandy mounting",
+        "Wright Schmidt camera",
+        "AANC Conference",
+        "Lawrence Hall of Science",
+        "Star Party",
+        "Astrophotography",
+        "F.G.W. Struve"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-get-into-black-holes-figuratively-only-please",
+      "documentId": "eph90-10",
+      "title": "GET INTO BLACK HOLES FIGURATIVELY ONLY, PLEASE",
+      "summary": "Astronomer Andrew Fraknoi will present a non-technical lecture titled \"Black Holes: Spacewarps, Time Machines, and the Death of Stars\" at U.C. Berkeley on Saturday, November 3. The program, sponsored by U.C. Extension and the Astronomical Society of the Pacific, will run from 9 am to 5 pm and include illustrations from major telescopes.",
+      "categories": [
+        "Events",
+        "Education",
+        "Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Black Holes",
+        "Andrew Fraknoi",
+        "U.C. Berkeley",
+        "Lecture",
+        "Astronomy",
+        "Astronomical Society of the Pacific",
+        "U.C. Extension"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-october-starry-nights",
+      "documentId": "eph90-10",
+      "title": "OCTOBER STARRY NIGHTS",
+      "summary": "This article outlines astronomical viewing opportunities and an important time change for October. It details the return to Pacific Standard Time on October 28th and offers observing notes for Mars, which will appear larger and enter retrograde motion. The \"Challenge Object\" for the month is Minowsky 92 (The Footprint Nebula) in Cygnus, with additional recommendations for binocular viewing of the Veil and North American nebulae, and the colorful double star Albireo.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Deep Sky Astronomy",
+        "Planetary Astronomy",
+        "Observing Tips"
+      ],
+      "keywords": [
+        "October",
+        "Standard Time",
+        "Mars",
+        "Opposition",
+        "Retrograde Motion",
+        "Cygnus",
+        "Minowsky 92",
+        "Footprint Nebula",
+        "Albireo",
+        "Veil Nebula",
+        "North American Nebula",
+        "Binocular Astronomy",
+        "Visual Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-10-space-program-update",
+      "documentId": "eph90-10",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This space program update details the delayed Astro-1 Spacelab mission, designed to study hot stars and high-energy sources using various telescopes. It also reports on the Magellan probe, which, despite earlier communication issues, is now stable and returning high-resolution Venusian images while preparing for its mapping phase. Additionally, the article highlights new scientific data from the Hubble Space Telescope, successful Ariane 4 launches, and proposed changes to the Earth Observing System.",
+      "categories": [
+        "Space Missions",
+        "Astronomy",
+        "Space Exploration",
+        "News",
+        "Satellite Technology"
+      ],
+      "keywords": [
+        "Astro-1",
+        "Magellan",
+        "Hubble Space Telescope",
+        "Space Shuttles",
+        "Venus",
+        "Supernova 1987A",
+        "Black Holes",
+        "Ultraviolet Astronomy",
+        "X-ray Astronomy",
+        "Ariane 4",
+        "Earth Observing System",
+        "Space Policy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-10-support-sixty-four-democratic-and-republican-senators-signed-a-letter-to-sen-barbara-mikulski-chairman-of-a-key-appropriations-panel-urging-support-for-the-international-space-station-the-letter-praised-the-program-as-a-catalyst-for-advancement-in-education-science-and-the-future-economic-health-of-the-united-states-and-said-that-the-space-station-urgently-needs-consistent-policy-and-funding-support",
+      "documentId": "eph90-10",
+      "title": "SUPPORT - Sixty four Democratic and Republican senators signed a letter to Sen. Barbara Mikulski, chairman of a key appropriations panel, urging support for the international space station. The letter praised the program as a \"catalyst for advancement\" in education, science and the future economic health of the United States and said that the space station urgently needs consistent policy and funding support.",
+      "summary": "Sixty-four bipartisan senators urged support for the International Space Station (ISS), citing its importance for education, science, and the U.S. economy, and calling for consistent policy and funding while the program addresses technical issues like weight reduction and power management. The article also includes a review of \"The Astronomer's Universe\" by Friedman, which explores modern astrophysics, cosmology, and the history of technologically-based astronomy for a general educated audience.",
+      "categories": [
+        "Government Affairs",
+        "Space Programs",
+        "Funding & Policy",
+        "Space Technology",
+        "Astrophysics",
+        "Cosmology",
+        "Book Review",
+        "Science Communication"
+      ],
+      "keywords": [
+        "International Space Station (ISS)",
+        "Senate",
+        "Appropriations",
+        "Funding",
+        "Policy",
+        "Space exploration",
+        "NASA",
+        "Science education",
+        "U.S. economy",
+        "Space station design",
+        "Power management",
+        "Astrophysics",
+        "Cosmology",
+        "Rocket astronomy",
+        "Scientific literature",
+        "Book review",
+        "Modern astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-the-astronomy-bookshelf",
+      "documentId": "eph90-10",
+      "title": "THE ASTRONOMY BOOKSHELF",
+      "summary": "This article is a review of Herbert Friedman's book, \"The Astronomer's Universe,\" which comprehensively covers modern astrophysics and cosmology. The review highlights the book's structure, beginning with a detailed explanation of Space Age hardware and instrumentation across various wavelengths, before progressing to stellar phenomena, galaxies, and cosmological theories including the origin and fate of the universe and the search for extraterrestrial life. Friedman's ability to explain complex topics with clarity and balanced detail is particularly praised.",
+      "categories": [
+        "book review",
+        "astronomy literature",
+        "science communication"
+      ],
+      "keywords": [
+        "The Astronomer's Universe",
+        "Herbert Friedman",
+        "astrophysics",
+        "cosmology",
+        "space age",
+        "astronomical instrumentation",
+        "telescopes",
+        "electromagnetic spectrum",
+        "stars",
+        "galaxies",
+        "origin of universe",
+        "extraterrestrial life"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-meteor-notes",
+      "documentId": "eph90-10",
+      "title": "METEOR NOTES",
+      "summary": "The article highlights October as an excellent month for meteor observations, featuring the year's fourth-best shower peaking near a new moon and numerous minor showers. It encourages observers to take advantage of this period before winter weather sets in, as the next good opportunity for minor shower activity won't be until April. Robert Lunsford (ALPO Meteors Recorder) provides further insights for the month.",
+      "categories": [
+        "observing reports",
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "meteor observations",
+        "October",
+        "meteor showers",
+        "new moon",
+        "minor showers",
+        "sporadic meteors",
+        "Robert Lunsford",
+        "ALPO Meteors Recorder"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-10-siaa-ephemeris",
+      "documentId": "eph90-10",
+      "title": "SIAA EPHEMERIS",
+      "summary": "The SIAA Ephemeris details the upcoming peak of the Orionid meteor shower around October 21st, forecasting up to 30 meteors per hour under dark, moonless skies, with good visibility extending until October 24th. The article also notes potential activity from other minor showers and encourages observers to submit their meteor counts and photographs for inclusion in data sent to the American Meteor Society (AMS) and ALPO Meteors Section.",
+      "categories": [
+        "Events",
+        "Observing Guide",
+        "Community Science",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Orionids",
+        "meteor shower",
+        "observing",
+        "night sky",
+        "AMS",
+        "ALPO",
+        "meteor observations",
+        "celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-individual-shower-notes",
+      "documentId": "eph90-10",
+      "title": "INDIVIDUAL SHOWER NOTES:",
+      "summary": "This document provides individual notes on several meteor showers, including Kappa Cygnids, Annual Andromedids, October Draconids, Leo Minorids, Pegasids, and Delta Aurigids. It details their characteristics such as brightness, speed, radiant location, and associated comets. Special attention is given to the October Draconids, highlighting their historical strong outbursts and extremely narrow stream.",
+      "categories": [
+        "Astronomy",
+        "Meteor Showers",
+        "Observing Notes",
+        "Celestial Events",
+        "Reference Data"
+      ],
+      "keywords": [
+        "meteor showers",
+        "Kappa Cygnids",
+        "Annual Andromedids",
+        "October Draconids",
+        "Giacobinids",
+        "Leo Minorids",
+        "Pegasids",
+        "Delta Aurigids",
+        "P/comet Biela",
+        "P/comet Giacobini-Zinner",
+        "meteor stream",
+        "radiant",
+        "comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-comet-comments",
+      "documentId": "eph90-10",
+      "title": "COMET COMMENTS",
+      "summary": "The article provides updates on cometary activity, noting Comet Levy's transition from an easy naked-eye evening object to a magnitude 7 morning object later in the year, and Comet Tsuchiya-Kiuchi's emergence into the morning sky for binocular observation. It also announces the recent passing of two prolific comet discoverers: John Bennett from South Africa (2 comets) and Minoru Honda from Japan (12 comets, 11 novae).",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Cometary Astronomy",
+        "Obituaries"
+      ],
+      "keywords": [
+        "Comet Levy",
+        "Comet Tsuchiya-Kiuchi",
+        "John Bennett",
+        "Minoru Honda",
+        "Comets",
+        "Naked-eye object",
+        "Binoculars",
+        "Comet discoverers",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-seeking-comets",
+      "documentId": "eph90-10",
+      "title": "SEEKING COMETS",
+      "summary": "This article, part of a \"Seeking Comets\" series, addresses common questions about the types and sizes of instruments amateur astronomers use for visual comet discovery, as well as the time commitment involved. It presents detailed tables of comets found with various reflectors and binoculars, listing discoverer, instrument specifications, comet magnitude, elongation, sky conditions, and discovery hours. The piece emphasizes that the observer, not just the instrument, is key to successful comet hunting.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observational Astronomy",
+        "Comet Discovery",
+        "Astronomical Instruments",
+        "Technical Data"
+      ],
+      "keywords": [
+        "comets",
+        "comet hunting",
+        "amateur astronomers",
+        "reflectors",
+        "binoculars",
+        "telescopes",
+        "visual observation",
+        "discovery",
+        "astronomical instruments",
+        "observational data",
+        "aperture",
+        "magnitude"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-10-astro-ads",
+      "documentId": "eph90-10",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS offers free advertising for non-commercial entities wishing to sell astronomy-related products or services. Submissions must be sent to the Editor, John P. Gleason, by the 15th of each month, and ads will run for approximately three months.",
+      "categories": [
+        "service announcement",
+        "classifieds",
+        "publication guidelines"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "free advertising",
+        "non-commercial",
+        "astronomy products",
+        "astronomy services",
+        "submission guidelines",
+        "deadline"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-telescopes-and-accessories",
+      "documentId": "eph90-10",
+      "title": "TELESCOPES AND ACCESSORIES -",
+      "summary": "This document lists various used telescopes and accessories for sale, including a Meade 6-inch Schmidt-Newtonian telescope, several finderscopes (Telrad, Lumicon, Celestron), motors, adapters, filters, and a homemade 8-inch Newtonian optical tube assembly. Each item is described briefly with its condition and price.",
+      "categories": [
+        "For Sale",
+        "Equipment",
+        "Used Gear",
+        "Telescope Accessories"
+      ],
+      "keywords": [
+        "Meade",
+        "Schmidt-Newtonian",
+        "Telescopes",
+        "Finderscopes",
+        "Celestron",
+        "Lumicon",
+        "Telrad",
+        "Declination motor",
+        "T-Adapter",
+        "Dew gun",
+        "Filters",
+        "Star diagonal",
+        "Polar axis finder",
+        "AC converter",
+        "Newtonian",
+        "Optical tube assembly"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-officers-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph90-10",
+      "title": "OFFICERS AND BOARD OF DIRECTORS | EPHEMERIS CONTRIBUTORS",
+      "summary": "This document lists the officers and board of directors of an organization, including positions like President, Vice President, Treasurer, Secretary, Editor, and Director, along with their names and contact phone numbers. It also includes a separate list of individuals identified as \"Ephemeris Contributors\" with their contact information. The content serves as a directory of key personnel and contributors.",
+      "categories": [
+        "directory",
+        "administrative",
+        "organization details",
+        "contact information"
+      ],
+      "keywords": [
+        "officers",
+        "board of directors",
+        "ephemeris contributors",
+        "contact list",
+        "personnel",
+        "organization structure",
+        "roles",
+        "membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-comet-ephemeris",
+      "documentId": "eph90-10",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides detailed astronomical ephemeris data for three comets: Comet Levy (1990c), Comet Tsuchiya-Kiuchi (1990i), and Periodic Comet Encke. For specific dates in late 1990, it lists coordinates (Right Ascension and Declination for both 1950 and 2000 epochs), elongation from the Sun, sky visibility, and predicted visual magnitude to assist observers.",
+      "categories": [
+        "Ephemeris",
+        "Comet Observation",
+        "Astronomy Data",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Comet Levy",
+        "Comet Tsuchiya-Kiuchi",
+        "Periodic Comet Encke",
+        "Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Observational Astronomy",
+        "1990"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-this-month-s-meteors",
+      "documentId": "eph90-10",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "The document provides an ephemeris for \"This Month's Meteors,\" detailing several meteor showers with their key characteristics. It includes information on active dates, dates of maximum activity, maximum hourly rates, radiant points, velocities, and specific notes for observing. Notable showers like the Orionids, Southern Taurids, and Northern Taurids are featured with their respective peak rates and durations.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Ephemeris",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Meteor showers",
+        "Meteors",
+        "Observing",
+        "Orionids",
+        "Taurids",
+        "Draconids",
+        "Geminids",
+        "Radiant point",
+        "Hourly rate",
+        "Velocity"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-10-telescope-and-equipment-listings",
+      "documentId": "eph90-10",
+      "title": "Telescope and Equipment Listings",
+      "summary": "This document contains a comprehensive list of classified advertisements for used astronomical telescopes and equipment. It features various models from brands like Celestron, Meade, Televue, and Lumicon, including Newtonian, Schmidt-Cassegrain, and refractor telescopes, along with numerous accessories such as mounts, eyepieces, filters, and camera adapters. Each listing provides a description, price, condition, and seller contact information.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Gear",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Newtonian",
+        "Schmidt Cassegrain",
+        "Refractor",
+        "Dobsonian",
+        "Meade",
+        "Celestron",
+        "Televue",
+        "Lumicon",
+        "Eyepieces",
+        "Mounts",
+        "Tripods",
+        "Filters",
+        "Barlow lens",
+        "Motor drive",
+        "Astrophotography accessories",
+        "Astronomy equipment"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph90-10-astronomical-society-of-the-pacific",
+      "documentId": "eph90-10",
+      "title": "Astronomical Society of the Pacific",
+      "summary": "The Astronomical Society of the Pacific (ASP) is an organization dedicated to advancing science and education, now in its second century of service. The document provides the society's contact information, including its address in San Francisco and phone number.",
+      "categories": [
+        "Organization Profile",
+        "Astronomy Education",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific",
+        "ASP",
+        "astronomy",
+        "science",
+        "education",
+        "society",
+        "organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-officers",
+      "documentId": "eph90-10",
+      "title": "Officers",
+      "summary": "This document lists the key officers of an organization, including the President, President-elect, Secretary, Treasurer, and Executive Director. Frank Drake is named President, with Julie H. Lutz as President-elect, John Gaustad as Secretary, Eugene Epstein as Treasurer, and Andrew Fraknoi as Executive Director, along with their institutional affiliations where noted.",
+      "categories": [
+        "Organizational Information",
+        "Leadership",
+        "Administration",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "President",
+        "President-elect",
+        "Secretary",
+        "Treasurer",
+        "Executive Director",
+        "Frank Drake",
+        "Julie H. Lutz",
+        "John Gaustad",
+        "Eugene Epstein",
+        "Andrew Fraknoi"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-board-of-directors",
+      "documentId": "eph90-10",
+      "title": "Board of Directors",
+      "summary": "This document lists the members of a \"Board of Directors,\" identifying each individual by name and their respective professional affiliation. The affiliations primarily include various universities, observatories, and other organizations, showcasing a diverse range of expertise on the board.",
+      "categories": [
+        "Organizational Information",
+        "Governance",
+        "Personnel Directory",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Governance",
+        "Leadership",
+        "Affiliations",
+        "Academic Institutions",
+        "Observatories",
+        "Universities",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-10-at-u-c-extension-program-with-andrew-fraknoi",
+      "documentId": "eph90-10",
+      "title": "At U.C. Extension Program with Andrew Fraknoi",
+      "summary": "Andrew Fraknoi will present a non-technical lecture titled \"Black Holes: Spacewarps, Time Machines, and the Death of Stars\" at U.C. Berkeley on Saturday, November 8. This all-day program, sponsored by U.C. Extension and the Astronomical Society of the Pacific, will cover various aspects of black holes, including their formation, interaction with stars, role in time travel, connection to quasars, and influence on science fiction.",
+      "categories": [
+        "events",
+        "education",
+        "astronomy",
+        "lecture"
+      ],
+      "keywords": [
+        "Andrew Fraknoi",
+        "Black Holes",
+        "U.C. Berkeley",
+        "astronomy",
+        "lecture",
+        "quasars",
+        "time travel",
+        "science fiction",
+        "U.C. Extension",
+        "Astronomical Society of the Pacific"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph90-10-san-jose-astronomical-association-membership-application",
+      "documentId": "eph90-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), outlining different membership types, their costs, and instructions for submission. It includes the treasurer's mailing address and contact information for new or renewal applications. Additionally, it provides details about the SJAA's monthly publication, \"EPHEMERIS,\" including submission guidelines and the editor's contact details.",
+      "categories": [
+        "Application",
+        "Membership Information",
+        "Organization",
+        "Publication"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership Application",
+        "SJAA",
+        "SJAA Ephemeris",
+        "Dues",
+        "Astronomical Organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9010/Eph90_10.pdf",
+      "txtPath": "9010/Eph90_10.md"
+    }
+  ]
+}

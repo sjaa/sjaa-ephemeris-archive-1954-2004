@@ -1,0 +1,668 @@
+{
+  "articles": [
+    {
+      "id": "eph92-09-sjaa-ephemeris",
+      "documentId": "eph92-09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the \"SJAA EPHEMERIS,\" Volume 3, Number 9, serving as the official publication for the San Jose Astronomical Association. Published in September 1992, it likely functioned as a newsletter or periodical disseminating information relevant to the association's members during that month.",
+      "categories": [
+        "Club News",
+        "Publication",
+        "Historical Document",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "1992",
+        "Newsletter",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-the-eyepiece",
+      "documentId": "eph92-09",
+      "title": "The EYEPIECE",
+      "summary": "This editorial reflects on a summer of excellent observations and encourages members to share their experiences. It highlights an upcoming Peace Corps mission for Del Johnson, who plans to promote amateur astronomy abroad with a small telescope, and mentions a recent successful Yosemite star party. The article also provides a detailed calendar of upcoming club events, including star parties, astronomy classes, and general meetings for September and October.",
+      "categories": [
+        "Editorial",
+        "Events Calendar",
+        "Club News",
+        "Observing Reports",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Amateur astronomy",
+        "Star parties",
+        "Deep sky observing",
+        "Yosemite",
+        "Beginning Astronomy Class",
+        "Club meetings",
+        "Loaner telescopes",
+        "Peace Corps",
+        "Astronomy events",
+        "Observing reports",
+        "Fall season",
+        "Moon phases",
+        "Milpitas Library"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-news-flash",
+      "documentId": "eph92-09",
+      "title": "News Flash!",
+      "summary": "Jim Van Nuland announced the birth of his new grandson, Erik Johathon Van Nuland, playfully referred to as a \"double star\" or \"double discovery.\" The report notes that Jim, the new grandmother, and all involved are doing well.",
+      "categories": [
+        "News",
+        "Personal Announcement",
+        "Community Update"
+      ],
+      "keywords": [
+        "Jim Van Nuland",
+        "Erik Johathon Van Nuland",
+        "Grandson",
+        "Birth announcement",
+        "Family News"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-astronomy-magazine-renewal-time",
+      "documentId": "eph92-09",
+      "title": "Astronomy Magazine Renewal Time",
+      "summary": "SJAA is organizing group renewals for Astronomy magazine subscriptions through Jim Van Nuland. Current SJAA subscribers will be contacted with pricing (tentatively $14), while new subscribers and independent subscribers expiring in 1993 can inquire to join the group rate. Members are explicitly warned not to send payment directly to the magazine, as the group rate offers significant savings.",
+      "categories": [
+        "Subscription Notice",
+        "Member Services",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "magazine renewal",
+        "group subscription",
+        "SJAA",
+        "Jim Van Nuland",
+        "subscription rates",
+        "member benefit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-special-notice",
+      "documentId": "eph92-09",
+      "title": "Special Notice",
+      "summary": "The September beginning astronomy class has been rescheduled to September 11, instead of September 19, due to the Milpitas Library room being unavailable for that date this month only. The document also lists the current officers of the organization, including the President, Vice President, Treasurer, Secretary, and Editors.",
+      "categories": [
+        "news",
+        "events",
+        "administrative",
+        "observing reports"
+      ],
+      "keywords": [
+        "astronomy class",
+        "schedule change",
+        "Milpitas Library",
+        "officers",
+        "September 11",
+        "September 19"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph92-09-arcane-equations-led-einstein-and-all-of-us-into-a-relative-world-his-theories-upset-newton-s-and-now-have-survived-a-series-of-tough-tests-trains-lighting-and-space",
+      "documentId": "eph92-09",
+      "title": "Arcane Equations Led Einstein and All of Us Into a Relative World. His Theories Upset Newton's and Now Have Survived a Series of Tough Tests Trains, Lighting and Space",
+      "summary": "Albert Einstein's general theory of relativity, developed in 1915, revolutionized physics by accurately predicting Mercury's orbital changes and superseding Newton's laws of motion and gravity. This enduring theory has survived numerous rigorous tests, forming the basis of modern physics with practical applications in space exploration and astrophysics. Its profound impact also influenced 20th-century thought by challenging absolute concepts of time and space and made Einstein a public figure.",
+      "categories": [
+        "Physics",
+        "Science History",
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Theories",
+        "Biography",
+        "Cultural Impact"
+      ],
+      "keywords": [
+        "Albert Einstein",
+        "General Relativity",
+        "Isaac Newton",
+        "Gravity",
+        "Mercury's orbit",
+        "Scientific theories",
+        "Modern physics",
+        "Space exploration",
+        "Astrophysics",
+        "Black holes",
+        "Lunar laser ranging",
+        "Theory testing",
+        "History of science",
+        "Cultural impact of science"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-09-testing-for-ether",
+      "documentId": "eph92-09",
+      "title": "Testing for Ether",
+      "summary": "The article discusses the historical context and implications of the Michelson-Morley experiment, which failed to detect the existence of a stationary 'ether' thought to fill space. It then explains how Albert Einstein's 1905 Special Theory of Relativity provided the answer, positing that the speed of light is constant in all frames of reference and abandoning notions of absolute time and motion. This new theory, which included the famous E=mc² equation, resolved paradoxes in Newtonian physics and eliminated the need for the ether.",
+      "categories": [
+        "Physics History",
+        "Scientific Theories",
+        "Experimental Physics",
+        "Theoretical Physics"
+      ],
+      "keywords": [
+        "Michelson-Morley experiment",
+        "ether",
+        "Special Relativity",
+        "Albert Einstein",
+        "speed of light",
+        "principle of relativity",
+        "Newtonian physics",
+        "absolute time",
+        "E=mc²",
+        "frames of reference",
+        "electromagnetic waves"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-the-acceleration-problem",
+      "documentId": "eph92-09",
+      "title": "The Acceleration Problem",
+      "summary": "This article introduces \"The Acceleration Problem\" that Einstein faced in expanding his theory of relativity. While uniform motion is relative, acceleration appears to be absolute, leading to a contradiction where the laws of nature would seem different for varying states of motion. Einstein sought a unified physics conformable to a general principle of relativity, regardless of a body's state of motion.",
+      "categories": [
+        "physics",
+        "history of science",
+        "theoretical science",
+        "relativity"
+      ],
+      "keywords": [
+        "Einstein",
+        "relativity",
+        "acceleration",
+        "uniform motion",
+        "laws of nature",
+        "general principle of relativity",
+        "Zurich",
+        "Berlin"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-09-fremont-peak-b-b-q-and-star-party-by-paul-barton",
+      "documentId": "eph92-09",
+      "title": "Fremont Peak B-B-Q and Star Party by Paul Barton",
+      "summary": "The Fremont Peak B-B-Q and Star Party, a joint event by FPOA and SJAA, was an exceptionally well-attended and organized outing, described as the best of the year. Over a hundred people enjoyed a vast array of telescopes, abundant food, social interaction, and exceptional viewing conditions with warm, clear, and dew-free skies. Highlights included the 30\" Challenger telescope, a T-scanner for solar prominences, and the gracious hospitality of Ranger Rick Morales.",
+      "categories": [
+        "Star Party",
+        "Observing Report",
+        "Community Event",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "FPOA",
+        "SJAA",
+        "Star Party",
+        "Astronomy Event",
+        "Telescopes",
+        "Sky Gazing",
+        "Observing Conditions",
+        "30 inch Challenger telescope",
+        "Solar prominences",
+        "Milky Way",
+        "Andromeda",
+        "Trifid Nebula"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-henry-coe-star-party-by-paul-barton",
+      "documentId": "eph92-09",
+      "title": "Henry Coe Star Party by Paul Barton",
+      "summary": "This article reports on the Henry Coe Star Party, highlighting an outstanding outing characterized by warm, dry weather, good sky conditions with fog below, and a strong turnout of attendees and their telescopes. Participants enjoyed observing until moonrise, with particular praise for Alan Nelms' stable and optically fine 9-inch Takahasi telescope. The report concludes with a reminder about checking the area for lost items and trash to ensure continued access for future events.",
+      "categories": [
+        "observing report",
+        "event",
+        "outing",
+        "community astronomy"
+      ],
+      "keywords": [
+        "Henry Coe Star Party",
+        "star party",
+        "observing",
+        "telescopes",
+        "astronomy",
+        "weather conditions",
+        "moonrise",
+        "Takahasi",
+        "JMI-18"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-houge-park-7-aug-1992-by-paul-barton",
+      "documentId": "eph92-09",
+      "title": "Houge Park - 7 Aug. 1992 by Paul Barton",
+      "summary": "Paul Barton's report details a well-attended public star party at Houge Park on August 7, 1992, featuring 15+ telescopes and 50-100 visitors. Attendees observed various celestial objects including the Moon, Saturn, several nebulae and clusters, Uranus, and Neptune, though the bright moon obscured the Perseid meteors. The event highlighted strong community support, the involvement of an astronomy class, and included a personal announcement regarding a member's family.",
+      "categories": [
+        "Observing Report",
+        "Community Event",
+        "Star Party",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Star Party",
+        "Paul Barton",
+        "1992",
+        "Astronomy Class",
+        "Public Observation",
+        "Telescopes",
+        "Lunar Observation",
+        "Planetary Observation",
+        "Deep-Sky Objects",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Ring Nebula",
+        "Dumbbell Nebula",
+        "Hercules Cluster",
+        "M-92",
+        "Perseid Meteors"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph92-09-double-triple-and-multiple-stars",
+      "documentId": "eph92-09",
+      "title": "Double, Triple, and Multiple Stars",
+      "summary": "This article by Patrick M. Donnelly provides a personal list of ten excellent double stars for observing during September evenings. The selection criteria prioritize visibility, ease of resolution, brightness, and color contrast, making them enjoyable for amateur astronomers. The list includes stars like Gamma Andromedae and Beta Cygni (Alberio), detailing their magnitudes and separations.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Objects",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "double stars",
+        "multiple stars",
+        "observing list",
+        "September skies",
+        "stellar magnitude",
+        "stellar separation",
+        "color contrast",
+        "telescope observation",
+        "Gamma Andromedae",
+        "Beta Cygni",
+        "Psi Draconis"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-comet-comments",
+      "documentId": "eph92-09",
+      "title": "COMET COMMENTS",
+      "summary": "This article reports on the recovery of three faint periodic comets—Giclas (1992 I), Wolf (1992m), and Schuster (1992n)—all recovered by T. Seki, noting their current magnitudes and projected brightness at perihelion. Meanwhile, Comets Shoemaker-Levy and Machholtz are fading from view, leading to an expectation of low comet activity for the upcoming months unless a new bright comet is discovered.",
+      "categories": [
+        "Comet Reports",
+        "Observational Astronomy",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Giclas",
+        "Comet Wolf",
+        "Comet Schuster",
+        "Comet Shoemaker-Levy",
+        "Comet Machholtz",
+        "Comet recovery",
+        "T. Seki",
+        "Don Machholtz",
+        "Magnitude",
+        "Perihelion",
+        "Orbital period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-astro-ads",
+      "documentId": "eph92-09",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS is a free classifieds section for noncommercial advertisers to sell astronomy-related products or services. Ads are accepted by the 12th of each month and run for approximately three months. The current listings include a used Celestron 14 telescope and a Newtonian telescope from an estate sale, both with contact information for potential buyers.",
+      "categories": [
+        "classifieds",
+        "astronomical equipment sales",
+        "community announcements"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "classifieds",
+        "astronomical products",
+        "Celestron 14",
+        "Newtonian telescope",
+        "telescope for sale",
+        "observatory equipment",
+        "estate sale",
+        "free advertising"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-custom-made-german-eq-mnt-spotting-scope-minus-0-965-ocular-2-axis-drive-corrector-disassembled-meade-2x-barlow-2x-telenegative-9mm-guide-reticle-1-25-extension-tubes-camera-extension-adapter-eyepieces-5mm-7mm-9mm-12-5mm-18mm-25mm-30mm-ultrascopic-all-orion-oculars-metal-case-filters-polarizer-2-ea-skyglow-color-set-2-ea-52mm-skyglow-all-1-25-except-as-noted-publication-tirion-sky-atlas-2000-0-delux-color-edition-camera-body-x7a-winder-lenses-500mm-f-8-80-200mm-f-3-5-50mm-f-1-7-2x-teleconverter-total-approximate-value-3-575-call-ms-judie-hobgood-408-244-9851-8-92",
+      "documentId": "eph92-09",
+      "title": "Custom made German EQ mnt, Spotting scope - minus 0.965 ocular, 2 axis drive corrector - disassembled (Meade), 2X Barlow, 2X Telenegative, 9mm guide Reticle, 1.25 extension tubes, Camera Extension Adapter, Eyepieces 5mm, 7mm, 9mm, 12.5mm,18mm, 25mm, 30mm Ultrascopic (all Orion oculars), Metal Case. FILTERS - Polarizer, 2 ea. Skyglow, Color set, 2 ea. 52mm Skyglow (all 1.25 except as noted). PUBLICATION - Tirion Sky Atlas 2000.0 - delux color edition. Camera body - X7A, winder, Lenses 500mm - f/8, 80-200mm f/ 3.5, 50mm f/1.7, 2X Teleconverter. Total Approximate Value $3,575. Call Ms. Judie Hobgood (408) 244-9851 8/92",
+      "summary": "This document functions as a classifieds section from August/September 1992, listing various astronomical equipment for sale. Items include telescopes (like the Meade DS16 and Celestron C5), a custom German equatorial mount, numerous eyepieces (Orion Ultrascopic, Celestron Orthoscopic), filters, drive correctors, camera gear, and a Tirion Sky Atlas. Each listing provides details, pricing, and contact information for the seller.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment Sales",
+        "Used Gear",
+        "Vintage Astronomy"
+      ],
+      "keywords": [
+        "Astronomy equipment",
+        "Telescopes",
+        "Eyepieces",
+        "Filters",
+        "Equatorial mount",
+        "Drive corrector",
+        "Barlow lens",
+        "Spotting scope",
+        "Camera gear",
+        "Tirion Sky Atlas",
+        "Celestron",
+        "Meade",
+        "Bushnell",
+        "For sale",
+        "Vintage astronomy gear"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph92-09-lunar-phases-date-rise-tran-set",
+      "documentId": "eph92-09",
+      "title": "Lunar Phases Date Rise Tran Set",
+      "summary": "This document provides a tabular listing of the precise dates and times for the four primary lunar phases (First Quarter, Full Moon, Last Quarter, New Moon) for the month of September. For each phase, it also specifies the corresponding rise, transit, and set times. This information is crucial for planning observations or understanding the Moon's visibility throughout its cycle.",
+      "categories": [
+        "astronomical data",
+        "ephemeris",
+        "observing guide"
+      ],
+      "keywords": [
+        "lunar phases",
+        "moon",
+        "first quarter",
+        "full moon",
+        "last quarter",
+        "new moon",
+        "rise time",
+        "transit time",
+        "set time",
+        "astronomy",
+        "september"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-nearer-planets",
+      "documentId": "eph92-09",
+      "title": "Nearer Planets",
+      "summary": "The article 'Nearer Planets' provides an ephemeris for Mercury, Venus, Mars, Jupiter, Saturn, and the Sun for three specific dates in September. For each celestial body, it lists its distance in Astronomical Units (A.U.), apparent magnitude, and three time entries likely representing rise, transit, and set times. This data serves as a guide for astronomical observers interested in these objects.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guide",
+        "Planetary Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Apparent Magnitude",
+        "Astronomical Units",
+        "Observational Data",
+        "September"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-astronomical-twilight",
+      "documentId": "eph92-09",
+      "title": "Astronomical Twilight",
+      "summary": "This document provides a concise table listing astronomical twilight start and end times for several specific dates in September. Each entry includes the Julian Date, the calendar date, and the corresponding times when astronomical twilight begins and ends. This information serves as a practical reference for planning astronomical observations.",
+      "categories": [
+        "Astronomy Data",
+        "Observing Planning",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Julian Date",
+        "Observing times",
+        "Twilight hours",
+        "Night sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-sidereal-time",
+      "documentId": "eph92-09",
+      "title": "Sidereal Time",
+      "summary": "This document provides specific sidereal time values corresponding to various astronomical points or events on different dates in September, expressed in Pacific Standard Time (PST). It lists sidereal times for 'Transit Right', 'Ascention', and 'Local Midnight', indicating a reference for astronomical timekeeping.",
+      "categories": [
+        "Astronomical Data",
+        "Timekeeping",
+        "Reference"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right",
+        "Ascention",
+        "Local Midnight",
+        "PST",
+        "Astronomy",
+        "Celestial Mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-darkest-saturday-night-sep-26",
+      "documentId": "eph92-09",
+      "title": "Darkest Saturday Night ..... Sep 26",
+      "summary": "This document provides astronomical times for a 'Darkest Saturday Night' on September 26, specifically listing the sunset, twilight end, and moon rise times. All times and dates are noted as Pacific Daylight. It appears to be a short informational piece for observers.",
+      "categories": [
+        "Observing Conditions",
+        "Astronomical Times",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Darkest Saturday Night",
+        "September 26",
+        "Sunset",
+        "Twilight End",
+        "Moon Rise",
+        "Pacific Daylight Time",
+        "Astronomy",
+        "Observing"
+      ],
+      "pageStart": 26,
+      "pageEnd": 26
+    },
+    {
+      "id": "eph92-09-offices-and-board-of-directors",
+      "documentId": "eph92-09",
+      "title": "Offices and Board of Directors",
+      "summary": "This document provides a directory of the current offices and board of directors, detailing the names and contact phone numbers for each position. It lists individuals holding key leadership roles such as President, Vice President, Treasurer, Secretary, and several Directors within the organization.",
+      "categories": [
+        "Organizational Information",
+        "Leadership Directory",
+        "Contact List"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Leadership",
+        "Officers",
+        "Organizational structure",
+        "Contact information",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-ephemeris-contributors",
+      "documentId": "eph92-09",
+      "title": "Ephemeris Contributors",
+      "summary": "This document provides a list of individuals identified as 'Ephemeris Contributors'. It includes their names along with corresponding phone numbers, serving as a contact directory for these contributors.",
+      "categories": [
+        "Directory",
+        "Contact Information",
+        "Reference"
+      ],
+      "keywords": [
+        "Ephemeris Contributors",
+        "Don Machholtz",
+        "Pat Donnelly",
+        "Richard Stanton",
+        "Bill Dellinger",
+        "Bob Fingerhut",
+        "Paul Barton",
+        "Contact List"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-editor",
+      "documentId": "eph92-09",
+      "title": "Editor",
+      "summary": "This document snippet introduces the editor, Bob Madden, along with his contact information. It also references a detailed astronomical map or chart and mentions an ephemeris for September 6, 1992, suggesting content related to celestial observations and planning. The page appears to be from a dated publication, possibly an astronomy club newsletter or magazine.",
+      "categories": [
+        "Editorial",
+        "Astronomy",
+        "Archival Content"
+      ],
+      "keywords": [
+        "Editor",
+        "Bob Madden",
+        "Ephemeris",
+        "Astronomical map",
+        "Celestial features",
+        "Telescope viewing",
+        "1992"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-09-directions-to-our-favorite-places-by-your-editor",
+      "documentId": "eph92-09",
+      "title": "Directions to our Favorite Places by your Editor",
+      "summary": "This article provides detailed directions to various key locations for an astronomy club's activities, including the Milpitas Library for meetings and classes, Houge Park for public star parties, Henry Coe State Park for star parties, and Grant Ranch for observing. It offers practical advice for accessing these sites, such as parking instructions, safety warnings, and information about facilities like restrooms, encouraging participation from both members and the public.",
+      "categories": [
+        "Directions and Logistics",
+        "Astronomy Events",
+        "Club Information",
+        "Observing Sites"
+      ],
+      "keywords": [
+        "Directions",
+        "Milpitas Library",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Grant Ranch",
+        "Star Parties",
+        "Astronomy Meetings",
+        "Beginning Astronomy Classes",
+        "Observing Sites",
+        "Park Access",
+        "Safety Guidelines"
+      ],
+      "pageStart": 1,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-09-san-jose-astronomical-association-membership",
+      "documentId": "eph92-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and costs for the San Jose Astronomical Association (SJAA), including standard, junior, and S&T bundled memberships. It serves as an application form, providing fields for personal information and instructions on how to submit the form and payment to the Treasurer.",
+      "categories": [
+        "Membership",
+        "Club Information",
+        "Forms"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Dues",
+        "Astronomy club",
+        "Treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-09-make-checks-payable-to-sjaa",
+      "documentId": "eph92-09",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document serves as a membership and information page for the San Jose Astronomical Association (SJAA). It outlines different membership types (e.g., Membership Only, Membership/S&T, Junior), provides contact details for the association, and includes submission guidelines for its monthly publication, \"Ephemeris.\" The document is dated September 1992.",
+      "categories": [
+        "Membership Information",
+        "Organizational News",
+        "Publication Details",
+        "Contact Information",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Ephemeris",
+        "Astronomy Club",
+        "Newsletter",
+        "San Jose",
+        "Milpitas",
+        "1992"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9209/Eph92_09.pdf",
+      "txtPath": "9209/Eph92_09.md"
+    }
+  ]
+}

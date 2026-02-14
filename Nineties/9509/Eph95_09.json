@@ -1,0 +1,685 @@
+{
+  "articles": [
+    {
+      "id": "eph95-09-sjaa-ephemeris",
+      "documentId": "eph95-09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA Ephemeris is the official publication of the San Jose Astronomical Association, specifically for September 1995. It is identified as Volume 6, Number 9, indicating a regular newsletter or magazine from the organization.",
+      "categories": [
+        "Newsletter",
+        "Astronomical Association Publication",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "September 1995",
+        "Astronomy Publication",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-the-eyepiece",
+      "documentId": "eph95-09",
+      "title": "The Eyepiece",
+      "summary": "This column reports on a recent less-than-excellent viewing experience at Fremont Peak, highlighting a persistent insect problem and offering practical solutions. It also provides updates on early Ephemeris publication and upcoming USPS rule changes for non-profits. A detailed calendar for September and October outlines numerous astronomical events, including star parties, general meetings, an observational astronomy class, and a 40th-year anniversary dinner for the San Jose Astronomical Association.",
+      "categories": [
+        "Observing Reports",
+        "Club News",
+        "Event Calendar",
+        "Practical Tips"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star Parties",
+        "Astronomical Events",
+        "Insect Repellent",
+        "San Jose Astronomical Association (SJAA)",
+        "Ephemeris",
+        "Club Meetings",
+        "Observational Astronomy",
+        "USPS Regulations",
+        "Anniversary Celebration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-forty-years-ago-this-month",
+      "documentId": "eph95-09",
+      "title": "Forty Years Ago this month",
+      "summary": "This article recounts a September meeting of an astronomy club, led by President Walt Krumm, featuring presentations on a recent convention, the constellations Pegasus and Andromeda, and detailed instructions on making telescope tripods. Following the meeting, members gathered for an hour of observing in Columbus Park. The piece also briefly touches on club activities, an internal policy debate, and lists the club's officers.",
+      "categories": [
+        "Meeting Report",
+        "Astronomy Club Activity",
+        "Educational Content",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Astronomy Club Meeting",
+        "San Jose State",
+        "Yosemite Convention",
+        "Constellations",
+        "Pegasus",
+        "Andromeda",
+        "Telescope Mountings",
+        "Tripod",
+        "Columbus Park",
+        "Observing Session",
+        "Telescope Making",
+        "CCD",
+        "Public Star Parties"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-09-moonwatch",
+      "documentId": "eph95-09",
+      "title": "MOONWATCH",
+      "summary": "Don Watson recounts his experiences with the \"Moonwatch\" program in the late 1950s/early 1960s, where amateur astronomers, including his Cincinnati Astronomical Society team, were tasked with tracking early artificial satellites after the launch of the first Russian satellite. His team leveraged early IBM mainframe computers and a Fortran program developed by student Tom van Flandern to generate satellite predictions, aiding their observations and fostering friendly competition with other groups. Watson shares personal anecdotes about the challenges and rewards of this pioneering effort in citizen science.",
+      "categories": [
+        "Historical Account",
+        "Amateur Astronomy",
+        "Satellite Tracking",
+        "Citizen Science",
+        "Early Computing"
+      ],
+      "keywords": [
+        "Moonwatch",
+        "Satellite Tracking",
+        "Amateur Astronomy",
+        "Cold War",
+        "Early Computing",
+        "Fortran",
+        "Cincinnati Astronomical Society",
+        "Sputnik",
+        "Tom van Flandern",
+        "Observing Reports"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-henry-coe-state-park",
+      "documentId": "eph95-09",
+      "title": "Henry Coe State Park",
+      "summary": "A star party held at Henry Coe State Park on July 22 was successful despite challenging high winds that made high-power viewing difficult. Attendees observed various deep-sky objects like M4, M22, M24, and M11, along with Jupiter and Saturn. The highlight was the successful search, finding, and verification of the motion of Comet 6P/d'Arrest.",
+      "categories": [
+        "observing report",
+        "star party",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "star party",
+        "Comet 6P/d'Arrest",
+        "Jupiter",
+        "Saturn",
+        "deep-sky objects",
+        "M4",
+        "M22",
+        "M24",
+        "M11",
+        "Jim Van Nuland",
+        "Bill O'Shaughnessy",
+        "Ken Miura",
+        "telescopes",
+        "astronomy",
+        "observing conditions",
+        "comet observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-astronomical-humour",
+      "documentId": "eph95-09",
+      "title": "Astronomical Humour",
+      "summary": "This article features a humorous anecdote from Isaac Asimov, where he recounts his extensive experience explaining complex scientific concepts like wave-particle duality. He humorously notes that he's become so adept that at dinner parties, guests conspire to avoid asking him about it, leaving him \"primed and aching to explain\" but never given the opportunity.",
+      "categories": [
+        "Humor",
+        "Science Communication",
+        "Anecdote"
+      ],
+      "keywords": [
+        "Astronomical Humour",
+        "Isaac Asimov",
+        "wave-particle duality",
+        "science humor",
+        "physics explanation",
+        "anecdote"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-09-heartbreak-of-optics",
+      "documentId": "eph95-09",
+      "title": "Heartbreak of Optics",
+      "summary": "Bill Marriott recounts a 'heartbreak' incident where he accidentally cracked a large Bk-7 glass slab due to thermal shock, despite his own cautions about the material's sensitivity. Drawing inspiration from a historical account of a cracked 60-inch mirror blank, he quickly sourced alternative glass plates from a supplier. He is now considering how to utilize these new blanks for various optical projects, such as an optical window or a Schmidt corrector, while continuing his other ongoing work.",
+      "categories": [
+        "Personal Account",
+        "Optics Fabrication",
+        "Technical Discussion",
+        "Problem Solving",
+        "Glassworking"
+      ],
+      "keywords": [
+        "Optics",
+        "Bk-7",
+        "Thermal Shock",
+        "Glass Fabrication",
+        "Mirror Making",
+        "Optical Window",
+        "Schmidt Corrector",
+        "Fused Silica",
+        "Glass Blanks",
+        "Elihu Thomson"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-meteor-scatter-the-faqs",
+      "documentId": "eph95-09",
+      "title": "METEOR SCATTER - the FAQs",
+      "summary": "This FAQ document, revised July 1995, provides basic information about meteor scatter (MS) for amateur astronomers, radio amateurs, and schools. It explains MS as the temporary reflection of radio waves by ionized meteor trails (100-80 km altitude) and clarifies that meteors do not generate radio emissions themselves. The guide outlines how to observe MS by tuning to empty VHF frequencies to pick up distant broadcast stations, highlighting its utility for studying daylight meteor streams and secure communication.",
+      "categories": [
+        "Radio Astronomy",
+        "Amateur Radio",
+        "Science Education",
+        "Astronomy",
+        "FAQ"
+      ],
+      "keywords": [
+        "Meteor scatter",
+        "Radio meteor observations",
+        "Electromagnetic wave propagation",
+        "VHF band",
+        "Ionized trail",
+        "Forward scatter",
+        "Backscatter",
+        "Radio amateurs",
+        "Amateur astronomy",
+        "Radar"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-09-meteors-continued-from-page-three",
+      "documentId": "eph95-09",
+      "title": "Meteors - continued from page three",
+      "summary": "This article serves as a guide for radio meteor observation, detailing suitable frequencies (40-144 MHz) and recommended equipment such as FM receivers and Yagi antennas. It explains how to identify and record meteor reflections, discusses potential interferences like sporadic-E, and offers insights into relating radio observations to visual ones. The text also covers methods for correcting observed meteor counts and lists resources for meteor stream data.",
+      "categories": [
+        "Technical",
+        "Amateur Astronomy",
+        "Observing Techniques",
+        "Radio Astronomy",
+        "Meteors"
+      ],
+      "keywords": [
+        "Meteors",
+        "Radio Observation",
+        "Meteor Showers",
+        "VHF Frequencies",
+        "Radio Equipment",
+        "Sporadic-E",
+        "Amateur Astronomy",
+        "Signal Processing",
+        "Antenna",
+        "Meteor Stream Data"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-09-meteors",
+      "documentId": "eph95-09",
+      "title": "Meteors",
+      "summary": "This document provides resources for meteor observation, particularly focusing on radio meteor science. It directs readers to online sources for meteor stream overviews, observational data, and reduction software, as well as the monthly RMOB for global observation summaries. Key references include foundational books like 'Meteor Science and Engineering' and 'Meteor Burst Communications,' along with relevant astronomy periodicals.",
+      "categories": [
+        "Technical",
+        "Observational Data & Software",
+        "Resource List",
+        "Astronomy",
+        "Radio Astronomy"
+      ],
+      "keywords": [
+        "Meteors",
+        "Radio meteor science",
+        "Observational data",
+        "Reduction software",
+        "Meteor Burst Communications",
+        "References",
+        "Astronomy resources"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-periodical-publication-statement",
+      "documentId": "eph95-09",
+      "title": "Periodical Publication Statement",
+      "summary": "The SJAA Ephemeris, the monthly newsletter of the San Jose Astronomical Association, is published 12 times a year from January to December. It is provided as a service included with membership and is also distributed to other astronomy clubs, publishers, and selected individuals.",
+      "categories": [
+        "Publication Information",
+        "Administrative",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "newsletter",
+        "San Jose Astronomical Association",
+        "publication",
+        "monthly",
+        "membership",
+        "astronomy clubs"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-my-new-1-16-f-34-schiefspiegler",
+      "documentId": "eph95-09",
+      "title": "My new 1.16\" f/34 Schiefspiegler",
+      "summary": "Frustrated by poor views of Jupiter through his Meade 2045D SC in humid Texas skies, Bob Rogers improvised a '1.16\" f/34 Schiefspiegler' by adding a card stock disk with a small hole to his telescope. This simple modification significantly improved image contrast, allowing him to discern both the Northern and Southern dark zones on Jupiter, which were previously hard to see. The document also includes an astronomy club calendar for late 1995.",
+      "categories": [
+        "observing reports",
+        "DIY/modifications",
+        "events",
+        "news"
+      ],
+      "keywords": [
+        "Schiefspiegler",
+        "Jupiter",
+        "telescope modification",
+        "aperture",
+        "image contrast",
+        "Meade 2045D SC",
+        "star party",
+        "astronomy class",
+        "September 1995"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-09-telescope-loaner-status",
+      "documentId": "eph95-09",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides a status update for a telescope loaner program, detailing various telescopes, their current users, and due dates. It indicates which telescopes are currently available for loan, specifies conditions for borrowing a solar telescope, and includes a waitlist and instructions for members to request an instrument.",
+      "categories": [
+        "Equipment Management",
+        "Program Update",
+        "Member Services"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Telescope availability",
+        "Equipment status",
+        "Due dates",
+        "Waitlist",
+        "Borrowing instructions",
+        "Solar telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-astro-ads",
+      "documentId": "eph95-09",
+      "title": "ASTRO ADS",
+      "summary": "The \"ASTRO ADS\" section provides free classifieds for noncommercial advertisers to sell astronomically related products or services. This particular section includes a 'lost' ad for an SJAA battery left at Fremont Peak, as well as two 'for sale' ads for a 12-1/2 inch f/9 Ritchy Chretien telescope and an 8-inch f/8 Newtonian telescope.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Lost and Found",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "classifieds",
+        "astronomy",
+        "telescope",
+        "Ritchy Chretien",
+        "Newtonian",
+        "Deep Cycle battery",
+        "Fremont Peak",
+        "C-11",
+        "star instruments",
+        "Cave mirror"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-notice",
+      "documentId": "eph95-09",
+      "title": "Notice",
+      "summary": "The article announces that John Dobson will be celebrating his 80th birthday in September. A Star Party is scheduled for September 1st at Houge Park to honor him for his significant contributions to amateur astronomy and astronomy education.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Amateur Astronomy",
+        "Education"
+      ],
+      "keywords": [
+        "John Dobson",
+        "80th Birthday",
+        "Star Party",
+        "Houge Park",
+        "Amateur astronomy",
+        "Astronomy education",
+        "Celebration",
+        "September 1995"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-09-lunar-phase-date-rise-trans-set",
+      "documentId": "eph95-09",
+      "title": "Lunar Phase Date Rise Trans Set",
+      "summary": "This document provides a tabular overview of key lunar phases, including First Quarter, Full Moon, Last Quarter, and New Moon. For each phase, it lists the corresponding date and the moon's rise, transit, and set times, offering a concise astronomical reference.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Celestial Mechanics",
+        "Data"
+      ],
+      "keywords": [
+        "lunar phase",
+        "moon",
+        "rise time",
+        "set time",
+        "transit time",
+        "first quarter",
+        "full moon",
+        "last quarter",
+        "new moon",
+        "astronomy data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-nearer-planets",
+      "documentId": "eph95-09",
+      "title": "Nearer Planets",
+      "summary": "This document provides an astronomical guide for observing the 'nearer planets' including Mercury, Venus, Mars, Jupiter, and Saturn. For three specific dates (the 7th, 17th, and 27th), it lists each planet's approximate distance from the sun in Astronomical Units (A.U.), apparent magnitude, and three associated observing times.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Observing",
+        "Magnitude",
+        "Astronomical Unit",
+        "Viewing Times",
+        "Solar System"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-sol-star-type-g2v",
+      "documentId": "eph95-09",
+      "title": "SOL Star Type G2V",
+      "summary": "This document identifies the subject as \"SOL Star Type G2V,\" referring to our Sun. It presents a concise tabular dataset that appears to list celestial coordinates (Right Ascension and Declination) along with additional numerical values across several entries, possibly for tracking or reference.",
+      "categories": [
+        "Astronomy",
+        "Stellar Data",
+        "Technical Reference"
+      ],
+      "keywords": [
+        "SOL",
+        "Sun",
+        "G2V",
+        "Star Type",
+        "Right Ascension",
+        "Declination",
+        "Celestial Coordinates",
+        "Stellar Classification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-astronomical-twilight",
+      "documentId": "eph95-09",
+      "title": "Astronomical Twilight",
+      "summary": "The document presents a table detailing the start and end times for astronomical twilight across several Julian Dates. This data illustrates the shifting duration and timing of astronomical twilight over a period of approximately one month.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Timing",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Twilight times",
+        "Ephemeris",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-sidereal-time",
+      "documentId": "eph95-09",
+      "title": "Sidereal Time",
+      "summary": "This document provides sidereal time transit data, specifically Right Ascension at Local Midnight, for various dates in September. It also details specific astronomical event times—sunset, twilight end, moonset, and dawn begin—for 'Darkest Saturday Night' on September 23, 1995.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Aids"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Sunset",
+        "Twilight",
+        "Moonset",
+        "Dawn",
+        "1995",
+        "Astronomical Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-officers-and-board-of-directors",
+      "documentId": "eph95-09",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors, including their names, titles (President, Vice President, Treasurer, Secretary, and Directors), and respective contact phone numbers. It serves as a directory for the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Governance",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact Information",
+        "Directory",
+        "Organization",
+        "Pres",
+        "Vice Pres",
+        "Treas",
+        "Sec",
+        "Dir"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-ephemeris-contributors",
+      "documentId": "eph95-09",
+      "title": "Ephemeris Contributors",
+      "summary": "The article 'Ephemeris Contributors' provides a list of individuals who contribute to ephemeris data. It includes their names and associated phone numbers, serving as a contact directory for these contributors.",
+      "categories": [
+        "Reference",
+        "Directory",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact List",
+        "Directory",
+        "Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-comet-comments",
+      "documentId": "eph95-09",
+      "title": "COMET COMMENTS",
+      "summary": "The article provides updates on several comets, noting that Periodic Comet d'Arrest is dimming while Periodic Comet Jackson-Neujmin is slightly brightening. The primary focus is the independent discovery of Comet 1995 O1 (Hale-Bopp) by Alan Hale and Thomas Bopp on July 23, 1995, detailing their discovery circumstances and early indications that the comet is distant and will be visible for an extended period.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discovery",
+        "Astronomical News"
+      ],
+      "keywords": [
+        "Comet d'Arrest",
+        "Comet Jackson-Neujmin",
+        "Comet Hale-Bopp",
+        "1995 O1",
+        "Alan Hale",
+        "Thomas Bopp",
+        "Comet discovery",
+        "Comet observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-ephemeris",
+      "documentId": "eph95-09",
+      "title": "EPHEMERIS",
+      "summary": "This document provides ephemeris data for several comets, including 96P/d'ARREST and 1994 d1 (HALE-BOPP), detailing their celestial coordinates (Right Ascension, Declination), elongation, and predicted sky magnitudes for observation periods in late 1995. It also lists orbital elements like perihelion date and distance for these comets. The information, compiled by Don Machholz, serves as an observing guide, noting that orbital data for P/JACKSON-NEUJMIN 1995O is approximate due to insufficient precision.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Ephemeris",
+        "Observational Data",
+        "Orbital Mechanics",
+        "Technical"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "96P/d'ARREST",
+        "Hale-Bopp",
+        "1994 d1",
+        "P/JACKSON-NEUJMIN 1995O",
+        "Comets",
+        "Right Ascension",
+        "Declination",
+        "Sky Magnitude",
+        "Orbital Elements",
+        "Perihelion",
+        "Observing Guide",
+        "Astronomical Data",
+        "Don Machholz"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-09-san-jose-astronomical-association-membership",
+      "documentId": "eph95-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association (SJAA) publishes a monthly newsletter called \"EPHEMERIS\" and encourages members to submit articles for publication. Submissions should be typed and sent to the editor, Bob Madden, by the 12th of the previous month, preferably as a text file on a 3-1/2\" IBM or MAC diskette, but written submissions are also accepted.",
+      "categories": [
+        "Association News",
+        "Publication Guidelines",
+        "Membership Information",
+        "Call for Submissions"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "Membership",
+        "Article Submission",
+        "Newsletter",
+        "Publication",
+        "Bob Madden",
+        "Deadlines"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-san-jose-astronomical-association-membership",
+      "documentId": "eph95-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It details various membership types and their associated fees, including options for individual, S&T magazine inclusive, and junior memberships. The form provides instructions for submission to the treasurer and payment details, along with the organization's mailing address.",
+      "categories": [
+        "Membership",
+        "Organization Administration",
+        "Forms"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "membership fees",
+        "astronomy club",
+        "non-profit",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-09-sjaa-hotline",
+      "documentId": "eph95-09",
+      "title": "SJAA HOTLINE",
+      "summary": "The document, titled \"SJAA HOTLINE,\" provides a 24-hour information phone number (408-559-1221) for the SJAA. It references an ephemeris from September 1995, suggesting it's a resource for astronomical data and club-related information.",
+      "categories": [
+        "Announcement",
+        "Astronomy Club Information",
+        "Resource",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "SJAA",
+        "Hotline",
+        "Information",
+        "Ephemeris",
+        "Astronomy",
+        "1995"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9509/Eph95_09.pdf",
+      "txtPath": "9509/Eph95_09.md"
+    }
+  ]
+}

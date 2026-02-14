@@ -1,0 +1,640 @@
+{
+  "articles": [
+    {
+      "id": "eph93-09-sjaa-ephemeris",
+      "documentId": "eph93-09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the September 1993 issue of the \"SJAA EPHEMERIS,\" the official monthly publication of the San Jose Astronomical Association. It is identified as Volume 4, Number 9, suggesting a regular release schedule for the organization's members.",
+      "categories": [
+        "Publication",
+        "News",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "SJAA EPHEMERIS",
+        "San Jose Astronomical Association",
+        "September 1993",
+        "Astronomical Publication",
+        "Club Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-the-eyepiece",
+      "documentId": "eph93-09",
+      "title": "The EYEPIECE",
+      "summary": "This article from \"The EYEPIECE\" newsletter provides updates on recent club activities and a comprehensive schedule of upcoming events. It features Ernie Piini's report from UNIVERSE '93, including details on his eclipse publication and a stepper motor driver design, alongside a recap of a successful club picnic. The newsletter also announces numerous star parties, general meetings (including a 'Show and Tell' session), and observational astronomy classes for September and October, while seeking a volunteer to operate the club's 11\" Celestron telescope and soliciting reports on a recent meteor shower.",
+      "categories": [
+        "Club News",
+        "Event Announcements",
+        "Observing Reports",
+        "Education",
+        "Technical Notes",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "UNIVERSE '93",
+        "Eclipse",
+        "Stepper motor",
+        "Amateur astronomy",
+        "Star parties",
+        "General meetings",
+        "Observational Astronomy class",
+        "Celestron Compustar",
+        "Meteor shower",
+        "Show and Tell",
+        "Fremont Peak SP",
+        "Hogue Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-another-weekend-at-yo-semite",
+      "documentId": "eph93-09",
+      "title": "Another weekend at Yo-semite",
+      "summary": "The author, Jack Zeiders, details his trip to Yosemite for the annual SJAA weekend, renting a Ford Aerostar for reliability and bringing his niece who was a first-time visitor. They arrived on Friday, received campsite advice from Jim Van Noodle, and were greeted by Jim Eiselt at the campsite behind the ranger cabins.",
+      "categories": [
+        "observing reports",
+        "events",
+        "trip report",
+        "personal experience",
+        "club activities"
+      ],
+      "keywords": [
+        "Yosemite",
+        "SJAA",
+        "camping",
+        "Glacier Point",
+        "Jack Zeiders",
+        "Ford Aerostar",
+        "Jim Van Noodle",
+        "Jim Eiselt"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-09-jack-zeiders-yosemite",
+      "documentId": "eph93-09",
+      "title": "Jack Zeiders' Yosemite",
+      "summary": "Jack Zeiders recounts his astronomy trip to Yosemite's Glacier Point, detailing his experiences setting up telescopes for both terrestrial viewing of climbers and celestial observation for park visitors. Despite successful outreach and views of the night sky, the trip was significantly hampered by frustrating park regulations requiring frequent vehicle relocation, leading him to consider alternative, less restrictive dark sky sites for future star parties.",
+      "categories": [
+        "Observing Report",
+        "Travel/Trip Report",
+        "Astronomy Outreach",
+        "Park Logistics"
+      ],
+      "keywords": [
+        "Yosemite",
+        "Glacier Point",
+        "Astronomy",
+        "Telescope",
+        "Half Dome",
+        "Climbers",
+        "Observing",
+        "Dark Sky Site",
+        "Star Party",
+        "Park Regulations",
+        "Quantum Telescope",
+        "Epsilon Lyrae",
+        "Pelican Nebula"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph93-09-universe-93",
+      "documentId": "eph93-09",
+      "title": "UNIVERSE '93",
+      "summary": "The article reports on UNIVERSE '99, a successful National Astronomy Exposition and Fair held by the Astronomical Society of the Pacific (ASP) and Astronomy magazine in July 1993 at San Diego State University, attracting over 1000 participants. The author, Ernie Piini, details several memorable talks he attended, including presentations on 'The Green Flash,' 'Astronomy of the Ancient Mayas,' and 'Seeking the Holy Grail of Amateur Astronomy,' featuring speakers like Mark Coco, Dr. Ed Krupp, and Terence Dickenson, as well as a captivating talk by Sally Ride.",
+      "categories": [
+        "Event Report",
+        "Astronomy Conference",
+        "Amateur Astronomy",
+        "Science Exposition"
+      ],
+      "keywords": [
+        "UNIVERSE '93",
+        "Astronomical Society of the Pacific (ASP)",
+        "Astronomy magazine",
+        "San Diego State University",
+        "Green Flash",
+        "Astronomy of the Ancient Mayas",
+        "Terence Dickenson",
+        "Sally Ride",
+        "Astronomy Exposition",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-09-universe-93",
+      "documentId": "eph93-09",
+      "title": "UNIVERSE '93",
+      "summary": "The article provides a detailed recap of the UNIVERSE '93 conference, highlighting various prominent speakers and their captivating presentations. Topics ranged from Sally Ride's insights on observing Earth from space, Allen Dyer's guide to choosing telescopes, and Stephen Edberg's expertise on solar eclipses, to Jack Newton and Richard Berry's discussions on advanced CCD astrophotography and image processing. A significant part of the report focuses on David Levy's talk about comet hunting, including the co-discovery of Comet Shoemaker-Levy and its impending impact with Jupiter.",
+      "categories": [
+        "Events",
+        "Conference Review",
+        "Astronomy",
+        "Observing",
+        "Technical Presentations"
+      ],
+      "keywords": [
+        "UNIVERSE '93",
+        "Astronomy Conference",
+        "Sally Ride",
+        "David Levy",
+        "Comet Shoemaker-Levy",
+        "CCD Photography",
+        "Image Processing",
+        "Telescopes",
+        "Astrophotography",
+        "Space Observation",
+        "Solar Eclipses",
+        "Jupiter"
+      ],
+      "pageStart": 2,
+      "pageEnd": 95
+    },
+    {
+      "id": "eph93-09-directions-to-hogue-park-by-your-editor",
+      "documentId": "eph93-09",
+      "title": "Directions to Hogue Park by your Editor",
+      "summary": "This document provides directions to Hogue Park for an Observational Astronomy class and public star party. The class, open to all, starts at 8:00 P.M., while star parties commence at sundown and conclude around 11:00 P.M. Attendees are encouraged to bring telescopes, assist others, and foster interest in astronomy.",
+      "categories": [
+        "event announcement",
+        "directions",
+        "public outreach"
+      ],
+      "keywords": [
+        "Hogue Park",
+        "Observational Astronomy",
+        "star party",
+        "class",
+        "directions",
+        "telescope",
+        "night sky",
+        "public event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-astro-ads",
+      "documentId": "eph93-09",
+      "title": "ASTRO ADS",
+      "summary": "The 'ASTRO ADS' section offers free classifieds for noncommercial advertisers to sell astronomically related products or services, requiring submissions by the 12th of each month for a three-month run. The listings include various used astronomical equipment such as telescopes (Questar, Meade, Celestron, Takahashi, Criterion), lenses, mounts, and accessories, along with a 'wanted to trade' service. The document also briefly references an 'EPHEMERIS Page' and a '1993 SJAA Calendar', suggesting broader club activities and information.",
+      "categories": [
+        "classifieds",
+        "astronomy equipment sales",
+        "club information",
+        "events calendar",
+        "observing guides"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "astronomical equipment",
+        "telescopes",
+        "eyepieces",
+        "mounts",
+        "lenses",
+        "accessories",
+        "Questar",
+        "Meade",
+        "Celestron",
+        "Takahashi",
+        "Criterion",
+        "services trade",
+        "club calendar",
+        "ephemeris",
+        "Hogue Park"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-09-observational-astronomy-class",
+      "documentId": "eph93-09",
+      "title": "Observational Astronomy Class",
+      "summary": "This document, titled \"Observational Astronomy Class,\" provides sparse and fragmented information, possibly related to numerical items or assignments. The primary instruction is for participants to consult their *Ephemeris* monthly for important updates and changes pertaining to the class.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Class Announcement",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Observational Astronomy",
+        "Class",
+        "Ephemeris",
+        "Course Updates",
+        "Astronomy Education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-telescope-loaner-program",
+      "documentId": "eph93-09",
+      "title": "Telescope Loaner Program",
+      "summary": "This article provides an update on the status and needs of a telescope loaner program run by Paul Barton. It details the availability of specific telescopes, identifies equipment in need of repair or parts (such as a finder for Telescope #4 and a tube for #20), and issues a call for a qualified operator for Telescope #9 and a new mount for the solar telescope.",
+      "categories": [
+        "Program Update",
+        "Equipment Status",
+        "Requests for Assistance",
+        "Loaner Program"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Paul Barton",
+        "Telescope #4",
+        "Telescope #9",
+        "11\" Celestron",
+        "Star Parties",
+        "Telescope #18",
+        "Reflector",
+        "Polar Mount",
+        "Del Johnson",
+        "Chung-Lin Lee",
+        "Yosemite trip",
+        "Finder",
+        "Telescope #20",
+        "4\" Dobson",
+        "Super Polaris GE Mount",
+        "Solar Telescope"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-09-astronomy-magazine-renewal",
+      "documentId": "eph93-09",
+      "title": "ASTRONOMY MAGAZINE RENEWAL",
+      "summary": "This announcement concerns the renewal of Astronomy magazine subscriptions, noting that renewal information has not yet been received. It provides details on renewing through SJAA, which includes a postcard notification, and explains how independent subscribers can convert to the association rate for subscriptions expiring late in 1993 or during 1994.",
+      "categories": [
+        "magazine subscription",
+        "membership benefits",
+        "club announcement",
+        "news"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "renewal",
+        "SJAA",
+        "subscription",
+        "association rate",
+        "Jim Van Nuland",
+        "magazine cost"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-09-subaru-meets-half-dome",
+      "documentId": "eph93-09",
+      "title": "Subaru Meets Half Dome",
+      "summary": "The article discusses the difficulties encountered during a club trip to Yosemite National Park, particularly concerning park access and management's unresponsiveness. It suggests a future shift to treating Yosemite trips as primarily public star parties, while planning dedicated dark sky events at alternative locations such as Lassen National Park, which is believed to offer better skies and easier access with more welcoming park management.",
+      "categories": [
+        "Observing Reports",
+        "Club News",
+        "Events",
+        "Trip Planning"
+      ],
+      "keywords": [
+        "Yosemite National Park",
+        "Lassen National Park",
+        "Star party",
+        "Dark sky event",
+        "SJAA",
+        "Park access",
+        "Astronomy club",
+        "Observing trip"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-09-sjaa-loaner-status",
+      "documentId": "eph93-09",
+      "title": "SJAA Loaner Status",
+      "summary": "This document, authored by Paul Barton, details the current loaner status of telescopes from the SJAA (San Jose Astronomical Association). It lists various telescopes, their current users, and due dates, indicating which are available. Additionally, it provides information on a waiting list for a specific telescope and instructions on how members can borrow equipment.",
+      "categories": [
+        "equipment management",
+        "member services",
+        "club operations",
+        "inventory status"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner",
+        "Paul Barton",
+        "loaner program",
+        "equipment availability",
+        "waiting list",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-09-yosemite-july-23-24-or-subaru-meets-half-dome",
+      "documentId": "eph93-09",
+      "title": "Yosemite July 23/24, or Subaru Meets Half-Dome",
+      "summary": "This article details a successful two-day star party hosted by San Jose Astronomical Association members at Glacier Point, Yosemite, on July 23/24. Despite initial travel and logistical challenges with large equipment, the event drew over 200 enthusiastic public visitors who enjoyed views of planets and numerous deep-sky objects. The report highlights impressive celestial observations, including the Pleiades seen above Half-Dome, and emphasizes the unique experience of public outreach under Yosemite's dark skies.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Astronomy Club Event",
+        "Public Outreach",
+        "Travelogue"
+      ],
+      "keywords": [
+        "Yosemite",
+        "Glacier Point",
+        "Star Party",
+        "SJAA",
+        "Half-Dome",
+        "Pleiades",
+        "Subaru",
+        "Jupiter",
+        "Saturn",
+        "Deep Sky Objects",
+        "Public Viewing",
+        "Telescopes",
+        "M13",
+        "M101",
+        "M81",
+        "M82",
+        "Dumbbell Nebula",
+        "Lagoon Nebula",
+        "Trifid Nebula",
+        "Dean Linebarger"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-09-september-1993",
+      "documentId": "eph93-09",
+      "title": "September 1993",
+      "summary": "This document provides an astronomical almanac for September 1993, detailing lunar phases, rise/transit/set times for the Sun and several planets (Mercury, Venus, Mars, Jupiter, Saturn), along with their magnitudes and distances. It also includes data for astronomical twilight, sidereal time, and highlights a specific 'Darkest Saturday Night' on September 18th for optimal viewing.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Celestial Events Forecast"
+      ],
+      "keywords": [
+        "September 1993",
+        "Lunar phases",
+        "Planetary positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Astronomical twilight",
+        "Sidereal time",
+        "Celestial mechanics",
+        "Observing conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-times-and-dates-are-pacific-daylight",
+      "documentId": "eph93-09",
+      "title": "TIMES AND DATES ARE PACIFIC DAYLIGHT",
+      "summary": "This brief article, authored by Richard Stanton, specifies that all listed times and dates are in Pacific Daylight Time, with a clarification that times are also considered Local Civil. It attributes the derivation of these values to external sources: \"Astronomy with Your Personal Computer\" by Peter Duffet-Smith and \"MacEphem\" by Elwood Charles Downey.",
+      "categories": [
+        "Technical Reference",
+        "Timekeeping",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Pacific Daylight Time",
+        "Local Civil Time",
+        "Time zones",
+        "Date calculations",
+        "Astronomy software",
+        "MacEphem"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-offices-and-board-of-directors",
+      "documentId": "eph93-09",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current officers and members of the Board of Directors, including their names, titles (President, Vice President, Treasurer, Secretary, Directors), and respective contact phone numbers. It provides key leadership and contact information for the organization.",
+      "categories": [
+        "Organizational Structure",
+        "Contact Information",
+        "Governance",
+        "Administration"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Directors",
+        "Contact Information",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-ephemeris-contributors",
+      "documentId": "eph93-09",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists individuals contributing to 'Ephemeris,' along with their contact phone numbers. It also includes the editor's name and contact information. The content serves as a directory for key personnel.",
+      "categories": [
+        "Directory",
+        "Contacts",
+        "Contributors List"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contacts",
+        "Directory",
+        "Editor",
+        "Phone Numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-comet-comments",
+      "documentId": "eph93-09",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on recent comet activity, announcing the recovery of a faint comet and introducing Comet Mueller, which will be visible to Northern Hemisphere observers until early next year. It also details the recovery of Periodic Comet West-Kohoutek-Ikemura (1993o) by Jim Scotti, noting its expected brightening to magnitude 12 later this year and its 6.4-year orbital period.",
+      "categories": [
+        "Comets",
+        "Observing Reports",
+        "Astronomy News",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Comet Mueller",
+        "Periodic Comet West-Kohoutek-Ikemura",
+        "Comet recovery",
+        "Magnitude",
+        "Orbital period",
+        "Palomar Survey",
+        "Northern Hemisphere",
+        "Jim Scotti",
+        "Don Machholtz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-ephemeris",
+      "documentId": "eph93-09",
+      "title": "EPHEMERIS",
+      "summary": "This document provides an ephemeris for Comet Mueller (1993a), detailing its celestial coordinates (Right Ascension and Declination), elongation, sky position, and visual magnitude at five-day intervals from late August to mid-October. It offers essential data for tracking and observing the comet during this period, showing its movement and brightening over time.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Comet Observation",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Comet Mueller (1993a)",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "Magnitude",
+        "Comet Tracking",
+        "Astronomical Coordinates",
+        "Observing Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-seeking-comets",
+      "documentId": "eph93-09",
+      "title": "SEEKING COMETS",
+      "summary": "This article discusses the diverse locations and methods comet hunters employ for their searches, primarily influenced by light pollution levels and the need for clear horizons. Some prominent comet hunters commute to remote, darker sites or observatories, while others successfully sweep from their backyards, sometimes utilizing light pollution filters. The decision often boils down to balancing convenience with optimal viewing conditions, with many eventually moving to more rural locations for better sky quality.",
+      "categories": [
+        "Amateur Astronomy",
+        "Comet Hunting",
+        "Observing Practices",
+        "Practical Astronomy"
+      ],
+      "keywords": [
+        "comet hunters",
+        "light pollution",
+        "dark skies",
+        "observing sites",
+        "astronomy",
+        "telescopes",
+        "backyard astronomy",
+        "amateur astronomers"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-09-san-jose-astronomical-association-membership",
+      "documentId": "eph93-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the submission guidelines for articles to \"EPHEMERIS,\" the monthly publication of the San Jose Astronomical Association. Members are encouraged to submit typed articles to editor Bob Madden by the 12th of the previous month, with diskette submissions preferred.",
+      "categories": [
+        "Organizational",
+        "Newsletter",
+        "Publication Guidelines"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "membership",
+        "article submission",
+        "publication guidelines",
+        "astronomy club",
+        "newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-09-san-jose-astronomical-association-membership",
+      "documentId": "eph93-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining various membership types including 'Membership only,' 'Membership / S&T,' and 'Junior (under 18),' along with their respective fees. It provides instructions for submission, payment details, and contact information for the treasurer and the association itself, dated September 1993.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Club Information",
+        "Fees",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Dues",
+        "Fees",
+        "Sky & Telescope",
+        "Junior membership",
+        "Treasurer",
+        "Milpitas",
+        "California",
+        "Non-profit",
+        "September 1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph93-09-universe-93",
+      "documentId": "eph93-09",
+      "title": "UNIVERSE 93",
+      "summary": "The 'UNIVERSE 93' article reports on an astronomy event, detailing several engaging presentations. Highlights included a talk on 'Observing Earth from Space,' a comprehensive guide to 'Choosing a Telescope for Backyard Astronomy' by Joe Shriver from Astronomy magazine, and an in-depth session by Jack Newton covering his 1991 Total Solar Eclipse trip and advanced astrophotography. The event also featured discussions on image processing, comet observations (including David Levy's work and Jupiter impacts), and interactions with Astronomy magazine's editorial staff.",
+      "categories": [
+        "Astronomy Event Report",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Space Science"
+      ],
+      "keywords": [
+        "UNIVERSE 93",
+        "Astronomy conference",
+        "Observing Earth from Space",
+        "Joe Shriver",
+        "Telescope selection",
+        "Backyard astronomy",
+        "Jack Newton",
+        "Total Solar Eclipse",
+        "Astrophotography",
+        "Image processing",
+        "David Levy",
+        "Comets",
+        "Jupiter",
+        "Astronomy magazine"
+      ],
+      "pageStart": 2,
+      "pageEnd": 95
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9309/Eph93_09.pdf",
+      "txtPath": "9309/Eph93_09.md"
+    }
+  ]
+}

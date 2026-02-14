@@ -1,0 +1,877 @@
+{
+  "articles": [
+    {
+      "id": "eph90-08-ephemeris",
+      "documentId": "eph90-08",
+      "title": "EPHEMERIS",
+      "summary": "This document is the August 1990 issue of *Ephemeris*, Volume 2, Number 8, which serves as the official publication for the San Jose Astronomical Association. It represents a regular publication from an astronomical club.",
+      "categories": [
+        "Organizational Publication",
+        "Astronomical Club News",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "August 1990",
+        "Astronomical publication",
+        "Club newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-flights-of-fancy",
+      "documentId": "eph90-08",
+      "title": "FLIGHTS OF FANCY",
+      "summary": "The SJAA general meeting will feature a video presentation titled \"Digital Landscapes\" this month, replacing a speaker. The video includes simulated flights over Earth, Mars (using digitized Viking orbiter images), and Miranda, along with a Mars rover simulation, promising a spectacular journey across planetary surfaces.",
+      "categories": [
+        "Events",
+        "Meeting Announcement",
+        "Video Presentation",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meeting",
+        "Digital Landscapes",
+        "Mars",
+        "Viking Orbiter",
+        "Computer Simulation",
+        "Planetary Surface",
+        "Miranda",
+        "Earth"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-membership-renewals",
+      "documentId": "eph90-08",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "This article reminds members of SJAA (San Jose Astronomical Association, implied) to renew their memberships, especially those who receive Sky & Telescope magazine or are membership-only. Members are advised to use the application on the back of the Ephemeris and mail it early to Treasurer Jack Peterson to avoid missing future newsletters.",
+      "categories": [
+        "Membership Management",
+        "Club Announcement",
+        "Administrative"
+      ],
+      "keywords": [
+        "Membership Renewals",
+        "SJAA",
+        "Sky & Telescope",
+        "Newsletter",
+        "Treasurer",
+        "Jack Peterson",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-annual-picnic",
+      "documentId": "eph90-08",
+      "title": "ANNUAL PICNIC",
+      "summary": "The Annual Picnic and Installation of Officers was a successful event, drawing between 35 and 40 attendees. Chef Hanisch prepared the main courses, while Sharon Cisneros contributed popular German chocolate cakes. Tom Ahl reported positively on the gathering.",
+      "categories": [
+        "event report",
+        "social gathering",
+        "club news"
+      ],
+      "keywords": [
+        "Annual Picnic",
+        "Installation of Officers",
+        "Tom Ahl",
+        "Chef Hanisch",
+        "Sharon Cisneros",
+        "attendance",
+        "food",
+        "dessert"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-branham-lane-star-parties-we-want-you",
+      "documentId": "eph90-08",
+      "title": "BRANHAM LANE STAR PARTIES - WE WANT YOU!",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting a series of public star parties on select Fridays: August 31, September 28, October 26, and December 28. Attendees are encouraged to bring telescopes and invite friends to these events. For additional details, individuals can contact Tom Ahl or Jim Van Nuland.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Branham Lane Star Parties",
+        "SJAA",
+        "Star Parties",
+        "Public Events",
+        "Astronomy",
+        "Telescopes",
+        "Community Events",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-book-reviews",
+      "documentId": "eph90-08",
+      "title": "BOOK REVIEWS",
+      "summary": "The article announces the addition of a new 'BOOK REVIEWS' section to the Ephemeris, with club member Richard Page agreeing to contribute frequently. It also provides a detailed schedule of astronomical events for August and September, including star parties, board meetings, and astronomy classes.",
+      "categories": [
+        "news",
+        "events",
+        "announcements",
+        "book reviews"
+      ],
+      "keywords": [
+        "book reviews",
+        "Richard Page",
+        "astronomy events",
+        "star parties",
+        "board meetings",
+        "astronomy classes",
+        "Los Gatos Red Cross",
+        "Grant Ranch",
+        "Henry Coe",
+        "Branham Lane",
+        "Fremont Peak State Park",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-hubble-debacle",
+      "documentId": "eph90-08",
+      "title": "HUBBLE DEBACLE!",
+      "summary": "The article critically reports on the initial \"nearsighted\" problem of the Hubble Space Telescope, stating its $1.5 billion cost resulted in a device that could only focus clearly on objects 300 miles away. The author expresses dismay at the apparent failure, humorously suggesting the telescope is 'pointing the wrong way' and likening it to a 'space junk telescope'.",
+      "categories": [
+        "news",
+        "commentary",
+        "space exploration",
+        "astronomy",
+        "technical issues"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "space telescope",
+        "satellite failure",
+        "optics",
+        "nearsighted",
+        "space program",
+        "NASA",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-august-starry-nights",
+      "documentId": "eph90-08",
+      "title": "AUGUST STARRY NIGHTS",
+      "summary": "The article details several astronomical events for observation in August. Key events include a challenging partial Lunar Eclipse on August 6th, the Moon's passage through the Pleiades on August 14th, and a lunar occultation of Jupiter on August 18th. Additionally, the U.S. Naval Observatory will conduct a 'Moonwatch' on August 21st to study crescent moon visibility, with more details available in Sky & Telescope.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Reports",
+        "Announcements"
+      ],
+      "keywords": [
+        "August",
+        "Lunar Eclipse",
+        "Pleiades",
+        "Lunar Occultation",
+        "Jupiter",
+        "Moonwatch",
+        "U.S. Naval Observatory",
+        "Sky & Telescope",
+        "Crescent Moon"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-08-the-eye-and-its-ability-to-view-dim-celestial-objects",
+      "documentId": "eph90-08",
+      "title": "THE EYE AND ITS ABILITY TO VIEW DIM CELESTIAL OBJECTS",
+      "summary": "This article discusses the human eye's remarkable ability to perceive dim celestial objects, contrasting its photon detection mechanism with photographic film and explaining how the brain compensates for the Troxier effect. It highlights the eye's extreme sensitivity, capable of detecting as few as five or six photons under ideal conditions. The text also includes brief updates on upcoming observing opportunities for Triton, noting a potential occultation, and Mars, recommending it for astrophotography.",
+      "categories": [
+        "Observational Astronomy",
+        "Human Vision",
+        "Astronomical Events",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "Eye sensitivity",
+        "Visual perception",
+        "Dim celestial objects",
+        "Photons",
+        "Scotopic vision",
+        "Troxier effect",
+        "Photography",
+        "Triton",
+        "Neptune",
+        "Occultation",
+        "Mars",
+        "Astrophotography"
+      ],
+      "pageStart": 65,
+      "pageEnd": 65
+    },
+    {
+      "id": "eph90-08-permanent-large-telescope-sites",
+      "documentId": "eph90-08",
+      "title": "PERMANENT LARGE TELESCOPE SITES",
+      "summary": "The San Jose Astronomical Association (SJAA) is planning two major telescope projects: installing a 27-inch Cassegrain at Grant Ranch County Park and a 32-inch Cassegrain at a dark sky 'Rocket Site'. These projects aim to provide advanced observing opportunities for members and support public education, with significant work required for site development, acquisition of mounts, and facility construction. The article also includes a call for member participation, skills, and funding to bring these ambitious plans to fruition.",
+      "categories": [
+        "Observatory Projects",
+        "Community Astronomy",
+        "Fundraising",
+        "Volunteerism",
+        "Telescope Development"
+      ],
+      "keywords": [
+        "SJAA",
+        "Large telescopes",
+        "Cassegrain telescopes",
+        "Grant Ranch County Park",
+        "Rocket Site",
+        "Observatory development",
+        "Community outreach",
+        "Public education",
+        "Volunteer recruitment",
+        "Fundraising",
+        "Robert Noyce Memorial",
+        "Remote operations",
+        "Halley Hill Observatory"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-08-comet-comments",
+      "documentId": "eph90-08",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on recent comet observations, noting four recovered comets and one new discovery, while discussing the fading of Comet Austin and the brightening of others like Levy, Encke, and Honda-Mrkos-Pajduskova. It details information for several specific comets, including their discoverers, magnitudes, and orbital characteristics. Additionally, the article introduces a new ongoing series that will focus on the profiles of comet discoverers.",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Reports",
+        "Celestial News",
+        "Comet Discoveries"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Comet recovery",
+        "Periodic comets",
+        "Astronomical observations",
+        "Celestial magnitudes",
+        "Orbital parameters",
+        "Comet Austin",
+        "Comet Levy",
+        "Comet Encke",
+        "Comet Honda-Mrkos-Pajduskova",
+        "Comet McNaught-Hughes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-seeking-comets",
+      "documentId": "eph90-08",
+      "title": "SEEKING COMETS",
+      "summary": "The article discusses the phenomenon of 'independent discoveries' in comet hunting, where observers find new comets but don't receive naming credit. This often occurs when multiple individuals discover a comet simultaneously, exceeding the three-name limit, or when communication delays lead hunters to re-discover already confirmed comets. The author shares a personal anecdote of a near-miss with Comet Kohler to illustrate the fine line between an independent discovery and finding an already known object.",
+      "categories": [
+        "Amateur Astronomy",
+        "Comet Hunting",
+        "Discovery Process",
+        "Observing Practices"
+      ],
+      "keywords": [
+        "comets",
+        "comet hunting",
+        "independent discoveries",
+        "astronomy",
+        "naming conventions",
+        "communication",
+        "observers",
+        "Comet Kohler"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-astro-ads",
+      "documentId": "eph90-08",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS is a free classifieds section for non-commercial advertisers to sell astronomically related products and services. This particular section features multiple listings for used telescopes, eyepieces, and accessories from brands like Televue, Celestron, Orion, and Meade. Items include complete telescope setups, individual eyepieces, filters, camera adapters, and tripods, all with contact information for potential buyers.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomy equipment sales",
+        "used gear"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "telescopes",
+        "eyepieces",
+        "accessories",
+        "Televue",
+        "Celestron",
+        "Orion",
+        "Meade",
+        "fluorite telescope",
+        "Plossl",
+        "Nagler",
+        "Wide Field eyepiece",
+        "Barlow lens",
+        "Deep Sky filter",
+        "moon filter",
+        "tripod",
+        "camera adapter",
+        "MotoFocus",
+        "wedge",
+        "dew shield",
+        "collimated optics",
+        "Starbright coatings",
+        "catadioptric scope",
+        "LX5",
+        "C8",
+        "Genesis"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-08-celestron-super-c8-with-internal-dc",
+      "documentId": "eph90-08",
+      "title": "CELESTRON SUPER C8 with internal DC",
+      "summary": "This document functions as a classifieds section, listing various used astronomical equipment and accessories for sale. Items include several Celestron telescopes (Super C8, C90, C6 Newtonian) and a Meade 2080 LX3, along with eyepieces, tripods, computer controls, and miscellaneous parts. Additionally, there is a request for back issues of Deep Sky magazine.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Telescopes",
+        "Accessories",
+        "Parts",
+        "Wanted"
+      ],
+      "keywords": [
+        "Celestron",
+        "Meade",
+        "Telescopes",
+        "C8",
+        "C90",
+        "C6 Newtonian",
+        "Meade 2080 LX3",
+        "Eyepieces",
+        "Plossl",
+        "Ortho",
+        "Barlow",
+        "Star diagonal",
+        "Tripod",
+        "Equatorial mount",
+        "Super Polaris Mount",
+        "Sky Sensor",
+        "Dew shield",
+        "Bearings",
+        "Deep Sky magazine",
+        "Used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-double-triple-multiple-stars",
+      "documentId": "eph90-08",
+      "title": "DOUBLE, TRIPLE & MULTIPLE STARS",
+      "summary": "Patrick M. Donnelly presents his annual list of ten challenging double, triple, and multiple stars for amateur astronomers to resolve. The article details the magnitudes, separations, periods, and observing difficulties for each star, including well-known objects like Theta Aurigae, Epsilon Bootis, and Antares. It serves as an observing guide, encouraging persistence for these difficult but rewarding targets.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Stargazing",
+        "Double Stars"
+      ],
+      "keywords": [
+        "Double stars",
+        "Triple stars",
+        "Multiple stars",
+        "Binary stars",
+        "Amateur telescopes",
+        "Observing challenge",
+        "Magnitude",
+        "Angular separation",
+        "Theta Aurigae",
+        "Iota Leonis",
+        "Epsilon Bootis",
+        "Mu Librae",
+        "Antares",
+        "Nu Scorpii",
+        "Eta Sagittarii",
+        "Trifid Nebula",
+        "Zeta Herculis",
+        "Delta Cygni"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-consumer-scientific",
+      "documentId": "eph90-08",
+      "title": "CONSUMER SCIENTIFIC",
+      "summary": "Consumer Scientific is a store offering science and nature products for hobbyists and professionals. Their product range includes optics, labware, chemicals, books, maps, science kits, and weather instruments. They are located at 1411 W. El Camino Real in Mountain View, CA, and can be reached at (415) 967-5515.",
+      "categories": [
+        "Advertisement",
+        "Product Listing",
+        "Retail"
+      ],
+      "keywords": [
+        "Consumer Scientific",
+        "Science Products",
+        "Nature Products",
+        "Optics",
+        "Labware",
+        "Chemicals",
+        "Science Kits",
+        "Weather Instruments",
+        "Mountain View, CA",
+        "Hobbyist",
+        "Professional"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-08-periodic-error-correction-what-s-it-all-about",
+      "documentId": "eph90-08",
+      "title": "PERIODIC ERROR CORRECTION WHAT'S IT ALL ABOUT?",
+      "summary": "This article explains Periodic Error Correction (PEC) electronics, a feature now offered by both Meade and Celestron, designed to improve guiding accuracy for astrophotography. Described as a more affordable alternative to dedicated autoguiders, PEC works by addressing and reducing inherent periodic errors in telescope worm gear systems. These errors, a common aspect of all such gears, can range significantly and negatively impact long-exposure imaging.",
+      "categories": [
+        "Technical Explanation",
+        "Astrophotography Equipment",
+        "Telescope Technology",
+        "Equipment Analysis"
+      ],
+      "keywords": [
+        "Periodic Error Correction",
+        "PEC",
+        "Astrophotography",
+        "Telescope guiding",
+        "Worm gear",
+        "Autoguiding",
+        "Meade",
+        "Celestron",
+        "Astronomical imaging"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-officers-and-board-of-directors",
+      "documentId": "eph90-08",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document lists the current officers and members of the Board of Directors for an organization. It provides the names, titles (e.g., President, Vice President, Treasurer, Secretary, Editor, Director), and corresponding contact phone numbers for each individual.",
+      "categories": [
+        "Organizational Information",
+        "Administration",
+        "Contact List",
+        "Leadership"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Editor",
+        "Director",
+        "Contact Information",
+        "Organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-ephemeris-contributors",
+      "documentId": "eph90-08",
+      "title": "EPHEMERIS CONTRIBUTORS",
+      "summary": "This document lists individuals who are contributors to an ephemeris, providing their names and corresponding phone numbers. It appears to be a directory or contact list for these contributors.",
+      "categories": [
+        "Contact Information",
+        "Contributors List",
+        "Administrative"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact List",
+        "Phone Numbers",
+        "Don Machholz",
+        "Pat Donnelly",
+        "Richard Stanton",
+        "Steve Waldee",
+        "Bob Fingerhut",
+        "Jay Freeman",
+        "Jim Richardson",
+        "John Gleason"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-comet-ephemeris",
+      "documentId": "eph90-08",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides detailed ephemeris data for three comets: Periodic Comet Honda-Mrkos-Pajdusakova (1990f), Periodic Comet Encke, and Comet Levy (1990c). For specified dates from July through September, it lists each comet's right ascension (RA), declination (DEC) for both 1950 and 2000 epochs, solar elongation, sky visibility, and estimated visual magnitude. This information is essential for tracking and observing these celestial objects.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Ephemeris",
+        "Observing Guides",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Comet Ephemeris",
+        "Honda-Mrkos-Pajdusakova",
+        "Comet Encke",
+        "Comet Levy (1990c)",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Celestial Coordinates",
+        "Observing Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-this-month-s-meteors",
+      "documentId": "eph90-08",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article is divided into two main sections: a detailed guide to meteor showers for the current month, providing dates, maximum rates, radiant points, and velocities for various showers like the Perseids and Delta Aquarids. The second section extensively discusses Periodic Error Correction (PEC) drive correctors for telescope mounts, explaining how they reduce tracking errors during long-exposure astrophotography by recording and replaying manual guiding corrections, significantly improving image quality, especially when combined with autoguiders.",
+      "categories": [
+        "Celestial Events",
+        "Observing Guides",
+        "Astrophotography",
+        "Astronomy Equipment",
+        "Technical Guide"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "Perseids",
+        "Delta Aquarids",
+        "Periodic Error Correction",
+        "PEC",
+        "Astrophotography",
+        "Telescope Mounts",
+        "Tracking Errors",
+        "Long Exposure",
+        "Autoguiding",
+        "Drive Corrector",
+        "Worm Gear"
+      ],
+      "pageStart": 6,
+      "pageEnd": 20
+    },
+    {
+      "id": "eph90-08-the-moon-observer-s-handbook",
+      "documentId": "eph90-08",
+      "title": "The Moon Observer's Handbook",
+      "summary": "This article reviews Fred W. Price's \"The Moon Observer's Handbook,\" a comprehensive guide designed to re-engage amateur astronomers with lunar observation. It highlights the book's ability to transform casual viewing into a deeper understanding and appreciation of the Moon's features, morphology, and transient phenomena. The review praises the handbook's clear organization, vivid descriptions, and detailed illustrations, making it suitable for all levels of interest from novices to those pursuing research projects.",
+      "categories": [
+        "Book Review",
+        "Astronomy Guide",
+        "Lunar Observation",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "The Moon Observer's Handbook",
+        "Fred W. Price",
+        "Lunar observation",
+        "Amateur astronomy",
+        "Selenology",
+        "Moon features",
+        "Telescopic viewing",
+        "Lunar transient phenomena",
+        "Astronomy handbook"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph90-08-space-program-update",
+      "documentId": "eph90-08",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This 'Space Program Update' details the Hubble Space Telescope's focus problems due to a mirror flaw, which necessitates a corrective camera by 1992/93, and reports the grounding of the shuttle fleet after a hydrogen leak was found on Atlantis. It also covers the successful launch of an Intelsat satellite and a classified military payload, the docking of the Kristall module with the Mir space station for Soyuz repairs, European approval for the Cassini mission, and ongoing preliminary design reviews for the Space Station.",
+      "categories": [
+        "News",
+        "Program Updates",
+        "Technical Issues",
+        "Manned Spaceflight",
+        "Satellite Launches",
+        "Space Telescopes",
+        "Space Stations",
+        "Planetary Exploration"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Spherical Aberration",
+        "Space Shuttle",
+        "Hydrogen Leak",
+        "Intelsat",
+        "Titan Rocket",
+        "Mir Space Station",
+        "Kristall Module",
+        "Soyuz Spacecraft",
+        "Cassini Mission",
+        "Space Station Design",
+        "NASA",
+        "ESA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-meteor-notes",
+      "documentId": "eph90-08",
+      "title": "METEOR NOTES",
+      "summary": "August features significant meteor shower activity, though the Perseids will be largely obscured by a waning gibbous moon. The Aquarid group of showers is expected to offer the best display early in the month, with two minor showers, the Northern Iota Aquarids and Kappa Cygnids, peaking later during the new moon. Observing notes are also provided for the Southern Delta Aquarids, Alpha Capricornids, and Southern Iota Aquarids, with tips for catching the Perseids' trailing edge.",
+      "categories": [
+        "observing reports",
+        "events",
+        "astronomy",
+        "celestial calendar",
+        "guide"
+      ],
+      "keywords": [
+        "meteor showers",
+        "Perseids",
+        "Aquarid group",
+        "Southern Delta Aquarids",
+        "Alpha Capricornids",
+        "Southern Iota Aquarids",
+        "Northern Iota Aquarids",
+        "Kappa Cygnids",
+        "moon phase",
+        "August",
+        "observing tips"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph90-08-lunar-phases",
+      "documentId": "eph90-08",
+      "title": "LUNAR PHASES",
+      "summary": "This document presents a tabular listing of lunar phases for August 1942. It details the precise times for Full Moon, Last Quarter, New Moon, and First Quarter, alongside their corresponding rise, transit, and set times for those dates.",
+      "categories": [
+        "astronomical data",
+        "ephemeris",
+        "events"
+      ],
+      "keywords": [
+        "lunar phases",
+        "moon",
+        "full moon",
+        "last quarter",
+        "new moon",
+        "first quarter",
+        "August 1942",
+        "rise time",
+        "transit time",
+        "set time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-nearer-planets",
+      "documentId": "eph90-08",
+      "title": "NEARER PLANETS",
+      "summary": "This document provides a tabular guide for observing the 'Nearer Planets' (Mercury, Venus, Mars, Jupiter, and Saturn) for various dates in August. For each planet, it lists specific times, their distance in Astronomical Units (A.U.), and their apparent magnitude (Mag) to assist with astronomical observation.",
+      "categories": [
+        "Observing Guides",
+        "Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Observation",
+        "Ephemeris",
+        "Magnitude",
+        "Astronomical Unit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-sol",
+      "documentId": "eph90-08",
+      "title": "SOL",
+      "summary": "This document, titled 'SOL', presents a tabular listing of specific dates in August along with corresponding times. These times likely represent key solar events such as sunrise, solar noon, and sunset, providing an ephemeris for solar observation on those days.",
+      "categories": [
+        "Astronomy",
+        "Technical data",
+        "Solar events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "SOL",
+        "Sun",
+        "Solar events",
+        "Sunrise",
+        "Sunset",
+        "Solar noon",
+        "Ephemeris",
+        "Astronomical data",
+        "Times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-astronomical-twilight",
+      "documentId": "eph90-08",
+      "title": "ASTRONOMICAL TWILIGHT",
+      "summary": "This document presents a concise schedule of astronomical twilight times for specific dates in August, identified by Julian Dates. For each date, it lists two times which typically mark the beginning of evening astronomical twilight and the end of morning astronomical twilight, defining the period of true darkness ideal for astronomical observations.",
+      "categories": [
+        "Astronomical Data",
+        "Schedules",
+        "Observing Aids",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Julian Date",
+        "Observation planning",
+        "Dark sky",
+        "Astronomy schedules"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-sidereal-time",
+      "documentId": "eph90-08",
+      "title": "SIDEREAL TIME",
+      "summary": "This document provides sidereal time information for early to late August, highlighting August 18th as a particularly dark night. It describes several meteor showers including the Northern Iota Aquarids, Perseids, and Kappa Cygnids, detailing their characteristics and associated celestial bodies. The article also includes June-July observation notes, discussing challenges from moonlight but noting an increase in sporadic activity and the distinct appearance of 'slow grazers'.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Phenomena",
+        "Meteor Showers",
+        "Astronomical Timing",
+        "Night Sky"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Meteor Showers",
+        "Perseids",
+        "Northern Iota Aquarids",
+        "Kappa Cygnids",
+        "Sporadic Meteors",
+        "Slow Grazers",
+        "Comet Swift-Tuttle",
+        "Astronomical Observations",
+        "August 18"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph90-08-skills-survey",
+      "documentId": "eph90-08",
+      "title": "SKILLS SURVEY",
+      "summary": "This document is a comprehensive 'SKILLS SURVEY' form designed to identify individuals' willingness and experience across a wide range of categories. It covers technical skills like civil works, machining, design, electronics, and telescope making, as well as management, communications, and public relations capabilities. The survey aims to gather information from respondents by indicating their proficiency and willingness for each listed skill, alongside their contact details and any additional comments.",
+      "categories": [
+        "Surveys",
+        "Skills Assessment",
+        "Volunteer Management",
+        "Resource Management",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Skills survey",
+        "Volunteer skills",
+        "Technical skills",
+        "Management skills",
+        "Civil works",
+        "Design",
+        "Electronics",
+        "Telescope making",
+        "Project management",
+        "Fundraising",
+        "Community relations",
+        "Resource identification"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph90-08-san-jose-astronomical-association-membership-application",
+      "documentId": "eph90-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is an excerpt from the San Jose Astronomical Association's membership application, providing details about their monthly publication, \"EPHEMERIS.\" It encourages members to submit articles for publication by the 12th of the previous month and includes contact information for the editor.",
+      "categories": [
+        "Membership",
+        "Organization Info",
+        "Publications",
+        "Call for Submissions"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership Application",
+        "EPHEMERIS",
+        "Publication",
+        "Article Submission",
+        "Astronomical Club",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-08-membership-only-10-membership-s-t-26-junior-under-18-18",
+      "documentId": "eph90-08",
+      "title": "MEMBERSHIP ONLY: $10 MEMBERSHIP/S&T: $26 JUNIOR (UNDER 18): $18",
+      "summary": "This document serves as a membership application and renewal form for the San Jose Astronomical Association (SJAA). It details three membership tiers: Membership Only ($10), Membership with Sky & Telescope subscription ($26), and Junior (Under 18) ($18), providing instructions for submission to the SJAA Treasurer. The form also includes contact information, payment details, and mailing information for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "membership",
+        "application form",
+        "organizational news",
+        "financial",
+        "newsletter content"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Membership",
+        "Renewal",
+        "Application",
+        "Dues",
+        "Sky & Telescope",
+        "Junior Membership",
+        "Treasurer",
+        "Ephemeris",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9008/Eph90_08.pdf",
+      "txtPath": "9008/Eph90_08.md"
+    }
+  ]
+}

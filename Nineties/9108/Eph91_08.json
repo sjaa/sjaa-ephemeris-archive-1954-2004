@@ -1,0 +1,720 @@
+{
+  "articles": [
+    {
+      "id": "eph91-08-ephemeris",
+      "documentId": "eph91-08",
+      "title": "EPHEMERIS",
+      "summary": "This document is the official August 1991 issue (Vol 3 No. 8) of 'EPHEMERIS', the publication of the San Jose Astronomical Association. As an ephemeris, it likely contains astronomical data, events, and news relevant to the association members for that month.",
+      "categories": [
+        "Astronomical Publication",
+        "Newsletter",
+        "Amateur Astronomy",
+        "Historical Document"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "August 1991",
+        "Astronomy",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-this-month-s-special-issue-the-eclipse-of-the-millenium",
+      "documentId": "eph91-08",
+      "title": "THIS MONTH'S SPECIAL ISSUE THE ECLIPSE OF THE MILLENIUM",
+      "summary": "This article discusses the July 11, 1991 total solar eclipse, hailed as the 'Eclipse of the Millennium,' which offered spectacular views of the solar corona due to excellent conditions and high solar activity. This special issue of Ephemeris compiles personal accounts from observers along the path of totality, gathered from sources like UseNet, aiming to share experiences and inspire others to witness a total eclipse.",
+      "categories": [
+        "Eclipse Report",
+        "Astronomy",
+        "Observing Reports",
+        "Feature Article"
+      ],
+      "keywords": [
+        "Solar Eclipse",
+        "Total Eclipse",
+        "July 11, 1991",
+        "Solar Corona",
+        "Solar Maximum",
+        "Path of Totality",
+        "Observing",
+        "UseNet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-august-meeting",
+      "documentId": "eph91-08",
+      "title": "AUGUST MEETING",
+      "summary": "The August 3rd General Meeting of SJAA is dedicated to eclipse chasers. Members are invited to share their personal stories, photos, prints, and slides from their experiences in the shadow of the moon. Attendees planning to present should contact Jack Zeiders.",
+      "categories": [
+        "Event Announcement",
+        "Meeting",
+        "Member Participation",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "August Meeting",
+        "General Meeting",
+        "Eclipse Chasers",
+        "Stories",
+        "Photos",
+        "Slides",
+        "Personal Experiences",
+        "Shadow of the Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-field-of-view",
+      "documentId": "eph91-08",
+      "title": "FIELD OF VIEW",
+      "summary": "The article outlines various upcoming events for the San Jose Astronomical Association (SJAA) in August and early September, including a solar eclipse 'show and tell' meeting, public star parties at Grant Ranch and Branham Lane, and sessions for an Introductory Astronomy Class. Notable member-exclusive events feature a night with the 30-inch telescope at Fremont Peak Observatory and an annual picnic/barbecue. The article also mentions a potential AANC conference.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Education",
+        "Meetings"
+      ],
+      "keywords": [
+        "SJAA",
+        "Total Eclipse",
+        "Star Party",
+        "Fremont Peak Observatory",
+        "Grant Ranch",
+        "Introductory Astronomy Class",
+        "AANC",
+        "Astronomy Events",
+        "Observing",
+        "Telescope"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph91-08-membership-renewal-reminder",
+      "documentId": "eph91-08",
+      "title": "MEMBERSHIP RENEWAL REMINDER",
+      "summary": "The San Jose Astronomical Association (SJAA) is issuing a final reminder for members whose memberships expired in June to renew by the end of August. Despite expiration, members have continued to receive the 'Ephemeris' newsletter, but non-renewals will result in removal from the mailing list after the deadline. Renewal costs $10 for general membership (including the Ephemeris) or $28 for general membership plus a 12-month subscription to Sky & Telescope magazine.",
+      "categories": [
+        "Administrative",
+        "Membership Update",
+        "Announcement"
+      ],
+      "keywords": [
+        "Membership renewal",
+        "SJAA",
+        "Ephemeris",
+        "Sky & Telescope",
+        "Dues",
+        "Deadline",
+        "Membership fees"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-08-a-message-from-tom-ahl",
+      "documentId": "eph91-08",
+      "title": "A MESSAGE FROM TOM AHL",
+      "summary": "Tom Ahl, stepping down as President of the SJAA after a decade of involvement, reflects on the club's evolution since 1980, noting shifts from early amateur telescope making to significant public outreach efforts prompted by events like Halley's Comet. He highlights the longstanding goal of establishing a club observatory, expressing optimism that the new leadership under Jack Zeiders will finalize this project, potentially at Grant County Park, by the summer of 1991.",
+      "categories": [
+        "Club News",
+        "Presidential Message",
+        "Historical Overview",
+        "Outreach",
+        "Observatory Project"
+      ],
+      "keywords": [
+        "Tom Ahl",
+        "SJAA",
+        "Jack Zeiders",
+        "Club history",
+        "Public outreach",
+        "Observatory project",
+        "Amateur astronomy",
+        "Halley's Comet",
+        "Grant County Park",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-sjaa-yosemite-weekend",
+      "documentId": "eph91-08",
+      "title": "SJAA YOSEMITE WEEKEND",
+      "summary": "The article details the annual SJAA Yosemite weekend at Glacier Point, where members conducted extensive public outreach using various telescopes for both day and night sky viewing. Attendees shared views of the Sun, planets, and numerous deep-sky objects, delighting enthusiastic tourists and showcasing excellent observing conditions despite some initial haze and mosquitoes. The event fostered camaraderie among amateur astronomers and provided memorable experiences under dark, clear skies.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy Event",
+        "Public Outreach",
+        "Club Activity",
+        "Trip Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite",
+        "Glacier Point",
+        "star party",
+        "public outreach",
+        "observing report",
+        "amateur astronomy",
+        "telescopes",
+        "deep-sky objects",
+        "planets",
+        "Sun",
+        "M13",
+        "M51",
+        "Veil Nebula",
+        "Stephan's Quintet",
+        "dark skies"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-08-telescopes-to-donate",
+      "documentId": "eph91-08",
+      "title": "TELESCOPES TO DONATE",
+      "summary": "Del Johnson is offering to donate two personal telescopes—a Meade 60mm refractor and a Tasco 4.5-inch reflector—to organizations like schools or scout groups for educational or recreational use. Inspired by other clubs, he suggests the San Jose Astronomical Association (SJAA) consider adopting a policy for making and donating telescopes. He also invites other members to join him in similar donations or to discuss this club initiative.",
+      "categories": [
+        "Donation Offer",
+        "Community Outreach",
+        "Club Initiative",
+        "Call to Action"
+      ],
+      "keywords": [
+        "telescope donation",
+        "educational outreach",
+        "community service",
+        "Meade refractor",
+        "Tasco reflector",
+        "SJAA policy",
+        "astronomy education",
+        "Del Johnson"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-in-the-shadow-of-the-moon",
+      "documentId": "eph91-08",
+      "title": "IN THE SHADOW OF THE MOON",
+      "summary": "This article recounts experiences from a total solar eclipse, described as the \"biggest disappearing act of the century,\" attracting thousands of amateur astronomers to locations like La Paz, Mexico, and Hawaii. While many observations in Hawaii were hampered by clouds, some individuals successfully viewed totality, though with varied conditions regarding contrast and visibility. The report includes personal accounts from observers in Kailua Kona and Kona, highlighting challenges like haze and bad weather, but also moments of successful viewing.",
+      "categories": [
+        "Observing Report",
+        "Celestial Event",
+        "Amateur Astronomy",
+        "Eclipse Chasing"
+      ],
+      "keywords": [
+        "Solar Eclipse",
+        "Totality",
+        "Hawaii",
+        "Kailua Kona",
+        "Kona",
+        "La Paz",
+        "Mexico",
+        "Amateur Astronomers",
+        "Clouds",
+        "Corona",
+        "Prominences",
+        "Questar"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-08-sjaa-ephemeris",
+      "documentId": "eph91-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The author recounts a challenging solar eclipse observation, involving multiple relocations to avoid cloud banks. Despite 70% overcast skies that blurred the corona, a bright red prominence was visible, and totality was described as an indescribably strange experience. The narrative highlights the unpredictable nature of eclipse viewing and the shared frustrations with weather.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Solar eclipse",
+        "Totality",
+        "Corona",
+        "Prominence",
+        "Cloudy sky",
+        "Observation",
+        "Fourth contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-hyatt-regency-hotel-in-waikoloa",
+      "documentId": "eph91-08",
+      "title": "Hyatt Regency Hotel in Waikoloa",
+      "summary": "This article recounts the experience of eclipse watchers gathered at the Hyatt Regency Hotel in Waikoloa, Hawaii, for the total solar eclipse on July 11. Despite meticulous planning, ideal location, and initial clear skies, a last-minute cloud completely obscured the view of totality from Waikoloa, much to the disappointment of the observers. While the eclipse was visible from other parts of the Big Island, those in Waikoloa only experienced the eerie darkness and resorted to watching the live broadcast on television.",
+      "categories": [
+        "observing report",
+        "astronomical event",
+        "personal account",
+        "travel"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Waikoloa",
+        "Hyatt Regency Hotel",
+        "Hawaii",
+        "July 11",
+        "cloud obstruction",
+        "Mauna Kea",
+        "Mauna Loa",
+        "eclipse viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-another-eclipse-report-from-kona",
+      "documentId": "eph91-08",
+      "title": "Another eclipse report from Kona",
+      "summary": "Robert Frederking recounts his experience observing a total solar eclipse from Kailua-Kona, Hawaii. Despite initial cloud concerns, he successfully viewed the entire eclipse unobstructed by closely monitoring weather patterns and strategically moving a few miles south. He shares his deep impressions of the corona and prominences, the distinct dimness and coolness during totality, and the appearance of one star, despite not observing shadow phenomena due to haze.",
+      "categories": [
+        "Observing Report",
+        "Eclipse",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Kona",
+        "Kailua-Kona",
+        "Eclipse Observation",
+        "Weather Strategy",
+        "Totality",
+        "Corona",
+        "Prominences",
+        "Visibility",
+        "Clouds"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-dead-ends",
+      "documentId": "eph91-08",
+      "title": "Dead Ends",
+      "summary": "The incomplete article, titled \"Dead Ends\" by Alan Silverstein, reports that Mauna Kea was completely shut down by Civil Defense two days in advance, restricting access even to hikers. The document cuts off mid-sentence, indicating further discussion of avenues or options.",
+      "categories": [
+        "News",
+        "Site Access",
+        "Observatories"
+      ],
+      "keywords": [
+        "Mauna Kea",
+        "Civil Defense",
+        "shutdown",
+        "access restrictions",
+        "hikers"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-08-sjaa-ephemeris",
+      "documentId": "eph91-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The provided text is an extremely brief excerpt, opening with the title \"SJAA EPHEMERIS.\" The sole content consists of an incomplete sentence fragment indicating that efforts to secure a press pass from a University for a 'summit' were unsuccessful for the author. Due to the very limited content, a comprehensive summary of an article is not possible.",
+      "categories": [
+        "Organizational Publication",
+        "Astronomy (inferred)",
+        "Event Access",
+        "Personal Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "summit",
+        "press pass",
+        "university",
+        "event access",
+        "unsuccessful attempt"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-report-from-a-different-hawaii-location",
+      "documentId": "eph91-08",
+      "title": "Report from a different Hawaii location",
+      "summary": "Joe Dellinger recounts his challenging but ultimately successful attempt to observe a total solar eclipse from Red Hill (10,200 ft) on Mauna Loa, Hawaii, after being unable to access Mauna Kea. Despite initial poor weather and altitude sickness, a dramatic drop in cloud cover allowed for clear viewing of the eclipse's phenomena, including a stunning corona and prominences, with observations often contradicting predictions. The report also includes humorous side notes about local officials mistakenly believing Mauna Loa was erupting post-eclipse.",
+      "categories": [
+        "Observing Report",
+        "Total Solar Eclipse",
+        "Personal Account",
+        "Astronomy",
+        "Travel & Expedition",
+        "Geology"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Mauna Loa",
+        "Red Hill",
+        "Hawaii",
+        "Corona",
+        "Prominences",
+        "Diamond Ring",
+        "Altitude Sickness",
+        "Volcanic Activity",
+        "Weather Conditions",
+        "Hawaii Volcanoes National Park"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-08-san-jose-del-cabo-robert-fenske-jr",
+      "documentId": "eph91-08",
+      "title": "San Jose del Cabo - Robert Fenske Jr.",
+      "summary": "The author recounts their experience observing a solar eclipse in San Jose del Cabo, Baja California, south of the centerline. They describe setting up a telescope for eyepiece projection amidst a growing crowd, witnessing phenomena like shadow bands and the stunning corona during totality, and observing celestial bodies like Mercury, Jupiter, and Venus. The report captures the shared excitement and awe of the event, including temperature drops and cheers from the onlookers.",
+      "categories": [
+        "Observing Report",
+        "Solar Eclipse",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "San Jose del Cabo",
+        "Baja California",
+        "Solar Eclipse",
+        "Eyepiece Projection",
+        "Shadow Bands",
+        "Totality",
+        "Corona",
+        "Prominences",
+        "Diamond Ring Effect",
+        "Mercury",
+        "Jupiter",
+        "Venus",
+        "Regulus",
+        "Aldebaran",
+        "Eclipse Chasers"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph91-08-eclipse-centerline-in-baja",
+      "documentId": "eph91-08",
+      "title": "Eclipse Centerline in Baja",
+      "summary": "A group traveled to La Paz, Baja California Sur, to observe a total solar eclipse, noting the absence of anticipated crowds and governmental issues. They vividly describe the pre-totality effects like temperature drops and shadow bands, followed by the \"fabulous\" totality that lasted 5 minutes and 47.1 seconds. The observer detailed the visible corona, a prominence, and several planets, emphasizing the profound and unforgettable visual and emotional impact of the event.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Travelogue",
+        "Astronomy Event"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Baja California Sur",
+        "La Paz",
+        "Eclipse expedition",
+        "Totality",
+        "Corona",
+        "Prominence",
+        "Shadow bands",
+        "Planetary observation",
+        "Solar diameter measurement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-the-view-from-cabo-san-lucas",
+      "documentId": "eph91-08",
+      "title": "The View From Cabo San Lucas",
+      "summary": "John Gleason chronicles his and his friends' journey and elaborate two-year planning to observe a total solar eclipse in Cabo San Lucas. Despite initial anxieties about significant cloud cover and last-minute travel logistics, the sky began clearing on eclipse day, promising a successful viewing from their chosen stable observation site at the Hotel Finisterra. The article also details technical preparations for eclipse photography, including the construction of a specialized occulting disk to capture the solar corona's dynamic range.",
+      "categories": [
+        "Observing Report",
+        "Personal Narrative",
+        "Travelogue",
+        "Eclipse Photography"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Cabo San Lucas",
+        "Hotel Finisterra",
+        "Solar Corona",
+        "Eclipse Photography",
+        "Occulting Disk",
+        "Baja California",
+        "Astronomy Travel",
+        "Refractors",
+        "Cloud Cover"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph91-08-second-contact-two-margaritas",
+      "documentId": "eph91-08",
+      "title": "Second Contact - Two Margaritas",
+      "summary": "This article recounts a personal experience observing a total solar eclipse, beginning on a crowded beach with other photographers and moving to a hotel setup. The author details the progression of the eclipse, noting phenomena like dimming light, shadow bands, and the appearance of Venus, while also engaging with other observers. The narrative culminates in a vivid description of totality, highlighting the stunning view of the corona and prominences, and the challenges of eclipse photography.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Astrophotography",
+        "Personal Narrative"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Eclipse Observation",
+        "Corona",
+        "Prominences",
+        "Shadow Bands",
+        "Diamond Ring",
+        "Solar Photography",
+        "Partial Eclipse",
+        "Pinhole Camera Effect",
+        "Venus",
+        "Jupiter",
+        "Cabo",
+        "Finisterra"
+      ],
+      "pageStart": 1,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph91-08-sjaa-ephemeris",
+      "documentId": "eph91-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The article vividly recounts the experience of observing a total solar eclipse, emphasizing the unparalleled visual brilliance of the corona and prominences, which surpassed any prior photographic or filter-aided views. The author describes the fleeting moments of totality, the 'diamond ring' effect, and the profound emotional impact of witnessing such an awe-inspiring astronomical event. It concludes that a total solar eclipse is a must-see experience that no picture can fully capture.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Events",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Corona",
+        "Prominences",
+        "Totality",
+        "Diamond Ring",
+        "Eclipse Photography",
+        "Astronomical Observation",
+        "Cabo",
+        "Third Contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-fourth-contact-four-margaritas-totaled",
+      "documentId": "eph91-08",
+      "title": "Fourth contact - Four Margaritas TOTALED!",
+      "summary": "The author successfully photographed a solar eclipse, capturing the corona and prominences out to 6 solar radii using an occulting disk. Despite the technical success, the photographs failed to fully convey the profound experience, leading the author to consider using paper and pencil for future observations. The article emphasizes the life-changing nature of witnessing a total solar eclipse.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Photography",
+        "Personal Reflection"
+      ],
+      "keywords": [
+        "Solar eclipse",
+        "Totality",
+        "Corona",
+        "Prominences",
+        "Occulting disk",
+        "Astrophotography",
+        "Observation",
+        "Earthlight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-eclipse-edge-report-puerto-vallarta",
+      "documentId": "eph91-08",
+      "title": "Eclipse Edge Report - Puerto Vallarta",
+      "summary": "This report details an expedition to the edge of the eclipse path near Sayulita, Mexico, where observers experienced clear skies despite prior cloud worries. Despite a shorter totality, the location allowed for extended edge effects, including a stunningly long diamond ring, a red chromosphere, and prominent prominences, along with an unexpectedly huge and bright corona. The author emphasizes the profound, indescribable nature of the eclipse experience, lamenting local fear that led many to miss direct observation.",
+      "categories": [
+        "observing report",
+        "solar eclipse",
+        "personal experience",
+        "astronomy"
+      ],
+      "keywords": [
+        "Eclipse",
+        "Puerto Vallarta",
+        "Sayulita",
+        "Totality",
+        "Edge Effects",
+        "Diamond Ring",
+        "Chromosphere",
+        "Prominences",
+        "Corona",
+        "Shadow Bands",
+        "Solar Max"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph91-08-sjaa-ephemeris",
+      "documentId": "eph91-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This snippet from 'SJAA EPHEMERIS' describes a dramatic celestial event, likely a solar eclipse, where the sky darkened and appeared like a crescent moon. The author expresses regret and surprise that people on vacation nearby would miss such an \"awesome display.\"",
+      "categories": [
+        "Observing Reports",
+        "Celestial Events",
+        "Astronomy Club News",
+        "Commentary"
+      ],
+      "keywords": [
+        "solar eclipse",
+        "celestial event",
+        "crescent moon",
+        "darkening sky",
+        "astronomy",
+        "SJAA",
+        "ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-from-mazatlan-mam-muhlestein",
+      "documentId": "eph91-08",
+      "title": "From Mazatlan - Mam Muhlestein",
+      "summary": "The author recounts a trip to Mazatlan, Mexico, to observe a solar eclipse, experiencing mixed luck with cloudy weather on the day of the event. Despite initial cloud cover, a temporary clearing during totality allowed for an awe-inspiring view of the solar corona and a striking 360-degree sunset. The experience highlights the unpredictable nature of eclipse viewing and offers a lesson learned about seeking clearer skies.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Eclipse Chasing",
+        "Travel"
+      ],
+      "keywords": [
+        "solar eclipse",
+        "Mazatlan",
+        "Mexico",
+        "totality",
+        "corona",
+        "clouds",
+        "weather",
+        "observation",
+        "360-degree sunset"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-tepoztlan-mainland-mexico-joanna-pan",
+      "documentId": "eph91-08",
+      "title": "Tepoztlan, mainland Mexico - Joanna Pan",
+      "summary": "Joanna Pan recounts her experience observing a solar eclipse from Tepoztlan, mainland Mexico, a location with initially low chances of clear sky. Despite early morning clouds, the sky cleared just in time for her group to witness the entire eclipse from a hotel rooftop, with four planets visible. They shared viewing equipment with local Mexicans, who celebrated totality with firecrackers and clapping, making for a memorable cultural event despite language barriers.",
+      "categories": [
+        "observing report",
+        "personal account",
+        "events",
+        "travel"
+      ],
+      "keywords": [
+        "Tepoztlan",
+        "Mexico",
+        "solar eclipse",
+        "totality",
+        "eclipse chasers",
+        "cloudy sky",
+        "clear sky",
+        "planets",
+        "mylar filter",
+        "pinhole projection",
+        "local reaction",
+        "cultural experience"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-sun-grazing-comet-observed-during-eclipse",
+      "documentId": "eph91-08",
+      "title": "Sun Grazing Comet Observed During Eclipse",
+      "summary": "A sun-grazing comet was observed by Richard Watson and Marty Roberts during totality in Cabo San Lucas and San Jose del Cabo, respectively. This observation was reported in the San Jose Astronomical Association's monthly publication, EPHEMERIS.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Event",
+        "News"
+      ],
+      "keywords": [
+        "Sun-grazing comet",
+        "Comet observation",
+        "Eclipse",
+        "Solar eclipse",
+        "Cabo San Lucas",
+        "San Jose del Cabo"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph91-08-membership-only-10-membership-s-t-28-junior-under-18-18",
+      "documentId": "eph91-08",
+      "title": "Membership only: $10 Membership/S&T: $28 Junior (under 18): $18",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining different membership tiers and their corresponding costs, such as individual, membership with Sky & Telescope, and junior rates. It provides fields for personal details and instructions for submitting the form either in person at a meeting or by mail to the association's treasurer.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Organization Information",
+        "Pricing"
+      ],
+      "keywords": [
+        "Membership",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Application",
+        "Dues",
+        "Subscription",
+        "Treasurer",
+        "Contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-08-make-checks-payable-to-sjaa",
+      "documentId": "eph91-08",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document serves as a membership form for the San Jose Astronomical Association (SJAA), detailing options for membership types (e.g., membership only, membership/S&T, junior) and requiring new or renewal status. It includes the organization's mailing address, non-profit status, and an announcement for a \"Total Eclipse Show & Tell\" event scheduled for August 3rd at 8 pm, likely part of the SJAA Ephemeris publication.",
+      "categories": [
+        "Membership Information",
+        "Event Announcement",
+        "Organization Information",
+        "Newsletter/Publication"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Renewal",
+        "Total Eclipse",
+        "Show & Tell",
+        "Astronomical Association",
+        "Non-profit",
+        "Milpitas CA",
+        "August 3rd",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9108/Eph91_08.pdf",
+      "txtPath": "9108/Eph91_08.md"
+    }
+  ]
+}

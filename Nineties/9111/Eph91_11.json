@@ -1,0 +1,431 @@
+{
+  "articles": [
+    {
+      "id": "eph91-11-sjaa-ephemeris",
+      "documentId": "eph91-11",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association, titled \"SJAA EPHEMERIS.\" It represents Volume 3, Number 11, specifically for November 1991. It likely contains information pertinent to the association's activities, astronomical data, or news for that month.",
+      "categories": [
+        "Publication",
+        "Association News",
+        "Newsletter",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "November 1991",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-11-from-your-new-editor",
+      "documentId": "eph91-11",
+      "title": "From Your New Editor -",
+      "summary": "The new editor introduces themselves, outlining their goal to serve SJAA members by delivering news and actively seeking member participation through constructive feedback and article submissions. They express profound gratitude to the outgoing editor, John, for his excellent work over 85 issues, while also providing clear guidelines for future member contributions to the newsletter.",
+      "categories": [
+        "Editorial",
+        "Community Announcement",
+        "Guidelines",
+        "News"
+      ],
+      "keywords": [
+        "New Editor",
+        "SJAA Members",
+        "Newsletter",
+        "Member Participation",
+        "Article Submissions",
+        "Previous Editor John",
+        "Editorial Guidelines",
+        "Community Engagement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-11-thank-you-wolfgang",
+      "documentId": "eph91-11",
+      "title": "Thank You Wolfgang",
+      "summary": "The article expresses gratitude to Wolfgang Hanisch for his dedicated service to the SJAA, particularly for his role as a Beginning Astronomy instructor and a member of the Board of Directors. It also provides a detailed calendar of upcoming events for November and December, including various star parties at different locations, general meetings, and an indoor star party.",
+      "categories": [
+        "Member Recognition",
+        "Events",
+        "Meetings",
+        "Association News"
+      ],
+      "keywords": [
+        "Wolfgang Hanisch",
+        "SJAA",
+        "Star party",
+        "General Meeting",
+        "Beginning Astronomy",
+        "Fremont Peak",
+        "Grant Ranch",
+        "Branham Ln Park",
+        "Henry Coe State Park",
+        "November events",
+        "December events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-11-bob-fingerhut-bites-the-astronomical-dust",
+      "documentId": "eph91-11",
+      "title": "Bob Fingerhut Bites the Astronomical Dust",
+      "summary": "The article announces the marriage of notable amateur astronomer Bob Fingerhut to Linda, which took place on Saturday, October 5th, in Sunnyvale. It humorously suggests that Bob's solitary observing nights will now be a thing of the past. The SJAA extends its congratulations and best wishes to the newlywed couple.",
+      "categories": [
+        "Community News",
+        "Personal News",
+        "Social Event",
+        "SJAA News"
+      ],
+      "keywords": [
+        "Bob Fingerhut",
+        "Linda",
+        "Marriage",
+        "Wedding",
+        "Amateur Astronomer",
+        "SJAA",
+        "Sunnyvale",
+        "October 5"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-11-light-pollution-survery",
+      "documentId": "eph91-11",
+      "title": "Light Pollution Survery",
+      "summary": "This article announces a nationwide light pollution survey, coordinated by the International Dark-Sky Association and featured in Sky & Telescope, using a Pleiades observation chart. A club member, Del Johnson, proposes that the club participate by surveying local familiar locations and has received approval to lead this initiative. Members are encouraged to contact Del Johnson to support the task.",
+      "categories": [
+        "Call to Action",
+        "Observing Project",
+        "Club News",
+        "Environmental Awareness"
+      ],
+      "keywords": [
+        "Light Pollution Survey",
+        "International Dark-Sky Association",
+        "Sky & Telescope",
+        "Pleiades",
+        "Club Participation",
+        "Citizen Science",
+        "Dark Sky Preservation"
+      ],
+      "pageStart": 547,
+      "pageEnd": 547
+    },
+    {
+      "id": "eph91-11-happy-thanksgiving",
+      "documentId": "eph91-11",
+      "title": "Happy Thanksgiving",
+      "summary": "This short document features a \"Happy Thanksgiving\" greeting from an organization. It prominently lists the current officers, including the President, Vice President, Treasurer, Secretary, and Editors, along with their respective names.",
+      "categories": [
+        "Holiday Greeting",
+        "Organizational Announcement",
+        "Administrative"
+      ],
+      "keywords": [
+        "Thanksgiving",
+        "Officers",
+        "Leadership",
+        "Organization",
+        "Greeting",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Editors"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-11-the-astronomical-distance-scale",
+      "documentId": "eph91-11",
+      "title": "The Astronomical Distance Scale",
+      "summary": "The article details the astronomical distance scale, a hierarchical system for measuring cosmic distances from within the solar system to the most distant galaxies. It describes a progression of methods, starting with radar and parallax, advancing through 'standard candles' like Cepheid variables and supernovae, and culminating in cosmological redshift. The piece also highlights persistent controversies, such as the exact distance to the galactic center and the precise value of the Hubble constant, which impacts the estimated age of the universe.",
+      "categories": [
+        "Astronomy",
+        "Cosmology",
+        "Observational Techniques",
+        "Astrophysics",
+        "Scientific Controversy"
+      ],
+      "keywords": [
+        "Astronomical Distance Scale",
+        "Standard Candles",
+        "Hubble Constant",
+        "Parallax",
+        "Cepheid Variables",
+        "Supernovae",
+        "Cosmological Redshift",
+        "Galaxy Distances"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-11-dr-gerald-sussman-group-70-member-speaks-to-sjaa",
+      "documentId": "eph91-11",
+      "title": "Dr. Gerald Sussman, Group 70 Member Speaks to SJAA",
+      "summary": "Dr. Gerald Sussman of MIT spoke to the San Jose Astronomical Association (SJAA) at a picnic held at Fremont Peak State Park. He discussed his five-year research project on designing and using special-purpose computers to numerically solve the N-body problem. His team successfully extended planetary motion predictions from 1 million to 845 million years, enabling the confirmation of old conjectures and the formation of new ones.",
+      "categories": [
+        "Events",
+        "Research",
+        "Astronomy",
+        "Physics",
+        "Computing"
+      ],
+      "keywords": [
+        "Gerald Sussman",
+        "MIT",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Fremont Peak State Park",
+        "N-body problem",
+        "Numerical simulation",
+        "Planetary motion",
+        "Special-purpose computers",
+        "Astrophysics",
+        "Long-term predictions"
+      ],
+      "pageStart": 3,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph91-11-sjaa-ephemeris-page-4",
+      "documentId": "eph91-11",
+      "title": "SJAA EPHEMERIS - Page 4",
+      "summary": "This article discusses new findings regarding the stability of the solar system, confirming a mechanism for the emptying of Kirkwood gaps due to Jupiter's influence on orbital eccentricity and subsequent disturbance by Mars. It also highlights the discovery of various long-period resonances in Pluto's orbit, leading to the conclusion that the solar system is unstable over long timescales. Professor Sussman used an analogy of an unstable pendulum to explain these findings, which suggest extraordinary long-term positional uncertainties for planets.",
+      "categories": [
+        "research",
+        "celestial mechanics",
+        "astronomy",
+        "scientific findings",
+        "orbital dynamics"
+      ],
+      "keywords": [
+        "Kirkwood gaps",
+        "orbital eccentricity",
+        "Jupiter",
+        "Mars",
+        "Pluto",
+        "Neptune",
+        "resonances",
+        "solar system instability",
+        "Professor Sussman",
+        "orbital elements"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-11-design-help-is-needed",
+      "documentId": "eph91-11",
+      "title": "Design Help is needed",
+      "summary": "SJAA is collaborating with Grant Ranch Co. Park administration to construct an observatory. The organization is currently initiating the design phase for the observatory's basic dome. Ethan Clifton, known for his work on the Keck dome and a member of SJAA, has contributed to this design effort.",
+      "categories": [
+        "Project Update",
+        "Community Development",
+        "Observatory Construction",
+        "Design"
+      ],
+      "keywords": [
+        "SJAA",
+        "Grant Ranch Co. Park",
+        "Observatory",
+        "Dome design",
+        "Ethan Clifton",
+        "Keck dome",
+        "Collaboration",
+        "Construction project"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-11-november-celestial-calendar",
+      "documentId": "eph91-11",
+      "title": "November Celestial Calendar",
+      "summary": "This document provides a detailed celestial calendar for November, outlining lunar phases with their dates and times for rise, transit, and set. It also includes comprehensive data for nearer planets (Mercury, Venus, Mars, Jupiter, Saturn) and the Sun, detailing their rise, transit, set times, distances in A.U., and magnitudes. Additionally, the calendar specifies astronomical twilight times, sidereal time, and highlights a \"Darkest Saturday Night\" on November 9th, with all times and dates set to Pacific Standard Time.",
+      "categories": [
+        "Celestial Calendar",
+        "Observational Astronomy",
+        "Astronomical Events",
+        "Planetary Data"
+      ],
+      "keywords": [
+        "November",
+        "Lunar Phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Rise Times",
+        "Set Times",
+        "Transit Times",
+        "Magnitude",
+        "Pacific Standard Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-11-astro-ads",
+      "documentId": "eph91-11",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classifieds section for noncommercial advertisers to sell astronomically related products and services. Submissions are due by the 15th of each month and ads run for approximately three months. The current listings include various used telescopes, eyepieces, and accessories from brands like Tele Vue, Celestron, and Astro-Physics.",
+      "categories": [
+        "classifieds",
+        "astronomy equipment",
+        "advertisements",
+        "observing gear"
+      ],
+      "keywords": [
+        "telescopes",
+        "eyepieces",
+        "Celestron",
+        "Tele Vue",
+        "Astro-Physics",
+        "astronomy ads",
+        "used equipment",
+        "accessories",
+        "refractor",
+        "Plossl"
+      ],
+      "pageStart": 5,
+      "pageEnd": 93
+    },
+    {
+      "id": "eph91-11-page-5",
+      "documentId": "eph91-11",
+      "title": "Page 5",
+      "summary": "This document features several classified advertisements for astronomical equipment. Listings include a unique 5\" f/5 refractor (ULTRA FINDER) and a coated triplet objective lens designed by Dr. James Baker, both for sale. Additionally, there is a 'wanted' ad seeking a used Celestron Firstscope 60 or a comparable refractor for a novice observer.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Optics",
+        "For Sale",
+        "Wanted Ads"
+      ],
+      "keywords": [
+        "Refractor",
+        "Triplet Objective Lens",
+        "ULTRA FINDER",
+        "Celestron Firstscope 60",
+        "Dr. James Baker",
+        "Optics",
+        "Telescope",
+        "Eyepiece",
+        "Focuser",
+        "Amateur Astronomy",
+        "Achromat",
+        "Photographic Quality"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-11-comet-comments",
+      "documentId": "eph91-11",
+      "title": "Comet comments",
+      "summary": "The article reports on the discovery of three new comets: McNaught-Russell (1991v), McNaught-Russell (1991w), and Periodic Comet Spacewatch (1991x), noting their magnitudes, orbital characteristics, and expected brightness. It also mentions that Periodic Comet Hartley remains brighter than anticipated. The document also includes a list of officers, board members, and ephemeris contributors.",
+      "categories": [
+        "news",
+        "observing reports",
+        "comet discoveries",
+        "astronomy club"
+      ],
+      "keywords": [
+        "comet",
+        "discovery",
+        "McNaught-Russell",
+        "Spacewatch",
+        "Hartley",
+        "magnitude",
+        "perihelion",
+        "orbit",
+        "astronomy",
+        "observational astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-11-ephemerides",
+      "documentId": "eph91-11",
+      "title": "EPHEMERIDES",
+      "summary": "This article presents ephemerides for three periodic comets—Hartley 2 (1991t), Wirtanen (1991s), and Faye (1991n)—for the period of late October to early December. For each comet, it provides daily celestial coordinates (RA, DEC for both 1950 and 2000 epochs), solar elongation, sky visibility, and estimated visual magnitude, making it a valuable resource for comet observation.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guides",
+        "Astronomy Data",
+        "Cometology"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Periodic Comets",
+        "Comet Hartley 2",
+        "Comet Wirtanen",
+        "Comet Faye",
+        "Observing Guides",
+        "Celestial Coordinates",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Elongation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-11-san-jose-astronomical-association-membership",
+      "documentId": "eph91-11",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and application process for the San Jose Astronomical Association (SJAA), detailing different membership tiers and their costs, as well as instructions for submission and payment. It also provides contact information for the treasurer, a general SJAA hotline, and details for submitting articles to the monthly 'Ephemeris' publication.",
+      "categories": [
+        "Membership Information",
+        "Organizational Details",
+        "Publication Information",
+        "Contact Information",
+        "Form/Application"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Dues",
+        "Subscription",
+        "S&T",
+        "Sky & Telescope",
+        "Ephemeris",
+        "Newsletter",
+        "Contact",
+        "Milpitas",
+        "California",
+        "Non-profit"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9111/Eph91_11.pdf",
+      "txtPath": "9111/Eph91_11.md"
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "articles": [
+    {
+      "id": "eph96-09-eye-on-everything",
+      "documentId": "eph96-09",
+      "title": "Eye on Everything",
+      "summary": "This article reflects on recent astronomical developments, including potential Martian bacteria and newly discovered extrasolar planets, prompting thoughts on extraterrestrial life. It also includes practical announcements for the SJAA club, requesting donations of a slide projector and screen, and providing contact information to order the 1997 RASC Observer's Handbook.",
+      "categories": [
+        "News",
+        "Club Announcements",
+        "Editorial/Opinion"
+      ],
+      "keywords": [
+        "Mars",
+        "Martian bacteria",
+        "extrasolar planets",
+        "ET",
+        "alien life",
+        "SJAA",
+        "club donations",
+        "slide projector",
+        "screen",
+        "RASC Observer's Handbook",
+        "astronomy news"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-first-school-star-party",
+      "documentId": "eph96-09",
+      "title": "First School Star Party",
+      "summary": "The first school star party of the season is scheduled for September 13 at 7:30 PM at Bertha Taylor Elementary, shortly after sunset. Volunteers are sought to assist with the event, which expects a good turnout of around a hundred kids and parents. Detailed directions to the school's play area are provided for attendees.",
+      "categories": [
+        "event announcement",
+        "observing reports",
+        "outreach"
+      ],
+      "keywords": [
+        "school star party",
+        "Bertha Taylor Elementary",
+        "September 13",
+        "volunteer opportunity",
+        "astronomy event",
+        "directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-activities-calendar",
+      "documentId": "eph96-09",
+      "title": "Activities Calendar",
+      "summary": "This document outlines an activities calendar for September and October, featuring multiple star parties at various state parks and Houge Park. It also lists general meetings, a board meeting, and observational astronomy classes, along with a note about the end of Daylight Saving Time. Contact information for the SJAA Hotline and their homepage URL are provided.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Star Parties",
+        "Meetings",
+        "Classes"
+      ],
+      "keywords": [
+        "Activities Calendar",
+        "September",
+        "October",
+        "Star Party",
+        "Fremont Peak State Park",
+        "Henry Coe State Park",
+        "Houge Park",
+        "General Meeting",
+        "Board Meeting",
+        "Observational Astronomy Class",
+        "Grant Ranch",
+        "Hall's Valley Astronomical Group",
+        "SJAA",
+        "Daylight Saving Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-a-night-of-observing-passion",
+      "documentId": "eph96-09",
+      "title": "A Night of Observing Passion",
+      "summary": "Richard Navarrete recounts an observing session at Fremont Peak, California, on August 9, 1996, where he and other dedicated amateur astronomers gathered to avoid the crowds of an upcoming Star-B-Q. The group engaged in various activities, including visual observing, astrophotography, equipment testing (such as collimation and camera trials), and practicing prime focus photography guiding. The report highlights the camaraderie and the pleasant conditions for a night of serious astronomical pursuits.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Event Report"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Observing session",
+        "Astrophotography",
+        "Amateur astronomy",
+        "Telescopes",
+        "Astronomical equipment",
+        "Star party",
+        "Collimation",
+        "Guiding",
+        "1996"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph96-09-passion-continued-from-page-1",
+      "documentId": "eph96-09",
+      "title": "Passion, continued from page 1",
+      "summary": "The article recounts a lively star party, detailing the diverse array of telescopes and instruments brought by participants, as well as the camaraderie and discussions about observing conditions, including initial poor seeing for Jupiter and views of Comet Hale-Bopp, culminating in a relaxing though not always visually productive night. It also features a technical discussion by Douglas Snyder about compiling a list of 39 non-NGC/IC planetary nebulae within the constellation Scutum, providing details on their magnitudes and sizes while inviting fellow astronomers to pursue these challenging deep-sky objects.",
+      "categories": [
+        "Observing Reports",
+        "Star Parties",
+        "Technical Astronomy",
+        "Deep-Sky Observing",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "Star Party",
+        "Planetary Nebulae",
+        "Comet Hale-Bopp",
+        "Deep-Sky Observing",
+        "Scutum",
+        "Telescopes",
+        "Amateur Astronomy",
+        "OIII Filter",
+        "Seeing Conditions"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph96-09-planetaries-in-the-constellation-of-scutum-a-list-of-39",
+      "documentId": "eph96-09",
+      "title": "Planetaries in the constellation of Scutum (a list of 39)",
+      "summary": "This document provides a comprehensive list of 39 planetary nebulae located within the constellation of Scutum. For each nebula, it details astronomical data including RA and DEC coordinates (J2000.0), apparent magnitude, angular size, central star magnitude, and a morphological classification code, with a legend explaining the classification system.",
+      "categories": [
+        "Astronomical Catalog",
+        "Observational Data",
+        "Technical Reference",
+        "Deep-Sky Objects"
+      ],
+      "keywords": [
+        "Planetary Nebulae",
+        "Scutum",
+        "Astronomical Catalog",
+        "Celestial Objects",
+        "RA/DEC Coordinates",
+        "Magnitude",
+        "Angular Size",
+        "Morphological Classification",
+        "Deep Sky"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-09-fremont-peak-15-june-1996",
+      "documentId": "eph96-09",
+      "title": "Fremont Peak, 15 June 1996",
+      "summary": "Jay Freeman recounts a successful observing trip to Fremont Peak in June 1996, where he introduced six newcomer friends to astronomy. Using several refractors, he guided them through views of stars, double stars, clusters, nebulae, and planets, noting their excitement and engagement. The event also featured a large gathering of astronomers and various other impressive telescopes, making for a very productive and enjoyable night.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Events",
+        "Equipment Discussion",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Observing Session",
+        "Telescopes",
+        "Refractors",
+        "Double Stars",
+        "Globular Clusters",
+        "Nebulae",
+        "Galaxies",
+        "Jupiter",
+        "Comet Hale-Bopp",
+        "Comet Kopff",
+        "Beginner Astronomy",
+        "Star Gazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-periodical-publication-statement",
+      "documentId": "eph96-09",
+      "title": "Periodical Publication Statement",
+      "summary": "This document is a periodical publication statement for the \"SJAA Ephemeris,\" the monthly newsletter of the San Jose Astronomical Association. It confirms the newsletter is published 12 times a year, from January through December, and includes the association's contact address. This statement was part of the September 1996 issue.",
+      "categories": [
+        "Publication Information",
+        "Newsletter Details",
+        "Organizational Information",
+        "Administrative Statement"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "publication schedule",
+        "monthly",
+        "periodical",
+        "astronomy club",
+        "contact information"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph96-09-a-night-with-the-sky-wizard",
+      "documentId": "eph96-09",
+      "title": "A Night with the Sky Wizard",
+      "summary": "This article recounts Bob Madden's experience hosting Roger Rogavis, an Australian visitor, for a night of astronomy. After an initial meeting with the San Jose Astronomical Association, Madden, Rogavis, and 'Sky Wizard' Jack Zeiders embarked on an observing session at Fremont Peak using Zeiders' 17-inch Dobsonian telescope, as the larger Challenger telescope was reserved. Despite initial wind, they enjoyed breathtaking views of northern sky objects like the Veil Nebula, various galaxies, Jupiter, and Hale-Bopp, skillfully guided by Zeiders, leaving Rogavis in awe of the experience.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Astronomy Club Activity",
+        "Event"
+      ],
+      "keywords": [
+        "Observing",
+        "Fremont Peak",
+        "Jack Zeiders",
+        "Roger Rogavis",
+        "Bob Madden",
+        "Dobsonian Telescope",
+        "Deep-sky Objects",
+        "Nebulae",
+        "Galaxies",
+        "Jupiter",
+        "Hale-Bopp",
+        "San Jose Astronomical Association",
+        "Northern Skies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-shadows-in-the-dust",
+      "documentId": "eph96-09",
+      "title": "Shadows in the Dust",
+      "summary": "Bill Arnett recounts his experience at the San Jose Astronomical Association's monthly dark sky party at Henry Coe State Park on August 17/18. He describes setting up his 12\" LX200 telescope, interacting with newcomers, and the significant challenge posed by unusually dusty conditions at the construction-affected observing site.",
+      "categories": [
+        "observing report",
+        "club activity",
+        "personal experience"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "dark sky party",
+        "Henry Coe State Park",
+        "LX200",
+        "telescope setup",
+        "dusty conditions",
+        "amateur astronomy",
+        "August 1996"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph96-09-shadows-continued-from-page-5",
+      "documentId": "eph96-09",
+      "title": "Shadows, continued from page 5",
+      "summary": "The article details a personal account of a successful night of astronomical observing, describing vivid views of Jupiter, its Galilean moons, Saturn, and various deep-sky objects like M31 and M33, along with a striking observation of Venus casting shadows. It also reports on the 3rd Annual Mount Lassen Dark Sky Star Party, recounting initial travel challenges like a vehicle breakdown and early observing conditions impacted by smoke from wildfires, despite moments of spectacular seeing.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "M31",
+        "M33",
+        "Venus",
+        "Orion",
+        "Galilean moons",
+        "GRS",
+        "Seeing",
+        "Dark Sky",
+        "Smoke",
+        "Mount Lassen Dark Sky Star Party",
+        "Tuthill tripod",
+        "Visual observing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-09-astronomy-magazine-subscriptions",
+      "documentId": "eph96-09",
+      "title": "ASTRONOMY Magazine Subscriptions",
+      "summary": "This article announces a special club rate of $20 for Astronomy magazine subscriptions through Jim Van Nuland. Existing subscribers should include a renewal notice or mailing label, while new subscribers only need to provide a check and mailing address. Checks must be sent to Jim by mid-September to secure the club rate.",
+      "categories": [
+        "Announcement",
+        "Subscriptions",
+        "Club Activity",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "subscriptions",
+        "club rates",
+        "Jim Van Nuland",
+        "renewal",
+        "new subscriptions",
+        "September 1996"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-09-smokin-continued-from-page-6",
+      "documentId": "eph96-09",
+      "title": "Smokin, continued from page 6",
+      "summary": "This article recounts a multi-day astronomy trip, likely a star party at Lassen Peak, detailing both challenges and successes. Initial observing was hindered by smoke, and the author experienced a frustrating fishing trip and a vehicle breakdown requiring rescue by fellow club members. However, the final night featured a highly successful public star party attracting hundreds, followed by exceptional dark-sky observing sessions with stunning views of nebulae and galaxies, making the overall experience deeply rewarding despite earlier setbacks.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Trip Report",
+        "Club Activities",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Lassen Peak",
+        "Star Party",
+        "Public Observing",
+        "Dark Sky",
+        "Astronomy Club",
+        "SJAA",
+        "Deep-sky Objects",
+        "Nebulae",
+        "Galaxies",
+        "Telescopes",
+        "Observing Conditions",
+        "Vehicle Issues",
+        "Community"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph96-09-comet-comments",
+      "documentId": "eph96-09",
+      "title": "COMET COMMENTS",
+      "summary": "This article from September 1996 discusses several comets, highlighting the recently discovered Comet NEAT by the Near-Earth Asteroid Tracking system, a JPL and U.S. Air Force-funded project designed to detect Earth-crossing objects. It also provides updates on the visibility of Comet Brewington and the fading Comet Kopff. Furthermore, it details Comet Hale-Bopp's naked-eye visibility, observable coma, and tail, noting its distant but prominent presence.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discoveries",
+        "News",
+        "Astronomy Updates"
+      ],
+      "keywords": [
+        "Comet NEAT",
+        "Near-Earth Asteroid Tracking",
+        "Comet Hale-Bopp",
+        "Comet Brewington",
+        "Comet Kopff",
+        "CCD camera",
+        "JPL",
+        "U.S. Air Force",
+        "magnitude",
+        "coma",
+        "tail",
+        "September 1996"
+      ],
+      "pageStart": 1996,
+      "pageEnd": 1996
+    },
+    {
+      "id": "eph96-09-c-1995-o1-hale-bopp",
+      "documentId": "eph96-09",
+      "title": "C/1995 O1 (Hale-Bopp)",
+      "summary": "This document provides an ephemeris for Comet C/1995 O1 (Hale-Bopp) for dates spanning from late August to early October 2000. It lists celestial coordinates (Right Ascension and Declination), elongation from the Sun, and predicted sky magnitude. The table also includes comparative data for Comet 22P/Kopff.",
+      "categories": [
+        "Ephemeris",
+        "Observing Data",
+        "Comets",
+        "Technical Astronomy"
+      ],
+      "keywords": [
+        "C/1995 O1",
+        "Hale-Bopp",
+        "comet",
+        "ephemeris",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "astronomy",
+        "observational data",
+        "22P/Kopff"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-c-1996-n1-brewington",
+      "documentId": "eph96-09",
+      "title": "C/1996 N1 (Brewington)",
+      "summary": "This document presents ephemeris data for two comets, C/1996 N1 (Brewington) and C/1996 E1 (NEAT). It provides their Right Ascension, Declination, Elongation, and estimated Sky Magnitude at five-day intervals from late August to early October 2000, serving as a guide for observers.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observational Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "C/1996 N1 (Brewington)",
+        "C/1996 E1 (NEAT)",
+        "Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Observing guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-orbital-elements",
+      "documentId": "eph96-09",
+      "title": "Orbital Elements",
+      "summary": "This document provides a table detailing the orbital elements for four comets: Hale-Bopp, Kopff, Brewington, and NEAT. Key parameters listed include perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period, along with the source of the data for each object. The data is presented in a concise, technical format.",
+      "categories": [
+        "Technical",
+        "Astronomical Data",
+        "Comets",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Orbital elements",
+        "Comets",
+        "Hale-Bopp",
+        "Kopff",
+        "Brewington",
+        "NEAT",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Orbital Period",
+        "Astronomical data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-lunar-phase",
+      "documentId": "eph96-09",
+      "title": "Lunar Phase",
+      "summary": "The document provides a tabular overview of various lunar phases, including Last Quarter, New Moon, First Quarter, and Full Moon. For each phase, it lists the exact UTC time and date, along with the moon's rise, transit, and set times in PDT.",
+      "categories": [
+        "Astronomy",
+        "Lunar Events",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "UTC",
+        "PDT",
+        "Celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-mercury",
+      "documentId": "eph96-09",
+      "title": "Mercury",
+      "summary": "This document provides an ephemeris for Mercury across three dates (7th, 17th, 27th), detailing its rise, transit, and set times, along with its Right Ascension, Declination, and apparent magnitude. It also notes Mercury's distance from the Sun at 0.64 AU. This data is essential for observers tracking the planet's position and visibility.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guide",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Mercury",
+        "ephemeris",
+        "astronomy",
+        "observing",
+        "rise time",
+        "set time",
+        "transit time",
+        "magnitude",
+        "declination",
+        "right ascension"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-venus",
+      "documentId": "eph96-09",
+      "title": "Venus",
+      "summary": "This document provides an astronomical ephemeris for the planet Venus across several dates within a given month. It details key observational data including rise, transit, and set times, distance from Earth, right ascension, declination, and apparent magnitude.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Venus",
+        "ephemeris",
+        "astronomy",
+        "observing guide",
+        "rise time",
+        "set time",
+        "transit",
+        "right ascension",
+        "declination",
+        "magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-mars",
+      "documentId": "eph96-09",
+      "title": "Mars",
+      "summary": "This document provides an ephemeris for Mars across three dates (7th, 17th, and 27th, likely of a given month), detailing its rise, transit, and set times. It also lists the planet's right ascension, declination, visual magnitude (+1.0), and distance from Earth (ranging from 2.02 AU).",
+      "categories": [
+        "Observational Data",
+        "Ephemeris",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "Mars",
+        "Ephemeris",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Distance",
+        "Planetary position"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-jupiter",
+      "documentId": "eph96-09",
+      "title": "Jupiter",
+      "summary": "This document provides an ephemeris for Jupiter over a period of 20 days, detailing its rise, transit, and set times, along with its celestial coordinates (RA and Dec), magnitude, and distance from Earth (in AU). The data is presented for three specific dates within the month, showing the planet's changing position and visibility. It serves as a guide for observing Jupiter.",
+      "categories": [
+        "observing reports",
+        "ephemeris",
+        "astronomical data",
+        "planetary data"
+      ],
+      "keywords": [
+        "Jupiter",
+        "ephemeris",
+        "rise time",
+        "transit time",
+        "set time",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "distance",
+        "astronomy",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-saturn",
+      "documentId": "eph96-09",
+      "title": "Saturn",
+      "summary": "This document provides an ephemeris for the planet Saturn, detailing its rise, transit, and set times, along with its Right Ascension, Declination, apparent magnitude, and distance from Earth for three specific dates. It serves as a guide for observers to locate and track Saturn's position in the sky.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Observational Guide",
+        "Planetary Data"
+      ],
+      "keywords": [
+        "Saturn",
+        "Ephemeris",
+        "Astronomical Data",
+        "Rise time",
+        "Set time",
+        "Transit time",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Distance",
+        "Planetary observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-sol-star-type-g2v-intelligent-life-in-system",
+      "documentId": "eph96-09",
+      "title": "SOL Star Type G2V Intelligent Life in System?",
+      "summary": "The document presents a table of ephemeris data, including rise, transit, and set times, along with Right Ascension and Declination for three specific dates. The title poses a speculative question regarding the presence of intelligent life within a system orbiting a G2V star, which is the spectral type of our Sun (Sol).",
+      "categories": [
+        "Astronomy",
+        "Astrobiology",
+        "Observational Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "G2V star",
+        "Sol",
+        "Intelligent life",
+        "Right Ascension",
+        "Declination",
+        "Transit",
+        "Celestial coordinates",
+        "Astrobiology"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-astronomical-twilight",
+      "documentId": "eph96-09",
+      "title": "Astronomical Twilight",
+      "summary": "The document presents a concise table detailing the beginning and end times of astronomical twilight for several specific Julian Dates. This information is vital for astronomers and skywatchers to plan observations, indicating when the sky is dark enough for viewing celestial objects.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Aids",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Twilight",
+        "Observational Astronomy",
+        "Ephemeris",
+        "Dark Sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-sidereal-time",
+      "documentId": "eph96-09",
+      "title": "Sidereal Time",
+      "summary": "This document presents astronomical ephemeris data for September 1996, detailing sidereal time transits for specific right ascensions at local midnight. It also provides key celestial event times for September 14, including sunset, twilight end, and moonset.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Timekeeping",
+        "Celestial Events",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Sunset",
+        "Twilight",
+        "Moon Set",
+        "Ephemeris",
+        "September 1996",
+        "Astronomy"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph96-09-telescope-loaner-program-status",
+      "documentId": "eph96-09",
+      "title": "Telescope Loaner Program Status",
+      "summary": "This article provides a status update for a telescope loaner program, detailing which telescopes are currently borrowed, their due dates, and which are available. It also includes a waiting list for specific scopes, announces a donation of an SP-C8 optical tube assembly while requesting a mount for it, and notes special conditions for operating a C-11 and a solar scope. The program is available to SJAA members and is managed by Paul Barton.",
+      "categories": [
+        "Program Update",
+        "Equipment Management",
+        "Club News",
+        "Community Program"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Astronomy Equipment",
+        "Telescope Availability",
+        "SJAA",
+        "Donations",
+        "Public Star Parties",
+        "Telescope Status",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "Newtonian"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-officers-and-board-of-directors",
+      "documentId": "eph96-09",
+      "title": "Officers and Board of Directors",
+      "summary": "The document provides a list of the current officers and board of directors for an organization, detailing roles such as President, Vice President, Treasurer, Secretary, and multiple Directors. It also includes the Editor's contact information, with a phone number provided for each listed individual.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Administration",
+        "Governance"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Personnel",
+        "Leadership",
+        "Contact Information",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Editor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-no-sprinklers-at-houge",
+      "documentId": "eph96-09",
+      "title": "No Sprinklers at Houge",
+      "summary": "The Parks department has decided to turn off the sprinklers at Houge Park on Fridays, effective immediately. This action, confirmed by Mr. Martines, is a temporary solution to a system problem that causes the sprinklers to activate after 1 AM. They are working to resolve the underlying issue.",
+      "categories": [
+        "News",
+        "Local Services",
+        "Public Announcement"
+      ],
+      "keywords": [
+        "Sprinklers",
+        "Houge Park",
+        "Parks Department",
+        "Maintenance",
+        "Watering Schedule",
+        "Local News"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-09-astro-ads",
+      "documentId": "eph96-09",
+      "title": "Astro Ads",
+      "summary": "This document features a classifieds section titled 'Astro Ads,' presenting a variety of used astronomical equipment for sale, including Newtonian reflectors, Celestron telescopes, an Astro-Physics APO refractor, and a Schmidt camera, alongside one 'wanted' advertisement. It also provides guidelines for non-commercial advertisers to submit ads and encourages members to submit articles for publication in the 'SJAA Ephemeris' newsletter.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment Sales",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Astronomy equipment",
+        "Reflectors",
+        "Refractors",
+        "Celestron",
+        "Astro-Physics",
+        "Schmidt Camera",
+        "Used equipment",
+        "For Sale",
+        "Wanted",
+        "SJAA Ephemeris",
+        "Classified ads"
+      ],
+      "pageStart": 9,
+      "pageEnd": 102
+    },
+    {
+      "id": "eph96-09-san-jose-astronomical-association-membership-form",
+      "documentId": "eph96-09",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA) from September 1996. It details membership options, including standard ($15) and junior ($6), with an additional $27 option for a Sky & Telescope subscription. The form provides instructions for submission via mail or in-person, along with contact details for the treasurer.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational Information",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Membership Fees",
+        "Sky & Telescope",
+        "Application",
+        "1996",
+        "Non-profit"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph96-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9609/Eph96_09.pdf",
+      "txtPath": "9609/Eph96_09.md"
+    }
+  ]
+}

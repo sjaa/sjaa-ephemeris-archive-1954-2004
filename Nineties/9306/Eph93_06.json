@@ -1,0 +1,618 @@
+{
+  "articles": [
+    {
+      "id": "eph93-06-sjaa-ephemeris",
+      "documentId": "eph93-06",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the June 1993 issue of \"SJAA Ephemeris,\" the official publication of the San Jose Astronomical Association. It is identified as Volume 4, Number 6 of the publication.",
+      "categories": [
+        "Newsletter",
+        "Astronomy Club News",
+        "Historical Document",
+        "Publication"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "Astronomy publication",
+        "June 1993",
+        "Newsletter",
+        "Volume 4 Number 6"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-the-eye-piece",
+      "documentId": "eph93-06",
+      "title": "The Eye Piece",
+      "summary": "Bob Madden reports on the success of the annual auction and swap, highlighting the sale of high-ticket astronomical equipment and the attendance of members from various regions. He emphasizes a very active month for star parties and the urgent need for more volunteers to support these public outreach efforts. The article also previews upcoming events, including general meetings, star parties at multiple locations, and a technical article on constructing a small aperture telescope.",
+      "categories": [
+        "Events",
+        "News",
+        "Community Engagement",
+        "Observing Reports",
+        "Technical Articles",
+        "Membership"
+      ],
+      "keywords": [
+        "Annual Auction",
+        "Swap Meet",
+        "Star Parties",
+        "Volunteer Recruitment",
+        "Astronomical Equipment",
+        "Celestron C-8",
+        "Starfire",
+        "Meade ED OTA",
+        "WW-II Bubble Sextant",
+        "General Meeting",
+        "Board of Directors Meeting",
+        "Milpitas Library",
+        "Fremont Peak",
+        "Grant Ranch",
+        "Houge Park",
+        "Yosemite",
+        "Observational Astronomy",
+        "Telescope Construction",
+        "FOSTER Program",
+        "Kuiper Solar Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-canyon-lands-field-institute",
+      "documentId": "eph93-06",
+      "title": "Canyon Lands Field Institute",
+      "summary": "The article announces two upcoming educational trips organized by the Canyon Lands Field Institute, led by Von Del Chamberlain. \"A Night Out with the Stars\" in June offers stargazing and cultural sky interpretation, while \"Canyons of the Navajo\" in October explores ancient Anasazi and Navajo rock art, including 'star ceilings', in historic canyon lands.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Education",
+        "Travel",
+        "Culture",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Canyon Lands Field Institute",
+        "Von Del Chamberlain",
+        "Hansen Planetarium",
+        "A Night Out with the Stars",
+        "Canyons of the Navajo",
+        "Stargazing",
+        "Telescopes",
+        "Star charts",
+        "Cultural astronomy",
+        "Anasazi",
+        "Navajo",
+        "Rock art",
+        "Star ceilings",
+        "Canyon de Chelly",
+        "Canyon del Muerto"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-06-double-triple-and-multiple-stars",
+      "documentId": "eph93-06",
+      "title": "Double, Triple, and Multiple Stars",
+      "summary": "This article by Patrick M. Donnelly describes the diverse classifications of multiple star systems, ranging from single stars to complex gravitational bonds. It details various types based on observational methods, including apparent, visual, astrometric, spectroscopic, spectrum, and eclipsing binaries. The author notes that over 55% of stars in the Milky Way are believed to be part of a multiple system.",
+      "categories": [
+        "Astronomy",
+        "Stellar Classification",
+        "Observational Astronomy",
+        "Educational"
+      ],
+      "keywords": [
+        "Multiple Stars",
+        "Binary Stars",
+        "Visual Binaries",
+        "Spectroscopic Binaries",
+        "Eclipsing Binaries",
+        "Astrometric Binaries",
+        "Star Systems",
+        "Celestial Mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-magnitudes",
+      "documentId": "eph93-06",
+      "title": "Magnitudes",
+      "summary": "This article presents an astronomical puzzle about determining the magnitudes of three stars. A seasoned astronomer provides clues: the product of their magnitudes is 36, and their sum equals a house address. Initially, more information is needed, but a final clue—that the dimmest star is covered by clouds—allows the younger astronomer to solve the problem.",
+      "categories": [
+        "Puzzle",
+        "Astronomy",
+        "Brain Teaser"
+      ],
+      "keywords": [
+        "magnitudes",
+        "stars",
+        "puzzle",
+        "astronomy",
+        "star party",
+        "mathematics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-astronomy-day-1993",
+      "documentId": "eph93-06",
+      "title": "Astronomy Day 1993",
+      "summary": "The article details Astronomy Day 1993, where amateur astronomers nationwide conducted public solar viewing events. The San Jose Astronomical Association (SJAA) participated at the Milpitas Library and the Rosicrucian Museum, successfully showcasing the sun through telescopes to numerous visitors in San Jose.",
+      "categories": [
+        "Event Report",
+        "Observing Report",
+        "Amateur Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Astronomy Day 1993",
+        "Amateur Astronomers",
+        "Solar Viewing",
+        "San Jose Astronomical Association (SJAA)",
+        "Milpitas Library",
+        "Rosicrucian Museum",
+        "Telescopes",
+        "Public Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-santa-clara-sun",
+      "documentId": "eph93-06",
+      "title": "Santa Clara Sun",
+      "summary": "A solar viewing party was held in Santa Clara as part of Earth Awareness Day, drawing approximately 400 first to sixth-grade students and teachers. Hosted near the Municipal Courthouse at the request of John Mendoza, the event featured speeches by dignitaries, food, and solar telescope viewing manned by Paul Barton and the author, Bob Madden.",
+      "categories": [
+        "Events",
+        "Observing Report",
+        "Outreach",
+        "Local News",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Santa Clara",
+        "Solar Party",
+        "Earth Awareness Day",
+        "Solar Observing",
+        "Astronomy Outreach",
+        "Bob Madden",
+        "Paul Barton",
+        "Students",
+        "Education",
+        "Telescopes",
+        "June 1993"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-06-build-a-high-quality-small-aperture-wide-field-telescope",
+      "documentId": "eph93-06",
+      "title": "Build a High-Quality, Small Aperture, Wide-field Telescope",
+      "summary": "This article details how to build a high-quality, small aperture, wide-field refractor telescope using an affordable, multi-coated f/4.5 lens system sourced from Ailtronics. The author praises the lens's performance for 'richest-field' astronomy, excellent for observing wide deep-sky objects or for daytime use. It provides a DIY guide for assembling the telescope tube using readily available plumbing parts and discusses optimal eyepiece selection and considerations for image correction.",
+      "categories": [
+        "DIY Astronomy",
+        "Telescope Construction",
+        "Amateur Astronomy",
+        "Optics",
+        "Equipment Review"
+      ],
+      "keywords": [
+        "Telescope building",
+        "Small aperture telescope",
+        "Wide-field telescope",
+        "Refractor telescope",
+        "Objective lens",
+        "Ailtronics",
+        "Richest-field astronomy",
+        "Deep-sky observing",
+        "Plumbing parts",
+        "DIY optics",
+        "Steve Waldee"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-06-build-a-richest-field-telescope",
+      "documentId": "eph93-06",
+      "title": "Build a Richest Field Telescope",
+      "summary": "This article details the completion of a \"Richest Field Telescope\" system, offering a wide 7.5-degree field of view. It also advises on attaching a dew shield to the lens for moist observing conditions. Additionally, it mentions a shareware program called \"SHARESCOPE\" available for purchase, which helps compute astronomical telescope operating parameters for home-made systems.",
+      "categories": [
+        "DIY Astronomy",
+        "Telescope Building",
+        "Observing Aids",
+        "Software"
+      ],
+      "keywords": [
+        "Richest Field Telescope",
+        "telescope system",
+        "wide field",
+        "dewshield",
+        "SHARESCOPE",
+        "astronomical telescope",
+        "home-made system",
+        "telescope parameters"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-06-observational-astronomy-class",
+      "documentId": "eph93-06",
+      "title": "Observational Astronomy Class",
+      "summary": "An Observational Astronomy Class, led by Jack Pelsersen, discussed various topics including the seasonal brightness variations of the Milky Way and the Hertzsprung-Russell diagram to explain stellar evolution, from star formation to eventual demise. The class also covered characteristics of specific stars like Betelgeuse and Antares, and reviewed several spring galaxies, with a list of attendees provided.",
+      "categories": [
+        "Educational",
+        "Astronomy",
+        "Class Summary",
+        "Stellar Astronomy",
+        "Galactic Astronomy"
+      ],
+      "keywords": [
+        "Observational Astronomy",
+        "Milky Way",
+        "Hertzsprung-Russell graph",
+        "Stellar evolution",
+        "Sun",
+        "Betelgeuse",
+        "Antares",
+        "Supernova",
+        "Galaxies",
+        "Spring galaxies",
+        "Spectral classes",
+        "Brown dwarf",
+        "Black dwarf"
+      ],
+      "pageStart": 85,
+      "pageEnd": 85
+    },
+    {
+      "id": "eph93-06-research-in-search-of-the-lensless-camera",
+      "documentId": "eph93-06",
+      "title": "Research in Search of the Lensless Camera",
+      "summary": "The article details the author's extensive interest and research into lensless cameras, particularly the Lensless Wright and Lensless Schmidt designs. It references prior works, specific amateur builds, and discussions on optical principles like using spherical mirrors and aperture stops. The author plans to construct and compare both types of lensless cameras for visual work, seeking collaboration and feedback from others involved in similar projects.",
+      "categories": [
+        "Amateur Astronomy",
+        "Telescope Making",
+        "Optics",
+        "Astrophotography",
+        "Experimental Design"
+      ],
+      "keywords": [
+        "Lensless Camera",
+        "Lensless Wright Camera",
+        "Lensless Schmidt Camera",
+        "Amateur Telescope Making",
+        "ATM",
+        "Spherical Mirror",
+        "Aperture Stops",
+        "Optical Design",
+        "Telescope Construction",
+        "Astrophotography",
+        "Focal Surface",
+        "Corrector Plates"
+      ],
+      "pageStart": 401,
+      "pageEnd": 432
+    },
+    {
+      "id": "eph93-06-unusual-star-party",
+      "documentId": "eph93-06",
+      "title": "Unusual Star Party",
+      "summary": "The article details an \"Unusual Star Party\" held on April 26, 1993, at Fremont Peak, where smoke from a nearby fire created hazy but exceptionally dark observing conditions, allowing for views of magnitude 12 objects. The event was notably quiet and solitary, with only two attendees. Additionally, a separate daytime solar observing event is mentioned, where about 100 students and adults viewed two sunspots through telescopes.",
+      "categories": [
+        "Observing Report",
+        "Star Parties",
+        "Solar Observing",
+        "Outreach"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "star party",
+        "dark skies",
+        "smoke",
+        "astronomical observations",
+        "solar observing",
+        "sunspots",
+        "astronomy outreach",
+        "telescopes"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-06-more-astro-ads",
+      "documentId": "eph93-06",
+      "title": "More Astro Ads",
+      "summary": "This document features classified advertisements for various used astronomy equipment, including Televue eyepieces, cold cameras, lenses, and a Meade 8\" telescope with accessories. Additionally, it provides the San Jose Astronomical Association's calendar of events for the latter half of 1993, detailing general meetings, observational astronomy classes, and special events like a picnic and slide/equipment night.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Event Schedule",
+        "Astronomy Club Activities",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Astronomy equipment for sale",
+        "Televue eyepiece",
+        "Cold Camera",
+        "Meade telescope",
+        "Lenses",
+        "Eyepieces",
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomy calendar",
+        "General meeting",
+        "Observational astronomy class",
+        "Star party",
+        "Maksutov",
+        "Digital Setting Circles"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-06-sjaa-loaner-status",
+      "documentId": "eph93-06",
+      "title": "SJAA Loaner Status",
+      "summary": "This article details the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program, listing various telescopes currently borrowed by members along with their due dates. It also includes a waiting list for members interested in borrowing equipment. Instructions are provided for members to join the general or specific telescope waiting lists by contacting Paul Barton.",
+      "categories": [
+        "Organizational Update",
+        "Equipment Management",
+        "Member Services"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner program",
+        "Telescopes",
+        "Astronomy club",
+        "Equipment borrowing",
+        "Due dates",
+        "Waiting list",
+        "Paul Barton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-astro-ads",
+      "documentId": "eph93-06",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS offers a free advertising service for noncommercial entities to sell astronomy-related products or services. Ads should be submitted to Bob Madden by the 12th of each month and will run for approximately three months. An example ad features a used Celestron SPC 80 Refractor for sale.",
+      "categories": [
+        "Advertisements",
+        "Classifieds",
+        "Community Bulletin",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "free advertisements",
+        "noncommercial",
+        "astronomy products",
+        "astronomy services",
+        "Celestron SPC 80",
+        "refractor",
+        "telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-yosemite-star-party",
+      "documentId": "eph93-06",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The Yosemite Star Party is scheduled for July 23rd and 24th at Glacier Point, promising over 4.5 hours of fully-dark viewing time each night after moonset. The event is open to the public, offering excellent conditions to observe celestial objects like Sagittarius once the Moon has set.",
+      "categories": [
+        "Events",
+        "Public Outreach",
+        "Observing"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "Glacier Point",
+        "Astronomy",
+        "Star Party",
+        "Dark Sky",
+        "Sagittarius"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-please-call-bob-madden-at-408-264-4488-for-your-reservation-leave-your-name-and-telephone-number-where-you-can-be-contacted",
+      "documentId": "eph93-06",
+      "title": "PLEASE CALL BOB MADDEN AT (408) 264-4488 FOR YOUR RESERVATION. LEAVE YOUR NAME AND TELEPHONE NUMBER WHERE YOU CAN BE CONTACTED",
+      "summary": "This administrative notice instructs individuals to make a reservation by calling Bob Madden at a specified phone number and leaving their name and contact information. It also mentions that Jim Van Nuland will contact them upon his return, and references a June 1993 publication titled 'EPHEMERIS'.",
+      "categories": [
+        "Announcement",
+        "Administrative",
+        "Reservations",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "Reservation",
+        "Contact",
+        "Phone Number",
+        "Bob Madden",
+        "Jim Van Nuland",
+        "June 1993",
+        "EPHEMERIS"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-06-june-1993",
+      "documentId": "eph93-06",
+      "title": "June 1993",
+      "summary": "This document provides a comprehensive astronomical guide for June 1993, detailing lunar phases with their rise, transit, and set times, and similar data for the nearer planets (Mercury, Venus, Mars, Jupiter, Saturn) including their magnitude and distance from the Sun. It also includes solar information, astronomical twilight times for dawn and dusk, sidereal time, and highlights the darkest Saturday night on June 19th. All provided times and dates are in Pacific Daylight Time.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Ephemeris",
+        "Monthly Sky Report",
+        "Planetary Positions",
+        "Lunar Phases"
+      ],
+      "keywords": [
+        "June 1993",
+        "Lunar phases",
+        "Planetary positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Astronomical twilight",
+        "Sidereal time",
+        "Pacific Daylight Time",
+        "Celestial mechanics",
+        "Observing calendar",
+        "Magnitude",
+        "Astronomical Unit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-offices-and-board-of-directors",
+      "documentId": "eph93-06",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current Offices and Board of Directors, including the President, Vice President, Treasurer, Secretary, and several Directors, along with their contact numbers. It also identifies Ephemeris Contributors and the Editor, providing their respective contact information. The content details key personnel and their roles within an organization.",
+      "categories": [
+        "administration",
+        "organization",
+        "personnel",
+        "contact information"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Ephemeris Contributors",
+        "Editor",
+        "leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-comet-comments",
+      "documentId": "eph93-06",
+      "title": "Comet Comments",
+      "summary": "This article provides an update on two comets: Periodic Comet Shoemaker-Levy 9, which remains near Jupiter and is faint but observable with appropriate equipment, and Periodic Comet Reinmuth 2, which was recently recovered but will not be visible to amateur astronomers. An ephemeris table is included for Shoemaker-Levy 9, detailing its celestial coordinates and magnitude through early July.",
+      "categories": [
+        "observing reports",
+        "comets",
+        "ephemeris",
+        "astronomy news"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Levy 9",
+        "Comet Reinmuth 2",
+        "Jupiter",
+        "observing",
+        "ephemeris",
+        "magnitude",
+        "perihelion",
+        "astronomy",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-seeing-comets",
+      "documentId": "eph93-06",
+      "title": "Seeing Comets",
+      "summary": "This article analyzes the elongation (distance from the sun in degrees) at which visually discovered comets were found between 1975 and 1992. It examines 36 morning sky discoveries and 27 evening sky discoveries, providing average and median elongations for each. The analysis suggests that the observed discovery patterns reflect not only the behavior of comets but also the tendency of comet hunters to focus on areas within 90 degrees of the sun.",
+      "categories": [
+        "Astronomical Analysis",
+        "Comet Discovery",
+        "Observational Astronomy",
+        "Data Analysis"
+      ],
+      "keywords": [
+        "comets",
+        "elongation",
+        "comet discovery",
+        "morning sky",
+        "evening sky",
+        "observational bias",
+        "astronomy",
+        "data analysis"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-06-ephemeris",
+      "documentId": "eph93-06",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is a monthly publication by the San Jose Astronomical Association, providing information and updates to its members. Members are encouraged to submit articles for publication by the 12th of the previous month, with submissions preferably on diskette but written copies also accepted, to editor Bob Madden.",
+      "categories": [
+        "Publication Information",
+        "Submission Guidelines",
+        "Astronomical Association News",
+        "Newsletter"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "monthly publication",
+        "article submission",
+        "submission guidelines",
+        "editor",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-06-san-jose-astronomical-association-membership",
+      "documentId": "eph93-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership options and their associated costs, including a junior membership and one with Sky & Telescope magazine. It provides instructions for submitting the form, payment details, and contact information for the treasurer and a 24-hour information hotline.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational Information",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Astronomy club",
+        "Fees",
+        "Sky & Telescope",
+        "Junior membership",
+        "Renewal",
+        "Milpitas CA",
+        "June 1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9306/Eph93_06.pdf",
+      "txtPath": "9306/Eph93_06.md"
+    }
+  ]
+}

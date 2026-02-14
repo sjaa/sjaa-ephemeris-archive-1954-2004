@@ -1,0 +1,603 @@
+{
+  "articles": [
+    {
+      "id": "eph90-09-ephemeris",
+      "documentId": "eph90-09",
+      "title": "EPHEMERIS",
+      "summary": "This document is an official publication titled \"EPHEMERIS,\" Volume 2, Number 9, from the San Jose Astronomical Association. It was published in September 1990.",
+      "categories": [
+        "Newsletter",
+        "Astronomy",
+        "Organization News",
+        "Historical Document"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "September 1990",
+        "Publication",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-slide-and-equipment-night",
+      "documentId": "eph90-09",
+      "title": "SLIDE AND EQUIPMENT NIGHT",
+      "summary": "The article announces the traditional \"Slide and Equipment Night\" for the September meeting, an annual \"show and tell\" event where members share their astronomical equipment and astrophotography. This year, it will be preceded by a Swap Meet, which is open to all, and members are encouraged to participate to revitalize the long-standing tradition. The Swap Meet will run from 4:00 pm to 7:30 pm, with a 10% commission on sales.",
+      "categories": [
+        "Event Announcement",
+        "Community Event",
+        "Meeting Details",
+        "Swap Meet"
+      ],
+      "keywords": [
+        "Slide and Equipment Night",
+        "Swap Meet",
+        "September meeting",
+        "Telescopes",
+        "Astrophotography",
+        "Astronomical equipment",
+        "Show and tell",
+        "Community participation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-membership-renewals-last-call",
+      "documentId": "eph90-09",
+      "title": "MEMBERSHIP RENEWALS LAST CALL!",
+      "summary": "This article serves as a 'last call' for San Jose Astronomical Association (SJAA) membership renewals, especially for those receiving Sky & Telescope. Members who have not yet renewed are warned that this is their final issue of the Ephemeris and are instructed to use the application on the back of the Ephemeris to mail to the Treasurer.",
+      "categories": [
+        "Membership",
+        "Announcement",
+        "Club Administration"
+      ],
+      "keywords": [
+        "Membership Renewals",
+        "SJAA",
+        "Sky & Telescope",
+        "Ephemeris",
+        "Last Call",
+        "Treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-yosemite-star-party",
+      "documentId": "eph90-09",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The annual Yosemite Star Party was a significant success, attracting hundreds of attendees who were able to observe objects not visible from other locations. The event benefited from perfect weather and clear skies, allowing for educational interactions and a positive experience. Organizers are already anticipating next year's event.",
+      "categories": [
+        "observing report",
+        "event recap"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "Yosemite National Park",
+        "star party",
+        "astronomy",
+        "observing",
+        "skywatching",
+        "event success"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-class-reminder",
+      "documentId": "eph90-09",
+      "title": "CLASS REMINDER",
+      "summary": "The final outdoor session for the Introductory Astronomy Class in September has been rescheduled. It will now be held on Friday, September 14, at Fremont Peak State Park, instead of Saturday at Grant Ranch. This marks the last session for the year.",
+      "categories": [
+        "class update",
+        "event notification",
+        "education",
+        "astronomy club/group"
+      ],
+      "keywords": [
+        "Introductory Astronomy Class",
+        "Fremont Peak State Park",
+        "Grant Ranch",
+        "September 14",
+        "outdoor session",
+        "class reminder"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-aanc-conference",
+      "documentId": "eph90-09",
+      "title": "AANC CONFERENCE",
+      "summary": "The article announces the annual AANC Conference scheduled for October 27-28 at the Lawrence Hall of Science, featuring speakers, an equipment/photography show, a banquet, and a star party, alongside a call for papers for presentations. Additionally, it details a packed schedule of September and early October events, including a swap meet, board meetings, astronomy classes, and multiple public star parties at various locations.",
+      "categories": [
+        "Conference",
+        "Events",
+        "Observing Opportunities",
+        "Astronomy Education",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "AANC Conference",
+        "Lawrence Hall of Science",
+        "Star Party",
+        "Swap Meet",
+        "Astronomy Class",
+        "Board Meeting",
+        "Fremont Peak",
+        "Grant Ranch",
+        "Speakers",
+        "Call for Papers",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-the-astronomy-bookshelf",
+      "documentId": "eph90-09",
+      "title": "THE ASTRONOMY BOOKSHELF",
+      "summary": "This article is a review of John Sanford's book, \"Observing the Constellations,\" which is praised for uniquely combining detailed descriptions of celestial objects with star charts, a feature often missing in other popular guides. While it notes some flaws like superfluous introductory content and less useful star field photographs, the reviewer highly recommends it as a valuable field guide for amateur astronomers who have some experience but are not yet advanced users.",
+      "categories": [
+        "Book Review",
+        "Astronomy Literature",
+        "Observing Guides",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Observing the Constellations",
+        "John Sanford",
+        "star charts",
+        "constellations",
+        "amateur astronomy",
+        "field guide",
+        "Wil Tirion",
+        "deep sky objects",
+        "double stars"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-09-part-four",
+      "documentId": "eph90-09",
+      "title": "PART FOUR",
+      "summary": "This installment, part four of a series, continues to explore the optical differences between photographic processes and the human eye in astronomy. It details how a camera's focal ratio directly determines exposure time for astrophotography of extended objects, with larger apertures at the same focal ratio yielding larger, more detailed images and a lower limiting magnitude. In contrast, for visual astronomy, the article explains that a larger aperture primarily provides a brighter image at the same magnification, as it gathers more photons, irrespective of the focal ratio, due to the telescope/eye combination and the concept of the exit pupil.",
+      "categories": [
+        "Observational Astronomy",
+        "Astrophotography",
+        "Optics",
+        "Educational",
+        "Technical Analysis"
+      ],
+      "keywords": [
+        "Astronomical dark adaptation",
+        "Purkinje effect",
+        "Retina sensitivity",
+        "Photographic film",
+        "Focal ratio",
+        "Aperture",
+        "Prime focal astrophotography",
+        "Exposure time",
+        "Extended objects",
+        "Stellar images",
+        "Limiting magnitude",
+        "Telescope/eye combination",
+        "Exit pupil",
+        "Visual astronomy",
+        "Image brightness"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-meteor-notes",
+      "documentId": "eph90-09",
+      "title": "METEOR NOTES",
+      "summary": "The 'METEOR NOTES' column for September details a month of varied meteor activity, including several minor showers. It highlights the Southern Piscids as the best visual shower, peaking around September 20, and recommends the Daytime Sextantids on September 29 for radio observations, explaining the technique. The author also mentions a shift in list formatting to prioritize peak dates for user convenience.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Events",
+        "Meteor Showers",
+        "Amateur Astronomy Tips",
+        "Skywatching"
+      ],
+      "keywords": [
+        "September meteors",
+        "Southern Piscids",
+        "Daytime Sextantids",
+        "Meteor observation",
+        "Radio astronomy",
+        "Visual astronomy",
+        "Kappa Cygnids",
+        "Doppler effect",
+        "New Moon"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-09-comet-comments",
+      "documentId": "eph90-09",
+      "title": "COMET COMMENTS",
+      "summary": "The article \"COMET COMMENTS\" by Don Machholz provides an update on several comets, highlighting a recent discovery and the naked-eye visibility of Comet Levy. It details the discovery of Comet Tsuchiya-Kiuchi (1990i) by multiple independent observers, including its orbital characteristics and projected visibility in the morning sky. Other comets like Encke, Honda-Mrkos-Pajdusakova, and Skorichenko-George are also mentioned as visible in the morning sky.",
+      "categories": [
+        "astronomical news",
+        "observing reports",
+        "comet discoveries",
+        "solar system"
+      ],
+      "keywords": [
+        "comet observations",
+        "comet discovery",
+        "Comet Levy",
+        "Comet Tsuchiya-Kiuchi (1990i)",
+        "Comet Encke",
+        "Comet Honda-Mrkos-Pajdusakova",
+        "Comet Skorichenko-George",
+        "naked-eye visibility",
+        "perihelion",
+        "retrograde orbit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-seeking-comets",
+      "documentId": "eph90-09",
+      "title": "SEEKING COMETS",
+      "summary": "The article first analyzes amateur visual comet discoveries from 1975-1990, highlighting Japan, the United States, and Australia as leading countries in this field, noting characteristics of the discoverers. It then shifts focus to describe various meteor showers, including the Northern Iota Aquarids, Aurigids, Taurids, and Annual Andromedids, along with July-August observing notes for the Aquarid group and Alpha Capricornids. Finally, it reports on a 1990 stony meteorite fall in Gainerbury, Netherlands.",
+      "categories": [
+        "Amateur Astronomy",
+        "Comet Hunting",
+        "Meteor Showers",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet discoveries",
+        "Amateur astronomers",
+        "Visual astronomy",
+        "Japan",
+        "United States",
+        "Australia",
+        "Meteor showers",
+        "Aquarids",
+        "Taurids",
+        "Andromedids",
+        "Aurigids",
+        "Meteorite fall",
+        "Astronomy observations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-space-program-update",
+      "documentId": "eph90-09",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "The article provides an update on several space programs: the Magellan spacecraft successfully entered orbit around Venus and will begin radar mapping. The Hubble Space Telescope is experiencing a primary mirror flaw causing spherical aberration, attributed to a fabrication error, though other systems are performing well and scientists are developing workarounds. Additionally, the grounding of the Shuttle fleet was lifted after hydrogen leaks on Columbia and Atlantis were identified as unrelated and repairable, with Columbia slated for a September launch.",
+      "categories": [
+        "Space Missions",
+        "Space Telescopes",
+        "Space Shuttle Operations",
+        "Technical Updates",
+        "News"
+      ],
+      "keywords": [
+        "Magellan",
+        "Venus",
+        "Hubble Space Telescope",
+        "Spherical Aberration",
+        "Shuttle Fleet",
+        "Hydrogen Leaks",
+        "Columbia",
+        "Atlantis",
+        "Space Program"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-09-astro-ads",
+      "documentId": "eph90-09",
+      "title": "ASTRO ADS",
+      "summary": "The document describes 'ASTRO ADS' as a free advertising service for non-commercial astronomical products and services. It then shifts to discuss a 17-inch disconnect, possibly a primary seal issue, referencing the space shuttle Columbia. The text concludes by mentioning the Discovery shuttle carrying the Ulysses solar probe, which is scheduled for October 5.",
+      "categories": [
+        "Advertising",
+        "Space Exploration",
+        "Technical",
+        "Space News"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "free advertising",
+        "astronomical products",
+        "space shuttle",
+        "Columbia",
+        "Discovery",
+        "Ulysses solar probe",
+        "technical issue",
+        "mission schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-mir-cosmonauts-complete-repair-of-soyuz-and-mir",
+      "documentId": "eph90-09",
+      "title": "MIR COSMONAUTS COMPLETE REPAIR OF SOYUZ AND MIR",
+      "summary": "Mir cosmonauts successfully repaired ripped insulation on the Soyuz-9 spacecraft, which was blocking re-entry sensors. A spacewalk to secure the insulation faced an issue when the Kvant-2 airlock hatch failed to close, but the crew eventually re-entered; a subsequent spacewalk repaired the hatch. Following these repairs, a replacement crew arrived, and the original Soyuz-9 crew safely returned to Earth.",
+      "categories": [
+        "news",
+        "events",
+        "space exploration"
+      ],
+      "keywords": [
+        "Mir",
+        "Soyuz-9",
+        "cosmonauts",
+        "spacewalk",
+        "repair",
+        "insulation",
+        "Kvant-2",
+        "Kristall module",
+        "space station",
+        "crew change"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-first-commercial-atlas-places-scientific-satellite-into-orbit",
+      "documentId": "eph90-09",
+      "title": "FIRST COMMERCIAL ATLAS PLACES SCIENTIFIC SATELLITE INTO ORBIT",
+      "summary": "The first commercial Atlas Centaur booster successfully launched on July 25, deploying the joint Air Force/NASA Combined Release and Radiation Effects Satellite (CRRES). This satellite is designed to evaluate radiation effects on military spacecraft microelectronics and conduct scientific vapor release experiments for NASA.",
+      "categories": [
+        "News",
+        "Space Launch",
+        "Scientific Mission",
+        "Military Technology"
+      ],
+      "keywords": [
+        "Atlas Centaur",
+        "commercial launch",
+        "CRRES",
+        "scientific satellite",
+        "radiation effects",
+        "microelectronics",
+        "vapor release",
+        "Air Force",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-ariane-resumes-commercial-launch-services",
+      "documentId": "eph90-09",
+      "title": "ARIANE RESUMES COMMERCIAL LAUNCH SERVICES",
+      "summary": "Ariane successfully resumed commercial launch services in July by orbiting two telecommunication satellites from the Guiana Space Center. This mission was the first since the Ariane V36 explosion in February, caused by a piece of cloth in a water line. The recovery plan includes four more launches in the second half of 1990 and nine in 1991, with the next launch targeted for August 30.",
+      "categories": [
+        "News",
+        "Spaceflight",
+        "Launch Services",
+        "Program Update"
+      ],
+      "keywords": [
+        "Ariane",
+        "Commercial Launch Services",
+        "Telecommunication Satellites",
+        "Guiana Space Center",
+        "Ariane V36 Failure",
+        "Viking 5 Engines",
+        "Launch Schedule",
+        "European Space Program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-news-notes",
+      "documentId": "eph90-09",
+      "title": "NEWS NOTES",
+      "summary": "The \"NEWS NOTES\" section features classified advertisements for various used astronomical equipment, including Celestron telescopes and Meade accessories. It also presents a statistical analysis of amateur visual comet discoveries from 1975 to 1990, highlighting Japan, the USA, and Australia as leading countries. Additionally, the notes cover several space and aerospace developments, such as the discovery of Saturn's 18th moon, China's Long March 2E booster launch, updates on the National Aero-Space Plane (NASP), modifications to C-5A transports for shuttle cargo, and the approval of the Mir-2 space station by the Soviet Union.",
+      "categories": [
+        "classifieds",
+        "astronomy news",
+        "space exploration",
+        "aerospace technology",
+        "observational astronomy",
+        "equipment sales"
+      ],
+      "keywords": [
+        "Meade",
+        "Celestron",
+        "astronomical equipment",
+        "comet discoveries",
+        "visual astronomy",
+        "Japan",
+        "USA",
+        "Australia",
+        "Saturn's moon",
+        "Voyager 2",
+        "China",
+        "satellite launch",
+        "Long March 2E",
+        "NASP",
+        "X-30",
+        "space shuttle",
+        "C-5A transport",
+        "Soviet Union",
+        "Mir-2",
+        "space station"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-09-lumicon-deep-sky-filter-2-premium",
+      "documentId": "eph90-09",
+      "title": "LUMICON DEEP SKY FILTER. 2\" Premium",
+      "summary": "This article functions as a classifieds section, featuring various used astronomical equipment for sale. Listings include telescopes such as a Celestron 8 and Televue-Genesis, numerous eyepieces (Televue, Celestron), different types of filters (Lumicon, Orion), and accessories like Barlow lenses, tripods, and cases. Each item provides a description, price, and contact details for the seller.",
+      "categories": [
+        "classifieds",
+        "used astronomical equipment sales",
+        "astronomy accessories"
+      ],
+      "keywords": [
+        "Lumicon Deep Sky Filter",
+        "Celestron 8",
+        "Televue Genesis",
+        "telescopes",
+        "eyepieces",
+        "astronomical filters",
+        "Barlow lens",
+        "tripod",
+        "astronomy equipment",
+        "used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-officers-and-board-of-directors",
+      "documentId": "eph90-09",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document provides a directory of the current officers and board of directors for an organization. It lists each individual's title, name, and contact phone number, covering roles such as President, Vice President, Treasurer, Secretary, Editor, and various Director positions.",
+      "categories": [
+        "Organizational Information",
+        "Contact Directory",
+        "Administration"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Contact Information",
+        "Leadership",
+        "Directory",
+        "Administration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-ephemeris-contributors",
+      "documentId": "eph90-09",
+      "title": "EPHEMERIS CONTRIBUTORS",
+      "summary": "This document lists individuals who contribute to an ephemeris, providing their names and associated phone numbers. It appears to be a contact directory for the people involved in generating or compiling ephemeris data.",
+      "categories": [
+        "Directory",
+        "Contributors List",
+        "Astronomy Resources"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact List",
+        "Directory",
+        "Staff"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-comet-ephemeris",
+      "documentId": "eph90-09",
+      "title": "COMET EPHEMERIS",
+      "summary": "This article provides detailed ephemeris data for three comets: Comet Levy (1990c), Periodic Comet Honda-Mrkos-Pajdusakova (1990f1), and Comet Skorichenko-George (1989e1). The tables list celestial coordinates (RA/DEC for 1950 and 2000 epochs), elongation, sky visibility, and estimated magnitude for dates spanning from late August to early October, serving as a guide for observers.",
+      "categories": [
+        "Technical Data",
+        "Astronomy",
+        "Observing Guides",
+        "Comets",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Levy",
+        "Comet Honda-Mrkos-Pajdusakova",
+        "Comet Skorichenko-George",
+        "ephemeris",
+        "astronomy",
+        "celestial coordinates",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "comet observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-09-this-month-s-meteors",
+      "documentId": "eph90-09",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article presents a comprehensive ephemeris detailing various meteor showers active from August to November. It provides crucial observational data for each shower, including peak dates, maximum visual zenithal rates (ZHR), radiant points, and meteor velocities. This information serves as a practical guide for astronomers and enthusiasts interested in observing meteor activity during these months.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Meteors",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "Kappa Cygnids",
+        "Northern Iota Aquariids",
+        "Aurigids",
+        "Southern Piscids",
+        "Kappa Aquariids",
+        "Daytime Sextantids",
+        "Epsilon Geminids",
+        "Southern Taurids",
+        "Northern Taurids",
+        "ZHR",
+        "Radiant Point",
+        "Velocity",
+        "Astronomy Observation",
+        "SIAA"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-09-membership-only-10-membership-s-t-26-junior-under-18-18",
+      "documentId": "eph90-09",
+      "title": "MEMBERSHIP ONLY: $10 MEMBERSHIP/S&T: $26 JUNIOR (UNDER 18): $18",
+      "summary": "This document is a membership application/renewal form for the San Jose Astronomical Association (SJAA). It outlines different membership tiers and their respective costs, including options for membership only, membership with a Sky & Telescope subscription, and a junior membership. The form provides instructions for submission, including the mailing address for the treasurer and contact information.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Non-profit organization",
+        "Astronomy club"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Dues",
+        "Application",
+        "Renewal",
+        "Junior membership",
+        "Sky & Telescope",
+        "San Jose Astronomical Association",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9009/Eph90_09.pdf",
+      "txtPath": "9009/Eph90_09.md"
+    }
+  ]
+}

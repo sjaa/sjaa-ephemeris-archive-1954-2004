@@ -1,0 +1,672 @@
+{
+  "articles": [
+    {
+      "id": "eph93-12-sjaa-ephemeris",
+      "documentId": "eph93-12",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the December 1993 issue, Volume 4 Number 12, of \"SJAA EPHEMERIS.\" It serves as the official publication of the San Jose Astronomical Association, providing updates and information to its members.",
+      "categories": [
+        "Association News",
+        "Newsletter",
+        "Periodical",
+        "Astronomy Club Publication"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "December 1993",
+        "Astronomical publication",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-the-eyepiece",
+      "documentId": "eph93-12",
+      "title": "The Eyepiece",
+      "summary": "This edition of \"The Eyepiece\" by Bob Madden announces the results of a reader poll favoring Houge Park for meetings, details a comprehensive schedule of December and January astronomical events including star parties and general meetings. The article also seeks updates on the Group 70 1.8 Meter LAT project, proposes an association-funded interferometer project for testing telescope optics, and addresses recent \"Hubble Gossip\" concerning the WFPC II's corrective optics alignment.",
+      "categories": [
+        "Association News",
+        "Events Calendar",
+        "Observing Reports",
+        "Technical Projects",
+        "Astronomical News"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Milpitas Library",
+        "Star Parties",
+        "General Meetings",
+        "Group 70 LAT",
+        "Hubble Space Telescope",
+        "WFPC II",
+        "Interferometer",
+        "Telescope Optics",
+        "Winter Solstice",
+        "Astronomical Events",
+        "Member Poll",
+        "Club Officers"
+      ],
+      "pageStart": 2,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph93-12-double-triple-and-multiple-stars",
+      "documentId": "eph93-12",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "Patrick M. Donnelly shares his personal journey and interest in observing multiple star systems located within five parsecs of Earth. He categorizes these systems by stellar type and discusses the varying degrees of observational difficulty, from bright, well-known systems like Sirius and Alpha Centauri to challenging red dwarf pairs. The article provides specific examples, observing tips, and encourages amateur astronomers to seek out these fascinating celestial objects.",
+      "categories": [
+        "Observational Astronomy",
+        "Stellar Systems",
+        "Amateur Observing",
+        "Double Stars"
+      ],
+      "keywords": [
+        "Multiple Stars",
+        "Double Stars",
+        "Observing",
+        "Stellar Systems",
+        "Red Dwarfs",
+        "White Dwarfs",
+        "Alpha Centauri",
+        "Sirius",
+        "Procyon",
+        "61 Cygni",
+        "Parsecs",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-hubble-gossip",
+      "documentId": "eph93-12",
+      "title": "Hubble gossip",
+      "summary": "Rumors circulated about a potential 7mm misalignment in Hubble's corrective optics, which could affect the simultaneous focus of the WFPC-2 and COSTAR-improved instruments. However, two independent review teams, led by Apollo astronaut Tom Stafford and HST Project Manager John Rotherberg, confirmed that no such problem existed. Shuttle Mission STS-61, scheduled for December 1, will proceed to install the corrective optics.",
+      "categories": [
+        "News",
+        "Space Mission",
+        "Technical",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "HST",
+        "Corrective Optics",
+        "COSTAR",
+        "WFPC-2",
+        "STS-61",
+        "NASA",
+        "Space Shuttle",
+        "Optics Misalignment"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph93-12-election-nominations",
+      "documentId": "eph93-12",
+      "title": "Election Nominations",
+      "summary": "An upcoming election for the organization is scheduled for February, with nominations currently open. Jack Zeiders and Jim Vanuland are accepting nominations, and several individuals are listed as being up for re-election. Nominations will be announced at the January general meeting, and elections will take place at the February meeting.",
+      "categories": [
+        "Organizational",
+        "News",
+        "Internal Announcement",
+        "Elections"
+      ],
+      "keywords": [
+        "elections",
+        "nominations",
+        "February meeting",
+        "January general meeting",
+        "re-election",
+        "committee"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-12-general-meeting-report",
+      "documentId": "eph93-12",
+      "title": "General Meeting Report",
+      "summary": "The General Meeting included a discussion and vote on a potential club relocation, with 11 members favoring Houge Park over the current Library location (6 votes). The report also featured a public acknowledgement and thank you to Paul Barton for his outstanding management and promotion of the club's Telescope Library.",
+      "categories": [
+        "Meeting Report",
+        "Club Business",
+        "Member Services"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Club Relocation",
+        "Houge Park",
+        "Library (location)",
+        "Telescope Library",
+        "Paul Barton",
+        "Member Vote"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-speaker-dr-aaron-barnes-phd",
+      "documentId": "eph93-12",
+      "title": "Speaker: Dr. Aaron Barnes, PhD.",
+      "summary": "This document introduces Dr. Aaron Barnes, a speaker, detailing his academic and professional background. Dr. Barnes earned his PhD in Physics from the University of Chicago in 1966. He is currently affiliated with NASA's Theoretical Studies branch.",
+      "categories": [
+        "Speaker Profile",
+        "Biography",
+        "Academic Profile"
+      ],
+      "keywords": [
+        "Aaron Barnes",
+        "Physics",
+        "University of Chicago",
+        "NASA",
+        "Theoretical Studies",
+        "Academic Background",
+        "Speaker"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-topic-the-heliosphere-and-other-things",
+      "documentId": "eph93-12",
+      "title": "Topic: The Heliosphere and other things",
+      "summary": "The article provides a detailed overview of the heliosphere, defining it as the boundary between the Sun and interstellar space, and delves into the Sun's complex structure from its interior to its atmosphere. It describes layers like the photosphere, chromosphere, and corona, discusses solar phenomena such as flares and sunspots, and explains the solar wind's interaction with planetary magnetic fields and the ultimate boundary, the heliopause.",
+      "categories": [
+        "Astronomy",
+        "Solar Physics",
+        "Space Science",
+        "Educational / Lecture Notes"
+      ],
+      "keywords": [
+        "Heliosphere",
+        "Sun structure",
+        "Solar atmosphere",
+        "Solar wind",
+        "Heliopause",
+        "Planetary magnetospheres",
+        "Solar phenomena",
+        "Solar seismology",
+        "Corona",
+        "Sunspots",
+        "Interstellar space",
+        "Voyager spacecraft"
+      ],
+      "pageStart": 3,
+      "pageEnd": 100
+    },
+    {
+      "id": "eph93-12-how-many-colors-can-we-see",
+      "documentId": "eph93-12",
+      "title": "How many colors can we see",
+      "summary": "This document addresses two distinct scientific topics. The first section explores human color perception, detailing how color distinguishability is measured using various chromaticity diagrams and color spaces like CIE and MacAdam ellipses, noting individual variability and the impact of object size on perceived color. The second section provides an update on the 100-inch Hooker Telescope at Mount Wilson, announcing its refurbishment with an advanced adaptive optics system expected to provide superior resolution (0.05\" FWHM) by next August.",
+      "categories": [
+        "Visual Perception",
+        "Color Science",
+        "Astronomy",
+        "Astronomical Instrumentation",
+        "Project Update"
+      ],
+      "keywords": [
+        "Color perception",
+        "Chromaticity",
+        "Color vision",
+        "CIE Chromaticity Diagram",
+        "Hooker Telescope",
+        "Mount Wilson Observatory",
+        "Adaptive optics",
+        "Telescope refurbishment",
+        "Astronomical resolution"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-nasa-information-via-internet",
+      "documentId": "eph93-12",
+      "title": "NASA INFORMATION via internet",
+      "summary": "This article informs readers about NASA's free online information services, specifically the NSSDC Master Catalog (NMC) and the NASA Master Directory (NMD). These services provide comprehensive details on past, present, and future spaceflight missions, spacecraft, experiments, and Earth and space science data holdings, accessible via the internet.",
+      "categories": [
+        "news",
+        "resources",
+        "information service announcement"
+      ],
+      "keywords": [
+        "NASA",
+        "internet",
+        "NSSDC Master Catalog",
+        "NASA Master Directory",
+        "spacecraft",
+        "missions",
+        "data",
+        "online service",
+        "space science",
+        "Earth science"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-12-meeting-location",
+      "documentId": "eph93-12",
+      "title": "Meeting Location",
+      "summary": "The article details an organization's ongoing struggle to find a stable and suitable general meeting location, initially relocating to Milpitas Library out of urgency. However, the library proved problematic due to reduced attendance, meeting restrictions, cost, and key access issues, prompting a re-evaluation. A membership center analysis and an informal vote favored Houge Park, which is more affordable and convenient, leading the board to investigate its long-term viability as the primary meeting site.",
+      "categories": [
+        "Club Operations",
+        "Internal Affairs",
+        "Logistics",
+        "Meeting Venues"
+      ],
+      "keywords": [
+        "Meeting Location",
+        "Milpitas Library",
+        "Houge Park",
+        "Club Operations",
+        "Attendance",
+        "Venue Selection",
+        "Logistics",
+        "Membership Survey"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-nasa-info",
+      "documentId": "eph93-12",
+      "title": "NASA INFO",
+      "summary": "The document describes the NASA Master Directory (NMD), which provides comprehensive information on space projects, spacecraft, platforms, and instruments. It also offers automated links to various data centers and data systems that house relevant datasets, accessible via simple commands within the directory.",
+      "categories": [
+        "Technical",
+        "Data Management",
+        "Information Systems",
+        "NASA"
+      ],
+      "keywords": [
+        "NASA Master Directory",
+        "NMD",
+        "projects",
+        "spacecraft",
+        "platforms",
+        "sensors",
+        "instruments",
+        "data centers",
+        "data systems",
+        "links",
+        "datasets"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-12-access-procedures",
+      "documentId": "eph93-12",
+      "title": "ACCESS PROCEDURES",
+      "summary": "This document outlines the step-by-step procedures for accessing a \"Master Catalog\" or \"Master Directory\" using two distinct methods: NSI/DECnet and the Internet. Both access paths require logging in with a specific username (NODIS), identifying oneself, choosing an interface type, and navigating to a multi-disciplinary option before selecting the desired catalog or directory. It serves as a guide for users to connect to a specific data system.",
+      "categories": [
+        "Technical Guide",
+        "Access Procedures",
+        "How-To",
+        "System Usage"
+      ],
+      "keywords": [
+        "ACCESS PROCEDURES",
+        "NSI/DECnet",
+        "Internet",
+        "Telnet",
+        "NSSDCA",
+        "NODIS",
+        "Master Catalog",
+        "Master Directory",
+        "Data Access",
+        "System Access"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-via-direct-dial",
+      "documentId": "eph93-12",
+      "title": "Via Direct Dial:",
+      "summary": "This document provides step-by-step instructions for connecting to a remote system, likely NSSDCA or NODIS, via direct modem dial-up. It details specific modem settings (8N1), phone numbers for various baud rates (300-9600), and the required login prompts and navigation steps to access multi-disciplinary options and master catalogs or directories.",
+      "categories": [
+        "Technical Instructions",
+        "Legacy Technology",
+        "Data Access",
+        "Networking",
+        "User Guide"
+      ],
+      "keywords": [
+        "Modem",
+        "Dial-up",
+        "Baud rate",
+        "NSSDCA",
+        "NODIS",
+        "Master Catalog",
+        "Master Directory",
+        "Connectivity instructions",
+        "Legacy systems"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-where-to-get-help",
+      "documentId": "eph93-12",
+      "title": "WHERE TO GET HELP",
+      "summary": "This document provides contact information for obtaining help from two different departments: NMD and NMC. For NMD, users can contact Ms. Pat Ross via NSI/DECnet, Internet, or phone. For NMC, users can contact the Master Directory User Support Office (MDUSO) through similar communication channels.",
+      "categories": [
+        "Contact Information",
+        "Support Resources",
+        "Directory"
+      ],
+      "keywords": [
+        "NMD",
+        "NMC",
+        "Pat Ross",
+        "Master Directory User Support Office",
+        "MDUSO",
+        "Contact",
+        "Help",
+        "NSI/DECnet",
+        "Internet",
+        "Phone",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-moon-eclipse",
+      "documentId": "eph93-12",
+      "title": "MOON Eclipse",
+      "summary": "This document provides precise Universal Time (UT) timings for a 1993 lunar eclipse, citing figures from the Astronomical Almanac. It also includes the San Jose Astronomical Association (SJAA) calendar, listing dates for general meetings and observational astronomy classes from December 1993 through July of the following year.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Information",
+        "Club Announcements",
+        "Calendar"
+      ],
+      "keywords": [
+        "lunar eclipse",
+        "eclipse timings",
+        "Astronomical Almanac",
+        "1993",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "calendar",
+        "general meetings",
+        "observational astronomy",
+        "Ephemeris"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-12-sjaa-loaner-status",
+      "documentId": "eph93-12",
+      "title": "SJAA Loaner Status",
+      "summary": "This document outlines the current status of the San Jose Astronomical Association's (SJAA) telescope loaner program, detailing which telescopes are currently borrowed, their due dates, and which are available. It lists various telescope types from 4\" to 14\" and includes information on a special solar telescope. Members interested in borrowing a telescope are instructed to contact Paul Barton to add their name to a general or specific waiting list.",
+      "categories": [
+        "Club Resources",
+        "Equipment Management",
+        "Membership Services",
+        "Status Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Telescopes",
+        "Dobson",
+        "Newtonian",
+        "Celestron C-8",
+        "Celestron C-11",
+        "Quantum Telescope",
+        "Availability",
+        "Due Dates",
+        "Borrowing",
+        "Waiting List",
+        "Solar Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-astro-ads",
+      "documentId": "eph93-12",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classifieds section for non-commercial advertisers to sell astronomy-related products and services. The page lists various used astronomical equipment for sale, including telescopes like the Criterion 6\" Newtonian and Celestron C-11, along with mounts, cameras, and accessories, complete with contact information for individual sellers.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Community Service",
+        "Marketplace"
+      ],
+      "keywords": [
+        "Astronomical Classifieds",
+        "Telescopes",
+        "Astronomy Equipment",
+        "Used Gear",
+        "Mounts",
+        "Cameras",
+        "Amateur Astronomy",
+        "Buy/Sell"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-12-december-1993",
+      "documentId": "eph93-12",
+      "title": "December 1993",
+      "summary": "This document serves as an astronomical almanac for December 1993, detailing various celestial phenomena. It provides specific dates and times for lunar phases, including Last Quarter, New Moon, First Quarter, and Full Moon. Additionally, it lists rise, transit, and set times, along with magnitudes and distances, for Mercury, Venus, Mars, Jupiter, and Saturn throughout the month, alongside data for the Sun, astronomical twilight, and sidereal time.",
+      "categories": [
+        "Astronomical Almanac",
+        "Celestial Events",
+        "Observing Guide",
+        "Planetary Data",
+        "Lunar Phases"
+      ],
+      "keywords": [
+        "December 1993",
+        "Lunar Phases",
+        "Moon",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Rise Times",
+        "Transit Times",
+        "Set Times",
+        "Magnitude",
+        "Planetary Positions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-times-and-dates-are-pacific-standard",
+      "documentId": "eph93-12",
+      "title": "TIMES AND DATES ARE PACIFIC STANDARD",
+      "summary": "This document specifies that all times and dates presented are in Pacific Standard Time, with local civil times specifically calculated for Houge Park. The values are derived from \"Astronomy with Your Personal Computer\" by Peter Duffet-Smith and \"MacEphem\" by Elwood Charles Downey.",
+      "categories": [
+        "Technical Note",
+        "Methodology",
+        "Reference"
+      ],
+      "keywords": [
+        "Pacific Standard Time",
+        "Local Civil Time",
+        "Houge Park",
+        "Time Derivation",
+        "Astronomical Software",
+        "Peter Duffet-Smith",
+        "MacEphem"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-officers-and-board-of-directors",
+      "documentId": "eph93-12",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization, detailing positions such as President, Treasurer, Secretary, and several Directors. Each listed individual, except for the Vice President, has an associated contact phone number. The Vice President position is noted but the name is not provided.",
+      "categories": [
+        "Organization Information",
+        "Contact List",
+        "Leadership Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Contact information",
+        "Organizational structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-ephemeris-contributors",
+      "documentId": "eph93-12",
+      "title": "Ephemeris Contributors",
+      "summary": "This document provides a contact list of individuals who contribute to an ephemeris, along with their phone numbers. It also identifies an editor for the ephemeris.",
+      "categories": [
+        "Contact List",
+        "Directory",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-comet-comments",
+      "documentId": "eph93-12",
+      "title": "Comet Comments",
+      "summary": "The article \"Comet Comments\" by Don Machholtz reports on the current status of several comets, noting that four are now visible and two others have been recovered. It details the recovery of Periodic Comet Urata-Niijimas (1993q) and Periodic Comet Spitaler (1993r) by Jim Scotti of Kitt Peak. Both recovered comets, with orbital periods of 6.6 and 7.1 years respectively, are expected to remain faint.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Observing Reports",
+        "News"
+      ],
+      "keywords": [
+        "Comet",
+        "Periodic Comet",
+        "Urata-Niijimas",
+        "Spitaler",
+        "Comet recovery",
+        "Jim Scotti",
+        "Kitt Peak",
+        "Orbital period",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-ephemerides",
+      "documentId": "eph93-12",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for four comets: Comet Mueller (1993a and 1993p), Periodic Comet Encke, and Periodic Comet Schwassmann-Wachmann 2. For each comet, it lists predicted celestial coordinates (Right Ascension, Declination), elongation from the sun, sky visibility, and apparent magnitude at five-day intervals from late November through early January. This data serves as a guide for observers tracking these celestial objects.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guides",
+        "Astronomy",
+        "Comets",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Comet Mueller 1993a",
+        "Comet Mueller 1993p",
+        "Periodic Comet Encke",
+        "Periodic Comet Schwassmann-Wachmann 2",
+        "ephemerides",
+        "comets",
+        "astronomy",
+        "observational astronomy",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "elongation"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-12-san-jose-astronomical-association-membership",
+      "documentId": "eph93-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines the different membership tiers and their corresponding annual dues, including options for membership only, membership with Sky & Telescope magazine, and a junior membership rate. The form also provides fields for personal contact information and instructions on how to submit the application and payment to the SJAA Treasurer.",
+      "categories": [
+        "Membership",
+        "Organization Information",
+        "Forms",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Dues",
+        "Astronomy Club",
+        "Contact Information",
+        "Treasurer",
+        "Milpitas",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-12-make-checks-payable-to-sjaa",
+      "documentId": "eph93-12",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document outlines membership details for the San Jose Astronomical Association (SJAA), providing instructions on how to make payments, available membership types (including junior), and new or renewal options. It also lists the association's mailing address, hotline number, and submission guidelines for its monthly publication, \"EPHEMERIS,\" dated December 1993.",
+      "categories": [
+        "Organizational Information",
+        "Membership",
+        "Publication Information",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Renewal",
+        "EPHEMERIS",
+        "Astronomy Club",
+        "Non-profit",
+        "Contact Information",
+        "December 1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9312/Eph93_12.pdf",
+      "txtPath": "9312/Eph93_12.md"
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "articles": [
+    {
+      "id": "eph98-06-if-you-missed-john-dobson",
+      "documentId": "eph98-06",
+      "title": "IF YOU MISSED JOHN DOBSON",
+      "summary": "This article reports on a visit by John Dobson, the pioneer of cheap, everyman telescopes, to the Club on May 9. During his talk, Dobson covered telescope making, public observing, cosmology, and philosophy, engaging the audience with fun, controversy, and stories. He offered insights into his telescope designs, including a notable critique of white telescope tubes for their thermal inconsistencies.",
+      "categories": [
+        "Events",
+        "Club Meeting Report",
+        "Amateur Astronomy",
+        "Telescope Making"
+      ],
+      "keywords": [
+        "John Dobson",
+        "Dobsonian telescope",
+        "Telescope making",
+        "Public observing",
+        "Amateur astronomy",
+        "Club meeting",
+        "Cosmology",
+        "Philosophy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph98-06-june",
+      "documentId": "eph98-06",
+      "title": "JUNE",
+      "summary": "The document outlines a schedule of astronomy-related events for June, primarily hosted by the SJAA. Activities include multiple star parties at Houge Park and Fremont Peak, a general meeting featuring a discussion on CCD imaging, an astronomy class focusing on deep-sky observing, and a weekend trip to Yosemite National Park.",
+      "categories": [
+        "Events",
+        "Observing Events",
+        "Meetings",
+        "Education",
+        "Technical Presentation"
+      ],
+      "keywords": [
+        "June schedule",
+        "star party",
+        "Houge Park",
+        "Fremont Peak",
+        "General Meeting",
+        "CCD imaging",
+        "Astronomy class",
+        "Deep-sky observing",
+        "Yosemite National Park",
+        "moon phases",
+        "sunset times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-july",
+      "documentId": "eph98-06",
+      "title": "JULY",
+      "summary": "This document outlines the schedule of events for July, primarily featuring multiple star parties at Houge Park and Fremont Peak, along with a general meeting and an astrophotography class. Key details like sunset times and moon phases are provided for observing events. The San Jose Astronomical Association (SJAA) also includes a note on insurance coverage for its sponsored events.",
+      "categories": [
+        "Events",
+        "Observing Events",
+        "Meetings",
+        "Education",
+        "Community"
+      ],
+      "keywords": [
+        "July",
+        "Star Party",
+        "Houge Park",
+        "Fremont Peak",
+        "General Meeting",
+        "Beginning Astronomy",
+        "Astrophotography",
+        "Moon Phases",
+        "Sunset Times",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-true-facts-about-fremont-peak",
+      "documentId": "eph98-06",
+      "title": "TRUE FACTS ABOUT FREMONT PEAK",
+      "summary": "This article clarifies new access policies at Fremont Peak, as communicated by Ranger Mike. The gate to the observatory area will be locked, with the combination available exclusively to FPOA members, allowing them to drive and park there. Non-FPOA members can still access the area on foot, and the $3 per vehicle astronomy fee remains for everyone, with flexible overnight stay rules.",
+      "categories": [
+        "News",
+        "Policy Update",
+        "Club Information",
+        "Observing Site Information"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "FPOA",
+        "SJAA",
+        "Ranger Mike",
+        "Gate access",
+        "Parking",
+        "Membership",
+        "Astronomy Fee",
+        "Observatory Area"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph98-06-dobson-from-p-1",
+      "documentId": "eph98-06",
+      "title": "Dobson, from p. 1",
+      "summary": "This article details a presentation by John Dobson, highlighting his deep engagement in public astronomy, his unique perspectives on cosmology, and his philosophical views. Dobson critiqued the Big Bang theory, advocating for a Steady State model, and illustrated complex scientific concepts with elegant analogies. The author emphasizes Dobson's dedication, engaging presentation style, and his significant, albeit sometimes controversial, influence on amateur astronomy.",
+      "categories": [
+        "Event Report",
+        "Cosmology",
+        "Public Outreach",
+        "Amateur Astronomy",
+        "Philosophical Commentary"
+      ],
+      "keywords": [
+        "John Dobson",
+        "Cosmology",
+        "Big Bang theory",
+        "Steady State Universe",
+        "Public astronomy",
+        "Telescope design",
+        "Amateur astronomy",
+        "Quantum tunneling",
+        "Philosophical views",
+        "Astronomy presentation"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph98-06-the-shallow-sky",
+      "documentId": "eph98-06",
+      "title": "THE SHALLOW SKY",
+      "summary": "This article provides a monthly guide to planetary visibility for June, detailing which planets are observable. Mercury and Mars are too close to the Sun, while Venus is a morning object. Jupiter returns to late-night viewing and features an occultation by the Moon on June 17. Saturn, Uranus, and Neptune are visible in the morning or throughout the night, with Pluto presented as a challenging target for observers.",
+      "categories": [
+        "observing reports",
+        "planetary guide",
+        "celestial events",
+        "astronomy news"
+      ],
+      "keywords": [
+        "planetary visibility",
+        "June sky",
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "occultation",
+        "superior conjunction",
+        "opposition",
+        "telescope viewing",
+        "night sky"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph98-06-fremont-peak-from-p-1",
+      "documentId": "eph98-06",
+      "title": "Fremont Peak, from p. 1",
+      "summary": "The article clarifies fee policies for Fremont Peak State Park, stating a $3 fee for nighttime astronomical use and a $7 camping fee, with formal written approval pending. Park management is addressing issues with unruly visitors by encouraging reporting incidents and discussing potential measures like a locked gate at Doc Flat for astronomers. The astronomy community is invited to provide input on ensuring fee payment and minimizing disturbances.",
+      "categories": [
+        "Observing Site Information",
+        "Park Policy",
+        "Community Update",
+        "Local Astronomy",
+        "Site Access"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Park Fees",
+        "Astronomical Use",
+        "Camping Fees",
+        "Night Sky Access",
+        "Doc Flat",
+        "Park Management",
+        "Visitor Conduct",
+        "Observing Site"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph98-06-lunacy",
+      "documentId": "eph98-06",
+      "title": "LUNACY",
+      "summary": "This article, titled \"LUNACY\" by David North, provides a guide to lunar observing opportunities for June, following a previous introductory event. It details specific dates and phenomena, including the first quarter on June 1st, full Moon on the 9th, and new Moon around the 23rd/24th, along with specific librations of the western and southern limbs. The author also highlights unique viewing experiences like Sinus Iridum appearing on the \"dark side\" and offers tips for observing features like the Orientale area and southern craters.",
+      "categories": [
+        "Lunar Observing Guide",
+        "Astronomy",
+        "Observing Tips",
+        "Events"
+      ],
+      "keywords": [
+        "Moon observing",
+        "Libration",
+        "Lunar phases",
+        "First Quarter",
+        "Full Moon",
+        "New Moon",
+        "Sinus Iridum",
+        "Terminator",
+        "Orientale",
+        "Crisium",
+        "June Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-the-celestial-tourist-speaks-on-apollo",
+      "documentId": "eph98-06",
+      "title": "THE CELESTIAL TOURIST SPEAKS - ON APOLLO",
+      "summary": "This article recounts the human involvement in the Apollo program, detailing that twelve individuals walked on the Moon across six missions (Apollo 11, 12, 14, 15, 16, 17). It clarifies that while twenty-seven 'seats' were available for lunar voyages, only twenty-four unique individuals made the trip, with three astronauts traveling twice. The piece also mentions other Apollo missions, including test flights, Skylab missions, and the Apollo-Soyuz Test Project, distinguishing them from lunar landing attempts.",
+      "categories": [
+        "Space History",
+        "Astronautics",
+        "Informational"
+      ],
+      "keywords": [
+        "Apollo program",
+        "Moon-walkers",
+        "Lunar Module",
+        "Command Module",
+        "Eugene Cernan",
+        "James Lovell",
+        "John Young",
+        "Apollo 8",
+        "Apollo 10",
+        "Apollo 13",
+        "Skylab",
+        "Apollo-Soyuz Test Project",
+        "Space Exploration"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph98-06-editor-s-extras",
+      "documentId": "eph98-06",
+      "title": "EDITOR'S EXTRAS",
+      "summary": "The article recounts the hectic coordination of John Dobson's talk, detailing the logistical challenges of his travel, a critical mirror aluminizing appointment, and meeting schedules. It offers a humorous and personal account of Dobson's quirky personality, highlighting his specific dietary habits, clever conversational tactics, and resourceful nature, providing a memorable behind-the-scenes look at the astronomy icon.",
+      "categories": [
+        "Event Report",
+        "Personal Account",
+        "Astronomy Personalities",
+        "Club News"
+      ],
+      "keywords": [
+        "John Dobson",
+        "Event coordination",
+        "Logistics",
+        "Mirror aluminizing",
+        "Astronomy talk",
+        "Personality",
+        "Frugality",
+        "San Francisco Sidewalk Astronomers",
+        "Crayford focuser",
+        "Dobsonian"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-activities-through-other-clubs",
+      "documentId": "eph98-06",
+      "title": "ACTIVITIES THROUGH OTHER CLUBS",
+      "summary": "This article outlines various astronomy activities and observing opportunities offered by different clubs. TAC provides access to the Montebello site on Wednesdays and organizes mobile first-quarter star parties, as well as third-quarter parties at Van Meter school, with event details available on their webpage. PAS hosts public viewing every clear Friday evening at Foothill Observatory with a 16-inch reflector and 6-inch refractor, and solar viewing on clear Saturday mornings, encouraging all SJAA members to participate.",
+      "categories": [
+        "Club Activities",
+        "Observing Events",
+        "Public Outreach",
+        "Announcements"
+      ],
+      "keywords": [
+        "TAC",
+        "PAS",
+        "SJAA",
+        "Montebello site",
+        "star parties",
+        "Foothill Observatory",
+        "public viewing",
+        "solar viewing",
+        "astronomy clubs",
+        "observing opportunities"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-june",
+      "documentId": "eph98-06",
+      "title": "June",
+      "summary": "The June schedule for PAS includes a General Meeting on June 12 featuring a presentation on the Apollo 13 accident by Owen Brown. A Board Meeting is set for June 17, and a private observing night for members will take place on June 20 at the Oakridge site.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "PAS",
+        "June",
+        "General Meeting",
+        "Apollo 13",
+        "Board Meeting",
+        "Observing Night",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-july",
+      "documentId": "eph98-06",
+      "title": "July",
+      "summary": "This document lists two upcoming events for July: a PAS General Meeting themed \"Instruments Night\" on July 10th and a PAS Board Meeting on July 15th. Both events are scheduled to take place at Foothill College, with the board meeting specifically at the observatory. The content originates from a June 1998 publication, likely an ephemeris.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Club Announcements",
+        "Astronomy",
+        "Newsletter"
+      ],
+      "keywords": [
+        "July",
+        "PAS",
+        "General Meeting",
+        "Instruments Night",
+        "Board Meeting",
+        "Foothill College",
+        "Observatory",
+        "SJAA Ephemeris",
+        "1998"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph98-06-don-machholz",
+      "documentId": "eph98-06",
+      "title": "Don Machholz",
+      "summary": "This article reports on new comet discoveries, including two found by the SOHO satellite and one by amateur astronomer Patrick Stonehouse, who made his first discovery after 100 hours of casual comet hunting over 20 years. It provides detailed ephemerides and orbital elements for four comets: C/1997 J2 (Meunier-Dupouy), C/1995 O1 (Hale-Bopp), C/1998 H1 (Stonehouse), and C/1998 J1 (SOHO), offering observational data for astronomers.",
+      "categories": [
+        "Comet Discovery",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Ephemerides",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "comets",
+        "comet hunting",
+        "Patrick Stonehouse",
+        "SOHO satellite",
+        "C/1998 H1 (Stonehouse)",
+        "C/1998 J1 (SOHO)",
+        "C/1997 J2 (Meunier-Dupouy)",
+        "C/1995 O1 (Hale-Bopp)",
+        "ephemerides",
+        "orbital elements",
+        "astronomy",
+        "observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-richard-stanton",
+      "documentId": "eph98-06",
+      "title": "Richard Stanton",
+      "summary": "This document, an astronomical ephemeris for June 1998 compiled by Richard Stanton and Don Machholz (with times in PDT), provides detailed celestial mechanics data. It outlines lunar phases, planetary positions including rise, transit, and set times, right ascension, and declination for Mercury, Venus, Mars, Jupiter, and Saturn. The guide also includes information on the Sun, astronomical twilight, sidereal time, and highlights observing conditions for a 'Darkest Saturday Night'.",
+      "categories": [
+        "Ephemeris",
+        "Astronomy Data",
+        "Observing Guide",
+        "Planetary Data",
+        "Lunar Data",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Richard Stanton",
+        "Don Machholz",
+        "June 1998",
+        "PDT",
+        "Lunar Phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Rise Times",
+        "Transit Times",
+        "Set Times",
+        "Right Ascension",
+        "Declination",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Darkest Saturday Night"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph98-06-may-board-meeting-notes",
+      "documentId": "eph98-06",
+      "title": "May Board Meeting Notes",
+      "summary": "The May 1998 SJAA board meeting covered potential observatory developments at Pacheco State Park and Fremont Peak, along with updates to the club's C11 telescope and loaner program. Key decisions included approving Astronomical League dues, changing the swap meet start time, and publishing preliminary minutes. The board also addressed a negative public outreach experience, emphasizing the importance of making attendees feel welcome, and began discussing rebuilding the observatory fund.",
+      "categories": [
+        "Board Meeting",
+        "Club Operations",
+        "Observatory Development",
+        "Public Outreach",
+        "Equipment Management",
+        "Financials"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Pacheco State Park",
+        "Fremont Peak Observatory",
+        "C11 telescope",
+        "Loaner program",
+        "Swap meet",
+        "Astronomical League",
+        "Public outreach",
+        "Star parties",
+        "Observatory fund",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-to-subscribe-to-unsubscribe-from-the-sjaa-mailing-list-send-mail-to",
+      "documentId": "eph98-06",
+      "title": "To Subscribe to/Unsubscribe from the SJAA Mailing List send mail to",
+      "summary": "This document provides simple instructions for managing a subscription to the SJAA (San Jose Astronomical Association) mailing list. Users can subscribe or unsubscribe by sending an email with a blank subject line and either \"subscribe\" or \"unsubscribe\" in the body to sjaa-request@seds.org.",
+      "categories": [
+        "Instructions",
+        "Club Communication",
+        "Mailing List Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "Mailing List",
+        "Subscribe",
+        "Unsubscribe",
+        "Email Instructions",
+        "seds.org"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-periodical-publication-statement",
+      "documentId": "eph98-06",
+      "title": "PERIODICAL PUBLICATION STATEMENT",
+      "summary": "This document serves as the official periodical publication statement for \"SJAA Ephemeris,\" the monthly newsletter of the San Jose Astronomical Association. It confirms that the newsletter is published 12 times annually, spanning from January through December, and provides the association's mailing address.",
+      "categories": [
+        "Publication Information",
+        "Administrative",
+        "Organizational"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Newsletter",
+        "Publication Statement",
+        "Monthly Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-submit",
+      "documentId": "eph98-06",
+      "title": "SUBMIT",
+      "summary": "This document encourages members to submit articles for publication in the *SJAA Ephemeris* newsletter. Submissions should be sent via email to Dave North at Timocharis@aol.com by the tenth of the month to be included in the following month's issue. Contributors are asked to include their name and phone number with their articles.",
+      "categories": [
+        "Call for Submissions",
+        "Newsletter Information",
+        "Announcements",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "Article Submission",
+        "Newsletter",
+        "Publication",
+        "Members",
+        "Dave North",
+        "Email",
+        "Deadline"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph98-06-officers-and-board-of-directors",
+      "documentId": "eph98-06",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization. It provides the names, titles (President, VP, Secretary, Treasurer, and Directors), and phone numbers for each leadership position.",
+      "categories": [
+        "Organizational Information",
+        "Leadership Directory",
+        "Administration"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact information",
+        "Governance",
+        "Organizational structure"
+      ],
+      "pageStart": 446,
+      "pageEnd": 446
+    },
+    {
+      "id": "eph98-06-ephemeris-staff",
+      "documentId": "eph98-06",
+      "title": "Ephemeris Staff",
+      "summary": "This document lists the staff members responsible for an 'Ephemeris' publication or project. It details roles such as Editor, Circulation, Layout, and Proofing, along with the names and contact numbers for each position.",
+      "categories": [
+        "Publication Information",
+        "Staff Listing",
+        "Administrative"
+      ],
+      "keywords": [
+        "Ephemeris Staff",
+        "Editor",
+        "Circulation",
+        "Layout",
+        "Proofing",
+        "Personnel",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-06-mike-koop",
+      "documentId": "eph98-06",
+      "title": "Mike Koop",
+      "summary": "This document outlines the status of the San Jose Astronomical Association's (SJAA) telescope loaner program, managed by Mike Koop. It provides detailed lists of telescopes currently on loan, those with extended loan periods, and several immediately available for borrowing by SJAA members. The article also mentions a waiting list for popular scopes and thanks recent donors for adding new equipment to the program.",
+      "categories": [
+        "Club Activities",
+        "Member Services",
+        "Astronomical Equipment",
+        "Resource Management"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Mike Koop",
+        "SJAA",
+        "Astronomical Equipment",
+        "Telescopes",
+        "Equipment Lending",
+        "Waiting List",
+        "Donations",
+        "Club Resources"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph98-06-san-jose-astronomical-association-membership-form",
+      "documentId": "eph98-06",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing options for new or renewal memberships, including standard and junior rates, and an optional add-on for a Sky & Telescope subscription. It provides instructions for submitting the form and payment via check to the treasurer, along with contact information for the organization.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Astronomy Club",
+        "Non-profit Organization"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Dues",
+        "Renewal",
+        "Junior Membership",
+        "Sky & Telescope",
+        "Contact Information",
+        "Treasurer",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph98-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9806/Eph98_06.pdf",
+      "txtPath": "9806/Eph98_06.md"
+    }
+  ]
+}

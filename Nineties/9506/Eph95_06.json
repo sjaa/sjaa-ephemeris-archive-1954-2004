@@ -1,0 +1,708 @@
+{
+  "articles": [
+    {
+      "id": "eph95-06-sjaa-ephemeris",
+      "documentId": "eph95-06",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association, titled 'SJAA Ephemeris.' It represents Volume 6, Number 6, and was published in June 1995.",
+      "categories": [
+        "Organizational News",
+        "Astronomy Club",
+        "Publication"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "Astronomy Club",
+        "Publication",
+        "1995"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-the-eyepiece",
+      "documentId": "eph95-06",
+      "title": "The Eyepiece",
+      "summary": "This newsletter update, \"The Eyepiece,\" reviews a successful auction and announces a new club meeting location at Houge Park. It previews upcoming articles on astronomical topics and promotes a campaign to republish classic amateur astronomy literature. The document also provides a comprehensive calendar of club events, including star parties, meetings, and classes, from June through July.",
+      "categories": [
+        "Club Announcements",
+        "Events Calendar",
+        "Amateur Astronomy",
+        "Equipment Sale/Swap",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Auction and Swap",
+        "Schmidt Camera",
+        "CCD",
+        "Houge Park",
+        "Flash Spectrometry",
+        "Telescope Making",
+        "Gleanings",
+        "Star Party",
+        "General Meeting",
+        "Observational Astronomy Class",
+        "Fremont Peak",
+        "H. Coe State Park",
+        "Mars",
+        "Saturn",
+        "Yosemite Star Party",
+        "Lassen Star Party",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-06-forty-years-ago-this-month",
+      "documentId": "eph95-06",
+      "title": "Forty Years Ago this month",
+      "summary": "This article recounts an astronomy club meeting held 'Forty Years Ago this month', detailing the presentations and discussions. The meeting featured talks on the constellation Scorpio and the fundamentals of telescopes, with an emphasis on stimulating telescope building within the club. Attendees also discussed a currently visible comet and a recent total solar eclipse, despite a chilly outdoor setting.",
+      "categories": [
+        "Historical Account",
+        "Meeting Report",
+        "Astronomy Education",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Astronomy Club",
+        "Meeting",
+        "Scorpio",
+        "Constellation",
+        "Telescopes",
+        "Reflectors",
+        "Refractors",
+        "Focal Length",
+        "Magnification",
+        "Comet",
+        "Solar Eclipse",
+        "Amateur Telescope Making",
+        "Club Officers"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-06-mars-and-saturn",
+      "documentId": "eph95-06",
+      "title": "Mars and Saturn",
+      "summary": "Andrew M. Sorenson reflects on the personal significance of Saturn's upcoming ring disappearance, intertwining it with themes of aging, missed astronomical opportunities, and the emotional fulfillment of finally building and using his 'dream scope' in 1994 for observations of Saturn and Mars. He also delves into fascinating historical accounts of Saturn's edge-on rings from 19th-century astronomers. The article concludes with a poignant recommendation to observe and document transient astronomical events, emphasizing life's irreplaceable moments.",
+      "categories": [
+        "Personal Narrative",
+        "Astronomical Observation",
+        "Amateur Astronomy",
+        "Historical Astronomy",
+        "Reflection"
+      ],
+      "keywords": [
+        "Saturn",
+        "Mars",
+        "Saturn's Rings",
+        "Amateur Astronomy",
+        "Telescope Building",
+        "Observing",
+        "Personal Reflection",
+        "Historical Observations",
+        "1994"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-06-camcorder-eclipse-devices",
+      "documentId": "eph95-06",
+      "title": "Camcorder Eclipse Devices",
+      "summary": "Ernie Piini recounts his quest to video record the fleeting Flash Spectrum during total solar eclipses, starting from his 1973 experience. He details his experimental setups across various eclipses, involving camcorders, borrowed gratings, and custom-built attachments, including a memorable incident of accidentally recording over precious footage. The article culminates in his design of a specialized camcorder holder integrating both a diffraction grating and a prism to optimally capture the spectral phenomenon.",
+      "categories": [
+        "Solar Eclipses",
+        "Astrophotography Equipment",
+        "DIY Astronomy",
+        "Observing Techniques",
+        "Technical Guides"
+      ],
+      "keywords": [
+        "Flash Spectrum",
+        "Solar Eclipse",
+        "Camcorder",
+        "Diffraction Grating",
+        "Prism",
+        "Spectrograph",
+        "Astronomy Equipment",
+        "Video Recording"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-construction-details-flash-spectrum-device",
+      "documentId": "eph95-06",
+      "title": "Construction Details: \"Flash Spectrum\" Device",
+      "summary": "This article provides detailed construction instructions for a low-cost \"flash spectrum\" device, designed for observing total solar eclipses. It describes the use of a holographic diffraction grating and a right-angle glass prism, including material sources, dimensions, and optical calculations. The author also shares practical modifications and adjustments made during assembly to optimize the device's performance for use with a camcorder.",
+      "categories": [
+        "Technical",
+        "DIY / Construction",
+        "Observing Equipment",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Flash Spectrum Device",
+        "Holographic Diffraction Grating",
+        "Right Angle Prism",
+        "Total Solar Eclipse",
+        "Optical Device",
+        "Camcorder",
+        "Construction Details",
+        "Wavelength",
+        "Prism Angle",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-06-flash-continued-from-page-3",
+      "documentId": "eph95-06",
+      "title": "Flash (continued from page 3)",
+      "summary": "The article details an experiment to record the flash spectrum during a celestial event, likely an eclipse, using a camcorder with a prism-grating combination. The experiment involved positioning the spectrum diagonally on the screen and controlling resolution with zoom, yielding surprisingly good results despite operating in AUTO mode. The author recommends the prism-grating setup for camcorders and 35mm cameras to record flash spectra.",
+      "categories": [
+        "observing report",
+        "technical",
+        "experiment results",
+        "equipment recommendation"
+      ],
+      "keywords": [
+        "flash spectrum",
+        "camcorder",
+        "prism-grating",
+        "eclipse",
+        "monocular",
+        "2nd contact",
+        "3rd contact",
+        "totality",
+        "spectrum display",
+        "manual mode"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-06-notes",
+      "documentId": "eph95-06",
+      "title": "NOTES:",
+      "summary": "The article explains how a solar eclipse allows for the observation of the Sun's chromosphere and its bright emission lines, which are typically obscured by the brighter photosphere. This brief spectral display, lasting only seconds, provides insight into the distribution of solar gases at various elevations as the Moon's limb progresses. Additionally, it includes a short technical instruction on the proper installation of a prism for spectral observations.",
+      "categories": [
+        "Solar Astronomy",
+        "Spectroscopy",
+        "Solar Eclipses",
+        "Observational Techniques",
+        "Technical Notes"
+      ],
+      "keywords": [
+        "Solar spectrum",
+        "Photosphere",
+        "Chromosphere",
+        "Absorption lines",
+        "Emission lines",
+        "Solar eclipse",
+        "Spectroscopy",
+        "Prism",
+        "Solar gases",
+        "Wavelengths"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-piini-flash-spectrum-grating-device",
+      "documentId": "eph95-06",
+      "title": "PIINI FLASH SPECTRUM GRATING DEVICE",
+      "summary": "This document briefly introduces the \"PIINI FLASH SPECTRUM GRATING DEVICE\" and provides a conceptual schematic. The diagram illustrates an optical path from a lens, through several unspecified components, leading towards the sun, suggesting the device's role in optical or spectral analysis, possibly for solar studies.",
+      "categories": [
+        "Technical",
+        "Instrumentation",
+        "Optics"
+      ],
+      "keywords": [
+        "PIINI",
+        "Flash Spectrum",
+        "Grating Device",
+        "Optics",
+        "Solar Observation",
+        "Instrumentation",
+        "Schematic"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-construction-details",
+      "documentId": "eph95-06",
+      "title": "CONSTRUCTION DETAILS:",
+      "summary": "This document outlines detailed construction instructions for a custom optical device, likely an attachment for a Sony Hi-8 camcorder. It describes the assembly of components such as a lens hood, a barrel, a holographic grating, and a prism, using specific materials and dimensions. The instructions include painting surfaces flat black and using various glues for assembly, aiming to create a spectral imaging instrument with the grating and prism components.",
+      "categories": [
+        "Technical",
+        "DIY / How-to",
+        "Optics",
+        "Instrumentation",
+        "Astronomy (potential application, given 'EPHEMERIS' header)"
+      ],
+      "keywords": [
+        "Construction details",
+        "Lens hood",
+        "Holographic grating",
+        "Prism",
+        "Camcorder attachment",
+        "Optical instrument",
+        "DIY project",
+        "Spectral imaging",
+        "Assembly instructions",
+        "Optics"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-06-apr-22-star-party-at-coe-park",
+      "documentId": "eph95-06",
+      "title": "Apr. 22 star party at Coe Park",
+      "summary": "Jim Van Nuland details a successful star party held on April 22nd at Coe Park, where a small group of astronomers and park visitors enjoyed viewing various celestial objects like Mars, M44, M81, and M82 under good, comfortable conditions, despite initial daytime crowds and some light pollution. Although NGC5139 (Omega Centauri) was obscured by haze, other observations were productive and visitors expressed enthusiasm. The report also mentions ongoing park infrastructure work involving water tank repairs which temporarily affect observing site access.",
+      "categories": [
+        "Events",
+        "Observing Report",
+        "Site Update",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "star party",
+        "Coe Park",
+        "observing",
+        "astronomy",
+        "celestial objects",
+        "Mars",
+        "M36",
+        "M37",
+        "M44",
+        "Beehive Cluster",
+        "M67",
+        "Omega Centauri",
+        "NGC5139",
+        "M81",
+        "M82",
+        "light pollution",
+        "site conditions",
+        "park infrastructure",
+        "telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-leap-year-calculations",
+      "documentId": "eph95-06",
+      "title": "Leap Year Calculations",
+      "summary": "The article clarifies the specific rules for determining leap years, particularly for century years. It explains that a year is a leap year if it's divisible by 4, unless it's a century year not divisible by 400. The correct rule confirms that years like 2000 and 2400 are leap years, while 1900, 2100, 2200, and 2300 are not.",
+      "categories": [
+        "Calendars",
+        "Explanatory",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Leap year",
+        "Calendar rules",
+        "Century years",
+        "Divisibility",
+        "Year 2000",
+        "Gregorian calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-books",
+      "documentId": "eph95-06",
+      "title": "Books",
+      "summary": "The article recommends \"Selected Papers\" collections published by the Society of Photo-Optical Instrumentation Engineers (SPIE), highlighting their value in consolidating milestone papers by original discoverers and developers. Specific collections praised include \"Astronomical Optics,\" \"Optical Shop Metrology,\" and \"Optomechanical Design,\" which offer historical and advanced insights into optical engineering. These softbound collections are available for about $85 each and serve as a convenient alternative to searching through a science library for original references.",
+      "categories": [
+        "Book Recommendation",
+        "Resource Review",
+        "Optics",
+        "Astronomy",
+        "Engineering"
+      ],
+      "keywords": [
+        "SPIE",
+        "Selected Papers",
+        "Astronomical Optics",
+        "Optical Shop Metrology",
+        "Optomechanical Design",
+        "Optical Engineering",
+        "Ritchey and Chretien",
+        "Schmidt",
+        "Optical Design",
+        "Telescope Design"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-yosemite-star-party",
+      "documentId": "eph95-06",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The article announces the Yosemite Star Party scheduled for July 28-29, detailing logistics such as a 25-person limit, specific rules for observing and camping, and contact information for reservations. Additionally, it provides the 1995 SJAA Calendar, listing dates for general meetings, Houge Park star parties, and observational astronomy classes from June through December.",
+      "categories": [
+        "Events",
+        "Calendar",
+        "Announcements",
+        "Observing",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "Star Party",
+        "Yosemite",
+        "SJAA Calendar",
+        "Astronomy Events",
+        "Observing Guidelines",
+        "Glacier Point",
+        "Bridalveil Campground",
+        "Reservations",
+        "Houge Park Star Party",
+        "Observational Astronomy Class"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-06-telescope-loaner-status",
+      "documentId": "eph95-06",
+      "title": "Telescope Loaner Status",
+      "summary": "This document, titled \"Telescope Loaner Status,\" provides an updated list of telescopes available for loan through a club or organization. It details the status of various telescopes, including who is currently borrowing them, their due dates, and which are available, along with instructions on how to borrow a telescope.",
+      "categories": [
+        "equipment management",
+        "loaner program",
+        "club operations",
+        "resource availability"
+      ],
+      "keywords": [
+        "telescope loaner",
+        "astronomy equipment",
+        "telescope availability",
+        "loan program",
+        "club resources",
+        "borrowing telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-astro-ads",
+      "documentId": "eph95-06",
+      "title": "ASTRO ADS",
+      "summary": "The 'ASTRO ADS' section provides free classified advertisements for noncommercial sellers of astronomically related products and services. It outlines submission guidelines, including a monthly deadline, and features various listings for used astronomical equipment such as Meade and TeleVue telescopes, equatorial mounts, eyepieces, and surplus ATM stock, complete with prices and contact details.",
+      "categories": [
+        "classifieds",
+        "astronomical equipment",
+        "sales",
+        "community announcements"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "astronomical products",
+        "telescopes",
+        "Meade",
+        "TeleVue",
+        "eyepieces",
+        "equatorial mounts",
+        "used equipment",
+        "astronomy hardware",
+        "buy/sell"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-06-lunar-phase-date-rise-trans-set",
+      "documentId": "eph95-06",
+      "title": "Lunar Phase Date Rise Trans Set",
+      "summary": "The provided document details the dates and times for the four primary lunar phases: First Quarter (FQ), Full Moon (FM), Last Quarter (LQ), and New Moon (NM). For each phase, it lists the precise time of the event, the day it occurs, and the corresponding rise, transit, and set times of the Moon.",
+      "categories": [
+        "Astronomy",
+        "Observing Reports",
+        "Calendar",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "Rise time",
+        "Set time",
+        "Transit time",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-near-planets",
+      "documentId": "eph95-06",
+      "title": "Near/Planets",
+      "summary": "This document provides an ephemeris for the planets Mercury, Venus, Mars, Jupiter, and Saturn for three dates (7th, 17th, and 27th of an unspecified month). For each planet, it lists three observation times (likely rise, transit, and set), its average distance from the Sun in Astronomical Units (A.U.), and its apparent magnitude.",
+      "categories": [
+        "astronomical data",
+        "ephemeris",
+        "observing guide",
+        "planets"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "planets",
+        "ephemeris",
+        "magnitude",
+        "AU",
+        "observation times",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-sol-star-type-g2v",
+      "documentId": "eph95-06",
+      "title": "SOL Star Type G2V",
+      "summary": "This document, titled \"SOL Star Type G2V,\" presents tabulated astronomical data concerning the Sun, which is classified as a G2V star. It lists what appear to be Right Ascension and Declination values, possibly for different dates, alongside multiple corresponding time entries. The data likely tracks the Sun's apparent position, though the specific formatting of the coordinates and times is non-standard.",
+      "categories": [
+        "Astronomy",
+        "Solar Physics",
+        "Observational Data",
+        "Astrometry"
+      ],
+      "keywords": [
+        "Sun",
+        "SOL",
+        "G2V star",
+        "Solar classification",
+        "Right Ascension",
+        "Declination",
+        "Celestial coordinates",
+        "Astronomical data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-astronomical-twilight",
+      "documentId": "eph95-06",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a concise table detailing the beginning and end times of astronomical twilight for several specific Julian Dates. Each entry includes a Julian Date (JD) and the corresponding start and end times in HH:MM format, providing specific data points related to the daily period of astronomical darkness.",
+      "categories": [
+        "Astronomy",
+        "Observing Conditions",
+        "Data",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "Observing",
+        "Night sky",
+        "Astronomy",
+        "Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-siderial-time",
+      "documentId": "eph95-06",
+      "title": "Siderial Time",
+      "summary": "This document provides sidereal time data, including transit right ascension and local midnight timings for various dates. It also details astronomical conditions for 'Darkest Saturday Night' on June 24, 1995, listing sunset, twilight end, moonset, and dawn begin times.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Information",
+        "Historical Data"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit",
+        "Right Ascension",
+        "Local Midnight",
+        "Darkest Night",
+        "Sunset",
+        "Twilight",
+        "Moonset",
+        "Dawn",
+        "June 1995",
+        "Astronomical Timings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-officers-and-board-of-directors",
+      "documentId": "eph95-06",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization. It details the names and contact phone numbers for the President, Vice President, Treasurer, Secretary, and five Directors.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Personnel"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Contact Information",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-ephemeris-contributors",
+      "documentId": "eph95-06",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists individuals who contribute to ephemeris data, providing their names and contact phone numbers. It also identifies the editor, Bob Madden, along with his contact information. The content serves as a directory for those involved in ephemeris contributions and editorial roles.",
+      "categories": [
+        "Directory",
+        "Contacts",
+        "Astronomy",
+        "Editorial"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contacts",
+        "Editor",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-comet-comments",
+      "documentId": "eph95-06",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides updates on visible comets d'Arrest and Chiron, then delves into the nature and population of the Kuiper Belt. It discusses a Hubble Space Telescope study (IAU Circular 6163) that surveyed a small region of the Kuiper Belt, leading to a statistical estimate of at least 100 million comets brighter than magnitude 28 residing in specific orbits within this region.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Research",
+        "Planetary Science",
+        "Cometary Science",
+        "Space Telescope Observations"
+      ],
+      "keywords": [
+        "Comet d'Arrest",
+        "Comet Chiron",
+        "Kuiper Belt",
+        "Hubble Space Telescope",
+        "IAU Circular 6163",
+        "Perihelion",
+        "Magnitude",
+        "Comets",
+        "Minor Planets",
+        "Solar System Objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-ephemerides",
+      "documentId": "eph95-06",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides astronomical ephemerides and orbital elements for two celestial objects: 95/Chiron and 6P/d'Arrest, detailing their positions (Right Ascension, Declination), sky visibility, and magnitudes over several dates in mid-1995. It also lists key orbital parameters such as perihelion date, distance, inclination, eccentricity, and orbital period for each object. The document is an 'EPHEMERIS' publication by the San Jose Astronomical Association.",
+      "categories": [
+        "Ephemerides",
+        "Orbital Data",
+        "Astronomy",
+        "Observing Aids",
+        "Publication"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Chiron",
+        "6P/d'Arrest",
+        "Comet",
+        "Centaur",
+        "Orbital Elements",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Perihelion",
+        "San Jose Astronomical Association",
+        "Astronomy Publication"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-06-san-jose-astronomical-association-membership",
+      "documentId": "eph95-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and application process for the San Jose Astronomical Association (SJAA). It details annual membership fees, including options with Sky & Telescope magazine, and provides a form to collect applicant name, address, and telephone number. The form can be submitted at a meeting or mailed to the treasurer.",
+      "categories": [
+        "Membership",
+        "Association Information",
+        "Application Form",
+        "Pricing"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Dues",
+        "Application",
+        "Sky & Telescope",
+        "Junior Membership",
+        "Bob Elsberry"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-06-make-checks-payable-to-sjaa",
+      "documentId": "eph95-06",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document outlines instructions for making membership payments to the San Jose Astronomical Association (SJAA). It details options for new or renewal memberships, various membership types (standard, with S&T, or junior), and provides the organization's mailing address and non-profit status.",
+      "categories": [
+        "Membership",
+        "Administrative",
+        "Organization Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Renewal",
+        "New Membership",
+        "Payment",
+        "Checks",
+        "Non-Profit",
+        "Astronomy",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9506/Eph95_06.pdf",
+      "txtPath": "9506/Eph95_06.md"
+    }
+  ]
+}

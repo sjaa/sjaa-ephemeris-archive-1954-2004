@@ -1,0 +1,532 @@
+{
+  "articles": [
+    {
+      "id": "eph92-06-sjaa-ephemeris",
+      "documentId": "eph92-06",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the June 1992 issue of \"SJAA Ephemeris,\" the official publication of the San Jose Astronomical Association. It is identified as Volume 3, Number 6 of the association's regular newsletter.",
+      "categories": [
+        "Newsletter",
+        "Association Publication",
+        "Astronomy News",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "June 1992",
+        "Astronomy",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-kteh-channel-54-auction",
+      "documentId": "eph92-06",
+      "title": "KTEH (CHANNEL 54) AUCTION",
+      "summary": "The article details the San Jose Astronomical Association's (SJAA) volunteer efforts at the annual KTEH (Channel 54) Auction, where six members assisted as bid takers and runners. The SJAA also contributed by donating certificates for special stargazing sessions at Fremont Peak and a telescope package in collaboration with Orion Telescopes, raising funds for the PBS station. This highlights SJAA's strong community relationship with KTEH, which has previously promoted the association through interviews and hotlines, fostering public interest in astronomy.",
+      "categories": [
+        "Community Engagement",
+        "Events",
+        "Volunteerism",
+        "Organizational News",
+        "Fundraising",
+        "Upcoming Events"
+      ],
+      "keywords": [
+        "KTEH Auction",
+        "San Jose Astronomical Association",
+        "Volunteerism",
+        "Fundraising",
+        "Stargazing",
+        "Astronomy Events",
+        "Community Partnership",
+        "PBS",
+        "Fremont Peak"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-06-sjaa-auction",
+      "documentId": "eph92-06",
+      "title": "SJAA Auction",
+      "summary": "The article reports on the successful SJAA auction, where various astronomy items were sold, including an 8\" Newtonian telescope for John Bentlencourt and a 5\" Schmidt camera from Epoch Instrument. Despite the author's exhausting return from the Texas Star Party, the event was described as warm, noisy, and congenial, with most participants appearing satisfied with their sales and purchases. Notable bargains included a red filter for a mini-maglite for $0.25.",
+      "categories": [
+        "Event Report",
+        "Astronomy Club",
+        "Auction",
+        "News"
+      ],
+      "keywords": [
+        "SJAA Auction",
+        "Astronomy Equipment",
+        "Telescopes",
+        "Schmidt Camera",
+        "Texas Star Party",
+        "Amateur Astronomy",
+        "Club Event"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-06-a-real-need",
+      "documentId": "eph92-06",
+      "title": "A REAL NEED",
+      "summary": "The article emphasizes the Association's urgent need for a skilled public relations person to promote its activities and information to schools, organizations, and media personalities like KETH and TV. It suggests finding or training someone with vision and ambition to take on this crucial responsibility to enhance public awareness.",
+      "categories": [
+        "Organizational Needs",
+        "Internal Discussion",
+        "Call to Action",
+        "Communication"
+      ],
+      "keywords": [
+        "public relations",
+        "association",
+        "outreach",
+        "communication",
+        "volunteers",
+        "media",
+        "promotion",
+        "organizational development"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph92-06-in-quest-of-mauna-kea",
+      "documentId": "eph92-06",
+      "title": "IN QUEST OF MAUNA KEA",
+      "summary": "Bill Dellinges narrates his multi-year, often frustrating quest to visit the Mauna Kea observatory, encountering obstacles like unsuitable vehicles, missed expedition opportunities, and even a medical emergency. After several failed attempts over fifteen years, he finally reached the snow-covered summit in 1990 via a guided tour. There, he experienced the extreme high-altitude environment, captured photographs, and observed astronomical phenomena like a moonbow and zodiacal light, fulfilling his long-held astronomical dream.",
+      "categories": [
+        "Personal Narrative",
+        "Travel",
+        "Observing Report",
+        "Amateur Astronomy",
+        "Adventure"
+      ],
+      "keywords": [
+        "Mauna Kea",
+        "Observatory",
+        "Hawaii",
+        "Astrophotography",
+        "Saddle Road",
+        "Altitude",
+        "Moonbow",
+        "Zodiacal Light",
+        "Amateur Stargazer",
+        "Paradise Safaris",
+        "Bill Dellinges"
+      ],
+      "pageStart": 2,
+      "pageEnd": 89
+    },
+    {
+      "id": "eph92-06-midnight-mac-and-me",
+      "documentId": "eph92-06",
+      "title": "Midnight Mac and Me",
+      "summary": "Jack Zeiders reports on recent club activities, including a swap meet and auction, the progress of the Hydrogen Alpha filter fund, and his experience volunteering for a KETH auction phone bank. He recounts a frustrating night at Fremont Peak trying to use new digital setting circles on the 30\" telescope, where adverse weather and a lack of preparation led to an unsuccessful observing session.",
+      "categories": [
+        "Club News",
+        "Observing Reports",
+        "Fundraising",
+        "Equipment Review",
+        "Volunteer Activities"
+      ],
+      "keywords": [
+        "Swap Meet",
+        "Auction",
+        "Fremont Peak Observatory",
+        "30-inch Telescope",
+        "Hydrogen Alpha Filter",
+        "Digital Setting Circles",
+        "Astronomy Club",
+        "KETH",
+        "Ephemeris",
+        "Volunteerism"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-houge-park-star-party",
+      "documentId": "eph92-06",
+      "title": "HOUGE PARK STAR PARTY",
+      "summary": "This article reports on the Houge Park Star Party held on May 8, which attracted 75 to 100 attendees and nearly two dozen telescopes. Despite some atmospheric haze, the weather was warm and dry with a clear sky, and participants enjoyed viewing a quarter moon in Leo. The report highlights the enthusiastic crowd and lists several individuals and their telescopes.",
+      "categories": [
+        "observing report",
+        "event recap",
+        "astronomy club activity"
+      ],
+      "keywords": [
+        "Houge Park Star Party",
+        "star party",
+        "telescopes",
+        "observing",
+        "astronomy event",
+        "Leo",
+        "moon",
+        "May 8"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-06-happenings-on-astronomy-day",
+      "documentId": "eph92-06",
+      "title": "Happenings on Astronomy Day",
+      "summary": "Bob Madden details his experiences on Astronomy Day, which included purchasing optics at an Orion sale, participating in public solar viewing sessions, and attending an engaging astrophotography presentation by John Gleason. He then recounts his trip to the 1992 Texas Star Party, highlighting its focus on serious observing, his interactions with other astronomers, views through various telescopes, discussions on CCD technology, and a comparison of the observing conditions.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Equipment Impressions",
+        "Astrophotography",
+        "Travelogue"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "Texas Star Party",
+        "Observing",
+        "Telescopes",
+        "Astrophotography",
+        "CCD imaging",
+        "Optical equipment",
+        "Public Outreach",
+        "Bob Madden",
+        "John Gleason",
+        "Sky quality"
+      ],
+      "pageStart": 4,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph92-06-june-1992",
+      "documentId": "eph92-06",
+      "title": "June 1992",
+      "summary": "This document provides an astronomical guide for June 1992, detailing celestial events and conditions relevant for observers. It includes tables for lunar phases, rise and set times for the nearer planets (Mercury, Venus, Mars, Jupiter, Saturn), and astronomical twilight timings. All dates and times are presented in Pacific Daylight Time, with a special mention of June 27th as the 'Darkest Saturday Night' for observing.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "celestial events",
+        "calendar"
+      ],
+      "keywords": [
+        "June 1992",
+        "lunar phases",
+        "planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "astronomical twilight",
+        "sidereal time",
+        "observing conditions",
+        "Pacific Daylight Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-upcoming-astronomy-seminars",
+      "documentId": "eph92-06",
+      "title": "UPCOMING ASTRONOMY SEMINARS",
+      "summary": "This article, authored by Bill Deilinges, serves as a follow-up to his talk on astronomy camps presented at a previous April meeting. It lists four astronomy camps for readers interested in pursuing such educational opportunities.",
+      "categories": [
+        "Seminars",
+        "Educational Opportunities",
+        "Astronomy Camps",
+        "Announcements"
+      ],
+      "keywords": [
+        "Astronomy seminars",
+        "Astronomy camps",
+        "Educational programs",
+        "Bill Deilinges",
+        "Meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-mt-lemmon-astronomy-camps",
+      "documentId": "eph92-06",
+      "title": "Mt. Lemmon Astronomy Camps",
+      "summary": "The document announces two distinct astronomy events: Mt. Lemmon Astronomy Camps, scheduled for April, October, and November with an optional Kitt Peak tour, and the 104th Annual Meeting of the Astronomical Society of the Pacific. The ASP meeting, set for June, will feature lectures, a Yerkes Observatory tour, teacher workshops, and an astronomy expo, presented by ASP, Astronomy Magazine, and the University of Wisconsin.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Education",
+        "Meetings"
+      ],
+      "keywords": [
+        "Mt. Lemmon Astronomy Camps",
+        "Astronomical Society of the Pacific",
+        "Annual Meeting",
+        "Kitt Peak",
+        "Yerkes Observatory",
+        "Astronomy workshops",
+        "Astronomy Expo",
+        "Arizona Alumni Association",
+        "Astronomy Magazine",
+        "University of Wisconsin",
+        "Astronomy events"
+      ],
+      "pageStart": 390,
+      "pageEnd": 390
+    },
+    {
+      "id": "eph92-06-starry-skies-over-yosemite",
+      "documentId": "eph92-06",
+      "title": "Starry Skies Over Yosemite",
+      "summary": "The Yosemite Association is hosting \"Starry Skies Over Yosemite,\" an astronomical observing event at Glacier Point on July 19-23 and July 26-30. Led by instructor Ronald Oriti, the program costs $170. Interested participants can contact the Yosemite Association for more details and registration.",
+      "categories": [
+        "Event Announcement",
+        "Observing Event",
+        "Astronomy Program"
+      ],
+      "keywords": [
+        "Yosemite",
+        "Starry Skies",
+        "Glacier Point",
+        "Ronald Oriti",
+        "Astronomy",
+        "Stargazing",
+        "Yosemite Association",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-sierra-nevada-field-campus-astronomy-class",
+      "documentId": "eph92-06",
+      "title": "Sierra Nevada Field Campus Astronomy Class",
+      "summary": "The Sierra Nevada Field Campus is offering an astronomy class from July 27 to August 1, taught by Dr. Jim Peters. The class has a fee of $123, with additional daily costs for dining and tent use. Registration information, including different contacts before and after June 1st, is provided.",
+      "categories": [
+        "Events",
+        "Education",
+        "Classes",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Sierra Nevada Field Campus",
+        "Astronomy Class",
+        "Jim Peters",
+        "San Francisco State University",
+        "Registration",
+        "Fees",
+        "Summer Class"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-solar-filter-project",
+      "documentId": "eph92-06",
+      "title": "Solar filter Project",
+      "summary": "The 'Solar filter Project' successfully acquired a box for an H-Alpha T scanner at an auction, raising $116 and bringing the fund total to $824. The club is nearing its $1200 goal, which will enable the purchase of a small telescope. The President, Jack Z, is confident the goal will be reached by the end of the year.",
+      "categories": [
+        "Project Update",
+        "Fundraising",
+        "Club News",
+        "Equipment Acquisition",
+        "Board Meeting Report"
+      ],
+      "keywords": [
+        "Solar filter Project",
+        "H-Alpha T scanner",
+        "auction",
+        "fundraising",
+        "telescope",
+        "Board Meeting",
+        "Jack Z",
+        "1992"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-06-astro-ads",
+      "documentId": "eph92-06",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS is a free classifieds section for noncommercial advertisers to sell astronomically related products or services. Ads must be submitted by the 12th of each month to Bob Madden and will run for approximately three months. The listed ads feature various used astronomical equipment such as Celestron C8 Schmidt-Cassegrains, Schmidt Cameras, Coulter mirrors, and Meade SC telescopes.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomical equipment",
+        "buy/sell"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Celestron",
+        "Meade",
+        "Schmidt-Cassegrain",
+        "telescope",
+        "mirrors",
+        "mounts",
+        "eyepieces",
+        "finder scope",
+        "camera adapter",
+        "Lumicon",
+        "Orion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-offices-and-board-of-directors",
+      "documentId": "eph92-06",
+      "title": "Offices and Board of Directors",
+      "summary": "The document provides a directory of the \"Offices and Board of Directors\" for an organization. It lists the names and phone numbers for key leadership positions, including President, Vice President, Treasurer, Secretary, and several Directors.",
+      "categories": [
+        "Organizational Structure",
+        "Leadership",
+        "Contact Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "Personnel",
+        "Contact Information",
+        "Organization",
+        "Management"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-ephemeris-contributors",
+      "documentId": "eph92-06",
+      "title": "Ephemeris Contributors",
+      "summary": "This document provides a directory of individuals who contribute to an ephemeris, listing their names and phone numbers. It also identifies the editor responsible for this section, along with their contact information.",
+      "categories": [
+        "Directory",
+        "Contacts",
+        "Administrative"
+      ],
+      "keywords": [
+        "Ephemeris contributors",
+        "Contact information",
+        "Directory",
+        "Editor",
+        "Phone numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-comet-comments",
+      "documentId": "eph92-06",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz reports on several comets visible or recovered in early summer 1992. Periodic comets Singer Brewster, Shoemaker-Levy 8, and Mueller 4 were observed as faint objects, while Comet Bradfield was a brighter, rapidly moving discovery in the southern sky.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Cometary Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Singer Brewster",
+        "Comet Shoemaker-Levy 8",
+        "Comet Mueller 4",
+        "Comet Bradfield",
+        "1992",
+        "Celestial Observations",
+        "Magnitude",
+        "Orbital Period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-ephemerides",
+      "documentId": "eph92-06",
+      "title": "EPHEMERIDES",
+      "summary": "This document presents detailed ephemerides for two comets, Shoemaker-Levy (1991a.) and Tanaka-Machholz (1992d), spanning from late May to early July. For each comet, observational data such as Right Ascension, Declination, Elongation, sky visibility (Morning/Evening), and visual magnitude are provided at five-day intervals. The document also includes classified advertisements for used astronomical equipment like refractors and Schmidt-Cassegrain telescopes.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemerides",
+        "Comet Observation",
+        "Classifieds",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Shoemaker-Levy (1991a.)",
+        "Comet Tanaka-Machholz (1992d)",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Comets",
+        "Observing",
+        "Astronomical Equipment",
+        "Telescope"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-06-ephemeris",
+      "documentId": "eph92-06",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is a monthly publication by the San Jose Astronomical Association, located at 3509 Calleo Ave., San Jose, California 95124. Members are encouraged to submit typed articles for publication to editor Bob Madden at 1616 Inglis Lane, San Jose, California 95118, with a deadline of the 12th of the previous month.",
+      "categories": [
+        "Newsletter",
+        "Publication Announcement",
+        "Astronomical Association",
+        "Community News"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Monthly publication",
+        "Article submission",
+        "Editor",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-06-san-jose-astronomical-association-membership",
+      "documentId": "eph92-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining various membership tiers and their corresponding costs, including options for \"Membership Only,\" \"Membership / S&T,\" and \"Junior.\" It provides instructions for submitting the form to the treasurer, Jack Peterson, along with contact details and payment information for checks made payable to \"SJAA.\" The document also includes organizational details like the SJAA's address, non-profit status, and a hotline number.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Forms/Applications",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Membership dues",
+        "Junior membership",
+        "Sky & Telescope",
+        "Contact information",
+        "Non-profit organization",
+        "June 1992"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9206/Eph92_06.pdf",
+      "txtPath": "9206/Eph92_06.md"
+    }
+  ]
+}

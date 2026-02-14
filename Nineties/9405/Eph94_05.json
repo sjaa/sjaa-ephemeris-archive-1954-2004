@@ -1,0 +1,529 @@
+{
+  "articles": [
+    {
+      "id": "eph94-05-sjaa-ephemeris",
+      "documentId": "eph94-05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is an official publication of the San Jose Astronomical Association (SJAA) titled \"SJAA EPHEMERIS.\" It represents Volume 5, Number 5 of their publication, issued in May 1994.",
+      "categories": [
+        "Club Newsletter",
+        "Astronomy Publication",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Publication",
+        "May 1994",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-the-eye-piece",
+      "documentId": "eph94-05",
+      "title": "The Eye Piece.",
+      "summary": "This column, \"The Eye Piece\" by Bob Madden, provides updates on upcoming events and club news for amateur astronomers. It announces various star parties, general meetings with speakers on topics like archaeo-astronomy and remote solar telescopes, and an observational astronomy class for May and June. The article also covers a new series on telescope collimation, a member's plan to build an observatory, and an update on the 1.8-meter Large Amateur Telescope project.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Astronomy Education",
+        "Technical Discussion",
+        "Community Updates"
+      ],
+      "keywords": [
+        "Amateur astronomy",
+        "Star parties",
+        "Astronomical events",
+        "Telescope making",
+        "Telescope collimation",
+        "Archeoastronomy",
+        "Remote telescopes",
+        "Observational astronomy",
+        "Large Amateur Telescope project",
+        "Observatory construction",
+        "Riverside Telescope Makers Conference"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph94-05-group-70-1-8-meter-large-amateur-telescope-project",
+      "documentId": "eph94-05",
+      "title": "Group 70 1.8 Meter Large Amateur Telescope Project",
+      "summary": "The Group 70 1.8 Meter Large Amateur Telescope Project originated with the swift fundraising and purchase of a 70-inch (later 72-inch) mirror blank advertised in Sky & Telescope magazine in August 1988. Group 70 subsequently incorporated as a non-profit organization to pursue the ambitious telescope building endeavor.",
+      "categories": [
+        "project report",
+        "amateur astronomy",
+        "telescope building",
+        "organization history"
+      ],
+      "keywords": [
+        "Group 70",
+        "amateur telescope",
+        "mirror blank",
+        "telescope project",
+        "fundraising",
+        "Sky & Telescope",
+        "non-profit",
+        "Denni Medlock"
+      ],
+      "pageStart": 2,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph94-05-double-triple-and-multiple-stars",
+      "documentId": "eph94-05",
+      "title": "Double, Triple, and Multiple Stars",
+      "summary": "This article serves as a guide for amateur astronomers on observing double, triple, and multiple stars, particularly on moonlit nights when galaxies are less visible. It highlights numerous stellar systems in springtime constellations like Gemini, Cancer, Lynx, Ursa Major, Leo, Virgo, and Canes Venatici, providing details on their magnitudes, separations, and observing tips. The author encourages exploring these celestial pairs and trios as satisfying alternatives to deep-sky objects.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Stellar Astronomy",
+        "Double Stars",
+        "Multiple Stars"
+      ],
+      "keywords": [
+        "Double stars",
+        "Multiple stars",
+        "Binary stars",
+        "Observing guide",
+        "Amateur astronomy",
+        "Springtime sky",
+        "Telescope observing",
+        "Castor",
+        "Zeta Canceri",
+        "Iota Canceri",
+        "38-Lynx",
+        "12-Lynx",
+        "Mizar",
+        "Xi Ursa Majoris",
+        "Nu Ursa Majoris",
+        "Gamma Leonis",
+        "Gamma Virginis",
+        "Theta Virginis",
+        "Cor Caroli",
+        "Constellations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-group-70",
+      "documentId": "eph94-05",
+      "title": "Group 70",
+      "summary": "Group 70 is actively working on re-working a 72-inch mirror blank, originally a backup for the 48-inch Schmidt telescope at Palomar Mountain, which has a storied history including 50 years in Tasmania. Significant progress has been made, including flattening the face to f/3.6, and polishing is set to begin soon, with fabrication of the tube assembly now funded by a recent donation. The group is seriously considering Lick Observatory as the potential site for the completed, remotely controllable telescope.",
+      "categories": [
+        "Telescope Projects",
+        "Optical Engineering",
+        "Astronomy Groups",
+        "Observatory Development",
+        "Instrument Restoration"
+      ],
+      "keywords": [
+        "Group 70",
+        "72-inch mirror",
+        "Palomar Mountain",
+        "48-inch Schmidt",
+        "Lick Observatory",
+        "Mirror grinding",
+        "Mirror polishing",
+        "Telescope fabrication",
+        "Remote control telescope",
+        "Corning"
+      ],
+      "pageStart": 1,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph94-05-collimation",
+      "documentId": "eph94-05",
+      "title": "Collimation",
+      "summary": "This article excerpt describes a method for telescope collimation, likely referring to the Foucault test. It instructs on adjusting the focuser and then the primary or secondary mirror to achieve a uniformly darkened image of the primary mirror. The piece also notes that this technique is valuable for assessing the quality of the optics.",
+      "categories": [
+        "Technical",
+        "How-to",
+        "Optics",
+        "Equipment Maintenance"
+      ],
+      "keywords": [
+        "Collimation",
+        "Foucault test",
+        "Primary mirror",
+        "Secondary mirror",
+        "Focuser",
+        "Optical quality",
+        "Telescope alignment",
+        "Optics"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-05-optics-collimation",
+      "documentId": "eph94-05",
+      "title": "Optics Collimation",
+      "summary": "This article emphasizes the critical role of optics collimation (alignment) for optimal telescope performance. It details methods for checking and adjusting alignment across three main telescope types: refractors, catadioptric systems (specifically Schmidt-Cassegrains), and Newtonians. The procedures involve star tests, observing optical aberrations like color fringing or coma, and making minor adjustments to the mirror or lens cells.",
+      "categories": [
+        "Technical",
+        "Telescope Maintenance",
+        "How-to Guide",
+        "Optics"
+      ],
+      "keywords": [
+        "Optics Collimation",
+        "Telescope Alignment",
+        "Refractor",
+        "Catadioptric",
+        "Schmidt-Cassegrain",
+        "Newtonian",
+        "Foucault Test",
+        "Star Test",
+        "Eyepiece",
+        "Airy Disk",
+        "Diffraction Ring",
+        "Coma",
+        "Aberrations"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-05-a-note-from-bill-dellinges",
+      "documentId": "eph94-05",
+      "title": "A Note from Bill Dellinges",
+      "summary": "Bill Dellinges provides an update from Phoenix, Arizona, where he has been living since last April. He describes the extreme weather, his involvement with the East Valley Astronomy Club, and plans to build a roll-off roof observatory for his C-14 at his new home in Apache Junction. Despite missing his friends and the SJAA, Bill and Laura are giving desert life a chance and look forward to visits once settled.",
+      "categories": [
+        "personal update",
+        "astronomy club news",
+        "observing site development",
+        "relocation"
+      ],
+      "keywords": [
+        "Bill Dellinges",
+        "Phoenix",
+        "Arizona",
+        "Apache Junction",
+        "East Valley Astronomy Club",
+        "observatory",
+        "C-14",
+        "roll-off roof",
+        "SJAA",
+        "personal update"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-school-star-party",
+      "documentId": "eph94-05",
+      "title": "School Star Party",
+      "summary": "David R. Smith delivered an engaging astronomy presentation to third-grade classes at Challenger School, covering the scale of the solar system and universe, as well as showcasing various celestial objects via a slide show. He utilized relatable analogies, such as sports balls and everyday distances, to illustrate vast cosmic scales. The presentation successfully excited the students for an upcoming star party.",
+      "categories": [
+        "education",
+        "outreach",
+        "event report",
+        "astronomy education"
+      ],
+      "keywords": [
+        "astronomy",
+        "presentation",
+        "Challenger School",
+        "third grade",
+        "solar system",
+        "universe scale",
+        "slide show",
+        "celestial objects",
+        "nebulae",
+        "galaxies",
+        "star party",
+        "educational outreach"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-donations",
+      "documentId": "eph94-05",
+      "title": "Donations",
+      "summary": "The San Jose Astronomical Association (SJAA) operates a robust loaner program for members, significantly bolstered by various donations of telescopes, eyepieces, and filters. These contributions have helped SJAA amass 14 usable telescopes, with ongoing efforts to maintain, troubleshoot, and expand the collection, including plans to purchase more eyepieces. The article highlights both past donations and specific updates on telescope status and volunteer contributions.",
+      "categories": [
+        "Club Activities",
+        "Donations",
+        "Equipment Management",
+        "Club News",
+        "Technical Notes"
+      ],
+      "keywords": [
+        "SJAA",
+        "Donations",
+        "Loaner Program",
+        "Telescopes",
+        "Eyepieces",
+        "C-11",
+        "Dobsonians",
+        "Astronomy Club",
+        "Equipment Maintenance",
+        "Paul Barton"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-05-from",
+      "documentId": "eph94-05",
+      "title": "From:",
+      "summary": "This satirical article, originally shared on FidoNet, humorously explores the perceived differences between astronomy and astrology. It comically asserts they are the same, then proceeds to draw exaggerated contrasts, portraying astronomers as suffering, cold, and underappreciated while astrologers lead luxurious, comfortable lives and easily attain wealth and public recognition. The piece uses irony to highlight the public's confusion and the practical versus theoretical applications of each field.",
+      "categories": [
+        "Humor",
+        "Satire",
+        "Opinion",
+        "Astronomy/Astrology Comparison"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Astrology",
+        "Satire",
+        "Humor",
+        "Comparison",
+        "Public perception",
+        "Pseudoscience"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-shoemaker-levy-predictions",
+      "documentId": "eph94-05",
+      "title": "Shoemaker-Levy Predictions",
+      "summary": "This article provides a corrected list of predicted impact times for fragments of Comet Shoemaker-Levy 9 (SL9) with Jupiter, adjusted for Pacific Daylight Time (PDT). It notes an initial error in a previously circulated list and includes the 1-sigma uncertainty for these predicted events. The times are organized by nucleus and local PDT.",
+      "categories": [
+        "astronomy",
+        "event predictions",
+        "celestial mechanics",
+        "observing guides"
+      ],
+      "keywords": [
+        "Shoemaker-Levy 9",
+        "SL9",
+        "Jupiter",
+        "Comet impact",
+        "impact times",
+        "predictions",
+        "PDT",
+        "astronomy echo"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-05-astro-ads",
+      "documentId": "eph94-05",
+      "title": "ASTRO ADS",
+      "summary": "This document outlines the guidelines for 'ASTRO ADS,' a free classified service for noncommercial sale of astronomy-related products or services, including submission deadlines and ad duration. It features several specific classified ads for used astronomical equipment such as an observatory, a refractor telescope, eyepieces, and a complete Celestron telescope system. Additionally, the document includes a calendar for the San Jose Astronomical Association (SJAA) for May-August 1994, listing dates for general meetings, star parties, and observational astronomy classes.",
+      "categories": [
+        "Advertisements",
+        "Astronomy Equipment Sales",
+        "Events Calendar",
+        "Community Bulletin",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Astronomy equipment",
+        "Telescope",
+        "Observatory",
+        "Refractor",
+        "Eyepieces",
+        "Celestron",
+        "Astro Physics",
+        "Teleview",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Star party",
+        "General meeting",
+        "Observational Astronomy Class",
+        "Classifieds",
+        "Used equipment",
+        "For sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-telescope-loaner-status",
+      "documentId": "eph94-05",
+      "title": "Telescope Loaner Status",
+      "summary": "This document outlines the current status of the telescope loaner program, detailing which telescopes are currently borrowed, by whom, and their respective due dates in May 1994. It also indicates one telescope is available and provides instructions for members to borrow a telescope by contacting Paul Barton to be added to a waiting list.",
+      "categories": [
+        "Equipment Loan Program",
+        "Member Services",
+        "Club Operations",
+        "Status Report"
+      ],
+      "keywords": [
+        "Telescope Loaner",
+        "SJAA",
+        "Astronomy Club",
+        "Equipment Borrowing",
+        "Paul Barton",
+        "Dobson",
+        "Refractor",
+        "Celestron",
+        "May 1994"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-05-may-1994",
+      "documentId": "eph94-05",
+      "title": "May 1994",
+      "summary": "This document provides a comprehensive astronomical guide for May 1994, detailing lunar phases and the positions, magnitudes, and rise/transit/set times for Mercury, Venus, Mars, Jupiter, and Saturn. It also includes data for the Sun, astronomical twilight times, sidereal time, and highlights the darkest Saturday night for observation. All times and dates are presented in Pacific Daylight Time.",
+      "categories": [
+        "astronomical data",
+        "observing guide",
+        "ephemeris",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "May 1994",
+        "lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "astronomical twilight",
+        "sidereal time",
+        "Pacific Daylight Time",
+        "planetary positions",
+        "magnitudes",
+        "rise set times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-offices-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph94-05",
+      "title": "Offices and Board of Directors | Ephemeris Contributors",
+      "summary": "This document lists the offices and Board of Directors for an organization, including positions such as President, Vice President, Secretary, Treasurer, and Director, along with their respective phone numbers. It also identifies contributors to 'Ephemeris', an editor, and individuals responsible for distribution. The content primarily serves as a directory of key personnel and their contact information.",
+      "categories": [
+        "Organizational Structure",
+        "Contact Information",
+        "Leadership",
+        "Publication Staff"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Offices",
+        "Ephemeris Contributors",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Editor",
+        "Distribution",
+        "Contact List",
+        "Organizational Roles"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-comet-comments",
+      "documentId": "eph94-05",
+      "title": "Comet Comments",
+      "summary": "Don Machholtz's \"Comet Comments\" announces the discovery of two new comets, Comet Mueller (1994d) and Comet Shoemaker-Levy (1994d), providing details on their discovery, current magnitude, and orbital characteristics. The bulletin also includes information on how to access its electronic version via a BBS.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Discovery",
+        "Observing Reports",
+        "News"
+      ],
+      "keywords": [
+        "Comet Mueller",
+        "Comet Shoemaker-Levy",
+        "Don Machholtz",
+        "Jean Mueller",
+        "Carolyn Shoemaker",
+        "David Levy",
+        "Comet discovery",
+        "Magnitude",
+        "Palomar survey",
+        "Kingmont Observatory BBS"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-05-ephemerides",
+      "documentId": "eph94-05",
+      "title": "EPHEMERIDES",
+      "summary": "This document presents ephemerides for several comets, including Periodic Comet Travel 1 & 2, Comet Mueller, Comet Shoemaker-Levy, and Comet McNaught-Russell, detailing their astronomical coordinates and magnitudes for observation dates from late April through early June. Additionally, it contains publication details for the monthly 'EPHEMERIS' newsletter by the San Jose Astronomical Association, inviting member submissions.",
+      "categories": [
+        "Ephemeris",
+        "Astronomy",
+        "Comet Observing",
+        "Amateur Astronomy Publication"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Observing Data",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Periodic Comets",
+        "Comet Shoemaker-Levy",
+        "Comet Mueller",
+        "Comet McNaught-Russell",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-05-san-jose-astronomical-association-membership",
+      "documentId": "eph94-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document serves as a membership application and renewal form for the San Jose Astronomical Association (SJAA), detailing different membership tiers and costs, including options with or without a Sky & Telescope magazine subscription. It provides instructions for submitting the form, payment details to the treasurer, and key contact information for the organization.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Information",
+        "Clubs/Associations",
+        "Financial"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Renewal",
+        "Dues",
+        "Sky & Telescope",
+        "Astronomy Club",
+        "Non-profit",
+        "Contact Information",
+        "May 1994"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9405/Eph94_05.pdf",
+      "txtPath": "9405/Eph94_05.md"
+    }
+  ]
+}

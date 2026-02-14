@@ -1,0 +1,894 @@
+{
+  "articles": [
+    {
+      "id": "eph90-02-ephemeris",
+      "documentId": "eph90-02",
+      "title": "EPHEMERIS",
+      "summary": "This document serves as the masthead for \"EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It identifies the issue as Volume 2, Number 2, published in February 1990, indicating a regular newsletter from an astronomy club.",
+      "categories": [
+        "Club Newsletter",
+        "Publication",
+        "Historical Document",
+        "Astronomy Association"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "February 1990",
+        "Astronomy Club",
+        "Newsletter",
+        "Periodical"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-field-of-view",
+      "documentId": "eph90-02",
+      "title": "FIELD OF VIEW",
+      "summary": "This month's events feature a talk by Joe Wujek of the Lowell Observatory Advisory Board on Percival Lowell, Martian Canals, and an Arizona Observatory, preceded by annual elections for the Board of Directors. Additional activities include a public star party on February 2nd, a monthly Board Meeting on February 10th, and two more star parties on February 17th and 24th.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Organizational News",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Joe Wujek",
+        "Lowell Observatory",
+        "Percival Lowell",
+        "Martian Canals",
+        "Star Party",
+        "Board Elections",
+        "Astronomy Talk",
+        "February Events",
+        "Public Outreach"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-elections",
+      "documentId": "eph90-02",
+      "title": "ELECTIONS",
+      "summary": "The February meeting is designated as the Annual Meeting where the Board of Directors is elected. Five members will continue their terms, while four candidates are up for election or reelection to the board. Following the board elections, officers will be chosen from the newly formed board at the February 10th meeting.",
+      "categories": [
+        "Organizational News",
+        "Elections",
+        "Meetings"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Annual Meeting",
+        "Elections",
+        "Officers",
+        "Steve Greenberg",
+        "Jim Van Nuland",
+        "Tom Ahl",
+        "Brian Munro",
+        "Paul Mancuso",
+        "Brian Zehring",
+        "Jack Peterson",
+        "Gene Cisneros",
+        "Wolfgang Hanish"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-photographer-at-large",
+      "documentId": "eph90-02",
+      "title": "PHOTOGRAPHER AT LARGE",
+      "summary": "The article expresses gratitude to Robert Keller for his excellent photography featured in recent issues of the Ephemeris. He is frequently present at General Meetings and Astronomy Classes, capturing club activities, and members are encouraged to be camera-ready.",
+      "categories": [
+        "Volunteer Recognition",
+        "Community News",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Robert Keller",
+        "photography",
+        "Ephemeris",
+        "General Meetings",
+        "Astronomy Classes",
+        "club activities",
+        "volunteer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-branham-lane-star-parties",
+      "documentId": "eph90-02",
+      "title": "BRANHAM LANE STAR PARTIES",
+      "summary": "The SJAA is hosting a series of public star parties on various Fridays throughout the year, from February to December. Attendees are encouraged to bring their telescopes and invite friends, with contact information for Tom Ahl or Jim Van Nuland available for further details.",
+      "categories": [
+        "Events",
+        "Public Outreach",
+        "News",
+        "Observing"
+      ],
+      "keywords": [
+        "Star parties",
+        "SJAA",
+        "Public events",
+        "Astronomy",
+        "Observing",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-february-starry-nights",
+      "documentId": "eph90-02",
+      "title": "FEBRUARY STARRY NIGHTS",
+      "summary": "This article outlines astronomical events and observing opportunities for February, including the minor Delta Leonids meteor shower and detailed Galilean satellite events for Jupiter observers on February 17th. It also presents NGC 2685 (the Helix Galaxy) as a deep-sky challenge and discusses moon-related superstitions, alongside a comprehensive list of club meetings and public star parties for February and early March.",
+      "categories": [
+        "observing guide",
+        "events",
+        "meteor showers",
+        "planetary observations",
+        "deep sky objects",
+        "astronomy club news",
+        "public outreach"
+      ],
+      "keywords": [
+        "February",
+        "Delta Leonids",
+        "meteor shower",
+        "Galilean satellites",
+        "Jupiter",
+        "Callisto",
+        "Io",
+        "occultation",
+        "transit",
+        "shadow ingress",
+        "deep sky challenge",
+        "NGC 2685",
+        "Helix Galaxy",
+        "Ursa Major",
+        "Lynx",
+        "moon superstitions",
+        "star party",
+        "annual meeting",
+        "board meeting",
+        "astronomy class",
+        "Branham Lane Park",
+        "Grant Ranch County Park",
+        "Henry Coe State Park"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-02-part-one-newtonian-nuggets",
+      "documentId": "eph90-02",
+      "title": "PART ONE: NEWTONIAN NUGGETS",
+      "summary": "The author, a visual observer, shares his journey into the 'eternal collimation' of his reflecting telescopes, driven by a desire for optical perfection and an absorbing hobby. After initial struggles with rudimentary methods, he acquired a Tectron Collimator kit, which ultimately helped him diagnose a faulty diagonal mirror and achieve significantly improved optical alignment. This pursuit transformed his observing experience, leading to clearer views of celestial objects.",
+      "categories": [
+        "Telescope Maintenance",
+        "Observing Tips",
+        "Personal Experience",
+        "Equipment Review",
+        "Optical Alignment"
+      ],
+      "keywords": [
+        "Collimation",
+        "Newtonian telescope",
+        "Visual observing",
+        "Tectron Collimator",
+        "Optical alignment",
+        "Diagonal mirror",
+        "Primary mirror",
+        "Astrophotography",
+        "Double stars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-the-celestial-tourist-speaks",
+      "documentId": "eph90-02",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "This article delves into the common debate among amateur astronomers concerning telescope objectives, specifically the interplay between aperture size and optical quality. The author proposes two complementary rules: \"Aperture is not substitute for optical quality\" and \"Optical quality is no substitute for aperture,\" explaining that these address the distinct goals of observing fine detail versus faint objects. He illustrates the significant advantage of larger aperture for light gathering and viewing deep-sky objects by comparing his 90mm refractor, 8-inch Dobsonian, and 14-inch Celestron telescopes.",
+      "categories": [
+        "Technical",
+        "Amateur Astronomy",
+        "Equipment Discussion"
+      ],
+      "keywords": [
+        "telescopes",
+        "aperture",
+        "optical quality",
+        "amateur astronomy",
+        "objectives",
+        "light gathering",
+        "deep-sky objects",
+        "refractor",
+        "Dobsonian",
+        "Celestron"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-02-space-program-update",
+      "documentId": "eph90-02",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This article delves into the various factors, beyond just aperture, that significantly limit a telescope's performance, particularly regarding resolving power and contrast. It details how optical quality, specific design elements like spider arms and secondary mirror obstruction, and manufacturing difficulties (especially with aspheric optics in larger amateur telescopes) diminish image fidelity. The author emphasizes that these challenges often mean larger, more affordable amateur telescopes may not achieve their full theoretical potential due to inherent optical compromises.",
+      "categories": [
+        "Technical Astronomy",
+        "Telescope Optics",
+        "Amateur Astronomy Equipment",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Telescope performance",
+        "Optical quality",
+        "Aperture",
+        "Resolving power",
+        "Telescope design",
+        "Diffraction",
+        "Airy disc",
+        "Secondary mirror obstruction",
+        "Spider arms",
+        "Contrast",
+        "Aspheric optics",
+        "Manufacturing challenges",
+        "Schmidt-Cassegrain",
+        "Newtonian",
+        "Maksutov",
+        "Refractor",
+        "Seeing conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-planned-events-in-the-u-s-1990-space-program",
+      "documentId": "eph90-02",
+      "title": "PLANNED EVENTS IN THE U.S. 1990 SPACE PROGRAM",
+      "summary": "The document outlines the planned U.S. space program events for 1990, detailing several Space Shuttle launches and their respective payloads. Key missions include the deployment of the Hubble Space Telescope, the Gamma Ray Observatory, the Astro-1 spacelab, and a Galileo spacecraft flyby of Venus, alongside classified military payloads.",
+      "categories": [
+        "Events",
+        "Space Program",
+        "Missions",
+        "Schedule",
+        "Astronomy"
+      ],
+      "keywords": [
+        "1990",
+        "U.S. Space Program",
+        "Space Shuttle",
+        "Hubble Space Telescope",
+        "Galileo spacecraft",
+        "Gamma Ray Observatory",
+        "Atlantis",
+        "Discovery",
+        "Columbia",
+        "Venus",
+        "Military Payload",
+        "Planned Events"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-02-staa-ephemeris",
+      "documentId": "eph90-02",
+      "title": "STAA EPHEMERIS",
+      "summary": "This document, titled \"STAA Ephemeris,\" lists a series of significant space-related events with their corresponding dates. It details various spacecraft arrivals and launches, including the Magellan Spacecraft at Venus, several Space Shuttle missions (Columbia, Atlantis, Discovery) carrying scientific laboratories and probes, and the Galileo spacecraft's first Earth flyby.",
+      "categories": [
+        "Space Exploration",
+        "Space Missions",
+        "Astronomy Events",
+        "Launches",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Magellan Spacecraft",
+        "Venus",
+        "Space Shuttle Columbia",
+        "Life Science Spacelab",
+        "Space Shuttle Atlantis",
+        "Ulysses Solar Probe",
+        "Space Shuttle Discovery",
+        "SDI experiments",
+        "Microgravity Spacelab",
+        "Galileo spacecraft",
+        "Earth flyby",
+        "Space exploration schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-planned-european-ariane-launch-schedule-for-1990",
+      "documentId": "eph90-02",
+      "title": "PLANNED EUROPEAN ARIANE LAUNCH SCHEDULE FOR 1990",
+      "summary": "This document outlines the planned European Ariane launch schedule for 1990, detailing monthly missions throughout the year. It lists a variety of satellites from different nations, including remote sensing, telecommunication, meteorological, and Earth resource spacecraft. The schedule indicates a busy year for European space launches, serving both European and international clients.",
+      "categories": [
+        "Launch Schedule",
+        "Space Program",
+        "Aerospace Industry",
+        "Satellite Missions"
+      ],
+      "keywords": [
+        "Ariane",
+        "Launch schedule",
+        "1990",
+        "Satellites",
+        "European Space",
+        "Telecommunications",
+        "Remote sensing",
+        "Earth observation",
+        "Arianespace"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-02-first-commercial-titan-flight-launched-new-year-s-eve",
+      "documentId": "eph90-02",
+      "title": "FIRST COMMERCIAL TITAN FLIGHT LAUNCHED NEW YEAR'S EVE",
+      "summary": "Martin Marietta successfully launched its first commercial Titan flight on New Year's Eve, deploying two communication satellites and becoming the second company to enter the commercial launch market. This follows McDonnell Douglas's inaugural commercial launch last August, with General Dynamics also set to join the market soon. Martin Marietta has already secured three more customers for future Titan launches.",
+      "categories": [
+        "news",
+        "space industry",
+        "commercial space",
+        "launch reports"
+      ],
+      "keywords": [
+        "Martin Marietta",
+        "Titan booster",
+        "Commercial launch",
+        "Communication satellites",
+        "McDonnell Douglas",
+        "Delta booster",
+        "General Dynamics",
+        "Atlas booster",
+        "New Year's Eve"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-japanese-space-program-includes-lunar-missions",
+      "documentId": "eph90-02",
+      "title": "JAPANESE SPACE PROGRAM INCLUDES LUNAR MISSIONS",
+      "summary": "Japan's space program plans to launch a dual satellite, Muses-A, to the Moon on January 23, 1990. This mission aims to gain experience in determining spacecraft orbits around a planetary body and to demonstrate high-efficiency data transmission technology crucial for future lunar and Venus missions. Japan also seeks to contribute to the U.S. lunar base initiative.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "National Space Programs",
+        "Upcoming Missions"
+      ],
+      "keywords": [
+        "Japanese Space Program",
+        "Lunar Missions",
+        "Muses-A",
+        "Moon",
+        "Spacecraft Launch",
+        "Data Transmission Technology",
+        "U.S. Lunar Base",
+        "Planetary Orbit Determination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-soviets-reveal-1960-s-manned-moon-plans",
+      "documentId": "eph90-02",
+      "title": "SOVIETS REVEAL 1960'S MANNED MOON PLANS",
+      "summary": "The Soviets recently revealed details and hardware of their 1960s manned Moon landing program to U.S. aerospace engineers. Their plan involved sending two cosmonauts to the Moon, with one landing on the surface, using the N1 heavy-lift booster similar to the U.S. Saturn 5. The program was ultimately halted due to four test failures of the N1 booster.",
+      "categories": [
+        "Space History",
+        "Lunar Exploration",
+        "Manned Spaceflight",
+        "Cold War Space Race"
+      ],
+      "keywords": [
+        "Soviets",
+        "Moon plans",
+        "1960s",
+        "manned mission",
+        "cosmonauts",
+        "N1 booster",
+        "Saturn 5",
+        "hardware",
+        "space program",
+        "test failures"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-soviets-expanding-the-mir-space-station",
+      "documentId": "eph90-02",
+      "title": "SOVIETS EXPANDING THE MIR SPACE STATION",
+      "summary": "The Soviet Union is expanding its Mir space station with four new modules. The first, Kvant-2 (Module D), which includes a Manned Maneuvering Unit, docked on December 6th. Upcoming modules include Module T for semiconductor production, Module O with an optical payload, and an ecological platform designed for international use.",
+      "categories": [
+        "news",
+        "space exploration",
+        "technical"
+      ],
+      "keywords": [
+        "Mir space station",
+        "Soviet Union",
+        "Kvant-2",
+        "Manned Maneuvering Unit",
+        "space modules",
+        "semiconductors",
+        "ecological platform"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-double-triple-multiple-stars",
+      "documentId": "eph90-02",
+      "title": "DOUBLE, TRIPLE & MULTIPLE STARS",
+      "summary": "Patrick M. Donnelly provides an observing guide for numerous double, triple, and multiple stars in the constellation Perseus, a challenging target when high overhead in early February. The guide details specific star systems such as Zeta, Epsilon, Mu, Theta, Tau, and Eta Persei, providing observational data like magnitudes, separations, and position angles, along with recommendations for telescope sizes. It also highlights interesting doubles within the M34 open cluster and briefly mentions a search for a faint component of Lambda Orionis.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Celestial Objects",
+        "Star Systems"
+      ],
+      "keywords": [
+        "Double stars",
+        "Triple stars",
+        "Multiple stars",
+        "Perseus",
+        "Constellation",
+        "Observing",
+        "Telescope",
+        "Zeta Persei",
+        "Epsilon Persei",
+        "Mu Persei",
+        "Theta Persei",
+        "Tau Persei",
+        "Eta Persei",
+        "M34",
+        "Open cluster",
+        "Lambda Orionis",
+        "Magnitude",
+        "Separation",
+        "Position Angle"
+      ],
+      "pageStart": 5,
+      "pageEnd": 1434
+    },
+    {
+      "id": "eph90-02-comet-comments",
+      "documentId": "eph90-02",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz's \"COMET COMMENTS\" provides an update on recent cometary activity, detailing the discovery of three new comets: Comet Austin (1989c1), Periodic Comet Skorichenko-George (1989e1), and Comet McKenzie-Russell (1989f1), along with their discovery circumstances and future visibility. It also reports on the status of other comets, including the recovery of Periodic Comet Van Biesbroeck and the ongoing observation of Tuttle-Giacobini-Kresak, while noting the fading of others.",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Reports",
+        "News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "Periodic Comet Skorichenko-George",
+        "Comet McKenzie-Russell",
+        "Comet discovery",
+        "Comet observation",
+        "Amateur astronomy",
+        "Comet magnitude",
+        "Perihelion",
+        "Comet recovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-officers-and-board-of-directors",
+      "documentId": "eph90-02",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document lists the current officers and board of directors for an organization. It details various leadership positions, including President, Vice President, Treasurer, Secretary, and Editor, along with several Directors. Contact phone numbers are provided for most individuals listed in these roles.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Board Members",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Editor",
+        "Director",
+        "Organizational Structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-comet-ephemeris",
+      "documentId": "eph90-02",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides detailed ephemeris data for two comets, Periodic Comet Tuttle-Giacobini-Kresak (1989k) and Comet Skorichenko-George (1989e), for late January through early March. The tables list celestial coordinates (RA and DEC for J1950 and J2000 epochs), elongation, sky visibility, and estimated visual magnitude to aid observers in locating these objects.",
+      "categories": [
+        "Astronomical Data",
+        "Cometology",
+        "Observing Aids",
+        "Technical"
+      ],
+      "keywords": [
+        "Comet",
+        "Ephemeris",
+        "Tuttle-Giacobini-Kresak",
+        "Skorichenko-George",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomy",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-jupiter-s-red-spot",
+      "documentId": "eph90-02",
+      "title": "JUPITER'S RED SPOT",
+      "summary": "This document provides an ephemeris for observing Jupiter's Great Red Spot (GRS). It lists specific dates and times in February and early March when the GRS will be transiting the meridian as viewed from the Pacific Standard Time (PST) zone, aiding observers in planning their viewing sessions.",
+      "categories": [
+        "Observing schedules",
+        "Planetary astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Meridian transit",
+        "Observing guide",
+        "PST",
+        "February",
+        "March"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-02-great-red-spot",
+      "documentId": "eph90-02",
+      "title": "GREAT RED SPOT",
+      "summary": "This article provides observing tips for Jupiter's Great Red Spot (GRS), noting that it is now high enough for observation. It highlights that even small telescopes, like an 80mm refractor, can reveal the GRS and other details, encouraging observers to sketch their findings. The author also reports on the continued absence of the South Equatorial Belt (SEB) and offers advice on optimal viewing conditions and techniques for spotting the GRS.",
+      "categories": [
+        "observing reports",
+        "observing tips",
+        "planetary astronomy",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "telescope",
+        "observing",
+        "sketching",
+        "South Equatorial Belt",
+        "SEB",
+        "filters",
+        "seeing conditions",
+        "Galilean satellites"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-astro-ads",
+      "documentId": "eph90-02",
+      "title": "ASTRO ADS",
+      "summary": "This document features a series of free, non-commercial classified advertisements for astronomically related products and services. It primarily lists various telescopes such as Celestron and Meade models, along with optical accessories like finders, eyepieces, filters, and other equipment like tripods and cold cameras. Instructions for submitting ads to the editor are also provided.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Buy/Sell",
+        "Advertisements"
+      ],
+      "keywords": [
+        "Astronomical equipment",
+        "Telescopes",
+        "Celestron",
+        "Meade",
+        "Eyepieces",
+        "Filters",
+        "Finderscopes",
+        "Cold camera",
+        "Tripods",
+        "Optics",
+        "Schmidt-Cassegrain",
+        "Newtonian Reflector",
+        "Astronomy accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-the-story-of-a-telescope-in-mexico",
+      "documentId": "eph90-02",
+      "title": "THE STORY OF A TELESCOPE IN MEXICO",
+      "summary": "Rick McWilliams recounts his adventurous trip to Los Barilles, Baja California Sur, Mexico, bringing his bulky 20-inch Dobsonian telescope. He faced significant challenges with Mexican customs regarding its temporary importation but eventually succeeded in setting it up for impromptu star parties, sharing views of celestial objects with amazed locals and tourists. Despite the logistical hurdles, the experience underscored the joy of sharing amateur astronomy.",
+      "categories": [
+        "Travelogue",
+        "Amateur Astronomy",
+        "Observing Report",
+        "Personal Account",
+        "Logistics and Equipment"
+      ],
+      "keywords": [
+        "Telescope",
+        "Dobsonian",
+        "Mexico",
+        "Baja California Sur",
+        "Customs",
+        "Star Party",
+        "Observing",
+        "Travel",
+        "Jupiter",
+        "Deep Sky Objects",
+        "Collimation",
+        "Celestron Advanced Astro Master",
+        "Packaging",
+        "Mexicana Airlines"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph90-02-almost-a-star",
+      "documentId": "eph90-02",
+      "title": "ALMOST A STAR",
+      "summary": "Jupiter, primarily composed of hydrogen and helium, is a gaseous planet that radiates internal heat from its formation, maintaining a constant temperature. The article explains that Jupiter is near the maximum size for a planet, and if it were approximately 60 times more massive, thermonuclear reactions would ignite, causing it to become a self-luminous star.",
+      "categories": [
+        "Astronomy",
+        "Planetary Science",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Jupiter",
+        "planetary composition",
+        "hydrogen",
+        "helium",
+        "internal heat",
+        "star formation",
+        "thermonuclear reaction",
+        "gravitational self-compression",
+        "gaseous planet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-jupiter-s-core",
+      "documentId": "eph90-02",
+      "title": "JUPITER'S CORE",
+      "summary": "Jupiter's deep interior core is likely composed of iron and silicates, roughly the size of Earth or Venus. It boasts an extreme temperature of about 30,000 degrees Celsius and experiences immense pressure, more than 30 million times that of Earth's atmosphere. These conditions are sufficient to compress a planet like Earth to less than half its diameter.",
+      "categories": [
+        "Planetary Science",
+        "Astrophysics",
+        "Solar System"
+      ],
+      "keywords": [
+        "Jupiter",
+        "planetary core",
+        "iron",
+        "silicates",
+        "temperature",
+        "pressure",
+        "solar system"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-the-jovian-sea",
+      "documentId": "eph90-02",
+      "title": "THE JOVIAN SEA",
+      "summary": "Jupiter's interior features a massive shell of metallic hydrogen, an exotic form not found on Earth, spanning over 25,000 miles around its core under immense pressure and high temperatures. Outside this, a 15,000-mile-thick layer of liquid hydrogen forms what can be considered Jupiter's \"surface,\" existing at extremely low temperatures before transitioning into the gaseous atmosphere and cloud layers.",
+      "categories": [
+        "Planetary Science",
+        "Astrophysics",
+        "Solar System"
+      ],
+      "keywords": [
+        "Jupiter",
+        "metallic hydrogen",
+        "liquid hydrogen",
+        "planetary interior",
+        "pressure",
+        "temperature",
+        "Jupiter's core",
+        "planetary structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-the-jovian-clouds",
+      "documentId": "eph90-02",
+      "title": "THE JOVIAN CLOUDS",
+      "summary": "Jupiter's atmosphere is characterized by distinct cloud layers, including high white and yellow ammonia crystal clouds, a lower layer of ammonium hydrosulfide crystals, and the deepest layer composed of water droplets and ice crystals. While the lowest water cloud layer exhibits Earth-like temperatures, the overall atmosphere remains unbreathable due to its composition of hydrogen, helium, and noxious gases like ammonia, hydrogen sulfide, phosgene, and cyanide, lacking essential oxygen.",
+      "categories": [
+        "Planetary Science",
+        "Jovian Planets",
+        "Atmospheric Composition",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Jovian clouds",
+        "Atmosphere",
+        "Ammonia crystals",
+        "Ammonium hydrosulfide",
+        "Water clouds",
+        "Temperature",
+        "Hydrogen",
+        "Helium",
+        "Toxic gases"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-the-great-red-spot",
+      "documentId": "eph90-02",
+      "title": "THE GREAT RED SPOT",
+      "summary": "The Great Red Spot on Jupiter is a massive, enduring storm that has been raging for over 300 years. This cyclonic system is incredibly vast, reaching a diameter of up to 25,000 miles, making it three times the size of Earth and the largest known storm in the solar system.",
+      "categories": [
+        "Planetary Science",
+        "Descriptive Astronomy",
+        "Celestial Features"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Storm",
+        "Cyclonic system",
+        "Solar System",
+        "Planetary atmosphere",
+        "Giant planets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-spin-jupiter-spin",
+      "documentId": "eph90-02",
+      "title": "SPIN, JUPITER, SPIN",
+      "summary": "Jupiter holds the title as the solar system's fastest rotating planet, completing a spin every 10 hours at its equator, resulting in an impressive speed of 27,720 mph (44,601 km/h). This equatorial speed significantly surpasses Earth's escape velocity, and the article notes it took Voyager 1 approximately 1,300 Jupiter spins to reach the giant planet after its 1977 launch.",
+      "categories": [
+        "Planetary Science",
+        "Space Exploration",
+        "Astronomy",
+        "Comparative Planetology"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Rotation",
+        "Solar System",
+        "Voyager 1",
+        "Equator",
+        "Spin speed",
+        "Escape velocity"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-sizing-up-the-giant",
+      "documentId": "eph90-02",
+      "title": "SIZING UP THE GIANT",
+      "summary": "The article describes Jupiter as the largest planet in our solar system, containing 71 percent of the total planetary mass. It emphasizes Jupiter's immense size, noting its diameter is 11 times that of Earth and using vivid analogies to illustrate its significantly larger surface area compared to our home planet.",
+      "categories": [
+        "planetary science",
+        "solar system",
+        "descriptive",
+        "educational",
+        "astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "solar system",
+        "planet size",
+        "Earth comparison",
+        "planetary mass",
+        "diameter",
+        "surface area"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-a-saturn-v-launched-from-jupiter",
+      "documentId": "eph90-02",
+      "title": "A SATURN V LAUNCHED FROM JUPITER",
+      "summary": "Jupiter, possessing the solar system's highest escape velocity due to its immense gravity, would pose an insurmountable challenge for a Saturn V rocket. If launched from Jupiter's liquid hydrogen surface, the rocket would struggle to gain speed, burning through its first stage with minimal range before the second stage would ignite but ultimately crash, performing no better than a long-range artillery shell.",
+      "categories": [
+        "Hypothetical Scenario",
+        "Space Exploration (Theoretical)",
+        "Planetary Science",
+        "Physics"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn V",
+        "Escape velocity",
+        "Gravity",
+        "Rocket launch",
+        "Liquid hydrogen",
+        "Thrust",
+        "Propellant"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-02-the-fastest-moon",
+      "documentId": "eph90-02",
+      "title": "THE FASTEST MOON",
+      "summary": "Designated 1979 J3 and discovered by the Voyager spacecraft, this small moon holds the record as the fastest-moving moon in our solar system. It orbits Jupiter in just over 7 hours, covering an average distance of 35,000 miles at an incredible speed of 70,400 miles per hour.",
+      "categories": [
+        "Astronomy",
+        "Planetary Science",
+        "Space Exploration",
+        "Discoveries"
+      ],
+      "keywords": [
+        "1979 J3",
+        "Jupiter's moon",
+        "Voyager spacecraft",
+        "Orbital velocity",
+        "Orbital period",
+        "Solar system",
+        "Moon discovery"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph90-02-san-jose-astronomical-association-membership-application",
+      "documentId": "eph90-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), detailing different membership types like 'Membership Only', 'Membership/S&T', and 'Junior' along with their respective fees. It provides instructions for submitting the application, contact information for the treasurer, and details about the association's monthly publication, 'EPHEMERIS', including submission guidelines for members.",
+      "categories": [
+        "membership application",
+        "organizational information",
+        "newsletter",
+        "astronomy club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "dues",
+        "Ephemeris",
+        "astronomy club",
+        "newsletter",
+        "contact information",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9002/Eph90_02.pdf",
+      "txtPath": "9002/Eph90_02.md"
+    }
+  ]
+}

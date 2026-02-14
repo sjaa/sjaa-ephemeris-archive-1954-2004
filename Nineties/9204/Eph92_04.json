@@ -1,0 +1,670 @@
+{
+  "articles": [
+    {
+      "id": "eph92-04-sjaa-ephemeris",
+      "documentId": "eph92-04",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the 'SJAA EPHEMERIS', the official publication of the San Jose Astronomical Association. It is Volume 3, Number 4, published in April 1992, serving as a record of the association's activities and astronomical data for that period.",
+      "categories": [
+        "Club Publication",
+        "Astronomical Data",
+        "Historical Document",
+        "Newsletter"
+      ],
+      "keywords": [
+        "SJAA",
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "April 1992",
+        "Volume 3 Number 4"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-sjaa-observatory-progress-report-2",
+      "documentId": "eph92-04",
+      "title": "SJAA OBSERVATORY PROGRESS REPORT #2",
+      "summary": "This is the second progress report for the proposed SJAA Observatory at Grant Ranch. Jerry Dunmire is recruiting design teams for the structure and telescope mounts, while a site survey has been conducted at Halley Hill. The report also provides an updated, detailed list of 20 features being considered for the observatory's design, from electrical power and structural elements to accessibility and maintenance.",
+      "categories": [
+        "Observatory Project",
+        "Progress Report",
+        "Planning & Design",
+        "Infrastructure Development"
+      ],
+      "keywords": [
+        "SJAA Observatory",
+        "Grant Ranch",
+        "Halley Hill",
+        "design teams",
+        "telescope mount",
+        "observatory features",
+        "site survey",
+        "dome design",
+        "slide-off roof",
+        "electrical power",
+        "accessibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-the-eyepiece",
+      "documentId": "eph92-04",
+      "title": "The Eyepiece",
+      "summary": "This newsletter, \"The Eyepiece,\" announces an upcoming talk by Bill Delinges on astronomical seminars and camps, and promotes his article on \"The Starry Messenger\" for used astronomy equipment. The author, Ed, also informs readers about his upcoming attendance at the Texas Star Party and Riverside Telescope Makers Conference, which may impact the May issue's delivery. The bulk of the article is a detailed calendar of club events from April to June, including star parties, general meetings, classes, and an auction, along with a list of club officers.",
+      "categories": [
+        "News",
+        "Events",
+        "Club Activities",
+        "Observing",
+        "Education",
+        "Resources"
+      ],
+      "keywords": [
+        "Astronomical seminars",
+        "Astronomy camps",
+        "Starry Messenger",
+        "Used astronomy equipment",
+        "Texas Star Party",
+        "Riverside Telescope Makers Conference",
+        "Star parties",
+        "General meetings",
+        "Astronomy classes",
+        "Astronomy Day",
+        "SJAA Auction",
+        "Astrophotography",
+        "Club officers"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph92-04-the-starry-messenger",
+      "documentId": "eph92-04",
+      "title": "The Starry Messenger",
+      "summary": "This article highly recommends \"The Starry Messenger (S/M)\", a monthly newsletter featuring classified ads for used astronomical equipment. The author attests to its effectiveness, having successfully sold numerous items and receiving many inquiries, contrasting it with other advertising avenues. S/M is presented as an invaluable, mostly non-profit resource for amateur astronomers to find discounted gear and understand the resale market for equipment.",
+      "categories": [
+        "Review",
+        "Astronomy",
+        "Equipment Sales",
+        "Community Resource"
+      ],
+      "keywords": [
+        "The Starry Messenger",
+        "Astronomical equipment",
+        "Classifieds",
+        "Used equipment",
+        "Amateur astronomy",
+        "Telescopes",
+        "Buying and selling"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-acknowledgement-of-risk",
+      "documentId": "eph92-04",
+      "title": "Acknowledgement of Risk",
+      "summary": "The San Jose Astronomical Association (SJAA) is proactively developing plans for an astronomical observatory in Joseph D. Grant County Park, despite the proposed Master Plan for the park not yet being approved. SJAA acknowledges the risk that the plan could be revised or canceled, and that the Parks and Recreation Department cannot imply approval of their current activities. Regardless of final approval, SJAA will provide civil engineering data collected for Halley Hill to the Park.",
+      "categories": [
+        "project planning",
+        "official communication",
+        "risk assessment",
+        "community partnership",
+        "park development"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Joseph D. Grant County Park",
+        "astronomical observatory",
+        "Master Plan",
+        "Halley Hill",
+        "Parks and Recreation Department",
+        "civil engineering",
+        "project risk",
+        "volunteer activities"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-04-by-alex-filipenko",
+      "documentId": "eph92-04",
+      "title": "By Alex Filipenko",
+      "summary": "Astronomers in the former Soviet Union are facing a dire funding crisis, with salaries as low as $3-10 per month, making it impossible to afford international journal subscriptions, communications, and travel. An urgent appeal from the Soviet Astronomical Society, endorsed by the American Astronomical Society, seeks donations and support to provide essential resources like journal access, communication equipment, and funding for cooperative projects. The initiative aims to prevent the collapse of astronomy in the region and enable scientists to continue their work amidst severe economic isolation.",
+      "categories": [
+        "News",
+        "Science Policy",
+        "Fundraising",
+        "International Scientific Relations",
+        "Call to Action"
+      ],
+      "keywords": [
+        "Former Soviet Union",
+        "Astronomy Funding Crisis",
+        "Scientific Aid",
+        "International Collaboration",
+        "American Astronomical Society (AAS)",
+        "Soviet Astronomical Society (SAS)",
+        "Astronomer Salaries",
+        "Journal Access",
+        "Research Support"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-04-sjaa-public-star-party-site",
+      "documentId": "eph92-04",
+      "title": "SJAA Public Star Party Site",
+      "summary": "The article identifies Houge Park as the official public star party site for the San Jose Astronomical Association (SJAA). It provides a map illustrating the park's location relative to various local streets and Highway 17, guiding attendees to the site.",
+      "categories": [
+        "Events",
+        "Location Information",
+        "Astronomy Clubs",
+        "Observing Sites"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Star Party",
+        "Houge Park",
+        "Public Event",
+        "Astronomy",
+        "Location Map"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-sjaa-auction-astronomical-items-mirrors-lenses-eye-pieces-mounts-and-complete-telescopes",
+      "documentId": "eph92-04",
+      "title": "SJAA AUCTION ASTRONOMICAL ITEMS MIRRORS - LENSES - EYE-PIECES - MOUNTS - AND COMPLETE TELESCOPES",
+      "summary": "The San Jose Astronomical Association (SJAA) is holding an auction featuring a wide range of astronomical items, including mirrors, lenses, eyepieces, mounts, and complete telescopes. Ten percent of the proceeds from each sale will be donated to the SJAA.",
+      "categories": [
+        "Event",
+        "Fundraising",
+        "Astronomy Equipment",
+        "Organizational News"
+      ],
+      "keywords": [
+        "Auction",
+        "SJAA",
+        "Astronomical items",
+        "Telescopes",
+        "Mirrors",
+        "Lenses",
+        "Eyepieces",
+        "Mounts",
+        "Sale",
+        "Fundraising"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-grant-ranch-star-party",
+      "documentId": "eph92-04",
+      "title": "Grant Ranch Star Party",
+      "summary": "This article reports on the Grant Ranch Star Party held on March 7, 1992. Despite initial marginal weather and wet conditions, attendees enjoyed two to three hours of good observing after 9 pm. Various participants brought telescopes, including a notable 5\" Clark refractor on a custom mount, and some sought drier conditions higher up a hill towards Mt. Hamilton.",
+      "categories": [
+        "observing report",
+        "event",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Grant Ranch Star Party",
+        "star party",
+        "observing",
+        "telescopes",
+        "amateur astronomy",
+        "weather conditions",
+        "Mt. Hamilton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-houge-park-star-party",
+      "documentId": "eph92-04",
+      "title": "Houge Park Star Party",
+      "summary": "The first public Houge Park Star Party on March 13, 1992, was a \"huge success,\" attracting 40-50 people with six telescopes set up for observing. Attendees enjoyed good seeing conditions and viewed celestial objects like Orion, Jupiter, and the Moon, while Paul Barton directed traffic from a nearby park. A highlight included Bob Elsberry's neat homemade 5-1/2\" Dobson telescope, though the Moon's brightness hindered his view of the Horse Head Nebula.",
+      "categories": [
+        "observing report",
+        "event recap",
+        "community outreach"
+      ],
+      "keywords": [
+        "Houge Park Star Party",
+        "March 13 1992",
+        "Paul Barton",
+        "telescopes",
+        "observing",
+        "Orion",
+        "Sirius",
+        "M41",
+        "Jupiter",
+        "Pleiades",
+        "Moon",
+        "Horse Head Nebula",
+        "Bob Elsberry",
+        "Dobson telescope",
+        "Branham Lane Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-help-needed-for-the-observatory-site",
+      "documentId": "eph92-04",
+      "title": "Help needed for the Observatory Site",
+      "summary": "The article is an urgent call for assistance to locate hidden metal survey stakes at Halley Hill, part of the Observatory Site at Grant Ranch. The stakes are covered by mud and dirt, and a team is ready to survey once they are found. The appeal is for someone with a metal detector and knowledge of how to operate it, or for the loan of such an instrument, to help find these stakes.",
+      "categories": [
+        "Call for Action",
+        "Volunteer Request",
+        "Observatory Site Maintenance",
+        "Site Development"
+      ],
+      "keywords": [
+        "Observatory Site",
+        "Halley Hill",
+        "Grant Ranch",
+        "Survey",
+        "Survey stakes",
+        "Metal detector",
+        "Volunteer",
+        "Site maintenance"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-04-membership-dues-to-increase-the-first-of-july",
+      "documentId": "eph92-04",
+      "title": "Membership Dues to increase the first of July",
+      "summary": "Membership dues for the organization will increase to $12 annually starting July 1st. This is the first increase in 10 years and is necessitated by rising operational costs, such as newsletter publication and postage, and funding for ongoing club projects like an 11\" Celestron SC telescope, a solar telescope project, and the observatory.",
+      "categories": [
+        "news",
+        "club operations",
+        "financial announcement"
+      ],
+      "keywords": [
+        "membership dues",
+        "increase",
+        "club projects",
+        "operational costs",
+        "Celestron telescope",
+        "solar telescope",
+        "observatory",
+        "Sky and Telescope",
+        "1992"
+      ],
+      "pageStart": 5,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph92-04-lunarphases-date-rise-tran-set",
+      "documentId": "eph92-04",
+      "title": "LunarPhases Date Rise Tran Set",
+      "summary": "This document provides a concise schedule of the major lunar phases for April, detailing the exact date and time of each phase. It also includes the corresponding moonrise, transit, and moonset times for the New Moon, First Quarter, Full Moon, and Last Quarter.",
+      "categories": [
+        "Astronomical Data",
+        "Lunar Events",
+        "Almanac"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Moonrise",
+        "Moonset",
+        "Transit",
+        "Astronomy",
+        "Calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-nearer-planets",
+      "documentId": "eph92-04",
+      "title": "Nearer Planets",
+      "summary": "This article presents an astronomical guide detailing the rise, transit, and set times for Mercury, Venus, Mars, Jupiter, and Saturn across three specific dates in April. It also provides their approximate distances in Astronomical Units (AU) and apparent magnitudes, offering practical data for planetary observation.",
+      "categories": [
+        "observing guide",
+        "ephemeris",
+        "astronomy data",
+        "skywatching"
+      ],
+      "keywords": [
+        "Planetary Ephemeris",
+        "Rise Set Times",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Apparent Magnitude",
+        "Astronomical Units",
+        "April Observations",
+        "Skywatching Guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-sol-star-type-g2v-mag-26-72",
+      "documentId": "eph92-04",
+      "title": "SOL Star Type G2V Mag - 26.72",
+      "summary": "The article presents fundamental astronomical data for the Sun, identifying it as a G2V star with an apparent magnitude of -26.72. Following this, it lists several celestial coordinates accompanied by specific dates and three associated time entries for each, likely representing either observational timings or ephemeris data for celestial objects.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Technical"
+      ],
+      "keywords": [
+        "Sun",
+        "SOL",
+        "G2V star",
+        "Apparent Magnitude",
+        "Celestial Coordinates",
+        "Right Ascension",
+        "Declination",
+        "Observation Times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-astronomical-twilight",
+      "documentId": "eph92-04",
+      "title": "Astronomical Twilight",
+      "summary": "This document provides a schedule detailing the start and end times of astronomical darkness for various dates in April. It includes Julian dates, calendar dates, and the corresponding time ranges indicating when the sky is dark enough for astronomical observations, based on astronomical twilight boundaries. This information is essential for astronomers to plan their observing sessions.",
+      "categories": [
+        "Astronomy Data",
+        "Observing Resources",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Astronomical night",
+        "Observing times",
+        "Dark sky",
+        "Julian Date",
+        "April calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-siderial-time",
+      "documentId": "eph92-04",
+      "title": "Siderial Time",
+      "summary": "This document provides specific sidereal time calculations for several dates in April, including transit right, ascension, and local midnight. These values are given with corresponding Pacific Daylight Time (PDT) conversions, likely for astronomical planning or observation.",
+      "categories": [
+        "observing reports",
+        "technical data",
+        "astronomy calculations"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right",
+        "Ascension",
+        "Local Midnight",
+        "PDT",
+        "astronomical timing",
+        "ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-darkest-saturday-night-apr-04",
+      "documentId": "eph92-04",
+      "title": "Darkest Saturday Night Apr 04",
+      "summary": "The article announces April 4th as a 'Darkest Saturday Night' with specific astronomical times for sunset, twilight end, and moonrise, all in Pacific Daylight Time. Additionally, it lists the newly selected Board of Directors officers for the association, including the President, Vice President, Secretary, and Treasurer.",
+      "categories": [
+        "observing report",
+        "events",
+        "news",
+        "organizational updates"
+      ],
+      "keywords": [
+        "Darkest Saturday Night",
+        "April 4",
+        "Sunset",
+        "Twilight End",
+        "Moon Rise",
+        "Pacific Daylight Time",
+        "Board of Directors",
+        "Association Officers",
+        "Officer Election"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-astro-ads",
+      "documentId": "eph92-04",
+      "title": "ASTRO ADS",
+      "summary": "This document outlines 'ASTRO ADS,' a free classified advertisement service for noncommercial advertisers to sell astronomically related products or services. It specifies submission deadlines and provides contact information for placing ads. The content features several individual listings for used astronomical equipment, such as telescopes, eyepieces, digital setting circles, and even an IBM PC computer, all offered for sale.",
+      "categories": [
+        "classifieds",
+        "buy/sell",
+        "astronomical equipment",
+        "community notices"
+      ],
+      "keywords": [
+        "astronomy ads",
+        "used equipment",
+        "telescopes",
+        "eyepieces",
+        "star diagonal",
+        "Celestron",
+        "Lumicon",
+        "Teleview",
+        "Meade",
+        "Orion",
+        "digital setting circles",
+        "astronomy software",
+        "IBM PC",
+        "sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-celestron-c8-schmidt-cassigrain",
+      "documentId": "eph92-04",
+      "title": "Celestron C8 Schmidt - Cassigrain.",
+      "summary": "This article functions as a classifieds section from early 1992, listing various used astronomical equipment for sale. Items include several Celestron telescopes (C8, C5, Cometron 60mm RFT), a Celestron Schmidt Camera, Coulter mirrors, and a range of accessories like eyepieces, mounts, finderscopes, camera adapters, and a Lumicon guider. Each listing provides a description, price, and contact information for the seller.",
+      "categories": [
+        "Classifieds",
+        "Used Equipment",
+        "Astronomy Equipment",
+        "Telescopes & Accessories",
+        "Vintage Equipment"
+      ],
+      "keywords": [
+        "Celestron C8",
+        "Schmidt-Cassegrain",
+        "Schmidt Camera",
+        "Coulter Mirrors",
+        "Telescopes",
+        "Mounts",
+        "Eyepieces",
+        "Finderscope",
+        "Lumicon Easy-Guider",
+        "Camera Adapters",
+        "Barlow",
+        "For Sale",
+        "Astronomy Gear"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-members-please-take-note-membership-dues-will-increase-to-12-on-july-1st-this-is-the-first-increase-in-10-years",
+      "documentId": "eph92-04",
+      "title": "Members Please Take Note: Membership dues will increase to $12- on July 1st This is the first increase in 10 years",
+      "summary": "Members of the organization are notified that membership dues will increase to $12, effective July 1st. This marks the first increase in membership fees in a decade. The announcement was published in the 'EPHEMERIS' on April 1992.",
+      "categories": [
+        "Announcement",
+        "Membership",
+        "Administrative Update",
+        "News"
+      ],
+      "keywords": [
+        "Membership dues",
+        "Dues increase",
+        "$12",
+        "July 1st",
+        "Organization fees",
+        "1992"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-04-a-plea-for-assistance",
+      "documentId": "eph92-04",
+      "title": "A plea for assistance",
+      "summary": "SJAA is requesting slide photographs to create an alternative educational presentation for younger students attending school star parties. These slides, focusing on the solar system and universe, would be used when outdoor observing sessions are canceled due to weather, aiming to inspire young minds. Individuals interested in contributing should contact Jack Zelders, Jack Peterson, or Jim Van Nuland.",
+      "categories": [
+        "Outreach",
+        "Education",
+        "Request for Resources",
+        "Community Support"
+      ],
+      "keywords": [
+        "SJAA",
+        "Public education",
+        "Star parties",
+        "School outreach",
+        "Slide show",
+        "Photographs",
+        "Solar system",
+        "Universe",
+        "Student engagement",
+        "Weather alternatives"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-directions-to-houge-park-site-of-sjaa-public-star-party",
+      "documentId": "eph92-04",
+      "title": "Directions to Houge Park Site of SJAA Public Star Party",
+      "summary": "This document provides detailed driving directions to Houge Park, the location for a San Jose Astronomical Association (SJAA) Public Star Party. It includes instructions from various major roads and specifies parking arrangements, noting that vehicles with telescopes can park on the basketball court and park lights will be turned off for the event.",
+      "categories": [
+        "Events",
+        "Directions",
+        "Logistics",
+        "Public Outreach",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Houge Park",
+        "SJAA",
+        "Public Star Party",
+        "directions",
+        "astronomy event",
+        "parking",
+        "telescopes",
+        "San Jose Astronomical Association",
+        "star gazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-comet-contents",
+      "documentId": "eph92-04",
+      "title": "Comet Contents",
+      "summary": "This article, \"Comet Contents\" by Don Machholz, provides an update on observable comets, noting no recent discoveries or recoveries. It highlights two comets visible in the morning sky: Comet Shoemaker-Levy (1991d), which remains a telescopic object, and Comet Mueller (1991h₁), which is expected to be brighter initially but dim rapidly after its March 21 perihelion. Detailed ephemerides, including celestial coordinates, elongation, sky visibility, and magnitude, are provided for both comets from late March through early May.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Data",
+        "Comets",
+        "Ephemerides"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Shoemaker-Levy 1991d",
+        "Comet Mueller 1991h₁",
+        "Ephemerides",
+        "Observational astronomy",
+        "Morning sky",
+        "Magnitude",
+        "Perihelion",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-04-time-again-for-the-great-sjaa-auction",
+      "documentId": "eph92-04",
+      "title": "TIME AGAIN FOR THE GREAT SJAA AUCTION",
+      "summary": "The San Jose Astronomical Association (SJAA) is holding its annual auction on May 2nd at Houge Park, starting at 2:00 PM. Members and attendees are encouraged to bring items for sale, including 'good stuff' and 'white elephants,' as well as funds for purchasing. More information is available via the SJAA hotline or Jim Van Nuland.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Fundraiser",
+        "Announcement"
+      ],
+      "keywords": [
+        "SJAA Auction",
+        "Auction",
+        "May 2nd",
+        "Houge Park",
+        "White Elephants",
+        "Fundraiser",
+        "SJAA"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-04-san-jose-astronomical-association-membership",
+      "documentId": "eph92-04",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), detailing different membership types, their annual costs, and payment instructions. It also provides guidelines for submitting articles to the monthly \"EPHEMERIS\" newsletter, along with various contact details for the association, including a 24-hour information hotline.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Newsletter",
+        "Contact Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "EPHEMERIS",
+        "Astronomy",
+        "Newsletter",
+        "Dues",
+        "San Jose",
+        "Milpitas",
+        "Sky & Telescope",
+        "April 1992"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9204/Eph92_04.pdf",
+      "txtPath": "9204/Eph92_04.md"
+    }
+  ]
+}

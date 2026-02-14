@@ -1,0 +1,957 @@
+{
+  "articles": [
+    {
+      "id": "eph97-12-the-best-three-hours-of-my-astronomical-life",
+      "documentId": "eph97-12",
+      "title": "THE BEST THREE HOURS OF MY ASTRONOMICAL LIFE",
+      "summary": "The article recounts Bill Arnett's experience preparing to observe a grazing occultation of Saturn by the Moon on September 17, 1997. Despite highly ambiguous weather forecasts and his friends giving up, Arnett made the last-minute decision to pursue the observation, packing his 12\" LX200 telescope and heading to Henry Coe State Park. He considers this decision one of the best of his astronomical life.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Astronomical Event",
+        "Planning"
+      ],
+      "keywords": [
+        "Grazing occultation",
+        "Saturn",
+        "Moon",
+        "Observation",
+        "Weather forecast",
+        "Henry Coe State Park",
+        "LX200 telescope",
+        "Bill Arnett",
+        "1997"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph97-12-december",
+      "documentId": "eph97-12",
+      "title": "DECEMBER",
+      "summary": "The document outlines a schedule of astronomy events for December, including multiple star parties at Houge Park and Fremont Peak. It also details a general meeting featuring speaker Bob Garfinkle, who will discuss observing dark haloed craters on the Moon, and notes one star party cancellation due to a holiday.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "December",
+        "Star Party",
+        "Houge Park",
+        "Fremont Peak",
+        "General Meeting",
+        "Bob Garfinkle",
+        "Moon",
+        "Dark Haloed Craters",
+        "Astronomy Schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-january",
+      "documentId": "eph97-12",
+      "title": "JANUARY",
+      "summary": "This document outlines the January schedule for an astronomy organization, featuring two star parties at Houge Park, one at Fremont Peak, a general meeting with a presentation on Hubble Space Telescope discoveries, and a beginning astronomy class. It also includes sunset and moon phase details for the star parties, a note on insurance coverage, and contact information.",
+      "categories": [
+        "Events Calendar",
+        "Observing Events",
+        "Meetings",
+        "Education"
+      ],
+      "keywords": [
+        "January",
+        "Star Party",
+        "Houge Park",
+        "Fremont Peak",
+        "General Meeting",
+        "Hubble Space Telescope",
+        "Astronomy Class",
+        "Sunset",
+        "Moon Phases",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-the-celestial-tourist-speaks",
+      "documentId": "eph97-12",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "Jay Freeman, in his 'Celestial Tourist' column, shares an anecdote about an astro bumper sticker and provides a critical review of commercial binoviewers. He highlights a significant design flaw in binoviewers: the absence of fine individual eye focus adjustment, which he argues makes them difficult to set up, inconvenient to share, and ultimately not market-ready.",
+      "categories": [
+        "Opinion",
+        "Equipment Review",
+        "Amateur Astronomy",
+        "Column"
+      ],
+      "keywords": [
+        "Jay Freeman",
+        "Celestial Tourist",
+        "Binoviewers",
+        "Astro Bumper Stickers",
+        "Telescope Accessories",
+        "Equipment Faults",
+        "Focus Adjustment",
+        "Amateur Astronomy Equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph97-12-the-best-from-p-1",
+      "documentId": "eph97-12",
+      "title": "The Best, from p. 1",
+      "summary": "The author recounts their journey to Fremont Peak to observe a total occultation, battling initial cloud cover to find clear skies. There, they joined fellow astronomers William Phelps and Paul Mortfield, setting up telescopes and even a video recording system. A significant highlight was the author's highly positive experience trying a Zeiss/AP binoviewer, which provided an \"eyegasm\" view of the Moon and Saturn.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Event",
+        "Equipment Experience",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Occultation",
+        "Moon",
+        "Saturn",
+        "Binoviewer",
+        "Astrophysics refractor",
+        "LX200",
+        "Observing conditions",
+        "Cassini's division",
+        "Vallis Snellius",
+        "Petavius"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-12-the-best-from-p-2",
+      "documentId": "eph97-12",
+      "title": "The Best, from p. 2",
+      "summary": "This article recounts an amateur astronomer's profound observing session, starting with an \"unbelievable experience\" viewing the Moon and planets through a high-quality 12-inch telescope. The highlight was a stunning grazing occultation of Saturn by the Moon, detailed with observations of Saturn's moons and Cassini's division, despite challenging contrast conditions. The author expresses the immense emotional impact and unforgettable nature of witnessing this rare celestial event.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Event",
+        "Amateur Astronomy",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Grazing Occultation",
+        "Saturn",
+        "Moon",
+        "Telescope",
+        "Binoviewer",
+        "Cassini's Division",
+        "Titan",
+        "Rhea",
+        "Tethys",
+        "Lunar Limb",
+        "Planetary Observation",
+        "Optical Equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph97-12-on-the-occultation-of-aldebaran",
+      "documentId": "eph97-12",
+      "title": "On The Occultation Of Aldebaran...",
+      "summary": "The article details a personal observation of Aldebaran's occultation by the Moon, made through a 127 ED telescope at 228x. The observer noted the star's disappearance was instantaneous, a contrast to a previous occultation where it took a noticeable fraction of a second to vanish.",
+      "categories": [
+        "observing report",
+        "astronomical observation",
+        "celestial event"
+      ],
+      "keywords": [
+        "Aldebaran",
+        "occultation",
+        "Moon",
+        "telescope",
+        "alpha Tauri"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-on-thing-that-go-bump",
+      "documentId": "eph97-12",
+      "title": "On Thing That Go Bump ...",
+      "summary": "The author recounts a nighttime experience in a state park, hearing noises and using a red flashlight to look for eyes in the dark. What was initially thought to be a fence post turned out to be a deer, leading to a humorous observation about its appearance. The narrative captures the mysterious atmosphere of observing wildlife at night.",
+      "categories": [
+        "personal anecdote",
+        "nature observation",
+        "wildlife encounter",
+        "humor"
+      ],
+      "keywords": [
+        "nighttime",
+        "state park",
+        "flashlight",
+        "deer",
+        "wildlife",
+        "humorous encounter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-on-the-90mm-vixen-refractor",
+      "documentId": "eph97-12",
+      "title": "On The 90mm Vixen Refractor ...",
+      "summary": "The author expresses profound attachment to their 90mm Vixen refractor, stating it is the only telescope they would never consider selling. They humorously recounted a past encounter with the original owner, jokingly telling him he couldn't have it back, emphasizing their strong appreciation for the instrument.",
+      "categories": [
+        "equipment review",
+        "personal experience",
+        "telescope review"
+      ],
+      "keywords": [
+        "Vixen refractor",
+        "90mm telescope",
+        "telescope review",
+        "astronomical equipment",
+        "personal ownership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-on-telescope-weight",
+      "documentId": "eph97-12",
+      "title": "On telescope weight ...",
+      "summary": "The author argues that excess telescope weight, exemplified by Takahashi and Astro-Physics models, is a significant flaw. This is because it either demands heavier mounts for stability or worsens vibration issues, making lighter constructions like Vixens potentially preferable.",
+      "categories": [
+        "Telescope Equipment",
+        "Opinion",
+        "Mounting"
+      ],
+      "keywords": [
+        "Telescope weight",
+        "Vixen",
+        "Takahashi",
+        "Astro-Physics",
+        "Mount stability",
+        "Vibration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-jim-van-nuland",
+      "documentId": "eph97-12",
+      "title": "Jim Van Nuland",
+      "summary": "This report details recent activities of the SJAA's school star party program. One event at Overfelt Gardens on Sept. 14 was cancelled due to clouds, but an Ice Cream Social at Taylor School on Sept. 19 was a success, allowing hundreds of kids to view celestial objects like Venus, Jupiter, Saturn, and the Moon. The author, Jim Van Nuland, concludes with a call for volunteers for upcoming events on Oct. 23 and Nov. 4, noting that expertise is not required.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Volunteer Opportunity",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Jim Van Nuland",
+        "SJAA",
+        "School star party program",
+        "Ice Cream Social",
+        "Astronomy",
+        "Telescopes",
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Moon",
+        "Open clusters",
+        "Volunteers",
+        "Public outreach"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-activities-through-other-clubs",
+      "documentId": "eph97-12",
+      "title": "ACTIVITIES THROUGH OTHER CLUBS",
+      "summary": "The article announces that TAC has reserved the Montebello observing site indefinitely for every Wednesday, contingent on weather conditions. It provides clear directions to the site, instructing members to take Page Mill Road off 280 or El Monte Road.",
+      "categories": [
+        "Club News",
+        "Observing Sites",
+        "Events",
+        "Logistics"
+      ],
+      "keywords": [
+        "TAC",
+        "Montebello",
+        "Observing site",
+        "Wednesday",
+        "Site reservation",
+        "Directions",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-december",
+      "documentId": "eph97-12",
+      "title": "December",
+      "summary": "The article outlines three key astronomy-related events scheduled for December: a lunar observing session on the 6th, the PAS Annual Meeting on the 12th which includes board elections and a presentation by Dr. Simon Clement on extraterrestrial objects, and an HVAG Starparty at Grant Ranch on the 27th.",
+      "categories": [
+        "Events",
+        "Astronomy Events",
+        "Meetings",
+        "Announcements",
+        "Calendar"
+      ],
+      "keywords": [
+        "December",
+        "lunar observing",
+        "PAS Annual Meeting",
+        "board elections",
+        "Dr. Simon Clement",
+        "extraterrestrial objects",
+        "martian meteorite",
+        "HVAG Starparty",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-astro-ads",
+      "documentId": "eph97-12",
+      "title": "ASTRO ADS",
+      "summary": "This section features astronomy-related classified advertisements, specifically listing an encoder and hardware package for a G-11 mount, and an Edmund Astroscan telescope for sale. It also provides instructions for noncommercial advertisers to submit free, astronomy-related ads, which run for one month unless an extension is requested.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Sales",
+        "Community Service Announcement"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Astronomy equipment for sale",
+        "Encoder",
+        "G-11 mount",
+        "Edmund Astroscan",
+        "Telescope",
+        "Noncommercial advertising",
+        "December 1997"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph97-12-david-north",
+      "documentId": "eph97-12",
+      "title": "David North",
+      "summary": "This article outlines significant astronomical events and observing opportunities for December, including improved lunar viewing conditions, maximum librations, and several occultations involving Saturn and Aldebaran. It also details planetary observations for Venus and Jupiter, discusses the prominent Geminid and Ursid meteor showers, and announces the launch of a new mailing list, 'The Shallow Sky,' for solar system observers.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "News",
+        "Lunar Observing",
+        "Planetary Observing",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar libration",
+        "Occultation",
+        "Saturn",
+        "Aldebaran",
+        "Venus",
+        "Jupiter",
+        "Geminids",
+        "Ursids",
+        "Meteor showers",
+        "The Shallow Sky",
+        "December astronomy",
+        "Asteroid 3200 Phaethon",
+        "Comet Tuttle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-jay-freeman",
+      "documentId": "eph97-12",
+      "title": "Jay Freeman",
+      "summary": "This article discusses the optical performance differences between refracting and reflecting surfaces, particularly in the context of star diagonals for telescopes. It notes that while refractors are less prone to wavefront errors from surface irregularities, prisms introduce spherical and chromatic aberration, especially with larger sizes and faster f-numbers. The recommendation is to use prism diagonals for long-focus systems (f/9 or more) or high-tech mirror diagonals, but mirror diagonals are generally preferred for fast refractors to maximize detail.",
+      "categories": [
+        "Technical",
+        "Equipment Review/Advice",
+        "Optics"
+      ],
+      "keywords": [
+        "refracting surfaces",
+        "reflecting surfaces",
+        "wavefront error",
+        "prisms",
+        "mirror diagonals",
+        "spherical aberration",
+        "chromatic aberration",
+        "f-number",
+        "Rayleigh limit",
+        "star diagonals",
+        "telescope optics"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph97-12-bill-arnett",
+      "documentId": "eph97-12",
+      "title": "Bill Arnett",
+      "summary": "An amateur astronomer successfully observed Io's shadow transiting Jupiter during daytime hours on October 27th at 4:30 PM PST. Using a 12\" LX200 telescope, the observer overcame initial challenges with equipment and poor seeing conditions to confirm the visibility of the shadow, despite it being a difficult observation compared to Jupiter's distinct equatorial bands.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Planetary Observation"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Io",
+        "Shadow Transit",
+        "Daytime Observation",
+        "Telescope",
+        "LX200",
+        "Binoviewer",
+        "Eyepieces",
+        "Amateur Astronomer",
+        "Seeing Conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-david-north",
+      "documentId": "eph97-12",
+      "title": "David North",
+      "summary": "The article discusses the upcoming February elections for the Board of Directors, with four open seats and several active members nominated. It also announces the January speaker, Al Stern, discussing Hubble discoveries, and the March speaker, Don Machholtz, explaining the Messier Marathon. Additional mentions include an astronomy classifieds service and a humorous observation about a constellation.",
+      "categories": [
+        "Club News",
+        "Elections",
+        "Events",
+        "Meeting Announcements",
+        "Community Services"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Elections",
+        "Nominations",
+        "SJAA",
+        "Al Stern",
+        "Hubble Space Telescope",
+        "Don Machholtz",
+        "Messier Marathon",
+        "Astro Bumper Sticker",
+        "Bay Area Astronomy Classifieds",
+        "Capricornus"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph97-12-lunar-phases",
+      "documentId": "eph97-12",
+      "title": "Lunar Phases",
+      "summary": "This document presents a detailed table outlining the key astronomical data for the four primary lunar phases. It provides specific times, dates, rise times, transit times, and declination for the First Quarter, Full Moon, Last Quarter, and New Moon. All listed times are given in Pacific Standard Time (PST), offering a clear schedule for lunar observations.",
+      "categories": [
+        "Astronomical Data",
+        "Lunar Calendar",
+        "Observing Information"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "PST",
+        "Astronomical Events",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-mercury",
+      "documentId": "eph97-12",
+      "title": "Mercury",
+      "summary": "This document provides astronomical ephemeris data for the planet Mercury for three distinct dates. It includes Mercury's distance from the Sun (0.67 AU) and apparent magnitude (Mag. 20), alongside rise, transit, and set times. Additionally, it lists the planet's Right Ascension and Declination coordinates for each specified date.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Planetary Data",
+        "Observing Information"
+      ],
+      "keywords": [
+        "Mercury",
+        "Ephemeris",
+        "Astronomical data",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Right Ascension",
+        "Declination",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-venus",
+      "documentId": "eph97-12",
+      "title": "Venus",
+      "summary": "This document provides an ephemeris for Venus, detailing its astronomical data for three specific dates. It includes Venus's distance from Earth (0.37 A.U.), magnitude (-5.3), and its rise, transit, and set times, along with its Right Ascension and Declination for the 7th, 17th, and 27th.",
+      "categories": [
+        "Ephemeris",
+        "Planetary Data",
+        "Observing Aid",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Venus",
+        "Ephemeris",
+        "Planetary Positions",
+        "Rise Time",
+        "Set Time",
+        "Transit",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical Unit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-mars",
+      "documentId": "eph97-12",
+      "title": "Mars",
+      "summary": "This document provides current astronomical data for Mars, including its distance (1.08 A.U.) and visual magnitude (+0.9). It also features an ephemeris table for three specific dates, detailing Mars's rise, transit, and set times, alongside its Right Ascension and Declination. This information is crucial for observers tracking the planet's position and visibility.",
+      "categories": [
+        "Observing Data",
+        "Ephemeris",
+        "Planetary Astronomy",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Mars",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Rise Time",
+        "Transit Time",
+        "Set Time",
+        "Astronomical Unit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-jupiter",
+      "documentId": "eph97-12",
+      "title": "Jupiter",
+      "summary": "This document provides an ephemeris for Jupiter, detailing its observational data for three specific dates. It includes Jupiter's distance (5.54 A.U.) and apparent magnitude (-2.1), along with its rise, transit, and set times. Additionally, the right ascension and declination coordinates are listed for each date, making it a guide for locating and observing the planet.",
+      "categories": [
+        "observing guide",
+        "astronomy data",
+        "ephemeris",
+        "planetary data"
+      ],
+      "keywords": [
+        "Jupiter",
+        "ephemeris",
+        "observational astronomy",
+        "rise time",
+        "transit time",
+        "set time",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "astronomical units"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-saturn",
+      "documentId": "eph97-12",
+      "title": "Saturn",
+      "summary": "This document provides an astronomical ephemeris for Saturn, detailing its distance, magnitude, and daily rise, transit, and set times, along with its right ascension and declination for three specific dates. It also includes similar tabular data for another celestial object, possibly related to 'SOL Star Type G2V', listing hours of darkness and daily position data.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Observing Data",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Saturn",
+        "Ephemeris",
+        "Astronomical Data",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Rise Time",
+        "Transit Time",
+        "Set Time",
+        "Hours of Darkness",
+        "SOL",
+        "Planetary Positions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-astronomical-twilight",
+      "documentId": "eph97-12",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a tabular listing of \"Astronomical Twilight\" begin and end times, identified by specific Julian Dates. It provides precise daily time windows, indicating when the sky is dark enough for astronomical observations. This information serves as a practical reference for astronomers.",
+      "categories": [
+        "Astronomical Data",
+        "Reference",
+        "Observing Aids",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "twilight times",
+        "astronomy",
+        "observing schedule",
+        "celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-siderealtime",
+      "documentId": "eph97-12",
+      "title": "Siderealtime",
+      "summary": "This document presents a concise table illustrating the relationship between 'Local Midnight' on specific dates (07, 17, 27) and the corresponding 'Transit Right Ascension' values. It appears to be a reference table for understanding or calculating sidereal time.",
+      "categories": [
+        "Astronomy",
+        "Technical",
+        "Reference Data",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Sidereal time",
+        "Right Ascension",
+        "Transit",
+        "Local Midnight",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-darkest-saturday-night",
+      "documentId": "eph97-12",
+      "title": "Darkest Saturday Night",
+      "summary": "The article titled 'Darkest Saturday Night' provides a concise table of astronomical timings for December 27, 1997. It lists the times for sunset, the end of twilight, moonset, and the beginning of dawn, indicating periods of optimal darkness. This information is crucial for planning stargazing or astronomical observation activities on that specific date.",
+      "categories": [
+        "Astronomy",
+        "Observing Conditions",
+        "Almanac"
+      ],
+      "keywords": [
+        "Darkness",
+        "Night Sky",
+        "Sunset",
+        "Moonset",
+        "Twilight",
+        "Astronomical Timings",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-directions-to-sjaa-places",
+      "documentId": "eph97-12",
+      "title": "DIRECTIONS TO SJAA PLACES",
+      "summary": "This document provides detailed driving directions to three key locations associated with the San Jose Astronomical Association (SJAA): Houge Park, Henry Coe State Park, and Fremont Peak State Park. It includes specific highway exits, road names, turns, and distances, along with notes about fees or specific meeting spots within the parks.",
+      "categories": [
+        "Directions",
+        "Logistics",
+        "Guides",
+        "Observing Sites"
+      ],
+      "keywords": [
+        "SJAA",
+        "Directions",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "San Jose",
+        "Morgan Hill",
+        "San Juan Bautista",
+        "Astronomy Sites",
+        "Driving Guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-bob-garfinkle-on-moon-observation",
+      "documentId": "eph97-12",
+      "title": "BOB GARFINKLE ON MOON OBSERVATION",
+      "summary": "Bob Garfinkle is scheduled as the speaker for the San Jose Astronomical Association's December meeting, where he will discuss how to observe and locate dark haloed craters on the Moon. Garfinkle, who is writing a lunar observers' handbook and has authored and co-authored several astronomy books including \"Star-Hopping,\" will also share history from the ALPO dark haloed crater survey. Attendees are encouraged to bring copies of his books for signing.",
+      "categories": [
+        "Event Announcement",
+        "Observing Guide",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Bob Garfinkle",
+        "Moon observation",
+        "Dark haloed craters",
+        "SJAA",
+        "December meeting",
+        "Lunar observing handbook",
+        "Star-Hopping",
+        "ALPO",
+        "Astronomy talk"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph97-12-don-machiholz",
+      "documentId": "eph97-12",
+      "title": "Don Machiholz",
+      "summary": "The article reports on recent comet discoveries, including a faint one by Jeff Larson and two sungrazers by SOHO. It also lists several comets currently visible, such as Hale-Bopp, Comet Hartley 2, and the returning Periodic Comet Temple-Tuttle. Additionally, it provides statistics on visual comet discoverers since 1975, highlighting Japan, USA, and Australia as leading countries.",
+      "categories": [
+        "Comets",
+        "Astronomical News",
+        "Observing Reports",
+        "Astronomy Statistics"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Sungrazer comets",
+        "SOHO satellite",
+        "Kitt Peak",
+        "Jeff Larson",
+        "Comet Hale-Bopp",
+        "Comet Meunier-Dupouy",
+        "Periodic Comet Hartley 2",
+        "Comet Utsunomiya",
+        "Periodic Comet Temple-Tuttle",
+        "Leonids Meteor Shower",
+        "Comet hunting",
+        "Astronomical observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-ephemerides-2000-0-0h-utc",
+      "documentId": "eph97-12",
+      "title": "Ephemerides 2000.0, 0h UTC",
+      "summary": "This document provides detailed ephemerides for five comets: C/1995 O1 (Hale-Bopp), C/1997 J2 (Meunier-Dupouy), C/1997 T1 (Utsunomiya), 103P/Hartley 2, and 55P/Tempel-Tuttle. For each comet, tabular data is presented for dates between November 2000 and early January 2001 at 0h UTC, including their Right Ascension, Declination, Elongation, sky visibility (Morning or Evening), and apparent magnitude.",
+      "categories": [
+        "Astronomical Data",
+        "Comet Ephemerides",
+        "Observing Information",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet",
+        "Hale-Bopp",
+        "Meunier-Dupouy",
+        "Utsunomiya",
+        "Hartley 2",
+        "Tempel-Tuttle",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Observation Planning",
+        "UTC"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-orbital-elements",
+      "documentId": "eph97-12",
+      "title": "Orbital Elements",
+      "summary": "This document presents a detailed table of orbital elements for five celestial objects, including prominent comets such as Hale-Bopp, Hartley 2, and Tempel-Tuttle. For each object, parameters like perihelion date and distance, orbital inclination, eccentricity, and period are listed, with references to Minor Planet Center circulars. The data, dated December 1997, appears to be part of an SIAA Ephemeris publication.",
+      "categories": [
+        "Astronomy",
+        "Astrodynamics",
+        "Ephemeris",
+        "Technical Data",
+        "Cometology"
+      ],
+      "keywords": [
+        "Orbital elements",
+        "Comets",
+        "Hale-Bopp",
+        "Hartley 2",
+        "Tempel-Tuttle",
+        "Perihelion",
+        "Eccentricity",
+        "Orbital period",
+        "Astronomical data",
+        "Minor Planet Center"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph97-12-officers-and-board-of-directors",
+      "documentId": "eph97-12",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization, detailing their roles such as President, VP, Secretary, Treasurer, and Directors. Each individual's name is accompanied by a contact phone number, providing an internal directory of the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Leadership Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact Information",
+        "Organizational Structure",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-ephemeris-staff",
+      "documentId": "eph97-12",
+      "title": "Ephemeris Staff",
+      "summary": "This document lists the key staff members responsible for the 'Ephemeris' publication, including the editor, circulation managers, and layout personnel. Contact numbers are provided for the editor and circulation staff.",
+      "categories": [
+        "Staff Listing",
+        "Administrative",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "staff",
+        "editor",
+        "circulation",
+        "layout",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-mike-koop",
+      "documentId": "eph97-12",
+      "title": "Mike Koop",
+      "summary": "This document outlines a telescope loan program, presumably managed by Mike Koop for the San Jose Astronomical Association (SJAA). It details various astronomical telescopes currently borrowed by members, including scope type, borrower's name, and due date. The list also indicates available equipment, a waiting list for specific scopes, and provides contact information for members to reserve an instrument.",
+      "categories": [
+        "Equipment Loan Program",
+        "Club Resources",
+        "Astronomy Equipment Management",
+        "Member Services"
+      ],
+      "keywords": [
+        "Mike Koop",
+        "Telescope Loan",
+        "Astronomical Equipment",
+        "SJAA",
+        "Borrowing",
+        "Observing Equipment",
+        "Waiting List",
+        "Refractor",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "Newtonian"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-periodical-publication-statement",
+      "documentId": "eph97-12",
+      "title": "PERIODICAL PUBLICATION STATEMENT",
+      "summary": "The document is a periodical publication statement for the \"SJAA Ephemeris,\" the official newsletter of the San Jose Astronomical Association. It confirms that the newsletter is published monthly, 12 times a year, covering January through December. The statement also includes the full mailing address for the San Jose Astronomical Association.",
+      "categories": [
+        "publication information",
+        "club administration",
+        "official statement"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "publication",
+        "monthly",
+        "periodical",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-12-submit",
+      "documentId": "eph97-12",
+      "title": "SUBMIT",
+      "summary": "This article encourages members to submit articles for publication in the *SJAA Ephemeris* newsletter. Submissions should be sent via email to Dave North by the tenth of each month to be included in the following month's issue. Authors are requested to include their name and phone number with their article.",
+      "categories": [
+        "Newsletter Announcement",
+        "Call for Submissions",
+        "Community News",
+        "Editorial/Publication Guidelines"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "Article submission",
+        "Newsletter",
+        "Call for articles",
+        "Publication guidelines",
+        "Members",
+        "Dave North",
+        "December 1997"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph97-12-san-jose-astronomical-association-membership-form",
+      "documentId": "eph97-12",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is the membership form for the San Jose Astronomical Association (SJAA), detailing membership fees ($15 for regular, $6 for junior) and an optional Sky & Telescope subscription for an additional $27. It provides instructions for submitting the form and payment (checks payable to \"SJAA\") either at a meeting or by mail to the treasurer, Bob Elsberry. The form also includes the association's mailing address and contact details.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizations",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Fees",
+        "Sky and Telescope",
+        "Subscription",
+        "Renewal",
+        "Junior Membership",
+        "Treasurer",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph97-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9712/Eph97_12.pdf",
+      "txtPath": "9712/Eph97_12.md"
+    }
+  ]
+}

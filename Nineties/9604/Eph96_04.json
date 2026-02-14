@@ -1,0 +1,463 @@
+{
+  "articles": [
+    {
+      "id": "eph96-04-eye-on-the-universe",
+      "documentId": "eph96-04",
+      "title": "Eye on the Universe",
+      "summary": "This article, \"Eye on the Universe,\" details recent San Jose Astronomical Association (SJAA) activities, including a past talk on a total solar eclipse in India and new club officer elections. It announces a revised set of club bylaws that will be voted on in July and provides information on the upcoming 16th Annual Bay Area Astronomical Auction and Swap Meet. Additionally, the document lists a comprehensive schedule of general meetings, star parties, and observational astronomy classes for April and May.",
+      "categories": [
+        "Club Announcements",
+        "Events Calendar",
+        "Observing Reports",
+        "Governance",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Club elections",
+        "Bylaws revision",
+        "Astronomical auction",
+        "Swap meet",
+        "Star parties",
+        "General meetings",
+        "Observational astronomy",
+        "SJAA",
+        "Fremont Peak",
+        "Henry Coe State Park",
+        "Houge Park"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-04-mirror-mirror-part-1",
+      "documentId": "eph96-04",
+      "title": "Mirror, Mirror (part 1)",
+      "summary": "Doug Ferrell recounts his initial foray into making a telescope mirror, inspired by an urban astronomy outreach event and subsequent discovery of a telescope makers' workshop at Chabot Observatory and Science Center. He details the beginning of his project to craft a 10-inch f/5.2 paraboloid mirror for a Newtonian telescope, aiming to inspire others to try mirror making. This article serves as the first part of a series on his personal mirror-making journey.",
+      "categories": [
+        "Amateur Astronomy",
+        "DIY Astronomy",
+        "Personal Experience",
+        "Telescope Making",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Telescope mirror making",
+        "Newtonian telescope",
+        "10-inch f/5.2 paraboloid",
+        "Fremont Peak",
+        "Eastbay Astronomical Society",
+        "Chabot Observatory and Science Center",
+        "COSC",
+        "Oakland China Town",
+        "pyrex blank",
+        "grinding tool"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph96-04-on-the-wall-continued-from-page-1",
+      "documentId": "eph96-04",
+      "title": "On the Wall, continued from page 1",
+      "summary": "This article chronicles an amateur telescope maker's journey to craft a telescope mirror, highlighting the accessibility and resources of the Chabot workshop for aspiring builders. It meticulously describes the stages of mirror making—rough grinding, fine grinding, polishing, and figuring—detailing the necessary materials and the optical principles involved. The piece serves as a guide and an encouragement for individuals interested in the rewarding hobby of building their own telescopes.",
+      "categories": [
+        "Amateur Astronomy",
+        "DIY / Hobby",
+        "Technical Guide",
+        "Local Resources",
+        "Optics"
+      ],
+      "keywords": [
+        "Amateur Telescope Making (ATM)",
+        "mirror grinding",
+        "mirror polishing",
+        "Chabot workshop",
+        "telescope optics",
+        "optical figuring",
+        "grinding compound",
+        "pitch lap",
+        "focal length",
+        "Newtonian telescope"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph96-04-on-the-wall-continued-from-page-2",
+      "documentId": "eph96-04",
+      "title": "On the Wall, continued from page 2",
+      "summary": "This article details the critical 'figuring' stage of astronomical mirror making, where a spheroidal surface is refined into a paraboloidal shape to correct for spherical aberration and optimize image quality. It emphasizes the importance of precise polishing strokes and frequent testing to achieve the desired surface accuracy, explaining concepts like coma and wavefront errors. The author also provides recommendations for books on amateur telescope making and invites readers to the Chabot workshop.",
+      "categories": [
+        "Amateur Telescope Making",
+        "Optical Fabrication",
+        "Technical Guide",
+        "Hobbyist"
+      ],
+      "keywords": [
+        "Mirror making",
+        "Figuring",
+        "Paraboloid",
+        "Spheroid",
+        "Spherical aberration",
+        "Coma",
+        "Optical testing",
+        "Wavefront",
+        "Telescope making",
+        "Polishing",
+        "Chabot workshop"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph96-04-galileo-mission-status-march-14-1996",
+      "documentId": "eph96-04",
+      "title": "Galileo Mission Status March 14, 1996",
+      "summary": "On March 14, 1996, NASA's Galileo spacecraft successfully completed its third and final main engine firing, a crucial maneuver to set up its 11-orbit tour of Jupiter's system. This burn increased its orbital speed, oriented it for an 844-kilometer encounter with Ganymede on June 27, and significantly reduced future exposure to Jupiter's intense radiation belts. The spacecraft is now beginning its descent back towards Jupiter after reaching the farthest point in its orbit.",
+      "categories": [
+        "Space Mission Update",
+        "Astronomy News",
+        "Planetary Science",
+        "Mission Operations"
+      ],
+      "keywords": [
+        "Galileo Mission",
+        "Jupiter",
+        "Ganymede",
+        "Spacecraft",
+        "Engine burn",
+        "JPL",
+        "NASA",
+        "Radiation exposure",
+        "Jupiter system",
+        "Orbital maneuver",
+        "March 1996"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-04-march-1-1996",
+      "documentId": "eph96-04",
+      "title": "March 1, 1996",
+      "summary": "In February 1996, the Cassini spacecraft made significant progress with the installation of its first science instrument, the Radio and Plasma Wave Science Subsystem (RPWS), and the arrival and testing of numerous other instruments and subsystems at JPL. The mission also implemented a new remote data transfer system for science teams and advanced mission planning for Saturn's rings and Titan flybys. Furthermore, Cassini-developed technologies were adopted by other NASA projects, including NEAR and Mars Pathfinder, as the mission moved closer to its planned October 1997 launch.",
+      "categories": [
+        "Spacecraft Development",
+        "Mission Updates",
+        "Space Exploration",
+        "Instrument Integration",
+        "Technology Transfer",
+        "Science Planning"
+      ],
+      "keywords": [
+        "Cassini spacecraft",
+        "Saturn mission",
+        "Jet Propulsion Laboratory (JPL)",
+        "RPWS",
+        "Huygens Probe",
+        "Instrument integration",
+        "Spacecraft testing",
+        "Remote operations",
+        "NEAR spacecraft",
+        "Mars Pathfinder",
+        "Titan",
+        "NASA",
+        "Space launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-04-ulysses-mission-status",
+      "documentId": "eph96-04",
+      "title": "Ulysses Mission Status",
+      "summary": "The Ulysses spacecraft is successfully proceeding on its unprecedented journey out of the ecliptic plane, heading towards Jupiter with all operations and science experiments functioning well. Currently 45 degrees north of the Sun's equator, it is projected to reach Jupiter's distance by April 1998 before returning to the Sun for a second solar orbit over its poles, commencing in September 2000.",
+      "categories": [
+        "Mission Status",
+        "Space Exploration",
+        "Solar Physics",
+        "News",
+        "Spacecraft Operations"
+      ],
+      "keywords": [
+        "Ulysses spacecraft",
+        "Jupiter",
+        "Sun",
+        "ecliptic plane",
+        "solar orbit",
+        "NASA",
+        "Jet Propulsion Laboratory",
+        "tracking facilities",
+        "heliocentric velocity",
+        "solar poles"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph96-04-telescope-loaner-status",
+      "documentId": "eph96-04",
+      "title": "Telescope Loaner Status",
+      "summary": "This document, authored by Paul Barton, provides an updated status of various telescopes available through a loaner program. It details different telescope types and their current borrowers, due dates, or availability for use. Several telescopes are currently on loan, while others are available or in storage.",
+      "categories": [
+        "Equipment Management",
+        "Loaner Program",
+        "Astronomy Club/Organization",
+        "Inventory Status"
+      ],
+      "keywords": [
+        "Telescope loaner",
+        "Equipment availability",
+        "Telescope status",
+        "Astronomy equipment",
+        "Newtonian telescope",
+        "Dobsonian telescope",
+        "Schmidt-Cassegrain telescope",
+        "Borrower",
+        "Due date"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-04-eye-continued-from-page-1",
+      "documentId": "eph96-04",
+      "title": "Eye, continued from page 1",
+      "summary": "The Astronomical Society of the Pacific (ASP) is recruiting amateur and professional astronomers, along with advanced astronomy students, for Project ASTRO. This program matches participants with 4th-5th grade teachers in Bay Area schools to enhance science education, with a preferred application deadline of April 22nd. Additionally, the ASP's Universe '96 conference is scheduled to be held in Santa Clara.",
+      "categories": [
+        "Education",
+        "Outreach",
+        "Events",
+        "Call for Participation",
+        "News"
+      ],
+      "keywords": [
+        "Project ASTRO",
+        "Astronomical Society of the Pacific (ASP)",
+        "Astronomy education",
+        "Bay Area schools",
+        "Universe '96",
+        "Amateur astronomers",
+        "Professional astronomers",
+        "Santa Clara"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph96-04-officers-and-board-of-directors",
+      "documentId": "eph96-04",
+      "title": "Officers and Board of Directors",
+      "summary": "This document provides a directory of an organization's key personnel, detailing the Officers and Board of Directors with their respective positions, names, and phone numbers. It also lists contact information for Ephemeris Contributors and the Editor. Essentially, it serves as a contact roster for the leadership and contributors of the group.",
+      "categories": [
+        "Organizational",
+        "Administrative",
+        "Contact Information",
+        "Reference"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Editor",
+        "Contact List",
+        "Personnel",
+        "Organization Directory",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-04-astro-ads",
+      "documentId": "eph96-04",
+      "title": "Astro Ads",
+      "summary": "This document features 'Astro Ads,' a classified section for astronomically related products and services. It includes one specific advertisement for a used Odyssey 10.1\" telescope package with several accessories, priced at $450. The section also outlines the policy that ads are free for noncommercial advertisers.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomy equipment for sale"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "telescope for sale",
+        "used astronomy equipment",
+        "Odyssey 10.1\"",
+        "Telrad",
+        "TeleView Barlow",
+        "Plossl ocular",
+        "astronomy classifieds",
+        "noncommercial ads"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-04-moon-message",
+      "documentId": "eph96-04",
+      "title": "Moon Message",
+      "summary": "Around 1966, during Apollo mission training near Tuba City, Navajo Reservation, a Navajo sheep herder encountered NASA astronauts in lunar spacesuits. He asked to send a message to the moon, which was eventually translated after initial refusals, as a warning: \"Watch out for these guys, they come to take your land.\"",
+      "categories": [
+        "Anecdote",
+        "Cultural Story",
+        "Human Interest",
+        "Space History"
+      ],
+      "keywords": [
+        "NASA",
+        "Apollo mission",
+        "Moon training",
+        "Navajo Reservation",
+        "Tuba City",
+        "Astronauts",
+        "Indigenous culture",
+        "Cultural encounter",
+        "Land ownership",
+        "Jet Propulsion Laboratory"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph96-04-comet-comments-march-8-1996",
+      "documentId": "eph96-04",
+      "title": "COMET COMMENTS, March 8, 1996",
+      "summary": "This article from March 8, 1996, highlights five comets visible in the sky, with Comet Hyakutake (C/1996 B2) being the brightest in two decades and expected to be a naked-eye object through mid-April. Other comets like Szczepanski and Kopff are also mentioned. The author, Don Machholz, also promotes his newly published 82-page \"An Observer's Guide to Comet Hale-Bopp,\" offering maps and figures for astronomers of all levels, available for purchase.",
+      "categories": [
+        "observing report",
+        "astronomy news",
+        "comet observation",
+        "book announcement"
+      ],
+      "keywords": [
+        "Comet Hyakutake (C/1996 B2)",
+        "Comet Hale-Bopp",
+        "Comet Szczepanski",
+        "Periodic Comet Kopff",
+        "naked-eye object",
+        "Don Machholz",
+        "observer's guide",
+        "March 1996",
+        "comet visibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-04-ephemerides",
+      "documentId": "eph96-04",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for several comets, including C/1995 Y1 (Hyakutake), C/1995 O1 (Hale-Bopp), 22P/Kopff, C/1996 B1 (Szczepanski), and C/1996 B2 (Hyakutake). For each comet, the tables list their Right Ascension (R.A.), Declination (Dec), elongation (EL), and predicted apparent magnitude (SkyMag) for various dates between late March and early May.",
+      "categories": [
+        "Ephemerides",
+        "Comets",
+        "Astronomical Data",
+        "Observing Guides",
+        "Technical"
+      ],
+      "keywords": [
+        "comet",
+        "Hyakutake",
+        "Hale-Bopp",
+        "Kopff",
+        "Szczepanski",
+        "ephemerides",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "astronomy",
+        "orbital data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-04-elements",
+      "documentId": "eph96-04",
+      "title": "Elements",
+      "summary": "This document presents a table of orbital elements for five celestial objects, including comets Hyakutake (95Y1 & 96B2), Szczepanski, Hale-Bopp, and Kopff. It details critical orbital parameters such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period for each object. The data is sourced from publications like the Minor Planet Center (MPC) and Minor Planet Electronic Circulars (MPEC), and is contextualized with a reference to 'EPHEMERIS' for April 1996.",
+      "categories": [
+        "Technical",
+        "Astronomy",
+        "Orbital Data",
+        "Comets"
+      ],
+      "keywords": [
+        "orbital elements",
+        "comets",
+        "perihelion",
+        "eccentricity",
+        "inclination",
+        "Hale-Bopp",
+        "Hyakutake",
+        "astronomical data",
+        "ephemeris"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-04-directions-to-houge-park",
+      "documentId": "eph96-04",
+      "title": "Directions to HOUGE PARK",
+      "summary": "This document provides directions to Houge Park, featuring a map with surrounding streets. It also includes a registration form and new commission rules for the 1996 Bay Area Astronomical Auction, requesting participants to pre-register by mailing the form to Jim Van Nuland. The content appears to be part of an 'EPHEMERIS' publication from April 1996.",
+      "categories": [
+        "Location Information",
+        "Events",
+        "Fundraising",
+        "Astronomy Club Activity",
+        "Publication Content"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Directions",
+        "Map",
+        "1996 Bay Area Astronomical Auction",
+        "Registration",
+        "Auction Rules",
+        "Commission",
+        "Donation",
+        "EPHEMERIS",
+        "April 1996",
+        "Astronomy"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph96-04-san-jose-astronomical-association-membership-form",
+      "documentId": "eph96-04",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing membership fees ($15 for regular, $6 for junior) and an optional Sky and Telescope subscription add-on. It provides instructions for submitting the form and payment either by mail to the treasurer, Bob Elsberry, or in person at an SJAA meeting. The form also includes the association's mailing address and lists it as a non-profit organization, with a footer indicating an April 1996 date.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Information",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership form",
+        "Dues",
+        "Fees",
+        "Astronomy club",
+        "Non-profit",
+        "Contact information",
+        "1996"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph96-04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9604/Eph96_04.pdf",
+      "txtPath": "9604/Eph96_04.md"
+    }
+  ]
+}

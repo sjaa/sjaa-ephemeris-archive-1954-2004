@@ -1,0 +1,552 @@
+{
+  "articles": [
+    {
+      "id": "eph94-03-sjaa-ephemeris",
+      "documentId": "eph94-03",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA EPHEMERIS is the official publication of the San Jose Astronomical Association, specifically its March 1994 issue, Volume 5, Number 3. As an ephemeris, it likely contains astronomical data, events, and news relevant to the association and its members for that period.",
+      "categories": [
+        "Association Publication",
+        "Astronomical Data",
+        "News/Updates",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "Astronomical Publication",
+        "March 1994",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-the-eyepiece",
+      "documentId": "eph94-03",
+      "title": "The Eyepiece",
+      "summary": "This article provides updates and announcements for an astronomy club, starting with a correction on a collimating tool's sighting hole diameter. It details an upcoming CCD Imaging and Image Processing Conference and the club's annual Astronomy Swap and Auction. The article also introduces a new Borrowing Agreement for loaner telescopes due to equipment issues and lists numerous star parties, classes, and meetings in March and April, emphasizing member participation.",
+      "categories": [
+        "News",
+        "Events",
+        "Technical Advice",
+        "Club Operations",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Collimation",
+        "CCD Imaging",
+        "Image Processing",
+        "Astronomy Conference",
+        "Astronomy Auction",
+        "Swap Meet",
+        "Loaner Telescopes",
+        "Star Parties",
+        "Observational Astronomy",
+        "Club Meetings",
+        "Houge Park",
+        "Lawrence Hall of Science",
+        "Milpitas Library"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-03-eyepiece-advice",
+      "documentId": "eph94-03",
+      "title": "Eyepiece Advice",
+      "summary": "This article offers a comparative analysis of Televue Nagler, Plossl, and Panoptic eyepieces, detailing their respective strengths and weaknesses regarding field of view, light transmission, cost, and eye relief. It provides practical advice for amateur astronomers on choosing eyepieces, utilizing Barlow lenses effectively, and considering compatibility with different telescopes, along with a warning about cheap eyepiece screws.",
+      "categories": [
+        "Astronomy Equipment",
+        "Observing Advice",
+        "Product Review",
+        "Optics"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Televue",
+        "Nagler",
+        "Plossl",
+        "Panoptic",
+        "Barlow lens",
+        "Telescope accessories",
+        "Eye relief",
+        "Field of view",
+        "Observational astronomy",
+        "Telescope optics"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-03-julian-day-continued-from-page-2",
+      "documentId": "eph94-03",
+      "title": "Julian Day continued from page 2",
+      "summary": "This article explains the origin of the Julian Period, created by Joseph Justus Scaliger, based on the combination of three historical cycles: the 28-year Solar Cycle, the 19-year Golden Number cycle, and the 15-year Indiction cycle. This combination results in a 7980-year period, with Scaliger choosing 4713 B.C. (-4712) as its initial epoch. The text also clarifies common misconceptions, noting that Scaliger named the period after his father, not the Julian calendar, and that this dating system was not used before him nor intended to mark the Creation.",
+      "categories": [
+        "Chronology",
+        "History of Astronomy",
+        "Historical Figures",
+        "Technical Dating Systems"
+      ],
+      "keywords": [
+        "Julian Day",
+        "Julian Period",
+        "Scaliger",
+        "Joseph Justus Scaliger",
+        "Solar Cycle",
+        "Golden Number",
+        "Indiction Cycle",
+        "Epoch",
+        "4713 B.C.",
+        "Chronology"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-03-some-news-of-our-members",
+      "documentId": "eph94-03",
+      "title": "Some News of Our Members",
+      "summary": "This article provides updates on members, noting that Bob Fingerhut is recuperating at home after surgery for ruptured blood vessels in his head, having recently attended a general meeting. It also reports the passing of Dorthy Petri on January 11th, a friend of Paul Barton who enjoyed observing, and expresses hope that her husband, Jack, will continue to observe with the group. The editor encourages members to submit news of ill members for publication.",
+      "categories": [
+        "Member News",
+        "Community Updates",
+        "Obituary",
+        "Health Updates"
+      ],
+      "keywords": [
+        "Bob Fingerhut",
+        "Dorthy Petri",
+        "Member news",
+        "Health",
+        "Recovery",
+        "Passing",
+        "Obituary",
+        "Observing",
+        "Community"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-book-report",
+      "documentId": "eph94-03",
+      "title": "Book Report",
+      "summary": "Paul Barton reviews Stephen W. Hawking's \"A Brief History of Time,\" highly recommending it as an accessible guide to Einstein's Theory of Relativity and Astrophysics. The book simplifies complex concepts such as the Big Bang, Black Holes, and curved space in a readable, non-mathematical manner. Barton considers it a must-read for serious amateur astronomers, despite its age.",
+      "categories": [
+        "Book Review",
+        "Astronomy",
+        "Science Communication",
+        "Education"
+      ],
+      "keywords": [
+        "A Brief History of Time",
+        "Stephen W Hawking",
+        "Einstein's Theory of Relativity",
+        "Astrophysics",
+        "Big Bang",
+        "Black Holes",
+        "Event Horizons",
+        "Cosmology",
+        "Amateur Astronomy",
+        "Science Popularization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-satellites-continued-from-page-4",
+      "documentId": "eph94-03",
+      "title": "Satellites - Continued from page 4",
+      "summary": "This report provides a \"best estimate\" explanation for the ANIK satellite failures, attributing them to physical measurements and observed anomalies, and refutes claims by media and Telesat Canada about their exotic nature. It dismisses speculative predictions of recurrence based on coronal holes, highlighting the dramatic and unpredictable changes in solar disturbances over time. The authors aim to offer a technical solution and dispel false statements regarding the ANIK E1 and E2 incidents.",
+      "categories": [
+        "Technical Analysis",
+        "Satellite Operations",
+        "Space Weather",
+        "Solar Physics",
+        "Debunking Misinformation"
+      ],
+      "keywords": [
+        "ANIK satellites",
+        "satellite failure",
+        "coronal holes",
+        "solar disturbances",
+        "space weather",
+        "geoeffective events",
+        "solar rotation",
+        "technical report",
+        "Telesat Canada"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-03-satellites-and-large-solar-activity-what-happens",
+      "documentId": "eph94-03",
+      "title": "Satellites and Large Solar Activity: What Happens",
+      "summary": "On January 20, 1994, two Canadian ANIK E1 and E2 communications satellites in geosynchronous orbit experienced failures, affecting nationwide services. This report debunks initial claims attributing the damage to major solar flares or massive geomagnetic storms. Instead, the satellite anomalies were caused by elevated levels of high-energy electrons leading to deep-dielectric charging, likely accelerated by an enhanced solar wind stream originating from a solar coronal hole.",
+      "categories": [
+        "Space Weather",
+        "Satellite Anomalies",
+        "Solar Physics",
+        "Geomagnetism",
+        "Event Analysis"
+      ],
+      "keywords": [
+        "ANIK E1",
+        "ANIK E2",
+        "Satellite Failure",
+        "Geosynchronous Satellite",
+        "High-Energy Electrons",
+        "Deep-Dielectric Charging",
+        "Solar Coronal Hole",
+        "Solar Wind",
+        "Magnetosphere",
+        "Geomagnetic Field"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-03-april-23rd-1994",
+      "documentId": "eph94-03",
+      "title": "April 23rd, 1994",
+      "summary": "The San Jose Astronomical Association is hosting a Swap Meet and Auction on April 23rd, 1994, at Hogue Park near Hwy. 17 and Camden Ave. The event encourages attendees to bring unused items to swap or sell, with doors opening at 1:00 PM and the auction starting at 6:00 PM. This announcement, likely from the March 1994 \"Ephemeris\" publication, serves as a community event flyer.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Community Event",
+        "Astronomical Association Activity"
+      ],
+      "keywords": [
+        "Swap Meet",
+        "Auction",
+        "San Jose Astronomical Association",
+        "Hogue Park",
+        "San Jose",
+        "April 23, 1994",
+        "Community gathering",
+        "Fundraiser"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-03-directions-to-houge-park",
+      "documentId": "eph94-03",
+      "title": "Directions to HOUGE PARK",
+      "summary": "This document provides directions to Houge Park, likely for an event, and includes a registration form for the 1994 Bay Area Astronomical Auction, detailing how to register as a bidder and list items for sale. A portion of sales from the auction will benefit the SJAA. It also references 'EPHEMERIS' and is dated March 1994, suggesting it's part of a larger publication.",
+      "categories": [
+        "directions",
+        "event registration",
+        "astronomy",
+        "fundraiser",
+        "historical document"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Bay Area Astronomical Auction",
+        "1994",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "auction registration",
+        "directions",
+        "ephemeris",
+        "March 1994"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-03-ccd-imaging-and-image-processing",
+      "documentId": "eph94-03",
+      "title": "CCD IMAGING AND IMAGE PROCESSING",
+      "summary": "This document announces a one-day workshop on \"CCD Imaging and Image Processing\" held on March 26, 1994, at the Lawrence Hall of Science, UC Berkeley. The event aimed to educate amateur astronomers on the rapidly advancing field of CCD astrophotography, featuring expert speakers, product demonstrations, and practical tips on the latest cameras, equipment, and software. It highlighted how CCD technology was becoming more affordable and accessible for capturing astronomical images.",
+      "categories": [
+        "Event Announcement",
+        "Astronomy Workshop",
+        "Technical Education",
+        "Historical Event"
+      ],
+      "keywords": [
+        "CCD Imaging",
+        "Image Processing",
+        "Astrophotography",
+        "Astronomy",
+        "Workshop",
+        "Amateur Astronomy",
+        "CCD Cameras",
+        "Software",
+        "1994",
+        "Lawrence Hall of Science",
+        "John Sanford",
+        "Chris Tennant",
+        "John Westfall"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-03-astro-ads",
+      "documentId": "eph94-03",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classifieds section for noncommercial advertisers to buy and sell astronomically related products and services. The current listings feature a variety of used astronomical equipment, including telescopes, eyepieces, filters, cameras, binoculars, and astronomy magazines. Ads are published for approximately three months, with new submissions due by the 12th of each month.",
+      "categories": [
+        "classifieds",
+        "astronomical equipment",
+        "buy/sell/trade"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "classifieds",
+        "astronomical equipment",
+        "telescopes",
+        "eyepieces",
+        "observatory",
+        "binoculars",
+        "astronomy magazines",
+        "camera equipment",
+        "for sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-telescope-loaner-status",
+      "documentId": "eph94-03",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides a status update for a telescope loaner program, detailing the current availability or due dates of various telescopes, including Newtonian, Dobsonian, Quantum, and Celestron models. It also specifies a special solar telescope and outlines the process for members to borrow equipment or join a waiting list, managed by Paul Barton.",
+      "categories": [
+        "Club Information",
+        "Equipment Loaner Program",
+        "Resource Management"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Telescope availability",
+        "Astronomy club",
+        "Equipment lending",
+        "Dobsonian",
+        "Newtonian",
+        "Celestron",
+        "Solar telescope",
+        "Waiting list"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph94-03-march-1994",
+      "documentId": "eph94-03",
+      "title": "March 1994",
+      "summary": "This document provides astronomical data for March 1994, detailing lunar phases, rise/transit/set times for the Moon, Sun, and several planets (Mercury, Venus, Mars, Jupiter, Saturn). It also includes planetary distances and magnitudes, astronomical twilight times, and sidereal time. All times are specified as Pacific Daylight Time (PDT), with data derived from specific astronomical software and books.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Reference"
+      ],
+      "keywords": [
+        "March 1994",
+        "Lunar Phases",
+        "Planetary Data",
+        "Rise Set Times",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Pacific Daylight Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-offices-and-board-of-directors",
+      "documentId": "eph94-03",
+      "title": "Offices and Board of Directors",
+      "summary": "This document outlines the offices and board of directors, along with key contributors for \"Ephemeris,\" listing names, roles such as President, Vice President, Secretary, Treasurer, and Directors, and associated contact information. It also identifies individuals responsible for editing and distribution.",
+      "categories": [
+        "Organizational Information",
+        "Contact Information",
+        "Board of Directors",
+        "Personnel"
+      ],
+      "keywords": [
+        "Offices",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Leadership",
+        "Contact List",
+        "Organizational Structure",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-comet-comments",
+      "documentId": "eph94-03",
+      "title": "Comet Comments",
+      "summary": "Don Machholtz's \"Comet Comments\" provides an update on several visible comets, including Schwassmann-Wachmann 2, Tempel 1, McNaught-Russell, and Shoemaker-Levy 9. It highlights the photographic discovery of Periodic Comet Kushida (1994a) by Yoshio Kushida, detailing its characteristics and noting similarities to the Shoemakers' search methods. The article also mentions the potential for undiscovered fainter comets and the electronic availability of the \"Comet Comments\" issue via BBS.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comet Kushida (1994a)",
+        "Comet Discovery",
+        "Yoshio Kushida",
+        "Photographic Observation",
+        "Comet Shoemaker-Levy 9",
+        "Comet Schwassmann-Wachmann 2",
+        "Comet Tempel 1",
+        "Comet McNaught-Russell",
+        "Astronomical Search Programs",
+        "Kingmont Observatory BBS",
+        "Don Machholtz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-comet-shoemaker-levy-9",
+      "documentId": "eph94-03",
+      "title": "COMET SHOEMAKER-LEVY 9",
+      "summary": "This document provides an ephemeris for Comet Shoemaker-Levy 9, detailing its predicted celestial coordinates (Right Ascension and Declination), elongation, and estimated visual magnitude from late February to early April. The data indicates the comet would maintain a brightness around magnitude 11-12, suggesting it would be observable with amateur telescopes.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guide",
+        "Comets",
+        "Astronomy Data"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Levy 9",
+        "Comet",
+        "Ephemeris",
+        "Astronomical Coordinates",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-periodic-comet-tempel-1",
+      "documentId": "eph94-03",
+      "title": "PERIODIC COMET TEMPEL 1",
+      "summary": "This document provides an ephemeris for Periodic Comet Tempel 1, listing its geocentric coordinates (Right Ascension and Declination), elongation (EL), and predicted sky magnitude from late February to early April. The data serves as a guide for observers to locate and track the comet during this period, showing its movement and brightening trend.",
+      "categories": [
+        "observing guide",
+        "astronomy",
+        "cometary science",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Tempel 1",
+        "periodic comet",
+        "ephemeris",
+        "observing data",
+        "Right Ascension",
+        "Declination",
+        "sky magnitude",
+        "astronomical observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-comet-mcnaught-russell-1993v",
+      "documentId": "eph94-03",
+      "title": "COMET McNAUGHT-RUSSELL (1993v)",
+      "summary": "This document presents an ephemeris for Comet McNaught-Russell (1993v), providing critical data for its observation in early 1994. It lists the comet's predicted celestial coordinates (Right Ascension and Declination), elongation, and apparent sky magnitude for various dates between February 22 and April 8. This information, compiled by Don Machholtz, allows astronomers to locate and track the comet's movement and brightness.",
+      "categories": [
+        "Ephemeris",
+        "Comet Observation",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Comet McNaught-Russell",
+        "1993v",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Sky Magnitude",
+        "Comet",
+        "Astronomical positions",
+        "Observing data",
+        "Don Machholtz"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph94-03-san-jose-astronomical-association-membership",
+      "documentId": "eph94-03",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership tiers and their respective costs, including options for membership only, membership with a Sky & Telescope subscription, and a junior membership. The form provides fields for personal details and instructions for submission to the SJAA Treasurer.",
+      "categories": [
+        "Membership",
+        "Association Information",
+        "Application Form"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership",
+        "application",
+        "dues",
+        "astronomy club",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-03-make-checks-payable-to-sjaa",
+      "documentId": "eph94-03",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document, a page from the March 1994 \"EPHEMERIS\" newsletter, provides instructions for San Jose Astronomical Association (SJAA) membership renewals and new sign-ups, including payment details. It also outlines guidelines for submitting articles to the monthly \"EPHEMERIS\" publication, specifying deadlines and preferred formats, and lists key contact information for the SJAA.",
+      "categories": [
+        "Membership Information",
+        "Publication Guidelines",
+        "Club Newsletter",
+        "Contact Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Membership",
+        "Renewal",
+        "Article Submission",
+        "Astronomy Club",
+        "March 1994",
+        "Newsletter"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9403/Eph94_03.pdf",
+      "txtPath": "9403/Eph94_03.md"
+    }
+  ]
+}

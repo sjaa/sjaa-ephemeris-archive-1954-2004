@@ -1,0 +1,514 @@
+{
+  "articles": [
+    {
+      "id": "eph91-01-ephemeris",
+      "documentId": "eph91-01",
+      "title": "EPHEMERIS",
+      "summary": "This document is 'EPHEMERIS', Volume 3, Number 1, published in January 1991. It serves as the official publication of the San Jose Astronomical Association.",
+      "categories": [
+        "Newsletter",
+        "Organizational News",
+        "Astronomy",
+        "Historical"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Publication",
+        "1991",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-opening-1991",
+      "documentId": "eph91-01",
+      "title": "OPENING 1991!!!",
+      "summary": "This article announces the 1991 schedule changes for an organization, detailing adjustments for general meetings, star parties, and introductory astronomy classes. It also outlines new timings for Board of Directors meetings and public presentations at Branham Lane, with some changes occurring mid-year.",
+      "categories": [
+        "announcement",
+        "schedule update",
+        "club operations",
+        "events"
+      ],
+      "keywords": [
+        "1991 schedule",
+        "general meetings",
+        "star parties",
+        "introductory astronomy class",
+        "board meetings",
+        "public presentations",
+        "event schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-flash-sjaa-hotline",
+      "documentId": "eph91-01",
+      "title": "FLASH! - SJAA HOTLINE",
+      "summary": "The San Jose Astronomical Association (SJAA) has established a 24-hour \"Hot Line\" (408-997-3347) to provide up-to-date information on public and club events, star parties, and meetings. The article announces an upcoming general meeting on January 5th where John Wright will present photographs and details from his recent tour of the new Keck 10-meter telescope in Hawaii. Additionally, it lists several other January and early February events, including various star parties and an introductory astronomy class.",
+      "categories": [
+        "News",
+        "Announcements",
+        "Events Calendar",
+        "Club Information",
+        "Presentations",
+        "Star Parties"
+      ],
+      "keywords": [
+        "SJAA",
+        "Hotline",
+        "Keck Telescope",
+        "John Wright",
+        "Star Parties",
+        "General Meeting",
+        "Astronomy Class",
+        "Event Schedule",
+        "Mauna Kea"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-astro-class-starts-jan-26th",
+      "documentId": "eph91-01",
+      "title": "ASTRO CLASS STARTS JAN 26TH",
+      "summary": "Wolfgang Haisch will be leading an introductory astronomy class, designed for all levels with no prior knowledge or telescope required. The class begins on January 26th, held at 8 pm on the 4th Saturday of each month, and includes planned outdoor sessions.",
+      "categories": [
+        "education",
+        "events",
+        "announcement"
+      ],
+      "keywords": [
+        "astronomy class",
+        "introductory astronomy",
+        "Wolfgang Haisch",
+        "amateur astronomy",
+        "telescope",
+        "outdoor sessions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-board-meeting-moved",
+      "documentId": "eph91-01",
+      "title": "BOARD MEETING MOVED",
+      "summary": "The SJAA Board Meetings have been moved to General Meeting nights, starting at 6:30 pm. This change aims to increase member participation by reducing conflicts with other commitments, making it easier for members to attend both board meetings and other SJAA activities. All interested members are encouraged to attend.",
+      "categories": [
+        "Announcement",
+        "Organizational Update",
+        "Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "General Meeting",
+        "Meeting Schedule",
+        "Member Participation",
+        "Organizational Change"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-branham-lane-star-parties",
+      "documentId": "eph91-01",
+      "title": "BRANHAM LANE STAR PARTIES",
+      "summary": "The San Jose Astronomical Association (SJAA) continues to host successful monthly public star parties at Branham Lane park. The next event is scheduled for January 25th, where attendees can set up their own telescopes, operate existing ones, or simply observe. All activities are dependent on weather conditions.",
+      "categories": [
+        "Events",
+        "Community Outreach",
+        "Observing",
+        "Astronomy Clubs"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Branham Lane Park",
+        "SJAA",
+        "Public Events",
+        "Telescopes",
+        "Astronomy",
+        "January 25th"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-01-december-starry-nights",
+      "documentId": "eph91-01",
+      "title": "DECEMBER STARRY NIGHTS",
+      "summary": "The author, Richard Stanton, discusses the evolving direction of his 'December Starry Nights' column for the new year, stating it may not always focus on traditional astronomical events. This month's topic, inspired by Terence Dickinson, centers on the reader.",
+      "categories": [
+        "Column Introduction",
+        "Commentary",
+        "Astronomy Opinion"
+      ],
+      "keywords": [
+        "December Starry Nights",
+        "Richard Stanton",
+        "column direction",
+        "astronomical events",
+        "Terence Dickinson",
+        "Carleton University"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-naturalists-of-the-night-the-amateur-astronomers",
+      "documentId": "eph91-01",
+      "title": "NATURALISTS OF THE NIGHT - the Amateur Astronomers.",
+      "summary": "Amateur astronomy is presented as a challenging yet deeply fulfilling hobby accessible to a diverse range of people, emphasizing that a telescope is not a prerequisite for getting started and that knowledge and experience are paramount. The article categorizes participants as observers, telescope makers, or armchair astronomers, stressing that the hobby's primary value is personal enjoyment and inspiration, not necessarily rigorous scientific pursuit. It encourages everyone to embrace their sense of wonder as the core of amateur astronomy.",
+      "categories": [
+        "Hobby analysis",
+        "Beginner's guide",
+        "Opinion/Perspective",
+        "General interest"
+      ],
+      "keywords": [
+        "Amateur astronomy",
+        "Hobby",
+        "Beginners",
+        "Telescopes",
+        "Observers",
+        "Armchair astronomers",
+        "Enjoyment",
+        "Wonder"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-space-program-update",
+      "documentId": "eph91-01",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "The article provides an update on the space program, highlighting the recent missions of Space Shuttles Atlantis and Columbia in late 1990, bringing the year's total to six launches. Atlantis carried a classified payload, while Columbia's Astro-1 Spacelab deployed multiple ultraviolet and X-ray telescopes to study various celestial objects like quasars and active galactic nuclei, despite encountering some operational issues. Additionally, the Galileo spacecraft successfully performed a close flyby of Earth on December 8th, collecting data.",
+      "categories": [
+        "Space Missions",
+        "Astronomy",
+        "Space Shuttles",
+        "Spacecraft",
+        "Observing Reports",
+        "News"
+      ],
+      "keywords": [
+        "Atlantis",
+        "Columbia",
+        "Galileo",
+        "Space Shuttle",
+        "Astro-1 Spacelab",
+        "Hopkins Ultraviolet Telescope (HUT)",
+        "Wisconsin Ultraviolet Photo-Polarimeter (WUPPE)",
+        "Ultraviolet Imaging Telescope (UIT)",
+        "Broad Band X-ray Telescope",
+        "Quasars",
+        "Active Galactic Nuclei",
+        "Star Formation",
+        "Universe Evolution",
+        "Andromeda Galaxy",
+        "Supernova Remnant",
+        "Large Magellanic Cloud",
+        "Department of Defense payload",
+        "1990 launches"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-01-meteor-notes",
+      "documentId": "eph91-01",
+      "title": "METEOR NOTES",
+      "summary": "The article, titled \"METEOR NOTES,\" initially discusses the scarcity of recorded meteor showers in Northern Hemisphere winters and the increasing role of amateur astronomers in collecting data, highlighting the Quadrantid shower. However, the majority of the content shifts to a series of brief updates on various space exploration topics, including the Galileo and Magellan probes, Hubble Space Telescope observations, NASA's Spacehab lease, and several developments in the Soviet space program such as a journalist on Mir, Mir's ongoing maintenance, and future plans for the Salyut 7 re-entry and Soviet shuttle flight.",
+      "categories": [
+        "Astronomy",
+        "Space Exploration",
+        "Space Policy",
+        "Human Spaceflight",
+        "Space News"
+      ],
+      "keywords": [
+        "Meteor Showers",
+        "Quadrantid Meteor Shower",
+        "International Meteor Organization",
+        "Galileo Probe",
+        "Magellan Mission",
+        "Venus Mapping",
+        "Hubble Space Telescope",
+        "Gravitational Lensing",
+        "NASA Policy",
+        "Spacehab",
+        "Soviet Space Program",
+        "Mir Space Station",
+        "Salyut 7",
+        "Human Spaceflight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-comet-comments",
+      "documentId": "eph91-01",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports on recent comet activities, including the recovery of Periodic Comets Harrington-Abell and Taylor, and the discovery of Comet Shoemaker-Levy, along with a personal update from Don Machholz about moving for darker skies. It also provides a historical overview of the Quadrantid meteor shower, detailing early observations and its naming, concluding with a forecast for the current year's shower, noting viewing challenges due to a bright moon.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Meteor Showers",
+        "Historical Astronomy",
+        "Amateur Astronomy",
+        "Astronomical News"
+      ],
+      "keywords": [
+        "Comets",
+        "Quadrantid meteor shower",
+        "Don Machholz",
+        "Shoemaker-Levy",
+        "Harrington-Abell",
+        "Taylor",
+        "Astronomy observations",
+        "Dark skies",
+        "Radiant point",
+        "Stillman Masterman",
+        "A.S. Herschel"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-01-individual-shower-notes",
+      "documentId": "eph91-01",
+      "title": "INDIVIDUAL SHOWER NOTES:",
+      "summary": "This document provides individual notes on two meteor showers: Coma Bernicides and Quadrantids. It discusses the connection between Coma Bernicides and the December Leo Minorids, citing research by Cook et al. and Linblad. For the Quadrantids, it highlights its status as one of the year's best showers, noting its variable radiant size, intense maximums reaching up to 100 meteors per hour Zenith Hourly Rate (ZHR), and references key observational handbooks.",
+      "categories": [
+        "Astronomy",
+        "Meteor Showers",
+        "Observing Notes",
+        "Meteor Research"
+      ],
+      "keywords": [
+        "Coma Bernicides",
+        "Quadrantids",
+        "meteor showers",
+        "December Leo Minorids",
+        "radiant",
+        "Zenith Hourly Rate",
+        "ZHR",
+        "meteor observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-the-galaxies-of-orion",
+      "documentId": "eph91-01",
+      "title": "THE GALAXIES OF ORION",
+      "summary": "This article challenges the perception of Orion as solely a region of nebulae, revealing it as home to numerous faint galaxies. The author provides detailed observing reports for specific NGC galaxies in the constellation's southwest, offering practical advice on atlases (Uranometria 2000.0) and telescope setups (13.1\" and 17.5\" Dobsonians) needed to successfully view these challenging deep-sky objects.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Deep-Sky Objects",
+        "Galaxies",
+        "Constellation Guides"
+      ],
+      "keywords": [
+        "Orion",
+        "Galaxies",
+        "Deep-Sky Objects",
+        "Amateur Astronomy",
+        "Observing",
+        "NGC galaxies",
+        "Uranometria 2000.0",
+        "Telescopes",
+        "Faint objects",
+        "Stargazing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-01-sjaa-ephemeris",
+      "documentId": "eph91-01",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This article, titled SJAA EPHEMERIS, provides detailed observational descriptions and navigational guidance for several NGC galaxies in the Eridanus region. It highlights the appearance, brightness, and relative positions of galaxies like NGC 1682, NGC 1683, NGC 1684 group, NGC 1661, NGC 1654/1657, NGC 1729, and NGC 1740, often referencing nearby stars. The text appears to be a practical guide for deep-sky observers using a telescope.",
+      "categories": [
+        "observing guide",
+        "deep-sky observing",
+        "astronomy",
+        "celestial objects"
+      ],
+      "keywords": [
+        "NGC galaxies",
+        "Eridanus",
+        "deep-sky observation",
+        "telescope",
+        "galaxy clusters",
+        "stellar nucleus",
+        "magnitude",
+        "NGC 1682",
+        "NGC 1683",
+        "NGC 1684",
+        "NGC 1661",
+        "NGC 1654",
+        "NGC 1657",
+        "NGC 1729",
+        "NGC 1740"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-officers-and-board-of-directors",
+      "documentId": "eph91-01",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "The document provides a comprehensive directory of an organization's officers and board of directors, including their respective titles, names, and contact phone numbers. Additionally, it lists several individuals identified as 'Ephemeris Contributors,' along with their names and contact information. This page primarily serves as a contact list for key personnel and contributors within the organization.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Directory",
+        "Administration",
+        "Personnel"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Contact Information",
+        "Organization",
+        "Personnel Directory",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-comet-ephemeris",
+      "documentId": "eph91-01",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides an ephemeris for three comets—Periodic Comet Wild 2 (1989c), Comet Tsuchiya-Kiuchi (1990i), and Comet Levy (1990c)—covering dates from late December to early February. For each comet, it lists daily celestial coordinates (RA and Dec for both 1950 and 2000 epochs), solar elongation, sky visibility (Morning/Evening), and apparent magnitude, aiding astronomers in locating and observing them.",
+      "categories": [
+        "Ephemeris Data",
+        "Observing Guides",
+        "Comets",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet",
+        "Ephemeris",
+        "Periodic Comet Wild 2",
+        "Comet Tsuchiya-Kiuchi",
+        "Comet Levy",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Celestial Coordinates",
+        "Amateur Astronomy",
+        "Observation Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-01-this-month-s-meteors",
+      "documentId": "eph91-01",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article presents an overview of meteor showers visible from December to March, detailing their dates, peak rates, and radiant points. Additionally, it provides a comprehensive guide for deep-sky observation in the constellation Orion, highlighting numerous challenging galaxies, including specific NGC objects and the Abell 529 galaxy cluster, with practical tips for amateur astronomers.",
+      "categories": [
+        "Observing Guides",
+        "Meteor Showers",
+        "Deep-Sky Objects",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "Quadrantids",
+        "Orion",
+        "Galaxies",
+        "Deep-Sky Observing",
+        "NGC Objects",
+        "Abell 529",
+        "Amateur Astronomy",
+        "Stargazing"
+      ],
+      "pageStart": 6,
+      "pageEnd": 50
+    },
+    {
+      "id": "eph91-01-astro-ads",
+      "documentId": "eph91-01",
+      "title": "ASTRO ADS",
+      "summary": "This document features 'ASTRO ADS,' a classifieds section offering free advertisements for noncommercial astronomical products, listing various used telescopes and accessories from brands like Meade, Questar, and Celestron. Additionally, it includes a 'CELESTIAL CALENDAR' for January 1991, providing detailed astronomical data such as lunar phases, planetary positions, solar information, astronomical twilight times, and sidereal time, all in Pacific Standard Time.",
+      "categories": [
+        "classifieds",
+        "astronomical data",
+        "observing guide",
+        "equipment sales",
+        "historical almanac"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "telescopes",
+        "astronomical accessories",
+        "Meade",
+        "Questar",
+        "Celestron",
+        "Schmidt-Cassegrain",
+        "Schmidt-Newtonian",
+        "finderscopes",
+        "filters",
+        "mounts",
+        "celestial calendar",
+        "lunar phases",
+        "planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "astronomical twilight",
+        "sidereal time",
+        "January 1991"
+      ],
+      "pageStart": 7,
+      "pageEnd": 41
+    },
+    {
+      "id": "eph91-01-san-jose-astronomical-association-membership-application",
+      "documentId": "eph91-01",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), detailing various membership options and their costs, along with instructions for submission to the treasurer. It also provides information regarding the SJAA's monthly publication, \"Ephemeris,\" including contact details for article submissions and mailing information.",
+      "categories": [
+        "Membership Application",
+        "Organizational Document",
+        "Club Information",
+        "Newsletter Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Astronomy Club",
+        "Ephemeris",
+        "Fees",
+        "Contact Information",
+        "Club Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9101/Eph91_01.pdf",
+      "txtPath": "9101/Eph91_01.md"
+    }
+  ]
+}

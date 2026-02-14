@@ -1,0 +1,579 @@
+{
+  "articles": [
+    {
+      "id": "eph91-09-sjaa-ephemeris",
+      "documentId": "eph91-09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the September 1991 issue (Volume 3, Number 9) of \"Ephemeris,\" the official publication of the San Jose Astronomical Association. It serves as a record of the association's activities and news for that specific month.",
+      "categories": [
+        "Newsletter",
+        "Amateur Astronomy",
+        "Organizational Publication",
+        "Historical Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "September 1991",
+        "Astronomy",
+        "Newsletter",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-august-meeting",
+      "documentId": "eph91-09",
+      "title": "AUGUST MEETING",
+      "summary": "The August \"Eclipse Night\" meeting was a great success, drawing over 100 members and eclipse enthusiasts. Numerous striking slides showcasing various aspects of the eclipse were presented, and special thanks were given to all contributors.",
+      "categories": [
+        "Meeting Report",
+        "Event Report",
+        "Eclipse",
+        "Club News"
+      ],
+      "keywords": [
+        "August Meeting",
+        "Eclipse Night",
+        "Eclipse",
+        "Attendees",
+        "Presentations",
+        "Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-field-of-view",
+      "documentId": "eph91-09",
+      "title": "FIELD OF VIEW",
+      "summary": "The SJAA is holding its annual picnic and Bar-B-Q at Fremont Peak State Park, starting at 4 pm with observing afterward. Members should note that the General Meeting date has been moved to September 14th for the annual slide and equipment night, and the Introductory Astronomy Class is now on September 21st.",
+      "categories": [
+        "events",
+        "club announcement",
+        "meeting change",
+        "social event"
+      ],
+      "keywords": [
+        "SJAA picnic",
+        "Bar-B-Q",
+        "Fremont Peak State Park",
+        "General Meeting",
+        "September 14th",
+        "slide and equipment night",
+        "eclipse photos",
+        "Introductory Astronomy Class",
+        "September 21st",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-employment-opportunity",
+      "documentId": "eph91-09",
+      "title": "EMPLOYMENT OPPORTUNITY",
+      "summary": "The article announces an employment opportunity for a new Editor of the 'Ephemeris' publication, as the current editor is stepping down after 7 years. It also details a packed schedule of upcoming events for September and October, including SJAA picnics, star parties at various locations, general meetings, and public star parties.",
+      "categories": [
+        "Employment Opportunity",
+        "Events",
+        "Club News",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Editor",
+        "Ephemeris",
+        "SJAA",
+        "Fremont Peak",
+        "Star Party",
+        "General Meeting",
+        "Picnic",
+        "Telescope",
+        "September events",
+        "October events",
+        "Job opening"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-telescope-making-and-astronomy",
+      "documentId": "eph91-09",
+      "title": "TELESCOPE MAKING AND ASTRONOMY",
+      "summary": "This article announces the renewal period for 'Telescope Making' and 'Astronomy' magazines, noting that subscribers can renew through the SJAA or individually. It also informs readers of increased subscription prices, now $10 for 'Telescope Making' and $16 for 'Astronomy', and provides contact details for renewals.",
+      "categories": [
+        "News",
+        "Publications",
+        "Astronomy Clubs",
+        "Pricing"
+      ],
+      "keywords": [
+        "Telescope Making magazine",
+        "Astronomy magazine",
+        "Subscription renewal",
+        "SJAA",
+        "Magazine prices",
+        "Jim Van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-september-starry-nights",
+      "documentId": "eph91-09",
+      "title": "SEPTEMBER STARRY NIGHTS",
+      "summary": "Richard Stanton recounts meeting a young, aspiring amateur astronomer in the Midwest who, despite having a telescope, lacked basic information and resources to begin due to living outside a major metropolitan area and having parents without a science background. The author highlights this as a significant failing of the amateur astronomy community and stresses the responsibility of experienced enthusiasts to provide guidance, resources, and outreach to beginners.",
+      "categories": [
+        "Opinion",
+        "Community Outreach",
+        "Amateur Astronomy",
+        "Commentary"
+      ],
+      "keywords": [
+        "Amateur Astronomy",
+        "Beginners",
+        "Telescopes",
+        "Guidance",
+        "Mentorship",
+        "Outreach",
+        "Resources",
+        "Frustration"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-09-double-triple-and-multiple-stars",
+      "documentId": "eph91-09",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "Patrick M. Donnelly shares his personal experience and renewed interest in observing multiple star systems, particularly those designated with 'Gamma,' which he dubs the 'Gamma Gang.' The article details several notable examples, including Gamma Leonis, Gamma Virginis, Gamma Andromedae (Almach), Gamma Delphinus, and Gamma Arietis, providing their characteristics, visibility, and observational tips. The author encourages readers to explore and observe these beautiful double, triple, and multiple star systems.",
+      "categories": [
+        "Observing Reports",
+        "Descriptive Astronomy",
+        "Stellar Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Multiple stars",
+        "Double stars",
+        "Binary systems",
+        "Gamma stars",
+        "Gamma Leonis",
+        "Gamma Virginis",
+        "Gamma Andromedae",
+        "Almach",
+        "Gamma Delphinus",
+        "Gamma Arietis",
+        "Stellar observation",
+        "Orbital period",
+        "Star separation",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-space-program-update",
+      "documentId": "eph91-09",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This article provides an update on the 1991 space program, detailing completed Space Shuttle missions including satellite deployments and scientific experiments, as well as upcoming missions. It also reports on the survival of the Space Station program in Congress for FY 1992 despite budget cuts that led to the cancellation of the Comet Rendezvous Asteroid Flyby mission and delays for Cassini and the Advanced X-ray Astrophysics Facility. Furthermore, the Hubble Space Telescope is experiencing significant gyro problems, potentially necessitating a shuttle repair mission.",
+      "categories": [
+        "Space Program Updates",
+        "Space Shuttle Missions",
+        "Space Station",
+        "NASA Budget",
+        "Spacecraft Status",
+        "Astronomy Missions"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Discovery",
+        "Columbia",
+        "Atlantis",
+        "TDRS",
+        "Space Station",
+        "NASA budget",
+        "Comet Rendezvous Asteroid Flyby (CRAF)",
+        "Cassini",
+        "Advanced X-ray Astrophysics Facility (AXAF)",
+        "Hubble Space Telescope",
+        "Gyros",
+        "Gamma Ray Observatory",
+        "Upper Atmospheric Research Satellite",
+        "Defense Support Program spacecraft",
+        "1991 missions"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-09-solar-arrays-will-not-be-ready-for-launch",
+      "documentId": "eph91-09",
+      "title": "SOLAR ARRAYS WILL NOT BE READY FOR LAUNCH",
+      "summary": "The launch, likely related to Hubble, will be delayed until late 1993 because the necessary solar arrays are not yet ready. Additionally, the Hubble Space Telescope is equipped with a backup 'retrieval mode' gyro pack to mitigate the risk of a complete failure of its main gyros.",
+      "categories": [
+        "News",
+        "Space Operations",
+        "Technical",
+        "Delays"
+      ],
+      "keywords": [
+        "Solar arrays",
+        "Launch delay",
+        "Hubble Space Telescope",
+        "Gyro pack",
+        "Spacecraft systems",
+        "1993"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-u-s-soviet-space-agreement-signed-a-the-moscow-summit",
+      "documentId": "eph91-09",
+      "title": "U.S./SOVIET SPACE AGREEMENT SIGNED A THE MOSCOW SUMMIT",
+      "summary": "Presidents Bush and Gorbachev signed a U.S./Soviet space agreement on July 31 at the Moscow Summit. This landmark agreement outlined plans for a U.S. astronaut to fly on a Soviet Soyuz spacecraft to the Mir space station for up to six months, and a Soviet cosmonaut to participate in a U.S. Space Shuttle/Spacelab flight.",
+      "categories": [
+        "news",
+        "international relations",
+        "space cooperation",
+        "events"
+      ],
+      "keywords": [
+        "U.S./Soviet space agreement",
+        "Moscow Summit",
+        "Bush",
+        "Gorbachev",
+        "Soyuz",
+        "Mir space station",
+        "Space Shuttle",
+        "Spacelab",
+        "astronaut",
+        "cosmonaut",
+        "international cooperation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-u-s-experiencing-weather-satellite-problems",
+      "documentId": "eph91-09",
+      "title": "U.S. EXPERIENCING WEATHER SATELLITE PROBLEMS",
+      "summary": "The U.S. is facing significant issues with its geostationary weather satellite system, as GOES East has failed and the next-generation GOES Next is experiencing development problems. To compensate, the European Meteosat 9 has been relocated to cover Brazil and replace GOES East. Additionally, the European Meteosat 3 is being utilized as an orbital spare with an expected operational lifespan extending into late 1993 or early 1994.",
+      "categories": [
+        "news",
+        "technical issues",
+        "satellite operations",
+        "international cooperation"
+      ],
+      "keywords": [
+        "weather satellites",
+        "GOES East",
+        "GOES West",
+        "GOES Next",
+        "Meteosat 9",
+        "Meteosat 3",
+        "geostationary orbit",
+        "satellite failure",
+        "development problems",
+        "meteorological satellites"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-european-earth-resources-satellite-launched",
+      "documentId": "eph91-09",
+      "title": "EUROPEAN EARTH-RESOURCES SATELLITE LAUNCHED",
+      "summary": "The European Earth-resources satellite, ERS-1, was successfully launched on July 16 using an Ariane 4 booster. This mission is expected to position the European Space Agency (ESA) at the forefront of ocean-based research in climatology and meteorology.",
+      "categories": [
+        "News",
+        "Space Technology",
+        "Earth Observation",
+        "Climate Science",
+        "Meteorology"
+      ],
+      "keywords": [
+        "ERS-1",
+        "Satellite Launch",
+        "Ariane 4",
+        "ESA",
+        "Earth Resources",
+        "Climatology",
+        "Meteorology",
+        "Oceanography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-second-pegasus-launched-successfully",
+      "documentId": "eph91-09",
+      "title": "SECOND PEGASUS LAUNCHED SUCCESSFULLY",
+      "summary": "The article reports on the successful launch of the second Pegasus booster on July 17, which placed seven small satellites into orbit. It then vividly describes an observation of a total solar eclipse, lasting 6 minutes and 43 seconds, from a ship near Mazatlan. Key features noted were the bright sky, streamered corona, naked-eye prominence, and spectacular diamond rings, followed by an unexpected sighting of dolphins.",
+      "categories": [
+        "news",
+        "space exploration",
+        "observing reports",
+        "astronomy events"
+      ],
+      "keywords": [
+        "Pegasus booster",
+        "satellite launch",
+        "total solar eclipse",
+        "eclipse observation",
+        "corona",
+        "diamond ring",
+        "Mazatlan",
+        "spacecraft"
+      ],
+      "pageStart": 28,
+      "pageEnd": 28
+    },
+    {
+      "id": "eph91-09-ms-jubliee-july-11-1991-eclipse-morning-began-eventfully",
+      "documentId": "eph91-09",
+      "title": "MS JUBLIEE, JULY 11, 1991 - Eclipse morning began eventfully.",
+      "summary": "On the morning of July 11, 1991, aboard the MS JUBLIEE cruising from Puerto Vallarta to Mazatlan, an observer experienced an eventful start to eclipse day. Hours before totality, a waterspout was sighted, followed by a sudden downpour that sent everyone scrambling to protect their equipment and 'shadow band sheets'.",
+      "categories": [
+        "observing report",
+        "personal account",
+        "astronomical event",
+        "weather phenomenon"
+      ],
+      "keywords": [
+        "eclipse",
+        "MS JUBLIEE",
+        "July 11, 1991",
+        "Puerto Vallarta",
+        "Mazatlan",
+        "waterspout",
+        "downpour",
+        "totality",
+        "shadow band sheets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-report-on-the-july-11-1991-total-eclipse-of-the-sun",
+      "documentId": "eph91-09",
+      "title": "REPORT ON THE JULY 11, 1991 TOTAL ECLIPSE OF THE SUN",
+      "summary": "This report details Robert Garfinkle's experience observing the July 11, 1991 total solar eclipse from the Royal Caribbean cruise ship Viking Serenade off the coast of Baja California. Despite initial cloudy conditions, the ship navigated to a clear spot, allowing observers to witness the eclipse, including visible planets, prominences, and coronal streamers, along with a notable temperature drop. The author describes the unique observing conditions, comparing the darkness to a full moon night rather than complete darkness.",
+      "categories": [
+        "observing report",
+        "solar eclipse",
+        "personal account",
+        "astronomy event"
+      ],
+      "keywords": [
+        "total solar eclipse",
+        "July 11 1991",
+        "Viking Serenade",
+        "Baja California",
+        "eclipse chasers",
+        "corona",
+        "prominences",
+        "Venus",
+        "temperature drop",
+        "cloud conditions"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-09-sjaa-ephemeris",
+      "documentId": "eph91-09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This article describes a personal account of observing a total solar eclipse, detailing the visual phenomena like sky darkening, color changes, and a temperature drop, along with a possible sighting of weak shadow bands. Post-totality observations included a school of dolphins and a rapid sky lightening, followed by a recap event with slides and videos from photographers Richard Berry and Richard Horowitz, and an endorsement from Edwin Krupp. The experience also highlights the camaraderie among eclipse chasers and stargazing education for novices.",
+      "categories": [
+        "Observing Report",
+        "Event Recap",
+        "Personal Account",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Eclipse Observations",
+        "Totality",
+        "Shadow Bands",
+        "Temperature Drop",
+        "Dolphins",
+        "Richard Berry",
+        "Richard Horowitz",
+        "Edwin Krupp",
+        "Eclipse Chasers",
+        "Stargazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-comet-comments",
+      "documentId": "eph91-09",
+      "title": "COMET COMMENTS",
+      "summary": "This article, \"COMET COMMENTS\" by Don Machholz, reports the recent recovery of two periodic comets: Wirtanen (1991s), recovered by T. Seki, and Hartley 2 (1991t), visually discovered by T. Kryachko, noting its early return. Additionally, it confirms that comet Levey (1991q) is now known to be periodic with a 50-year orbit.",
+      "categories": [
+        "Observing Reports",
+        "Comet News",
+        "Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comet Wirtanen (1991s)",
+        "Periodic Comet Hartley 2 (1991t)",
+        "Comet Levey (1991q)",
+        "Comet Recovery",
+        "Amateur Discovery",
+        "Orbit",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-astro-ads",
+      "documentId": "eph91-09",
+      "title": "ASTRO ADS",
+      "summary": "This document is a classifieds section titled \"ASTRO ADS,\" offering free advertisements for noncommercial sales of astronomically related products or services. It features listings for used telescopes like Celestron 8s, Astro Physics refractors, Tele Vue Genesis, and Meade 2080 LX1s, along with various accessories and wanted ads for specific equipment. Ads are published for approximately three months after submission by the 15th of each month.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Used Equipment",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "telescopes",
+        "astronomical equipment",
+        "Celestron",
+        "Meade",
+        "Astro Physics",
+        "Tele Vue",
+        "refractor",
+        "SCT",
+        "eyepieces",
+        "accessories",
+        "for sale",
+        "wanted",
+        "astrophotography",
+        "pier",
+        "solar filter"
+      ],
+      "pageStart": 93,
+      "pageEnd": 93
+    },
+    {
+      "id": "eph91-09-officers-and-directors",
+      "documentId": "eph91-09",
+      "title": "OFFICERS AND DIRECTORS",
+      "summary": "This document lists the current officers and directors of an organization, including their titles (President, Vice President, Treasurer, Secretary, Editor, Director), names, and some contact phone numbers. It serves as a directory for the organization's leadership personnel.",
+      "categories": [
+        "Organizational",
+        "Directory",
+        "Club Information",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "Directors",
+        "Personnel",
+        "Leadership",
+        "Club administration",
+        "Contact information",
+        "Board members"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-09-fremont-peak-state-park",
+      "documentId": "eph91-09",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park features a telescope observatory and offers various recreational activities including hiking on the 'Route of the Pioneers' trail and camping. The document provides visitor information such as routes, specific parking guidelines (with restrictions for larger vehicles), and park rules, emphasizing advance reservations for observation sites. It also mentions contact details for a park host and an educator.",
+      "categories": [
+        "Park Information",
+        "Observatory",
+        "Visitor Guide",
+        "Recreation",
+        "Camping"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Telescope Observatory",
+        "Park Host",
+        "Visitor Information",
+        "Hiking",
+        "Route of the Pioneers",
+        "Camping",
+        "Reservations",
+        "Parking Restrictions",
+        "Park Rules",
+        "San Juan",
+        "Hollister",
+        "Monterey"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-09-san-jose-astronomical-association-membership-application",
+      "documentId": "eph91-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It details different membership options and their respective costs, including standard, standard with Sky & Telescope subscription, and junior memberships. The form also provides instructions for submission, either in person at an SJAA meeting or by mail to the treasurer.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Club Administration",
+        "Amateur Astronomy Organization"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "dues",
+        "Sky & Telescope",
+        "junior membership",
+        "amateur astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-09-make-checks-payable-to-sjaa",
+      "documentId": "eph91-09",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document serves as a membership application/renewal form for the San Jose Astronomical Association (SJAA), detailing options for membership types and contact information. It also announces an upcoming 'Slide and Equipment Night' event on September 14th and provides submission guidelines for the SJAA's monthly publication, 'EPHEMERIS'.",
+      "categories": [
+        "Membership",
+        "Events",
+        "Publications",
+        "Non-profit Organization",
+        "Community Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership",
+        "renewal",
+        "Slide and Equipment Night",
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "astronomy club",
+        "publication submission"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9109/Eph91_09.pdf",
+      "txtPath": "9109/Eph91_09.md"
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "articles": [
+    {
+      "id": "eph93-10-sjaa-ephemeris",
+      "documentId": "eph93-10",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the October 1993 issue (Volume 4, Number 10) of 'SJAA EPHEMERIS,' the official publication of the San Jose Astronomical Association. It serves as a periodical for the astronomy club.",
+      "categories": [
+        "Club Publication",
+        "Newsletter",
+        "Historical Document",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "October 1993",
+        "Astronomy Club",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-the-eyepiece",
+      "documentId": "eph93-10",
+      "title": "The Eyepiece",
+      "summary": "The article reports on a successful \"Slide and Equipment night\" where members displayed various telescopes and astrophotography, including Perseid meteor prints. It also provides a detailed calendar of upcoming astronomical events for October and November, such as general meetings, numerous star parties, and an observational astronomy class. Finally, it includes a poignant, satirical piece about the \"death\" of \"Mr. Else,\" emphasizing the need for greater member involvement and noting the resignation of Vice President Paul Mancuso.",
+      "categories": [
+        "Event Report",
+        "Event Listings",
+        "Club News",
+        "Astronomy Equipment",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Equipment Night",
+        "Star Parties",
+        "Club Meetings",
+        "Telescopes",
+        "Astrophotography",
+        "Volunteerism",
+        "Member Participation",
+        "Observational Astronomy",
+        "Perseid Meteors",
+        "Astronomy Events",
+        "Club Leadership"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-10-perseid-report",
+      "documentId": "eph93-10",
+      "title": "Perseid Report",
+      "summary": "Ernie Piini and his wife traveled to Northern California, specifically the Mt. Shasta and Siskiyou Mountain areas, to observe the Perseid meteor shower. Despite initial challenges with thick clouds and light pollution, they eventually found an exceptionally dark site east of Yreka. There, they successfully observed 39 Perseids and 4 non-Perseids, averaging about 20 meteors per hour in the early evening, and highly recommend the region for future dark-sky observations.",
+      "categories": [
+        "Observing Report",
+        "Personal Experience",
+        "Events",
+        "Travel",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Perseid Meteor Shower",
+        "Meteor Observation",
+        "Dark Sky",
+        "Light Pollution",
+        "Northern California",
+        "Yreka",
+        "Mt. Shasta",
+        "Siskiyou Mountains",
+        "Stargazing",
+        "Ernie Piini"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-more-persied-reports-from-usenet",
+      "documentId": "eph93-10",
+      "title": "More Persied Reports from USENET",
+      "summary": "This document compiles multiple personal observation reports of the Perseid meteor shower from various locations, including south of Houston, Jenner California, and Sarasota. Observers describe varying conditions, from light-polluted skies to clear, dark nights, and report on the number, brightness, and duration of meteors seen, with some noting exceptionally long and persistent trails. The reports also include sightings of satellites, fireflies, and other celestial phenomena.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Meteor Shower",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Perseids",
+        "meteor shower",
+        "observations",
+        "Houston",
+        "Jenner California",
+        "Sarasota",
+        "satellites",
+        "fireflies",
+        "light pollution",
+        "Milky Way"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-perseid-meteors-from-northern-wisconsin",
+      "documentId": "eph93-10",
+      "title": "PERSEID METEORS FROM NORTHERN WISCONSIN",
+      "summary": "The Chippewa Valley Astronomical Society observed the Perseid meteor shower from the Hobbs Observatory near Fall Creek, Wisconsin on August 12, from 3:00 UT to 7:30 UT. Observers initially contended with almost complete cloud cover, which began to clear by 5:00 UT, allowing for better viewing under clear skies.",
+      "categories": [
+        "observing report",
+        "meteor shower",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "Perseid meteors",
+        "Chippewa Valley Astronomical Society",
+        "Hobbs observatory",
+        "Fall Creek",
+        "Wisconsin",
+        "meteor observation",
+        "cloud cover"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-10-meteor-reports-cont-from-pg-2",
+      "documentId": "eph93-10",
+      "title": "Meteor Reports Cont from pg 2",
+      "summary": "Two separate amateur astronomy reports detail meteor shower observations. One observer recorded 50-60 meteors per hour, with 10 brighter than magnitude 0, and successfully captured a 15-degree trail on a CCD camera. Another observer near Livermore, CA, saw 16 meteors, predominantly Perseids, noting several bright events and one exceptionally long trail, despite some city-glow.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Meteor Shower"
+      ],
+      "keywords": [
+        "Meteors",
+        "Perseids",
+        "Observation",
+        "Meteor rates",
+        "Magnitude",
+        "CCD camera",
+        "Meteor trails",
+        "Light pollution",
+        "Amateur astronomers"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-10-space-trivia-from-usenet",
+      "documentId": "eph93-10",
+      "title": "Space Trivia from UseNet",
+      "summary": "This article presents two snippets of 'Space Trivia' sourced from UseNet. The first recounts a humorous incident during the STS-1 mission involving a malfunctioning space toilet, highlighting a design flaw where its fan spun but lacked suction. The second is a lighthearted quote commenting on the Solar System's continuous movement towards Globular Cluster M13 as an amusing take on 'progress'.",
+      "categories": [
+        "Space History",
+        "Astronomy",
+        "Humor",
+        "Anecdotes"
+      ],
+      "keywords": [
+        "Space Trivia",
+        "STS-1",
+        "Space toilet",
+        "Astronaut anecdotes",
+        "Globular Cluster M13",
+        "Astronomy humor",
+        "UseNet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-by-paul-barton",
+      "documentId": "eph93-10",
+      "title": "By Paul Barton",
+      "summary": "This article by Paul Barton provides a basic overview of celestial navigation, outlining the essential steps to determine one's position using a sextant, accurate time, and a nautical almanac. It explains how to measure a star's angle, derive a 'line of position' (LOP) relative to the star's sub-point, and combine multiple observations or dead reckoning to achieve a precise 'fix'. The author notes its continued relevance for purist sailors despite modern electronic navigation.",
+      "categories": [
+        "Technical",
+        "Instructional",
+        "Navigation"
+      ],
+      "keywords": [
+        "celestial navigation",
+        "sextant",
+        "nautical almanac",
+        "line of position",
+        "fix",
+        "sub-point",
+        "dead reckoning",
+        "nautical mile"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-10-directions-to-hogue-park",
+      "documentId": "eph93-10",
+      "title": "Directions to Hogue Park",
+      "summary": "The article provides directions to Hogue Park for an Observational Astronomy class and a public star party. The class, starting at 8:00 P.M., includes constellation viewing and is open to all, as is the star party which begins at sundown and runs until 11:00 P.M., encouraging participants to bring telescopes and engage with others.",
+      "categories": [
+        "Events",
+        "Directions",
+        "Astronomy Education",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Hogue Park",
+        "Star Party",
+        "Observational Astronomy",
+        "Public Event",
+        "Telescopes",
+        "Constellations",
+        "Night Sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-astro-ads",
+      "documentId": "eph93-10",
+      "title": "ASTRO ADS",
+      "summary": "The ASTRO ADS section offers free noncommercial advertisements for astronomically related products and services, with a submission deadline of the 12th of each month for a 3-month run. Featured ads include various telescopes (Takahashi TSC 225, 8\" Newtonian, Criterion 6\" Newtonian), a Losmandy G11 mount, Teleview eyepieces, and offers for skill trades or sharing a 17.5\" telescope in exchange for transportation.",
+      "categories": [
+        "advertisements",
+        "classifieds",
+        "equipment for sale",
+        "services offered",
+        "wanted/trade"
+      ],
+      "keywords": [
+        "astronomy ads",
+        "telescopes",
+        "mounts",
+        "eyepieces",
+        "astronomy equipment",
+        "trade services",
+        "dark sky site",
+        "Takahashi",
+        "Newtonian",
+        "Teleview",
+        "Losmandy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-planets",
+      "documentId": "eph93-10",
+      "title": "Planets",
+      "summary": "This article discusses the historical understanding of why planets are not self-luminous, seeking information on when and by whom it became clear that planets reflect solar light rather than producing their own. It references Galileo's observations of Venus and the application of spectroscopy as potential milestones in this realization.",
+      "categories": [
+        "Astronomy History",
+        "Science Education",
+        "Historical Inquiry",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Planets",
+        "Self-luminous",
+        "Solar light reflection",
+        "Galileo",
+        "Venus phases",
+        "Spectroscopy",
+        "Ptolemeus",
+        "Christoph Wehrli"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-10-ken-muira-showing-his-beautiful-refractor",
+      "documentId": "eph93-10",
+      "title": "Ken Muira showing his beautiful refractor",
+      "summary": "The article features Ken Muira displaying a refractor telescope, which is observed to be similar in design to Steve Walde's work. The author commends the craftsmanship of the refractor while apologizing for not recognizing Ken Muira.",
+      "categories": [
+        "Equipment Showcase",
+        "Amateur Astronomy",
+        "Community News"
+      ],
+      "keywords": [
+        "Ken Muira",
+        "Refractor telescope",
+        "Telescope design",
+        "Steve Walde",
+        "Amateur astronomy",
+        "Astronomical equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-jim-van-nuland-showing-how-to-install-a-digital-setting-circle-on-a-small-alt-az-mount",
+      "documentId": "eph93-10",
+      "title": "Jim Van Nuland showing how to install a Digital Setting Circle on a small Alt/Az mount.",
+      "summary": "This document features an obituary for Clifford Holmes, the founder of the Riverside Telescope Makers Conference and a prominent astronomy popularizer, who passed away on September 8, 1993. Additionally, it provides a calendar of events for the San Jose Astronomical Association (SJAA) from October 1993 to July 1994, detailing dates for general meetings, Houge Park Star Parties, and Observational Astronomy Classes.",
+      "categories": [
+        "News",
+        "Obituary",
+        "Astronomy Community",
+        "Events Calendar",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Clifford Holmes",
+        "Riverside Telescope Makers Conference",
+        "RTMC",
+        "Astronomy",
+        "Obituary",
+        "Sky and Telescope",
+        "Riverside Community College",
+        "SJAA",
+        "Star Party",
+        "General Meeting",
+        "Observational Astronomy Class",
+        "1993",
+        "1994"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-10-sjaa-loaner-status",
+      "documentId": "eph93-10",
+      "title": "SJAA Loaner Status",
+      "summary": "The SJAA Loaner Status document details the availability and current borrowers of telescopes from the San Jose Astronomical Association's equipment lending program. It lists various telescopes, their users, due dates, and whether they are currently available for members to borrow, with some equipment having specific usage restrictions. Members are instructed to contact Paul Barton to inquire about borrowing or joining a waiting list for specific telescopes.",
+      "categories": [
+        "Club services",
+        "Equipment loaner program",
+        "Membership information",
+        "Equipment management"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope loaner program",
+        "Equipment availability",
+        "Astronomy club",
+        "Membership benefits",
+        "Telescope types",
+        "Waiting list",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-telnet-info-gathered-by-jvn",
+      "documentId": "eph93-10",
+      "title": "TelNet Info gathered by JVN",
+      "summary": "This document, based on a talk at the Space Telescope Science Institute, discusses Comet Shoemaker-Levy (1993e), which may be an asteroid due to low hydroxyl content. The object was fragmented by Jupiter's gravity and is on an eccentric Jovian orbit, with an impending collision where impact points will rotate into view about 90 minutes after impact. Scientists are planning observations with HST and other instruments, and a speculative telnet address for a scientific bulletin board is provided.",
+      "categories": [
+        "observing reports",
+        "astronomy news",
+        "planetary science",
+        "technical information"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Levy (1993e)",
+        "Jupiter",
+        "collision",
+        "Hubble Space Telescope",
+        "HST",
+        "observations",
+        "asteroid",
+        "gravity",
+        "spectral analysis",
+        "telnet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-astronomy-magazine-renewal",
+      "documentId": "eph93-10",
+      "title": "ASTRONOMY MAGAZINE RENEWAL",
+      "summary": "This article informs readers about renewing their Astronomy magazine subscriptions, noting that current renewal details are pending and the cost may increase from last year's $15. It provides instructions for renewing through SJAA or independently at the association rate, advising readers to keep a mailing label and contact Jim Van Nuland for assistance.",
+      "categories": [
+        "News",
+        "Membership",
+        "Subscriptions",
+        "Club Information"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "subscription renewal",
+        "SJAA",
+        "membership benefits",
+        "association rate",
+        "magazine cost",
+        "Jim Van Nuland",
+        "1993",
+        "1994"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-10-october-1993",
+      "documentId": "eph93-10",
+      "title": "October 1993",
+      "summary": "This document provides an astronomical overview for October 1993, detailing lunar phases, key data for nearer planets (Mercury, Venus, Mars, Jupiter, Saturn) including their AU, magnitude, rise, transit, and set times, and solar information. It also includes astronomical twilight times, sidereal time, and specific details for the darkest Saturday night of the month on October 16th.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "ephemeris",
+        "planetary positions"
+      ],
+      "keywords": [
+        "October 1993",
+        "Lunar Phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "SOL",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Darkest Night",
+        "planetary magnitudes",
+        "rise set times",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-times-and-dates-are-pacific-daylight",
+      "documentId": "eph93-10",
+      "title": "TIMES AND DATES ARE PACIFIC DAYLIGHT",
+      "summary": "This document, titled \"TIMES AND DATES ARE PACIFIC DAYLIGHT,\" serves as a note clarifying the time standards used. It states that all times and dates are presented in Pacific Daylight Time, with specific times referenced as Local Civil Time. The derivations for these values are sourced from *Astronomy with Your Personal Computer* by Peter Duffet-Smith and *MacEphem* by Elwood Charles Downey.",
+      "categories": [
+        "Technical Note",
+        "Methodology",
+        "Astronomy",
+        "Timekeeping Standards"
+      ],
+      "keywords": [
+        "Pacific Daylight Time",
+        "Local Civil Time",
+        "Time Standards",
+        "Astronomy Software",
+        "Data Sources",
+        "Time Convention"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-officers-and-board-of-directors",
+      "documentId": "eph93-10",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and Board of Directors for an organization, detailing their roles and contact telephone numbers. It includes positions such as President, Vice President, Treasurer, Secretary, and several Directors. Each listed individual is accompanied by their full name and a phone number.",
+      "categories": [
+        "Organizational Information",
+        "Administration",
+        "Contact List",
+        "Leadership"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Contact Information",
+        "Organizational Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-ephemeris-contributors",
+      "documentId": "eph93-10",
+      "title": "Ephemeris Contributors",
+      "summary": "This document provides a contact list for individuals who contribute to ephemeris data, including their names and phone numbers. It also lists the editor responsible for this content, Bob Madden, and his contact number.",
+      "categories": [
+        "Contact List",
+        "Directory",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Contact information",
+        "Don Machholz",
+        "Jim Van Nuland",
+        "Richard Stanton",
+        "Paul Barton",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-comet-comments",
+      "documentId": "eph93-10",
+      "title": "Comet Comments",
+      "summary": "This article details the recent discovery of Comet Mueller (1993p) on August 16th, outlining its 14th magnitude brightness and highly inclined orbit. It describes the comet's observing path, moving from the northern morning sky to the evening sky, becoming brighter over several months before fading in twilight. The article provides guidance for both Northern and Southern Hemisphere observers on when and where to view this new comet, distinguishing it from an earlier discovery, Comet Mueller (1993a).",
+      "categories": [
+        "observing report",
+        "astronomy news",
+        "celestial objects"
+      ],
+      "keywords": [
+        "Comet Mueller 1993p",
+        "Comet discovery",
+        "Comet observation",
+        "Magnitude",
+        "Orbit",
+        "Perihelion",
+        "Palomar Sky Survey",
+        "Northern Hemisphere",
+        "Southern Hemisphere"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-ephemerides",
+      "documentId": "eph93-10",
+      "title": "EPHEMERIDES",
+      "summary": "This document presents detailed astronomical ephemerides for two distinct comets, Mueller (1993a) and Mueller (1993p). For each comet, it provides predicted right ascension, declination, elongation from the Sun, and apparent magnitude for various dates spanning from late September to early November 1993, serving as a guide for observers.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guides",
+        "Astronomical Data",
+        "Cometary Astronomy"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Mueller (1993a)",
+        "Comet Mueller (1993p)",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "Magnitude",
+        "Comets",
+        "Observational Astronomy",
+        "1993"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-10-san-jose-astronomical-association-membership",
+      "documentId": "eph93-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines membership information for the San Jose Astronomical Association (SJAA) and details regarding their monthly publication, \"EPHEMERIS.\" Members are encouraged to submit articles for publication by the 12th of the previous month, preferably as a text file on diskette, but written submissions are also accepted.",
+      "categories": [
+        "Organizational Information",
+        "Publication Guidelines",
+        "Membership Communication"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "membership",
+        "article submission",
+        "newsletter",
+        "publication guidelines"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-10-san-jose-astronomical-association-membership",
+      "documentId": "eph93-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership tiers and their corresponding costs, including options for \"Membership only,\" \"Membership / S&T\" (likely Sky & Telescope magazine), and \"Junior.\" It provides fields for applicant information and instructions for submission via mail to the Treasurer or in person at an SJAA meeting. Additionally, it includes the association's contact details, mailing address, non-profit status, and a 24-hour information hotline number.",
+      "categories": [
+        "Membership",
+        "Forms/Applications",
+        "Organizational Information",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Amateur Astronomy",
+        "Milpitas CA",
+        "Sky & Telescope",
+        "Non-Profit"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9310/Eph93_10.pdf",
+      "txtPath": "9310/Eph93_10.md"
+    }
+  ]
+}

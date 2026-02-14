@@ -1,0 +1,841 @@
+{
+  "articles": [
+    {
+      "id": "eph97-11-editor-s-notes",
+      "documentId": "eph97-11",
+      "title": "EDITOR'S NOTES",
+      "summary": "The article announces an upcoming election in February for new board members and officers, encouraging interested individuals to contact current board members. It also details a new initiative to form smaller interest groups within the club, focusing on areas like ATM, photography, CCDs, and various observing types. Members are urged to submit suggestions for group categories and express interest to help coordinate these new activities.",
+      "categories": [
+        "Club Administration",
+        "Membership Engagement",
+        "Announcements",
+        "Community Initiatives"
+      ],
+      "keywords": [
+        "Election",
+        "Board Members",
+        "Officers",
+        "Interest Groups",
+        "ATM",
+        "Photography",
+        "CCDs",
+        "Lunar and Planetary Observing",
+        "Deep Sky Observing",
+        "Club Activities",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-november",
+      "documentId": "eph97-11",
+      "title": "November",
+      "summary": "The provided document outlines a schedule of astronomy-related events for November, primarily featuring several star parties at Fremont Peak and Houge Park. It also details a general meeting at Houge Park with a guest lecture by Dr. Ken Croswell on the discovery of planets, alongside practical information like sunset and moon times for each event.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Meetings",
+        "Lectures"
+      ],
+      "keywords": [
+        "November",
+        "Star party",
+        "Fremont Peak",
+        "Houge Park",
+        "General meeting",
+        "Dr. Ken Croswell",
+        "Planet discovery",
+        "Astronomy events",
+        "Moon phases"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-december",
+      "documentId": "eph97-11",
+      "title": "December",
+      "summary": "The December schedule for an astronomy club includes multiple star parties at locations like Houge Park, Fremont Peak, and Coe throughout the month. A general meeting on December 13th will feature speaker Bob Garfinkle discussing observing dark haloed craters on the Moon. Attendees are reminded that SJAA insurance only covers members at SJAA-sponsored events.",
+      "categories": [
+        "Events",
+        "Schedule",
+        "Astronomy Club News",
+        "Observing"
+      ],
+      "keywords": [
+        "December",
+        "Star parties",
+        "General meeting",
+        "Moon",
+        "Dark haloed craters",
+        "Fremont Peak",
+        "Houge Park",
+        "SJAA",
+        "Astronomy events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-reflections-on-the-visor",
+      "documentId": "eph97-11",
+      "title": "REFLECTIONS ON THE VISOR",
+      "summary": "The author reflects on a memorable encounter with Apollo 15 astronaut Jim Irwin in 1974 and a recent visit to a Smithsonian exhibit featuring his spacesuit. This experience, along with Irwin's mission to the moon's Hadley Plain, deeply influenced the author's enduring passion for lunar astronomy. The piece highlights Irwin's gentle and spiritual nature, which resonated profoundly with the author.",
+      "categories": [
+        "Personal Reflection",
+        "Space History",
+        "Astronomy Interest",
+        "Apollo Program"
+      ],
+      "keywords": [
+        "Jim Irwin",
+        "Apollo 15",
+        "Lunar Astronomy",
+        "Space History",
+        "Smithsonian Exhibit",
+        "Hadley Plain",
+        "Astronaut",
+        "Memoir"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph97-11-sky-fishing-at-pacheco",
+      "documentId": "eph97-11",
+      "title": "SKY FISHING AT PACHECO",
+      "summary": "Mark Wagner recounts an amateur astronomy outing, dubbed \"Sky Fishing,\" at Pacheco State Park on October 4, 1997, with observers from TAC and SJAA. The group explored the new state park as a potential dark sky site, noting its favorable horizons and muted light domes compared to other locations, despite some wind. Their primary focus was observing numerous faint galaxies, particularly Herschel objects within the constellation Pisces, aided by software like The Sky and the Hubble Guide Star Catalog for identification.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Site Evaluation",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Pacheco State Park",
+        "Star party",
+        "Observing report",
+        "Galaxies",
+        "Pisces",
+        "Dark sky site",
+        "Light pollution",
+        "The Sky software",
+        "Hubble Guide Star Catalog",
+        "NGC objects",
+        "Amateur astronomy",
+        "October 1997",
+        "Mark Wagner",
+        "Jack Zeiders"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-11-sky-fishing-from-p-2",
+      "documentId": "eph97-11",
+      "title": "Sky Fishing, from p. 2",
+      "summary": "The article details a productive and enjoyable overnight astronomy observing session at Rancho Gonzaga/Pacheco State Park, where participants used various telescopes to view celestial objects including a prominent \"chain of galaxies,\" the Veil Nebula, and Saturn. The author praises the excellent dark sky conditions, particularly the horizons, and the social camaraderie among observers. Although clouds eventually curtailed the viewing, the author highly recommends Pacheco State Park for astronomy, noting that night access requires prior arrangement with a ranger.",
+      "categories": [
+        "observing report",
+        "astronomy event",
+        "site review",
+        "celestial objects"
+      ],
+      "keywords": [
+        "galaxy observation",
+        "Veil Nebula",
+        "Saturn",
+        "Pacheco State Park",
+        "Rancho Gonzaga",
+        "astronomy event",
+        "dark skies",
+        "telescope viewing",
+        "NGC galaxies",
+        "OIII filter",
+        "observing session"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph97-11-jay-freeman",
+      "documentId": "eph97-11",
+      "title": "Jay Freeman",
+      "summary": "Jay Freeman recounts three successful deep-sky observing nights at Fremont Peak State Park in late September/early October 1997. Using an Intes 6-inch f/10 Maksutov, he continued his long-term program of observing William Herschel's deep-sky objects, logging about 120 during these sessions. He details his technique, favoring higher magnifications (90-100x) to push the telescope's limiting magnitude and mitigate sky glow.",
+      "categories": [
+        "Observing Report",
+        "Deep-sky Astronomy",
+        "Amateur Astronomy",
+        "Equipment Review"
+      ],
+      "keywords": [
+        "Jay Freeman",
+        "Fremont Peak State Park",
+        "1997 autumnal equinox",
+        "Intes 6-inch f/10 Maksutov",
+        "William Herschel",
+        "Deep-sky objects",
+        "Observing techniques",
+        "Magnification",
+        "Limiting magnitude",
+        "Sky glow"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph97-11-hershel-from-p-3",
+      "documentId": "eph97-11",
+      "title": "Hershel, from p. 3",
+      "summary": "The author discusses challenges in observing faint deep-sky objects, particularly the difficulty of separating close objects and dealing with extraneous light. An attempt to view the sprawling Witch Head Nebula with an Intes telescope, aided by a filter, yielded partial success. The most striking observation, however, was a naked-eye and binocular view of the Mir space station and Space Shuttle Atlantis passing over the horizon.",
+      "categories": [
+        "observing reports",
+        "deep-sky astronomy",
+        "telescope techniques",
+        "spacecraft observations",
+        "equipment discussion"
+      ],
+      "keywords": [
+        "deep sky objects",
+        "NGC 1633",
+        "NGC 1634",
+        "Taurus",
+        "IC 2118",
+        "Witch Head Nebula",
+        "Eridanus",
+        "Mir",
+        "Space Shuttle Atlantis",
+        "light pollution",
+        "eyepiece",
+        "filter",
+        "naked-eye observation",
+        "binocular"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-11-automating-a-david-malin-astrophotography-technique",
+      "documentId": "eph97-11",
+      "title": "AUTOMATING A DAVID MALIN ASTROPHOTOGRAPHY TECHNIQUE",
+      "summary": "Inspired by David Malin's step-focus astrophotography technique to reveal star colors, Ernie Piini attempted to replicate it manually. His initial efforts, involving precise timing and focus adjustments in the dark, were fraught with errors and difficulties. Consequently, Piini, leveraging his electronic engineering background, decided to automate the process to overcome these challenges and improve results.",
+      "categories": [
+        "Astrophotography Technique",
+        "Technical Project",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "David Malin",
+        "Astrophotography",
+        "Step-focus",
+        "Star trails",
+        "Star colors",
+        "Automation",
+        "Camera techniques",
+        "Ernie Piini",
+        "Focusing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph97-11-astrophotography-from-p-4",
+      "documentId": "eph97-11",
+      "title": "Astrophotography, from p. 4",
+      "summary": "The article details the author's \"Automated Step-Focus Photography\" project, a custom-built device for astrophotography that automates camera focus adjustments and shutter control. It describes the mechanical \"slide-rule\" mechanism and the electronic control box used to create star trail photos, with the author expressing satisfaction with its performance during field testing.",
+      "categories": [
+        "Technical",
+        "DIY Astronomy Equipment",
+        "Astrophotography",
+        "Project Report"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Automated focus",
+        "Star trails",
+        "DIY astronomy",
+        "Electronics",
+        "DC motor",
+        "556 Timer",
+        "Camera automation",
+        "Dark-sky sites",
+        "Observing equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph97-11-david-north",
+      "documentId": "eph97-11",
+      "title": "David North",
+      "summary": "This article details the astronomical events for November, including lunar phases and libration opportunities for observing specific lunar features like the northern polar region. It advises on planetary visibility, noting Jupiter, Uranus, and Neptune are well-placed early in the month, while Saturn improves later, and Mars and Venus are visible near the horizon. Additionally, it highlights two meteor showers, the Taurids and the potentially spectacular Leonids, both active during November, providing peak dates and parent comets.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Events",
+        "Monthly Sky Report"
+      ],
+      "keywords": [
+        "November astronomy",
+        "lunar phases",
+        "moon libration",
+        "planetary visibility",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Taurid meteor shower",
+        "Leonid meteor shower",
+        "Comet Encke",
+        "Comet Temple-Tuttle",
+        "observing tips"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-in-memory",
+      "documentId": "eph97-11",
+      "title": "IN MEMORY",
+      "summary": "Bob Keller, a dedicated member of the San Jose Astronomical Association, passed away on September 13 after a five-year battle with prostate cancer. A chemistry teacher by profession, he was an avid astrophotographer who documented SJAA events and the Large Amateur Telescope project, and was posthumously awarded the A.B. Gregory award. He is survived by his wife, eleven children, and nine grandchildren.",
+      "categories": [
+        "Obituary",
+        "Association News",
+        "In Memoriam",
+        "Awards"
+      ],
+      "keywords": [
+        "Bob Keller",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Prostate Cancer",
+        "Astrophotography",
+        "Group 70",
+        "Large Amateur Telescope project",
+        "A.B. Gregory award"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph97-11-submit",
+      "documentId": "eph97-11",
+      "title": "Submit",
+      "summary": "Members of the SJAA are encouraged to submit articles for publication in the SJAA Ephemeris newsletter. Submissions should be sent to Dave North via email by the tenth of each month to be included in the following month's issue, and must include the author's name and phone number.",
+      "categories": [
+        "announcement",
+        "newsletter",
+        "call for submissions",
+        "publication guidelines",
+        "internal communication"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "article submission",
+        "newsletter content",
+        "Dave North",
+        "submission deadline",
+        "publication"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph97-11-visor-from-p-1",
+      "documentId": "eph97-11",
+      "title": "Visor, from p. 1",
+      "summary": "The author recounts an deeply emotional experience viewing astronaut Jim Irwin's Apollo spacesuit at a Smithsonian exhibit, finding it far more poignant than other artifacts like the lunar rover or command module. The suit serves as a powerful symbol, prompting reflection on Irwin's Apollo 15 mission, the immense human ingenuity behind space exploration, and the astronaut's spiritual contemplation of the universe. The article details various aspects of the suit, from its visor and soiled fabric to the PLSS, connecting these technical elements to the profound human achievement and legacy of lunar exploration.",
+      "categories": [
+        "Personal Reflection",
+        "Space Exploration History",
+        "Exhibit Review",
+        "Aerospace Technology"
+      ],
+      "keywords": [
+        "Jim Irwin",
+        "Apollo spacesuit",
+        "Lunar exploration",
+        "Apollo 15",
+        "Smithsonian exhibit",
+        "Hadley Rille",
+        "Portable Life Support System (PLSS)",
+        "Lunar rover",
+        "Astronauts",
+        "Space history"
+      ],
+      "pageStart": 1,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph97-11-don-machholz",
+      "documentId": "eph97-11",
+      "title": "Don Machholz",
+      "summary": "This article reports on several comet developments, including the visual discovery of C/1997 T1 (Utsunomiya) by Syogo Utsunomiya, visible in most telescopes, and the fainter discovery of P/1997 T3 by professional observers. It also provides updates on the visibility of comets like Hale-Bopp, Meunier-Dupouy, and the return of Periodic Comet Hartley 2, alongside five new SOHO satellite comet discoveries. The piece concludes with statistical notes on visual comet discoveries since 1975, detailing discovery methods and locations.",
+      "categories": [
+        "Comet Discoveries",
+        "Observing Reports",
+        "Astronomy News",
+        "Comet Hunting"
+      ],
+      "keywords": [
+        "Comets",
+        "C/1997 T1 (Utsunomiya)",
+        "P/1997 T3",
+        "Comet Hale-Bopp",
+        "Comet Meunier-Dupouy",
+        "Periodic Comet Hartley 2",
+        "SOHO satellite",
+        "Visual discovery",
+        "Amateur astronomy",
+        "Observational astronomy",
+        "Magnitude",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-orbital-elements",
+      "documentId": "eph97-11",
+      "title": "Orbital Elements",
+      "summary": "This document, titled \"Orbital Elements,\" presents a detailed table of key orbital parameters for four distinct celestial objects: Hale-Bopp, Meunier-Dupouy, Hartley 2, and Utsunomiya. For each object, the table specifies data such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, orbital period, and absolute magnitude, alongside relevant reference sources and epochs.",
+      "categories": [
+        "Astronomical Data",
+        "Cometary Data",
+        "Technical Data",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Hale-Bopp",
+        "Meunier-Dupouy",
+        "Hartley 2",
+        "Utsunomiya",
+        "Comets",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Orbital Period",
+        "Astronomical Parameters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-ephemerides-for-00ut",
+      "documentId": "eph97-11",
+      "title": "Ephemerides (for 00UT)",
+      "summary": "This document provides ephemerides for several comets, including C/1995 O1 (Hale-Bopp), C/1997 J2 (Meunier-Dupouy), 103P/Hartley 2, and C/1997 T1 (Utsunomiya). It lists their right ascension, declination, elongation, and estimated sky magnitude for various dates in late 1997, serving as a guide for astronomical observation.",
+      "categories": [
+        "observational data",
+        "astronomy",
+        "cometology",
+        "ephemerides"
+      ],
+      "keywords": [
+        "comet",
+        "Hale-Bopp",
+        "Meunier-Dupouy",
+        "Hartley 2",
+        "Utsunomiya",
+        "ephemeris",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "astronomical observation",
+        "celestial mechanics"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph97-11-september-1997",
+      "documentId": "eph97-11",
+      "title": "SEPTEMBER 1997",
+      "summary": "This document provides a detailed astronomical guide for September 1997, featuring lunar phases, rise/transit/set times, and coordinate data (R.A., Dec.) for Mercury, Venus, Mars, Jupiter, and Saturn. It also includes solar information like Hours of Darkness, astronomical twilight times, sidereal sun data, and highlights a \"Darkest Saturday Night\" event for optimal observation.",
+      "categories": [
+        "Astronomical Ephemeris",
+        "Observing Guide",
+        "Monthly Sky Report",
+        "Planetary Data"
+      ],
+      "keywords": [
+        "September 1997",
+        "Lunar phases",
+        "Planetary positions",
+        "Ephemeris",
+        "Astronomical data",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Rise/Set times",
+        "Right Ascension",
+        "Declination",
+        "Astronomical twilight",
+        "Dark sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-activities-through-other-clubs",
+      "documentId": "eph97-11",
+      "title": "ACTIVITIES THROUGH OTHER CLUBS",
+      "summary": "The article announces that TAC (presumably The Astronomical Club, or a similar club implied by context) has secured the Montebello observing site every Wednesday, weather permitting, making it a unique ongoing arrangement in the astronomical community. It also provides directions to the Montebello site via Page Mill Road.",
+      "categories": [
+        "Club Activities",
+        "Observing Sites",
+        "Logistics",
+        "Events"
+      ],
+      "keywords": [
+        "TAC",
+        "Montebello",
+        "Observing Site",
+        "Wednesday",
+        "Page Mill Road",
+        "Club Activities",
+        "Directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-november",
+      "documentId": "eph97-11",
+      "title": "November",
+      "summary": "The month of November features multiple astronomy-related events, including two starparties at Grant Ranch, a public night at Van Meter School, and a lunar observing session. Additionally, the PAS General Meeting will host Dr. Scott Sandford of NASA to discuss the Stardust Mission and comet exploration.",
+      "categories": [
+        "events",
+        "observing reports",
+        "public outreach",
+        "meetings",
+        "technical"
+      ],
+      "keywords": [
+        "November",
+        "starparty",
+        "HVAC",
+        "Grant Ranch",
+        "TAC",
+        "Van Meter School",
+        "public night",
+        "FP",
+        "Henry Coe",
+        "lunar observing",
+        "PAS General Meeting",
+        "Stardust Mission",
+        "Dr. Scott Sandford",
+        "NASA",
+        "comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-december",
+      "documentId": "eph97-11",
+      "title": "December",
+      "summary": "This document lists three astronomical events scheduled for December, including a public night at TAC Fisher Middle School, lunar observing at TAC FP or Henry Coe, and an HVAC Starparty at Grant Ranch. It also provides contact information for the SJAA hotline and details on how to subscribe to or unsubscribe from their mailing list.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Information"
+      ],
+      "keywords": [
+        "December",
+        "Astronomical events",
+        "Public night",
+        "Lunar observing",
+        "Starparty",
+        "SJAA",
+        "Hotline",
+        "Mailing list"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-directions-to-sjaa-places",
+      "documentId": "eph97-11",
+      "title": "DIRECTIONS TO SJAA PLACES",
+      "summary": "This document provides detailed driving directions to three specific \"SJAA Places\"—Houge Park, Henry Coe State Park, and Fremont Peak State Park—which are likely observation or meeting sites for the San Jose Astronomical Association. It includes specific road names, distances, and mentions entrance fees for two of the state parks, indicating logistical information for club members or visitors.",
+      "categories": [
+        "Directions",
+        "Club Information",
+        "Observing Site Logistics",
+        "Local Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Directions",
+        "Parks",
+        "Observing Sites",
+        "San Jose",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "California",
+        "Astronomy Club"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph97-11-duh-editor",
+      "documentId": "eph97-11",
+      "title": "Duh Editor",
+      "summary": "This article reports on a club meeting that started late due to a lack of quorum, detailing various administrative discussions. Key topics included amendments to the 1998 calendar, a list of school star party dates, a treasury report, and a review of club bylaws. Additionally, plans for investigating new club sites, introducing door prizes, and potentially changing the format of the Beginning Astronomy Class were discussed, with upcoming elections highlighted.",
+      "categories": [
+        "Meeting Minutes",
+        "Club Affairs",
+        "Planning",
+        "Internal News"
+      ],
+      "keywords": [
+        "Club Meeting",
+        "Quorum",
+        "Calendar Amendments",
+        "Star Parties",
+        "Treasury Report",
+        "Membership",
+        "Bylaws",
+        "Site Committee",
+        "Door Prizes",
+        "Beginning Astronomy Class",
+        "Elections"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-ken-croswell-at-november-meeting",
+      "documentId": "eph97-11",
+      "title": "KEN CROSWELL AT NOVEMBER MEETING",
+      "summary": "Dr. Ken Croswell, author of the book \"Planet Quest,\" is scheduled to speak at the upcoming November meeting. He will present on the historical and future hunt for planets, both within our solar system and beyond, an area he is known for from his work as an astronomer from Berkeley.",
+      "categories": [
+        "Events",
+        "Meeting Announcement",
+        "Astronomy Talk"
+      ],
+      "keywords": [
+        "Ken Croswell",
+        "Planet Quest",
+        "November meeting",
+        "Planets",
+        "Exoplanets",
+        "Astronomy",
+        "Speaker"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-school-star-parties",
+      "documentId": "eph97-11",
+      "title": "SCHOOL STAR PARTIES",
+      "summary": "The article lists upcoming school star parties organized by SJAA from November to February, providing specific dates and school names. Volunteers are invited to contact Jim Van Nuland if they are interested in attending these events to help bring astronomy to children.",
+      "categories": [
+        "Events",
+        "Outreach",
+        "Volunteering",
+        "Community"
+      ],
+      "keywords": [
+        "Star Parties",
+        "School Events",
+        "Astronomy",
+        "SJAA",
+        "Jim Van Nuland",
+        "Dove Hill Elementary",
+        "Blue Hills Elementary",
+        "Bernal Intermediate",
+        "Milpitas Civic",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-chabot-auction-results",
+      "documentId": "eph97-11",
+      "title": "CHABOT AUCTION RESULTS",
+      "summary": "The Chabot Auction successfully raised approximately $18,000, with 20% allocated to the Chabot Telescope Makers Workshop. These funds will be used to purchase grit and mirror blanks for workshop participants who cannot afford them, a \"miracle\" for the unstructured group. The author thanked attendees and suggested some items might reappear at future SJAA and RTMC auctions.",
+      "categories": [
+        "Event Report",
+        "Fundraising",
+        "Amateur Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Chabot Auction",
+        "Telescope Makers Workshop",
+        "Fundraising",
+        "Amateur Astronomy",
+        "Mirror Blanks",
+        "Grit",
+        "SJAA",
+        "RTMC"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph97-11-officers-and-board-of-directors",
+      "documentId": "eph97-11",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization. It provides the names, positions (such as President, VP, Secretary, Treasurer, and Director), and contact phone numbers for each individual.",
+      "categories": [
+        "Organization Information",
+        "Leadership",
+        "Contact Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact",
+        "Directory",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-ephemeris-staff",
+      "documentId": "eph97-11",
+      "title": "Ephemeris Staff",
+      "summary": "This document lists the staff members for 'Ephemeris,' detailing their specific roles and contact phone numbers. The roles include Editor, Circulation, and Layout, with each staff member's name and an associated phone number provided.",
+      "categories": [
+        "Publication Information",
+        "Staff Directory",
+        "Editorial"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Staff",
+        "Editor",
+        "Circulation",
+        "Layout",
+        "Contact Information",
+        "Publication Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-telescope-loaner-program-status",
+      "documentId": "eph97-11",
+      "title": "Telescope Loaner Program Status",
+      "summary": "This document provides a status update for a telescope loaner program, listing various telescopes currently borrowed by members, their corresponding due dates, and some marked as 'Available'. It also includes a waiting list for specific telescopes. The program is open to SJAA members, who can contact Mike Koop to reserve a scope.",
+      "categories": [
+        "Program Status",
+        "Equipment Loan",
+        "Administrative",
+        "Community Service"
+      ],
+      "keywords": [
+        "telescope loaner program",
+        "status report",
+        "astronomy equipment",
+        "borrowers",
+        "due dates",
+        "waiting list",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-astro-ads",
+      "documentId": "eph97-11",
+      "title": "ASTRO ADS",
+      "summary": "Orion Telescope & Binocular Center in Cupertino is seeking temporary part-time help for the Christmas season, with the possibility of extension, and requires weekend availability. The document also provides instructions for submitting free non-commercial astronomy-related advertisements to the editor via email or mail, specifying a one-month run time unless an extension is requested.",
+      "categories": [
+        "Recruitment",
+        "Job Opportunity",
+        "Advertising",
+        "Community",
+        "Retail"
+      ],
+      "keywords": [
+        "Orion Telescope & Binocular Center",
+        "Job opening",
+        "Part-time",
+        "Christmas season",
+        "Cupertino",
+        "Astronomy ads",
+        "Classifieds",
+        "Employment",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-11-periodical-publication-statement",
+      "documentId": "eph97-11",
+      "title": "Periodical Publication Statement",
+      "summary": "The document is a periodical publication statement for the 'SJAA Ephemeris,' the monthly newsletter of the San Jose Astronomical Association, published 12 times annually from January to December. It provides the association's mailing address and indicates that this specific statement appeared in the November 1997 edition.",
+      "categories": [
+        "Publication Information",
+        "Organizational Information",
+        "Official Statement"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Newsletter",
+        "Publication Statement",
+        "Monthly Publication",
+        "November 1997"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph97-11-san-jose-astronomical-association-membership-form",
+      "documentId": "eph97-11",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is the official membership form for the San Jose Astronomical Association (SJAA). It details the annual membership fees ($15 for standard, $6 for junior) and offers an optional Sky & Telescope subscription for an additional $27. Members can submit the form and payment either in person at an SJAA meeting or by mailing it to the treasurer, Bob Elsberry, at the provided address.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational Information",
+        "Fees and Subscriptions"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Membership Fees",
+        "Sky & Telescope",
+        "Subscription",
+        "Renewal",
+        "Junior Membership",
+        "Contact Information",
+        "Treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph97-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9711/Eph97_11.pdf",
+      "txtPath": "9711/Eph97_11.md"
+    }
+  ]
+}

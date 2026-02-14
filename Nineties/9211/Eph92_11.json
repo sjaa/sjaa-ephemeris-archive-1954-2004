@@ -1,0 +1,703 @@
+{
+  "articles": [
+    {
+      "id": "eph92-11-sjaa-ephemeris",
+      "documentId": "eph92-11",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the \"SJAA EPHEMERIS,\" the official publication of the San Jose Astronomical Association, dated November 1992. It is identified as Volume 3, Number 11, indicating a regular, likely monthly, release from the organization.",
+      "categories": [
+        "Newsletter",
+        "Publication",
+        "Astronomy Club",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Astronomy",
+        "Publication",
+        "Newsletter",
+        "November 1992"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-the-eye-piece",
+      "documentId": "eph92-11",
+      "title": "The Eye Piece",
+      "summary": "Bob Madden details his correspondence with Lech Jaszowski, a 20-year-old Polish astronomy student, and seeks donations of astronomy periodicals and hardware (like eyepieces and mirrors) to send him, while being cautious about shipping costs and customs. The article also provides a calendar of upcoming club events, including numerous star parties, general meetings with featured speakers, and board of directors meetings scheduled from November through January.",
+      "categories": [
+        "Club News",
+        "Events Calendar",
+        "Amateur Astronomy",
+        "Community Outreach",
+        "Donation Request"
+      ],
+      "keywords": [
+        "Lech Jaszowski",
+        "Poland",
+        "Bob Madden",
+        "Star Parties",
+        "General Meetings",
+        "Telescopes",
+        "Eyepieces",
+        "Donations",
+        "Astronomy Club Events",
+        "S&T Magazine",
+        "Astronomy Magazine",
+        "Fremont Peak",
+        "Houge Park",
+        "Henry Coe State Park"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph92-11-three-nights-at-fremont-peak",
+      "documentId": "eph92-11",
+      "title": "Three nights at Fremont Peak",
+      "summary": "This article details the first two nights of a three-night stargazing event at Fremont Peak, highlighting the excellent observing conditions despite some smog. It describes the various telescopes present, a good turnout of attendees including families, and specific observing attempts like viewing the Orion Nebula and the elusive Horsehead Nebula. The report emphasizes the stable and pleasant weather, along with the camaraderie among observers.",
+      "categories": [
+        "observing report",
+        "event report",
+        "stargazing",
+        "astronomy club activity"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "stargazing",
+        "observing conditions",
+        "telescopes",
+        "Dobsonians",
+        "Orion Nebula",
+        "Horsehead Nebula",
+        "light pollution",
+        "Paul Barton",
+        "astronomy event"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph92-11-the-polish-amateur-astronomers-society-ptma",
+      "documentId": "eph92-11",
+      "title": "The Polish Amateur Astronomers Society (PTMA)",
+      "summary": "The Polish Amateur Astronomers Society (PTMA), founded in 1927, serves as the central organization for amateur astronomers in Poland. Headquartered in Cracow, it has grown to 3,000 members across 25 regional departments, offering lectures, public shows, workshops, and publishing the monthly magazine *Urania*. The society includes six specialized sections, with the Section of Observations of Positions and Occultations being particularly active, conducting numerous observations and publishing its own materials.",
+      "categories": [
+        "Organizational Profile",
+        "Amateur Astronomy",
+        "Astronomical Societies",
+        "History",
+        "Observing Programs",
+        "Education & Outreach"
+      ],
+      "keywords": [
+        "Polish Amateur Astronomers Society",
+        "PTMA",
+        "Poland",
+        "Amateur Astronomy",
+        "Cracow",
+        "Urania magazine",
+        "Occultations",
+        "Variable Stars",
+        "Comets",
+        "Meteors",
+        "Solar Observation",
+        "Astronomical Instruments",
+        "Observing Sections"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-astronomical-clubs",
+      "documentId": "eph92-11",
+      "title": "Astronomical Clubs",
+      "summary": "The article highlights the scarcity of astronomical clubs in Poland compared to the United States, identifying only two known examples. One is Helvius, active since 1987 in Tranow, catering to young people aged 10-19 with weekly theoretical and manual training, alongside school programs. The second is a correspondence club located in Silesia.",
+      "categories": [
+        "Clubs & Organizations",
+        "Astronomy Education",
+        "Community News",
+        "Societies"
+      ],
+      "keywords": [
+        "Astronomical Clubs",
+        "Poland",
+        "Helvius",
+        "Tranow",
+        "Silesia",
+        "Youth Astronomy",
+        "Astronomy Education",
+        "Correspondence Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-magazines",
+      "documentId": "eph92-11",
+      "title": "Magazines",
+      "summary": "The article describes *Urania*, a 32-page monthly astronomy magazine published by the PTMA, which began in March 1922 and has issued 608 numbers. It aims to provide information to amateur astronomers, uncover astronomical mysteries, and inspire active participation in the amateur scientific movement through diverse articles, observer guides, and historical insights. Unfortunately, the PTMA's poor financial situation jeopardizes the magazine's continued publication.",
+      "categories": [
+        "Publications",
+        "Astronomy Magazine",
+        "Amateur Astronomy",
+        "Organizational News",
+        "Financial Challenges"
+      ],
+      "keywords": [
+        "Urania magazine",
+        "PTMA",
+        "amateur astronomy",
+        "astronomy popularization",
+        "magazine content",
+        "publication history",
+        "financial difficulties",
+        "astronomical calendar"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-11-double-triple-and-multiple-stars",
+      "documentId": "eph92-11",
+      "title": "Double, Triple and Multiple Stars",
+      "summary": "Patrick M. Donnelly recounts his experiences observing double and multiple stars using only 7x50 binoculars and a star field guide while on field work in Iowa. He details numerous binocular-resolvable stellar systems, including Nu-Draconis, Epsilon and Delta Lyra, Mu and Omicron-1 Cygni, and various pairs in Capricorn and Andromeda. The article highlights that many interesting celestial objects can be observed effectively with limited equipment, providing a practical guide for binocular astronomy.",
+      "categories": [
+        "Observing Reports",
+        "Binocular Astronomy",
+        "Stellar Astronomy",
+        "Astronomy Guides"
+      ],
+      "keywords": [
+        "Double Stars",
+        "Multiple Stars",
+        "Binoculars",
+        "Observing",
+        "Nu-Draconis",
+        "Lyra",
+        "Cygnus",
+        "Capricorn",
+        "Andromeda",
+        "Perseus",
+        "Arc-seconds",
+        "Star Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-paul-barton-s-star-party-report",
+      "documentId": "eph92-11",
+      "title": "Paul Barton's Star Party Report",
+      "summary": "This report details a highly successful star party in 1992, possibly one of the best of the year, attended by many individuals including Rick Morales with his 20\" Dobson telescope. Excellent viewing conditions continued through Sunday night, enjoyed by a smaller, dedicated group of observers.",
+      "categories": [
+        "Observing Report",
+        "Event Report",
+        "Star Party"
+      ],
+      "keywords": [
+        "Star Party",
+        "Observing",
+        "Astronomy",
+        "Telescope",
+        "Dobson",
+        "1992",
+        "Paul Barton"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph92-11-houge-park-star-party",
+      "documentId": "eph92-11",
+      "title": "Houge Park Star Party",
+      "summary": "A star party was held at Houge Park on Friday, October 2nd, attended by six to eight telescopes and approximately 50 guests, despite initial hazy conditions. Attendees viewed various celestial objects including the Moon, Saturn, several nebulae, and galaxies, with Jerry McKee ably operating the JMI-18 telescope. The event also highlighted upcoming plans for a student visit and acknowledged Mark Wagner's contribution to the Ephemeris publication.",
+      "categories": [
+        "observing report",
+        "events",
+        "astronomy outreach",
+        "community"
+      ],
+      "keywords": [
+        "Houge Park Star Party",
+        "observing",
+        "telescopes",
+        "celestial objects",
+        "Moon",
+        "Saturn",
+        "nebulae",
+        "galaxies",
+        "astronomy club",
+        "public outreach",
+        "Ephemeris"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph92-11-september-slide-and-equipment-night",
+      "documentId": "eph92-11",
+      "title": "September Slide and Equipment Night",
+      "summary": "The 'September Slide and Equipment Night' event at Houge Park featured members showcasing their custom-built astronomical equipment. Highlights included Bob Elsberry's 5.5\" Lensless Wright for visual observation, Jeff Horne's 8\" Lensless Wright Camera, Jack Zeiders presenting a new Hydrogen Alpha filter and solar telescope, and Ernie Piini's self-designed solar eclipse telescope. All photographs were taken by Bob Keller, capturing the innovative spirit of the participants.",
+      "categories": [
+        "events",
+        "observing reports",
+        "technical showcase",
+        "club meeting"
+      ],
+      "keywords": [
+        "September Slide and Equipment Night",
+        "home-made equipment",
+        "Lensless Wright",
+        "Hydrogen Alpha filter",
+        "solar telescope",
+        "solar eclipse telescope",
+        "astronomy equipment",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-houge-park-star-party",
+      "documentId": "eph92-11",
+      "title": "Houge Park Star Party",
+      "summary": "The article reports on the Houge Park Star Party, an astronomical observing event that took place in November 1992. It highlights an attendee, Paul Barton, and his JMI-18 telescope.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Star Party",
+        "Paul Barton",
+        "JMI-18",
+        "Telescope",
+        "Astronomy Observation",
+        "November 1992"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph92-11-houge-park-star-parties",
+      "documentId": "eph92-11",
+      "title": "Houge Park Star Parties",
+      "summary": "This document features 'Houge Park Star Parties,' including several images of individuals with telescopes and engaging in astronomy discussions at these events. It also presents the complete 1993 calendar for the SJAA, detailing dates for General Meetings, Houge Park Star Parties, and Beginning Astronomy Classes, as published in the November 1992 'Ephemeris.'",
+      "categories": [
+        "Event Schedule",
+        "Community Astronomy",
+        "Club Activities",
+        "Observing Events"
+      ],
+      "keywords": [
+        "Houge Park Star Parties",
+        "SJAA",
+        "Astronomy",
+        "Telescopes",
+        "1993 Calendar",
+        "General Meetings",
+        "Beginning Astronomy Class",
+        "Ephemeris"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph92-11-equipment-loan-status",
+      "documentId": "eph92-11",
+      "title": "EQUIPMENT LOAN STATUS",
+      "summary": "This document outlines the current status of an equipment loan program for members, primarily focusing on telescopes. Members are invited to bid for available telescopes or request renewal of current loans, with a table detailing each piece of equipment, its borrower, and the loan date. The list includes various telescope types like reflectors, Dobsons, Maksutovs, and SCTs.",
+      "categories": [
+        "Club Operations",
+        "Equipment Management",
+        "Member Services",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "equipment loan",
+        "telescope loan",
+        "Paul Barton",
+        "loan status",
+        "reflector",
+        "Dobson",
+        "Maksutov",
+        "SCT",
+        "astronomy club",
+        "member access"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-paul-barton-s-star-party-report",
+      "documentId": "eph92-11",
+      "title": "Paul Barton's Star Party Report",
+      "summary": "Paul Barton's Star Party Report details a successful event at St. Clare's School, attended by approximately 50 parents, students, and teachers. Attendees viewed the sun during the day and several celestial objects like Saturn, Andromeda, and Hercules at night, despite bright moonlight. The event also featured a talk by Jack Peterson, ample food, and involvement from SJAA members, with a call for more volunteers to support future star parties.",
+      "categories": [
+        "observing report",
+        "events",
+        "community outreach",
+        "education"
+      ],
+      "keywords": [
+        "star party",
+        "St. Clare's School",
+        "solar viewing",
+        "night sky observing",
+        "Saturn",
+        "Andromeda",
+        "Hercules",
+        "Alberio",
+        "Jack Peterson",
+        "Paul Barton",
+        "SJAA",
+        "volunteering",
+        "telescopes"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-11-astro-ads",
+      "documentId": "eph92-11",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS is a free classifieds section for noncommercial advertisers to sell astronomically related products or services. Ads must be submitted by the 12th of each month to Bob Madden and will run for approximately three months. The article includes several example listings for used telescopes, eyepieces, mounts, and other astronomy accessories.",
+      "categories": [
+        "Classifieds",
+        "Advertisements",
+        "Astronomy Equipment",
+        "Community Services"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "classifieds",
+        "telescope",
+        "refractor",
+        "Schmidt-Cassegrain",
+        "Newtonian",
+        "equatorial mount",
+        "eyepieces",
+        "finder",
+        "filters",
+        "polar axis finder",
+        "star diagonal",
+        "focuser",
+        "drive gear",
+        "Bushnell",
+        "Meade",
+        "Tuthill",
+        "Lumicon",
+        "Parks",
+        "Celestron",
+        "Byers",
+        "astronomy products",
+        "astronomy services"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-11-lunar-phases-date-rise-tran-set",
+      "documentId": "eph92-11",
+      "title": "Lunar Phases Date Rise Tran Set",
+      "summary": "This document outlines the schedule for the major lunar phases during November, providing the exact time and date for each event. For every phase, including First Quarter, Full Moon, Last Quarter, and New Moon, it lists the corresponding moonrise, transit, and moonset times. This data is essential for observers to track the moon's visibility and position throughout the month.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Observing Information",
+        "Celestial Mechanics",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "Moonrise",
+        "Moonset",
+        "Transit",
+        "November",
+        "Celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-nearer-planets",
+      "documentId": "eph92-11",
+      "title": "Nearer Planets",
+      "summary": "This document provides an astronomical guide for several 'nearer planets'—Mercury, Venus, Mars, Jupiter, and Saturn—along with data for the Sun (SOL). For three specific dates in November (7th, 17th, 27th), it lists each celestial body's distance in Astronomical Units (AU), apparent magnitude, and three corresponding time entries, likely indicating observation windows or key positions.",
+      "categories": [
+        "Astronomy Data",
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "SOL",
+        "Astronomical Unit",
+        "Magnitude",
+        "Observing Times",
+        "November"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-astronomical-twilight",
+      "documentId": "eph92-11",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a concise table of Julian Dates and corresponding Gregorian dates in November, each paired with a specific time range. These time ranges likely denote the start and end times of astronomical twilight for the listed dates.",
+      "categories": [
+        "Astronomical Data",
+        "Reference",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Twilight times",
+        "Celestial mechanics",
+        "Timetable"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-sidereal-time",
+      "documentId": "eph92-11",
+      "title": "Sidereal Time",
+      "summary": "This document provides a concise listing of sidereal times corresponding to specific dates in November, referenced to Pacific Standard Time (PST). It details the sidereal time at transit right ascension for November 7th and 17th, and the sidereal time at local midnight for November 27th. This data likely serves as a quick reference for astronomical observation planning.",
+      "categories": [
+        "Astronomy",
+        "Timekeeping",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Transit",
+        "Local Midnight",
+        "PST",
+        "Observation Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-darkest-saturday-night-nov-21",
+      "documentId": "eph92-11",
+      "title": "Darkest Saturday Night Nov 21",
+      "summary": "The article announces the \"Darkest Saturday Night\" on November 21st, providing key astronomical times for optimal viewing. It details a sunset at 16:46 PST, twilight ending at 18:22 PST, and moonrise not until 04:38 PST, indicating excellent dark-sky observing conditions.",
+      "categories": [
+        "observing conditions",
+        "astronomical events",
+        "planning"
+      ],
+      "keywords": [
+        "dark sky",
+        "sunset",
+        "twilight",
+        "moonrise",
+        "November 21",
+        "Pacific Standard Time",
+        "astronomy",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-offices-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph92-11",
+      "title": "Offices and Board of Directors | Ephemeris Contributors",
+      "summary": "This document lists the current Offices and Board of Directors, including their titles, names, and contact phone numbers. It also provides a separate list of 'Ephemeris Contributors' with their names and phone numbers, and identifies the Editor.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Contact List"
+      ],
+      "keywords": [
+        "Offices",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Contact Information",
+        "Organizational Structure",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Editor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-comet-comments",
+      "documentId": "eph92-11",
+      "title": "Comet Comments",
+      "summary": "Don Machholtz's \"Comet Comments\" provides updates on several recently recovered or discovered comets, including Brewington, Helin-Lawrence, Tuttle, and Ciftreo, detailing their characteristics and expected visibility. The article highlights the significant recovery of Periodic Comet Swift-Tuttle, noting its rapid brightening, historical observations, upcoming perihelion, and its association with the Perseid meteor shower, providing an outlook for its next peak.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Comets",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Comet Swift-Tuttle",
+        "Periodic Comets",
+        "Comet Recovery",
+        "Perseid Meteor Shower",
+        "Comet Brewington",
+        "Comet Helin-Lawrence",
+        "Comet Tuttle",
+        "Comet Ciftreo",
+        "Astronomical Observations",
+        "Magnitude",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-ephemeris",
+      "documentId": "eph92-11",
+      "title": "EPHEMERIS",
+      "summary": "This document provides an ephemeris for Periodic Comet Swift-Tuttle (1992t) for the period from October 15 to December 9. It lists daily celestial coordinates (RA, DEC), elongation, sky position (Eastern sky), and estimated visual magnitude, serving as a guide for observers to track the comet's position and brightness changes.",
+      "categories": [
+        "Ephemeris",
+        "Observing Reports",
+        "Astronomy Data",
+        "Comets"
+      ],
+      "keywords": [
+        "Comet Swift-Tuttle",
+        "Ephemeris",
+        "Astronomy",
+        "Celestial mechanics",
+        "Observing",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "1992t"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-can-anyone-help",
+      "documentId": "eph92-11",
+      "title": "Can Anyone Help",
+      "summary": "A club is seeking assistance for a senior member who no longer drives and wishes to attend meetings at Milpitas Library. Members are requested to contact J.D. Wells, whose number is provided, to help arrange transportation.",
+      "categories": [
+        "Community Support",
+        "Member Assistance Request",
+        "Announcement"
+      ],
+      "keywords": [
+        "transportation",
+        "senior member",
+        "club meetings",
+        "Milpitas Library",
+        "J.D. Wells",
+        "assistance request",
+        "community outreach"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-11-san-jose-astronomical-association-membership",
+      "documentId": "eph92-11",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and associated fees for the San Jose Astronomical Association (SJAA), including regular, junior, and Sky & Telescope package memberships. It provides a fillable form for new members' personal details and instructions for submitting the application to the treasurer either at a meeting or by mail.",
+      "categories": [
+        "Membership Information",
+        "Association Administration",
+        "Forms/Applications",
+        "Local Astronomy Group"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Fees",
+        "Application",
+        "Amateur Astronomy",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-make-checks-payable-to-sjaa",
+      "documentId": "eph92-11",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document outlines instructions for San Jose Astronomical Association (SJAA) membership payments, specifying various membership types and options for new or renewal. It also provides submission guidelines for the SJAA's monthly publication, \"EPHEMERIS,\" including deadlines and editor contact information, along with the association's mailing address.",
+      "categories": [
+        "Membership",
+        "Publication Information",
+        "Organizational Information",
+        "Instructions"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Membership",
+        "EPHEMERIS",
+        "Publication",
+        "Submission guidelines",
+        "Non-profit organization",
+        "Dues"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-11-sjaa-hotline",
+      "documentId": "eph92-11",
+      "title": "SJAA HOTLINE",
+      "summary": "This document snippet advertises the \"SJAA HOTLINE,\" a 24-hour information service provided by the SJAA organization. Dated November 1992 and referencing an \"EPHEMERIS,\" it suggests the publication is likely from an astronomy club or society, offering timely astronomical information.",
+      "categories": [
+        "Information Service",
+        "Contact Information",
+        "Astronomy Club/Society",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "Hotline",
+        "24-hour information",
+        "Ephemeris",
+        "Astronomy",
+        "November 1992"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9211/Eph92_11.pdf",
+      "txtPath": "9211/Eph92_11.md"
+    }
+  ]
+}

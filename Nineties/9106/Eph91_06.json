@@ -1,0 +1,595 @@
+{
+  "articles": [
+    {
+      "id": "eph91-06-vol-3-no-6-official-publication-of-the-san-jose-astronomical-association-june-1991",
+      "documentId": "eph91-06",
+      "title": "Vol 3 No. 6 | Official Publication of the San Jose Astronomical Association | JUNE, 1991",
+      "summary": "This June 1991 publication from the San Jose Astronomical Association announces a guest speaker on big lens astrophotography and provides results from a recent club auction, seeking feedback on its attendance. It also details an upcoming Yosemite Star Party, reminds members about the annual picnic location, and calls for nominations for the Dr. A. B. Gregory Award recognizing contributions to amateur astronomy.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Opportunities",
+        "Awards",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Telephoto Lenses",
+        "SJAA",
+        "Auction",
+        "A. B. Gregory Award",
+        "Yosemite Star Party",
+        "Glacier Point",
+        "Solar Eclipse",
+        "Annual Picnic",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-june-1",
+      "documentId": "eph91-06",
+      "title": "JUNE 1",
+      "summary": "This document outlines an event calendar for June and July, detailing various astronomy-related activities. Key events include public star parties at multiple locations, a general meeting featuring astrophotography, an introductory astronomy class, and the SJAA annual picnic. A notable event in July is a partial solar eclipse visible in the Bay Area.",
+      "categories": [
+        "Events Calendar",
+        "Public Outreach",
+        "Meetings",
+        "Education",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "June events",
+        "July events",
+        "General Meeting",
+        "Astrophotography",
+        "Chuck Vaughan",
+        "Star Party",
+        "Grant Ranch",
+        "Henry Coe State Park",
+        "Branham Lane Park",
+        "Introductory Astronomy Class",
+        "SJAA picnic",
+        "Solar Eclipse",
+        "Bay Area astronomy",
+        "Volunteers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-sjaa-hotline",
+      "documentId": "eph91-06",
+      "title": "SJAA HOTLINE",
+      "summary": "The SJAA HOTLINE provides club information and lists current officers including Tom Ahl as President and John Gleason as Editor. An upcoming Star Party is announced to take place near Telescope Row, encouraging members to socialize, bring solar filters and telescopes for an evening observing session after the Moon rises at 1:40 am, with further food details to follow in next month's bulletin.",
+      "categories": [
+        "Event Announcement",
+        "Club Information",
+        "Observing Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "Hotline",
+        "Officers",
+        "Star Party",
+        "Telescope Row",
+        "Moon",
+        "Solar filters",
+        "Telescopes",
+        "Astronomy Club",
+        "Social Event"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-06-de-anza-planetarium",
+      "documentId": "eph91-06",
+      "title": "DE ANZA PLANETARIUM",
+      "summary": "De Anza Planetarium is launching real-time telescope observing sessions on the last Friday of each month and is seeking volunteers for these new programs. Additionally, support is needed for specific upcoming events: De Anza Day on June 2, a school group on June 7, and observing the partial solar eclipse on July 11.",
+      "categories": [
+        "Call for Volunteers",
+        "Events",
+        "Planetarium Programs",
+        "Observing Opportunities",
+        "News"
+      ],
+      "keywords": [
+        "De Anza Planetarium",
+        "telescope observing",
+        "volunteers",
+        "astronomical programs",
+        "solar eclipse",
+        "De Anza Day",
+        "school group"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-june-starry-nights",
+      "documentId": "eph91-06",
+      "title": "JUNE STARRY NIGHTS",
+      "summary": "This article addresses a member's question: 'Why does a telescope magnify?' by explaining the optical interaction between the telescope, eyepiece, and human eye. It describes how a telescope gathers light and focuses a large view into a smaller, concentrated image, which is then re-bent by the eyepiece to fill a larger portion of the human eye's pupil, thus making it appear magnified. The author uses simple language to demystify the focal length calculations and the role of each component in the magnification process.",
+      "categories": [
+        "Technical Explanation",
+        "Astronomy Basics",
+        "Optical Systems",
+        "Education"
+      ],
+      "keywords": [
+        "magnification",
+        "telescope",
+        "eyepiece",
+        "focal length",
+        "human eye",
+        "optics",
+        "astronomy",
+        "light",
+        "retina",
+        "pupil"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-06-meteor-notes",
+      "documentId": "eph91-06",
+      "title": "METEOR NOTES",
+      "summary": "The article \"METEOR NOTES\" classifies meteoroids based on their parent bodies: comets, non-differentiated asteroids, and differentiated asteroids. It details their physical properties, such as density and composition, explaining why fragile cometary meteoroids are prevalent in space but rarely survive atmospheric entry, while denser asteroid-derived meteorites constitute most terrestrial finds. The text further describes various meteorite types including chondrites, achondrites, siderolites, and siderites, highlighting their origins and characteristics.",
+      "categories": [
+        "Meteor Science",
+        "Astronomy",
+        "Planetary Science",
+        "Technical Analysis",
+        "Educational"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteoroids",
+        "Meteorites",
+        "Comets",
+        "Asteroids",
+        "Fireballs",
+        "Chondrites",
+        "Achondrites",
+        "Siderolites",
+        "Siderites",
+        "Parent bodies",
+        "Composition",
+        "Density",
+        "Classification"
+      ],
+      "pageStart": 55,
+      "pageEnd": 55
+    },
+    {
+      "id": "eph91-06-comet-comments",
+      "documentId": "eph91-06",
+      "title": "COMET COMMENTS",
+      "summary": "The article, titled \"COMET COMMENTS\" by Don Machholz, reports a recent recovery of one faint comet but notes generally low comet activity, particularly during March and April. This pattern of infrequent discoveries or recoveries has been typical for the past five years during these months.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Comets"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet activity",
+        "Comet recovery",
+        "Don Machholz",
+        "March",
+        "April"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-06-astro-ads",
+      "documentId": "eph91-06",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS offers a free classifieds service for non-commercial advertisers to sell astronomically related products or services. Ads must be submitted to the Editor by the 15th of each month and will run for approximately three months. An example ad offers four total eclipse cruise tickets for the '91 eclipse.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "events",
+        "community"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "free ads",
+        "astronomical products",
+        "astronomical services",
+        "eclipse",
+        "cruise tickets",
+        "non-commercial"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-celestron-spc-80",
+      "documentId": "eph91-06",
+      "title": "Celestron SPC - 80",
+      "summary": "This article lists a Celestron SPC-80 refractor telescope for sale, complete with a single-axis quartz motor drive, polaxis finder, and two eyepieces, priced at $700. Also available are Orion 8x56 binoculars for $100. Contact information for Eric Kopit is provided.",
+      "categories": [
+        "Advertisement",
+        "For Sale",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "Celestron SPC-80",
+        "refractor",
+        "telescope",
+        "motor drive",
+        "eyepiece",
+        "Orion 8X56 binoculars",
+        "astronomy equipment",
+        "used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-schaefer-mount-at-12",
+      "documentId": "eph91-06",
+      "title": "Schaefer Mount - AT-12",
+      "summary": "This document advertises two high-end astronomical items for sale: a Schaefer Mount - AT-12 with Byers Gear, Digi-Star drive corrector, and CATS system for $5000, and a rare Celestron 14\" telescope with Starbright coatings, one of three originally made for Perkin-Elmer, priced at $4250. Both items are available for immediate purchase.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "For Sale"
+      ],
+      "keywords": [
+        "Schaefer Mount AT-12",
+        "Celestron 14 inch",
+        "Telescope mount",
+        "Telescope",
+        "Astronomical equipment",
+        "Byers Gear",
+        "Digi-Star",
+        "CATS system",
+        "Perkin-Elmer",
+        "Starbright coatings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-starfire-refractor-f-7",
+      "documentId": "eph91-06",
+      "title": "Starfire Refractor - f/7",
+      "summary": "This advertisement lists two astronomical instruments for sale: a Starfire Refractor (f/7) with guidescope, case, and accessories, and a lightly used Questar 3.5\" telescope with accessories and extras. Both items are priced at $2750. Contact information for Steve Mandel is provided for inquiries.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "Starfire Refractor",
+        "Questar Telescope",
+        "Used Telescope",
+        "Astronomical Equipment",
+        "For Sale",
+        "Telescope Accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-astronomy-magazine",
+      "documentId": "eph91-06",
+      "title": "Astronomy Magazine",
+      "summary": "This advertisement offers a complete collection of Astronomy Magazine, spanning from 1973 to the present, in fine condition for $200 or best offer. Additionally, a Genoa Super EGA HiRes+ video card (Model 4850-7), including its software and manual, is available for $50. Interested buyers can contact Craig Congdon at 404-448-1329, with the ad dated April 1991.",
+      "categories": [
+        "Advertisement",
+        "For Sale",
+        "Collectibles",
+        "Vintage Computing"
+      ],
+      "keywords": [
+        "Astronomy Magazine",
+        "magazine collection",
+        "Genoa Super EGA HiRes+",
+        "video card",
+        "computer hardware",
+        "vintage",
+        "collectibles",
+        "1973-present",
+        "Craig Congdon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-celestron-equipment",
+      "documentId": "eph91-06",
+      "title": "Celestron Equipment",
+      "summary": "This classified advertisement lists various astronomy equipment for sale, including a Celestron f/6.3 focal reducer/coma corrector, Celestron and University Konig II eyepieces, and Mark V and Orion Skyglow filters. All items are described as being in new condition, with contact information for Mike Schartman provided for inquiries.",
+      "categories": [
+        "For Sale",
+        "Astronomy Equipment",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Celestron",
+        "focal reducer",
+        "coma corrector",
+        "eyepieces",
+        "nebula filter",
+        "Skyglow filter",
+        "astronomy equipment",
+        "used equipment",
+        "Mark V",
+        "Orion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-dobsonian-telescopes",
+      "documentId": "eph91-06",
+      "title": "Dobsonian Telescopes",
+      "summary": "This document is an advertisement listing several used telescopes and an eyepiece for sale. It features two Dobsonian telescopes (10\" f/6 and 13.1\" f/4.5) with specific mirrors and mounts, an 8\" f/20 Cassegrain telescope, and a University Optics 28mm Pretoria eyepiece. Contact information for Rick Decker is provided for inquiries.",
+      "categories": [
+        "Sales",
+        "Used Equipment",
+        "Telescopes",
+        "Eyepieces",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Dobsonian telescope",
+        "Cassegrain telescope",
+        "Cave mirror",
+        "Coulter mirror",
+        "Telrad",
+        "Serrier-truss mount",
+        "focuser",
+        "equatorial mount",
+        "Enterprise optics",
+        "University Optics",
+        "Pretoria eyepiece",
+        "astronomy equipment",
+        "for sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-celestron-10-x-70",
+      "documentId": "eph91-06",
+      "title": "Celestron 10 X 70",
+      "summary": "This document is a classified advertisement from April 1991, offering two Celestron astronomy accessories for sale. Items include a 10x70 orange finder scope with a C14 bracket for $125, and a camera T-Adapter for $15. Interested parties are directed to contact Bill Dellinges.",
+      "categories": [
+        "classifieds",
+        "equipment for sale",
+        "astronomy accessories"
+      ],
+      "keywords": [
+        "Celestron",
+        "finder scope",
+        "10x70",
+        "C14",
+        "T-Adapter",
+        "camera adapter",
+        "used equipment",
+        "astronomy gear"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-celestron-firstscope-80",
+      "documentId": "eph91-06",
+      "title": "Celestron Firstscope 80",
+      "summary": "This article is a classified advertisement for a used Celestron Firstscope 80 telescope. It includes an Azimuth-Altitude mounting with slow-motion controls, an adjustable tripod with an accessory tray, and two eyepieces (26mm and X2). Originally purchased for $600, the seller is asking $400 for the \"Like New!\" condition item, providing two contact phone numbers.",
+      "categories": [
+        "For Sale",
+        "Equipment",
+        "Classifieds",
+        "Astronomy Gear"
+      ],
+      "keywords": [
+        "Celestron Firstscope 80",
+        "telescope",
+        "used equipment",
+        "astronomy equipment",
+        "Azimuth-Altitude mounting",
+        "eyepieces",
+        "tripod",
+        "sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-star-hopping-councilman",
+      "documentId": "eph91-06",
+      "title": "STAR-HOPPING COUNCILMAN",
+      "summary": "City Councilman Bob Garfinkle, an aspiring novelist and technical writer, has signed a deal with Cambridge University Press to author a how-to book for amateur astronomers. The book will detail the \"star-hopping\" method for locating challenging celestial objects, a skill Garfinkle developed from his long-standing interest in astronomy.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Amateur Astronomy",
+        "Books/Publishing"
+      ],
+      "keywords": [
+        "Bob Garfinkle",
+        "Star-hopping",
+        "Amateur astronomers",
+        "Cambridge University Press",
+        "Astronomy",
+        "Celestial objects",
+        "Technical writing",
+        "Book deal"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-small-spot-in-the-sky",
+      "documentId": "eph91-06",
+      "title": "Small Spot in the Sky",
+      "summary": "The article highlights the difficulties of locating celestial objects through a telescope due to its limited field of view and the sky's continuous motion. It introduces 'star-hopping' as a fundamental navigation technique to overcome these challenges. An example is provided for finding the M51 galaxy by using Alkaid in the Big Dipper as a starting point.",
+      "categories": [
+        "Observing Techniques",
+        "Amateur Astronomy",
+        "Celestial Navigation"
+      ],
+      "keywords": [
+        "Telescope",
+        "Star-hopping",
+        "M51 galaxy",
+        "Big Dipper",
+        "Alkaid",
+        "Deep-sky objects",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-pioneers-of-astronomy",
+      "documentId": "eph91-06",
+      "title": "Pioneers of astronomy",
+      "summary": "The article details a forthcoming beginner's book on astronomy by Garfinkle, focusing on the history, theorists, and pioneers of the field, expected to be published within two years. Concurrently, it provides updates on several comets, highlighting the recent recovery of Periodic Comet Faye, which is anticipated to be visible to amateur astronomers from summer, alongside other comets like Hartley 2, Wirtanen, and Helin-Lawrence. Garfinkle, a city council member and professional writer, describes the book project as a \"labor of love.\"",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Comets",
+        "Amateur Astronomy",
+        "Book Announcement"
+      ],
+      "keywords": [
+        "Garfinkle",
+        "Astronomy book",
+        "Pioneers of astronomy",
+        "Comets",
+        "Periodic Comet Faye",
+        "Periodic Comet Hartley 2",
+        "Periodic Comet Wirtanen",
+        "Comet Helin-Lawrence",
+        "Amateur astronomy",
+        "Starfinding methods",
+        "Book publication"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-06-officers-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph91-06",
+      "title": "OFFICERS AND BOARD OF DIRECTORS | EPHEMERIS CONTRIBUTORS",
+      "summary": "This document lists the officers and board of directors of an organization, including their names, roles (e.g., President, Vice President, Treasurer, Secretary, Editor, Director), and associated phone numbers. Additionally, it provides a separate list of individuals identified as 'Ephemeris Contributors' with their contact numbers. This appears to be an organizational roster and contact directory.",
+      "categories": [
+        "Organization Roster",
+        "Contact Information",
+        "Administrative",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Contact Details",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Editor",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-this-month-s-meteors",
+      "documentId": "eph91-06",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article provides a table detailing meteor showers occurring 'this month,' specifically from late May through July. It lists five showers: Tau Herculids, Ophiuchids, June Lyrids, Corvids, and June Draconids, with information such as their dates, date of maximum activity, maximum visual zenithal rate, radiant point, velocity, and observational notes. The document also includes publication details for the 'SJAA EPHEMERIS' by the San Jose Astronomical Association.",
+      "categories": [
+        "observing guide",
+        "astronomical events",
+        "celestial phenomena",
+        "publication information"
+      ],
+      "keywords": [
+        "meteors",
+        "meteor showers",
+        "Tau Herculids",
+        "Ophiuchids",
+        "June Lyrids",
+        "Corvids",
+        "June Draconids",
+        "radiant point",
+        "zenithal rate",
+        "velocity",
+        "astronomy",
+        "San Jose Astronomical Association",
+        "EPHEMERIS"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-06-san-jose-astronomical-association-membership-application",
+      "documentId": "eph91-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It details different membership options, including standard, membership with Sky & Telescope subscription, and junior memberships, along with their associated fees. The form also provides submission instructions, either in person at an SJAA meeting or by mail to the treasurer.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Forms",
+        "Club Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Club Membership",
+        "Contact Information",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-06-make-checks-payable-to-sjaa",
+      "documentId": "eph91-06",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document appears to be a membership renewal form or part of an organization's mailing, requesting members to make checks payable to \"SJAA\" and indicating membership types (membership only, membership/S&T, junior) as well as new or renewal status. It also includes mailing information for \"SJAA EPHEMERIS\" as a non-profit organization, with a mention of \"Big Lens Astrophotography\" on June 1.",
+      "categories": [
+        "Membership",
+        "Organization Communication",
+        "Newsletter Excerpt",
+        "Call to Action"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership",
+        "renewal",
+        "checks payable",
+        "Ephemeris",
+        "non-profit",
+        "astrophotography",
+        "Big Lens",
+        "San Jose",
+        "Milpitas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9106/Eph91_06.pdf",
+      "txtPath": "9106/Eph91_06.md"
+    }
+  ]
+}

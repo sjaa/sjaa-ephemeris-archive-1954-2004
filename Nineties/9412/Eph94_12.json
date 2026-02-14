@@ -1,0 +1,571 @@
+{
+  "articles": [
+    {
+      "id": "eph94-12-sjaa-ephemeris",
+      "documentId": "eph94-12",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the December 1994 issue (Volume 5, Number 12) of \"SJAA Ephemeris,\" which is the official publication of the San Jose Astronomical Association. It represents a regular publication from the organization.",
+      "categories": [
+        "Publication",
+        "Newsletter",
+        "Organizational"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "December 1994",
+        "Astronomical publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-news-and-views-by-your-president",
+      "documentId": "eph94-12",
+      "title": "News and Views by Your President",
+      "summary": "The SJAA President initiates a new monthly column, discussing potential adjustments to membership dues and planning a comprehensive membership survey to gather broader club input. The article also issues a call for member contributions to the \"Ephemeris\" newsletter and seeks volunteers for desktop publishing assistance. Furthermore, it details an extensive calendar of upcoming club events, including star parties and general meetings for December and January, and encourages members to attend board meetings for active participation.",
+      "categories": [
+        "News",
+        "Club Administration",
+        "Events Calendar",
+        "Membership Engagement",
+        "Call for Volunteers",
+        "Equipment Discussion"
+      ],
+      "keywords": [
+        "SJAA",
+        "club news",
+        "membership dues",
+        "financial health",
+        "membership survey",
+        "Ephemeris newsletter",
+        "article submissions",
+        "desktop publishing",
+        "volunteers",
+        "board meetings",
+        "general meetings",
+        "star parties",
+        "observational astronomy",
+        "telescope equipment",
+        "astrophotography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-12-observing-the-sculptor-dwarf-galaxy",
+      "documentId": "eph94-12",
+      "title": "Observing the Sculptor Dwarf Galaxy",
+      "summary": "This article details an astronomical observing session by Jay Reynolds Freeman in September 1989 at Fremont Peak, highlighting superb viewing conditions. The author recounts observations of various objects, including M33, Pleiades nebulosity, Uranus, Stephan's Quintet, and the Saturn Nebula with different telescopes. The primary focus culminates in a successful, challenging visual detection of the Sculptor Dwarf Galaxy with a 5-inch Astro-Physics refractor, confirming a faint, diffuse brightening with averted vision.",
+      "categories": [
+        "Observing Report",
+        "Deep-sky Astronomy",
+        "Amateur Astronomy",
+        "Equipment Discussion",
+        "Historical Observation"
+      ],
+      "keywords": [
+        "Sculptor Dwarf Galaxy",
+        "Fremont Peak",
+        "Observing session",
+        "Deep-sky objects",
+        "M33",
+        "Pleiades",
+        "Uranus",
+        "Stephan's Quintet",
+        "Saturn Nebula",
+        "Astro-Physics refractor",
+        "Celestron refractor",
+        "Averted vision",
+        "Star party",
+        "Visual astronomy",
+        "Dwarf galaxies"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-12-sculptor-cont-from-page-2",
+      "documentId": "eph94-12",
+      "title": "Sculptor (cont from page 2)",
+      "summary": "The article details an astronomer's challenging but successful observation of the faint, low-contrast Sculptor System. Using a telescope and then binoculars, the observer employed techniques like moving the instrument and averted vision to detect a subtle glow, which was subsequently confirmed by star hopping and consulting multiple star atlases. The experience highlights the difficulties and rewards of observing elusive deep-sky objects.",
+      "categories": [
+        "Observing Report",
+        "Deep-Sky Objects",
+        "Observational Astronomy",
+        "Observing Techniques"
+      ],
+      "keywords": [
+        "Sculptor System",
+        "Deep-sky observing",
+        "Averted vision",
+        "Star hopping",
+        "Telescopes",
+        "Binoculars",
+        "Star atlases",
+        "Low-contrast objects",
+        "Galaxy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-12-president-cont-from-page-1",
+      "documentId": "eph94-12",
+      "title": "President (cont from page 1)",
+      "summary": "Club President Bob Brauer shares his personal observing experience, enjoying a razor-sharp view of Saturn through an eyepiece. He expresses interest in astrophotography, particularly working with current films and exploring CCD cameras, inviting members using CCD cameras to contact him to share their experiences.",
+      "categories": [
+        "President's Message",
+        "Observing Report",
+        "Astrophotography",
+        "Call for Participation"
+      ],
+      "keywords": [
+        "Saturn",
+        "Observing",
+        "Astrophotography",
+        "CCD cameras",
+        "Film photography",
+        "Eyepiece",
+        "Club activities",
+        "Bob Brauer"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph94-12-any-amateur-astronomers",
+      "documentId": "eph94-12",
+      "title": "ANY AMATEUR ASTRONOMERS?",
+      "summary": "This document recounts the initial steps in forming an amateur astronomy club in San Jose, prompted by a newspaper column on November 8, 1954, by William Weller. The first meeting, held on December 6, 1954, at Herbert Hoover Jr. High, gathered around 20 attendees. It featured discussions on astronomy clubs and telescopes by Walter Krumm, and a presentation on the Star of Bethlehem by Dr. Eggen from Lick Observatory.",
+      "categories": [
+        "Club Formation",
+        "Amateur Astronomy",
+        "Historical Event",
+        "Meeting Report"
+      ],
+      "keywords": [
+        "Amateur Astronomy Club",
+        "San Jose",
+        "William Weller",
+        "Lick Observatory",
+        "First Meeting",
+        "Walter Krumm",
+        "Dr. Eggen",
+        "Star of Bethlehem",
+        "Telescopes",
+        "1954"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-camera-cont-from-page-4",
+      "documentId": "eph94-12",
+      "title": "Camera (cont from page 4)",
+      "summary": "Paul, a speaker, shared his experience of photographing an object that expert astronomers initially dismissed, only for him to re-photograph it later, though credit for its discovery ultimately went to another astronomer. He also presented other impressive photographs, including the North American Nebula, concluding a highly regarded talk. The editor praised Paul as a quality speaker for the SJAA.",
+      "categories": [
+        "observing report",
+        "speaker presentation",
+        "club news",
+        "astronomy history"
+      ],
+      "keywords": [
+        "Paul",
+        "astronomer",
+        "photographs",
+        "North American Nebula",
+        "object observation",
+        "discovery credit",
+        "SJAA",
+        "speaker"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-12-what-did-you-see-fremont-peak-october-29-1994-by-mark-wagner",
+      "documentId": "eph94-12",
+      "title": "What Did You See? Fremont Peak October 29, 1994 by Mark Wagner",
+      "summary": "On October 29, 1994, a group of amateur astronomers, including Mark Wagner, gathered at Fremont Peak with an impressive array of large-aperture telescopes, hoping for ideal observing conditions. Despite initial optimism, the sky transparency proved poor, limiting views of faint objects. Nevertheless, the group observed several deep-sky objects, adapting their plans to the less-than-ideal seeing conditions.",
+      "categories": [
+        "observing report",
+        "amateur astronomy",
+        "personal account"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "October 1994",
+        "deep-sky observing",
+        "telescopes",
+        "sky conditions",
+        "galaxies",
+        "nebulae",
+        "star clusters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-time-for-coffee-and-midnight-meal-then-on-to-the-final-stretch-of-the-night-we-slammed-the-h-beta-filter-on-the-20-and-dean-nailed-the-horsehead-nebula-if-conditions-had-been-better-it-would-have-been-a-great-view-but-one-of-the-ccd-boys-put-it-into-perspective-letting-us-know-that-being-from-the-east-coast-where-it-is-very-difficult-to-see-the-horsehead-this-was-great-i-thought-the-view-compare-to-what-we-got-us-the-uhc-a-month-before-when-conditions-were-really-good-after-the-horsehead-dean-jumped-over-to-the-california-nebula-which-is-a-big-bugger-in-fact-we-could-only-see-parts-of-it-filling-the-field-of-view-as-we-did-not-have-a-wide-field-eyepiece-that-would-accept-the-1-25-h-beta-aw-life-s-hard",
+      "documentId": "eph94-12",
+      "title": "Time for coffee and midnight meal, then on to the final stretch of the night. We slammed the H- Beta filter on the 20\" and Dean nailed the Horsehead Nebula. If conditions had been better it would have been a great view, but one of the CCD boys put it into perspective, letting us know that being from the East Coast, where it is very difficult to see the Horsehead, this was great. I thought the view compare to what we got us the UHC a month before when conditions were really good. After the Horsehead, Dean jumped over to the California Nebula, which is a big bugger. In fact, we could only see parts of it filling the field of view, as we did not have a wide field eyepiece that would accept the 1.25\"H-Beta. Aw, life's hard.",
+      "summary": "An astronomy group conducted a late-night observing session using a 20-inch telescope and an H-Beta filter, successfully viewing the Horsehead and California Nebulae despite challenging conditions. While the views were compared to prior, better conditions, East Coast observers found them impressive. The night concluded with a bolide sighting, general satisfaction, and socializing before departure as temperatures dropped and the moon rose.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Deep Sky Observing",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "H-Beta filter",
+        "Horsehead Nebula",
+        "California Nebula",
+        "20-inch telescope",
+        "UHC filter",
+        "Observing conditions",
+        "Bolide",
+        "Rigel",
+        "Merope nebulosity",
+        "Eyepiece",
+        "CCD",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-paul-mortfield-talks-about-astrophotography-with-an-eight-inch-schmidt-camera-by-bob-madden",
+      "documentId": "eph94-12",
+      "title": "Paul Mortfield Talks about Astrophotography With an Eight-Inch Schmidt Camera by Bob Madden",
+      "summary": "Paul Mortfield presented his astrophotography techniques using an 8-inch, f-1.5 Schmidt camera, modified by Kevin Medlock for improved collimation and focus. He emphasized the critical role of a vibration-free mounting system and proper film handling, underscoring that understanding one's equipment is paramount for achieving crisp images. Mortfield showcased impressive black and white photographs, including a Helix Nebula image featuring a previously unseen curl.",
+      "categories": [
+        "Events",
+        "Astrophotography",
+        "Technical Discussion",
+        "Equipment Review"
+      ],
+      "keywords": [
+        "Paul Mortfield",
+        "Astrophotography",
+        "Schmidt camera",
+        "Astronomical imaging equipment",
+        "Film astrophotography",
+        "Vibration control",
+        "Helix Nebula",
+        "Collimation",
+        "Autoguider"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-12-the-backyard-astronomer-s-g-ide",
+      "documentId": "eph94-12",
+      "title": "The Backyard Astronomer's G ide",
+      "summary": "This article reviews \"The Backyard Astronomer's Guide\" by Terence Dickinson and Alan Dyer, praising it as a comprehensive and long-lasting resource for amateur astronomers. The book covers a broad range of topics including astronomical equipment, observation techniques (naked eye to telescope), and astrophotography. It also features valuable resources, maintenance guides, and myth-busting sections, making it highly recommended for anyone seriously interested in the hobby.",
+      "categories": [
+        "Book Review",
+        "Amateur Astronomy",
+        "Observing Guides",
+        "Equipment Guides"
+      ],
+      "keywords": [
+        "The Backyard Astronomer's Guide",
+        "Terence Dickinson",
+        "Alan Dyer",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Binoculars",
+        "Eyepieces",
+        "Astrophotography",
+        "Observation",
+        "Deep Sky Objects",
+        "Planets",
+        "Moon",
+        "Mounts",
+        "Collimation",
+        "Polar Alignment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-russian-cosmonaut-dies",
+      "documentId": "eph94-12",
+      "title": "Russian Cosmonaut Dies",
+      "summary": "Russian cosmonaut Dr. Boris Yegorov, a member of the 1964 Voskhod crew, died around September 12 in Moscow at the age of 58 from an apparent heart attack.",
+      "categories": [
+        "news",
+        "obituary",
+        "space exploration history"
+      ],
+      "keywords": [
+        "Boris Yegorov",
+        "Russian cosmonaut",
+        "Voskhod",
+        "death",
+        "heart attack",
+        "Moscow",
+        "space history"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph94-12-treasurer-s-report-oct-22-1994",
+      "documentId": "eph94-12",
+      "title": "Treasurer's report Oct. 22 1994",
+      "summary": "This document presents the Treasurer's Report from October 22, 1994, by Jim Hodgers. It details the balances for several financial accounts, including the Checkbook ($2041.16), Observatory Fund ($6106.07), Ephemeris pool ($252.48), and Gregory Fund ($341.60), noting additional interest from July 1993.",
+      "categories": [
+        "Financial Report",
+        "Administrative",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Treasurer's report",
+        "financial balances",
+        "October 1994",
+        "Jim Hodgers",
+        "Observatory Fund",
+        "Ephemeris pool",
+        "Gregory Fund"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-wide-field-and-planetary-camera-2-status",
+      "documentId": "eph94-12",
+      "title": "WIDE FIELD AND PLANETARY CAMERA-2 STATUS",
+      "summary": "The Hubble Space Telescope's Wide Field and Planetary Camera-2 (WFPC2) has made the most accurate measurements to date of the distance to Messier 100 in the Virgo cluster, pinpointing it at 56 million light-years using Cepheid stars. This refined the universe's expansion rate to 80 km/megaparsec and suggests a younger age of 8-12 billion years. All other telescope subsystems continue to perform well, with observations also including Neptune, Saturn, and Titan.",
+      "categories": [
+        "Astronomy",
+        "Research Findings",
+        "Space Telescopes",
+        "Telescope Operations",
+        "Event Calendar"
+      ],
+      "keywords": [
+        "Wide Field and Planetary Camera-2",
+        "WFPC2",
+        "Hubble Space Telescope",
+        "Messier 100",
+        "Virgo cluster",
+        "Universe expansion rate",
+        "Cepheid stars",
+        "Age of the universe",
+        "Jet Propulsion Laboratory",
+        "NASA",
+        "San Jose Astronomical Association",
+        "Star Party"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-12-telescope-loaner-status",
+      "documentId": "eph94-12",
+      "title": "Telescope Loaner Status",
+      "summary": "The article, titled 'Telescope Loaner Status,' provides an updated list of telescopes available for loan through an organization, likely SJAA, indicating their type, current user, and due dates. It also highlights several telescopes currently available for borrowing and specifies that a solar telescope is reserved for experienced members. Members interested in borrowing a telescope are instructed to contact Paul Barton to be added to a general or specific waiting list.",
+      "categories": [
+        "Equipment Loan Program",
+        "Club Communication",
+        "Member Services",
+        "Resource Management"
+      ],
+      "keywords": [
+        "Telescope",
+        "Loaner program",
+        "SJAA",
+        "Astronomy club",
+        "Equipment availability",
+        "Dobson",
+        "Refractor",
+        "Celestron C8",
+        "Paul Barton",
+        "Borrowing telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-astro-ads",
+      "documentId": "eph94-12",
+      "title": "ASTRO ADS",
+      "summary": "This document features 'ASTRO ADS,' a free classifieds section for noncommercial advertisers to sell astronomy-related products. It includes listings for various used telescopes and components, such as a Celestron C-5, an Ultima 8-inch, mirrors, and a refractor. Additionally, there are community announcements requesting a ride for a long-time member to meetings and seeking astronomical software for a school in Lesotho, Southern Africa.",
+      "categories": [
+        "classifieds",
+        "equipment sales",
+        "community announcement",
+        "member services",
+        "requests"
+      ],
+      "keywords": [
+        "astronomy equipment",
+        "telescopes",
+        "Celestron C-5",
+        "Celestron Ultima 8",
+        "eyepieces",
+        "filters",
+        "aluminized flat",
+        "refractor",
+        "mirror blank",
+        "astronomical software",
+        "community transport",
+        "used equipment",
+        "free ads"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-12-december1994",
+      "documentId": "eph94-12",
+      "title": "December1994",
+      "summary": "This document provides detailed astronomical data for December 1994, including lunar phases, rise and set times for the Moon and major planets (Mercury, Venus, Mars, Jupiter, Saturn), and information for the Sun. It also lists astronomical twilight times and sidereal time for the month, along with a highlighted 'Darkest Saturday Night'. All times are specified as Pacific Standard Time.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Celestial Mechanics",
+        "Observing Guide",
+        "Historical Astronomical Records"
+      ],
+      "keywords": [
+        "December 1994",
+        "Lunar Phases",
+        "Planetary Positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun Data",
+        "Rise Times",
+        "Set Times",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Magnitudes",
+        "Astronomical Units",
+        "Pacific Standard Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-offices-and-board-of-directors",
+      "documentId": "eph94-12",
+      "title": "Offices and Board of Directors",
+      "summary": "This document outlines the key personnel and their roles within an organization, listing the President, Vice President, Secretary, Treasurer, and several Directors, complete with contact numbers. It also identifies individuals responsible for Ephemeris contributions, editing, and distribution. The information provides an overview of the organization's leadership and operational staff.",
+      "categories": [
+        "Organizational Structure",
+        "Personnel",
+        "Contact Information",
+        "Leadership"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Ephemeris",
+        "Editor",
+        "Distribution",
+        "Contact List"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-comet-comments",
+      "documentId": "eph94-12",
+      "title": "Comet Comments",
+      "summary": "Don Machholz discusses the recovery of Periodic Comet Longmore and his visual discovery of Comet Machholz (1994r), providing details on its orbit and visibility, along with his personal comet hunting statistics. He also briefly mentions Periodic Comet Borrelly's current visibility and advertises his new \"Messier Marathon Observer's Guide\" book.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discovery",
+        "News",
+        "Personal Account",
+        "Product Announcement"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Don Machholz",
+        "Comet Machholz 1994r",
+        "Periodic Comet Longmore 1994d",
+        "Periodic Comet Borrelly",
+        "Comet hunting",
+        "Messier Marathon",
+        "Amateur astronomy",
+        "Observing reports"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-12-ephemerides",
+      "documentId": "eph94-12",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for Periodic Comet Borrelly (1994i) and Comet Machholz (1994r+), listing their celestial coordinates, elongation, and estimated magnitudes from late November 1994 to mid-January 1995. It also includes key orbital elements for these comets. The article is identified as part of \"EPHEMERIS,\" a monthly publication of the San Jose Astronomical Association, and contains submission guidelines.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Comet Observation",
+        "Technical Data",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Borrelly",
+        "Machholz",
+        "Orbital elements",
+        "Celestial coordinates",
+        "Magnitude",
+        "Astronomy",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-12-san-jose-astronomical-association-membership",
+      "documentId": "eph94-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership application and renewal process for the San Jose Astronomical Association (SJAA). It details different membership types, including \"Membership only,\" \"Membership / S&T\" (Sky & Telescope), and \"Junior (under 18),\" along with their respective fees. The form provides fields for applicant information and instructions for submitting the application and payment to the SJAA Treasurer.",
+      "categories": [
+        "Membership Application",
+        "Astronomy Club Information",
+        "Administrative",
+        "Announcement"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Renewal",
+        "Dues",
+        "Astronomy Club",
+        "Junior Membership",
+        "Sky & Telescope",
+        "San Jose, CA"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9412/Eph94_12.pdf",
+      "txtPath": "9412/Eph94_12.md"
+    }
+  ]
+}

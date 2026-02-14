@@ -1,0 +1,645 @@
+{
+  "articles": [
+    {
+      "id": "eph90-12-ephemeris",
+      "documentId": "eph90-12",
+      "title": "EPHEMERIS",
+      "summary": "This document is the December 1990 issue (Vol. 2 No. 12) of \"EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It serves as a historical record of the association's activities and communications for that month.",
+      "categories": [
+        "Newsletter",
+        "Astronomy Club Publication",
+        "Historical Document",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "December 1990",
+        "Astronomy",
+        "Publication",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-looking-ahead",
+      "documentId": "eph90-12",
+      "title": "LOOKING AHEAD",
+      "summary": "The article outlines significant changes to the club's 1991 schedule, including adjustments to general meetings, board meetings, introductory astronomy classes, and public presentations, primarily to align with star parties and the New Moon cycle. Additionally, it announces an upcoming presentation by Ernie Piini sharing his experiences observing the 1973 total solar eclipse in Mauritania, relevant for photographers and observers.",
+      "categories": [
+        "Club News",
+        "Event Schedule",
+        "Educational Programs",
+        "Astronomy Talks",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "1991 Schedule",
+        "Meeting Changes",
+        "Star Parties",
+        "Introductory Astronomy",
+        "Public Presentations",
+        "New Moon",
+        "Solar Eclipse",
+        "1973 Eclipse",
+        "Ernie Piini",
+        "Eclipse Photography",
+        "Club Calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-star-hustler",
+      "documentId": "eph90-12",
+      "title": "STAR HUSTLER",
+      "summary": "KQED is considering broadcasting Jack Horkheimer's program on Channel 32 before sign-off, with a potential start date of January 1991. Viewers are encouraged to look out for the show and spread the word.",
+      "categories": [
+        "news",
+        "announcement",
+        "television",
+        "media"
+      ],
+      "keywords": [
+        "Jack Horkheimer",
+        "STAR HUSTLER",
+        "KQED",
+        "Channel 32",
+        "television program",
+        "astronomy",
+        "January 1991"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-space-program-update",
+      "documentId": "eph90-12",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This \"Space Program Update\" by Bob Fingerhut details a schedule of upcoming events for December and early January, including general and board meetings, and public star parties. Activities are planned at various locations such as the Los Gatos Red Cross, Grant Ranch, and Branham Lane Park, with a brief mention of the 1973 Ernie Piini total solar eclipse.",
+      "categories": [
+        "Events",
+        "News",
+        "Community",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Bob Fingerhut",
+        "Space Program Update",
+        "December events",
+        "January events",
+        "General Meeting",
+        "Board Meeting",
+        "Public Star Party",
+        "Los Gatos Red Cross",
+        "Grant Ranch",
+        "Branham Lane Park",
+        "Halls Valley Group",
+        "Ernie Piini 1973 Total Solar Eclipse",
+        "SJAA",
+        "Astronomy events",
+        "Star gazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-ulysses-on-way-to-study-sun",
+      "documentId": "eph90-12",
+      "title": "ULYSSES ON WAY TO STUDY SUN -",
+      "summary": "The Ulysses spacecraft was successfully launched aboard the space shuttle Discovery on October 6, using a series of boosters to achieve high velocity for its journey. It is en route to Jupiter for a gravity assist maneuver that will propel it over the Sun's south pole. Ulysses will begin collecting heliosphere data in November using its nine solar physics instruments.",
+      "categories": [
+        "News",
+        "Space Mission",
+        "Solar Physics",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Ulysses",
+        "Sun",
+        "Discovery",
+        "Launch",
+        "Jupiter",
+        "Gravity Assist",
+        "Heliosphere",
+        "Spacecraft",
+        "Solar Studies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-atlantis-and-columbia-cleared-for-flight",
+      "documentId": "eph90-12",
+      "title": "ATLANTIS AND COLUMBIA CLEARED FOR FLIGHT -",
+      "summary": "Both Space Shuttle Atlantis and Columbia have been cleared for flight after successfully passing cryogenic hydrogen leakage tests, which had previously caused launch delays. Atlantis is now scheduled for a mid-November launch with a classified Department of Defense payload, while Columbia is set for an early December launch carrying the ASTRO-1 Spacelab mission.",
+      "categories": [
+        "news",
+        "space flight",
+        "mission updates"
+      ],
+      "keywords": [
+        "Atlantis",
+        "Columbia",
+        "Space Shuttle",
+        "launch",
+        "leakage tests",
+        "cryogenic hydrogen",
+        "Department of Defense",
+        "ASTRO-1",
+        "Spacelab"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-soviet-space-program",
+      "documentId": "eph90-12",
+      "title": "SOVIET SPACE PROGRAM -",
+      "summary": "The article reports on various international space program developments, including an unsuccessful spacewalk to repair the Mir station's Kvant-2 hatch and satellite launches by Arianespace and China. NASA is pursuing significant Space Shuttle upgrades, such as extended duration capabilities and improved avionics, and has finalized the design for the National Aerospace Plane (X-30). However, the US Congress enacted major cuts to NASA's FY 1991 budget, particularly impacting Space Station Freedom and the Space Exploration Initiative, while preserving funding for missions like CRAF and Cassini.",
+      "categories": [
+        "Space Program Updates",
+        "Manned Spaceflight",
+        "Space Technology",
+        "Space Policy & Funding",
+        "International Space Activities"
+      ],
+      "keywords": [
+        "Soviet Space Program",
+        "Mir Space Station",
+        "NASA Shuttle Upgrades",
+        "National Aerospace Plane (X-30)",
+        "NASA Budget",
+        "Space Station Freedom",
+        "Space Exploration Initiative",
+        "Satellite Launches",
+        "EVA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-12-part-6-light-pollution-filters",
+      "documentId": "eph90-12",
+      "title": "Part 6: Light Pollution Filters",
+      "summary": "This article discusses the common disappointment of observing deep-sky objects under light-polluted skies, even with high-quality astronomical equipment, due to the washing out of faint details. It introduces light pollution filters as a solution, explaining that while they darken all light, they selectively block specific light frequencies from streetlights and other sources while passing the emissions from nebulae. This process significantly enhances contrast, revealing details that would otherwise be lost in sky glow, with examples like the Lumicon \"Deep Sky\" and \"UHC\" filters.",
+      "categories": [
+        "Astronomy Equipment",
+        "Observing Techniques",
+        "Light Pollution",
+        "Deep-Sky Astronomy",
+        "Product Explanation"
+      ],
+      "keywords": [
+        "Light Pollution Filters",
+        "Deep-sky astronomy",
+        "Contrast enhancement",
+        "Nebulae",
+        "Lumicon Deep Sky filter",
+        "UHC filter",
+        "Eyepieces",
+        "Sky glow"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-12-ultra-high-contrast-ir-will-block-more-of-the-unwanted-light-but-will-also-dim-stars-and-galaxies-other-nebular-filters-will-pass-the-critical-hydrogen-beta-bandwidth-of-the-nebular-stream-that-contains-the-horsehead-or-the-delicate-details-of-o-iii-triply-ionized-oxygen-lines-in-the-veil-nebula",
+      "documentId": "eph90-12",
+      "title": "Ultra High Contrast (Ir) will block more of the unwanted light, but will also dim stars and galaxies. Other nebular filters will pass the critical \"Hydrogen beta\" bandwidth of the nebular stream that contains the Horsehead, or the delicate details of \"O-III\" (triply ionized oxygen) lines in the Veil Nebula.",
+      "summary": "This article discusses the utility of astronomical filters, such as Ultra High Contrast (Ir) and Light Pollution Reduction (LPR) filters, in enhancing the observation of deep-sky objects by blocking unwanted light. It explains how these filters highlight features like Hydrogen beta and O-III lines in nebulae and improve visibility of dark nebulae, which were initially thought to be 'holes' in space. The author recounts a memorable personal experience observing a dark nebula in Sagittarius with an LPR filter under pristine dark sky conditions.",
+      "categories": [
+        "Astronomy",
+        "Observing Reports",
+        "Astrophotography/Astrotechnology",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "Astronomical filters",
+        "Ultra High Contrast (Ir)",
+        "LPR filters",
+        "Light pollution",
+        "Skyglow",
+        "Nebulae",
+        "Dark nebulae",
+        "Hydrogen beta",
+        "O-III",
+        "Horsehead Nebula",
+        "Veil Nebula",
+        "Edward Barnard",
+        "Sagittarius",
+        "Visual observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-comet-comments",
+      "documentId": "eph90-12",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports that no new comets have been recently discovered, though two periodic comets, including P/Mueller 3, were found by Jean Mueller in September. It notes that Periodic Comet Wild 2, Comet Tsuchiya-Kiuchi, and Comet Levy are currently visible. Author Don Machholz also announces the discontinuation of his 'Seeking Comets' column after four and a half years, citing a lack of broader reader interest despite his personal enjoyment of writing about comet hunting.",
+      "categories": [
+        "Comet News",
+        "Observing Reports",
+        "Astronomy Communication",
+        "Editorial"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Periodic comets",
+        "Don Machholz",
+        "Jean Mueller",
+        "Comet Mueller 3",
+        "Comet Wild 2",
+        "Comet Tsuchiya-Kiuchi",
+        "Comet Levy",
+        "Seeking Comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-seeking-comets",
+      "documentId": "eph90-12",
+      "title": "SEEKING COMETS",
+      "summary": "This article explores the time commitment involved in comet hunting, challenging the common assumption of 300 hours per discovery. Based on data from 60 discoveries totaling 24,356 hours, the author found the average discovery time to be 423 hours, though half were found in under 220 hours. The piece suggests that dedication and smart searching can lead to a comet discovery for anyone willing to invest the effort.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Statistical Analysis",
+        "Hobby Insight"
+      ],
+      "keywords": [
+        "comet hunting",
+        "comet discovery",
+        "amateur astronomy",
+        "search efficiency",
+        "time commitment",
+        "observational data",
+        "astronomy hobby"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-number-of-hours-to-discover-a-comet",
+      "documentId": "eph90-12",
+      "title": "NUMBER OF HOURS TO DISCOVER A COMET",
+      "summary": "This document presents two graphical charts, likely histograms, detailing the 'NUMBER OF HOURS TO DISCOVER A COMET.' The first graph illustrates discovery times spanning up to approximately 3200 hours, while the second provides a more granular view for discoveries made within 800 hours. The analysis, attributed to 'SIA EPHEMERIS,' visually represents the distribution of time expenditure required for comet discoveries.",
+      "categories": [
+        "Astronomy",
+        "Observational Astronomy",
+        "Data Analysis",
+        "Research"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Discovery time",
+        "Observational hours",
+        "Data visualization",
+        "Ephemeris"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-12-astro-ads",
+      "documentId": "eph90-12",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" is a collection of free, non-commercial classified advertisements for astronomically related products and services. It provides guidelines for submitting ads, which run for approximately three months. The ads feature various items for sale or trade, including telescopes, eyepieces, camera equipment, focusers, finderscopes, and motor drives from brands like Meade, Celestron, Olympus, and Televue.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomy equipment",
+        "telescopes",
+        "accessories",
+        "astrophotography gear"
+      ],
+      "keywords": [
+        "telescope",
+        "eyepiece",
+        "camera",
+        "focuser",
+        "finder",
+        "mount",
+        "motor drive",
+        "Plossl",
+        "Schmidt-Newtonian",
+        "Newtonian",
+        "Olympus",
+        "Meade",
+        "Celestron",
+        "Televue",
+        "Lumicon",
+        "Orion",
+        "Tuthill",
+        "filters",
+        "tripod",
+        "macro zoom",
+        "astronomy for sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-december-starry-nights",
+      "documentId": "eph90-12",
+      "title": "DECEMBER STARRY NIGHTS",
+      "summary": "This December 1990 article, \"DECEMBER STARRY NIGHTS,\" covers several astronomical topics for the month. It explains the phenomenon of a Blue Moon, discusses the upcoming Geminid meteor shower peaking on December 14th, and informs readers about a leap second being added on New Year's Eve to account for Earth's slowing rotation. The author also humorously delves into the obscure origins of the phrase \"once in a Blue Moon.\"",
+      "categories": [
+        "Astronomy News",
+        "Celestial Events",
+        "Observing Guide",
+        "General Interest",
+        "Seasonal Update"
+      ],
+      "keywords": [
+        "Blue Moon",
+        "Geminids",
+        "meteor shower",
+        "leap second",
+        "Earth rotation",
+        "full moon",
+        "New Moon",
+        "December 1990",
+        "Richard Stanton",
+        "celestial calendar"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-12-lunar-phases",
+      "documentId": "eph90-12",
+      "title": "LUNAR PHASES",
+      "summary": "This document provides a tabular overview of the Moon's primary lunar phases for December, including the exact date and time of each phase, along with its corresponding rise, transit, and set times. It lists the phases as Last Quarter (LQ), New Moon (NM), First Quarter (FQ), and Full Moon (FM), prefixed by an entry 'PM' which might be 'Perigee Moon' or 'Previous Month's Full Moon' given its rise/set times, but is not explicitly defined.",
+      "categories": [
+        "Lunar Events",
+        "Astronomical Calendar",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "Full Moon",
+        "New Moon",
+        "First Quarter",
+        "Last Quarter",
+        "Rise times",
+        "Set times",
+        "Transit times",
+        "Astronomy",
+        "Celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-nearer-planets",
+      "documentId": "eph90-12",
+      "title": "NEARER PLANETS",
+      "summary": "This document presents an astronomical almanac for three specific dates in December, detailing observation windows (likely rise, transit, and set times), average distances from Earth (in A.U.), and apparent magnitudes for Mercury, Venus, Mars, Jupiter, and Saturn. It also includes similar data for the Sun, noting its star type and magnitude, providing essential information for celestial observers.",
+      "categories": [
+        "Astronomical Data",
+        "Observation Planning",
+        "Almanac",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Planetary data",
+        "Observation times",
+        "Apparent magnitude",
+        "Astronomical Units"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-astronomical-twilight",
+      "documentId": "eph90-12",
+      "title": "ASTRONOMICAL TWILIGHT",
+      "summary": "This document provides a concise schedule of astronomical twilight times for specific dates in December, identified by their Julian Dates. It lists the morning end and evening start times for astronomical twilight, serving as a practical reference for astronomers planning observational activities.",
+      "categories": [
+        "Astronomical Data",
+        "Observational Aids",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "Observation Planning",
+        "Ephemeris",
+        "Time Data",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-sidereal-time",
+      "documentId": "eph90-12",
+      "title": "SIDEREAL TIME",
+      "summary": "This document lists sidereal time data for specific dates in December, indicating the transit right ascension at midnight Pacific Standard Time. It also highlights December 15th as the \"DARKEST Saturday Night\" for observation.",
+      "categories": [
+        "Astronomical Times",
+        "Observing Guide",
+        "Schedule",
+        "Events"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "PST",
+        "Pacific Standard Time",
+        "December",
+        "Darkest Night",
+        "Astronomical Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-officers-and-board-of-directors",
+      "documentId": "eph90-12",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document lists the officers and board of directors for an organization, providing their names, titles (e.g., President, Vice President, Treasurer, Secretary, Editor, Director), and associated phone numbers. It serves as a contact directory for the leadership team.",
+      "categories": [
+        "organization",
+        "directory",
+        "contact information",
+        "administrative"
+      ],
+      "keywords": [
+        "officers",
+        "board of directors",
+        "president",
+        "vice president",
+        "treasurer",
+        "secretary",
+        "editor",
+        "director",
+        "contact list",
+        "organizational structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-ephemeris-contributors",
+      "documentId": "eph90-12",
+      "title": "EPHEMERIS CONTRIBUTORS",
+      "summary": "The document provides a list of names and contact phone numbers for individuals identified as 'EPHEMERIS CONTRIBUTORS'. It acts as a directory, detailing several contributors along with their respective phone numbers, primarily in the 408 and 415 area codes.",
+      "categories": [
+        "Contributors List",
+        "Contact Information",
+        "Reference"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact List",
+        "Names",
+        "Phone Numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-periodic-comet-wild-2-1989t",
+      "documentId": "eph90-12",
+      "title": "Periodic Comet Wild 2 (1989t)",
+      "summary": "This article provides an ephemeris for Periodic Comet Wild 2 (1989t), detailing its predicted positions and brightness for observers. The table includes dates, Right Ascension and Declination coordinates for both 1950 and 2000 epochs, elongation from the sun, sky visibility, and apparent magnitude from late November through early January. This data is essential for locating and tracking the faint comet.",
+      "categories": [
+        "Observational Data",
+        "Comets",
+        "Ephemeris",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Wild 2",
+        "Ephemeris",
+        "Astronomical Coordinates",
+        "Apparent Magnitude",
+        "Comet Observation",
+        "1989t"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-comet-tsuchiya-kiuchi-1990i",
+      "documentId": "eph90-12",
+      "title": "Comet Tsuchiya-Kiuchi (1990i)",
+      "summary": "This document provides an ephemeris for Comet Tsuchiya-Kiuchi (1990i), detailing its predicted celestial coordinates (RA, DEC for 1950 and 2000 epochs), elongation, sky visibility (morning or evening), and estimated visual magnitude. The data covers a period from late November to early January, serving as a guide for observers to locate and track the comet.",
+      "categories": [
+        "Comets",
+        "Ephemeris",
+        "Observing Guides",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Tsuchiya-Kiuchi",
+        "1990i",
+        "Ephemeris",
+        "Astronomical observations",
+        "Celestial coordinates",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Comet tracking"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-comet-levy-1990c",
+      "documentId": "eph90-12",
+      "title": "Comet Levy (1990c)",
+      "summary": "This article presents an ephemeris for Comet Levy (1990c) for the month of December, listing its celestial coordinates (RA/DEC) for two epochs. It also provides data on the comet's elongation from the Sun and its predicted visual magnitude, serving as a guide for astronomical observers.",
+      "categories": [
+        "Comets",
+        "Ephemeris",
+        "Observational Data",
+        "Astronomy Guide"
+      ],
+      "keywords": [
+        "Comet Levy (1990c)",
+        "Ephemeris",
+        "Celestial coordinates",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Comet observation",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-12-this-month-s-meteors",
+      "documentId": "eph90-12",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "The provided document outlines the publishing details for 'SJAA EPHEMERIS,' a monthly publication by the San Jose Astronomical Association. It encourages members to submit articles, specifying a deadline of the 17th of the previous month and providing editor contact information. Although titled 'THIS MONTH'S METEORS,' the content primarily addresses publication logistics rather than astronomical observations.",
+      "categories": [
+        "Astronomical Publication",
+        "Club News",
+        "Submission Guidelines"
+      ],
+      "keywords": [
+        "SJAA EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Meteors",
+        "Astronomical Publication",
+        "Article Submission",
+        "Editorial Guidelines"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-12-san-jose-astronomical-association-membership-application",
+      "documentId": "eph90-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), detailing various membership types—\"Membership only,\" \"Membership/S&T,\" and \"Junior (Under 18)\"—along with their respective costs. It provides instructions for submitting the form and payment to the treasurer, Jack Peterson, either in person at a meeting or by mail. The document also identifies the SJAA as a non-profit organization and mentions its publication, \"SJAA Ephemeris.\"",
+      "categories": [
+        "Membership Application",
+        "Astronomy Club",
+        "Administrative",
+        "Non-profit Organization"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Astronomy",
+        "Club",
+        "Non-profit",
+        "Sky & Telescope",
+        "Milpitas CA",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9012/Eph90_12.pdf",
+      "txtPath": "9012/Eph90_12.md"
+    }
+  ]
+}

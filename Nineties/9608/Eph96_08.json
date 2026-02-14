@@ -1,0 +1,575 @@
+{
+  "articles": [
+    {
+      "id": "eph96-08-sjaa-ephemeris",
+      "documentId": "eph96-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The document \"SJAA EPHEMERIS\" provides a comprehensive table of astronomical data for the year 1996. It lists various celestial coordinates and parameters, including Right Ascension, Declination, Julian Date, Galactic Longitude and Latitude, Azimuth, Altitude, and True Magnitude, organized by specific dates and times. This ephemeris serves as a crucial reference for astronomers and celestial observers.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Reference",
+        "Observing Aids",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Astronomical data",
+        "1996",
+        "Right Ascension",
+        "Declination",
+        "Julian Date",
+        "Galactic Coordinates",
+        "Azimuth",
+        "Altitude",
+        "Magnitude",
+        "Celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-eye-on-everything",
+      "documentId": "eph96-08",
+      "title": "Eye on Everything",
+      "summary": "The July SJAA meeting saw the approval of proposed by-laws and a presentation on Lunar Nomenclature by Bob Garfinkle. The club is actively seeking donations for a slide projector and screen, and its Observatory Committee, with $6,500 in funds, is recruiting new members. Additionally, the article announces the AANC's annual Star-B-Q in August, which includes an opportunity to observe the Perseid Meteor shower, and highlights two reviews of the new Meade ETX telescope.",
+      "categories": [
+        "News",
+        "Events",
+        "Club Operations",
+        "Equipment",
+        "Reviews"
+      ],
+      "keywords": [
+        "SJAA",
+        "Lunar Nomenclature",
+        "AANC",
+        "Star-B-Q",
+        "Perseid Meteor shower",
+        "Meade ETX",
+        "Observatory Committee",
+        "club by-laws",
+        "equipment donation",
+        "newsletter"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-08-activities-calendar",
+      "documentId": "eph96-08",
+      "title": "Activities Calendar",
+      "summary": "This document is an activities calendar outlining upcoming events for August, September, and October, primarily for the SJAA. It details general meetings, board meetings, multiple star parties at various state parks and Houge Park, an Observational Astronomy Class, and a multi-day star party trip to Mt. Lassen. Contact information for news and a home page URL are also provided.",
+      "categories": [
+        "Events Calendar",
+        "Club Activities",
+        "Astronomical Observing",
+        "Astronomy Education",
+        "Community Events"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Events",
+        "Calendar",
+        "Star Parties",
+        "Meetings",
+        "Classes",
+        "Observing",
+        "Stargazing",
+        "Fremont Peak",
+        "Henry Coe",
+        "Mount Lassen",
+        "Houge Park",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-meade-etx-review",
+      "documentId": "eph96-08",
+      "title": "Meade ETX Review",
+      "summary": "Bill Cooke reviews the Meade ETX 90mm Maksutov telescope, noting Meade's bold marketing claims regarding its optical superiority. After a prolonged wait for his order, Cooke acquired seven units from a local Nature Company store and conducted an initial optical and mechanical inspection, uncovering some concerning issues during testing.",
+      "categories": [
+        "Product Review",
+        "Telescope Review",
+        "Equipment Review"
+      ],
+      "keywords": [
+        "Meade ETX",
+        "Maksutov telescope",
+        "Optical review",
+        "Telescope review",
+        "Equipment testing",
+        "Bill Cooke"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph96-08-etx-continued-from-page-1",
+      "documentId": "eph96-08",
+      "title": "ETX, continued from page 1",
+      "summary": "This article continues a review of the Meade ETX telescope, detailing significant quality control issues observed across seven units, including optical flaws, collimation problems, and especially defective fork mount drive bases. Despite selecting the best components from multiple scopes, the author still encountered mechanical problems and design weaknesses, necessitating repairs. While capable of reasonable images for its price, the ETX suffers from highly inconsistent manufacturing quality and user-unfriendly design elements, requiring potential buyers to be prepared for extensive quality checking themselves.",
+      "categories": [
+        "Product Review",
+        "Telescope Analysis",
+        "Quality Control Report",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Meade ETX",
+        "Telescope review",
+        "Quality control",
+        "Optical performance",
+        "Mechanical issues",
+        "Fork mount",
+        "Slow motion controls",
+        "Collimation",
+        "Manufacturing defects",
+        "Astronomy equipment"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph96-08-etx-update",
+      "documentId": "eph96-08",
+      "title": "ETX Update",
+      "summary": "The author recounts a frustrating experience with their Meade ETX telescope's RA drive after a repair, where the promised one-minute tracking delay made it nearly impossible to keep objects centered. After 30 minutes of unsuccessful attempts, they decided not to use the drive. The author then plans to send the optical tube back to Meade due to a misaligned plastic secondary light baffle.",
+      "categories": [
+        "equipment report",
+        "telescope review",
+        "repair experience",
+        "observing experience",
+        "newsletter content"
+      ],
+      "keywords": [
+        "ETX",
+        "Meade",
+        "telescope",
+        "RA drive",
+        "tracking",
+        "repair",
+        "optical tube",
+        "secondary baffle",
+        "Jupiter",
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph96-08-by-ernie-pini",
+      "documentId": "eph96-08",
+      "title": "By Ernie Pini",
+      "summary": "Ernie Pini constructed a custom binocular mount for his daughter, Elaine, to enhance her astronomical observations of Messier Objects and comets. Adapting plans from Astronomy Magazine, he implemented several design modifications for improved portability, safety, and secure attachment to a tripod. The 16-hour woodworking project, finished with Varathane, was successfully tested using Comet Hyakutake.",
+      "categories": [
+        "Amateur Astronomy",
+        "DIY Project",
+        "Equipment Build",
+        "Observing Aids",
+        "Technical Guide"
+      ],
+      "keywords": [
+        "Binocular mount",
+        "Astronomy",
+        "DIY",
+        "Messier Objects",
+        "Comets",
+        "Tripod",
+        "Woodworking",
+        "Comet Hyakutake",
+        "Astronomical equipment",
+        "Amateur telescope making"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-by-mark-wagner",
+      "documentId": "eph96-08",
+      "title": "By Mark Wagner",
+      "summary": "Mark Wagner describes a double star observing session conducted on July 2, 1996, near a full moon, as a method to enjoy astronomy despite high temperatures and light pollution. He provides a detailed log of several double stars observed using a 10-inch Dobsonian, noting that this practice helps sharpen both sky navigation and observing skills.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Double Star Observing",
+        "Technique"
+      ],
+      "keywords": [
+        "Double stars",
+        "Observing",
+        "Stargazing",
+        "Light pollution",
+        "Full moon",
+        "Dobsonian telescope",
+        "Mark Wagner",
+        "Cygnus",
+        "Draco",
+        "Binary stars",
+        "Astronomy skills"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-08-observatory-progress-report",
+      "documentId": "eph96-08",
+      "title": "Observatory Progress Report",
+      "summary": "Bell Dellinges provides an update on the construction of his personal observatory, \"Desert Sky Observatory,\" in Apache Junction, Arizona. He details the progress, including the pouring of a 12'x12' slab and pier, the erection of 6' high walls, and the painting of the structure. Dellinges is currently awaiting the fabrication of the roof's wheel and track system and hopes to have the observatory operational for Fall viewing, inviting club members to visit.",
+      "categories": [
+        "Project Update",
+        "Amateur Astronomy",
+        "Construction Report",
+        "Club News"
+      ],
+      "keywords": [
+        "observatory project",
+        "Apache Junction",
+        "Arizona",
+        "Desert Sky Observatory",
+        "construction",
+        "slab",
+        "pier",
+        "walls",
+        "roof system",
+        "Bell Dellinges"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-desert-sky-observatory-completed",
+      "documentId": "eph96-08",
+      "title": "Desert Sky Observatory Completed",
+      "summary": "Bill Dellinges announces the completion of his Desert Sky Observatory, detailing the construction of its roll-off roof system. The roof, which weighs an estimated 1300 pounds, was built using a track system inspired by Paul Cicchetti's design, incorporating Genie garage door pulleys and angle iron tracks, allowing for easy one-handed operation. Dellinges expresses satisfaction with the new operational observatory, which now allows him to observe with his C-14 telescope without traveling to remote locations, bringing the total project cost to about $3500.",
+      "categories": [
+        "observatory construction",
+        "personal project",
+        "DIY",
+        "observing report"
+      ],
+      "keywords": [
+        "Desert Sky Observatory",
+        "observatory",
+        "roll-off roof",
+        "construction",
+        "DIY",
+        "telescope",
+        "C-14",
+        "Paul Cicchetti",
+        "track system",
+        "pulleys",
+        "home observatory"
+      ],
+      "pageStart": 50,
+      "pageEnd": 91
+    },
+    {
+      "id": "eph96-08-fremont-peak-july-7",
+      "documentId": "eph96-08",
+      "title": "Fremont Peak, July 7",
+      "summary": "Mark Wagner recounts an early morning experience at Fremont Peak where he, his daughter, and others witnessed the Space Shuttle Columbia streaking across the dawn sky. He describes the picturesque scene, with the observatory prepared for a photo and the sky ablaze with sunrise, emphasizing the profound impact the awe-inspiring event had on his eight-year-old daughter.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Astronomy",
+        "Spaceflight"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Space Shuttle Columbia",
+        "Observing",
+        "Dawn Sky",
+        "Personal Experience",
+        "Astronomy",
+        "Mark Wagner",
+        "30\" Challenger telescope"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph96-08-another-etx-test-drive",
+      "documentId": "eph96-08",
+      "title": "Another ETX Test Drive",
+      "summary": "Bob Brauer provides a comprehensive review of his new Meade ETX telescope, detailing his 'test drive' experience from purchase to initial observations. While praising its good optics and portability for quick backyard observations, he highlights several manufacturing and design flaws, such as an off-center baffle, motor drive issues, and problematic tripod mounting, questioning Meade's quality control despite the scope's affordable price.",
+      "categories": [
+        "Product Review",
+        "Equipment Analysis",
+        "Observing Report",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "Meade ETX",
+        "Telescope review",
+        "Optical quality",
+        "Motor drive",
+        "Manufacturing defects",
+        "Portability",
+        "Amateur astronomy equipment",
+        "Jupiter observation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph96-08-comet-comments",
+      "documentId": "eph96-08",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz reports on the discovery of Comet C/1996 N1 (Brewington) by Howard Brewington, his fifth comet, after a significant visual search effort. The article also notes the continued visibility and brightening of Comet Hale-Bopp, along with Periodic Comet Kopff, in the summer Milky Way.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discoveries",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet C/1996 N1 (Brewington)",
+        "Howard Brewington",
+        "Don Machholz",
+        "Comet Hale-Bopp",
+        "Periodic Comet Kopff",
+        "Comet discovery",
+        "Visual astronomy",
+        "Cloudcroft, New Mexico",
+        "Amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-c-1995-o1-hale-bopp",
+      "documentId": "eph96-08",
+      "title": "C/1995 O1 (Hale-Bopp)",
+      "summary": "This document provides ephemeris data for two comets, C/1995 O1 (Hale-Bopp) and 22P/Kopff, spanning from late July to late August. For each comet, it lists daily Right Ascension, Declination, Elongation, Sky quadrant, and apparent Magnitude. The data serves as a guide for tracking the celestial positions and brightness of these comets.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guides",
+        "Comets",
+        "Astronomy Data"
+      ],
+      "keywords": [
+        "C/1995 O1 (Hale-Bopp)",
+        "22P/Kopff",
+        "Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Celestial Coordinates",
+        "Astronomy",
+        "Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-c-1996-n1-brewington",
+      "documentId": "eph96-08",
+      "title": "C/1996 N1 (Brewington)",
+      "summary": "This document provides an ephemeris for comet C/1996 N1 (Brewington) for late July and August. It lists the comet's right ascension, declination, elongation (EL), sky location (E for East), and estimated magnitude at five-day intervals.",
+      "categories": [
+        "Ephemeris",
+        "Comet Information",
+        "Observational Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "C/1996 N1",
+        "Brewington",
+        "comet",
+        "ephemeris",
+        "magnitude",
+        "right ascension",
+        "declination",
+        "positional data",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-orbital-elements",
+      "documentId": "eph96-08",
+      "title": "Orbital Elements",
+      "summary": "This document provides a table detailing the orbital elements for three specific comets: Hale-Bopp, Kopff, and Brewington. For each comet, it lists key astronomical parameters such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period, along with their respective data sources. The data is presented in a clear, tabular format for quick reference.",
+      "categories": [
+        "Technical",
+        "Comets",
+        "Astronomical Data",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Hale-Bopp",
+        "Kopff",
+        "Brewington",
+        "Comets",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Ascending Node",
+        "Orbital Period",
+        "Astronomy",
+        "MPC",
+        "IAU"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-celestial-calendar-august-1996",
+      "documentId": "eph96-08",
+      "title": "Celestial Calendar - August 1996",
+      "summary": "This article presents a detailed celestial calendar for August 1996, providing essential astronomical data for observers. It includes lunar phases, rise/transit/set times, magnitudes, distances, right ascension, and declination for Mercury, Venus, Mars, Jupiter, and Saturn. The calendar also lists astronomical twilight times, sidereal time, and identifies the darkest Saturday night for observation.",
+      "categories": [
+        "Celestial Calendar",
+        "Astronomical Data",
+        "Observing Guide",
+        "Ephemeris",
+        "Planetary Positions"
+      ],
+      "keywords": [
+        "August 1996",
+        "Lunar Phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Rise Times",
+        "Transit Times",
+        "Set Times",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Dark Night Observation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-08-telescope-loaner-program-status",
+      "documentId": "eph96-08",
+      "title": "Telescope Loaner Program Status",
+      "summary": "This article provides an update on the Telescope Loaner Program, listing the current status of various telescopes including which are available, borrowed, and their respective due dates. It also mentions a waiting list for specific telescopes and a request for donations of a tripod and German Equatorial mount to complete a newly donated optical tube assembly. The program is available to members of the SJAA, with Paul Barton as the contact.",
+      "categories": [
+        "program status",
+        "club resources",
+        "equipment management",
+        "announcement"
+      ],
+      "keywords": [
+        "telescope loaner program",
+        "telescopes",
+        "astronomy club",
+        "equipment availability",
+        "borrowers",
+        "due dates",
+        "waiting list",
+        "donations",
+        "astronomical equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-thank-you",
+      "documentId": "eph96-08",
+      "title": "Thank You",
+      "summary": "The Astronomical Society of the Pacific's (ASP) volunteer coordinator expresses profound gratitude to club volunteers for their crucial contributions to the successful 108th annual meeting in Santa Clara, highlighting their role in creating a friendly atmosphere and smooth operation. Additionally, the article includes a call for member article submissions for the 'Ephemeris' publication and lists the current officers and Board of Directors for the club.",
+      "categories": [
+        "Club News",
+        "Volunteer Appreciation",
+        "Event Follow-up",
+        "Official Communication",
+        "Directory"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific (ASP)",
+        "Annual Meeting",
+        "Volunteers",
+        "Event Success",
+        "Santa Clara",
+        "Ephemeris",
+        "Member Articles",
+        "Club Officers",
+        "Board of Directors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-08-astro-ads",
+      "documentId": "eph96-08",
+      "title": "Astro Ads",
+      "summary": "This document, titled \"Astro Ads,\" is a classifieds section from the August 1996 edition of the SJAA Ephemeris, featuring various astronomical equipment for sale or wanted. Items listed include Newtonian reflectors, Celestron telescopes and cameras, an Astro-Physics APO refractor, and specific accessories, with contact information for sellers and buyers. The ads are free for noncommercial astronomical products or services.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomy equipment",
+        "for sale",
+        "wanted"
+      ],
+      "keywords": [
+        "telescopes",
+        "Newtonian reflector",
+        "Celestron",
+        "Schmidt Camera",
+        "Astro-Physics",
+        "refractor",
+        "APO",
+        "equatorial mount",
+        "eyepiece",
+        "camera adapter",
+        "tripod",
+        "observing equipment",
+        "used equipment"
+      ],
+      "pageStart": 7,
+      "pageEnd": 102
+    },
+    {
+      "id": "eph96-08-san-jose-astronomical-association-membership-form",
+      "documentId": "eph96-08",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing options for new or renewal memberships, including standard and junior rates, and an additional fee for a Sky & Telescope subscription. It provides instructions for submitting the form and payment via check to the SJAA Treasurer, Bob Elsberry, either at a meeting or through mail. The form, dated August 1996, also lists the association's contact address and phone number.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Application Form",
+        "Astronomy Club",
+        "Financial"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Membership Renewal",
+        "Junior Membership",
+        "Sky & Telescope",
+        "Subscription",
+        "Membership Fees",
+        "Payment Instructions",
+        "Treasurer",
+        "Bob Elsberry",
+        "August 1996"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph96-08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9608/Eph96_08.pdf",
+      "txtPath": "9608/Eph96_08.md"
+    }
+  ]
+}

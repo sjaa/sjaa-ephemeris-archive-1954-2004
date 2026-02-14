@@ -1,0 +1,443 @@
+{
+  "articles": [
+    {
+      "id": "eph91-07-sjaa-ephemeris",
+      "documentId": "eph91-07",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the masthead for 'SJAA Ephemeris', the official publication of the San Jose Astronomical Association. It is Volume 3, Number 7, issued in July 1991.",
+      "categories": [
+        "Newsletter",
+        "Organizational Publication",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Publication",
+        "July 1991",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-new-president",
+      "documentId": "eph91-07",
+      "title": "NEW PRESIDENT",
+      "summary": "Effective July 1, Jack Zeiders will assume the presidency of the SJAA, succeeding Tom Ahl, who is relocating to Washington. Zeiders, a long-standing member since the early 70s, brings extensive experience as an accomplished telescope maker, deep sky observer, and astrophotographer. He played a key role in the Fremont Peak observatory construction and initiated the club's introductory observational astronomy class.",
+      "categories": [
+        "News",
+        "Organizational Update",
+        "Personnel Change"
+      ],
+      "keywords": [
+        "SJAA",
+        "President",
+        "Jack Zeiders",
+        "Tom Ahl",
+        "Leadership change",
+        "Astronomy club",
+        "Fremont Peak observatory",
+        "Telescope maker",
+        "Astrophotography"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph91-07-yosemite-star-party",
+      "documentId": "eph91-07",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The Yosemite Star Party on July 12-13 is fully booked, meaning camping spots are not guaranteed for additional attendees. SJAA members might secure free group camping, but this will only be confirmed on Friday, July 12.",
+      "categories": [
+        "Event Announcement",
+        "Observing Event",
+        "Logistical Update",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "July 12-13",
+        "camping",
+        "SJAA",
+        "group camp",
+        "filled event",
+        "astronomy event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-sjaa-picnic",
+      "documentId": "eph91-07",
+      "title": "SJAA PICNIC",
+      "summary": "The annual SJAA picnic on July 6th is experiencing low interest due to key members being out of town for an eclipse, leading to a change from a catered event to an informal potluck at Grant Ranch. Members are encouraged to bring food and tableware. The article also lists various upcoming astronomy events for July and August, including public star parties, an eclipse viewing opportunity, and Introductory Astronomy class sessions, as well as an invitation for members to share eclipse experiences.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Observing Opportunities",
+        "Community News",
+        "Classes"
+      ],
+      "keywords": [
+        "SJAA Picnic",
+        "Solar Eclipse",
+        "Star Party",
+        "Grant Ranch",
+        "Halls Valley Group",
+        "Introductory Astronomy Class",
+        "Potluck",
+        "Fremont Peak Observatory",
+        "July events",
+        "August events"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph91-07-auction-wrapup",
+      "documentId": "eph91-07",
+      "title": "AUCTION WRAPUP",
+      "summary": "This announcement serves as a reminder for individuals who had sales at the recent Swap Meet to contact the treasurer to pay their commissions. Even those who did not make any sales are requested to call the treasurer, Jack, to confirm their status and avoid any outstanding issues.",
+      "categories": [
+        "administrative",
+        "event follow-up",
+        "club announcement",
+        "financial"
+      ],
+      "keywords": [
+        "auction wrapup",
+        "swap meet",
+        "commission",
+        "treasurer",
+        "sales",
+        "payment",
+        "contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-august-meeting",
+      "documentId": "eph91-07",
+      "title": "AUGUST MEETING",
+      "summary": "The August General Meeting will be an \"eclipse night\" where members who attended the total solar eclipse are invited to share their experiences. Attendees are encouraged to present slides and offer short presentations about their observations of the eclipse.",
+      "categories": [
+        "Meeting Announcement",
+        "Events",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "August Meeting",
+        "Total Solar Eclipse",
+        "Eclipse Night",
+        "Presentations",
+        "Experiences",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-summertime-and-the-livin-ain-t-easy",
+      "documentId": "eph91-07",
+      "title": "SUMMERTIME AND THE LIVIN AIN'T EASY",
+      "summary": "This article highlights the stresses of modern life and proposes urban astronomy as an accessible and refreshing antidote. It encourages amateur astronomers to observe from home or the city, focusing on easy-to-view objects like planets, the Sun, Moon, and bright stars, even with light pollution. The author emphasizes that urban observing can be a low-effort, rewarding way to de-stress and introduce others, especially children, to the wonders of the universe.",
+      "categories": [
+        "Opinion",
+        "Amateur Astronomy",
+        "Observing Tips",
+        "Outreach",
+        "Wellness"
+      ],
+      "keywords": [
+        "Urban astronomy",
+        "Stress relief",
+        "Amateur observing",
+        "Planets",
+        "Moon",
+        "Solar observing",
+        "Light pollution",
+        "Telescopes",
+        "Astronomy outreach",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-07-meteor-notes",
+      "documentId": "eph91-07",
+      "title": "METEOR NOTES",
+      "summary": "July marks the beginning of the summer meteor shower season, with several active showers like the Northern and Southern Delta Aquarids and Alpha Capricornids in the Aquarius and Capricornus constellations. This year, a near-full moon will significantly hinder observations of these July showers, making them less impressive. However, this ensures an excellent, moon-free viewing outlook for the celebrated Perseids, which are expected to peak on August 12th, a reversal of last year's conditions.",
+      "categories": [
+        "Observing Report",
+        "Forecast",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Meteor showers",
+        "July",
+        "Perseids",
+        "Delta Aquarids",
+        "Alpha Capricornids",
+        "Iota Aquarids",
+        "Aquarius",
+        "Capricornus",
+        "Moon",
+        "Observing",
+        "Radiant"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-comet-comments",
+      "documentId": "eph91-07",
+      "title": "COMET COMMENTS",
+      "summary": "This article discusses the upcoming visibility of two returning periodic comets, Hartley 2 and Machholz, both making their first predicted return in late July. Comet Hartley 2, discovered in 1986, is expected to become visible in amateur telescopes and brighten to ninth magnitude by September. Comet Machholz, reaching perihelion on July 22, presents an uncertain magnitude due to past outbursts and is recommended for observers to monitor for changes in brightness and appearance.",
+      "categories": [
+        "Comets",
+        "Observing Reports",
+        "Predictions",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comets",
+        "Comet Hartley 2",
+        "Comet Machholz",
+        "Observing",
+        "Magnitude",
+        "Outbursts",
+        "Perihelion",
+        "Amateur telescopes"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-07-observing-planetaries",
+      "documentId": "eph91-07",
+      "title": "OBSERVING PLANETARIES",
+      "summary": "This article, authored by Steve Gottlieb, details techniques for observing planetary nebulae, ranging from well-known objects like M-27 and M-57 to obscure and newly discovered ones. It emphasizes the crucial role of the OIII filter in enhancing contrast for both large, low-surface-brightness nebulae and compact stellar planetaries. The author describes methods like scanning and a \"blinking\" technique, providing examples of his own visual observations of challenging objects like EGB 1 and Stp 4-1, and encouraging amateur astronomers to seek out new discoveries.",
+      "categories": [
+        "Observing Techniques",
+        "Deep Sky Observing",
+        "Amateur Astronomy",
+        "Equipment (Filters)",
+        "Planetary Nebulae"
+      ],
+      "keywords": [
+        "Planetary Nebulae",
+        "OIII filter",
+        "Deep Sky Objects",
+        "Observing Techniques",
+        "M-27 Dumbbell Nebula",
+        "M-57 Ring Nebula",
+        "Helix Nebula",
+        "EGB 1",
+        "Stp 4-1",
+        "Lumicon",
+        "Contrast Enhancement",
+        "Blinking technique",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-07-astro-ads",
+      "documentId": "eph91-07",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classified service for noncommercial advertisers to sell astronomy-related products and services, requiring submissions by the 15th of each month for a three-month run. The document lists several classified ads, including a Tele Vue Genesis 4\" f/5 APO refractor, a Meade 2080 LX1, a 5\" f/5 refractor, and a Celestron SPC-80, detailing their specifications, accessories, prices, and seller contact information.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Community",
+        "Advertisements"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Astronomy equipment",
+        "Telescopes",
+        "Refractor",
+        "APO",
+        "Meade 2080 LX1",
+        "Tele Vue Genesis",
+        "Celestron SPC-80",
+        "Eyepieces",
+        "Solar filter",
+        "Accessories",
+        "For Sale"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-07-field-of-view",
+      "documentId": "eph91-07",
+      "title": "FIELD OF VIEW",
+      "summary": "This article, \"FIELD OF VIEW\" by John Gleason, focuses on the impending total solar eclipse, urging SJAA members to share their experiences and photography from the event. It provides practical tips for eclipse photography, emphasizing simplicity for first-timers to maximize enjoyment, and includes advice on film choice, equipment preparation, and common pitfalls. The piece also mentions an \"Eclipses Night\" general meeting for members to share their experiences and includes a section of classified ads for astronomical equipment.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Technical",
+        "Astronomy Club News",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Total solar eclipse",
+        "Eclipse photography",
+        "SJAA",
+        "Astrophotography tips",
+        "Camera equipment",
+        "Film types",
+        "Solar filter",
+        "Astronomical equipment sales",
+        "Telescopes",
+        "Eyepieces"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-07-officers-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph91-07",
+      "title": "OFFICERS AND BOARD OF DIRECTORS | EPHEMERIS CONTRIBUTORS",
+      "summary": "This document provides a directory of an organization's leadership, including its Officers (President, Vice President, Treasurer, Secretary, Editor) and Board of Directors, complete with their contact phone numbers. Additionally, it lists several individuals designated as \"Ephemeris Contributors\" along with their contact information.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Organizational Leadership",
+        "Contact Details",
+        "Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-comet-ephemeris",
+      "documentId": "eph91-07",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides ephemeris data for two periodic comets, Hartley 2 and Machholz, for dates ranging from mid-July to mid-August. For each comet and date, it lists coordinates in both 1950 and 2000 equinoxes, solar elongation, sky visibility, and estimated visual magnitude, serving as a guide for observers.",
+      "categories": [
+        "astronomical data",
+        "observing guide",
+        "ephemeris",
+        "comets",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "comet",
+        "ephemeris",
+        "Hartley 2",
+        "Machholz",
+        "RA",
+        "DEC",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "elongation",
+        "astronomy",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-this-month-s-meteors",
+      "documentId": "eph91-07",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article, titled \"THIS MONTH'S METEORS,\" provides a detailed tabular guide to several meteor showers active primarily from July through September. It offers essential information for each shower, including their active dates, date of maximum activity, maximum visual zenithal rate, radiant point coordinates, velocity, and descriptive observing notes.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Events",
+        "Ephemeris",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "Perseids",
+        "Southern Delta Aquarids",
+        "Alpha Capricornids",
+        "Southern Iota Aquarids",
+        "Northern Iota Aquarids",
+        "Radiant Point",
+        "Zenithal Rate",
+        "Skywatching",
+        "July",
+        "August",
+        "September"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-07-san-jose-astronomical-association-membership-application",
+      "documentId": "eph91-07",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA). It outlines different membership tiers and their respective costs, including options for general membership, membership with a Sky & Telescope subscription, and junior membership. The form provides fields for applicant details and instructions for submission to the association's treasurer.",
+      "categories": [
+        "Membership Application",
+        "Administrative",
+        "Astronomical Clubs/Associations"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Dues",
+        "Astronomy club",
+        "Junior membership",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-07-make-checks-payable-to-sjaa",
+      "documentId": "eph91-07",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document outlines membership payment instructions for the San Jose Astronomical Association (SJAA), detailing various membership types and renewal options. It also announces an SJAA picnic on July 6th at Grant Ranch Park and provides editorial contact and submission guidelines for their monthly newsletter, \"EPHEMERIS.\"",
+      "categories": [
+        "Organizational News",
+        "Membership",
+        "Events",
+        "Publications"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Membership",
+        "Renewal",
+        "Picnic",
+        "Grant Ranch Park",
+        "EPHEMERIS",
+        "Newsletter",
+        "Astronomy Club",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9107/Eph91_07.pdf",
+      "txtPath": "9107/Eph91_07.md"
+    }
+  ]
+}

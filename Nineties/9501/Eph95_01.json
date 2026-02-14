@@ -1,0 +1,656 @@
+{
+  "articles": [
+    {
+      "id": "eph95-01-sjaa-ephemeris",
+      "documentId": "eph95-01",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the \"SJAA EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It is Volume 6, Number 1, and was published in January 1995.",
+      "categories": [
+        "Publication",
+        "Astronomy",
+        "Club News",
+        "Newsletter"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "Publication",
+        "January 1995",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-the-eyepiece",
+      "documentId": "eph95-01",
+      "title": "The Eyepiece",
+      "summary": "This article by Bob Madden discusses the Association's financial status, including a potential dues increase, and outlines the ongoing efforts to improve school star party procedures, encouraging member input and involvement. It provides a detailed calendar of star parties, board meetings, general meetings, and observational astronomy classes scheduled from January through March. The piece also includes a historical note about the club's second meeting 40 years ago and a reminder about upcoming board elections.",
+      "categories": [
+        "Club Business",
+        "Events Calendar",
+        "Member Engagement",
+        "News",
+        "Historical",
+        "Educational"
+      ],
+      "keywords": [
+        "dues increase",
+        "financial stability",
+        "school star parties",
+        "member participation",
+        "club elections",
+        "astronomy events",
+        "observational astronomy",
+        "board meetings",
+        "star party schedule",
+        "club history",
+        "solar eclipse"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-01-pluto-and-charon",
+      "documentId": "eph95-01",
+      "title": "Pluto and Charon",
+      "summary": "Discovered in 1930, Pluto and its moon Charon remained largely mysterious until mutual occultations allowed for more accurate measurements of their mass, size, and tidally locked, retrograde rotation. The article discusses the remote possibility of a future NASA flyby mission, facing significant funding and logistical challenges, and explores Pluto's distinction from Kuiper Belt objects despite its small size. Recent observations by the repaired Hubble Space Telescope are providing new insights into their surfaces and compositions.",
+      "categories": [
+        "Planetary Science",
+        "Space Exploration",
+        "Observational Astronomy",
+        "Solar System"
+      ],
+      "keywords": [
+        "Pluto",
+        "Charon",
+        "Kuiper Belt",
+        "NASA Mission",
+        "Hubble Space Telescope",
+        "Occultations",
+        "Tidally Locked",
+        "Clyde Tombaugh",
+        "Methane",
+        "Nitrogen"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph95-01-sjaa-speakers",
+      "documentId": "eph95-01",
+      "title": "SJAA speakers",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting a series of free public astronomy talks on December 17, January 14, and February 11 at 8 p.m. in the Milpitas Library. Regional astronomy club newsletters are encouraged to publicize these events, which will include topics like the Inca, with guests welcomed from all locations.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Public Outreach",
+        "Logistics"
+      ],
+      "keywords": [
+        "SJAA",
+        "speakers series",
+        "astronomy talks",
+        "Milpitas Library",
+        "Inca",
+        "public events",
+        "astronomy clubs"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-december-17-bob-kesserling",
+      "documentId": "eph95-01",
+      "title": "December 17: Bob Kesserling.",
+      "summary": "The article discusses an observation event featuring Bob Kesserling, Grace Kutio, and Jim Albers. Kutio and Albers spent a week at White Mountain observing the collision of Comet Shoemaker-Levy 9 with Jupiter, employing amateur equipment for video imaging and subsequent frame processing.",
+      "categories": [
+        "observing reports",
+        "astronomy events",
+        "amateur astronomy",
+        "presentations"
+      ],
+      "keywords": [
+        "Bob Kesserling",
+        "Grace Kutio",
+        "Jim Albers",
+        "Jupiter",
+        "Comet Shoemaker-Levy 9",
+        "SL9",
+        "Comet collision",
+        "White Mountain",
+        "Video imaging",
+        "Amateur observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-january-14-bob-fingerhut",
+      "documentId": "eph95-01",
+      "title": "January 14: Bob Fingerhut",
+      "summary": "Bob Fingerhut, an experienced long-time member of SJAA and astrophotographer, successfully observed a solar eclipse during a trip to Brazil last November. Although his specific results are not yet detailed, his broad smile confirmed the success of his expedition.",
+      "categories": [
+        "Observing Report",
+        "Member News",
+        "Astronomy",
+        "Solar Events"
+      ],
+      "keywords": [
+        "Bob Fingerhut",
+        "Solar eclipse",
+        "Brazil",
+        "SJAA",
+        "Eclipse chaser",
+        "Astrophotography",
+        "Astronomy observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-february-11-dr-david-s-dearborn",
+      "documentId": "eph95-01",
+      "title": "February 11: Dr. David S. Dearborn",
+      "summary": "This document features two main topics: an announcement for a talk by Dr. David S. Dearborn on Inca archaeoastronomy in Peru, detailing his research and new book. It also includes a comprehensive review of Philip S. Harrington's book, \"Star Ware,\" which serves as an invaluable guide for amateur astronomers on selecting and understanding telescopes, accessories, and observing techniques, highly recommended for both beginners and experienced enthusiasts.",
+      "categories": [
+        "Event Announcement",
+        "Book Review",
+        "Archaeoastronomy",
+        "Amateur Astronomy",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "David S. Dearborn",
+        "Inca",
+        "Peru",
+        "Archaeoastronomy",
+        "Star Ware",
+        "Philip S. Harrington",
+        "Telescopes",
+        "Eyepieces",
+        "Astronomy Accessories",
+        "Observing Guides",
+        "Amateur Astronomy Equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-01-the-lunitic-fringe",
+      "documentId": "eph95-01",
+      "title": "The Lunitic Fringe",
+      "summary": "\"The Lunitic Fringe\" provides an amateur observing guide for lunar features visible when the Moon is approximately 8 days old and near the terminator. It details objects such as Archimedes, the Apennine Mountains, Eratosthenes, Wallace, and Hadley's Rill, categorized by difficulty. The guide offers specific directions for locating these features and recommends a lunar atlas for enhanced navigation.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Lunar Astronomy",
+        "Selenography"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observing",
+        "Craters",
+        "Rills",
+        "Terminator",
+        "Amateur astronomy",
+        "Archimedes",
+        "Hadley's Rill",
+        "Apennine Mountains",
+        "Eratosthenes"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-01-in-praise-of-the-supposedly-un-praiseworthy",
+      "documentId": "eph95-01",
+      "title": "IN PRAISE OF THE (SUPPOSEDLY) UN-PRAISEWORTHY",
+      "summary": "The author passionately defends and praises \"giant binoculars\" (e.g., 15x80s), challenging common criticisms regarding their size, weight, and perceived impracticality. He presents seven compelling reasons for their value, including superior light-gathering capabilities, comfortable two-eyed viewing, portability for quick observation sessions, high quality, and exceptional performance, particularly for lunar and terrestrial viewing. The article serves as an enthusiastic endorsement, encouraging fellow enthusiasts to consider these often-maligned instruments.",
+      "categories": [
+        "Equipment Review",
+        "Observing Techniques",
+        "Amateur Astronomy",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Giant binoculars",
+        "15x80 binoculars",
+        "Astronomical observing",
+        "Lunar observing",
+        "Light gathering",
+        "Portability",
+        "Binoculars",
+        "Optical instruments",
+        "Terrestrial viewing",
+        "Amateur astronomy equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-01-book-review",
+      "documentId": "eph95-01",
+      "title": "Book Review",
+      "summary": "This article is a highly positive book review for \"David's book,\" which offers an insider's personal and anecdotal perspective on comets and comet-hunting. The reviewer strongly recommends the book, praising its engaging style. The accompanying note discusses permission for reprinting the review and requests a copy of the \"Ephemeris\" for the reviewer.",
+      "categories": [
+        "Book Review",
+        "Astronomy",
+        "Publication Notes"
+      ],
+      "keywords": [
+        "Book Review",
+        "Comets",
+        "Comet-hunting",
+        "Astronomy Book",
+        "Recommendation",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-the-quest-for-comets",
+      "documentId": "eph95-01",
+      "title": "The Quest for Comets",
+      "summary": "This article is a book review by Ellis Myers of David Levy's \"The Quest for Comets.\" The book is praised for its engaging narrative that captures the exhilaration of comet hunting, the scientific nature of comets, and their profound physical and emotional impacts. It also offers a historical perspective on the discovery of Comet SL-9 and the scientific uncertainties surrounding its impending collision at the time of publication.",
+      "categories": [
+        "Book Review",
+        "Astronomy",
+        "Comets",
+        "History of Science"
+      ],
+      "keywords": [
+        "David Levy",
+        "The Quest for Comets",
+        "Book review",
+        "Comets",
+        "Comet hunting",
+        "Amateur astronomy",
+        "SL-9",
+        "Planetary impacts"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-lunar-eclipse-a-remembrance",
+      "documentId": "eph95-01",
+      "title": "Lunar Eclipse...a remembrance",
+      "summary": "Carolyn Strong recounts her experience observing a lunar eclipse in August 1994, driving from Portland to Hood River for clear skies. Initially captivated by the eclipse's beauty and sharp contrast, she grappled with the profoundness of the event. Towards the end, she realized the 'simple truth' revealed: the Earth's spherical shape, plainly demonstrated by its shadow on the moon, mirroring an ancient discovery.",
+      "categories": [
+        "Observing Report",
+        "Personal Reflection",
+        "Astronomy History",
+        "Celestial Event"
+      ],
+      "keywords": [
+        "Lunar eclipse",
+        "Observation",
+        "Earth's shadow",
+        "Spherical Earth",
+        "Galileo",
+        "Hood River",
+        "August 1994"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-something-we-re-working-on-and-need-help",
+      "documentId": "eph95-01",
+      "title": "Something We're Working on and Need Help",
+      "summary": "The article describes an initiative to start a mentor program for new amateur astronomers, with experienced members offering guidance on equipment and observing. Volunteers are sought to help lead or participate in this program. Additionally, the article includes the San Jose Astronomical Association (SJAA) calendar for 1994, listing general meetings, Houge Park star parties, and observational astronomy classes.",
+      "categories": [
+        "Volunteer Opportunity",
+        "Community Initiative",
+        "Events",
+        "Mentorship Program",
+        "Club News"
+      ],
+      "keywords": [
+        "Mentor Program",
+        "Volunteers",
+        "Amateur Astronomy",
+        "SJAA",
+        "Club Calendar",
+        "Star Parties",
+        "Astronomy Classes",
+        "Observing",
+        "Fremont Peak"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-01-telescope-loaner-status",
+      "documentId": "eph95-01",
+      "title": "Telescope Loaner Status",
+      "summary": "This article provides an updated status of the San Jose Astronomical Association's (SJAA) telescope loaner program, listing various telescopes, their current users, and due dates. It clearly indicates which telescopes are currently available for borrowing and outlines the process for members to get on a waiting list or request a specific telescope. A special note is included regarding the solar telescope, available only to experienced members for specific events.",
+      "categories": [
+        "Membership Resources",
+        "Equipment Management",
+        "Club Services",
+        "Internal Announcement"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Equipment Availability",
+        "SJAA",
+        "Amateur Astronomy Club",
+        "Telescope Inventory",
+        "Borrowing Policy",
+        "Due Dates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-astro-ads",
+      "documentId": "eph95-01",
+      "title": "ASTRO ADS",
+      "summary": "This document is a 'Astro Ads' section, offering free classifieds for noncommercial advertisers to sell astronomically related products or services. It provides submission guidelines and lists various used astronomical equipment for sale, including several telescopes, mirrors, flats, and accessories from brands like Celestron, Meade, and Questar.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment Sales",
+        "Marketplace",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "classifieds",
+        "astronomy equipment",
+        "telescopes",
+        "Celestron",
+        "Meade",
+        "Questar",
+        "eyepieces",
+        "filters",
+        "mirrors",
+        "optical tube assembly",
+        "accessories",
+        "for sale",
+        "used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-long-time-sjaa-member",
+      "documentId": "eph95-01",
+      "title": "Long-time SJAA member",
+      "summary": "The article is a request for a ride for long-time SJAA member Doug Wells to attend general meetings, as he no longer drives. It provides his address and phone number for anyone who can assist him.",
+      "categories": [
+        "Community Announcement",
+        "Member Services",
+        "Club Operations"
+      ],
+      "keywords": [
+        "Doug Wells",
+        "SJAA",
+        "ride request",
+        "general meetings",
+        "volunteer"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-01-lunar-phases",
+      "documentId": "eph95-01",
+      "title": "Lunar Phases:",
+      "summary": "This document presents a detailed table of lunar phases, including New Moon (NM), First Quarter (FQ), Full Moon (FM), and Last Quarter (LQ). For each phase, it provides specific dates, times, and corresponding transit and set times, offering a schedule of celestial events.",
+      "categories": [
+        "Astronomical Data",
+        "Events",
+        "Calendar"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Astronomy",
+        "Celestial events",
+        "Moon calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-nearer-planets",
+      "documentId": "eph95-01",
+      "title": "NEARER PLANETS",
+      "summary": "This document provides an astronomical guide for the 'nearer planets' (Mercury, Venus, Mars, Jupiter, and Saturn) for three specific dates (07, 17, 27). It lists observational data including times, distances in Astronomical Units (A.U.), and apparent magnitudes for each planet. Additionally, it includes basic information for the Sun (SOL) and a table of Right Ascension (RA) and Declination (Dec) values.",
+      "categories": [
+        "Astronomy",
+        "Observing Guides",
+        "Ephemeris",
+        "Planetary Data"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Solar System",
+        "Apparent Magnitude",
+        "Astronomical Unit",
+        "Right Ascension",
+        "Declination",
+        "Observational Data",
+        "Sun"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-astronomical-twilight",
+      "documentId": "eph95-01",
+      "title": "Astronomical Twilight:",
+      "summary": "This document provides a schedule for astronomical twilight, listing the beginning and ending times for several specific dates referenced by Julian Date. It serves as a practical guide for observers to determine the periods when the sky is dark enough for astronomical observations.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Twilight times",
+        "Julian Date",
+        "Observation planning",
+        "Dark sky conditions",
+        "Astronomy schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-sidereal-time",
+      "documentId": "eph95-01",
+      "title": "SIDEREAL TIME:",
+      "summary": "This document provides astronomical timing information, specifically focusing on sidereal time calculations for various right ascensions and local midnight. It also details the observation conditions for January 28, 1995, designated as 'Darkest Saturday Night,' including sunset, twilight end, moonset, and dawn times relevant for sky observers.",
+      "categories": [
+        "Astronomical Data",
+        "Timekeeping",
+        "Observing Conditions",
+        "Almanac"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Sunset",
+        "Twilight",
+        "Moonset",
+        "Dawn",
+        "January 1995",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-times-and-dates-are-pacific-standard",
+      "documentId": "eph95-01",
+      "title": "TIMES AND DATES ARE PACIFIC STANDARD",
+      "summary": "This document clarifies that all specified times and dates are based on Pacific Standard Time, derived from local civil time. It credits \"Astronomy with your Personal Computer\" by Peter Duffet-Smith and \"MacEphem\" by Elwood Downey as the sources for these values.",
+      "categories": [
+        "Reference",
+        "Guidelines",
+        "Technical"
+      ],
+      "keywords": [
+        "Pacific Standard Time",
+        "PST",
+        "Time standards",
+        "Local civil time",
+        "Astronomical calculations",
+        "Astronomy software"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-offices-and-board-of-directors",
+      "documentId": "eph95-01",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current \"Offices and Board of Directors\" for an organization, detailing the names and contact phone numbers for the President, Vice President, Secretary, Treasurer, and several Directors. It serves as a directory of the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Governance",
+        "Directory",
+        "Administrative"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-comet-comments",
+      "documentId": "eph95-01",
+      "title": "Comet Comments",
+      "summary": "This article provides an update on comet visibility, noting that only Periodic Comet Borrelly is currently visible. It forecasts several periodic comets for observation in 1995, including Clark, d'Arrest, Jackson-Neujmin, and Honda-Mrkos-Pajdusakova, with varying expected magnitudes. Additionally, it details the recent recovery observations of the faint Periodic Comet Kopff and Periodic Comet Clark, with notes on their current brightness and expected future visibility.",
+      "categories": [
+        "Observing Reports",
+        "Comet Predictions",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comets",
+        "Comet Borrelly",
+        "Comet Clark",
+        "Comet d'Arrest",
+        "Comet Jackson-Neujmin",
+        "Comet Honda-Mrkos-Pajdusakova",
+        "Comet Kopff",
+        "1995",
+        "Magnitude",
+        "Observational Astronomy",
+        "CCD",
+        "Comet Recovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-orbital-elements",
+      "documentId": "eph95-01",
+      "title": "ORBITAL ELEMENTS",
+      "summary": "This document provides detailed orbital elements and an observing ephemeris for Periodic Comet Borrelly (1994i). It lists the comet's right ascension, declination, sky position, and magnitude at five-day intervals from December to February. Key orbital parameters such as period, perihelion distance, argument of perihelion, ascending node, and inclination are also included.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "cometary science",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Borrelly",
+        "1994i",
+        "orbital elements",
+        "ephemeris",
+        "periodic comet",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "perihelion",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-01-observing-talk",
+      "documentId": "eph95-01",
+      "title": "Observing Talk",
+      "summary": "The editor of \"Observing Talk\" is seeking a volunteer to take over desktop publishing duties for the monthly newsletter, likely \"EPHEMERIS,\" published by the San Jose Astronomical Association. The role involves using DTP software for page layout and managing bulk mailing, with the editor offering assistance. The article also details submission guidelines for contributors to EPHEMERIS.",
+      "categories": [
+        "Call for Volunteers",
+        "Newsletter Production",
+        "Organizational Announcement",
+        "Editorial"
+      ],
+      "keywords": [
+        "Volunteer",
+        "Desktop Publishing",
+        "Newsletter",
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Page Layout",
+        "Publishing",
+        "Editor"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-01-membership-only-12-membership-s-t-32-junior-under-18-20",
+      "documentId": "eph95-01",
+      "title": "Membership only: $12  Membership / S&T: $32  Junior (under 18): $20",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership options and their respective costs, including 'Membership only', 'Membership / S&T', and 'Junior'. It provides instructions for submission via mail or in person, along with payment details, contact information for the association, and a hotline number. The document is dated January 1995.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational Information",
+        "Club Administration",
+        "Non-profit"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Astronomical Club",
+        "Non-profit",
+        "Contact Information",
+        "January 1995"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9501/Eph95_01.pdf",
+      "txtPath": "9501/Eph95_01.md"
+    }
+  ]
+}

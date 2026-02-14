@@ -1,0 +1,507 @@
+{
+  "articles": [
+    {
+      "id": "eph93-07-sjaa-ephemeris",
+      "documentId": "eph93-07",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association (SJAA) for July 1993, titled \"SJAA EPHEMERIS.\" It represents Volume 4, Number 7 of the association's regular publication.",
+      "categories": [
+        "Newsletter",
+        "Astronomy Club Publication",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA EPHEMERIS",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "July 1993",
+        "Astronomical Publication",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-the-eye-piece",
+      "documentId": "eph93-07",
+      "title": "The Eye Piece",
+      "summary": "This article, \"The Eye Piece,\" reports on the RTMC weekend, noting numerous large telescopes and challenging observing conditions due to a bright moon. It also details an extensive calendar of upcoming club activities for July and August, including general meetings, star parties (at locations like Yosemite, H. Coe, Grant Ranch, Houge Park), an annual picnic at Fremont Peak, and observational astronomy classes. Additionally, the article highlights a call for volunteers for a telescope setup at the Chinese Summer Festival and provides an update on the proposed Grant Ranch Observatory project.",
+      "categories": [
+        "Observing Reports",
+        "Event Announcements",
+        "Club News",
+        "Volunteer Opportunities",
+        "Astronomy Outreach"
+      ],
+      "keywords": [
+        "RTMC",
+        "Star Parties",
+        "Telescopes",
+        "Observing Conditions",
+        "Club Events",
+        "Chinese Summer Festival",
+        "Grant Ranch Observatory",
+        "Fremont Peak",
+        "Observational Astronomy Class",
+        "Eyepieces",
+        "Volunteer"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-07-bill-and-jeff-s-getting-most-of-it-together-by-jeff-horne",
+      "documentId": "eph93-07",
+      "title": "Bill and Jeff's \"GETTING MOST of It TOGETHER\" by Jeff Horne",
+      "summary": "This article introduces Bill and Jeff's comprehensive list of observing tools, compiled from their fifteen years of diverse observing experiences at various sites. It is presented as an alternative perspective to Rich Neuschaefer's previously published list, encouraging readers to compare the different approaches to equip for observing nights.",
+      "categories": [
+        "Observing Guide",
+        "Equipment Recommendations",
+        "Practical Astronomy"
+      ],
+      "keywords": [
+        "Observing tools",
+        "Astronomy equipment",
+        "Practical observing",
+        "Observing guide",
+        "Bill and Jeff",
+        "Rich Neuschaefer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-telescope-tools",
+      "documentId": "eph93-07",
+      "title": "Telescope Tools:",
+      "summary": "This article, 'Telescope Tools,' offers a humorous and informal look at the diverse array of equipment and supplies used by two amateur astronomers, 'I' and 'Bill,' during their observing sessions. It details their personal preferences for everything from eyepieces and finders to alignment tools, power sources, cleaning supplies, and even essential snacks and clothing. The piece highlights their practical, sometimes unconventional, approaches to amateur astronomy, often contrasting their individual philosophies and experiences.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Equipment",
+        "Personal Accounts",
+        "Tips and Tricks",
+        "Equipment Reviews (Informal)"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Filters",
+        "Finders",
+        "Telrads",
+        "Diagonals",
+        "Batteries",
+        "Collimation",
+        "Alignment tools",
+        "Vibration dampening",
+        "Cleaning supplies",
+        "Astrophotography",
+        "Observing gear",
+        "Star charts",
+        "Uranometria",
+        "Sky Atlas 2000",
+        "Fremont Peak",
+        "Amateur astronomy practices"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-07-callco-observatory",
+      "documentId": "eph93-07",
+      "title": "Callco Observatory",
+      "summary": "This 1993 article from Callco Observatory advocates for computer Bulletin Board Systems (BBSs) as a faster and more affordable way to access astronomical news and discussions compared to traditional magazines and expensive notices. It details several San Jose-area BBSs offering astronomy sections through various networks like Ilink, RIME, FidoNet, and Usenet, highlighting their content and message volume. The author also emphasizes the utility of off-line readers for efficient communication and offers to share relevant software.",
+      "categories": [
+        "Technical",
+        "Communication",
+        "Resources",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "Bulletin Board Systems (BBS)",
+        "Astronomy communication",
+        "Modems",
+        "Off-line readers",
+        "Astronomy networks",
+        "Usenet SCI.ASTRO",
+        "Astronomical news",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-the-lick-36-refractor",
+      "documentId": "eph93-07",
+      "title": "The Lick 36\" Refractor",
+      "summary": "Rich Neuschaefer is organizing a field trip to Lick Observatory for an evening viewing session with the Clark 36\" refractor. The proposed group size is limited to 25 people at a cost of $10 each, with carpooling recommended due to limited parking. Attendees can submit a list of desired objects to view with this historic instrument.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Observatory Visit",
+        "Field Trip"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "Clark 36-inch Refractor",
+        "Astronomical Observing",
+        "Field Trip",
+        "Mt. Hamilton",
+        "Telescope Viewing"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-07-double-triple-and-multiple-stars",
+      "documentId": "eph93-07",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "This article serves as a supplemental guide to observing double, triple, and multiple star systems within the constellation Bootis, expanding upon a previous Astronomy magazine feature. The author details specific binary and multiple star systems like 1-Bootis, ∑1825, Kappa Bootis, Iota Bootis, Delta Bootis, and Xi-Bootis, offering observing tips on magnitudes, separations, and resolvability. It also mentions other notable systems like Mu, Zeta, and Pi-Bootis, suggesting that observers could spend an entire evening exploring these systems.",
+      "categories": [
+        "observing guide",
+        "astronomy",
+        "stargazing",
+        "deep-sky observing"
+      ],
+      "keywords": [
+        "Bootis",
+        "double stars",
+        "triple stars",
+        "multiple stars",
+        "binary systems",
+        "telescope",
+        "observing tips",
+        "Arcturus",
+        "Kappa Bootis",
+        "Iota Bootis",
+        "Xi-Bootis",
+        "Delta Bootis"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-star-parties",
+      "documentId": "eph93-07",
+      "title": "Star Parties",
+      "summary": "This article describes two successful star parties held in May 1993. The Fremont Peak event on May 22 featured excellent clear conditions, a large turnout of 75-100 people and up to 50 telescopes, with observations including a supernova in M81 and the Veil Nebula. A subsequent star party at Houge Park on May 28, despite surrounding bad weather, allowed about 50 observers with a dozen telescopes to view objects like Jupiter, Mars, the Moon, and various globular clusters.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Amateur Astronomy",
+        "Star Parties"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Fremont Peak",
+        "Houge Park",
+        "Amateur Astronomy",
+        "Observing",
+        "Supernova",
+        "M81",
+        "Veil Nebula",
+        "Jupiter",
+        "Mars",
+        "Moon",
+        "Globular Clusters",
+        "Telescopes",
+        "May 1993"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-observational-astronomy",
+      "documentId": "eph93-07",
+      "title": "Observational Astronomy",
+      "summary": "The fifth Observational Astronomy Class, held on May 29, 1993, at the Milpitas Library, convened with a dozen attendees to hear speaker Jack Petersen. The session extensively covered lunar features, referencing the 1993 Observer's Handbook, and delved into discussions on lunar and solar eclipses, including annular eclipses, drawing on Petersen's personal observational experiences. Double stars were also slated for discussion.",
+      "categories": [
+        "Observational Astronomy",
+        "Astronomy Class",
+        "Events",
+        "Education",
+        "Meeting Report"
+      ],
+      "keywords": [
+        "Observational Astronomy",
+        "Milpitas Library",
+        "Jack Petersen",
+        "Moon",
+        "Lunar features",
+        "Lunar eclipses",
+        "Solar eclipses",
+        "Annular solar eclipses",
+        "Observer's Handbook",
+        "Royal Astronomical Society of Canada",
+        "Double stars"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-07-please-do-not-park-behind-the-ranger-s-house",
+      "documentId": "eph93-07",
+      "title": "PLEASE DO NOT PARK BEHIND THE RANGER'S HOUSE",
+      "summary": "This document provides essential information for attending activities at Fremont Peak State Park, including detailed parking instructions, locations for the 30\" telescope observatory, and a traditional BBQ potluck supper with an observing camp. It also features a classifieds section for astronomical equipment, a ride-share request, and the San Jose Astronomical Association's calendar of meetings and observational astronomy classes for July-December 1993, along with club announcements.",
+      "categories": [
+        "Event Announcement",
+        "Directions & Logistics",
+        "Classifieds",
+        "Club News",
+        "Astronomy Education",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "observatory",
+        "parking",
+        "BBQ",
+        "potluck",
+        "observing camp",
+        "telescope",
+        "eyepiece",
+        "astronomical equipment",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "events calendar",
+        "astronomy class",
+        "club discount",
+        "July 1993"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-07-astro-ads",
+      "documentId": "eph93-07",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS offers a free classifieds service for non-commercial advertisers to sell astronomy-related products and services. Submissions are due by the 12th of each month and ads run for approximately three months, featuring used astronomical equipment such as telescopes, eyepieces, and cameras.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomy Equipment",
+        "Community Bulletin"
+      ],
+      "keywords": [
+        "astronomy classifieds",
+        "astronomy equipment",
+        "telescopes",
+        "eyepieces",
+        "cameras",
+        "lenses",
+        "mounts",
+        "filters",
+        "accessories",
+        "Meade",
+        "Televue",
+        "Questar",
+        "used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-sjaa-loaner-status",
+      "documentId": "eph93-07",
+      "title": "SJAA Loaner Status",
+      "summary": "This document outlines the current loan status of telescopes available through the SJAA (San Jose Astronomical Association), listing instruments by type, borrower, and due date for July/August 1993. It also notes telescopes that are available for borrowing, in the shop for modification, or reserved for special uses, along with a waiting list for interested members. Members wishing to borrow a telescope are instructed to contact Paul Barton.",
+      "categories": [
+        "Club Operations",
+        "Equipment Management",
+        "Member Services",
+        "Internal Communication"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope loaner program",
+        "Equipment status",
+        "Astronomy club",
+        "Borrowing equipment",
+        "Telescopes",
+        "Dobsonian",
+        "Newtonian",
+        "Celestron C-8",
+        "Solar telescope"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-07-july-1993",
+      "documentId": "eph93-07",
+      "title": "July 1993",
+      "summary": "This document provides a comprehensive astronomical guide for July 1993, detailing lunar phases and the positions, rise, transit, and set times for Mercury, Venus, Mars, Jupiter, and Saturn. It also includes solar data, astronomical twilight times, sidereal time, and highlights the 'Darkest Saturday Night' on July 17, all presented in Pacific Daylight Time.",
+      "categories": [
+        "astronomical data",
+        "observing guide",
+        "ephemeris",
+        "monthly forecast"
+      ],
+      "keywords": [
+        "July 1993",
+        "lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "planetary positions",
+        "rise set transit times",
+        "astronomical twilight",
+        "sidereal time",
+        "Pacific Daylight Time",
+        "ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-offices-and-board-of-directors",
+      "documentId": "eph93-07",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current leadership and key personnel of an organization, including the Board of Directors with their respective office titles such as President, Vice President, Treasurer, and Secretary, along with several Directors. It also identifies individuals who contribute to 'Ephemeris' content and names the Editor, providing contact phone numbers for all listed members.",
+      "categories": [
+        "Directory",
+        "Organizational Information",
+        "Contact Information",
+        "Governance"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Offices",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Ephemeris Contributors",
+        "Editor",
+        "Leadership",
+        "Staff"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-comet-comments",
+      "documentId": "eph93-07",
+      "title": "Comet Comments",
+      "summary": "This article provides an update on several comets, highlighting the recovery of multiple faint comets and the discovery of two new ones. The primary focus is on Periodic Comet Shoemaker-Levy 9, which fragmented near Jupiter in 1992 and is predicted to collide with the gas giant in July 1994. The author details its orbital calculations, faintness, and encourages photographic or CCD imaging despite the challenge.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discovery",
+        "News",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Comets",
+        "Shoemaker-Levy 9",
+        "Jupiter",
+        "Comet Recovery",
+        "Comet Discovery",
+        "Orbit Calculation",
+        "Collision",
+        "Amateur Astronomy",
+        "CCD Imaging",
+        "Palomar Schmidt"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-07-ephemeris",
+      "documentId": "eph93-07",
+      "title": "EPHEMERIS",
+      "summary": "This document provides an ephemeris for Periodic Comet Shoemaker-Levy 9 (1993e), listing its celestial coordinates (R.A., DEC.), elongation, sky position, and magnitude from late June through early August. It also includes publication details for 'EPHEMERIS,' a monthly newsletter published by the San Jose Astronomical Association, inviting member submissions.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observing Data",
+        "Astronomy Newsletter",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Comet Shoemaker-Levy 9",
+        "1993e",
+        "celestial coordinates",
+        "right ascension",
+        "declination",
+        "elongation",
+        "magnitude",
+        "observing guide",
+        "San Jose Astronomical Association",
+        "astronomy publication"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-07-membership-only-12-membership-s-t-32-junior-under-18-20",
+      "documentId": "eph93-07",
+      "title": "Membership only: $12 Membership / S&T: $32 Junior (under 18): $20",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining various membership tiers and their costs, including options for 'Membership Only,' 'Membership/S&T,' and 'Junior (under 18)'. It provides instructions for submitting the form and payment to the SJAA treasurer, along with contact details and information regarding the organization's non-profit status.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Astronomical Association",
+        "Non-profit",
+        "Contact Information",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Membership Fees",
+        "Subscription",
+        "Astronomy Club",
+        "Skies & Telescope",
+        "Payment",
+        "Treasurer",
+        "July 1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph93-07-universe-93",
+      "documentId": "eph93-07",
+      "title": "UNIVERSE 93",
+      "summary": "The 'UNIVERSE 93' conference report highlights a comprehensive astronomical event featuring talks by notable figures such as Sally Ride, discussing Earth observation from space, and Jon Strong, who advised on amateur telescope selection and the impending impact of Comet Shoemaker-Levy on Jupiter. A significant focus was placed on advancements in CCD technology and astrophotography techniques, with detailed presentations on image processing and observing various celestial phenomena. Attendees also explored numerous exhibit booths and engaged with editors from Astronomy magazine, underscoring the event's value to amateur astronomers.",
+      "categories": [
+        "Conference Report",
+        "Amateur Astronomy",
+        "Technical Astronomy",
+        "Observational Astronomy",
+        "Events"
+      ],
+      "keywords": [
+        "UNIVERSE 93",
+        "Sally Ride",
+        "Comet Shoemaker-Levy",
+        "Jupiter",
+        "CCD Technology",
+        "Astrophotography",
+        "Image Processing",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Stellar Eclipses",
+        "Whirlpool Galaxy (M51)",
+        "Total Solar Eclipse",
+        "NASA",
+        "Astronomy Magazine",
+        "Jack Newton",
+        "Richard Berry"
+      ],
+      "pageStart": 2,
+      "pageEnd": 95
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9307/Eph93_07.pdf",
+      "txtPath": "9307/Eph93_07.md"
+    }
+  ]
+}

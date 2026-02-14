@@ -1,0 +1,949 @@
+{
+  "articles": [
+    {
+      "id": "eph98-03-moonstuff",
+      "documentId": "eph98-03",
+      "title": "MOONSTUFF",
+      "summary": "The article emphasizes the current month as an optimal time for viewing the first-quarter Moon due to its high celestial position. It includes an anecdote from Jay Freeman recounting a public viewing at Chabot Observatory, where an astronomer, despite a minor struggle with geological terms, effectively taught visitors about lunar features by showcasing actual Apollo Moon rocks, bridging the gap between telescopic observation and tangible scientific artifacts.",
+      "categories": [
+        "Lunar Observing",
+        "Astronomy Education",
+        "Personal Anecdote",
+        "Observatory History"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar viewing",
+        "First Quarter Moon",
+        "Chabot Observatory",
+        "Astronomy outreach",
+        "Lunar geology",
+        "Maria",
+        "Anorthosite",
+        "Apollo missions",
+        "Moon rocks",
+        "Refractor telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-march",
+      "documentId": "eph98-03",
+      "title": "MARCH",
+      "summary": "The document outlines a series of astronomical events and meetings scheduled for March. Key activities include several star parties at House Park, Fremont Peak, and Coe, an astronomy class on telescope types, and a general meeting featuring Don Machholz discussing the Messier Marathon.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Education",
+        "Meetings"
+      ],
+      "keywords": [
+        "March",
+        "star party",
+        "House Park",
+        "Fremont Peak",
+        "astronomy class",
+        "telescope types",
+        "mounts",
+        "general meeting",
+        "Don Machholz",
+        "Messier Marathon",
+        "board meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-april",
+      "documentId": "eph98-03",
+      "title": "APRIL",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) events for April, featuring multiple star parties at locations like Houge Park, Fremont Peak, and Coe. It also lists a general meeting with a swap/auction and an astronomy class on star charts, alongside practical details such as sunset times, moon phases, and a note regarding SJAA insurance coverage.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Observing Reports",
+        "Astronomy Education",
+        "Meeting Schedule"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Astronomy Events",
+        "SJAA",
+        "Meetings",
+        "Swap Meet",
+        "Astronomy Class",
+        "Houge Park",
+        "Fremont Peak",
+        "Moon Phases",
+        "Daylight Saving Time",
+        "Star Charts"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-messier-marathon-stories",
+      "documentId": "eph98-03",
+      "title": "MESSIER MARATHON STORIES",
+      "summary": "This article shares two anecdotal stories from past Messier Marathons, a deep-sky observing event popularized by Don Machholz. Jim Van Nuland recounts a humorous radio conversation during an event near Mt. Umunhum where he was focused on lunar occultation timings. Jack Zeiderer describes a cold Messier Marathon at Loma Prieta, detailing his progress and a fellow observer's struggle with equipment frosting.",
+      "categories": [
+        "observing reports",
+        "personal anecdotes",
+        "club activities",
+        "events",
+        "deep sky astronomy"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Don Machholz",
+        "deep sky observing",
+        "Mt. Umunhum",
+        "lunar occultation",
+        "Loma Prieta",
+        "frosting",
+        "San Jose Astronomical Association",
+        "astronomy events"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph98-03-moonstuff-from-p-1",
+      "documentId": "eph98-03",
+      "title": "Moonstuff, from p. 1",
+      "summary": "The article recounts an enthusiastic identification of lunar anorthosite samples, linking them directly to their origins on the Moon. The author then reflects on the amusing contrast between traditional scientific mannerisms and the reality of modern space exploration, contemplating the common misconception that Earth and space are entirely separate realms.",
+      "categories": [
+        "Astronomy",
+        "Space Exploration",
+        "Science Commentary",
+        "Philosophy of Science"
+      ],
+      "keywords": [
+        "Anorthosite",
+        "Lunar samples",
+        "Space exploration",
+        "Scientific worldview",
+        "Astronomy",
+        "Science history",
+        "Moon"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph98-03-jim-van-nuland",
+      "documentId": "eph98-03",
+      "title": "Jim Van Nuland:",
+      "summary": "Jim Van Nuland shares his early experiences with astronomy, recalling how he and a friend observed the Moon with spyglasses in high school. He describes facing outright hostility and being labeled as 'wicceerrrrrd' when attempting public observing in his small Wisconsin town. Van Nuland notes that his current public astronomy efforts are met with much better results.",
+      "categories": [
+        "Personal Experience",
+        "Public Outreach",
+        "Social Commentary"
+      ],
+      "keywords": [
+        "Jim Van Nuland",
+        "astronomy",
+        "public observing",
+        "Moon",
+        "spyglasses",
+        "Wisconsin",
+        "hostility",
+        "prejudice"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-don-machholtz",
+      "documentId": "eph98-03",
+      "title": "Don Machholtz:",
+      "summary": "Don Machholtz describes his 1994 project where he used a videocamera and a 6\" reflector telescope to tape the moon, aiming to produce a unique lunar almanac. He achieved this by recording adjacent \"slices\" of the moon each night, meticulously adjusting the telescope and camera settings for each segment.",
+      "categories": [
+        "observing reports",
+        "astronomy projects",
+        "observing techniques",
+        "personal accounts"
+      ],
+      "keywords": [
+        "Don Machholtz",
+        "moon",
+        "videocamera",
+        "reflector telescope",
+        "lunar almanac",
+        "astronomy",
+        "observing",
+        "imaging"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-the-editor",
+      "documentId": "eph98-03",
+      "title": "The Editor:",
+      "summary": "An experienced observer recounts a dark-sky night at Fremont Peak where new telescope owners excitedly observed Messier objects. Focused on deep-sky viewing, they were momentarily confused and embarrassed when the moon unexpectedly rose, having forgotten about its existence. The author reflects on this common oversight, acknowledging that even seasoned astronomers can make similar 'mistakes' of perception.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Amateur Astronomy",
+        "Editorial",
+        "Reflection"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "dark sky",
+        "new telescope owners",
+        "Messier objects",
+        "moonrise",
+        "observing",
+        "astronomy",
+        "amateur astronomers",
+        "common mistakes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-new-directors-elected",
+      "documentId": "eph98-03",
+      "title": "New Directors Elected",
+      "summary": "Four new directors—Terry Kahl, Bill Arnett, Mike Koop, and Mark Taylor—were unanimously elected to the Board of Directors, filling the open slots. Paul Mancuso and Bob Brauer retired after distinguished service. The new board will proceed to elect officers next month, with outgoing President Jack Zeiders presiding over the vote.",
+      "categories": [
+        "Club News",
+        "Elections",
+        "Internal Affairs",
+        "Administration"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Elections",
+        "Club Officers",
+        "Terry Kahl",
+        "Bill Arnett",
+        "Mike Koop",
+        "Mark Taylor",
+        "Paul Mancuso",
+        "Bob Brauer",
+        "Jack Zeiders"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-the-shallow-sky",
+      "documentId": "eph98-03",
+      "title": "The Shallow Sky",
+      "summary": "This article outlines celestial events for March 1998, emphasizing prime observing opportunities for the Moon around its first quarter and Mercury during its greatest evening elongation. It also highlights Venus in the morning sky and solar activity, while noting that Saturn, Mars, and Jupiter are not ideally positioned for detailed viewing. Key events include a slight penumbral lunar eclipse and the spring equinox.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Astronomy News",
+        "Sky Watching"
+      ],
+      "keywords": [
+        "Moon",
+        "Mercury",
+        "Venus",
+        "Sun",
+        "Saturn",
+        "Mars",
+        "Jupiter",
+        "Lunar Eclipse",
+        "Greatest Elongation",
+        "Libration",
+        "Declination",
+        "Spring Equinox",
+        "Solar Filters",
+        "Observing",
+        "March 1998",
+        "Rills",
+        "Conjunctions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph98-03-messier-from-p-1",
+      "documentId": "eph98-03",
+      "title": "Messier, from p. 1",
+      "summary": "During an astronomical observing session, the narrator and a companion successfully used a heater to clear a telescope's dew-covered corrector plate, repeating the process hourly. Despite this, the narrator managed to observe 101 objects before dawn concluded their efforts, while others present observed all available targets.",
+      "categories": [
+        "Observing Report",
+        "Practical Astronomy",
+        "Equipment Use"
+      ],
+      "keywords": [
+        "Messier",
+        "Observing session",
+        "Dew",
+        "Telescope heater",
+        "Corrector plate",
+        "Astronomy",
+        "Gerry Rattley",
+        "Don Machholtz"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph98-03-mark-wagner",
+      "documentId": "eph98-03",
+      "title": "Mark Wagner:",
+      "summary": "Mark Wagner recounts a humorous and disorienting incident during his first Messier Marathon at Fremont Peak. New to observing from a dark sky site, he fell asleep in his beach chair, only to wake up feeling vulnerable and alone, until he spotted his friend Rich Neuschaefer chuckling at his panic. This experience taught him to avoid comfortable seating during future marathons.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Personal Anecdote"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Fremont Peak",
+        "Amateur Astronomy",
+        "Observing",
+        "Coulter Odyssey",
+        "Personal experience",
+        "Rich Neuschaefer",
+        "Los Gatos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-jay-freeman",
+      "documentId": "eph98-03",
+      "title": "Jay Freeman:",
+      "summary": "Jay Freeman, a seasoned observer, reveals he has completed the Messier list eighteen times using various telescope apertures. Despite his extensive experience, he has surprisingly never attempted or participated in a Messier marathon, humorously noting that this fact itself might be a unique Messier marathon story.",
+      "categories": [
+        "Personal Experience",
+        "Observing Report",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Jay Freeman",
+        "Messier list",
+        "Messier marathon",
+        "Astronomy",
+        "Observing",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-jay-freeman",
+      "documentId": "eph98-03",
+      "title": "Jay Freeman",
+      "summary": "This article, authored by Jay Freeman, covers a range of astronomical topics including a commentary on John Glenn's second space flight, a strong warning against low-quality 'drug store scopes' for beginners, a calculation of the Sun's brightness as seen from Pluto, and practical advice on how to successfully observe M1 (the Crab Nebula) using various binoculars and telescopes.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Tips",
+        "Equipment Review",
+        "Space Exploration",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "John Glenn",
+        "Space exploration",
+        "Telescopes",
+        "Refractors",
+        "Achromatic objectives",
+        "Consumer advice",
+        "Sun brightness",
+        "Pluto",
+        "Visual magnitude",
+        "M1 (Crab Nebula)",
+        "Deep-sky observing",
+        "Binoculars",
+        "Amateur astronomy",
+        "Observing locations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-bill-arnett",
+      "documentId": "eph98-03",
+      "title": "Bill Arnett",
+      "summary": "Bill Arnett details his lunar observations in January 1998, using his 12\" LX200 and a binoviewer to explore features like Mare Imbrium and a \"sunrise ray\" on Orontius. He also recounts his successful attempts to observe lunar rilles such as Rima Hyginus, Rima Ariadaeus, Rimae Boscovich, and Rimae Triesnecker, noting the impact of illumination. Arnett expresses his enjoyment of visual astronomy while learning selenography.",
+      "categories": [
+        "Observing Report",
+        "Lunar Observation",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Bill Arnett",
+        "Moon",
+        "Lunar observation",
+        "Mare Imbrium",
+        "Orontius",
+        "Sunrise ray",
+        "Rima Hyginus",
+        "Rima Ariadaeus",
+        "Rimae Boscovich",
+        "Rimae Triesnecker",
+        "Selenography",
+        "LX200",
+        "Binoviewer",
+        "Pronto telescope"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph98-03-bill-arnett",
+      "documentId": "eph98-03",
+      "title": "Bill Arnett",
+      "summary": "The SJAA board meeting covered routine matters, including voting funds for Ephemeris postage and discussing an owner's handbook for loaner scopes. Significant discussions involved establishing a safe loan policy for the club's solar scope and investigating better investment options for the observatory fund. The meeting also touched on a potential equipment fundraiser and announced the upcoming annual meeting and election.",
+      "categories": [
+        "Club Operations",
+        "Board Meeting",
+        "Equipment Management",
+        "Financial Planning",
+        "Upcoming Events",
+        "Safety Policy"
+      ],
+      "keywords": [
+        "SJAA board meeting",
+        "Ephemeris postage",
+        "Loaner scopes",
+        "Owners handbook",
+        "Solar scope policy",
+        "Observatory fund",
+        "Investment",
+        "Fundraiser",
+        "Club equipment",
+        "Annual meeting",
+        "Election",
+        "Astronomy software"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-submit",
+      "documentId": "eph98-03",
+      "title": "SUBMIT",
+      "summary": "The SJAA Ephemeris newsletter is soliciting articles from members for publication. Submissions should be emailed to Dave North at Timocharis@aol.com by the tenth of each month to be included in the following month's issue. Authors are requested to include their name and phone number with their article.",
+      "categories": [
+        "Call for Submissions",
+        "Newsletter Information",
+        "Community Participation",
+        "Publication Guidelines"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "article submission",
+        "newsletter",
+        "publication",
+        "members",
+        "guidelines",
+        "deadline"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-periodical-publication-statement",
+      "documentId": "eph98-03",
+      "title": "PERIODICAL PUBLICATION STATEMENT",
+      "summary": "This document is a periodical publication statement for the 'SJAA Ephemeris,' the monthly newsletter of the San Jose Astronomical Association. It confirms that the newsletter is published 12 times a year, from January through December, and includes the association's mailing address.",
+      "categories": [
+        "Publication Information",
+        "Organizational News",
+        "Administrative"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "publication",
+        "monthly",
+        "periodical",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-project-astro-in-1998-99",
+      "documentId": "eph98-03",
+      "title": "PROJECT ASTRO IN 1998-99",
+      "summary": "Project ASTRO, an initiative by the Astronomical Society of the Pacific, is seeking amateur and professional astronomers and advanced astronomy students to partner with 4th-9th grade teachers in Bay Area schools for the 1998-99 school year. Participants will attend a summer training workshop and commit to at least four hands-on, inquiry-based visits during the school year to help students learn science. The program, funded by the National Science Foundation, emphasizes educational partnerships and public outreach.",
+      "categories": [
+        "program announcement",
+        "call for participation",
+        "education and outreach",
+        "astronomy education",
+        "community partnership"
+      ],
+      "keywords": [
+        "Project ASTRO",
+        "Astronomical Society of the Pacific",
+        "ASP",
+        "astronomy education",
+        "teacher partnerships",
+        "volunteer astronomers",
+        "K-9 education",
+        "Bay Area",
+        "National Science Foundation",
+        "hands-on learning"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph98-03-celestial-calendar-march-1998",
+      "documentId": "eph98-03",
+      "title": "CELESTIAL CALENDAR MARCH 1998",
+      "summary": "The March 1998 celestial calendar highlights the visibility of Comet Hale-Bopp and Comet Meunier-Dupouy. It also reports on the SOHO satellite's discovery of four new comets, bringing its total to forty. The article includes a note on amateur astronomers' significant contributions to visual comet discoveries, particularly with reflector telescopes, noting their efficiency.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Amateur Astronomy",
+        "Historical Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Celestial Calendar",
+        "March 1998",
+        "Comets",
+        "Hale-Bopp",
+        "Meunier-Dupouy",
+        "SOHO satellite",
+        "Comet discovery",
+        "Amateur astronomy",
+        "Reflector telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-ephemerides",
+      "documentId": "eph98-03",
+      "title": "Ephemerides",
+      "summary": "This document provides ephemerides for two comets, C/1995 O1 (Hale-Bopp) and C/1997 J2 (Meunier-Dupouy), covering dates from early February to early April. The tables list key observational data including Right Ascension, Declination, Elongation, Sky position, and visual Magnitude, aiding astronomers in locating these celestial objects.",
+      "categories": [
+        "Ephemerides",
+        "Astronomical Data",
+        "Comets",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet",
+        "Hale-Bopp",
+        "C/1995 O1",
+        "Meunier-Dupouy",
+        "C/1997 J2",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomy",
+        "Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-orbital-elements",
+      "documentId": "eph98-03",
+      "title": "Orbital Elements",
+      "summary": "This document presents a table detailing the orbital elements for two comets, Hale-Bopp and Meunier-Dupouy. Key parameters listed include perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period for each object. The data includes references to MPC 30738 and contact information for Don Machholz.",
+      "categories": [
+        "technical data",
+        "astronomy",
+        "comets",
+        "orbital mechanics"
+      ],
+      "keywords": [
+        "orbital elements",
+        "Hale-Bopp",
+        "Meunier-Dupouy",
+        "comets",
+        "perihelion",
+        "eccentricity",
+        "inclination",
+        "astronomy data",
+        "MPC"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-lunar-phases",
+      "documentId": "eph98-03",
+      "title": "Lunar Phases",
+      "summary": "This article provides a detailed astronomical ephemeris for March 1998, presented in PST. It includes the dates and times for lunar phases, along with daily rise, transit, and set times, right ascension, declination, magnitude, and AU for Mercury, Venus, Mars, Jupiter, and Saturn. Further observational data covers solar information, astronomical twilight, sidereal time, and details for a \"Darkest Saturday Night\" event on March 28th.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Planetary Positions",
+        "Astronomical Ephemeris",
+        "Moon",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Rise/Set Times",
+        "Right Ascension",
+        "Declination",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "March 1998",
+        "PST"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph98-03-activities-through-other-clubs",
+      "documentId": "eph98-03",
+      "title": "ACTIVITIES THROUGH OTHER CLUBS",
+      "summary": "This article outlines ongoing astronomical activities offered by other clubs. TAC hosts star parties at the Montebello site every Wednesday and offers mobile Friday star parties, as well as third-quarter parties at Van Meier school. PAS opens Foothill Observatory for public viewing on clear Friday evenings and provides solar viewing on Saturday mornings, encouraging SJAA members to participate in these outstanding programs.",
+      "categories": [
+        "Events",
+        "Observing Opportunities",
+        "Club Activities",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "TAC",
+        "PAS",
+        "Montebello site",
+        "star parties",
+        "Van Meier school",
+        "Foothill Observatory",
+        "public viewing",
+        "solar viewing",
+        "astronomy clubs",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-march",
+      "documentId": "eph98-03",
+      "title": "March",
+      "summary": "The March schedule for PAS and HVAG includes a PAS General Meeting designated as \"Member's Night\" on the 13th, a PAS Board Meeting at Foothill Observatory on the 18th, and an HVAG star party at Grant Ranch on the 28th.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing",
+        "Calendar"
+      ],
+      "keywords": [
+        "March events",
+        "PAS General Meeting",
+        "Member's Night",
+        "PAS Board Meeting",
+        "Foothill Observatory",
+        "HVAG star party",
+        "Grant Ranch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-april",
+      "documentId": "eph98-03",
+      "title": "April",
+      "summary": "The document outlines the events scheduled for April, including a General Meeting on April 10th focusing on a total solar eclipse at Foothill College. A Board Meeting is scheduled for April 15th at the Foothill College Observatory, and a star party is planned for April 25th at Grant Ranch.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Reports",
+        "Community"
+      ],
+      "keywords": [
+        "April",
+        "PAS General Meeting",
+        "Total Solar Eclipse",
+        "Foothill College",
+        "PAS Board Meeting",
+        "Foothill College Observatory",
+        "HVAG Starparty",
+        "Grant Ranch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-david-north",
+      "documentId": "eph98-03",
+      "title": "David North",
+      "summary": "The February 7 board meeting had no official actions but reviewed the star party calendar and club bylaws. This month's edition highlights the Messier Marathon, featuring speaker Don Machholz, and optimal first quarter moon viewing opportunities. A Beginning Astronomy class covering various telescopes and mounting systems is also scheduled.",
+      "categories": [
+        "Club Business",
+        "Events",
+        "Observing Reports",
+        "Education",
+        "News"
+      ],
+      "keywords": [
+        "Board meeting",
+        "Star party calendar",
+        "Bylaws",
+        "Ephemeris expenses",
+        "Messier Marathon",
+        "First quarter moon",
+        "Don Machholz",
+        "Beginning Astronomy class",
+        "Telescopes",
+        "Mounting systems"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-jim-bartolini",
+      "documentId": "eph98-03",
+      "title": "Jim Bartolini:",
+      "summary": "Jim Bartolini recounts accidentally observing a geosynchronous satellite at FPeak. Using a non-driven Dobsonian telescope, he spent about 30 minutes watching the satellite remain stationary while the background stars drifted, creating a unique observational experience.",
+      "categories": [
+        "observing report",
+        "satellite observation",
+        "personal experience",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "geosynchronous satellite",
+        "Dobsonian telescope",
+        "FPeak",
+        "non-driven telescope",
+        "observational astronomy",
+        "satellite viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-bill-arnett",
+      "documentId": "eph98-03",
+      "title": "Bill Arnett:",
+      "summary": "Bill Arnett and friends observed a close appulse of Mars and Jupiter from a restaurant parking lot. Despite initial clouds, the sky cleared, allowing them to use two telescopes (a Pronto and a 90mm Maksutov) to view Jupiter, its moons, and Mars just 11 arcminutes away. They also shared the view with a couple of visitors, making it a successful impromptu astronomical event.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Bill Arnett",
+        "Mars",
+        "Jupiter",
+        "Appulse",
+        "Astronomical Observing",
+        "Telescopes",
+        "Pronto",
+        "Maksutov",
+        "Nagler",
+        "Medicean stars",
+        "Red Planet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-jim-van-nuland-on-sunrise-set-times",
+      "documentId": "eph98-03",
+      "title": "Jim Van Nuland, on sunrise/set times:",
+      "summary": "The U.S. Naval Observatory (USNO) defines sunrise/sunset times by considering the celestial body's apparent diameter and atmospheric refraction. Their definition states that the upper limb of the body is tangent to the refracted horizon. This method results in times that are a few minutes later than those derived from simpler calculations, particularly for sunset.",
+      "categories": [
+        "technical",
+        "astronomical definitions",
+        "ephemeris"
+      ],
+      "keywords": [
+        "USNO",
+        "sunrise/sunset",
+        "refraction",
+        "apparent diameter",
+        "astronomical calculations",
+        "refracted horizon"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph98-03-officers-and-board-of-directors",
+      "documentId": "eph98-03",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization, detailing their positions such as President, Vice President, Secretary, Treasurer, and Director. Each entry includes the individual's name and their respective contact phone number.",
+      "categories": [
+        "organizational",
+        "administrative",
+        "directory",
+        "club information"
+      ],
+      "keywords": [
+        "officers",
+        "board of directors",
+        "leadership",
+        "contact information",
+        "organizational structure",
+        "personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-ephemeris-staff",
+      "documentId": "eph98-03",
+      "title": "Ephemeris Staff",
+      "summary": "This document lists the key staff members responsible for the \"Ephemeris\" publication. It details their specific roles, such as Editor, Circulation, Layout, and Proofing, along with contact telephone numbers for the Editor and Circulation staff.",
+      "categories": [
+        "Administrative",
+        "Publication Information",
+        "Staff Listing",
+        "Contact Details"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "staff",
+        "editor",
+        "circulation",
+        "layout",
+        "proofing",
+        "contact information",
+        "publication team"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-current-scope-loans",
+      "documentId": "eph98-03",
+      "title": "Current Scope Loans",
+      "summary": "This document lists telescopes currently loaned out, including their description, borrower, and due date. Individuals interested in borrowing a scope must join a waiting list until it becomes available after its current due date.",
+      "categories": [
+        "equipment management",
+        "club services",
+        "resource allocation"
+      ],
+      "keywords": [
+        "scope loans",
+        "telescopes",
+        "borrowing equipment",
+        "due dates",
+        "waiting list",
+        "astronomical equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-extended-scope-loans",
+      "documentId": "eph98-03",
+      "title": "Extended Scope Loans",
+      "summary": "This document lists telescopes whose loan periods have been extended, detailing the scope description, current borrower, and due date. Individuals interested in borrowing one of these extended-loan scopes can contact the organization to arrange a transfer with the current borrower. The list includes various types of telescopes such as Newtonians, Dobsons, Refractors, and Schmidt-Cassegrains.",
+      "categories": [
+        "Equipment Management",
+        "Loan Program",
+        "Inventory Report"
+      ],
+      "keywords": [
+        "Extended Scope Loans",
+        "telescope loans",
+        "borrowing scopes",
+        "astronomy equipment",
+        "scope list",
+        "telescope inventory",
+        "borrower",
+        "due date"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-available-scopes",
+      "documentId": "eph98-03",
+      "title": "Available Scopes",
+      "summary": "The San Jose Astronomical Association (SJAA) offers several telescopes, including Dobsons, refractors, and Newtonians, for immediate loan to its members. These scopes are stored at various member homes, and interested individuals can contact Mike Koop to arrange a pick-up at SJAA events.",
+      "categories": [
+        "Equipment Loan Program",
+        "Club Resources",
+        "Membership Benefits",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "telescope loan",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Dobson",
+        "refractor",
+        "Newtonian",
+        "astronomical equipment",
+        "member services",
+        "equipment availability"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph98-03-waiting-list",
+      "documentId": "eph98-03",
+      "title": "Waiting List",
+      "summary": "The article presents a 'Waiting List' for several telescopes (Celestron S/C, C8, Quantum S/C) available to San Jose Astronomical Association (SJAA) members. One scope is currently undergoing repairs and needs collimation before being ready. The SJAA is also seeking spare storage space for telescopes and provides contact information for reserving equipment.",
+      "categories": [
+        "Club Resources",
+        "Equipment Availability",
+        "Internal Announcement",
+        "Membership Information"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Waiting List",
+        "SJAA",
+        "Equipment Loan",
+        "Repairs",
+        "Collimation",
+        "Storage",
+        "Members",
+        "Reservations"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph98-03-san-jose-astronomical-association-membership-form",
+      "documentId": "eph98-03",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is the San Jose Astronomical Association (SJAA) membership form, detailing options for new or renewal memberships ($15 regular, $6 junior) and an optional Sky & Telescope subscription for an additional $27. It provides instructions for submitting the form and payment via mail to the treasurer or in person at a meeting, along with contact information.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Information",
+        "Fees/Dues"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Dues",
+        "Fees",
+        "Sky & Telescope",
+        "Subscription",
+        "Astronomical Club",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph98-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9803/Eph98_03.pdf",
+      "txtPath": "9803/Eph98_03.md"
+    }
+  ]
+}

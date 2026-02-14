@@ -1,0 +1,705 @@
+{
+  "articles": [
+    {
+      "id": "eph96-02-sjaa-ephemeris",
+      "documentId": "eph96-02",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the February 1996 edition of the \"SJAA EPHEMERIS\", Volume 7, Number 2. It serves as the official publication for the San Jose Astronomical Association, providing information relevant to its members.",
+      "categories": [
+        "Publication",
+        "Astronomy Club",
+        "Newsletter",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "Astronomy",
+        "Newsletter",
+        "February 1996"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-eye-on-the-universe",
+      "documentId": "eph96-02",
+      "title": "Eye on the Universe",
+      "summary": "The San Jose Astronomical Association (SJAA) is holding its annual Board of Directors election for four seats at the upcoming general meeting, with details on nominees and voting procedures provided. The article also outlines the SJAA's event schedule for February and March, featuring general meetings, star parties at various locations, and beginner's astronomy classes. Additionally, it notes the approval of the 1996 budget and a rescheduled presentation.",
+      "categories": [
+        "Club Announcements",
+        "Elections",
+        "Event Schedule",
+        "Educational Programs",
+        "Organizational Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Elections",
+        "General Meeting",
+        "Star Party",
+        "Beginner's Astronomy Class",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "CCD Cookbook camera",
+        "Eclipse",
+        "1996 Budget",
+        "Newsletter"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-02-eyepiece-types",
+      "documentId": "eph96-02",
+      "title": "Eyepiece Types",
+      "summary": "Jay Freeman argues that expensive, 'fancy' eyepieces are overrated and not necessary for satisfactory astronomical observations, especially for beginners or those with budget telescopes. Drawing on extensive experience, he suggests that good performance can be achieved without spending thousands on oculars. He intends to elaborate on his preferred magnifications and the eyepiece types that suit them.",
+      "categories": [
+        "Astronomy",
+        "Equipment",
+        "Observing Advice",
+        "Beginner Guide",
+        "Eyepieces"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Telescopes",
+        "Magnification",
+        "Observing",
+        "Beginners",
+        "Budget Astronomy",
+        "Oculars",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Exit Pupil"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-02-bob-madden",
+      "documentId": "eph96-02",
+      "title": "Bob Madden",
+      "summary": "Bob Madden, a retired Aeronautical Engineer from Lockheed, outlines his long-standing dedication to the SJAA, serving on the Board of Directors since 1991, and as the former editor and current publication manager for The Ephemeris. He is also a charter member of Group 70, emphasizing his commitment to preserving SJAA's purpose and engaging with its members. Madden expresses interest in school star parties, CCD imagery, and mirror making, concluding with a request for votes.",
+      "categories": [
+        "Election Statement",
+        "Member Profile",
+        "Organizational Involvement"
+      ],
+      "keywords": [
+        "Bob Madden",
+        "SJAA",
+        "Board of Directors",
+        "The Ephemeris",
+        "Group 70",
+        "Lockheed",
+        "Aeronautical Engineer",
+        "Publication Manager",
+        "Mirror Making",
+        "CCD Imagery",
+        "School Star Parties"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph96-02-mark-wagner",
+      "documentId": "eph96-02",
+      "title": "Mark Wagner",
+      "summary": "Mark Wagner is a highly active individual dedicated to promoting astronomy, particularly through the San Jose Astronomical Association (SJAA). His goals include expanding SJAA's educational outreach, fostering youth interest, utilizing digital platforms for engagement, and improving club operations through initiatives like a mentor program and more effective board meetings. He is involved in numerous SJAA activities, such as coordinating star parties and managing the club's website, alongside extensive non-SJAA astronomy work, including teaching seminars, publishing an online digest, and volunteering with large telescopes.",
+      "categories": [
+        "Member Profile",
+        "Club Operations",
+        "Astronomy Education",
+        "Community Outreach",
+        "Digital Engagement",
+        "Volunteerism"
+      ],
+      "keywords": [
+        "Mark Wagner",
+        "SJAA",
+        "Astronomy Education",
+        "Youth Engagement",
+        "Mentor Program",
+        "Club Management",
+        "Star Parties",
+        "Internet Resources",
+        "Public Outreach",
+        "Amateur Astronomy",
+        "Fremont Peak",
+        "AstroNet Astronomy Digest"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-02-bob-brauer",
+      "documentId": "eph96-02",
+      "title": "Bob Brauer",
+      "summary": "Bob Brauer, the club president for the past two years, expresses his enjoyment of interacting with members at meetings and star parties. He assures members that the board is actively seeking to enhance club services, such as providing exciting speakers and loaner equipment, and is exploring new ideas like refreshments or planetarium meetings. He encourages members to provide suggestions and shares his personal interests in astrophotography and planetary observing.",
+      "categories": [
+        "Club Update",
+        "President's Message",
+        "Member Services"
+      ],
+      "keywords": [
+        "Club President",
+        "Member Services",
+        "Astronomy Club",
+        "Star Parties",
+        "Club Meetings",
+        "Astrophotography",
+        "Planetary Observing",
+        "Member Feedback"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-dean-linebarger",
+      "documentId": "eph96-02",
+      "title": "Dean Linebarger",
+      "summary": "Dean Linebarger outlines his goals for the SJAA, focusing on expanding public participation in observing programs and school star parties, particularly for older children and young adults. He also proposes establishing a club presence on public television, supporting the club's website, initiating a mentor program, and researching alternative observing sites. Leveraging his experience as a technical manager with extensive project and financial management skills, Linebarger aims to bring leadership, program development, and consensus-building abilities to the SJAA Board of Directors.",
+      "categories": [
+        "Candidate Statement",
+        "Club Business",
+        "Volunteerism",
+        "Community Outreach",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "Dean Linebarger",
+        "SJAA",
+        "Public participation",
+        "School star parties",
+        "Observing program",
+        "Mentor program",
+        "Observing sites",
+        "Board of Directors",
+        "Project management",
+        "Community outreach",
+        "Astronomy club"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph96-02-goals",
+      "documentId": "eph96-02",
+      "title": "GOALS:",
+      "summary": "This document outlines strategic goals for an astronomy club, focusing on enhancing community education and outreach through various activities like public service announcements, specialized equipment nights, and improved star parties. Key objectives also include expanding the telescope loaner program, ensuring financial stability, and increasing club membership.",
+      "categories": [
+        "Strategic Planning",
+        "Club Management",
+        "Community Outreach",
+        "Education",
+        "Membership Development"
+      ],
+      "keywords": [
+        "Educational activities",
+        "Community outreach",
+        "Public service announcements",
+        "Slide & Equipment nights",
+        "Amateur astronomy",
+        "Public star parties",
+        "Telescope loaner program",
+        "Financial stability",
+        "Membership growth",
+        "Club goals"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-sjaa-activities",
+      "documentId": "eph96-02",
+      "title": "SJAA ACTIVITIES:",
+      "summary": "This document outlines the extensive activities of an active SJAA board member, showcasing their commitment to enhancing the club's operations and community engagement. Key contributions include securing club insurance, improving school star parties and educational content, creating promotional materials, organizing events like Slide & Equipment nights, and consistently participating in public star parties with a telescope.",
+      "categories": [
+        "Club Activities",
+        "Community Outreach",
+        "Education",
+        "Event Organization",
+        "Member Contributions"
+      ],
+      "keywords": [
+        "SJAA",
+        "Club Insurance",
+        "Star Parties",
+        "Educational Handouts",
+        "PSAs",
+        "Slide & Equipment Night",
+        "Fliers",
+        "Telescope",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-other",
+      "documentId": "eph96-02",
+      "title": "OTHER:",
+      "summary": "This individual frequently observes at Fremont Peak, beyond SJAA-hosted star parties, and volunteers to operate the 30\" Challenger telescope during public viewing nights. They are an active member of both the Fremont Peak Observatory Association (FPOA) and the Halls Valley Astronomical Group, demonstrating significant involvement in local astronomy activities.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Clubs",
+        "Volunteering",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "SJAA",
+        "star parties",
+        "30\" Challenger telescope",
+        "public viewing",
+        "FPOA",
+        "Halls Valley Astronomical Group",
+        "astronomy",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-universe-continued-from-page-1",
+      "documentId": "eph96-02",
+      "title": "Universe, continued from page 1",
+      "summary": "The San Jose Astronomical Association (SJAA) has announced a lineup of talks for the coming months, including topics like CCD techniques, a 1995 total solar eclipse over India, and the Moon. Additionally, the club's 1996 Swap Meet and Auction is scheduled for May 4th, with details provided for members to submit items.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Lectures",
+        "Observing Reports",
+        "Technical"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Talks",
+        "Lectures",
+        "CCD techniques",
+        "Total Solar Eclipse",
+        "India",
+        "Moon",
+        "Swap Meet",
+        "Auction",
+        "1996"
+      ],
+      "pageStart": 1,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-02-mt-lassen-star-party-1996",
+      "documentId": "eph96-02",
+      "title": "Mt. Lassen Star Party, 1996",
+      "summary": "The article announces the 3rd Annual Mount Lassen Star Party, scheduled for August 14-17, 1996, at Mount Lassen National Park. Attendees will enjoy stargazing from high-altitude observing areas like Devastated Area and Bumpass Hell, with group camping available at Lost Creek. The event includes a Thursday feast, a Saturday public night, and requires reservations, especially for the Lost Creek campground which close April 30, 1996.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Stargazing",
+        "Event Details",
+        "Camping"
+      ],
+      "keywords": [
+        "Mt. Lassen Star Party",
+        "Mount Lassen National Park",
+        "Stargazing",
+        "Astronomy event",
+        "Camping",
+        "Devastated Area",
+        "Bumpass Hell",
+        "Public night",
+        "Milky Way",
+        "Reservations",
+        "1996"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-eclipse-over-india",
+      "documentId": "eph96-02",
+      "title": "Eclipse over India",
+      "summary": "Ernie Piini will present a color slide show at the March 2 SJAA general meeting, detailing his expedition to northern India for the 42-second Total Solar Eclipse on October 24, 1995. The presentation will cover his 17th trip to a path of totality/annularity, featuring unforgettable scenes from various Indian cities and historical sites like the Taj Mahal, as well as ancient observatories built by Ulugh Beg and Maharajah Sawai Jai Singh.",
+      "categories": [
+        "observing reports",
+        "events",
+        "travelogue",
+        "astronomy history"
+      ],
+      "keywords": [
+        "Eclipse over India",
+        "Ernie Piini",
+        "Total Solar Eclipse",
+        "October 24, 1995",
+        "India",
+        "SJAA",
+        "slide presentation",
+        "Delhi",
+        "Jaipur",
+        "Mandawa",
+        "Bharatpur",
+        "Agra",
+        "Taj Mahal",
+        "Red Fort",
+        "Ulugh Beg",
+        "Maharajah Sawai Jai Singh",
+        "ancient observatories"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-02-eyepieces-continued-from-page-1",
+      "documentId": "eph96-02",
+      "title": "Eyepieces, continued from page 1",
+      "summary": "The author discusses their practical approach to selecting telescope eyepieces, detailing preferred low and high magnifications with corresponding exit pupils for various observing scenarios across different telescopes. They explain their choices based on balancing image brightness, field of view, and visible detail, while also considering practical factors like eyepiece design complexity, cost, and physical weight over premium wide-field options.",
+      "categories": [
+        "Astronomy",
+        "Observing Equipment",
+        "Telescopes",
+        "Technical Discussion",
+        "Eyepiece Selection"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Magnification",
+        "Exit Pupil",
+        "Field of View",
+        "Telescopes",
+        "C-14",
+        "Dobson",
+        "Refractor",
+        "Observing",
+        "Apparent Surface Brightness",
+        "Eyepiece Design",
+        "Plossl",
+        "Kellner",
+        "Erfle",
+        "Nagler",
+        "Focal Length",
+        "F-number",
+        "Seeing"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph96-02-eyepieces-continued-from-page-4",
+      "documentId": "eph96-02",
+      "title": "Eyepieces, continued from page 4",
+      "summary": "The author discusses their preference for simpler, narrower apparent field of view eyepieces for medium and high-power observing, arguing that wide fields are often unnecessary, especially at smaller exit pupils. They highlight the excellent performance of designs like Orthoscopics and even a Ramsden, even on faster telescopes, comparing them favorably to more complex options. The article concludes with specific eyepiece recommendations for various f-ratio instruments, prioritizing practical and cost-effective choices over expensive wide-field designs.",
+      "categories": [
+        "Amateur Astronomy",
+        "Equipment Review",
+        "Observing Techniques",
+        "Gear Recommendations"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Orthoscopic",
+        "Ramsden",
+        "Kellner",
+        "Erfle",
+        "Plossl",
+        "Nagler",
+        "Apparent Field of View",
+        "Exit Pupil",
+        "Telescope",
+        "Focal Length",
+        "Schmidt-Cassegrain",
+        "Dobson",
+        "Refractor",
+        "High Power Eyepiece",
+        "Low Power Eyepiece"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-02-excerpts-from-galileo-amazing-facts",
+      "documentId": "eph96-02",
+      "title": "Excerpts from Galileo Amazing Facts",
+      "summary": "The Galileo spacecraft experienced an unexpected orbital adjustment during its Io flyby, bringing it 100 km closer than planned. This resulted in a shorter orbit around Jupiter, causing it to arrive at its Ganymede encounter a week early and saving over 10 kg of propellant. The article also notes the Galileo spacecraft's cameras can resolve objects as small as 12 meters, a million-fold improvement over Galileo Galilei's original observations.",
+      "categories": [
+        "Spacecraft Operations",
+        "Planetary Science",
+        "Space Exploration",
+        "News",
+        "Technical"
+      ],
+      "keywords": [
+        "Galileo spacecraft",
+        "Io flyby",
+        "Ganymede encounter",
+        "Jupiter orbit",
+        "Spacecraft navigation",
+        "Propellant conservation",
+        "Camera resolution",
+        "NASA JPL"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-a-new-spacecraft-comes-to-life",
+      "documentId": "eph96-02",
+      "title": "A New Spacecraft Comes to Life",
+      "summary": "The Cassini spacecraft successfully underwent its initial \"power on\" test at NASA's Jet Propulsion Laboratory in December 1995, marking a crucial milestone in its development. This joint mission by NASA, ESA, and ASI is scheduled for a 1997 launch to Saturn, aiming to deploy the Huygens probe to Titan and orbit the planet for four years of scientific data collection. The successful test confirmed the electrical linking of its major components, paving the way for further assembly and testing.",
+      "categories": [
+        "Spacecraft Development",
+        "Space Missions",
+        "News",
+        "Planetary Science",
+        "Technical Announcement"
+      ],
+      "keywords": [
+        "Cassini spacecraft",
+        "JPL",
+        "NASA",
+        "ESA",
+        "ASI",
+        "Saturn mission",
+        "Huygens probe",
+        "Titan",
+        "Spacecraft activation",
+        "Power-on test",
+        "Space exploration",
+        "Galileo mission"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph96-02-comet-comments",
+      "documentId": "eph96-02",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on comet activity, highlighting the recent Christmas Day discovery of Comet Hyakutake and its expected visibility. It also discusses the status of other comets like Honda-Mrkos-Pajdusakova, Schwassmann-Wachmann 3 (noting its split into four parts), and Hale-Bopp. The author points out an increase in overall comet activity during late 1995, with amateur astronomers leading in visual discoveries due to changes in professional search programs.",
+      "categories": [
+        "observing reports",
+        "comet news",
+        "amateur astronomy",
+        "astronomy updates"
+      ],
+      "keywords": [
+        "comet",
+        "discovery",
+        "Hyakutake",
+        "Honda-Mrkos-Pajdusakova",
+        "Schwassmann-Wachmann 3",
+        "Hale-Bopp",
+        "amateur astronomers",
+        "visual discoveries",
+        "1995",
+        "magnitude",
+        "morning sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-ephemerides",
+      "documentId": "eph96-02",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for three comets: 73P/Schwassmann-Wachmann 3, 45P/Honda-Mrkos-Pajdusakova, and 1995 Y1 (Hyakutake). Each table lists daily celestial coordinates (Right Ascension and Declination), elongation (EL), and estimated sky magnitude (Sky Mag) from late January through early March.",
+      "categories": [
+        "observing data",
+        "astronomical data",
+        "comet observation",
+        "ephemerides",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "73P/Schwassmann-Wachmann 3",
+        "45P/Honda-Mrkos-Pajdusakova",
+        "1995 Y1 (Hyakutake)",
+        "comets",
+        "ephemerides",
+        "Right Ascension",
+        "Declination",
+        "sky magnitude",
+        "astronomy",
+        "observing guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-orbital-elements",
+      "documentId": "eph96-02",
+      "title": "ORBITAL ELEMENTS",
+      "summary": "This document presents a detailed table of orbital elements for three specific celestial objects: Schwassmann-Wachmann 3, Honda-Mrkos-Pajdusakova, and Hyakutaka. For each object, parameters such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period are listed.",
+      "categories": [
+        "Astronomical Data",
+        "Orbital Mechanics",
+        "Cometary Science",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Comets",
+        "Schwassmann-Wachmann 3",
+        "Honda-Mrkos-Pajdusakova",
+        "Hyakutaka",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Orbital Period",
+        "Astronomical Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-lunar-time-date-rise-trans-set-phase",
+      "documentId": "eph96-02",
+      "title": "Lunar time date rise trans set Phase",
+      "summary": "This document provides an astronomical ephemeris for February 1996, detailing lunar phases and their associated times. It also lists rise, transit, and set times, magnitudes, distances, right ascension, and declination for Mercury, Venus, Mars, Jupiter, Saturn, and the Sun across various dates in the month. Additionally, it includes data for astronomical twilight, sidereal time, and notes a specific \"Darkest Saturday Night\" for observing in February 1996.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Lunar Phases",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Magnitude",
+        "Distance (AU)",
+        "Right Ascension (RA)",
+        "Declination (Dec)",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "February 1996",
+        "Observing conditions"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-02-astro-ads",
+      "documentId": "eph96-02",
+      "title": "ASTRO ADS",
+      "summary": "This article presents two classified advertisements related to astronomy. One ad offers a hardly used Odyssey 10.1 inch telescope package with several accessories for $450. The second ad seeks leftover cabinet-grade plywood for a homemade Dobsonian telescope project, with excess materials to be donated to a telescope maker's workshop. The document concludes with a note stating that 'Astro Ads' are free for non-commercial, astronomically related products or services.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Equipment Wanted",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Telescope",
+        "Odyssey 10.1 inch",
+        "Telrad",
+        "Barlow",
+        "Eyepiece",
+        "Sky Atlas",
+        "Plywood",
+        "Dobsonian",
+        "Telescope Making",
+        "Used Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-officers-and-board-of-directors",
+      "documentId": "eph96-02",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the officers and board of directors, as well as ephemeris contributors, for an organization. It provides names and phone numbers for each position. Additionally, it includes a call for members to submit articles for publication in 'The Ephemeris' newsletter, specifying submission guidelines and contact information for the editor, Lew Kurtz.",
+      "categories": [
+        "Organizational Directory",
+        "Contact Information",
+        "Newsletter Submissions",
+        "Club Administration"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Newsletter",
+        "Submissions",
+        "Contact Information",
+        "Organizational Structure",
+        "Club Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-02-telescope-loaner-status",
+      "documentId": "eph96-02",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides an update on a telescope loaner program, listing various telescopes, their borrowers, and due dates, noting several are available for loan. Additionally, it presents a condensed 1996 budget, detailing income sources like membership dues and expenses for items such as speakers and the loaner scope program, indicating a projected deficit for the year.",
+      "categories": [
+        "Telescope Loaner Program",
+        "Financial Report",
+        "Club Administration",
+        "Equipment Management"
+      ],
+      "keywords": [
+        "Telescope loaner",
+        "Budget",
+        "Membership dues",
+        "Telescope availability",
+        "Financial status",
+        "Equipment inventory",
+        "Due dates",
+        "Astronomical League"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph96-02-san-jose-astronomical-association-membership-form",
+      "documentId": "eph96-02",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), dated February 1996. It details various membership options, including individual membership and options bundled with a Sky & Telescope subscription, along with their respective fees. The form provides instructions for submission via mail or in-person at meetings, including the treasurer's contact information and payment instructions.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Non-profit organization",
+        "Administration",
+        "Financial"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership form",
+        "Renewal",
+        "Junior membership",
+        "Sky and Telescope",
+        "Fees",
+        "Treasurer",
+        "Contact information",
+        "February 1996"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph96-02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9602/Eph96_02.pdf",
+      "txtPath": "9602/Eph96_02.md"
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "articles": [
+    {
+      "id": "eph94-10-sjaa-ephemeris",
+      "documentId": "eph94-10",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the \"SJAA Ephemeris,\" specifically Volume 5, Number 8, for October 1994. It serves as the official publication of the San Jose Astronomical Association, likely containing news, updates, and articles for its members.",
+      "categories": [
+        "Newsletter",
+        "Astronomy Club Publication",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "October 1994",
+        "Astronomy Newsletter",
+        "Club Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-the-eyepiece",
+      "documentId": "eph94-10",
+      "title": "The Eyepiece",
+      "summary": "The editor, Bob Madden, reflects on his third year and encourages members to contribute regular observing challenge articles, citing the positive feedback on 'Abain' pieces and the value of others' contributions. He recounts a recent successful observing trip with Lech and Gosia Jaszowski, where they cataloged numerous Messier objects from a high-altitude site. The article concludes with a detailed calendar of upcoming star parties, club meetings, and a descriptive astronomy class for October and November.",
+      "categories": [
+        "Editorial",
+        "Observing Report",
+        "Events Calendar",
+        "Club News",
+        "Call for Contributions"
+      ],
+      "keywords": [
+        "Bob Madden",
+        "Editor",
+        "Observing",
+        "Star Parties",
+        "Messier Objects",
+        "Astronomy Club",
+        "Member Contributions",
+        "Meetings",
+        "Events",
+        "Fremont Peak",
+        "Coe Park",
+        "Houge Park",
+        "Milpitas Library"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-new-obsession",
+      "documentId": "eph94-10",
+      "title": "New Obsession",
+      "summary": "Dean Linebarger recounts the challenging but ultimately rewarding process of setting up and collimating his new Obsession 20\" telescope. Assisted by Gary and \"The Shadow,\" he faced difficulties with mirror orientation due to new markings and performed multiple collimations to optimize illumination and prevent pinching. Despite the effort, the initial results were very positive, with images comparable to or even slightly better than an experienced user's similar scope.",
+      "categories": [
+        "observing report",
+        "equipment setup",
+        "technical discussion",
+        "personal experience"
+      ],
+      "keywords": [
+        "Obsession 20\" telescope",
+        "collimation",
+        "mirror orientation",
+        "glass striations",
+        "primary mirror",
+        "secondary mirror",
+        "telescope setup",
+        "image quality",
+        "telescope coatings"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-10-newsgroups-sci-astro",
+      "documentId": "eph94-10",
+      "title": "Newsgroups: sci.astro",
+      "summary": "This article clarifies the differences between Greenwich Mean Time (GMT) and Universal Time (UT), including its variants UT0, UT1, and Coordinated Universal Time (UTC). It provides a historical overview of timekeeping standards, the Royal Greenwich Observatory's role, and the evolution from astronomical observations to atomic time and the use of leap seconds to reconcile atomic clocks with the Earth's irregular rotation. The text also touches on the BBC's time signals and their synchronization with UTC.",
+      "categories": [
+        "Astronomy",
+        "Timekeeping",
+        "Chronometry",
+        "History of Science",
+        "Technical Explanation"
+      ],
+      "keywords": [
+        "GMT",
+        "Universal Time",
+        "UTC",
+        "Atomic Time",
+        "Leap Seconds",
+        "Earth's Rotation",
+        "Royal Greenwich Observatory",
+        "Time Standards",
+        "Time Signals",
+        "Standard Time"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-10-skychart-2000-a-software-review",
+      "documentId": "eph94-10",
+      "title": "SkyChart 2000 - A software review",
+      "summary": "This article reviews SkyChart 2000.0 v2.1, a new astronomy/spaceflight simulator for Macintosh computers developed by Tim DeBenedictis. It highlights the software's advanced features, accuracy, and user-friendly interface, targeting both amateur astronomers and professional educators. The review also details pricing, including a discount for SJAA members, and announces a demonstration at an upcoming general meeting.",
+      "categories": [
+        "Software Review",
+        "Astronomy Software",
+        "Product Announcement",
+        "Macintosh Software"
+      ],
+      "keywords": [
+        "SkyChart 2000.0",
+        "Astronomy Simulator",
+        "Spaceflight Simulator",
+        "Macintosh",
+        "Tim DeBenedictis",
+        "Satellite Tracking",
+        "Voyager",
+        "Eclipses",
+        "Comet Shoemaker-Levy 9",
+        "Shareware",
+        "SJAA discount"
+      ],
+      "pageStart": 1994,
+      "pageEnd": 1994
+    },
+    {
+      "id": "eph94-10-obsession-continued-from-page-1",
+      "documentId": "eph94-10",
+      "title": "Obsession (continued from page 1)",
+      "summary": "The author recounts an all-night observing session with very steady seeing conditions, despite some fog. They were particularly impressed by the clarity and brightness of objects visible through a 20° field of view, making familiar objects seem new and even confusing NGC objects with brighter M objects due to the enhanced detail.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Observing",
+        "Seeing conditions",
+        "Fog",
+        "NGC objects",
+        "M objects",
+        "Telescope",
+        "Deep-sky objects"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph94-10-gmt-cont-from-page-2",
+      "documentId": "eph94-10",
+      "title": "GMT (cont. from page 2",
+      "summary": "The Royal Greenwich Observatory (RGo) moved from Herstmonceux Castle to Cambridge University in March 1990; the castle was sold, though laser ranging and GPS stations now operate at its former site. The article also recommends the book \"Greenwich Time and the Discovery of Longitude\" by Derek Howse for those interested in learning more about time.",
+      "categories": [
+        "Institutional News",
+        "History",
+        "Reference",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Royal Greenwich Observatory",
+        "RGo",
+        "Herstmonceux Castle",
+        "Cambridge University",
+        "Greenwich Time",
+        "Longitude",
+        "Observatory relocation",
+        "Timekeeping history"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-10-newsgroups-sci-astro-alt-sci-planetary",
+      "documentId": "eph94-10",
+      "title": "Newsgroups: sci.astro,alt.sci.planetary",
+      "summary": "This newsgroup post from September 5, 1994, provides an update regarding the Voyager spacecraft mission. The subject indicates the content pertains to the status or activities of the Voyager probes as of September 1, 1994.",
+      "categories": [
+        "news",
+        "space exploration",
+        "planetary science",
+        "mission updates"
+      ],
+      "keywords": [
+        "Voyager",
+        "spacecraft",
+        "mission update",
+        "planetary science"
+      ],
+      "pageStart": 1994,
+      "pageEnd": 1994
+    },
+    {
+      "id": "eph94-10-public-information-office-jet-propulsion-laboratory-california-institute-of-technology-national-aeronautics-and-space-administration-pasadena-calif-91109-tele-phone-818-354-5011",
+      "documentId": "eph94-10",
+      "title": "PUBLIC INFORMATION OFFICE JET PROPULSION LABORATORY CALIFORNIA INSTITUTE OF TECHNOLOGY NATIONAL AERONAUTICS AND SPACE ADMINISTRATION PASADENA, CALIF. 91109. TELE-PHONE (818) 354-5011",
+      "summary": "This document identifies the source as the Public Information Office of the Jet Propulsion Laboratory (JPL), a division of the California Institute of Technology under NASA. It provides the physical address in Pasadena, California, and a telephone number for contact.",
+      "categories": [
+        "Administrative",
+        "Contact Information",
+        "NASA",
+        "JPL"
+      ],
+      "keywords": [
+        "Jet Propulsion Laboratory",
+        "JPL",
+        "NASA",
+        "Public Information Office",
+        "Pasadena",
+        "California Institute of Technology",
+        "Contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-voyager-mission-status-september-1-1994",
+      "documentId": "eph94-10",
+      "title": "VOYAGER MISSION STATUS September 1, 1994",
+      "summary": "As of September 1, 1994, both Voyager spacecraft are healthy and actively conducting fields and particles experiments in interplanetary space, with an estimated operational lifespan until at least 2015, primarily limited by diminishing electrical power from their RTGs. While hydrazine propellant is also a consumable, it is not expected to be the limiting factor for mission longevity. Both Voyagers are continuously tracked by the Deep Space Network, and Voyager 1 is projected to surpass Pioneer 10 in January 1998 as the most distant human-made object.",
+      "categories": [
+        "Mission Status",
+        "Spacecraft Operations",
+        "Deep Space Exploration",
+        "Technical Report",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Voyager 1",
+        "Voyager 2",
+        "RTG",
+        "Electrical Power",
+        "Hydrazine Propellant",
+        "Deep Space Network (DSN)",
+        "Interplanetary Space",
+        "Mission Longevity",
+        "Pioneer 10",
+        "Spacecraft Tracking"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-public-information-office-jet-propulsion-laboratory-california-institute-of-technology-national-aeronautics-and-space-administration-pasadena-calif-91109-tele-phone-818-354-5011-contact-diane-ainsworth",
+      "documentId": "eph94-10",
+      "title": "PUBLIC INFORMATION OFFICE JET PROPULSION LABORATORY CALIFORNIA INSTITUTE OF TECHNOLOGY NATIONAL AERONAUTICS AND SPACE ADMINISTRATION PASADENA, CALIF. 91109. TELE-PHONE (818) 354-5011 Contact: Diane Ainsworth",
+      "summary": "This article from the Jet Propulsion Laboratory's Public Information Office highlights the enduring scientific legacy of the Lunar Laser Ranging Experiment (LLRE), initiated 25 years ago by Apollo 11 astronauts. Using retroreflectors on the Moon, the experiment has provided unprecedented accuracy in measuring the Moon's orbit, rotation, and recession from Earth, also yielding strong evidence of a lunar liquid core. These significant findings, produced by a JPL team, were published in Science magazine to commemorate the silver anniversary of the Apollo 11 lunar landing.",
+      "categories": [
+        "Space Exploration",
+        "Scientific Research",
+        "Astronomy",
+        "News",
+        "Technology"
+      ],
+      "keywords": [
+        "Lunar Laser Ranging Experiment",
+        "Apollo 11",
+        "Moon",
+        "Retroreflectors",
+        "Earth-Moon distance",
+        "Lunar rotation",
+        "Liquid core",
+        "Jet Propulsion Laboratory",
+        "Science magazine",
+        "Laser ranging",
+        "Space geodesy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-10-lunar-ranging-cont-from-page-4",
+      "documentId": "eph94-10",
+      "title": "Lunar Ranging (Cont from page 4)",
+      "summary": "Lunar laser ranging involves bouncing laser beams off retroreflectors on the Moon's surface to measure the Earth-Moon distance with extreme precision. Despite the technical challenge of aiming and detecting faint return signals, advancements have improved accuracy from several meters to about 3 centimeters. These experiments have yielded significant scientific discoveries, including evidence for the Moon's liquid core, verification of Einstein's theory of relativity, insights into Earth's rotation and crustal plate drift, and the Moon's recession rate.",
+      "categories": [
+        "Technical",
+        "Research",
+        "Space Science",
+        "Astronomy",
+        "Physics"
+      ],
+      "keywords": [
+        "Lunar Ranging",
+        "Laser Ranging",
+        "Moon",
+        "Retroreflector",
+        "Precision Measurement",
+        "Liquid Core",
+        "Einstein's Theory of Relativity",
+        "Earth Rotation",
+        "Plate Tectonics",
+        "Moon's Orbit",
+        "NASA",
+        "JPL"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-10-impromptu-star-party-at-fremont-peak-aug-31-st-by-paul-barton",
+      "documentId": "eph94-10",
+      "title": "Impromptu Star Party at Fremont Peak, Aug 31 st by Paul Barton",
+      "summary": "Paul Barton reports on an exceptionally clear, warm, and still impromptu star party at Fremont Peak on August 31st, organized by Bob Madden. Attendees enjoyed bright views of the Milky Way and observed the aftermath of a recent fire, while also noting improvements like a new fire pit and fewer mosquitoes. The report highlights a young, ardent astronomer, Donald Fairchild, and lists the participants and their telescopes.",
+      "categories": [
+        "observing report",
+        "event recap",
+        "astronomy club activities",
+        "star party"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "star party",
+        "Milky Way",
+        "Bob Madden",
+        "Paul Barton",
+        "Donald Fairchild",
+        "C-11",
+        "Dobsonian",
+        "Coulter Camp",
+        "seeing conditions",
+        "Sagitta",
+        "Vulpeculm"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-10-telescope-loaner-status-by-paul-barton",
+      "documentId": "eph94-10",
+      "title": "Telescope Loaner Status by Paul Barton",
+      "summary": "This article details the current status of a telescope loaner program, listing various telescopes, their current users, and due dates, or indicating if they are available for borrowing. It also provides instructions for members on how to request a telescope and get on a general or specific waiting list, with a special note about the solar telescope's availability.",
+      "categories": [
+        "Club Information",
+        "Equipment Management",
+        "Loaner Program",
+        "Astronomy Resources"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Telescope availability",
+        "Club equipment",
+        "Astronomy club",
+        "SJAA",
+        "Dobson",
+        "Refractor",
+        "Newt/P mount",
+        "Celestron C-8",
+        "Solar telescope",
+        "Borrowing telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-astro-ads",
+      "documentId": "eph94-10",
+      "title": "ASTRO ADS",
+      "summary": "This article, titled \"ASTRO ADS,\" serves as a classifieds section for noncommercial advertisers to sell or buy astronomically related products and services. It details submission guidelines, including the monthly deadline of the 12th, and features several listings for used telescopes, eyepieces, mirror blanks, and mounts from various brands. One listing is a \"wanted\" ad for a drive mechanism.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Sales and Purchases",
+        "Community Notices"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Astronomical products",
+        "Telescopes",
+        "Eyepieces",
+        "Mounts",
+        "Schmidt Cassegrain",
+        "Refractor",
+        "Reflector",
+        "Mirror Blank",
+        "Teleview",
+        "Celestron",
+        "Meade",
+        "Takahashi",
+        "Coulter",
+        "Used equipment",
+        "For Sale",
+        "Wanted"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-10-september-1994",
+      "documentId": "eph94-10",
+      "title": "September 1994",
+      "summary": "This document provides astronomical data for October 1994, including lunar phases, positions and magnitudes of the Sun and several planets (Mercury, Venus, Mars, Jupiter, Saturn), and astronomical twilight times. It also details sidereal time and highlights the 'Darkest Saturday Night' on October 1st, noting all times are in Pacific Daylight Time (PDT).",
+      "categories": [
+        "Astronomical Data",
+        "Almanac",
+        "Observing Guide",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Rise Times",
+        "Transit Times",
+        "Set Times",
+        "Magnitude",
+        "Distance",
+        "October 1994",
+        "Pacific Daylight Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-offices-and-board-of-directors",
+      "documentId": "eph94-10",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current Offices and Board of Directors, detailing the names and contact phone numbers for the President, Vice President, Secretary, Treasurer, and several Directors. It provides a quick reference for the organization's leadership.",
+      "categories": [
+        "Organization Information",
+        "Contact List",
+        "Administrative"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Contact Information",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-ephemeris-contributors",
+      "documentId": "eph94-10",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists the names and contact phone numbers of individuals who are credited as \"Ephemeris Contributors.\" It appears to be a contact directory for those involved in providing ephemeris data.",
+      "categories": [
+        "Contact Information",
+        "Contributors List",
+        "Directory",
+        "Astronomy (implied)"
+      ],
+      "keywords": [
+        "Ephemeris Contributors",
+        "Don Machholz",
+        "Paul Barton",
+        "Pat Donnelly",
+        "Jim Van Vuland",
+        "David Smith",
+        "Contact details",
+        "Phone numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-comet-comments",
+      "documentId": "eph94-10",
+      "title": "Comet Comments",
+      "summary": "Don Machholz reports on the discovery of a new comet and the recovery of another, while comet Nakamura-nishamura-Machholz (1994m) fades. He details his discovery of Periodic Comet Machholz 2 (1994c), noting its rapid movement, unusual orbit with a 5.44-year period, and a significant outburst that brightened it from magnitude 10 to 7, followed by the detection of four fainter companion comets. Machholz also mentions seeking a new computer bulletin board to host his monthly column.",
+      "categories": [
+        "Observing Report",
+        "Comet News",
+        "Amateur Astronomy",
+        "Column/Newsletter"
+      ],
+      "keywords": [
+        "Comet Machholz 2 (1994c)",
+        "Comet Nakamura-nishamura-Machholz (1994m)",
+        "Comet discovery",
+        "Comet recovery",
+        "Comet outburst",
+        "Companion comets",
+        "Don Machholz",
+        "Amateur observation",
+        "Telescope",
+        "Magnitude",
+        "Orbital period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-10-ephemerides",
+      "documentId": "eph94-10",
+      "title": "EPHEMERIDES",
+      "summary": "This article provides ephemerides, or astronomical data, for three comets: Periodic Comet Borrelly (1994l), Comet Nakamura-Nishimura-Machholz (1994m), and Periodic Comet Machholz 2 (1994o). It lists their predicted Right Ascension, Declination, Elongation, sky visibility (morning or evening), and estimated magnitude for dates ranging from late September to mid-November 1994. The information is published monthly by the San Jose Astronomical Association.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guide",
+        "Cometology",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Periodic Comet Borrelly",
+        "Comet Nakamura-Nishimura-Machholz",
+        "Periodic Comet Machholz 2",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Observational Data",
+        "October 1994"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-10-san-jose-astronomical-association-membership",
+      "documentId": "eph94-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining different membership types and their associated fees, including options for Membership Only, Membership/S&T, and Junior. It provides instructions for submitting the form and payment to the treasurer, along with the organization's address, hotline number, and a date stamp of October 1994.",
+      "categories": [
+        "Membership Application",
+        "Organizational Information",
+        "Dues/Fees"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application Form",
+        "Dues",
+        "Astronomy",
+        "Non-profit",
+        "October 1994"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9410/Eph94_10.pdf",
+      "txtPath": "9410/Eph94_10.md"
+    }
+  ]
+}

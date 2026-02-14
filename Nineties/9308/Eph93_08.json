@@ -1,0 +1,840 @@
+{
+  "articles": [
+    {
+      "id": "eph93-08-sjaa-ephemeris",
+      "documentId": "eph93-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the \"SJAA Ephemeris,\" the official publication of the San Jose Astronomical Association. This specific issue is Volume 4, Number 8, published in August 1993.",
+      "categories": [
+        "Publication",
+        "Astronomy Club",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "August 1993",
+        "Astronomy",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-the-eyepiece",
+      "documentId": "eph93-08",
+      "title": "The Eyepiece",
+      "summary": "This article announces the upcoming SJAA picnic at Fremont Peak, replacing the general meeting for the month, and encourages members to bring shared items and RSVP for a headcount. It also recaps an informative talk on eyepieces, including Barlows and specific brands like Naglers and Edmond RKE, noting their characteristics. Additionally, the article lists numerous star parties for August and September, upcoming general meetings, and a change in venue for the Observational Astronomy Class to the Rosicrucian Planetarium.",
+      "categories": [
+        "Club Announcements",
+        "Observing Reports",
+        "Events Schedule",
+        "Technical Discussion",
+        "Educational Content"
+      ],
+      "keywords": [
+        "SJAA",
+        "Fremont Peak",
+        "Picnic",
+        "Eyepieces",
+        "Naglers",
+        "Edmond RKE",
+        "Star Party",
+        "Observational Astronomy Class",
+        "Rosicrucian Planetarium",
+        "Milpitas Library",
+        "Slide and Equipment Nite",
+        "Houge Park",
+        "H. Coe",
+        "Grant Ranch"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-08-locations-of-sjaa-star-parties",
+      "documentId": "eph93-08",
+      "title": "Locations of SJAA Star Parties",
+      "summary": "Alice and Dan Finley meticulously sought precise latitude and longitude data for SJAA star party locations to program their new 10\" Meade LX200 telescope mount. Frustrated by inconsistent information from other amateur astronomers, they utilized USGS maps to acquire accurate coordinates and are sharing this valuable data to assist fellow observers and those using computer programs for ephemeris calculations.",
+      "categories": [
+        "Observing Aids",
+        "Amateur Astronomy",
+        "Technical Information",
+        "Star Parties"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Parties",
+        "Latitude",
+        "Longitude",
+        "Telescope Mount",
+        "LX200",
+        "Observing Locations",
+        "USGS Maps",
+        "Ephemeris"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-08-double-tripple-and-multiple-stars",
+      "documentId": "eph93-08",
+      "title": "DOUBLE, TRIPPLE, AND MULTIPLE STARS",
+      "summary": "Pat Donnelly shares his recent observations of double and multiple star systems despite limited observing time. He details his experiences with Gamma Leonis, Gamma Virginis, Alberto (revealed to be a triple system), Gamma Delphinus, Gamma Andromeda, and Gamma Arietis, providing descriptions of their magnitudes, separations, colors, and historical contexts. The author encourages other enthusiasts to observe these fascinating celestial objects.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Double Stars",
+        "Triple Stars",
+        "Multiple Stars",
+        "Observing",
+        "Telescope",
+        "Gamma Leonis",
+        "Gamma Virginis",
+        "Alberto",
+        "Gamma Delphinus",
+        "Gamma Andromeda",
+        "Gamma Arietis",
+        "Binary Systems",
+        "Star Separations",
+        "Magnitude",
+        "Colors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-sjaa-star-party-sites",
+      "documentId": "eph93-08",
+      "title": "SJAA STAR PARTY SITES",
+      "summary": "This document lists specific star party sites for the San Jose Astronomical Association (SJAA), providing their precise latitude and longitude coordinates. Featured locations include Fremont Peak, Grant Ranch, Henry Coe, and Hogue Park, along with an image of a telescope mount.",
+      "categories": [
+        "Observing Sites",
+        "Astronomy Events",
+        "Location Information",
+        "Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Party",
+        "Observing Sites",
+        "Fremont Peak",
+        "Grant Ranch",
+        "Henry Coe",
+        "Hogue Park",
+        "Latitude",
+        "Longitude",
+        "Astronomy"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph93-08-coastside-observers-adventures-at-the-texas-star-party",
+      "documentId": "eph93-08",
+      "title": "Coastside Observers Adventures at the Texas Star Party",
+      "summary": "The article recounts the journey of the \"Coastside Observers,\" consisting of two fathers and their sons, to the Texas Star Party. Facing initial logistical challenges with equipment and a long, overnight drive from the coast to West Texas, they eventually arrived at Prude Ranch. Despite concerns about an overcast sky, they successfully set up their camp and telescopes, enjoying their first dinner.",
+      "categories": [
+        "observing report",
+        "event attendance",
+        "travelogue",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Texas Star Party",
+        "astronomy event",
+        "road trip",
+        "camping",
+        "telescopes",
+        "Prude Ranch",
+        "Fort Davis",
+        "star party"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-08-texas",
+      "documentId": "eph93-08",
+      "title": "TEXAS",
+      "summary": "The article details an amateur astronomy trip to a dark sky site in Texas, where observers, despite initial \"sucker holes\" and later a severe thunderstorm, enjoyed spectacular views of deep-sky objects like M51, M83, Omega Centauri, and Centaurus A. The experience highlighted the incredible darkness of the skies and the camaraderie among fellow astronomers, including a unique \"star wars light battle\" tradition on a cloudy night.",
+      "categories": [
+        "observing reports",
+        "events",
+        "personal narrative",
+        "astronomy",
+        "travel"
+      ],
+      "keywords": [
+        "Deep-sky observing",
+        "Star party",
+        "Dark skies",
+        "Omega Centauri",
+        "Centaurus A",
+        "M83",
+        "M51",
+        "Amateur astronomy",
+        "Astrophotography",
+        "Weather challenges"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-08-star-parties",
+      "documentId": "eph93-08",
+      "title": "STAR PARTIES",
+      "summary": "This article describes a large star party and work party held at Fremont Peak on June 19, 1993, which drew an estimated 50 to 75 people and telescopes. Participants engaged in various tasks like painting and repairs, followed by a B-B-Q, under ideal dark, shirtsleeve weather conditions. The event also featured the use of the large JMI-18 telescope, and a separate notice requested a Super Polaris GE Mount for a telescope loaner program.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Community",
+        "Equipment"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star Party",
+        "Work Party",
+        "June 1993",
+        "Telescope",
+        "JMI-18",
+        "Observing",
+        "Super Polaris GE Mount",
+        "Telescope Loaner Program"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-08-star-parties-continued",
+      "documentId": "eph93-08",
+      "title": "STAR PARTIES continued",
+      "summary": "This article, continuing from a previous page, describes a popular Star Party event where attendees compare their telescopes. Mark Wagner, John Schoehenberg, and others operated the telescopes, often manually due to slow computer systems, while Paul Barton managed the maps and computer. The event concluded with heavy fog encountered on the subsequent Sunday morning.",
+      "categories": [
+        "Events",
+        "Observing Report",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Telescopes",
+        "Observing",
+        "Astronomy",
+        "Fog",
+        "Mark Wagner",
+        "John Schoehenberg",
+        "Paul Barton"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-08-rosecrution-sunday-20-june-1993",
+      "documentId": "eph93-08",
+      "title": "Rosecrution Sunday 20 June 1993",
+      "summary": "Rosecrution Sunday on June 20, 1993, was a large, festival-like event resembling Coney Island, complete with food and entertainment. The San Jose Astronomical Association (SJAA) participated, offering solar viewing through two telescopes, which garnered significant interest from a diverse crowd despite one solar telescope being unusable.",
+      "categories": [
+        "Events",
+        "Public Outreach",
+        "Observing Report",
+        "Historical"
+      ],
+      "keywords": [
+        "Rosecrution Sunday",
+        "June 20, 1993",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Solar observation",
+        "Public viewing",
+        "Telescopes",
+        "Community event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-fremont-peak-23-june-1993",
+      "documentId": "eph93-08",
+      "title": "Fremont Peak 23 June 1993",
+      "summary": "An astronomy group, including Bob Madden and Fred Rapport, gathered at Fremont Peak on June 23, 1993, for an observing session. Despite encountering technical issues with telescope batteries and computer compatibility, they enjoyed a warm, clear night under a small moon until it set around midnight.",
+      "categories": [
+        "Observing Report",
+        "Events"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Observing",
+        "Astrophotography",
+        "Telescopes",
+        "Night Sky",
+        "1993",
+        "Bob Madden",
+        "Fred Rapport"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-houge-park-25-june-1993",
+      "documentId": "eph93-08",
+      "title": "Houge Park 25 June 1993",
+      "summary": "On June 25, 1993, a hot but clear public observing session at Houge Park attracted many participants and telescopes, featuring views of various nebulae and star clusters, including new Dobsons being tested. The following day, a smaller observational astronomy class, also affected by the heat, covered topics such as neutron stars, binary stars, and numerous constellations.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Astronomy Education",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Houge Park",
+        "observing session",
+        "astronomy class",
+        "telescopes",
+        "Dobsons",
+        "nebulae",
+        "star clusters",
+        "M-objects",
+        "Ring Nebula",
+        "Sombrero Nebula",
+        "Whirlpool Galaxy",
+        "M4",
+        "M6",
+        "M7",
+        "M13",
+        "M92",
+        "neutron stars",
+        "binary stars",
+        "constellations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-inventor-wins-rolex-award-for-enterprise",
+      "documentId": "eph93-08",
+      "title": "INVENTOR WINS ROLEX AWARD FOR ENTERPRISE",
+      "summary": "Ethan W. Clifton, head of MONOPEC Corporation, received an Honorable Mention in the 1993 Rolex Awards for Enterprise for his innovative work. He was recognized for developing aerodynamic and efficient observation domes for short focal-length telescopes, designed to withstand harsh weather at remote observatory sites. Clifton emphasized the award's role in drawing attention to the importance of observatories and Rolex's support for improving research facilities.",
+      "categories": [
+        "News",
+        "Awards",
+        "Technology",
+        "Observatory Design",
+        "Innovation"
+      ],
+      "keywords": [
+        "Ethan W. Clifton",
+        "Rolex Awards for Enterprise",
+        "MONOPEC Corporation",
+        "Observatory domes",
+        "Telescope design",
+        "Aerodynamic design",
+        "Astronomy",
+        "Engineering",
+        "1993"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-follow-up-on-dataport-bbs-by-jim-van-nuland",
+      "documentId": "eph93-08",
+      "title": "Follow-up on DATAPORT BBS by Jim Van Nuland",
+      "summary": "This article provides an update on astronomy information available via Bulletin Board Systems (BBSs), specifically announcing that the DATAPORT BBS now hosts the SCI.ASTRO Usenet newsgroup. Users are encouraged to contact the Sysop to request the addition of SCI.ASTRO.HUBBLE and are advised to use off-line readers due to the board's high traffic. The piece also references a previous article from July and is dated August 1993.",
+      "categories": [
+        "Technology Update",
+        "Astronomy Communication",
+        "Bulletin Board System",
+        "Community Announcement",
+        "Retro Computing"
+      ],
+      "keywords": [
+        "DATAPORT BBS",
+        "SCI.ASTRO",
+        "SCI.ASTRO.HUBBLE",
+        "Usenet",
+        "Bulletin Board System",
+        "Off-line reader",
+        "Sysop",
+        "Astronomy information",
+        "1993"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-08-all-about-eyepieces",
+      "documentId": "eph93-08",
+      "title": "All about Eyepieces",
+      "summary": "This article, titled \"All about Eyepieces\" by Rich Combs, with notes from Jim Van Nuland, briefly touches on the fundamental role of eyepieces in telescopes. It suggests a rudimentary way to use a scope without an eyepiece by positioning the eye at the image plane, acknowledging that more detailed aspects like eye relief or compatibility with different objectives were not fully captured in the notes.",
+      "categories": [
+        "Educational",
+        "Astronomy Basics",
+        "Technical",
+        "Observing Equipment"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Telescope",
+        "Optics",
+        "Image Plane",
+        "Eye Relief",
+        "Objectives",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-types",
+      "documentId": "eph93-08",
+      "title": "Types",
+      "summary": "The article discusses various types of telescope eyepieces (oculars), contrasting obsolete designs like Galilean and Huygens with better older types such as Kellner and Orthoscopic. It emphasizes the critical role of anti-reflective coatings, explaining how their absence in complex multi-element oculars leads to significant light loss, ghost images, and reduced contrast due to internal reflections, which modern designs like Nagler's overcome with high-tech coatings.",
+      "categories": [
+        "Technical",
+        "Optics",
+        "Equipment"
+      ],
+      "keywords": [
+        "Oculars",
+        "Eyepieces",
+        "Telescope optics",
+        "Anti-reflective coatings",
+        "Light loss",
+        "Ghost images",
+        "Contrast",
+        "Galilean",
+        "Huygens",
+        "Kellner",
+        "Orthoscopic",
+        "Nagler"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-magnification",
+      "documentId": "eph93-08",
+      "title": "Magnification....",
+      "summary": "This article explains the practical range of magnification for telescopes, from a minimum of 3X objective diameter for a 7mm exit pupil to a maximum of 50 per inch due to diffraction limits, resulting in a tiny 0.5mm exit pupil. It details how magnification is calculated using objective and eyepiece focal lengths, and how the exit pupil's diameter can be measured to determine magnification. The text also advises on optimal eye placement at the exit pupil and cautions against high power with LPR filters.",
+      "categories": [
+        "Technical",
+        "Optics",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "magnification",
+        "exit pupil",
+        "objective diameter",
+        "eyepiece",
+        "focal length",
+        "diffraction limits",
+        "LPR filter",
+        "field of view",
+        "telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-fields-of-view",
+      "documentId": "eph93-08",
+      "title": "Fields of view...",
+      "summary": "This article explains the concepts of true and apparent fields of view for telescope-eyepiece combinations, providing formulas for their calculation and noting discrepancies in manufacturer claims. It delves into various optical aberrations such as spherical aberration, astigmatism, coma, and chromatic aberration (longitudinal and lateral), describing their effects on image quality. The author also questions the accuracy of stated focal lengths for optical components.",
+      "categories": [
+        "Technical",
+        "Optics",
+        "Telescope Accessories",
+        "Astronomy Education",
+        "Observing Tips"
+      ],
+      "keywords": [
+        "field of view",
+        "true field",
+        "apparent field",
+        "eyepiece",
+        "telescope",
+        "focal length",
+        "field stop",
+        "optical aberrations",
+        "spherical aberration",
+        "astigmatism",
+        "coma",
+        "chromatic aberration",
+        "achromat",
+        "apochromat",
+        "magnification"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-08-eye-pieces",
+      "documentId": "eph93-08",
+      "title": "EYE PIECES",
+      "summary": "The article discusses Rich's presentation on the optical performance of various telescope and eyepiece combinations, using spot diagrams. It highlights that modern eyepieces, such as Nagler and Pretoria types, are engineered so their inherent aberrations can be made to compensate, thus improving image quality.",
+      "categories": [
+        "Technical",
+        "Equipment Analysis"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Telescopes",
+        "Spot Diagrams",
+        "Optical Aberrations",
+        "Nagler",
+        "Pretoria"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-08-orthoscopic",
+      "documentId": "eph93-08",
+      "title": "Orthoscopic",
+      "summary": "The term \"Orthoscopic\" refers to an optical system free from distortion, where straight lines do not appear curved, especially at the edges of the field. While many traditional orthoscopic oculars utilize Abbe or Symmetrical designs, modern wide-field oculars often show considerable distortion, which is typically inconsequential in telescopes unless precise measurements are required. The article also includes a brief tip for cleaning oculars.",
+      "categories": [
+        "Optics",
+        "Technical",
+        "Telescopes",
+        "Equipment"
+      ],
+      "keywords": [
+        "Orthoscopic",
+        "Distortion",
+        "Oculars",
+        "Optical design",
+        "Aberration",
+        "Telescope",
+        "Cleaning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-wanted-van-with-telescope-operator",
+      "documentId": "eph93-08",
+      "title": "WANTED - VAN WITH TELESCOPE OPERATOR",
+      "summary": "The San Jose Astronomical Association (SJAA) is seeking a volunteer to operate and transport its 11\" Celestron Compustar telescope for public and school star parties, as the previous operator's van is under repair. This opportunity offers personal use of the telescope during downtime, with all necessary equipment provided. Interested SJAA members with a suitable van should contact Jack Zeiders.",
+      "categories": [
+        "Volunteer Opportunity",
+        "Equipment Management",
+        "Community Outreach",
+        "Association Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Celestron Compustar",
+        "Telescope Operator",
+        "Volunteer",
+        "Star Parties",
+        "Public Outreach",
+        "Equipment Transport"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-a-mentor-program",
+      "documentId": "eph93-08",
+      "title": "A MENTOR PROGRAM",
+      "summary": "Gene Cisneros is proposing a new mentor program for the Association to connect members needing assistance with experienced volunteers in fields such as telescope making, electronic drives, and mirror grinding. Members with special talents are encouraged to sign up as mentors, and their expertise will be published in the Ephemeris to facilitate support for others.",
+      "categories": [
+        "Association News",
+        "Member Services",
+        "Volunteer Program"
+      ],
+      "keywords": [
+        "mentor program",
+        "Gene Cisneros",
+        "telescope making",
+        "mirror grinding",
+        "electronic drives",
+        "volunteers",
+        "member guidance",
+        "Ephemeris"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-08-astro-ads",
+      "documentId": "eph93-08",
+      "title": "ASTRO ADS",
+      "summary": "This document features 'ASTRO ADS,' a free classifieds service for selling noncommercial astronomical products and services, listing items such as a Televue eyepiece, a cold camera, various lenses, a Meade 8\" telescope, and a Quester telescope. Additionally, it includes the 1993 SJAA Calendar, detailing dates for general meetings, Houge Park Star Parties, and Observational Astronomy Classes from August through December.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Events Calendar",
+        "Community News",
+        "Meetings",
+        "Star Parties",
+        "Education"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "classifieds",
+        "astronomical equipment",
+        "telescopes",
+        "eyepieces",
+        "lenses",
+        "cold camera",
+        "Televue",
+        "Meade",
+        "Quester",
+        "SJAA Calendar",
+        "events",
+        "meetings",
+        "star parties",
+        "observational astronomy",
+        "classes",
+        "August 1993",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-08-astro-adds",
+      "documentId": "eph93-08",
+      "title": "ASTRO ADDS",
+      "summary": "This document, titled \"ASTRO ADDS,\" serves as a classifieds section featuring various used astronomical equipment for sale, including telescopes (Meade, Celestron, Takahashi), eyepieces (Televue, Orion), lenses, and a cold camera. It also includes a request for a ride to club meetings for a senior citizen and a tip about a discount for club members ordering from Sky and Telescope.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Community Notice"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Eyepieces",
+        "Lenses",
+        "Cold Camera",
+        "Meade",
+        "Celestron",
+        "Takahashi",
+        "Televue",
+        "Orion",
+        "D&G Optical",
+        "Sky and Telescope",
+        "Accessories",
+        "Mounts"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-08-sjaa-loaner-status",
+      "documentId": "eph93-08",
+      "title": "SJAA Loaner Status",
+      "summary": "This document, dated August 1993, outlines the loaner status of various telescopes provided by the SJAA (San Jose Astronomical Association). It lists different telescope types, who has borrowed them, their respective due dates, and which are currently available for loan, including specific details about a solar telescope and a problematic waiting list.",
+      "categories": [
+        "Club Operations",
+        "Equipment Management",
+        "Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner telescopes",
+        "Telescope borrowing",
+        "Astronomy club",
+        "Equipment status",
+        "Paul Barton",
+        "Waiting list",
+        "Solar telescope",
+        "August 1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph93-08-july-1993",
+      "documentId": "eph93-08",
+      "title": "July 1993",
+      "summary": "This document provides a detailed astronomical almanac for July 1993, outlining key celestial events and data for observers. It includes lunar phases, rise/transit/set times and magnitudes for nearer planets (Mercury, Venus, Mars, Jupiter, Saturn), and solar data. The guide also highlights the darkest night for observation and specifies that all times are in Pacific Daylight Time, citing its computational sources.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Celestial Calendar",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "July 1993",
+        "Lunar Phases",
+        "Planetary Positions",
+        "Rise/Set Times",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Observation Guide",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Moon",
+        "Pacific Daylight Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-offices-and-board-of-directors",
+      "documentId": "eph93-08",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current office holders and members of the Board of Directors, detailing their positions such as President, Vice President, Treasurer, Secretary, and various Director roles. Each individual's name and contact phone number are provided, serving as a directory for the organization's leadership.",
+      "categories": [
+        "Organization",
+        "Directory",
+        "Governance",
+        "Administration"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Offices",
+        "Leadership",
+        "Organizational Structure",
+        "Contact Information",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Directors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-ephemeris-contributors",
+      "documentId": "eph93-08",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists the names and phone numbers of individuals who contribute to ephemeris data, along with an editor. It serves as a contact directory for those involved in producing astronomical ephemerides.",
+      "categories": [
+        "Directory",
+        "Contacts",
+        "Reference"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Contact list",
+        "Directory",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-comet-comments",
+      "documentId": "eph93-08",
+      "title": "COMET COMMENTS",
+      "summary": "This article, titled \"COMET COMMENTS\" by Don Machholtz, reports on the recovery of two faint periodic comets, Hartley 3 and Whipple, noting their low visibility prospects. It also reminds readers about the upcoming Perseid Meteor shower in August and provides a detailed update and ephemeris for Periodic Comet Shoemaker-Levy 9, which is anticipated to collide with Jupiter in July of the following year.",
+      "categories": [
+        "Comet Reports",
+        "Observing Reports",
+        "Astronomical Events",
+        "Ephemeris Data",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comet Hartley 3",
+        "Periodic Comet Whipple",
+        "Periodic Comet Shoemaker-Levy 9",
+        "Perseid Meteor shower",
+        "Comet Swift-Tuttle",
+        "Jupiter impact",
+        "Ephemeris",
+        "Comet recovery",
+        "Amateur astronomy",
+        "Magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-seeking-comets",
+      "documentId": "eph93-08",
+      "title": "SEEKING COMETS",
+      "summary": "The article discusses a current seven-month \"drought\" in amateur comet discoveries, noting it's not unusual. It provides historical data of similar extended periods without new amateur comet finds since 1975, demonstrating that such absences are common despite an average discovery rate of one comet every 3.3 months over that timeframe.",
+      "categories": [
+        "Amateur Astronomy",
+        "Comet Discovery",
+        "Historical Data",
+        "Observational Trends"
+      ],
+      "keywords": [
+        "comet discovery",
+        "amateur astronomers",
+        "visual finds",
+        "astronomy",
+        "discovery drought",
+        "historical analysis"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph93-08-san-jose-astronomical-association-membership",
+      "documentId": "eph93-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the guidelines for members of the San Jose Astronomical Association to submit articles for their monthly publication, \"EPHEMERIS\". Submissions, preferably on diskette but written also accepted, must be sent to editor Bob Madden by the 12th of the previous month for publication.",
+      "categories": [
+        "Membership Information",
+        "Publication Guidelines",
+        "Astronomical Association"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "membership",
+        "article submission",
+        "publication",
+        "guidelines",
+        "deadline"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-08-san-jose-astronomical-association-membership",
+      "documentId": "eph93-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document serves as a membership application and renewal form for the San Jose Astronomical Association (SJAA), outlining various membership tiers including standard, with Sky & Telescope subscription, and junior, along with their respective fees. It provides instructions for submitting the form and payment to the treasurer, including contact information. The document also includes general organizational details, a hotline number, and is dated August 1993, likely from their 'Ephemeris' publication.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Application Form",
+        "Fees/Dues",
+        "Club Administration"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Membership renewal",
+        "Astronomy club",
+        "Dues",
+        "Sky & Telescope",
+        "Junior membership",
+        "Non-profit organization",
+        "August 1993",
+        "Ephemeris"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9308/Eph93_08.pdf",
+      "txtPath": "9308/Eph93_08.md"
+    }
+  ]
+}

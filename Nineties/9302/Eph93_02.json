@@ -1,0 +1,470 @@
+{
+  "articles": [
+    {
+      "id": "eph93-02-sjaa-ephemeris",
+      "documentId": "eph93-02",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the official publication of the San Jose Astronomical Association (SJAA), titled \"SJAA EPHEMERIS.\" It is Volume 4, Number 2, published in February 1993.",
+      "categories": [
+        "Newsletter",
+        "Publication",
+        "Astronomy Association"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "Astronomy",
+        "Publication",
+        "February 1993"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-the-eye-piece",
+      "documentId": "eph93-02",
+      "title": "The Eye Piece",
+      "summary": "The article apologizes for a missed speaker at the January general meeting and provides an update on the Grant Ranch observatory project, which has been put on hold due to local opposition, prompting the board to explore alternative sites. It also outlines a comprehensive schedule of upcoming events, including star parties, general meetings featuring talks on Gamma Ray Bursters and SETI, and astronomy classes, alongside brief mentions of an ET asterism observation and a Lensless Wright Camera project.",
+      "categories": [
+        "News",
+        "Events",
+        "Project Update",
+        "Club Activities",
+        "Observing Report",
+        "Astronomy Topics"
+      ],
+      "keywords": [
+        "Observatory project",
+        "Grant Ranch",
+        "Star parties",
+        "General meetings",
+        "Black Holes",
+        "Gamma Ray bursters",
+        "SETI",
+        "ET asterism",
+        "NGC 457",
+        "Astronomy class",
+        "Lensless Wright Camera",
+        "Club officers"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-02-dr-jack-marling-talk",
+      "documentId": "eph93-02",
+      "title": "Dr. Jack Marling Talk",
+      "summary": "Dr. Jack Marling delivered a talk at a general meeting about astronomical filters and photographic equipment, focusing on Lumicon's specialized bandpass filters. He detailed filters like Deep Sky, UHC, O-III, and H-Beta, explaining their specific applications for observing different celestial objects and their utility beyond just light pollution reduction. The talk also covered gas-hypersensitization of photographic film and Lumicon's quality control processes.",
+      "categories": [
+        "General Meeting",
+        "Technical",
+        "Astrophotography",
+        "Observing Equipment",
+        "Product Demonstration"
+      ],
+      "keywords": [
+        "Dr. Jack Marling",
+        "Lumicon",
+        "Astronomical Filters",
+        "Bandpass Filters",
+        "Deep Sky Filter",
+        "UHC Filter",
+        "O-III Filter",
+        "H-Beta Filter",
+        "Light Pollution Filters",
+        "Sky Glow",
+        "Emission Nebulae",
+        "Reflection Nebulae",
+        "Ionized Gas Clouds",
+        "Photographic Film",
+        "Gas-Hypersensitization",
+        "Quality Control"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-december-at-fremont-peak-by-paul-barton",
+      "documentId": "eph93-02",
+      "title": "December at Fremont Peak by Paul Barton",
+      "summary": "Paul Barton recounts three December 1992 observing sessions at Fremont Peak, detailing varied weather conditions from clear and cold to foggy and windy. He describes the diverse astronomical equipment used by fellow enthusiasts, including new telescopes and astrophotography gear, and observations of celestial objects like Venus, the Orion Nebula, and M-27. Barton also shares personal anecdotes, such as encountering black ice, meeting a pregnant couple, and enduring long nights under the stars with fellow amateur astronomers.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Trip Reports"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Paul Barton",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Orion Nebula",
+        "Venus",
+        "M-27",
+        "Weather Conditions",
+        "Star Party",
+        "December 1992",
+        "SJAA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-02-double-triple-and-multiple-stars",
+      "documentId": "eph93-02",
+      "title": "Double, Triple, and Multiple Stars",
+      "summary": "Patrick M. Donnelly's article outlines the critical factors for observing double and multiple stars, prioritizing sky conditions like 'seeing' and darkness as most important. It also details how properties of the star system itself, such as component separation and magnitude differences, affect observability. Finally, telescope characteristics like aperture and magnification are discussed, though their impact is often secondary to sky quality.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Telescope Usage",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Double stars",
+        "Multiple stars",
+        "Observing tips",
+        "Seeing",
+        "Sky conditions",
+        "Telescope resolution",
+        "Aperture",
+        "Magnification",
+        "Star separation",
+        "Magnitude difference"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-fremont-peak-continued",
+      "documentId": "eph93-02",
+      "title": "Fremont Peak Continued -",
+      "summary": "The article recounts a successful outing to Fremont Peak, followed by a review of useful equipment for star parties: a durable vacuum coffee mug and a convertible Zelco light adaptable with an LED for stargazing. It also announces the 1993 San Jose Astronomical Association (SJAA) Board elections and a SETI speaker for the February 6th General Meeting, concluding with a comprehensive calendar of SJAA events for the entire year.",
+      "categories": [
+        "Observing Report",
+        "Equipment Review",
+        "Organizational News",
+        "Event Schedule",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star party equipment",
+        "Zelco light",
+        "LED flashlight",
+        "SJAA elections",
+        "Board members",
+        "SETI speaker",
+        "Astronomy calendar",
+        "General meetings",
+        "Star parties",
+        "Astronomy classes"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-02-sjaa-loaner-status",
+      "documentId": "eph93-02",
+      "title": "SJAA Loaner Status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an update on its telescope loaner program, detailing the current status of various telescopes. The list includes different types of telescopes, their current borrowers, and due dates, or indicates if they are available for loan. Members interested in borrowing equipment are instructed to contact Paul Barton to be added to a waiting list.",
+      "categories": [
+        "Club News",
+        "Equipment Program",
+        "Member Services"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner",
+        "equipment",
+        "astronomy club",
+        "loaner program",
+        "telescope status",
+        "San Jose Astronomical Association",
+        "Paul Barton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-astro-ads",
+      "documentId": "eph93-02",
+      "title": "ASTRO ADS",
+      "summary": "This section, \"ASTRO ADS,\" serves as a free classifieds service for noncommercial advertisers to sell astronomically related products and services. It features listings for various used astronomical equipment, including different types of telescopes (Newtonian, Classic C-8, Celestron 14, Takahashi refractor), binoculars, and associated accessories. Advertisements are submitted to an editor for a run of approximately three months.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment Sales",
+        "Advertisements"
+      ],
+      "keywords": [
+        "Astronomy Classifieds",
+        "Telescopes",
+        "Binoculars",
+        "Used Astronomical Equipment",
+        "Optical Instruments",
+        "Telescope Accessories",
+        "Newtonian Telescope",
+        "Celestron C-8",
+        "Celestron 14",
+        "Takahashi FC 125"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-02-lunar-phases-date-rise-tran-set",
+      "documentId": "eph93-02",
+      "title": "Lunar/Phases Date Rise Tran Set",
+      "summary": "This document presents a concise lunar calendar, detailing the dates and times for upcoming lunar phases including Full Moon, Last Quarter, New Moon, and an incomplete entry for First Quarter. For each listed phase, it provides the exact time, date, and the corresponding approximate rise, transit, and set times for the moon.",
+      "categories": [
+        "Astronomy",
+        "Lunar Calendar",
+        "Almanac",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-nearer-planets",
+      "documentId": "eph93-02",
+      "title": "Nearer Planets",
+      "summary": "This document provides astronomical data for several planets—Mercury, Venus, Mars, Jupiter, and Saturn—and the Sun (SOL) across three dates in February. For each celestial body, it lists its distance in Astronomical Units (AU), apparent magnitude, and a series of four numbers which likely represent observation times such as rise, transit, and set times for the specified dates. The Sun's entry also includes its stellar classification (G2V), absolute magnitude, and equatorial coordinates (RA and Dec).",
+      "categories": [
+        "Astronomical Data",
+        "Planetary Ephemeris",
+        "Observing Guide",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "SOL",
+        "Magnitude",
+        "Astronomical Unit",
+        "Ephemeris",
+        "Planets",
+        "Solar System",
+        "G2V",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-astronomical-twilight",
+      "documentId": "eph93-02",
+      "title": "Astronomical Twilight",
+      "summary": "This document, titled 'Astronomical Twilight', provides a tabular listing of the start and end times for astronomical twilight across several dates in February, identified by both Julian Dates and conventional dates. This information is essential for astronomers to determine when the sky is dark enough for deep-sky observations, aiding in observation planning and scheduling.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Aids",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Observation Planning",
+        "Julian Date",
+        "Sky Conditions",
+        "Astronomical Timings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-siderial-time",
+      "documentId": "eph93-02",
+      "title": "Siderial Time",
+      "summary": "The document provides specific sidereal time values for various astronomical events, including Transit Right, Ascension, and Local Midnight, corresponding to particular dates in February, all at 0000 PST.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Observing Data"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit Right",
+        "Ascension",
+        "Local Midnight",
+        "PST",
+        "Astronomical Calculations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-darkest",
+      "documentId": "eph93-02",
+      "title": "Darkest",
+      "summary": "This document lists specific astronomical times for \"Darkest Saturday Night, Feb. 20,\" noting sunset, twilight end, and moonset. All times and dates are provided in Pacific Standard Time, indicating optimal dark sky conditions for observation.",
+      "categories": [
+        "Observing Conditions",
+        "Astronomical Schedule",
+        "Events"
+      ],
+      "keywords": [
+        "Darkest",
+        "Saturday Night",
+        "February 20",
+        "Sunset",
+        "Twilight End",
+        "Moon Set",
+        "Pacific Standard Time",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-offices-and-board-of-directors",
+      "documentId": "eph93-02",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the individuals serving in various offices and on the Board of Directors, including their titles such as President, Vice President, Treasurer, Secretary, and Directors. Each entry is accompanied by a contact phone number. It serves as a directory for the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Contact Directory",
+        "Governance"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "Contact Information",
+        "Organizational Structure",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-ephemeris-contributors",
+      "documentId": "eph93-02",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists contact information, including names and phone numbers, for individuals designated as 'Ephemeris Contributors' and one 'Editor'. It serves as a directory for these specific roles.",
+      "categories": [
+        "Contact List",
+        "Contributors",
+        "Directory"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Contact information",
+        "Phone numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-comet-comments",
+      "documentId": "eph93-02",
+      "title": "Comet Comments",
+      "summary": "This article reviews comet activity during 1992, highlighting new discoveries by both amateur and professional astronomers and the recovery of several returning comets. Key updates include the successful observation of Periodic Comet Swift-Tuttle, which debunked initial fears of an Earth collision in 2126, and the discovery of the distant object 1992 QB (1), whose classification remains uncertain. The piece also notes the reclassification of Periodic Comet Wilson-Harrington as a comet and provides brief updates on Periodic Comet Kojima and Periodic Comet Ohshita, with the latter expected to produce a meteor shower.",
+      "categories": [
+        "Cometology",
+        "Astronomical Discoveries",
+        "Observing Reports",
+        "Orbital Mechanics",
+        "Amateur Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Comets",
+        "1992 Astronomy",
+        "Amateur Astronomers",
+        "Periodic Comet Swift-Tuttle",
+        "Orbital Predictions",
+        "1992 QB (1)",
+        "Cometary Activity",
+        "Astronomical Discoveries",
+        "Periodic Comet Wilson-Harrington",
+        "Meteor Showers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-02-periodic-comet-schamasse-1992x",
+      "documentId": "eph93-02",
+      "title": "PERIODIC COMET SCHAMASSE (1992x)",
+      "summary": "This document provides an ephemeris for Periodic Comet Schamasse (1992x) detailing its celestial coordinates (Right Ascension and Declination), elongation, and estimated visual magnitude from late January to mid-March 1993. The data is presented in a tabular format to assist observers in locating the comet.",
+      "categories": [
+        "Ephemeris",
+        "Observing Data",
+        "Comets",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Periodic Comet Schamasse",
+        "1992x",
+        "ephemeris",
+        "comet",
+        "magnitude",
+        "right ascension",
+        "declination",
+        "observation",
+        "astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-02-san-jose-astronomical-association-membership",
+      "documentId": "eph93-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining different membership tiers and their costs, including options for individual membership and a bundled subscription to Sky & Telescope. It provides instructions on how to apply or renew, including contact details for the treasurer and general association information. The document also mentions the SJAA's monthly publication, \"EPHEMERIS,\" and a 24-hour information hotline.",
+      "categories": [
+        "Membership",
+        "Local Organization",
+        "Non-profit",
+        "Astronomy Club",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Dues",
+        "Renewal",
+        "EPHEMERIS",
+        "Sky & Telescope",
+        "Astronomy Club",
+        "California",
+        "Milpitas",
+        "San Jose"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9302/Eph93_02.pdf",
+      "txtPath": "9302/Eph93_02.md"
+    }
+  ]
+}

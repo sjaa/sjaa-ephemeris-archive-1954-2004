@@ -1,0 +1,406 @@
+{
+  "articles": [
+    {
+      "id": "eph90-07-membership-renewals",
+      "documentId": "eph90-07",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "This article reminds members of the San Jose Astronomical Association (SJAA) to renew their memberships, especially those who receive Sky & Telescope magazine. Members are instructed to use the application on the back of the Ephemeris newsletter and mail it to the Treasurer, Jack Peterson, emphasizing early renewal to avoid missing future issues of the monthly newsletter.",
+      "categories": [
+        "Membership",
+        "Club News",
+        "Administrative"
+      ],
+      "keywords": [
+        "Membership Renewal",
+        "SJAA",
+        "Sky & Telescope",
+        "Ephemeris",
+        "Treasurer",
+        "Newsletter",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-annual-picnic",
+      "documentId": "eph90-07",
+      "title": "ANNUAL PICNIC",
+      "summary": "The annual picnic and installation of officers is set for July 7 at Grant Ranch County Park, from 1:00 pm to dark, in the Rose Garden area. Guests must pay a $3 day-use fee, but chicken, burgers, and hot dogs will be provided at no charge; attendees should RSVP to Jim Van Nuland. Due to a full Moon, no star party is planned, but sun telescopes are welcome during the day.",
+      "categories": [
+        "Event Announcement",
+        "Social Gathering"
+      ],
+      "keywords": [
+        "Annual Picnic",
+        "Officer Installation",
+        "Grant Ranch County Park",
+        "July 7",
+        "RSVP",
+        "Park Fee",
+        "Sun Telescopes",
+        "Social Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-branham-lane-star-parties-we-want-you",
+      "documentId": "eph90-07",
+      "title": "BRANHAM LANE STAR PARTIES - WE WANT YOU!",
+      "summary": "The SJAA is hosting public star parties on several upcoming Fridays: July 27, August 31, September 28, October 26, and December 28. Attendees are encouraged to bring telescopes and invite friends. For more details, contact Tom Ahl or Jim Van Nuland.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "star parties",
+        "public events",
+        "telescopes",
+        "astronomy",
+        "observing dates",
+        "Branham Lane"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-the-eye-and-its-ability-to-view-dim-celestial-objects",
+      "documentId": "eph90-07",
+      "title": "THE EYE AND ITS ABILITY TO VIEW DIM CELESTIAL OBJECTS",
+      "summary": "This article, \"The Eye and its Ability to View Dim Celestial Objects - Part Two,\" delves into the human eye's capacity for perceiving faint astronomical objects. It covers historical observations, scientific principles like the Purkinje effect and scotopic vision, and practical advice for amateur astronomers. The author emphasizes that practice, dark adaptation, and appropriate optical powers enable significant visual detections, even sharing a personal experience.",
+      "categories": [
+        "observational astronomy",
+        "human vision",
+        "amateur astronomy",
+        "astronomy club events",
+        "technical"
+      ],
+      "keywords": [
+        "human eye",
+        "visual astronomy",
+        "dim celestial objects",
+        "Purkinje effect",
+        "scotopic vision",
+        "dark adaptation",
+        "amateur observations",
+        "astronomy events",
+        "telescopic viewing",
+        "naked eye astronomy",
+        "light perception"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-07-comet-comments",
+      "documentId": "eph90-07",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides updates on several comets, announcing the recent discovery of Comet Levey (1990c) by David Levy and detailing its preliminary orbit and expected brightening. It also mentions the dimming of Comet Austin and the close approach of Periodic Comet Honda-Mrkos-Pajdusakova. Additionally, the piece includes an analysis of visually discovered comets between 1975 and 1989, examining their distribution across the celestial sphere and specific constellations.",
+      "categories": [
+        "Comet Discoveries",
+        "Comet Observations",
+        "Astronomical News",
+        "Observational Astronomy",
+        "Astrophysical Statistics"
+      ],
+      "keywords": [
+        "Comet Levey (1990c)",
+        "David Levy",
+        "Comet Austin",
+        "Periodic Comet Honda-Mrkos-Pajdusakova",
+        "Comet discovery",
+        "Comet brightness",
+        "Comet orbit",
+        "Perihelion",
+        "Celestial sphere",
+        "Constellations",
+        "Pegasus",
+        "Bootes",
+        "Hydra"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-meteor-notes",
+      "documentId": "eph90-07",
+      "title": "METEOR NOTES",
+      "summary": "July marks the beginning of the summer meteor shower season, featuring several moderate nighttime showers, including the celebrated Perseids. Many of these showers have closely clustered radiants in Aquarius and Capricornus, making visual resolution of individual streams difficult and often requiring categorization into groups like the Northern and Southern Delta Aquarids. The article also provides specific notes on various meteor showers and includes a brief report on May-June observations, highlighting challenges such as moonlight and weather.",
+      "categories": [
+        "Meteorology (Space)",
+        "Observing Reports",
+        "Astronomy",
+        "Technical Notes"
+      ],
+      "keywords": [
+        "Meteor showers",
+        "July meteors",
+        "Perseids",
+        "Delta Aquarids",
+        "Alpha Capricornids",
+        "Iota Aquarids",
+        "Comet Encke",
+        "Comet Swift-Tuttle",
+        "Radiant (astronomy)",
+        "Visual observation",
+        "Light pollution",
+        "Daytime Beta Taurids",
+        "July Phoenicids",
+        "Omicron Draconids",
+        "Piscis Austriinids",
+        "Meteor stream"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-space-program-update",
+      "documentId": "eph90-07",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "The Space Shuttle Columbia's ASTRO-1 mission has been delayed until August due to a hydrogen leak and rolled back for repairs, while Atlantis prepares for a July military launch. The international ROSAT X-ray satellite successfully launched on a Delta 2 rocket and will begin an all-sky survey in August. Additionally, Magellan completed its dry run for an August Venus arrival, and Voyager 1 concluded its photographic mission.",
+      "categories": [
+        "News",
+        "Mission Updates",
+        "Spaceflight",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Space Shuttle ASTRO-1",
+        "Hydrogen leak",
+        "Space Shuttle Columbia",
+        "Space Shuttle Atlantis",
+        "ROSAT satellite",
+        "X-ray astronomy",
+        "Magellan mission",
+        "Venus probe",
+        "Voyager 1",
+        "Space missions",
+        "Launch delays",
+        "Satellite launch"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-07-sjaa-ephemeris",
+      "documentId": "eph90-07",
+      "title": "SJAA EPHEMERIS",
+      "summary": "NASA has canceled the Orbital Maneuvering Vehicle (OMV) due to budget constraints, while the ambitious Space Exploration Initiative (SEI) to establish a lunar base and Mars landing by 2019 is facing zero funding from Congress for FY 1991. Additionally, the Giotto spacecraft, despite a damaged camera from its Halley's Comet encounter, is being considered for a new rendezvous with comet Grigg-Skjellerup. Meanwhile, the Soviet Soyuz-9 spacecraft docked at Mir was damaged during launch, and cosmonauts are struggling to dock a repair module.",
+      "categories": [
+        "Space News",
+        "Astronomy News",
+        "Space Missions",
+        "Space Programs",
+        "Budgetary"
+      ],
+      "keywords": [
+        "NASA",
+        "OMV",
+        "Space Exploration Initiative",
+        "SEI",
+        "Lunar base",
+        "Mars landing",
+        "Giotto",
+        "Halley's Comet",
+        "Comet Grigg-Skjellerup",
+        "European Space Agency",
+        "Soviet Space Program",
+        "Soyuz-9",
+        "Mir space station",
+        "Kristall module",
+        "Hubble Space Telescope",
+        "Advanced X-ray Astrophysics Facility",
+        "Budget cuts"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-field-of-view",
+      "documentId": "eph90-07",
+      "title": "FIELD OF VIEW",
+      "summary": "John Gleason explains the brevity of this month's Ephemeris due to an upcoming vacation, noting that Astro Ads will return next month. He strongly encourages SJAA members to attend the annual picnic for social interaction, suggesting they bring solar telescopes due to recent active sunspots. Members are asked to contact Jim Van Nuland to RSVP for the picnic.",
+      "categories": [
+        "Editorial",
+        "Community Announcement",
+        "Event Promotion",
+        "Observing Suggestion",
+        "Logistics"
+      ],
+      "keywords": [
+        "John Gleason",
+        "Ephemeris",
+        "Vacation",
+        "Astro Ads",
+        "SJAA",
+        "Annual Picnic",
+        "Jim Van Nuland",
+        "Solar Telescope",
+        "Sunspots",
+        "RSVP"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-officers-and-board-of-directors",
+      "documentId": "eph90-07",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document lists the officers and board of directors for an organization, detailing their roles, names, and contact phone numbers. It includes positions such as President, Vice President, Treasurer, Secretary, Editor, and multiple Directors. The information appears to be an internal organizational directory for leadership.",
+      "categories": [
+        "Organizational",
+        "Administration",
+        "Contact Information",
+        "Leadership"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Organization",
+        "Contact List",
+        "Directory",
+        "Governance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-ephemeris-contributors",
+      "documentId": "eph90-07",
+      "title": "EPHEMERIS CONTRIBUTORS",
+      "summary": "This document lists individuals who contribute to an ephemeris, providing their names and corresponding phone numbers. It serves as a contact directory for these contributors, likely within an astronomical or scientific community.",
+      "categories": [
+        "Contact List",
+        "Directory",
+        "Astronomy Support",
+        "Contributors"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact information",
+        "Directory",
+        "Phone numbers",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-comet-ephemeris",
+      "documentId": "eph90-07",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document presents an ephemeris for two comets, Comet Austin (1989c₁) and Comet Levy (1990c), providing their predicted celestial coordinates and brightness from late June to mid-August. For each comet, tables detail the date, Right Ascension and Declination (for both 1950 and 2000 epochs), solar elongation, sky visibility, and apparent visual magnitude, serving as a guide for observers.",
+      "categories": [
+        "Comets",
+        "Ephemeris",
+        "Observational Data",
+        "Astronomical Predictions"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "Comet Levy",
+        "ephemeris",
+        "RA",
+        "DEC",
+        "magnitude",
+        "elongation",
+        "celestial positions",
+        "astronomy",
+        "comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-this-month-s-meteors",
+      "documentId": "eph90-07",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article provides a comprehensive guide to meteor showers active from late June through early September, detailing their active dates, peak dates, maximum visual hourly rates (ZHR), radiant points, velocities, and specific observational notes. Key meteor showers highlighted include the Perseids, Northern and Southern Delta Aquarids, and Alpha Capricornids, offering crucial information for skywatchers. It serves as a reference for identifying and observing various meteor events.",
+      "categories": [
+        "observing guide",
+        "meteor showers",
+        "astronomy events",
+        "celestial phenomena"
+      ],
+      "keywords": [
+        "meteors",
+        "meteor showers",
+        "Perseids",
+        "Delta Aquarids",
+        "Alpha Capricornids",
+        "ZHR",
+        "radiant point",
+        "velocity",
+        "observing",
+        "July",
+        "August",
+        "Daytime Beta Tauridae",
+        "July Phoenicids",
+        "Omicron Draconids",
+        "Piscis-Austr Aquarids",
+        "Iota Aquarids"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-07-ephemeris",
+      "documentId": "eph90-07",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is a monthly publication produced by the San Jose Astronomical Association. It serves as a platform for members to submit articles, with a submission deadline of the 12th of the previous month. All submissions should be directed to Editor John P. Gleason.",
+      "categories": [
+        "club newsletter",
+        "publication information",
+        "administrative"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "monthly publication",
+        "article submission",
+        "editor",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-07-san-jose-astronomical-association-membership-application",
+      "documentId": "eph90-07",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), outlining different membership types and their corresponding fees, including options for \"Membership only,\" \"Membership/S&T,\" and \"Junior (Under 18).\" It provides instructions for submission, either in person at an SJAA meeting or by mail to the Treasurer in Milpitas, CA, along with payment details and contact information.",
+      "categories": [
+        "Membership",
+        "Organizational Document",
+        "Form",
+        "Administrative",
+        "Local Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "membership fees",
+        "astronomy club",
+        "Sky & Telescope",
+        "Milpitas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9007/Eph90_07.pdf",
+      "txtPath": "9007/Eph90_07.md"
+    }
+  ]
+}

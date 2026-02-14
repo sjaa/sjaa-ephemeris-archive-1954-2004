@@ -1,0 +1,542 @@
+{
+  "articles": [
+    {
+      "id": "eph94-07-sjaa-ephemeris",
+      "documentId": "eph94-07",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the \"SJAA EPHEMERIS,\" the official publication of the San Jose Astronomical Association, specifically Volume 5, Number 7, published in July 1994. It serves as a periodical or newsletter for the association members, likely containing astronomical information relevant to that month.",
+      "categories": [
+        "Publication",
+        "Newsletter",
+        "Astronomy Club",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "Newsletter",
+        "July 1994",
+        "Astronomy Club Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-the-eyepiece",
+      "documentId": "eph94-07",
+      "title": "The Eyepiece",
+      "summary": "The article recounts the author's experience at the RTMC conference, detailing impressive amateur telescopes like a 41-inch Dobsonian and a 6-inch offering superior Jupiter views, alongside commercial vendor displays and a remembrance of Cliff Holmes. It also provides a comprehensive schedule of upcoming astronomical events for July and August, including star parties, general meetings, classes, and a public star party, highlighting the Shoemaker-Levy impact on Jupiter and a talk on the Perseid meteor shower.",
+      "categories": [
+        "Conference Report",
+        "Event Listings",
+        "Amateur Astronomy",
+        "Telescope Technology",
+        "Club Activities"
+      ],
+      "keywords": [
+        "RTMC",
+        "Star Party",
+        "SJAA",
+        "Telescopes",
+        "Jupiter",
+        "Shoemaker-Levy",
+        "Perseid meteor shower",
+        "Amateur Astronomy",
+        "Cliff Holmes",
+        "Peter Jenniskerns"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph94-07-pigs",
+      "documentId": "eph94-07",
+      "title": "Pigs",
+      "summary": "A group of observers attended the Halls Valley star party at Grant Ranch County Park on Saturday, May 14th. While the sky was clear at sundown, cloud cover became solid by 11:30 PM, limiting observing opportunities. A unique aspect of the evening was the presence of a family of wild pigs nearby, making it an interesting, if not ideal, night away from the city.",
+      "categories": [
+        "observing report",
+        "events",
+        "personal experience",
+        "club news"
+      ],
+      "keywords": [
+        "star party",
+        "Grant Ranch County Park",
+        "observing",
+        "clouds",
+        "wild pigs",
+        "Halls Valley",
+        "astronomy club"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-07-the-elusive-annular-eclipse-of-10-may-1994",
+      "documentId": "eph94-07",
+      "title": "The Elusive Annular Eclipse of 10 May 1994",
+      "summary": "Ernie Piini recounts his challenging attempt to observe the 10 May 1994 Annular Eclipse in the south-central USA with his brother, despite meticulous planning and custom equipment. They faced severe weather, including a tornado alert and heavy rain, which ultimately prevented them from seeing the annularity, though they did capture some partial phases. The article also details his technical preparations, extensive travel, and post-eclipse sightseeing, including a visit to Kitt Peak Observatory.",
+      "categories": [
+        "Observing Report",
+        "Eclipse Chasing",
+        "Personal Narrative",
+        "Amateur Astronomy",
+        "Travel",
+        "Technical"
+      ],
+      "keywords": [
+        "Annular Eclipse",
+        "Solar Eclipse",
+        "1994 Eclipse",
+        "Eclipse Chasing",
+        "Weather Challenges",
+        "New Mexico",
+        "Texas",
+        "Hagerman",
+        "Roswell",
+        "Kitt Peak Observatory",
+        "Solar Telescope",
+        "H-alpha filter",
+        "Custom Equipment",
+        "Astrophotography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-07-rtmc-1994-reflections-of-a-novice",
+      "documentId": "eph94-07",
+      "title": "RTMC 1994 REFLECTIONS OF A NOVICE",
+      "summary": "A novice amateur astronomer, Bob Elsberry, recounts his first experience at the 1994 Riverside Telescope Makers Conference (RTMC), initially approaching it with a mix of excitement, awe, and fear. He describes overcoming his apprehensions, enjoying the well-organized event, partaking in the 'buying frenzy' for astronomy bargains, and being inspired by the diverse and impressive homemade telescopes. Elsberry concludes with a newfound enthusiasm for the RTMC, eager to return with his own custom-built telescope.",
+      "categories": [
+        "Conference Report",
+        "Amateur Astronomy",
+        "Personal Reflection",
+        "Telescope Making"
+      ],
+      "keywords": [
+        "RTMC 1994",
+        "Riverside Telescope Makers Conference",
+        "Amateur Astronomy",
+        "Telescope Making",
+        "Dobsonian Telescopes",
+        "Astronomy Gear",
+        "Conference Experience"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-treasurer-s-report",
+      "documentId": "eph94-07",
+      "title": "Treasurer's report",
+      "summary": "This document presents a concise financial report from Treasurer Jim Hodgers, detailing various fund balances as of May 14th or after the April issue. It lists balances for the checkbook, Observatory Fund, Gregory Fund, and Ephemeris pool, noting that the checkbook balance includes auction proceeds.",
+      "categories": [
+        "Financial Report",
+        "Organizational Update",
+        "Internal Document"
+      ],
+      "keywords": [
+        "Treasurer's report",
+        "Financial",
+        "Funds",
+        "Checkbook",
+        "Observatory Fund",
+        "Gregory Fund",
+        "Ephemeris pool",
+        "Board Meeting",
+        "Jim Hodgers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-viewing-the-southern-skies-from-the-big-island-of-hawaii",
+      "documentId": "eph94-07",
+      "title": "Viewing The Southern Skies From The Big Island Of Hawaii",
+      "summary": "The article recounts a trip to the Big Island of Hawaii, specifically Kona, for observing the southern skies. While the island offered advantages like closer proximity to southern celestial objects and island-wide low-pressure sodium streetlights, the author faced challenges with consistent evening cloud cover. Despite this, they managed to observe Crux, Centaurus, and Omega Centauri from Kona, and planned a stargazing tour to Mauna Kea for improved viewing conditions.",
+      "categories": [
+        "Observing Report",
+        "Travel",
+        "Astrotourism",
+        "Light Pollution"
+      ],
+      "keywords": [
+        "Hawaii",
+        "Big Island",
+        "Southern Skies",
+        "Crux",
+        "Eta Carinae Nebula",
+        "Omega Centauri",
+        "Centaurus",
+        "Kona",
+        "Mauna Kea",
+        "Stargazing",
+        "Light pollution",
+        "Amateur astronomy",
+        "Visibility"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-07-hawaii",
+      "documentId": "eph94-07",
+      "title": "Hawaii",
+      "summary": "The author recounts a trip to Mauna Kea, Hawaii, detailing the journey to the summit, observations of telescopes, and a sunset viewing. They then attended a star party at 9000ft, where they observed Venus, Jupiter, and various deep-sky objects, including the easily visible Milky Way, Eta Carinae nebula, and the spectacular open star cluster NGC-3532, despite some issues with seeing conditions.",
+      "categories": [
+        "Observing Report",
+        "Travel",
+        "Amateur Astronomy",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Hawaii",
+        "Mauna Kea",
+        "telescopes",
+        "star party",
+        "Venus",
+        "Jupiter",
+        "deep sky objects",
+        "zodiacal light",
+        "Milky Way",
+        "Centaurus",
+        "Crux",
+        "Canis Major",
+        "Eta Carinae nebula",
+        "Orion nebula",
+        "M42",
+        "NGC-3372",
+        "NGC-3532",
+        "Jewel Box cluster",
+        "Kona",
+        "southern skies"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-07-credits",
+      "documentId": "eph94-07",
+      "title": "Credits!",
+      "summary": "An editor issued a correction regarding a previous article on collimation by Craig Wolford. The editor clarified that Wolford's article originally appeared in the Western Observatorium's publication and thanked Paul Livio for bringing the omission to their attention.",
+      "categories": [
+        "Editorial Correction",
+        "Publication Notes"
+      ],
+      "keywords": [
+        "Credits",
+        "Collimation",
+        "Craig Wolford",
+        "Western Observatorium",
+        "Paul Livio",
+        "Correction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-lassen-volcanic-national-park-dark-sky-trip",
+      "documentId": "eph94-07",
+      "title": "Lassen Volcanic National Park Dark Sky Trip",
+      "summary": "A dark sky observing trip is being organized for Lassen Volcanic National Park from August 5-8, coinciding with a new moon. Attendees have two camping options, Lost Creek (group, tent-only, reservable) and Crags (first-come, no restrictions), with the primary observing site at the Devastated Area. The park is noted for its very dark skies, geothermal features, and family-friendly daytime activities like hiking and fishing.",
+      "categories": [
+        "observing reports",
+        "events",
+        "trip planning",
+        "camping"
+      ],
+      "keywords": [
+        "Lassen Volcanic National Park",
+        "dark sky",
+        "observing trip",
+        "new moon",
+        "Lost Creek campground",
+        "Crags Campground",
+        "Devastated Area",
+        "astronomy",
+        "camping",
+        "August 2024"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-couple-of-things",
+      "documentId": "eph94-07",
+      "title": "Couple of Things",
+      "summary": "The article highlights the crucial role of Paul Barton, the telescope loan coordinator, in managing the club's telescope loan program and maintaining the equipment. It urges members to return borrowed telescopes on time or communicate delays to Paul, emphasizing the importance of respecting the loan agreement to ensure the continued availability and quality of this valuable club service for everyone.",
+      "categories": [
+        "Club Operations",
+        "Membership Responsibilities",
+        "Service Announcement",
+        "Equipment Loan Program"
+      ],
+      "keywords": [
+        "Telescope loan program",
+        "Paul Barton",
+        "Loan coordinator",
+        "Club services",
+        "Equipment return",
+        "Membership conduct",
+        "Telescope maintenance",
+        "Ephemeris"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-07-by-don-machholz",
+      "documentId": "eph94-07",
+      "title": "By Don Machholz",
+      "summary": "This article provides updates on several comets: Comet Muller (1993p) has dimmed, and Periodic Comet Shoemaker-Levy 9 is anticipated to collide with Jupiter in July. It also reports the recovery of Periodic Comet Brooks 2 (1994f) and the discovery of Periodic Comet Shoemaker 4 (1994k), detailing their current and projected brightness, along with orbital periods.",
+      "categories": [
+        "Cometology",
+        "Observational Reports",
+        "Astronomical News",
+        "Comet Discoveries",
+        "Comet Recovery"
+      ],
+      "keywords": [
+        "Comet Muller (1993p)",
+        "Periodic Comet Shoemaker-Levy 9",
+        "Jupiter impact",
+        "Periodic Comet Brooks 2 (1994f)",
+        "Periodic Comet Shoemaker 4 (1994k)",
+        "Comet discovery",
+        "Comet recovery",
+        "Magnitude",
+        "Orbital period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-ephemerides",
+      "documentId": "eph94-07",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for six comets, including Comet Takamizawa-Levy, Periodic Comet Tempel 1, Periodic Comet Borrelly, Periodic Comet Shoemaker-Levy 9, Comet McNaught-Russell, and Comet Takamizawa, listing their coordinates, elongation, sky visibility, and magnitude from June to August. It highlights the impending collision of Shoemaker-Levy 9 with Jupiter on July 20.64 UT. Additionally, it features a calendar of events for the SJAA (likely an astronomy club), including general meetings, star parties, and astronomy classes, from July to December 1994.",
+      "categories": [
+        "Astronomical Data",
+        "Comets",
+        "Observing Guides",
+        "Events",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Takamizawa-Levy",
+        "Periodic Comet Tempel 1",
+        "Periodic Comet Borrelly",
+        "Comet Shoemaker-Levy 9",
+        "Jupiter collision",
+        "Comet McNaught-Russell",
+        "Comet Takamizawa",
+        "celestial mechanics",
+        "astronomical observations",
+        "star party",
+        "astronomy club",
+        "Right Ascension",
+        "Declination",
+        "magnitude"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-07-telescope-loaner-status",
+      "documentId": "eph94-07",
+      "title": "Telescope Loaner Status",
+      "summary": "This article outlines the current status of the SJAA telescope loaner program, detailing the availability and usage of various telescopes. It lists who currently possesses each telescope, their due dates, and notes which are available, on hold, or assigned to specific members on a waiting list. Members interested in borrowing a telescope are instructed to contact Paul Barton to be added to a list.",
+      "categories": [
+        "Club Operations",
+        "Equipment Status",
+        "Member Services",
+        "Announcement/Update"
+      ],
+      "keywords": [
+        "telescope loaner program",
+        "equipment availability",
+        "astronomy club",
+        "SJAA",
+        "due dates",
+        "waiting list",
+        "solar telescope",
+        "Paul Barton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-astro-ads",
+      "documentId": "eph94-07",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" serves as a free classifieds section for noncommercial advertisers to sell astronomically related products or services. It features listings for various used astronomical equipment, including telescopes (e.g., Astro Physics refractor, Celestron SP-C8, Meade SCT), mounts, eyepieces, and an observatory. Advertisers are instructed to submit their ads by the 12th of each month for a three-month run.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Amateur Astronomy",
+        "Community Notices"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Classifieds",
+        "Astronomical equipment",
+        "Telescopes",
+        "Refractor",
+        "SCT",
+        "Schmidt-Cassegrain Telescope",
+        "Eyepieces",
+        "Telescope mounts",
+        "Observatory",
+        "Astro Physics",
+        "Celestron",
+        "Meade",
+        "Teleview",
+        "Used equipment"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-07-july-1994",
+      "documentId": "eph94-07",
+      "title": "July 1994",
+      "summary": "This document serves as an astronomical almanac for July 1994, detailing lunar phases and the positions, magnitudes, rise, transit, and set times for Mercury, Venus, Mars, Jupiter, Saturn, and the Sun. It also provides astronomical twilight and sidereal time information, and highlights the 'Darkest Saturday Night' on July 9th for optimal viewing, with all times specified in Pacific Daylight Time.",
+      "categories": [
+        "Astronomical Almanac",
+        "Observing Guide",
+        "Celestial Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "July 1994",
+        "Lunar phases",
+        "Planetary positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Astronomical twilight",
+        "Sidereal time",
+        "Darkest night",
+        "Pacific Daylight Time",
+        "Rise times",
+        "Transit times",
+        "Set times",
+        "Magnitude",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-offices-and-board-of-directors",
+      "documentId": "eph94-07",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the members of an organization's Board of Directors and key office holders, including their names and contact numbers. It also identifies individuals responsible for ephemeris contributions, editing, and distribution roles within the organization.",
+      "categories": [
+        "Organizational Information",
+        "Contact Directory",
+        "Leadership"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Staff",
+        "Ephemeris",
+        "Editor",
+        "Contact Information",
+        "Organizational Structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-collision-of-periodic-comet-s-l-9-with-jupiter",
+      "documentId": "eph94-07",
+      "title": "Collision of periodic Comet S/L-9 with Jupiter",
+      "summary": "This article discusses the predicted collision of fragments from periodic Comet S/L-9 with Jupiter throughout July 1994. The comet had fragmented into a 'string of pearls' after a close encounter with Jupiter in 1992, making this the first predicted and observed comet-planet collision. The author provides observational details, including impact locations on Jupiter's southern hemisphere and a detailed table of predicted collision times for various fragments (A through W).",
+      "categories": [
+        "observing reports",
+        "events",
+        "news",
+        "technical data",
+        "astronomy"
+      ],
+      "keywords": [
+        "Comet S/L-9",
+        "Jupiter",
+        "comet collision",
+        "impact event",
+        "Shoemaker-Levy 9",
+        "planetary science",
+        "observational astronomy",
+        "astronomical prediction",
+        "universal time",
+        "P.D.T."
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-07-san-jose-astronomical-association-membership",
+      "documentId": "eph94-07",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association publishes \"EPHEMERIS\" monthly, encouraging members to submit articles. Submissions, preferably in text file format on a 3-1/2\" diskette, must be typed and sent to editor Bob Madden by the 12th of the preceding month for publication.",
+      "categories": [
+        "Club Information",
+        "Membership Information",
+        "Publication Guidelines"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Membership",
+        "Article Submission",
+        "Publication",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-07-membership-only-12-membership-s-t-32-junior-under-18-20",
+      "documentId": "eph94-07",
+      "title": "Membership only: $12   Membership / S&T: $32   Junior (under 18): $20",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership tiers—Membership Only ($12), Membership/S&T ($32), and Junior (under 18) ($20)—along with instructions for submission via mail or in person, and contact information for their treasurer.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Information",
+        "Financial"
+      ],
+      "keywords": [
+        "Membership",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Application",
+        "Dues",
+        "Non-profit",
+        "Astronomy Club",
+        "San Jose",
+        "Contact Information",
+        "Sky & Telescope"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9407/Eph94_07.pdf",
+      "txtPath": "9407/Eph94_07.md"
+    }
+  ]
+}

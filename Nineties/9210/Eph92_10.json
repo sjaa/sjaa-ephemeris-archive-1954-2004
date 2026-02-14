@@ -1,0 +1,718 @@
+{
+  "articles": [
+    {
+      "id": "eph92-10-sjaa-ephemeris",
+      "documentId": "eph92-10",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the October 1992 issue of the SJAA Ephemeris, the official publication of the San Jose Astronomical Association. It is identified as Volume 3, Number 10, serving as a regular periodical for the association.",
+      "categories": [
+        "Publication",
+        "Astronomy",
+        "Newsletter",
+        "Historical"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "October 1992",
+        "Astronomy publication",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-the-eyepiece",
+      "documentId": "eph92-10",
+      "title": "THE EYEPIECE",
+      "summary": "This 'EYEPIECE' column announces a generous donation of an 8\" f9.0 reflecting telescope kit by Herb Greenfield, available for members to borrow through Paul Barton. It also thanks Paul Barton for his significant contributions to the newsletter, including information about an ongoing Astro class on Cable TV Channel 60. The issue features articles on comets by Don Machholz and a continuation of a piece on Einstein.",
+      "categories": [
+        "Community News",
+        "Equipment News",
+        "Newsletter Content",
+        "Educational Opportunity"
+      ],
+      "keywords": [
+        "Telescope Donation",
+        "Herb Greenfield",
+        "Paul Barton",
+        "8\" f9.0 reflecting telescope kit",
+        "Astro class",
+        "Cable TV Channel 60",
+        "Don Machholz",
+        "Comets",
+        "Einstein",
+        "Astronomy Club News"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-calendar",
+      "documentId": "eph92-10",
+      "title": "Calendar",
+      "summary": "This calendar outlines astronomical events and club activities for October and November, featuring multiple star parties at various locations, general meetings, and an astronomy class. It also provides an update on an observatory project, detailing favorable responses from the planning commission and the ongoing process for an Environmental Impact Report and final plan approval.",
+      "categories": [
+        "Events Calendar",
+        "Club Activities",
+        "Astronomy News",
+        "Observing Events",
+        "Project Updates"
+      ],
+      "keywords": [
+        "Star parties",
+        "General meetings",
+        "Board meetings",
+        "Moon phases",
+        "Astronomy class",
+        "Observatory project",
+        "Environmental Impact Report",
+        "Club events",
+        "Stargazing",
+        "October",
+        "November"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-fremont-peak-21-aug-92",
+      "documentId": "eph92-10",
+      "title": "FREMONT PEAK 21 AUG '92",
+      "summary": "This article reports on an astronomy observing session held at Fremont Peak on August 21, 1992, with a small group of four telescopes and seven participants. Despite comfortable weather, seeing conditions were poor, likely due to smoke from northern fires and a temperature inversion, making observations challenging. The group, using various telescopes including a Meade SC-8, a modified Coulter 10\", and a JMI-18, observed common objects until they concluded around 1 AM as the moon, orange from smoke, began to rise.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Observing Session",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Seeing Conditions",
+        "Smoke",
+        "Temperature Inversion",
+        "Meade SC-8",
+        "Coulter 10\"",
+        "JMI-18",
+        "August 1992"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph92-10-by-jerry-e-bishop",
+      "documentId": "eph92-10",
+      "title": "By Jerry E. Bishop",
+      "summary": "This snippet highlights Albert Einstein's decade-long effort to formulate the general theory of relativity. It emphasizes the theory's profound intellectual impact, noting that it continues to astonish theoretical physicists.",
+      "categories": [
+        "Physics",
+        "History of Science",
+        "Theoretical Physics",
+        "Science Commentary"
+      ],
+      "keywords": [
+        "Einstein",
+        "general theory of relativity",
+        "theoretical physics",
+        "intellectual tour de force",
+        "science history"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-galileo-s-role",
+      "documentId": "eph92-10",
+      "title": "Galileo's Role",
+      "summary": "The article discusses Galileo's foundational experiment demonstrating that all objects accelerate at the same rate in a vacuum, irrespective of mass, a concept explained by the balance of gravity and inertia. Einstein built upon this equivalence of gravitational mass and inertia to formulate his \"principle of equivalence,\" leading to the conclusion that acceleration is relative, not absolute, as its effects are indistinguishable from those of gravitation.",
+      "categories": [
+        "Physics",
+        "History of Science",
+        "Theoretical Physics",
+        "Scientific Principles"
+      ],
+      "keywords": [
+        "Galileo",
+        "Einstein",
+        "Acceleration",
+        "Gravity",
+        "Inertia",
+        "Principle of Equivalence",
+        "Falling Objects",
+        "Relativity"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-far-reaching-implications",
+      "documentId": "eph92-10",
+      "title": "Far-reaching implications",
+      "summary": "The article explores the profound implications of the equivalence principle, demonstrating how acceleration and gravity curve light. It chronicles Einstein's path to developing the general theory of relativity, correcting his initial predictions and resolving the conflict between instantaneous Newtonian gravity and the speed of light limit. Ultimately, general relativity redefined gravity as a geometrical distortion in the fabric of space-time, caused by mass.",
+      "categories": [
+        "Theoretical Physics",
+        "History of Science",
+        "Astronomy",
+        "Scientific Concepts"
+      ],
+      "keywords": [
+        "Equivalence principle",
+        "General theory of relativity",
+        "Einstein",
+        "Gravity",
+        "Light curve",
+        "Space-time",
+        "Special theory of relativity",
+        "Tensor calculus",
+        "Newtonian physics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-a-dimple-in-space-time",
+      "documentId": "eph92-10",
+      "title": "A Dimple in Space-Time",
+      "summary": "This article explains how massive objects, such as the Sun, create a 'dimple' in space-time, causing planets to follow curved paths, a concept central to Einstein's general theory of relativity. It highlights general relativity's success in explaining Mercury's anomalous perihelion precession and the bending of starlight during a solar eclipse, phenomena that Newtonian physics couldn't fully account for, and notes subsequent experiments confirming the theory.",
+      "categories": [
+        "Physics",
+        "Astronomy",
+        "History of Science",
+        "Scientific Discoveries",
+        "Theoretical Physics"
+      ],
+      "keywords": [
+        "Space-time",
+        "General Relativity",
+        "Einstein",
+        "Newtonian Physics",
+        "Gravity",
+        "Mercury's perihelion",
+        "Light bending",
+        "Solar eclipse",
+        "Scientific verification",
+        "Curvature"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-10-pulsars-discovered",
+      "documentId": "eph92-10",
+      "title": "Pulsars Discovered",
+      "summary": "The discovery of binary pulsars in 1974, particularly the Hulse-Taylor pulsar, provided crucial empirical evidence supporting Albert Einstein's theories of relativity. These rapidly rotating neutron stars confirmed predictions like the warping of spacetime, time dilation, and the emission of gravitational waves through their observed energy loss. The article highlights Einstein's remarkable theoretical achievement and mentions ongoing efforts to detect gravitational waves and unify fundamental forces.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Physics",
+        "Scientific Discovery",
+        "Relativity",
+        "Gravitational Waves",
+        "News"
+      ],
+      "keywords": [
+        "Pulsars",
+        "General Relativity",
+        "Einstein",
+        "Gravitational waves",
+        "Spacetime",
+        "Neutron stars",
+        "Hulse-Taylor binary pulsar",
+        "Joseph Taylor",
+        "Russell Hulse",
+        "Special Relativity",
+        "Time dilation",
+        "Redshift"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-astronomy-magazine-renewals",
+      "documentId": "eph92-10",
+      "title": "Astronomy Magazine Renewals",
+      "summary": "Astronomy magazine renewals for 1993 will cost $16 annually, but subscription lengths vary due to extensions made for defunct Telescope Making magazine issues. Jim Van Nuland will contact subscribers in early October to clarify individual payment amounts, ensuring all \"club\" subscriptions align with the calendar year.",
+      "categories": [
+        "News",
+        "Magazine Information",
+        "Subscription Management",
+        "Club Announcement"
+      ],
+      "keywords": [
+        "Astronomy Magazine",
+        "Subscription Renewal",
+        "Telescope Making Magazine",
+        "1993 Subscriptions",
+        "Club Subscriptions",
+        "Jim Van Nuland",
+        "Magazine Cost"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-houge-park-star-party-or-a-wet-evening-by-paul-barton",
+      "documentId": "eph92-10",
+      "title": "Houge Park Star Party Or a Wet Evening by Paul Barton",
+      "summary": "The Houge Park Star Party was a well-attended event with approximately 15 telescopes and 50 guests enjoying clear, warm weather. Despite a generally good time, issues arose with unextinguished parking lot lights hindering viewing and an unexpected sprinkler activation forcing participants to retreat. The article also mentioned the availability of the Association's telescope loaners for members.",
+      "categories": [
+        "Event Report",
+        "Observing Report",
+        "Club Activities",
+        "Astronomy Outreach"
+      ],
+      "keywords": [
+        "Houge Park Star Party",
+        "star party",
+        "telescopes",
+        "astronomy",
+        "observing",
+        "club activities",
+        "telescope loaners",
+        "light pollution",
+        "Paul Barton",
+        "equipment list"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-membership",
+      "documentId": "eph92-10",
+      "title": "Membership",
+      "summary": "This document outlines new membership guidelines discussed at a September Board of Directors meeting. Key points include a July-June membership year with prorated fees, a two-month grace period for newsletter receipt, and termination indicated only by the mailing label's expiration date. It also mentions newsletter distribution for special requests and events, stating this is the sole notification of these policies, published in October 1992.",
+      "categories": [
+        "Membership",
+        "Policies",
+        "Announcements",
+        "Administrative",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "Membership",
+        "Guidelines",
+        "Board Meeting",
+        "Ephemeris",
+        "Newsletter",
+        "Grace Period",
+        "Expiration Date",
+        "Fees",
+        "Prorated",
+        "Star Parties",
+        "October 1992"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-10-yosemite-aug-29-30",
+      "documentId": "eph92-10",
+      "title": "YOSEMITE AUG 29-30",
+      "summary": "Paul Barton recounts a star party held at Yosemite's Glacier Point on August 29-30, comparing the crowded conditions to a previous visit 50 years prior. Despite largely overcast skies and distant lightning, around 100 visitors attended on Saturday night, utilizing over 15 telescopes for public viewing. Good observing conditions were limited to late Friday night, after most participants had left, with numerous SJAA members and rangers in attendance.",
+      "categories": [
+        "Observing Report",
+        "Event Recap",
+        "Amateur Astronomy",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Yosemite",
+        "Glacier Point",
+        "Star Party",
+        "Telescopes",
+        "Observing",
+        "Weather Conditions",
+        "SJAA",
+        "August 29-30",
+        "Paul Barton",
+        "National Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-offices-and-board-of-directors",
+      "documentId": "eph92-10",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current officeholders and board of directors for an organization, providing names, titles, and contact phone numbers for each individual. It includes positions such as President, Vice President, Treasurer, Secretary, and multiple Directors. The information serves as a directory for the organization's leadership.",
+      "categories": [
+        "Organizational",
+        "Directory",
+        "Administrative",
+        "Governance"
+      ],
+      "keywords": [
+        "Offices",
+        "Board of Directors",
+        "Leadership",
+        "Personnel",
+        "Contact Information",
+        "Organization",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-ephemeris-contributors",
+      "documentId": "eph92-10",
+      "title": "Ephemeris Contributors",
+      "summary": "The document provides a contact list, detailing the names and phone numbers of several individuals designated as 'Ephemeris Contributors,' along with the contact information for the 'Editor.' It serves as a directory for key personnel involved in the creation or publication of an ephemeris.",
+      "categories": [
+        "Contact List",
+        "Contributors",
+        "Administrative",
+        "Directory"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Contact information",
+        "Personnel",
+        "Phone numbers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-comet-comments",
+      "documentId": "eph92-10",
+      "title": "COMET COMMENTS",
+      "summary": "The article details recent comet activity, including the recovery of Periodic Comet Daniel and the visual discovery of Comet Brewington. It primarily focuses on Comet Wilson-Harrington, an object re-examined from old photographic plates, which demonstrates characteristics of both an asteroid and a comet, sparking discussion on classifying such \"transitional objects\" in the solar system.",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Comets",
+        "Solar System Classification"
+      ],
+      "keywords": [
+        "Comet Wilson-Harrington",
+        "Transitional objects",
+        "Asteroid-comet classification",
+        "Comet discovery",
+        "Comet recovery",
+        "Periodic Comet Daniel",
+        "Comet Brewington",
+        "Solar system objects",
+        "Cometary activity",
+        "Astronomical observations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-ephemeris",
+      "documentId": "eph92-10",
+      "title": "EPHEMERIS",
+      "summary": "This document provides an ephemeris for Comet Brewington (1992p), detailing its predicted celestial coordinates (Right Ascension and Declination), elongation, sky conditions, and apparent magnitude. The data covers a period from late September to early November 1992, offering guidance for observers. Contact information for Don Machholz is also included.",
+      "categories": [
+        "Ephemeris",
+        "Cometology",
+        "Observational Data",
+        "Astronomy Guide"
+      ],
+      "keywords": [
+        "Comet Brewington (1992p)",
+        "Ephemeris",
+        "Comet",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "Magnitude",
+        "Celestial Coordinates",
+        "Observing Data",
+        "1992"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph92-10-directions-to-our-favorite-places",
+      "documentId": "eph92-10",
+      "title": "Directions to our Favorite Places",
+      "summary": "This article provides detailed directions to several key locations for astronomy enthusiasts in the San Jose/Morgan Hill area. It outlines how to reach the Milpitas Library for board meetings and astronomy classes, Houge Park for public star parties, and both Henry Coe State Park and Grant Ranch for observing sessions, including important logistical and safety notes for each site.",
+      "categories": [
+        "Directions",
+        "Observing Sites",
+        "Astronomy Events",
+        "Community Information",
+        "Meeting Locations"
+      ],
+      "keywords": [
+        "Milpitas Library",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Grant Ranch",
+        "Star Parties",
+        "Astronomy Classes",
+        "Board Meetings",
+        "General Meetings",
+        "Observing",
+        "Directions",
+        "San Jose",
+        "Morgan Hill",
+        "Telescope",
+        "Public Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-east",
+      "documentId": "eph92-10",
+      "title": "East",
+      "summary": "This document, titled \"East,\" lists several local landmarks and thoroughfares, including highways, civic buildings, and a railroad, possibly outlining a specific route or area of interest. It features a prominent safety warning regarding the dangers of entering Grant Ranch after 10:00 PM, specifically noting risks to automobile tires and advising against using the exit gate when the entrance is locked. The text also includes a footer indicating it is from an \"EPHEMERIS\" dated October, 1992, suggesting it is a segment of a local publication or guide from that period.",
+      "categories": [
+        "Local Information",
+        "Community Advisory",
+        "Public Safety",
+        "Historical Document"
+      ],
+      "keywords": [
+        "East",
+        "Milpitas",
+        "Grant Ranch",
+        "Hy 680",
+        "Civic Center",
+        "Milpitas Library",
+        "Calaveras Blvd",
+        "Hy 237",
+        "Police Station",
+        "Milpitas Ave",
+        "Railroad",
+        "Hy 880",
+        "Safety Warning",
+        "Tire Damage",
+        "October 1992",
+        "Ephemeris"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph92-10-double-triple-and-multiple-stars",
+      "documentId": "eph92-10",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "This article details an amateur astronomer's observing session focused on double, triple, and multiple stars in the constellation Pisces Austrinus, utilizing a 30-inch telescope. The author provides specific guidance and observational notes for several stellar systems, including Formalhaut, Beta PsA, Gamma PsA, Delta PsA, 11 PsA, Eta PsA, and h5311, recommending them for observation in October. It includes details on star magnitudes, separations, and resolution difficulty, encouraging other observers to seek out these fascinating stellar systems.",
+      "categories": [
+        "Observing Report",
+        "Stellar Astronomy",
+        "Amateur Astronomy",
+        "Observational Guide"
+      ],
+      "keywords": [
+        "Double stars",
+        "Triple stars",
+        "Multiple stars",
+        "Pisces Austrinus",
+        "Formalhaut",
+        "Beta PsA",
+        "Gamma PsA",
+        "Delta PsA",
+        "Eta PsA",
+        "h5311",
+        "Challenger telescope",
+        "Stellar systems",
+        "Observing guide",
+        "Magnitudes",
+        "Separations",
+        "Constellations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-asteroid-named-after-andrew-fraknol-released-by-asp",
+      "documentId": "eph92-10",
+      "title": "Asteroid Named after Andrew Fraknol released by ASP",
+      "summary": "The International Astronomical Union has named an asteroid after Andrew Fraknol, the executive director of the Astronomical Society of the Pacific (ASP). This recognition honors his extensive contributions to astronomy education and the public understanding of science through his work as a teacher, author, lecturer, and frequent media guest. Fraknol has also served on the boards of the SETI Institute and the Committee for the Scientific Investigation of Claims of the Paranormal, further demonstrating his commitment to science communication.",
+      "categories": [
+        "news",
+        "recognition",
+        "biography",
+        "astronomy education",
+        "science communication"
+      ],
+      "keywords": [
+        "Andrew Fraknol",
+        "Asteroid",
+        "International Astronomical Union (IAU)",
+        "Astronomical Society of the Pacific (ASP)",
+        "Astronomy education",
+        "Public understanding of science",
+        "SETI Institute",
+        "CSICOP",
+        "Science communication"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-10-astronomy-association-equipment",
+      "documentId": "eph92-10",
+      "title": "Astronomy Association Equipment",
+      "summary": "The article details the Astronomy Association's equipment loan program, offering ten different telescopes, ranging from 50mm refractors to a 12-1/2 inch Dobson, to members in good standing. It provides a specific list of available telescopes, noting some are currently unavailable or being fixed, and outlines the rules for borrowing, including a two-month loan period and the responsibility of the loanee for safe return. Photos of the equipment are also planned for a future, more detailed write-up.",
+      "categories": [
+        "Association Information",
+        "Equipment Loan Program",
+        "Membership Guidelines",
+        "Inventory Listing"
+      ],
+      "keywords": [
+        "Astronomy Association",
+        "Telescope loan",
+        "Equipment",
+        "Reflector",
+        "Refractor",
+        "Dobson",
+        "Maksutov",
+        "Members",
+        "Loan rules",
+        "C-11",
+        "C-8",
+        "Quantum 4",
+        "Cometron 60",
+        "Tasco 44T"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph92-10-october-1992",
+      "documentId": "eph92-10",
+      "title": "October 1992",
+      "summary": "This document provides an astronomical guide for October 1992, detailing celestial events and data relevant for observation. It includes information on lunar phases, positions and magnitudes of the nearer planets (Mercury, Venus, Mars, Jupiter, Saturn), and solar data. Additionally, it lists astronomical twilight times, sidereal time, and highlights the 'Darkest Saturday Night' for optimal viewing.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "ephemeris",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "October 1992",
+        "lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "SOL",
+        "astronomical twilight",
+        "sidereal time",
+        "darkest night",
+        "planet positions",
+        "magnitudes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-times-dates-are-pacific-daylight",
+      "documentId": "eph92-10",
+      "title": "TIMES & DATES ARE PACIFIC DAYLIGHT",
+      "summary": "This document clarifies that all times and dates mentioned within it are presented in Pacific Daylight Time. It additionally notes that Pacific Standard Time will begin on Sunday, October 25th, at 02:00.",
+      "categories": [
+        "Information",
+        "Announcement"
+      ],
+      "keywords": [
+        "Pacific Daylight Time",
+        "Pacific Standard Time",
+        "Time Change",
+        "Daylight Saving"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-astro-ads",
+      "documentId": "eph92-10",
+      "title": "ASTRO ADS",
+      "summary": "The ASTRO ADS section provides a free platform for noncommercial advertisers to sell astronomically related products and services, requiring submissions to the editor by the 12th of each month for a three-month run. The current issue features various used astronomical equipment for sale, including telescopes (Newtonian, Refractor, DS16), eyepieces, filters, mounts, cameras, and accessories from individual sellers and an estate sale.",
+      "categories": [
+        "Classifieds",
+        "Used Equipment Sales",
+        "Astronomy Gear",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Astronomical equipment",
+        "Telescopes",
+        "Eyepieces",
+        "Filters",
+        "Mounts",
+        "Cameras",
+        "Accessories",
+        "Used gear",
+        "Classified advertisements",
+        "Estate sale",
+        "Submission guidelines"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-10-san-jose-astronomical-association-membership",
+      "documentId": "eph92-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines information for members of the San Jose Astronomical Association regarding their monthly publication, EPHEMERIS. Members are encouraged to submit articles for publication by the 12th of the preceding month to the editor, Bob Madden.",
+      "categories": [
+        "Membership Information",
+        "Publications",
+        "Submission Guidelines"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "membership",
+        "article submission",
+        "publication",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-10-san-jose-astronomical-association-membership",
+      "documentId": "eph92-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and application process for the San Jose Astronomical Association (SJAA). It details different membership types and their associated fees, provides instructions for submitting the application form to the treasurer, and includes general contact information for the association, such as mailing address and a 24-hour hotline.",
+      "categories": [
+        "Membership",
+        "Organization Information",
+        "Forms/Applications",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership fees",
+        "Application form",
+        "Astronomy club",
+        "Milpitas CA",
+        "Sky & Telescope",
+        "Treasurer",
+        "Hotline"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9210/Eph92_10.pdf",
+      "txtPath": "9210/Eph92_10.md"
+    }
+  ]
+}

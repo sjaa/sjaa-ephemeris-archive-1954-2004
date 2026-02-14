@@ -1,0 +1,706 @@
+{
+  "articles": [
+    {
+      "id": "eph96-03-sjaa-ephemeris",
+      "documentId": "eph96-03",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the \"SJAA Ephemeris,\" the official publication of the San Jose Astronomical Association for March 1996. It represents Volume 7, Number 3 of their club's newsletter.",
+      "categories": [
+        "Newsletter",
+        "Club Publication",
+        "Astronomical Association"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "March 1996",
+        "Publication",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-eye-on-the-universe",
+      "documentId": "eph96-03",
+      "title": "Eye on the Universe",
+      "summary": "The article details recent Board of Directors elections for the San Jose Astronomical Association (SJAA) and announces the 16th Annual Bay Area Astronomical Auction and Swap Meet scheduled for May 4, featuring a capped commission. It also provides a comprehensive calendar of club events for March and April 1996, including general meetings, star parties at various locations, and astronomy workshops, alongside information on other regional astronomical conferences.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Education",
+        "Observing",
+        "Workshops",
+        "Auctions & Sales",
+        "Conferences"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board elections",
+        "astronomical auction",
+        "swap meet",
+        "star parties",
+        "deep sky observing",
+        "astronomy workshops",
+        "Universe '96",
+        "celestial calendar",
+        "Houge Park"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-03-what-to-expect-for-comet-c-1996-b2-hyakutake",
+      "documentId": "eph96-03",
+      "title": "What to Expect for Comet C/1996 B2 Hyakutake",
+      "summary": "Comet C/1996 B2 Hyakutake was visually discovered on January 31, 1996, and is projected to become a very bright, potentially 1st magnitude object in March, April, and May of 1996. Observers in the Northern Hemisphere are particularly favored in late March, as the comet will make a close approach to Earth (0.10 AU) on March 25 and become circumpolar, though it is expected to appear as a large, diffuse object.",
+      "categories": [
+        "Astronomy News",
+        "Comets",
+        "Observing Guide",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Comet C/1996 B2 Hyakutake",
+        "Comet discovery",
+        "Yuji Hyakutake",
+        "Perihelion",
+        "Close approach to Earth",
+        "Northern Hemisphere observation",
+        "Magnitude",
+        "Coma size",
+        "March 1996",
+        "May 1996",
+        "Circumpolar"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-03-mark-wagner",
+      "documentId": "eph96-03",
+      "title": "Mark Wagner",
+      "summary": "Mark Wagner details a highly successful astronomy observing trip to Fremont Peak, despite initial conflicting weather forecasts. The night offered exceptional clear and dry conditions, allowing him to hunt Herschel objects, bagging 28, and enjoy spectacular views of Messier objects. Highlights included M42 through a high-quality refractor with bino-viewers and the Horsehead Nebula with a UHC filter, making up for previous poor observing conditions.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Deep-Sky Objects",
+        "Equipment Review",
+        "Star Gazing"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Herschel objects",
+        "Messier objects",
+        "Deep-sky astronomy",
+        "Telescopes",
+        "Binoviewers",
+        "UHC filter",
+        "M42",
+        "Horsehead Nebula",
+        "San Francisco Bay Area",
+        "Night sky conditions",
+        "Star hopping",
+        "SJAA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph96-03-where-was-everybody-star-party-at-henry-coe-january-13-1996",
+      "documentId": "eph96-03",
+      "title": "Where Was Everybody? Star Party at Henry Coe, January 13, 1996",
+      "summary": "Gary Mitchell recounts attending a star party at Henry Coe State Park on January 13, 1996, with his mother, expecting a large turnout due to favorable weather and dark sky conditions. To his surprise, he was the only club member who showed up, though several visitors came hoping to learn about the club. Despite the low club member presence, the group enjoyed an exceptional evening of observing with very dark skies and steady seeing, viewing objects like the Orion Nebula and various deep-sky objects.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Events"
+      ],
+      "keywords": [
+        "Henry Coe",
+        "Star Party",
+        "January 13, 1996",
+        "Gary Mitchell",
+        "Observing",
+        "Dark Site",
+        "Orion Nebula",
+        "Galaxies",
+        "Globular Clusters",
+        "Star Clusters",
+        "C-6 telescope",
+        "Fog",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-clear-skies-hot-photons-cool-ccds",
+      "documentId": "eph96-03",
+      "title": "Clear Skies, Hot Photons, Cool CCDs",
+      "summary": "At a February general meeting, experienced astro-photographers Brian Drummond and Benoit Shillings shared their insights into CCD astro-photography. Drummond showcased the Barry CCD Kit's ease of use and impressive results, while Shillings detailed his experiences with the Kit and the ST-7 camera, including unique image processing techniques. Their presentations left many attendees interested in exploring CCD technology themselves.",
+      "categories": [
+        "Meeting Report",
+        "Technical",
+        "Astro-photography"
+      ],
+      "keywords": [
+        "Clear Skies Hot Photons Cool CCDs",
+        "CCD astro-photography",
+        "Barry CCD Kit",
+        "ST-7 CCD camera",
+        "Image Processing",
+        "General Meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-the-public-may-participate",
+      "documentId": "eph96-03",
+      "title": "The Public May Participate!",
+      "summary": "NASA's Mars Global Surveyor (MGS), set to launch in November 1996, will carry a Mars Relay system for communication with future Mars landers. JPL plans a near-Earth test of this relay approximately 20-30 days after launch, inviting student and amateur radio operators to participate. Using 70 cm antennas, individuals can listen for a 1.3-watt beacon from the MGS spacecraft on 437.1 MHz, providing a unique \"ultimate DX\" opportunity.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Public Participation",
+        "Amateur Radio",
+        "Upcoming Events",
+        "Technical Information"
+      ],
+      "keywords": [
+        "Mars Global Surveyor (MGS)",
+        "Mars Relay",
+        "NASA",
+        "JPL",
+        "Mars exploration",
+        "UHF radio",
+        "Near-Earth test",
+        "Amateur radio participation",
+        "Student participation",
+        "70 cm band",
+        "437.1 MHz",
+        "Beacon",
+        "Spacecraft communication",
+        "November 1996 launch"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-03-hyakutake-continued-from-page-1",
+      "documentId": "eph96-03",
+      "title": "Hyakutake, continued from page 1",
+      "summary": "This article details the expected appearance of Comet Hyakutake (C/1996 B2) as it approaches Earth and perihelion. It discusses the challenges and possibilities of observing its tail due to foreshortening, varying distances, and dust production, particularly noting that a long, faint tail might be visible to experienced observers under dark skies between March 22-31. The text also provides brightness estimates and differentiates between pre-perihelion views (Northern Hemisphere) and post-perihelion views (Southern Hemisphere), which will see a rapidly fading comet.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astronomy",
+        "Skywatching Forecast"
+      ],
+      "keywords": [
+        "Comet Hyakutake",
+        "C/1996 B2",
+        "Comet tail",
+        "Foreshortening",
+        "Perihelion",
+        "Naked eye observation",
+        "Binoculars",
+        "Magnitude",
+        "Brightness",
+        "Dust tail",
+        "Gas tail",
+        "Northern Hemisphere",
+        "Southern Hemisphere"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph96-03-ephemerides-for-c1996-b2-hyakutake-at-closest-approach-to-earth-these-ephemerides-are-based-on-data-available-as-of-feb-12-notice-that-there-is-already-discrepancy-with-don-machholtz-s-ephemerides-that-are-dated-feb-9-expect-more-revisions-as-the-comet-gets-closer-distances-are-in-au",
+      "documentId": "eph96-03",
+      "title": "Ephemerides for C1996 B2 Hyakutake at closest approach to Earth. These Ephemerides are based on data available as of Feb 12. Notice that there is already discrepancy with Don Machholtz's Ephemerides that are dated Feb 9. Expect more revisions as the comet gets closer. (Distances are in AU.)",
+      "summary": "This document provides updated ephemerides for Comet C1996 B2 Hyakutake, detailing its position, distance, and magnitude during its closest approach to Earth in March. It highlights a discrepancy with earlier ephemerides and advises expecting further revisions as the comet nears. The data is current as of February 12th, 1996.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Ephemerides",
+        "Observing Guides",
+        "News"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Hyakutake",
+        "C1996 B2 Hyakutake",
+        "Closest Approach",
+        "RA",
+        "Dec",
+        "Magnitude",
+        "Comet",
+        "Observing",
+        "Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph96-03-telescope-loaner-status",
+      "documentId": "eph96-03",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides an update on the status of the San Jose Astronomical Association's (SJAA) telescope loaner program. It lists various telescopes by description and number, indicating whether they are available or currently on loan with borrower names and due dates. The program includes 16 reflectors and several small refractors.",
+      "categories": [
+        "program update",
+        "club news",
+        "equipment loan",
+        "astronomy resources"
+      ],
+      "keywords": [
+        "telescope loaner program",
+        "SJAA",
+        "reflectors",
+        "refractors",
+        "Celestron S/C",
+        "Dobson",
+        "New/P Mount",
+        "San Jose Astronomical Association",
+        "available telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-officers-and-board-of-directors",
+      "documentId": "eph96-03",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the officers and board of directors for an organization, detailing their names, positions (President, Treasurer, Secretary, Directors), and phone numbers. It also provides contact information for contributors to 'Ephemeris' and the publication's editor.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Contact List",
+        "Administrative"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Contact Information",
+        "Phone Numbers",
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Organization Staff"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-astro-ads",
+      "documentId": "eph96-03",
+      "title": "Astro Ads",
+      "summary": "This 'Astro Ads' section features a used Odyssey 10.1\" telescope package for sale, which includes a Telrad, TeleView 1.8x Barlow, T-V Plossl 32mm ocular, Lumilite K-2AA, and Tiron Sky Atlas, priced at $450. The ad provides contact details for seller Robert Szabo and clarifies that Astro Ads are free for noncommercial, astronomically related products or services.",
+      "categories": [
+        "Advertisements",
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Products"
+      ],
+      "keywords": [
+        "Telescope",
+        "Odyssey 10.1\"",
+        "Used equipment",
+        "Astronomy equipment",
+        "Telrad",
+        "Barlow",
+        "Eyepiece",
+        "Sky Atlas",
+        "For Sale",
+        "Astro Ads"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-periodical-publication-statement",
+      "documentId": "eph96-03",
+      "title": "Periodical Publication Statement",
+      "summary": "The San Jose Astronomical Association (SJAA) publishes its monthly newsletter, \"SJAA Ephemeris,\" 12 times a year from January through December. Members are invited to submit articles for publication, with a deadline of the 10th of each month for inclusion in the following month's issue. Submission details and contact information for Lew Kurtz are provided.",
+      "categories": [
+        "Publication Information",
+        "Newsletter Guidelines",
+        "Organizational Announcement",
+        "Membership Information"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "Newsletter",
+        "Publication",
+        "Article Submission",
+        "Guidelines",
+        "Monthly",
+        "Lew Kurtz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-lunar-phase",
+      "documentId": "eph96-03",
+      "title": "Lunar Phase",
+      "summary": "This document presents a detailed schedule of the four primary lunar phases—Full Moon, Last Quarter, New Moon, and First Quarter—for a specific month. It includes the exact time (in PST), date, and corresponding rise, transit, and set times for each phase.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Celestial Calendar"
+      ],
+      "keywords": [
+        "Lunar phase",
+        "Moon",
+        "Full Moon",
+        "New Moon",
+        "Quarter Moon",
+        "Astronomical data",
+        "Rise time",
+        "Set time",
+        "Transit time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-mercury",
+      "documentId": "eph96-03",
+      "title": "Mercury",
+      "summary": "This document provides astronomical data for Mercury, including its distance from Earth (0.86 AU) and apparent magnitude (-2.0). It also lists ephemeris data for three dates (July 7, 17, and 27), detailing rise, transit, and set times, along with its Right Ascension (RA) and Declination (Dec) for observation planning.",
+      "categories": [
+        "Ephemeris",
+        "Observational Data",
+        "Celestial Mechanics",
+        "Astronomy Guide"
+      ],
+      "keywords": [
+        "Mercury",
+        "ephemeris",
+        "rise time",
+        "transit time",
+        "set time",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "astronomy",
+        "planet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-venus",
+      "documentId": "eph96-03",
+      "title": "Venus",
+      "summary": "This document presents astronomical data for Venus, detailing its distance from Earth and visual magnitude. It includes an ephemeris table providing rise, transit, and set times, along with Right Ascension and Declination coordinates, for specific dates.",
+      "categories": [
+        "Planetary Data",
+        "Ephemeris",
+        "Observing Aid",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Venus",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Transit",
+        "Planetary Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-mars",
+      "documentId": "eph96-03",
+      "title": "Mars",
+      "summary": "This document provides current astronomical data for the planet Mars, including its distance, magnitude, and an ephemeris table. The table lists rise, transit, and set times, along with Right Ascension and Declination for the 7th, 17th, and 27th of an unspecified month.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mars",
+        "planet",
+        "astronomical data",
+        "ephemeris",
+        "magnitude",
+        "distance",
+        "rise time",
+        "transit time",
+        "set time",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-jupiter",
+      "documentId": "eph96-03",
+      "title": "Jupiter",
+      "summary": "This document provides an ephemeris for Jupiter, detailing its observational data for three specific dates in a given month. It includes the planet's distance, apparent magnitude, rise, transit, and set times, along with its Right Ascension and Declination. This information is crucial for observers tracking Jupiter's position in the sky.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Ephemeris",
+        "Observing Data",
+        "Astronomy",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Rise Time",
+        "Transit Time",
+        "Set Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-saturn",
+      "documentId": "eph96-03",
+      "title": "Saturn",
+      "summary": "This document provides current astronomical data for the planet Saturn, including its distance and visual magnitude. It features an ephemeris table detailing Saturn's rise, transit, and set times, along with its Right Ascension and Declination for several dates throughout a month.",
+      "categories": [
+        "Planetary Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Planetary observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-sol-star-type-g2v",
+      "documentId": "eph96-03",
+      "title": "SOL Star Type G2V",
+      "summary": "This document, titled \"SOL Star Type G2V,\" presents a tabular dataset related to the Sun. It provides astronomical data including rise, transit, and set times, along with Right Ascension (RA) and Declination (Dec) coordinates for specific dates. This information allows for tracking the Sun's position and movement in the sky.",
+      "categories": [
+        "Astronomy",
+        "Solar Data",
+        "Ephemeris",
+        "Reference"
+      ],
+      "keywords": [
+        "Sun",
+        "SOL",
+        "G2V star",
+        "Astronomical data",
+        "Rise and set times",
+        "Right Ascension",
+        "Declination",
+        "Celestial coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-astronomical-twilight",
+      "documentId": "eph96-03",
+      "title": "Astronomical Twilight",
+      "summary": "This document provides a tabular dataset outlining astronomical twilight begin and end times for specific Julian Dates. It serves as a reference for when the sky is dark enough for astronomical observations, presenting times for various dates.",
+      "categories": [
+        "Astronomy",
+        "Reference Data",
+        "Almanac"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "JD",
+        "Observation Times",
+        "Sky Conditions",
+        "Schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-sidereal-time",
+      "documentId": "eph96-03",
+      "title": "Sidereal Time",
+      "summary": "This document provides a concise reference table for Sidereal Time, specifically illustrating the Transit Right Ascension at Local Midnight for three distinct dates (7th, 17th, 27th) at 00:00. It lists the corresponding sidereal times for these specific moments, serving as a practical guide for understanding celestial timing.",
+      "categories": [
+        "Astronomy",
+        "Technical",
+        "Reference"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Astronomy",
+        "Timekeeping"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-darkest-saturday-night",
+      "documentId": "eph96-03",
+      "title": "Darkest Saturday Night:",
+      "summary": "This document provides specific astronomical event times for March 16, 1996, including sunset, twilight end, moonrise, and dawn begin. Titled 'Darkest Saturday Night,' it suggests favorable conditions for observing due to the late moonrise relative to the night's duration.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Conditions",
+        "Historical Data"
+      ],
+      "keywords": [
+        "March 16 1996",
+        "astronomical twilight",
+        "moonrise",
+        "dawn",
+        "sunset",
+        "ephemeris",
+        "dark sky",
+        "stargazing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph96-03-comet-comments-feb-2-1996",
+      "documentId": "eph96-03",
+      "title": "COMET COMMENTS, Feb. 2, 1996",
+      "summary": "This \"Comet Comments\" update from February 1996 announces the recent discovery of three new comets by amateur astronomers: Jedicke, Szczepanski, and Hyakutake. It particularly highlights Comet Hyakutake (C/1996 B2) as an upcoming naked-eye object in March and April, suitable for public viewing, while also noting Comet Hale-Bopp's brighter-than-expected reappearance, making four comets visible in binoculars. The report provides observational details, projected brightness, and visibility predictions for each of the newly found comets.",
+      "categories": [
+        "astronomical news",
+        "comet observations",
+        "observing reports",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Comet C/1996 B2 (Hyakutake)",
+        "Comet C/1996 B1 (Szczepanski)",
+        "Comet C/1996 A1 (Jedicke)",
+        "Comet Hale-Bopp",
+        "comet discovery",
+        "amateur astronomers",
+        "naked eye comets",
+        "observing guide",
+        "astronomical events",
+        "1996"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-03-ephemerides",
+      "documentId": "eph96-03",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemeris data for four comets: C/1995 Y1 (Hyakutaka), C/1996 B1 (Szczepanski), C/1996 B2 (Hyakutake), and C/1995 O1 (Hale-Bopp), primarily for observing periods in March 1996. It lists their celestial coordinates (Right Ascension, Declination), elongation from the Sun, and estimated visual magnitudes for specific dates. Additionally, a table of key orbital elements such as perihelion date, distance, inclination, and eccentricity is included for each comet.",
+      "categories": [
+        "Ephemerides",
+        "Astronomy",
+        "Comets",
+        "Observational Data",
+        "Orbital Mechanics"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Hyakutake",
+        "Comet Szczepanski",
+        "Comet Hale-Bopp",
+        "C/1995 Y1",
+        "C/1996 B1",
+        "C/1996 B2",
+        "C/1995 O1",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Orbital Elements",
+        "Perihelion",
+        "Astronomy",
+        "Celestial Coordinates"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-03-directions-to-houge-park",
+      "documentId": "eph96-03",
+      "title": "Directions to HOUGE PARK",
+      "summary": "This document provides directions to Houge Park, featuring a map with street names like Camden Ave and Union Ave. It also includes a registration form for the 1996 Bay Area Astronomical Auction, detailing fields for bidder information and items for sale with new 10% commission rules, and indicates a deadline for pre-registration by mail. The content is dated March 1996.",
+      "categories": [
+        "event announcement",
+        "logistics",
+        "astronomy club activity",
+        "fundraising",
+        "directions"
+      ],
+      "keywords": [
+        "Houge Park",
+        "directions",
+        "Bay Area Astronomical Auction",
+        "auction registration",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "commission rules",
+        "pre-registration",
+        "March 1996"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph96-03-san-jose-astronomical-association-membership-form",
+      "documentId": "eph96-03",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document serves as the San Jose Astronomical Association (SJAA) membership form, outlining options for new or renewal memberships, including choices with or without a Sky and Telescope subscription, along with associated fees. It provides clear instructions for submitting the form and payment, including mailing details to the SJAA Treasurer. The document appears to be from March 1996.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Information",
+        "Administrative",
+        "Historical"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Renewal",
+        "Sky and Telescope",
+        "Astronomy Club",
+        "Dues",
+        "Treasurer",
+        "Contact Information",
+        "Non-Profit",
+        "March 1996"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph96-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9603/Eph96_03.pdf",
+      "txtPath": "9603/Eph96_03.md"
+    }
+  ]
+}

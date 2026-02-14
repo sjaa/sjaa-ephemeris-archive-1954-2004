@@ -1,0 +1,804 @@
+{
+  "articles": [
+    {
+      "id": "eph96-01-sjaa-ephemeris",
+      "documentId": "eph96-01",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the masthead for the January 1996 edition (Volume 7, Number 1) of the \"SJAA EPHEMERIS.\" It identifies the publication as the official bulletin of the San Jose Astronomical Association, indicating its introductory nature for that month's content.",
+      "categories": [
+        "Newsletter",
+        "Organization Publication",
+        "Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "January 1996",
+        "Astronomy Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-eye-on-the-ephemerides",
+      "documentId": "eph96-01",
+      "title": "Eye on the Ephemerides",
+      "summary": "This article from \"Eye on the Ephemerides\" provides updates and a detailed calendar of events for an astronomy club, likely SJAA. It outlines upcoming talks on topics such as CCD techniques and a solar eclipse, details the annual Board of Directors elections and budget meeting, and announces the annual Swap Meet. The document also lists a comprehensive schedule of general meetings, star parties, and astronomy classes for January and February.",
+      "categories": [
+        "Club News",
+        "Event Schedule",
+        "Club Governance",
+        "Educational Programs",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "SJAA",
+        "Astronomy club",
+        "General meetings",
+        "Star parties",
+        "Board of Directors",
+        "Elections",
+        "Budget",
+        "Swap Meet",
+        "Astronomy classes",
+        "CCD techniques",
+        "Solar eclipse",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-01-gregory-award-presented",
+      "documentId": "eph96-01",
+      "title": "Gregory Award Presented!",
+      "summary": "The San Jose Astronomical Association (SJAA) presented its A.B. Gregory Award to member Bob Ashford, recognizing his outstanding dedication to astronomy education and outreach, including teaching at schools and leading star parties. The award honors Dr. A.B. Gregory, a former SJAA president and amateur astronomer known for inspiring many through his observational astronomy classes.",
+      "categories": [
+        "Astronomy Club News",
+        "Awards",
+        "Outreach",
+        "Education",
+        "Member Recognition"
+      ],
+      "keywords": [
+        "Bob Ashford",
+        "A.B. Gregory Award",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy Education",
+        "Outreach",
+        "Star Parties",
+        "Amateur Astronomy",
+        "Member Recognition"
+      ],
+      "pageStart": 2,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph96-01-observing-report",
+      "documentId": "eph96-01",
+      "title": "Observing Report",
+      "summary": "On Saturday, November 18, members of the SJAA and friends gathered at Fremont Peak for an observing session. Despite initially promising conditions that allowed for targeting Herschel objects in Cetus and Pisces, heavy dew quickly cut the viewing short. The group then spent time socializing and enjoyed a good show from the active Leonids meteor shower before departing.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Astronomy Club Activity",
+        "Deep Sky Observing",
+        "Meteor Shower"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "SJAA",
+        "Observing session",
+        "Herschel objects",
+        "Cetus",
+        "Pisces",
+        "Dew",
+        "Leonids meteor shower",
+        "Telescopes",
+        "Astrophotography",
+        "Group observing",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-thank-you",
+      "documentId": "eph96-01",
+      "title": "Thank You",
+      "summary": "Jim Van Nuland extends heartfelt thanks to all volunteers who participate in school and Houge Park public star parties, acknowledging their crucial role in providing views of the night sky to students, parents, teachers, and passers-by. He emphasizes that their efforts are deeply appreciated, and an editor's note encourages more individuals to volunteer for these San Jose Astronomical Association (SJAA) programs.",
+      "categories": [
+        "Volunteer Recognition",
+        "Community Outreach",
+        "Star Parties",
+        "Club News",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Volunteers",
+        "Star Parties",
+        "Public Outreach",
+        "Night Sky",
+        "Astronomy Education",
+        "Jim Van Nuland",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-january-s-general-meeting-talk",
+      "documentId": "eph96-01",
+      "title": "January's General Meeting Talk",
+      "summary": "Shiloh Unruh, historian at Lick Observatory, will be speaking at the January 6, 1996, General Meeting. He will discuss his newly completed murder mystery book, which features the daughter of James Lick's administrator as the victim and involves several well-known astronomers. Attendees are encouraged to learn the unsolved mystery's outcome from this outstanding speaker.",
+      "categories": [
+        "Meeting Announcement",
+        "Events",
+        "News"
+      ],
+      "keywords": [
+        "Shiloh Unruh",
+        "Lick Observatory",
+        "Murder Mystery",
+        "Book",
+        "James Lick",
+        "Astronomers",
+        "General Meeting",
+        "Talk"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-eclipse-over-india",
+      "documentId": "eph96-01",
+      "title": "Eclipse over India",
+      "summary": "Ernie Piini, a member of the San Jose Astronomical Association, will present a color slide show on March 2 about his challenging 42-second Total Solar Eclipse experience over northern India on October 24, 1995. His talk will also cover his travels through India, including sights like the Taj Mahal, and discussions on ancient observatories and future eclipses.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Presentations",
+        "Travel",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "India",
+        "Ernie Piini",
+        "San Jose Astronomical Association",
+        "October 24, 1995",
+        "Ancient Observatories",
+        "Travel",
+        "Delhi",
+        "Jaipur",
+        "Taj Mahal"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph96-01-snatching-victory-from-the-jaws-of-clouds",
+      "documentId": "eph96-01",
+      "title": "Snatching Victory from the Jaws of Clouds",
+      "summary": "An astronomy outreach event at Dartmouth school, initially threatened by heavy cloud cover, unexpectedly cleared up after an alternative slide show was presented. Despite the initial cloudy conditions, the sky eventually opened, allowing students and parents to observe celestial objects like Saturn, Altair, and various clusters through telescopes. The event was a success, demonstrating the unpredictable nature of sky conditions and the benefit of taking a chance on a cloudy evening.",
+      "categories": [
+        "Observing Report",
+        "Outreach Event",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "star party",
+        "clouds",
+        "observing",
+        "telescopes",
+        "Saturn",
+        "Altair",
+        "Double Cluster",
+        "M45",
+        "M57",
+        "Dartmouth school",
+        "astronomy event"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-01-useful-magnification-limits",
+      "documentId": "eph96-01",
+      "title": "Useful Magnification Limits",
+      "summary": "Jay Freeman's article details the useful magnification limits for telescopes, explaining that minimum magnification is determined by the observer's eye pupil and telescope aperture to match the exit pupil. Maximum magnification varies significantly based on atmospheric steadiness, optical quality, and observer visual acuity. The author also provides practical advice for beginners on selecting eyepieces, suggesting starting with a low-power eyepiece for deep-sky objects and finding, followed by a medium-high power option.",
+      "categories": [
+        "Technical Guide",
+        "Astronomy Equipment",
+        "Observing Tips"
+      ],
+      "keywords": [
+        "Telescope magnification",
+        "Exit pupil",
+        "Eyepieces",
+        "Aperture",
+        "Observing limits",
+        "Astronomical observing",
+        "Optical quality",
+        "Beginner advice"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph96-01-happy-birthday-sjaa-what-a-wonderful-meeting-we-had",
+      "documentId": "eph96-01",
+      "title": "Happy Birthday SJAA, What a Wonderful Meeting We Had",
+      "summary": "The article recounts a successful San Jose Amateur Astronomers (SJAA) birthday meeting, organized by Bob Madden, which brought together original members like Richard Barrett and John Delaney. John Delaney and Jim Van Nuland shared historical accounts of the club's founding in 1954 and early activities, including the construction of a 12.5-inch telescope. The event fostered reconnections among long-time members, celebrated the club's history with cake, and served as a heartwarming gathering for the astronomy community.",
+      "categories": [
+        "observing reports",
+        "club news",
+        "historical accounts",
+        "events"
+      ],
+      "keywords": [
+        "San Jose Amateur Astronomers",
+        "SJAA",
+        "astronomy club",
+        "club meeting",
+        "Bob Madden",
+        "Richard Barrett",
+        "John Delaney",
+        "Jim Van Nuland",
+        "Houge Park",
+        "telescope mirror",
+        "club history",
+        "anniversary"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-club-finances",
+      "documentId": "eph96-01",
+      "title": "Club Finances",
+      "summary": "This report details the club's financial status as of December 8, indicating that the club is financially sound with year-to-date income exceeding expenses. It outlines various fund balances, discusses Ephemeris publication costs, the Gregory award, and addresses the reimbursement for telescope maintenance and building supplies. The article also confirms the finalized annual fee for AL insurance, which is within the budgeted amount.",
+      "categories": [
+        "Club Administration",
+        "Financial Report",
+        "Budgeting",
+        "Observatory Operations"
+      ],
+      "keywords": [
+        "Club Finances",
+        "Checkbook Balance",
+        "Observatory Fund",
+        "Ephemeris Pool",
+        "Loaner Scope Pool",
+        "Income",
+        "Expenses",
+        "AL Insurance",
+        "Gregory Award"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-periodical-publication-statement",
+      "documentId": "eph96-01",
+      "title": "Periodical Publication Statement",
+      "summary": "This document, the \"Periodical Publication Statement,\" announces that \"The SJAA Ephemeris,\" the newsletter of the San Jose Astronomical Association, is published monthly. It clarifies that the publication is released 12 times a year, from January through December, and includes the association's address.",
+      "categories": [
+        "Publication Information",
+        "Organizational Information",
+        "News"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "Newsletter",
+        "Publication schedule",
+        "Periodical",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-jaws-continued-from-page-3",
+      "documentId": "eph96-01",
+      "title": "Jaws, continued from page 3",
+      "summary": "The article describes a successful event, overcoming initial risks through persistence. The following night, an event at Buchser school also proved perfect, with clear skies, engaged participants, and good food.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Community News"
+      ],
+      "keywords": [
+        "Buchser school",
+        "persistence",
+        "sky",
+        "food",
+        "January 1996",
+        "EPHEMERIS"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph96-01-public-information-office",
+      "documentId": "eph96-01",
+      "title": "Public Information Office",
+      "summary": "This document provides contact information for the Public Information Office of the Jet Propulsion Laboratory (JPL), an entity of the California Institute of Technology and the National Aeronautics and Space Administration (NASA). It lists the Pasadena address and phone number for inquiries.",
+      "categories": [
+        "Contact Information",
+        "Public Relations",
+        "Aerospace Organization"
+      ],
+      "keywords": [
+        "Jet Propulsion Laboratory",
+        "JPL",
+        "NASA",
+        "California Institute of Technology",
+        "Public Information Office",
+        "Pasadena",
+        "contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-galileo-mission-status",
+      "documentId": "eph96-01",
+      "title": "GALILEO MISSION STATUS",
+      "summary": "The Galileo spacecraft successfully achieved orbit around Jupiter in December 1995, with precise targeting leading to the cancellation of planned maneuvers and an earlier Ganymede flyby. The mission commenced transmitting crucial data from its atmospheric probe, which completed a 57-minute plunge into Jupiter's atmosphere, marking the first direct measurements of an outer planet's atmosphere. While initial data analysis began for a December 19 press briefing (later postponed), data transmission was temporarily halted due to solar conjunction.",
+      "categories": [
+        "Mission Status",
+        "Space Exploration",
+        "Planetary Science",
+        "News Update",
+        "Technical Operations"
+      ],
+      "keywords": [
+        "Galileo",
+        "Jupiter",
+        "Atmospheric Probe",
+        "Io",
+        "Ganymede",
+        "Spacecraft",
+        "Orbital Mechanics",
+        "Data Transmission",
+        "JPL",
+        "NASA",
+        "Deep Space Network",
+        "Solar Conjunction",
+        "Press Briefing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph96-01-comet-comments-12-06-1995",
+      "documentId": "eph96-01",
+      "title": "COMET COMMENTS, 12-06-1995",
+      "summary": "Don Machholz's \"Comet Comments\" from December 1995 reports on Comet 45P/Honda-Mrkos-Pajdusakova brightening and approaching Earth in early 1996. The article also details Comet Hale-Bopp's status, noting it is currently behind the sun but will emerge in February 1996 to remain visible through the end of the decade, with the Northern Hemisphere favored from April 1996 to April 1997. Earth will pass close to Hale-Bopp's orbit in January 1996, though no meteor shower is anticipated.",
+      "categories": [
+        "observing reports",
+        "astronomy news",
+        "celestial events"
+      ],
+      "keywords": [
+        "Comet 45P/Honda-Mrkos-Pajdusakova",
+        "Comet Hale-Bopp",
+        "comets",
+        "observational astronomy",
+        "celestial mechanics",
+        "1995",
+        "1996"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-ephemerides",
+      "documentId": "eph96-01",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for four comets: 122P/de Vico, C/1995 Q1 (Bradfield), 73P/Schwassman-Wachmann 3, and 45P/Honda-Mrkos-Pajdusakova. It lists their celestial coordinates (Right Ascension and Declination), elongation from the Sun, and predicted magnitude at 00 UT for dates spanning from late December to early February. This data is essential for astronomers to locate and observe these comets.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Comet Observation Guide",
+        "Technical"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "122P/de Vico",
+        "C/1995 Q1 Bradfield",
+        "73P/Schwassman-Wachmann 3",
+        "45P/Honda-Mrkos-Pajdusakova",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-orbital-elements",
+      "documentId": "eph96-01",
+      "title": "ORBITAL ELEMENTS",
+      "summary": "This document presents a table of orbital elements for four distinct celestial objects: de Vico, Bradfield, Schwassman-Wachmann 3, and Honda-Mrkos-Pajdusakova. For each object, key parameters such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period are detailed. The data, sourced from various MPC and IAU catalogs, provides critical information for tracking these astronomical bodies.",
+      "categories": [
+        "Technical",
+        "Astronomical Data",
+        "Cometary Data"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Comets",
+        "Perihelion Date",
+        "Perihelion Distance",
+        "Eccentricity",
+        "Orbital Period",
+        "Inclination",
+        "Argument of Perihelion",
+        "Ascending Node",
+        "Astronomy",
+        "Astrodynamics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-lunar-phase",
+      "documentId": "eph96-01",
+      "title": "Lunar Phase",
+      "summary": "This document provides a detailed schedule of the major lunar phases for a specific period, including Full Moon (FM), Last Quarter (LQ), New Moon (NM), and First Quarter (FQ). For each phase, it lists the exact time and date in PST, along with the moon's corresponding rise, transit, and set times.",
+      "categories": [
+        "Astronomical Data",
+        "Celestial Events",
+        "Calendar"
+      ],
+      "keywords": [
+        "Lunar Phase",
+        "Moon",
+        "Full Moon",
+        "New Moon",
+        "Last Quarter",
+        "First Quarter",
+        "Astronomical Calendar",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-mercury",
+      "documentId": "eph96-01",
+      "title": "Mercury",
+      "summary": "This document provides astronomical data for Mercury, including its distance from Earth and apparent magnitude. It features an ephemeris table detailing rise, transit, and set times, along with Right Ascension (RA) and Declination (Dec) for three specific dates (07, 17, 27).",
+      "categories": [
+        "Astronomical Data",
+        "Observational Guide",
+        "Planetary Information",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Astronomical data",
+        "Ephemeris",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "AU"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-venus",
+      "documentId": "eph96-01",
+      "title": "Venus",
+      "summary": "This document provides current astronomical data for Venus, detailing its distance, magnitude, and crucial observational timings. It lists rise, transit, and set times, along with Right Ascension and Declination coordinates, for three specific dates: the 7th, 17th, and 27th.",
+      "categories": [
+        "Ephemeris",
+        "Observational Data",
+        "Planetary Information",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Venus",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Rise Time",
+        "Transit Time",
+        "Set Time",
+        "Planetary Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-mars",
+      "documentId": "eph96-01",
+      "title": "Mars",
+      "summary": "This document provides current astronomical data for Mars, including its distance from Earth and apparent magnitude. It also features an ephemeris for three specific dates, detailing the planet's rise, transit, and set times, along with its Right Ascension and Declination.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Mars",
+        "Ephemeris",
+        "Astronomical Data",
+        "Magnitude",
+        "Distance",
+        "Right Ascension",
+        "Declination",
+        "Rise Time",
+        "Transit Time",
+        "Set Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-jupiter",
+      "documentId": "eph96-01",
+      "title": "Jupiter",
+      "summary": "This document provides an ephemeris for Jupiter, detailing its distance, magnitude, and celestial coordinates (RA and Dec) for various dates. It also includes rise, transit, and set times, likely for observing purposes over a specific period.",
+      "categories": [
+        "observing guide",
+        "ephemeris",
+        "astronomy data"
+      ],
+      "keywords": [
+        "Jupiter",
+        "ephemeris",
+        "observing",
+        "magnitude",
+        "distance",
+        "rise time",
+        "set time",
+        "transit time",
+        "right ascension",
+        "declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-saturn",
+      "documentId": "eph96-01",
+      "title": "Saturn",
+      "summary": "This document provides astronomical data for the planet Saturn, including its current distance and apparent magnitude. It also lists ephemeris data for three specific dates, detailing rise, transit, and set times, along with Right Ascension and Declination coordinates for observational planning.",
+      "categories": [
+        "Planetary Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Saturn",
+        "Ephemeris",
+        "Astronomical data",
+        "Planetary observation",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Rise time",
+        "Transit time",
+        "Set time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-sol-star-type-g2v-intelligent-life-in-system",
+      "documentId": "eph96-01",
+      "title": "SOL Star Type G2V Intelligent Life in System ?",
+      "summary": "The document presents a table of astronomical observation data, including rise, transit, and set times, along with Right Ascension (RA) and Declination (Dec) for three specific dates. The title speculatively questions the presence of intelligent life within a G2V star system, which is the stellar classification of our Sun, hinting at a connection to the search for extraterrestrial intelligence.",
+      "categories": [
+        "Observational Astronomy",
+        "SETI",
+        "Technical Data"
+      ],
+      "keywords": [
+        "G2V star",
+        "ephemeris",
+        "astronomical observation",
+        "Right Ascension",
+        "Declination",
+        "SETI",
+        "intelligent life",
+        "Sun-like star"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-astronomical-twilight",
+      "documentId": "eph96-01",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a concise table detailing the start and end times of astronomical twilight for specific Julian Dates. It provides a quick reference for these crucial periods for astronomical observation over a short span of days.",
+      "categories": [
+        "Astronomical Data",
+        "Reference",
+        "Observing Aids"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "Observing",
+        "Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-sidereal-time",
+      "documentId": "eph96-01",
+      "title": "Sidereal Time",
+      "summary": "This document provides astronomical data for January 1996, including sidereal time at local midnight, and sunset, twilight, and moonset times for the darkest Saturday night (January 20). It also lists a calendar of events for the San Jose Astronomical Association (SJAA) from January to March 1996, featuring general meetings, star parties, and observational astronomy classes, advising members to consult their Ephemeris for updates.",
+      "categories": [
+        "Astronomy Data",
+        "Ephemeris",
+        "Events",
+        "Observing Reports",
+        "Club Information",
+        "Calendar"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Ephemeris",
+        "SJAA",
+        "Star Party",
+        "Observational Astronomy",
+        "Calendar",
+        "Sunset",
+        "Moonset",
+        "Twilight",
+        "Right Ascension",
+        "January 1996"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph96-01-telescope-loaner-status",
+      "documentId": "eph96-01",
+      "title": "Telescope Loaner Status",
+      "summary": "This document outlines the current status of telescopes available for loan, listing various models, their current borrowers, and due dates. It indicates which telescopes are presently available for use and provides contact information for Paul Barton to arrange borrowing, along with a note about an unreachable borrower.",
+      "categories": [
+        "Resource Management",
+        "Equipment Loan",
+        "Club Resources",
+        "Internal Announcement"
+      ],
+      "keywords": [
+        "Telescope Loaner",
+        "Equipment Availability",
+        "Astronomy Club",
+        "Borrowing Telescopes",
+        "Paul Barton",
+        "Due Dates",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-astro-ads",
+      "documentId": "eph96-01",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS serves as a free classifieds section for noncommercial advertisers offering astronomy-related products and services. The current listings include a 12.5-inch Star Instruments Ritchy Chretien telescope and a 10.1-inch Odyssey Dobsonian telescope, both for sale. Additionally, there is a 'wanted' ad seeking cabinet-grade plywood for a homemade Dobsonian telescope.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "For Sale",
+        "Wanted"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Telescopes",
+        "Ritchy Chretien",
+        "Dobsonian",
+        "Astronomy Equipment",
+        "Telescope Making",
+        "German Equatorial Mount",
+        "Eyepieces",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-officers-and-board-of-directors",
+      "documentId": "eph96-01",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the officers and board of directors of an organization, including their names and contact phone numbers. It also identifies contributors to the 'Ephemeris' publication and its editor, Lew Kurtz. The article concludes with guidelines for members to submit articles for publication in the monthly newsletter, specifying preferred formats and the submission deadline.",
+      "categories": [
+        "Organizational Structure",
+        "Publication Information",
+        "Contact List",
+        "Newsletter Guidelines"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Newsletter",
+        "Article Submission",
+        "Contact Information",
+        "Lew Kurtz"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph96-01-san-jose-astronomical-association-membership",
+      "documentId": "eph96-01",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership tiers, including options with or without a subscription to Sky and Telescope magazine, and provides instructions for submitting the form and payment to the SJAA treasurer.",
+      "categories": [
+        "membership",
+        "administrative",
+        "organization"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership form",
+        "dues",
+        "Sky and Telescope",
+        "Bob Elsberry",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph96-01-sjaa-hotline",
+      "documentId": "eph96-01",
+      "title": "SJAA HOTLINE",
+      "summary": "The SJAA Hotline provides 24-hour information through a dedicated phone number. It also references an ephemeris for January 1996, indicating a resource for celestial data likely part of a larger publication or service.",
+      "categories": [
+        "Information Service",
+        "Astronomy",
+        "Ephemeris",
+        "Announcement"
+      ],
+      "keywords": [
+        "SJAA Hotline",
+        "Ephemeris",
+        "Information",
+        "Astronomy",
+        "January 1996",
+        "Phone Number"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph96-01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9601/Eph96_01.pdf",
+      "txtPath": "9601/Eph96_01.md"
+    }
+  ]
+}

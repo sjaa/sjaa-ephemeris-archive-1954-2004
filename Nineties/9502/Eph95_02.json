@@ -1,0 +1,709 @@
+{
+  "articles": [
+    {
+      "id": "eph95-02-sjaa-ephemeris",
+      "documentId": "eph95-02",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the February 1995 issue (Volume 6, Number 2) of \"SJAA EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It provides a snapshot of the club's activities and astronomical information from that specific period.",
+      "categories": [
+        "Publication",
+        "Astronomy Club News",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "February 1995",
+        "Astronomy Club",
+        "Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-the-eyepiece",
+      "documentId": "eph95-02",
+      "title": "The Eyepiece",
+      "summary": "This article from \"The Eyepiece\" newsletter announces the upcoming San Jose Astronomical Association (SJAA) Board of Directors election, with six candidates running for five seats. It also details the resignations of two board members, Gene Cisneros and Jack Zeiders, and the interim appointments of Rich Newschaefer and Lew Kurtz. Additionally, the document provides a comprehensive calendar of SJAA activities for February and March, including star parties, general meetings with speakers, and observational astronomy classes.",
+      "categories": [
+        "Organizational News",
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Member Updates"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Election",
+        "Star Parties",
+        "General Meetings",
+        "Astronomy Classes",
+        "Resignations",
+        "Appointments",
+        "Club News",
+        "Calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-forty-years-ago-this-month",
+      "documentId": "eph95-02",
+      "title": "Forty Years Ago This Month",
+      "summary": "This article, commemorating a 40-year anniversary, details a pivotal meeting from four decades prior, outlining the early planning and a subsequent club gathering. The February 21st meeting featured talks on constellation Gemini, Jupiter's moons and phenomena, astronomical measurement methods like parallax and parsecs, and practical advice for amateur telescope users. It serves as a historical look back at the origins and early activities of the astronomy club.",
+      "categories": [
+        "Club History",
+        "Historical Report",
+        "Astronomy Education",
+        "Meeting Report",
+        "Anniversary Celebration"
+      ],
+      "keywords": [
+        "Forty Years Ago",
+        "Club planning",
+        "San Jose State",
+        "Constellation Gemini",
+        "Moons of Jupiter",
+        "Occultation",
+        "Eclipse",
+        "Transit",
+        "Shadow Transit",
+        "Astronomical Measurement",
+        "Parallax",
+        "Parsec",
+        "Alpha Centauri",
+        "Amateur Telescopes",
+        "Reflector",
+        "Refractor",
+        "40-year Anniversary"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-02-eclipse-over-the-altiplano",
+      "documentId": "eph95-02",
+      "title": "ECLIPSE OVER THE ALTIPLANO",
+      "summary": "Ernie Piini chronicles his expedition to Bolivia with his daughter to witness a total solar eclipse over the Altiplano. The journey combined cultural immersion at Lake Titicaca and Tiwanaku Ruins with observations of the Southern Skies, alongside meticulous preparations for the main celestial event. Despite concerns about cloud cover, challenges like altitude sickness, and technical preparations, the expedition successfully viewed a vibrant and awe-inspiring total solar eclipse, marked by a significant temperature drop and the visible \"Diamond Ring\" and corona.",
+      "categories": [
+        "Observing Report",
+        "Travelogue",
+        "Astronomy",
+        "Cultural Experience",
+        "Personal Narrative"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Altiplano",
+        "Bolivia",
+        "Eclipse Expedition",
+        "Lake Titicaca",
+        "Tiwanaku Ruins",
+        "Southern Skies",
+        "Altitude Sickness",
+        "Eclipse Observation",
+        "Kallawaya"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-02-the-altiplano",
+      "documentId": "eph95-02",
+      "title": "THE ALTIPLANO",
+      "summary": "This article describes a post-eclipse travel experience in Bolivia, detailing a visit to La Paz, including the Hotel El Presidente, the Witch Doctor's Market, and Moon Valley, likened to Bryce Canyon. The author also reflects on their eclipse photography success and interprets a coca tea leaf reading regarding their camera experiments and the overall trip outcome.",
+      "categories": [
+        "travel report",
+        "personal experience",
+        "astronomical event aftermath",
+        "cultural insights"
+      ],
+      "keywords": [
+        "eclipse",
+        "Bolivia",
+        "La Paz",
+        "Orura",
+        "Mt. Illimani",
+        "Witch Doctor's Market",
+        "Moon Valley",
+        "coca tea",
+        "photography",
+        "travel",
+        "Altiplano"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-the-lunatic-fringe",
+      "documentId": "eph95-02",
+      "title": "The Lunatic Fringe",
+      "summary": "This article, 'The Lunatic Fringe,' provides a guide for observing specific lunar features when the Moon is about 9 days old and near the terminator, even when its brightness makes fainter objects difficult to see. It lists objects by difficulty (Easy, Medium, Challenge) including prominent craters like Copernicus and Eratosthenes, the flooded crater Stadius, and challenging lunar domes near Hortensius. The author also recommends 'Atlas of the Moon' by Antonin Rukl as a helpful resource for lunar observation.",
+      "categories": [
+        "observing guide",
+        "astronomy education",
+        "resource recommendation"
+      ],
+      "keywords": [
+        "Moon",
+        "lunar observation",
+        "terminator",
+        "Copernicus",
+        "Eratosthenes",
+        "Stadius",
+        "Hortensius",
+        "lunar domes",
+        "craters",
+        "Atlas of the Moon",
+        "amateur astronomy"
+      ],
+      "pageStart": 30,
+      "pageEnd": 32
+    },
+    {
+      "id": "eph95-02-star-testing-astronomical-telescopes",
+      "documentId": "eph95-02",
+      "title": "STAR TESTING ASTRONOMICAL TELESCOPES",
+      "summary": "This article is a review of Harold Richard Suiter's book, \"STAR TESTING ASTRONOMICAL TELESCOPES,\" published by Willmann-Bell. The book provides a comprehensive guide to evaluating telescope optics through star testing, detailing various optical problems and other testing methods like Foucault and Interferometry. It is highly recommended for both average telescope users and technically inclined individuals seeking a detailed reference.",
+      "categories": [
+        "Book Review",
+        "Technical",
+        "Astronomy",
+        "Optics"
+      ],
+      "keywords": [
+        "Star testing",
+        "Astronomical telescopes",
+        "Telescope evaluation",
+        "Optical problems",
+        "Spherical aberration",
+        "Astigmatism",
+        "Foucault Test",
+        "Ronchi Test",
+        "Interferometry",
+        "Telescope optics",
+        "Book recommendation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-sl-9-impacts-on-jupiter",
+      "documentId": "eph95-02",
+      "title": "SL-9 Impacts on Jupiter",
+      "summary": "A team of four scientists and engineers from Lockheed Missiles and Space Company presented their successful endeavor to observe the SL-9 impacts on Jupiter using amateur telescopes and video recording equipment. Operating from White Mountain at 10,000 ft, they overcame challenging conditions to record continuous video of the impacts. Through post-processing and image enhancement, they obtained high-quality images comparable to those from much larger observatory telescopes.",
+      "categories": [
+        "observing reports",
+        "astronomy",
+        "presentations",
+        "amateur astronomy",
+        "image processing"
+      ],
+      "keywords": [
+        "SL-9 impacts",
+        "Jupiter",
+        "Lockheed Missiles and Space Company",
+        "LMSC",
+        "White Mountain",
+        "video recording",
+        "amateur telescopes",
+        "image enhancement",
+        "December 1994 General Meeting",
+        "Comet Shoemaker-Levy 9"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-02-impacts",
+      "documentId": "eph95-02",
+      "title": "Impacts",
+      "summary": "This article highlights the significant role of image processing for amateur astronomers, especially for capturing unique transitory events like planetary impacts. It emphasizes that this technique, which allows for real-time recording and post-processing, is tolerant of issues like vibration and tracking jitter. The method opens up new possibilities for amateurs, even those using Dobsonian telescopes without sophisticated tracking systems.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Techniques",
+        "Image Processing",
+        "Astronomical Events",
+        "Equipment"
+      ],
+      "keywords": [
+        "Image processing",
+        "Amateur astronomy",
+        "Jupiter impacts",
+        "SL-9 impacts",
+        "Real-time recording",
+        "Post-processing",
+        "Dobsonian telescopes",
+        "Transitory events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-board-of-director-candidates",
+      "documentId": "eph95-02",
+      "title": "Board of Director Candidates",
+      "summary": "The article introduces candidates for the San Jose Astronomical Association's (SJAA) Board of Directors, urging members to cast their votes at the upcoming February general meeting. It provides brief biographies and statements from most candidates, highlighting their experience, interests in amateur astronomy, and perspectives on club priorities like educational outreach, financial stability, insurance, and internet access.",
+      "categories": [
+        "Organizational Announcement",
+        "Elections",
+        "Club Governance",
+        "Candidate Biographies",
+        "Amateur Astronomy Activities"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "SJAA",
+        "Candidates",
+        "Elections",
+        "Voting",
+        "Club Governance",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Telescope Loan Program",
+        "Educational Outreach",
+        "Club Finances",
+        "Club Insurance",
+        "Internet Access"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-news-and-views",
+      "documentId": "eph95-02",
+      "title": "News and Views",
+      "summary": "This 'News and Views' section describes an observatory centered around a large Treppower refractor, complemented by various smaller Zeiss refractors and Cassegrain reflectors. It also includes a personal message from Bob Brauer wishing a Happy New Year and inviting participation in upcoming SJAA elections, providing contact information. The content is dated February 1995.",
+      "categories": [
+        "Astronomy",
+        "Observatory Report",
+        "Community News",
+        "Organizational News",
+        "Newsletter"
+      ],
+      "keywords": [
+        "Observatory",
+        "Telescopes",
+        "Treppower refractor",
+        "Zeiss refractors",
+        "Cassegrain reflectors",
+        "SJAA elections",
+        "February 1995",
+        "Bob Brauer"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-02-new-telescope-donated-by-paul-barton",
+      "documentId": "eph95-02",
+      "title": "New Telescope Donated by Paul Barton",
+      "summary": "On January 7, 1995, Ken Miura donated a new 60mm Bushnell refractor telescope to the SJAA Telescope Loan Program, implicitly on behalf of Paul Barton. This portable unit, valued at approximately $450, is in excellent condition and includes all accessories, making it a valuable addition for club members. The article expresses gratitude for the generous contribution.",
+      "categories": [
+        "news",
+        "club report",
+        "donation",
+        "equipment",
+        "outreach program"
+      ],
+      "keywords": [
+        "telescope",
+        "donation",
+        "Bushnell refractor",
+        "SJAA",
+        "Telescope Loan Program",
+        "Ken Miura",
+        "Paul Barton",
+        "equatorial mount",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-news-and-views-by-sjaa-president-bob-brauer",
+      "documentId": "eph95-02",
+      "title": "News and Views by SJAA President Bob Brauer",
+      "summary": "The article recounts SJAA President Bob Brauer's business trip to Berlin, where he dedicated a free day to exploring the city's astronomical attractions. He visited the impressive Zeiss Grossplanetarium, noting its massive size, before discovering and touring the historic Archenhold Observatory. Brauer was particularly amazed by the Treptower Refractor, a huge and historically significant instrument still in use despite its exposure to the elements.",
+      "categories": [
+        "News and Views",
+        "Travelogue",
+        "Observatories",
+        "Planetariums",
+        "Astronomy History"
+      ],
+      "keywords": [
+        "Berlin",
+        "Zeiss Grossplanetarium",
+        "Archenhold Observatory",
+        "Treptower Refractor",
+        "Telescopes",
+        "Planetariums",
+        "Astronomy Tourism",
+        "Comet SL9"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-02-december-21-1994",
+      "documentId": "eph95-02",
+      "title": "December 21, 1994",
+      "summary": "This document features a letter from long-time member Dick Barrett, dated December 21, 1994, recounting his recollections about the San Jose astronomical society's founding, his work covering Lick Observatory, and a memoir he is writing. He shares personal anecdotes, including his experience with Halley's Comet and mentions several notable astronomers and club members. The document also includes a calendar of 1994 events for the San Jose Astronomical Association (SJAA).",
+      "categories": [
+        "Correspondence",
+        "Club History",
+        "Memoir",
+        "Observing Reports",
+        "Events Calendar",
+        "Local Astronomy"
+      ],
+      "keywords": [
+        "Dick Barrett",
+        "San Jose Astronomical Association",
+        "Lick Observatory",
+        "Halley's Comet",
+        "Club Origins",
+        "Star Parties",
+        "Ephemeris",
+        "San Jose News",
+        "Mooney Case",
+        "Astronomers"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-02-telescope-loaner-status",
+      "documentId": "eph95-02",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides an update on the status of telescopes available for loan through a program, detailing which telescopes are currently borrowed, their due dates, and which are available. It also notes a solar telescope available for experienced members and provides instructions for interested individuals to borrow a telescope by contacting Paul Barton.",
+      "categories": [
+        "program update",
+        "equipment management",
+        "club operations",
+        "internal report"
+      ],
+      "keywords": [
+        "telescope loaner",
+        "telescope availability",
+        "equipment status",
+        "borrowing telescopes",
+        "due dates",
+        "SJAA",
+        "solar telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-astro-ads",
+      "documentId": "eph95-02",
+      "title": "ASTRO ADS",
+      "summary": "The 'ASTRO ADS' section offers free classified advertisements for noncommercial sellers of astronomically related products or services. Ads run for approximately three months and must be submitted to the editor by the 12th of each month. Current listings include various used telescopes and components, such as Celestron C-5 and Ultima 8-inch models, Meade 6-inch OTA, Questar 3.5-inch, mirrors, and accessories.",
+      "categories": [
+        "classifieds",
+        "marketplace",
+        "astronomical equipment sales",
+        "used equipment"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "telescopes",
+        "Celestron C-5",
+        "Celestron Ultima 8-inch",
+        "Meade 6-inch",
+        "Questar 3.5-inch",
+        "eyepieces",
+        "Barlow",
+        "filters",
+        "camera adapter",
+        "aluminized flat",
+        "refractor OTA",
+        "pyrex mirror blank",
+        "computer drive",
+        "reducer corrector",
+        "tripod"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-long-time-sjaa-member",
+      "documentId": "eph95-02",
+      "title": "Long-time SJAA member",
+      "summary": "Doug Wells, a long-time SJAA member, is seeking a ride to the general meetings as he no longer drives. He lives at Villa Fontana on Prospect Road, and interested members are asked to call him at 255-5555 apartment 227 to arrange transportation.",
+      "categories": [
+        "Community Request",
+        "Member Services",
+        "Logistics"
+      ],
+      "keywords": [
+        "Doug Wells",
+        "SJAA",
+        "ride request",
+        "general meetings",
+        "transportation",
+        "member assistance"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-02-lunar-phases-date-rise-trans-set",
+      "documentId": "eph95-02",
+      "title": "Lunar Phases: Date Rise Trans Set",
+      "summary": "This document provides a listing of lunar phases for the current month, including their dates, rise times, transit times, and set times. It details information for the First Quarter, Full Moon, and Last Quarter, noting the absence of a New Moon for the specified period.",
+      "categories": [
+        "Celestial Events",
+        "Observing Guide",
+        "Astronomy Calendar"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Rise Time",
+        "Set Time",
+        "Transit Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-nearer-planets",
+      "documentId": "eph95-02",
+      "title": "NEARER PLANETS:",
+      "summary": "This document provides astronomical data for the 'Nearer Planets' (Mercury, Venus, Mars, Jupiter, and Saturn) for three specific dates (07, 17, 27 of an unspecified month). It lists their distances in Astronomical Units (A.U.), magnitudes, and what appear to be rise, transit, and set times. Additionally, it includes similar data for the Sun (SOL), detailing its star type, magnitude, right ascension, declination, and corresponding times.",
+      "categories": [
+        "observing reports",
+        "astronomical data",
+        "ephemeris",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Solar System",
+        "Astronomy",
+        "Magnitude",
+        "Astronomical Unit",
+        "Ephemeris",
+        "Observational Data",
+        "Sun",
+        "SOL"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-astronomical-twilight",
+      "documentId": "eph95-02",
+      "title": "ASTRONOMICAL TWILIGHT:",
+      "summary": "This document provides a tabular list of Julian Dates (JD) along with their corresponding start and end times for astronomical twilight. It details specific twilight periods across several dates, beginning with JD 2,449,755 and continuing for subsequent dates like JD 2,449,765 and JD 2,449,775. The data indicates the precise window during which astronomical twilight occurs.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Aids",
+        "Timekeeping",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Julian Date",
+        "Twilight times",
+        "Astronomy",
+        "Begin time",
+        "End time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-sidereal-time",
+      "documentId": "eph95-02",
+      "title": "SIDEREAL TIME:",
+      "summary": "This document provides astronomical timing data for Saturday, February 25, 1995, in Pacific Standard Time. It includes sidereal time transits, local midnight, sunset, twilight end, moon rise/set times, and calculates total astrophotography hours. The data's derivation is attributed to specific astronomy software and a book on personal computer astronomy.",
+      "categories": [
+        "astronomical data",
+        "observing reports",
+        "ephemeris",
+        "technical"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Local Midnight",
+        "Sunset",
+        "Twilight End",
+        "Moon Rise",
+        "Moon Set",
+        "Astrophoto Hours",
+        "Pacific Standard Time",
+        "Astronomy Software",
+        "Ephemeris Calculation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-offices-and-board-of-directors",
+      "documentId": "eph95-02",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current offices and board of directors, including the President, Vice President, Secretary, Treasurer, and several Directors. For most individuals, their name and a contact phone number are provided.",
+      "categories": [
+        "Organizational Information",
+        "Contact Information",
+        "Personnel Directory"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Contact List",
+        "Leadership",
+        "Organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-ephemeris-contributors",
+      "documentId": "eph95-02",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists individuals contributing to, editing, and distributing an ephemeris. It provides contact names and phone numbers for Don Machholz, Paul Barton, Rich Stanton, and Bob Madden, detailing their roles in the publication process.",
+      "categories": [
+        "Contact List",
+        "Publication Details",
+        "Organizational"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Distribution",
+        "Contacts",
+        "Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-comet-comments",
+      "documentId": "eph95-02",
+      "title": "COMET COMMENTS",
+      "summary": "This article, 'COMET COMMENTS' by Don Machholz, reports on recent discoveries and recoveries of faint comets, including updates on Periodic Comet Borrelly, McNaught-Russell, Wild 4, and Schwassmann-Wachmann 3. It primarily details upcoming changes by the Smithsonian Astrophysical Observatory's Central Bureau for Astronomical Telegrams regarding preliminary designations and proper naming conventions for comets, aiming to standardize and simplify the process. The new system will use year, half-month, and discovery order, alongside new rules for assigning proper names.",
+      "categories": [
+        "news",
+        "observing reports",
+        "technical",
+        "astronomy policy"
+      ],
+      "keywords": [
+        "comet naming conventions",
+        "comet designations",
+        "Central Bureau for Astronomical Telegrams",
+        "Smithsonian Astrophysical Observatory",
+        "Periodic Comet Borrelly",
+        "Periodic Comet McNaught-Russell",
+        "Periodic Comet Wild 4",
+        "Periodic Comet Schwassmann-Wachmann 3",
+        "comet discovery",
+        "comet recovery",
+        "perihelion",
+        "orbital period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-ephemerides",
+      "documentId": "eph95-02",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides an ephemeris for Periodic Comet 19P/BORRELLY, detailing its predicted celestial coordinates (Right Ascension, Declination), elongation, and sky magnitude for dates spanning from January 23 to March 9, 1995. It also lists the comet's key orbital elements, including its perihelion date, distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period.",
+      "categories": [
+        "Ephemerides",
+        "Comets",
+        "Astronomical Data",
+        "Observing Data",
+        "Orbital Mechanics"
+      ],
+      "keywords": [
+        "19P/BORRELLY",
+        "Comet",
+        "Ephemerides",
+        "Orbital Elements",
+        "Right Ascension",
+        "Declination",
+        "Sky Magnitude",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "1995"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-02-ephemeris",
+      "documentId": "eph95-02",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is a monthly publication of the San Jose Astronomical Association, providing guidelines for members to submit articles. Submissions, preferably typed or on diskette, are due by the 12th of the previous month and should be sent to the editor, Bob Madden.",
+      "categories": [
+        "Association News",
+        "Publication Information",
+        "Call for Submissions"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Publication",
+        "Article submission",
+        "Newsletter",
+        "Submission guidelines"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-02-san-jose-astronomical-association-membership",
+      "documentId": "eph95-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association (SJAA) offers various membership options, including individual, membership with Sky & Telescope, and junior memberships, with corresponding fees. Prospective members can join by submitting a form with payment to the treasurer or bringing it to an SJAA meeting, and general contact and information hotline details are provided.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Club Information",
+        "Non-profit"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Membership Dues",
+        "Fees",
+        "Sky & Telescope",
+        "Junior Membership",
+        "Contact Information",
+        "Treasurer",
+        "February 1995"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9502/Eph95_02.pdf",
+      "txtPath": "9502/Eph95_02.md"
+    }
+  ]
+}

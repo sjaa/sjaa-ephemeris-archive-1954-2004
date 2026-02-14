@@ -1,0 +1,563 @@
+{
+  "articles": [
+    {
+      "id": "eph93-11-sjaa-ephemeris",
+      "documentId": "eph93-11",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document identifies itself as \"SJAA EPHEMERIS,\" the official publication of the San Jose Astronomical Association for November 1993. It specifically notes its volume as 4 and number as 11, serving as the masthead for a club newsletter or journal.",
+      "categories": [
+        "Publication",
+        "Astronomical Association News",
+        "Historical Document",
+        "Newsletter"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "November 1993",
+        "Astronomical Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-the-eyepiece",
+      "documentId": "eph93-11",
+      "title": "The Eyepiece",
+      "summary": "This newsletter announces upcoming director elections in February and highlights articles on multiple stars and the Vixen 2.4 eyepiece. It details a new portable dobsonian telescope built for the loan program and provides a comprehensive calendar of events for November and December, including star parties and general meetings. The author also solicits member feedback on the preferred future location for club meetings.",
+      "categories": [
+        "News",
+        "Events",
+        "Club Operations",
+        "Equipment Discussion",
+        "Observing Reports",
+        "Education"
+      ],
+      "keywords": [
+        "Eyepiece",
+        "Multiple Stars",
+        "Director Elections",
+        "Telescope Loan Program",
+        "Star Parties",
+        "General Meetings",
+        "Observational Astronomy",
+        "Milpitas Library",
+        "Houge Park",
+        "Vixen 2.4"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-11-how-high-is-too-high-a-review-of-the-vixen-2-5-mm-eyepiece",
+      "documentId": "eph93-11",
+      "title": "HOW HIGH IS TOO HIGH? A REVIEW of the Vixen 2.5 mm Eyepiece",
+      "summary": "This article reviews the Vixen 2.5 mm eyepiece, challenging the common amateur astronomy rule of limiting magnification to '50x per inch of aperture.' The author, Stephen R. Waldee, argues that with high-quality optics and stable atmospheric conditions, much higher magnifications are not only possible but yield exceptional views, citing historical precedents and personal observing experiences. The Vixen eyepiece is highly praised for its superior eye relief, multi-coated lanthanum lenses, and ability to provide clear, detailed high-power views, making it a significant improvement over other high-power oculars.",
+      "categories": [
+        "Product Review",
+        "Astronomy Equipment",
+        "Observing Techniques",
+        "Optical Instruments"
+      ],
+      "keywords": [
+        "Vixen eyepiece",
+        "2.5 mm eyepiece",
+        "Magnification limits",
+        "Amateur astronomy",
+        "High power observation",
+        "Eyepiece review",
+        "Eye relief",
+        "Optical quality",
+        "Telescope accessories",
+        "Lanthanum glass",
+        "Atmospheric seeing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-11-the-following-table-shows-our-observations-of-performance-of-the-vixen-2-5-mm-ocular-compared-to-other-eyepieces",
+      "documentId": "eph93-11",
+      "title": "The following table shows our observations of performance of the Vixen 2.5 mm ocular compared to other eyepieces.",
+      "summary": "This article presents observational performance comparisons of the Vixen 2.5 mm ocular against other eyepieces, sometimes utilizing a Barlow lens to achieve similar magnifications. Observations were conducted on celestial objects such as Vega, Epsilon Lyrae, Saturn, and the Moon, using Meade 80-mm and Celestron 70-mm Fluorite telescopes. The Vixen eyepiece generally demonstrated excellent performance, often producing flawless diffraction patterns and clear images, although its performance varied depending on the target and magnification.",
+      "categories": [
+        "Observing Report",
+        "Equipment Review",
+        "Eyepiece Comparison",
+        "Amateur Astronomy",
+        "Telescope Accessories"
+      ],
+      "keywords": [
+        "Vixen 2.5 mm ocular",
+        "eyepiece performance",
+        "Barlow lens",
+        "telescope observations",
+        "Vega",
+        "Epsilon Lyrae",
+        "Saturn",
+        "Moon",
+        "Celestron 70-mm Fluorite",
+        "Meade 80-mm refractor"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-11-double-triple-and-multiple-stars",
+      "documentId": "eph93-11",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "This article details the author's recent astronomical observations, focusing on double and multiple star systems, primarily within the constellation Cetus. Despite challenging weather in the UK, the author observed several binaries, including Mira (Omicron Ceti), Gamma Ceti, 84 Ceti, and Sigma 274, providing their characteristics like magnitudes, separations, distances, and periods. The piece also briefly mentions other deep-sky objects and notable stars in the region, offering practical advice for amateur astronomers.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Deep-Sky Objects",
+        "Variable Stars",
+        "Star Systems"
+      ],
+      "keywords": [
+        "Double stars",
+        "Binary stars",
+        "Multiple stars",
+        "Cetus",
+        "Mira (Omicron Ceti)",
+        "Gamma Ceti",
+        "84 Ceti",
+        "Sigma 274",
+        "Observing",
+        "Telescope",
+        "Binoculars",
+        "Variable stars",
+        "Constellations",
+        "M-77",
+        "NGC 253",
+        "Tau Ceti",
+        "Alpha Piscium"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-some-notes-from-the-space-telescope-science-institute-in-baltimore",
+      "documentId": "eph93-11",
+      "title": "Some notes from the Space Telescope Science Institute in Baltimore",
+      "summary": "The article presents updates from the Space Telescope Science Institute, primarily detailing Comet Shoemaker-Levy (1993e)'s asteroid-like composition, its fragmented state due to Jupiter's gravity, and planned observations for its imminent collision with Jupiter in November 1993. Additionally, it recounts a successful Cub Scout star party held on October 3rd, where despite cloudy conditions, 50 Webelos were able to observe Saturn and other stars.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Observing Reports",
+        "Outreach Events",
+        "Space Science"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Levy 1993e",
+        "Jupiter collision",
+        "Hubble Space Telescope",
+        "Star party",
+        "Webelos",
+        "Saturn",
+        "Space Telescope Science Institute",
+        "Observational astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-11-houge-park-sept-24",
+      "documentId": "eph93-11",
+      "title": "Houge Park Sept 24",
+      "summary": "This article describes a public star party held at Houge Park on September 24th, attended by many despite some regulars being at Lick Observatory. Participants observed various celestial objects including Saturn, the Moon, M13, M57, and notably Uranus and Neptune, which were a rare treat for public viewing. The sky conditions were decent, and the event was considered a success, lasting until nearly midnight.",
+      "categories": [
+        "Observing Report",
+        "Public Outreach",
+        "Community Event",
+        "Star Party"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Star Party",
+        "Observing",
+        "Saturn",
+        "Moon",
+        "M13",
+        "M57",
+        "Uranus",
+        "Neptune",
+        "C-11",
+        "Astronomy Club",
+        "Public Viewing",
+        "Jim Van Nuland",
+        "Ken Ward"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-introductory-astronomy-class",
+      "documentId": "eph93-11",
+      "title": "Introductory Astronomy Class",
+      "summary": "An introductory astronomy class was held at Houge Park on September 25th at 8 PM, led by Jack Petersen. Several individuals attended, and it's noted that Petersen had previously participated in a Lick Observatory pilgrimage on September 24th, organized by Rick.",
+      "categories": [
+        "Event Report",
+        "Education",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Introductory Astronomy Class",
+        "Houge Park",
+        "Jack Petersen",
+        "Lick Observatory",
+        "Astronomy",
+        "Class",
+        "Event"
+      ],
+      "pageStart": 25,
+      "pageEnd": 25
+    },
+    {
+      "id": "eph93-11-locations-of-sjaa-star-party-sites-a-follow-up",
+      "documentId": "eph93-11",
+      "title": "Locations of SJAA Star Party sites a follow-up",
+      "summary": "This article, a follow-up to initial site selections by Alice and Dan Finley, details corrected and updated locations for SJAA Star Party sites. The author re-checked and rectified inaccuracies for Houge and Henry Coe parks, also adding an 'old' overflow parking area at Coe and including Fremont Peak for completeness. The author notes that these determinations contain potential errors and assumptions, with an indicated accuracy.",
+      "categories": [
+        "Observing sites",
+        "Club updates",
+        "Event logistics"
+      ],
+      "keywords": [
+        "Star Party",
+        "SJAA",
+        "Houge Park",
+        "Henry Coe Park",
+        "Fremont Peak",
+        "Observing locations",
+        "Site accuracy",
+        "Event planning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-sjaa-observing-sites",
+      "documentId": "eph93-11",
+      "title": "SJAA observing sites",
+      "summary": "This document outlines observing sites for the SJAA, providing geographical coordinates and elevations for various locations in California. It also reports on a tour of Lick Observatory, detailing observations through a 36-inch telescope, and discusses a planned expedition to Bolivia for the 1994 total Solar Eclipse. Additionally, the article reviews an astronomy class covering constellations and presents a calendar of SJAA general meetings, star parties, and observational astronomy classes for 1993-1994.",
+      "categories": [
+        "Observing Sites",
+        "Event Reports",
+        "Upcoming Events",
+        "Astronomy Education",
+        "Organizational News",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Observing Sites",
+        "Geographical Coordinates",
+        "Lick Observatory",
+        "Telescope Tour",
+        "Solar Eclipse",
+        "Bolivia Expedition",
+        "Astronomy Class",
+        "Constellations",
+        "Star Parties",
+        "Calendar"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-11-sjaa-loaner-status",
+      "documentId": "eph93-11",
+      "title": "SJAA Loaner Status",
+      "summary": "This article from Paul Barton details the current loaner status of telescopes from the SJAA, listing various instruments, their current users, and due dates, alongside several telescopes currently available for borrowing. It also notes a specialized solar telescope for experienced members, maintains a waiting list for popular models, and provides instructions for members interested in borrowing equipment.",
+      "categories": [
+        "organization update",
+        "equipment",
+        "loaner program",
+        "member services",
+        "resource management"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "astronomy equipment",
+        "equipment availability",
+        "member services",
+        "observing equipment",
+        "solar telescope",
+        "telescope borrowing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-astro-ads",
+      "documentId": "eph93-11",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" serves as a classifieds section for noncommercial advertisers to sell or trade astronomically related products and services. It provides contact information for submitting ads, along with several listings for used telescopes, eyepieces, cameras, and offers for skill-sharing or transportation assistance to dark sky sites. Ads typically run for about three months.",
+      "categories": [
+        "classifieds",
+        "buy/sell/trade",
+        "astronomy equipment",
+        "community services"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Televue Eyepieces",
+        "Criterion Newtonian telescope",
+        "Celestron C-11",
+        "Coulter Optical Odessey 8",
+        "Rich-field telescope",
+        "Edmund Scientific mounts",
+        "Pentax ME Super 35mm camera",
+        "telescope sharing",
+        "mechanical engineering services",
+        "lathe work",
+        "mill work",
+        "welding",
+        "electrical systems",
+        "shareware programming",
+        "dark sky site transportation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph93-11-november-1993",
+      "documentId": "eph93-11",
+      "title": "November 1993",
+      "summary": "This document provides a table detailing the lunar phases for November 1993. It lists the date and time for the Last Quarter, New Moon, First Quarter, and Full Moon, along with corresponding rise and set times where applicable. The information serves as an astronomical guide for the month.",
+      "categories": [
+        "Astronomical Data",
+        "Lunar Phases",
+        "Calendar",
+        "Historical Data"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "November 1993",
+        "Moon",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Astronomical calendar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-nearer-planets",
+      "documentId": "eph93-11",
+      "title": "Nearer Planets",
+      "summary": "This document provides an astronomical guide for observing the 'Nearer Planets' (Mercury, Venus, Mars, Jupiter, Saturn) during November. It lists key data such as their distance from the Sun (AU), apparent magnitude, and specific observation times likely indicating rise, transit, and set for three dates in the month. Additionally, it includes information on the Sun's coordinates, stellar classification, and astronomical twilight times for dawn and dusk.",
+      "categories": [
+        "observing guide",
+        "ephemeris",
+        "astronomical data",
+        "sky phenomena",
+        "planet observations"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "planets",
+        "apparent magnitude",
+        "astronomical unit",
+        "AU",
+        "astronomical twilight",
+        "dawn",
+        "dusk",
+        "right ascension",
+        "declination",
+        "Julian Date",
+        "November",
+        "observation times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-sidereal-time",
+      "documentId": "eph93-11",
+      "title": "Sidereal Time",
+      "summary": "The document provides astronomical timing data, including sidereal time calculations for transit, ascension, and local midnight using PST. It also highlights an upcoming \"Darkest Saturday Night\" on November 13, detailing sunset, twilight end, and moonset/moonrise times for optimal viewing conditions.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Conditions",
+        "Event Information",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Transit",
+        "Ascension",
+        "Local Midnight",
+        "Sunset",
+        "Twilight End",
+        "Moonset",
+        "Moonrise",
+        "Observing",
+        "November 13"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-times-and-dates-are-pacific-daylight",
+      "documentId": "eph93-11",
+      "title": "TIMES AND DATES ARE PACIFIC DAYLIGHT",
+      "summary": "This brief note clarifies that all times and dates referenced are in Pacific Daylight Time, though it also mentions 'Local Civil' for time derivation. It credits \"Astronomy with Your Personal Computer\" by Peter Duffet-Smith and \"MacEphem\" by Elwood Charles Downey as the sources for these calculations.",
+      "categories": [
+        "Technical",
+        "Timekeeping",
+        "Reference Information"
+      ],
+      "keywords": [
+        "Pacific Daylight Time",
+        "PDT",
+        "Local Civil Time",
+        "Astronomical calculation",
+        "Timekeeping",
+        "Reference"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-officers-and-board-of-directors-ephemeris-contributors",
+      "documentId": "eph93-11",
+      "title": "Officers and Board of Directors | Ephemeris Contributors",
+      "summary": "This document lists the current officers and board of directors, including a President, Vice President, Treasurer, Secretary, and several Directors, along with their contact phone numbers. It also provides a list of \"Ephemeris Contributors\" and identifies Bob Madden as the editor, all with contact information.",
+      "categories": [
+        "Organizational",
+        "Directory",
+        "Contact Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Editor",
+        "Personnel",
+        "Leadership",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-comet-comments",
+      "documentId": "eph93-11",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on three comets visible in the sky: Comet Mueller 1993a, Comet Muller 1993p, and Periodic Comet Schwassmann-Wachmann 2 (SW2). SW2 is expected to reach its closest point to the sun on January 23 at 2.07 AU and brighten to approximately magnitude 11 during this visit.",
+      "categories": [
+        "observing reports",
+        "astronomy updates",
+        "comet observations"
+      ],
+      "keywords": [
+        "Comet Mueller 1993a",
+        "Comet Muller 1993p",
+        "Periodic Comet Schwassmann-Wachmann 2",
+        "SW2",
+        "comets",
+        "astronomy",
+        "celestial objects",
+        "magnitude",
+        "AU",
+        "perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-ephemerides",
+      "documentId": "eph93-11",
+      "title": "EPHEMERIDES",
+      "summary": "This document presents ephemerides for three comets: Comet Mueller (1993a), Comet Mueller (1993p), and Periodic Comet Schwassmann-Wachmann 2. It provides observational data including right ascension, declination, elongation, sky position, and magnitude for each comet, covering dates from October 20 to December 14, 1993.",
+      "categories": [
+        "Ephemeris Data",
+        "Cometary Astronomy",
+        "Observational Astronomy",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comets",
+        "Comet Mueller (1993a)",
+        "Comet Mueller (1993p)",
+        "Periodic Comet Schwassmann-Wachmann 2",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-11-ephemeris",
+      "documentId": "eph93-11",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is a monthly publication by the San Jose Astronomical Association, which encourages members to submit articles. Submissions should be typed and sent to the editor, Bob Madden, no later than the 12th of the previous month, with text files on 3-1/2\" IBM or MAC diskettes being preferred.",
+      "categories": [
+        "club information",
+        "publication guidelines",
+        "newsletter",
+        "astronomical association"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "article submission",
+        "publication",
+        "monthly",
+        "members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-11-membership-only-12-membership-s-t-32-junior-under-18-20",
+      "documentId": "eph93-11",
+      "title": "Membership only: $12 Membership / S&T: $32 Junior (under 18): $20",
+      "summary": "This document serves as a membership application form for the San Jose Astronomical Association (SJAA), outlining different membership tiers and their respective costs, including options for 'Membership Only', 'Membership/S&T' (Sky & Telescope), and 'Junior' (under 18). It provides instructions for submission via mail or in-person at meetings, payment details, and contact information for the organization.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organization Information",
+        "Call to Action",
+        "Administrative"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership application",
+        "San Jose Astronomical Association",
+        "dues",
+        "fees",
+        "S&T",
+        "Sky & Telescope",
+        "astronomy club",
+        "contact information",
+        "November 1993"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9311/Eph93_11.pdf",
+      "txtPath": "9311/Eph93_11.md"
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "articles": [
+    {
+      "id": "eph97-09-fourteen-perseids",
+      "documentId": "eph97-09",
+      "title": "FOURTEEN PERSEIDS",
+      "summary": "This article, titled \"FOURTEEN PERSEIDS,\" compiles multiple mini-reports on the Perseid meteor shower, highlighting the varied experiences of different observers. While some like Jack Zalders at Fremont Peak observed significant activity, including fireballs and lingering trains, others like Jay Freeman at Palo Alto Baylands saw very few meteors. The piece emphasizes the fragmented nature of observing events and also includes a calendar of upcoming astronomy events for September and October, such as star parties and classes.",
+      "categories": [
+        "Observing Reports",
+        "Events Calendar",
+        "Meteor Shower"
+      ],
+      "keywords": [
+        "Perseids",
+        "Meteor Shower",
+        "Astronomy Events",
+        "Star Parties",
+        "Fremont Peak",
+        "Palo Alto Baylands",
+        "Observing",
+        "CCD Astronomy",
+        "Astronomy Class"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-the-search-for-the-cosmic-wobble",
+      "documentId": "eph97-09",
+      "title": "THE SEARCH FOR THE COSMIC WOBBLE",
+      "summary": "Journalist Jon Carroll recounts his private tour of Lick Observatory with astronomer Geoff Marcy, expressing his long-held fascination with observatories. The article describes their afternoon chat and a visit to the historic 108-year-old telescope, with the broader topic hinted at by the title, \"THE SEARCH FOR THE COSMIC WOBBLE.\"",
+      "categories": [
+        "Observing Report",
+        "Personal Experience",
+        "Astronomy News",
+        "Feature"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "Geoff Marcy",
+        "Mount Hamilton",
+        "Telescopes",
+        "Astronomy",
+        "Cosmic Wobble",
+        "Jon Carroll",
+        "Observatories"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-09-perseids-from-p-1",
+      "documentId": "eph97-09",
+      "title": "Perseids, from p. 1",
+      "summary": "This article compiles diverse personal accounts of observing the Perseid meteor shower, primarily in August 1997. Observers reported a wide range of experiences, from successful sightings of dozens or hundreds of meteors in dark locations, sometimes including bright fireballs and 'mini-storms,' to complete disappointment due to clouds, light pollution, or poor timing. The collection highlights both the thrill of astronomical observation and the challenges posed by weather and urban environments.",
+      "categories": [
+        "Observing Reports",
+        "Meteor Showers",
+        "Amateur Astronomy",
+        "Personal Accounts"
+      ],
+      "keywords": [
+        "Perseids",
+        "Meteor shower",
+        "Meteors",
+        "Observing",
+        "Fireballs",
+        "Clouds",
+        "Light pollution",
+        "Dark skies",
+        "Astronomy",
+        "August 1997"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-09-cosmic-wobble-from-p-1",
+      "documentId": "eph97-09",
+      "title": "Cosmic Wobble, from p. 1",
+      "summary": "The article recounts a visit to the Lick telescope, offering a glimpse into the life of the observatory community and the 'romance of science.' The author details an encounter with astronomers Geoff Marcy and Paul Butler, highlighting their groundbreaking discovery of exoplanets by observing the gravitational 'wobble' of stars, a feat that transformed our understanding of planetary systems beyond our own sun. It emphasizes the perseverance required for scientific discovery despite initial skepticism.",
+      "categories": [
+        "Astronomy",
+        "Scientific Discovery",
+        "Exoplanets",
+        "Observing Reports",
+        "Science Communication",
+        "Personal Narrative"
+      ],
+      "keywords": [
+        "Exoplanets",
+        "Geoff Marcy",
+        "Paul Butler",
+        "Lick Telescope",
+        "Star Wobble",
+        "Gravitational Attraction",
+        "Observatories",
+        "Astronomy History"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph97-09-bill-arnett",
+      "documentId": "eph97-09",
+      "title": "Bill Arnett",
+      "summary": "SJAA members attempted to observe an Aldebaran graze near Gilroy but missed the event due to clouds and the low position of the Moon and Aldebaran above the eastern horizon. Although they missed the main event by ten minutes, they still enjoyed viewing Jupiter and considered it a nice night under the stars.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Astronomical Events"
+      ],
+      "keywords": [
+        "Aldebaran graze",
+        "Lunar occultation",
+        "Jupiter",
+        "Observing",
+        "SJAA",
+        "Clouds",
+        "Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph97-09-rich-neuschaefer",
+      "documentId": "eph97-09",
+      "title": "Rich Neuschaefer",
+      "summary": "Rich Neuschaefer discusses the ideal size for a single refractor telescope, weighing the merits of four-inch, five-inch, and six-inch models based on portability, lunar/planetary detail, and deep-sky performance. He also explores the significant differences between achromatic and apochromatic refractors, focusing on false color, contrast, and cost considerations to guide amateur astronomers in their equipment choices.",
+      "categories": [
+        "Telescope Guide",
+        "Equipment Analysis",
+        "Observing Advice",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Refractor telescope",
+        "Apochromatic",
+        "Achromatic",
+        "Telescope size",
+        "Portability",
+        "Lunar viewing",
+        "Planetary viewing",
+        "Deep-sky objects",
+        "False color",
+        "Contrast",
+        "Optical quality"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-george-zay",
+      "documentId": "eph97-09",
+      "title": "George Zay",
+      "summary": "The article describes the Alpha Aurigids meteor shower, which becomes active after the Perseids. While generally low in rates, it features a sharp peak on the morning of September 1st, where observers in dark skies may see up to 50 bright meteors with long-lasting trains, radiating from Auriga. The shower is potentially linked to particles from Comet Kiess.",
+      "categories": [
+        "observing reports",
+        "meteor showers",
+        "astronomy",
+        "events"
+      ],
+      "keywords": [
+        "Alpha Aurigids",
+        "meteor shower",
+        "September 1",
+        "Auriga",
+        "Comet Kiess",
+        "Perseids",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-astro-ads",
+      "documentId": "eph97-09",
+      "title": "ASTRO ADS",
+      "summary": "This section, titled 'ASTRO ADS,' serves as a classifieds board for astronomically related products. It lists used equipment for sale, such as an encoder package, an Edmund Astroscan, and a refractor. The document also provides guidelines for submitting free noncommercial ads, including contact information for the editor and details on ad duration.",
+      "categories": [
+        "classifieds",
+        "astronomy equipment",
+        "sales",
+        "community announcements"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "encoder",
+        "G-11 mount",
+        "Edmund Astroscan",
+        "refractor",
+        "telescope",
+        "astronomy equipment",
+        "used equipment",
+        "classifieds",
+        "noncommercial advertisers",
+        "ad submission"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph97-09-don-machholz",
+      "documentId": "eph97-09",
+      "title": "Don Machholz",
+      "summary": "This article provides an update on several comets, highlighting the recent discovery of Comet Tilbrook and detailed viewing predictions for Comet Hale-Bopp for Northern Hemisphere observers, noting its changing position and optimal viewing times. It also briefly mentions the potential fading of Comet Tabur, new SOHO satellite discoveries, and statistics on the extensive efforts involved in comet hunting by other astronomers.",
+      "categories": [
+        "Astronomical News",
+        "Comet Discoveries",
+        "Observing Guides",
+        "Observing Reports",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet Tilbrook",
+        "Comet Hale-Bopp",
+        "Comet Tabur",
+        "SOHO satellite",
+        "Kreutz Sungrazing Group",
+        "Comet hunting",
+        "Comet observation",
+        "Visibility predictions",
+        "Amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-orbital-elements",
+      "documentId": "eph97-09",
+      "title": "Orbital Elements",
+      "summary": "The article presents a detailed table of orbital elements for three celestial objects: Hale-Bopp, Tabur, and Tilbrook. It provides key astronomical data such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period for each object. The data also includes reference sources, epoch dates, and absolute magnitudes.",
+      "categories": [
+        "Technical",
+        "Astrodynamics",
+        "Astronomical Data",
+        "Cometary Data"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Hale-Bopp",
+        "Tabur",
+        "Tilbrook",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Astrodynamics",
+        "Comets",
+        "Astronomical Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-ephemerides-for-0h-ut",
+      "documentId": "eph97-09",
+      "title": "Ephemerides (for 0h UT)",
+      "summary": "This document provides detailed ephemerides for three comets: C/1995 O1 (Hale-Bopp), C/1997 N1 (Tabur), and C/1997 O1 (Tilbrook). For dates between August and October, each table lists the comet's celestial coordinates (Right Ascension and Declination), elevation, observed sky conditions (Morning or Evening), and apparent magnitude at 0h UT, serving as a guide for observers.",
+      "categories": [
+        "Ephemerides",
+        "Astronomical Data",
+        "Comet Tracking",
+        "Observational Aids"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Hale-Bopp",
+        "C/1995 O1",
+        "Comet Tabur",
+        "C/1997 N1",
+        "Comet Tilbrook",
+        "C/1997 O1",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Celestial Coordinates",
+        "Astronomy",
+        "Observing",
+        "UT"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph97-09-lunar-phases",
+      "documentId": "eph97-09",
+      "title": "Lunar Phases",
+      "summary": "This document provides a tabular overview of lunar phases, including New Moon (N/M), First Quarter (FQ), Full Moon (FM), and Last Quarter (LQ) for a given month. For each phase, it lists the precise time and date, along with the moonrise and moonset/sunset times. The data serves as a quick reference for celestial events related to the Moon's cycle.",
+      "categories": [
+        "astronomy",
+        "observing guide",
+        "celestial events",
+        "ephemeris",
+        "lunar calendar"
+      ],
+      "keywords": [
+        "lunar phases",
+        "moon",
+        "new moon",
+        "first quarter",
+        "full moon",
+        "last quarter",
+        "moonrise",
+        "moonset",
+        "astronomical data",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-mercury",
+      "documentId": "eph97-09",
+      "title": "Mercury",
+      "summary": "This document provides observational data for the planet Mercury, including its distance from the Sun (0.95 A.U.) and apparent magnitude (-2.3). It features a table detailing its rise, transit, and set times, as well as its right ascension and declination for three dates within a given month. This information is essential for astronomers and observers looking to locate and track Mercury.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Ephemeris Data"
+      ],
+      "keywords": [
+        "Mercury",
+        "Observing data",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Transit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-venus",
+      "documentId": "eph97-09",
+      "title": "Venus",
+      "summary": "This document provides current ephemeris data for Venus, including its distance from the Sun (A.U.) and apparent magnitude. It lists specific rise, transit, and set times, along with Right Ascension and Declination coordinates for three different dates, aiding in locating the planet in the sky.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Planetary Information",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Venus",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Rise Time",
+        "Set Time",
+        "Transit Time",
+        "Planetary Observation",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-mars",
+      "documentId": "eph97-09",
+      "title": "Mars",
+      "summary": "This document provides an ephemeris for the planet Mars, detailing its astronomical data over a period. It includes Mars's distance in A.U., visual magnitude, and a table of rise, transit, and set times, along with its Right Ascension and Declination for three specific dates.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Planetary Astronomy",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Mars",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Planetary Position"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-jupiter",
+      "documentId": "eph97-09",
+      "title": "Jupiter",
+      "summary": "This document provides astronomical ephemeris data for Jupiter for three dates within a month, including its rise, transit, and set times, along with its Right Ascension (R.A.) and Declination (Dec.). It also lists Jupiter's approximate distance at 4.25 Astronomical Units (A.U.) and its visual magnitude at -2.7.",
+      "categories": [
+        "observing reports",
+        "ephemeris",
+        "astronomical data",
+        "celestial body information"
+      ],
+      "keywords": [
+        "Jupiter",
+        "ephemeris",
+        "rise time",
+        "transit time",
+        "set time",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "astronomical unit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-saturn",
+      "documentId": "eph97-09",
+      "title": "Saturn",
+      "summary": "This document provides astronomical data for Saturn, detailing its magnitude, distance, and ephemeris including rise, transit, and set times, along with its right ascension and declination for specific dates. It also includes similar data for a celestial body or reference point labeled \"SOL Star Type GZV,\" indicating its ephemeris and 'Hours of Darkness' over a period.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observational Information",
+        "Planetary Data"
+      ],
+      "keywords": [
+        "Saturn",
+        "Astronomical data",
+        "Ephemeris",
+        "Magnitude",
+        "Distance",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Right Ascension",
+        "Declination",
+        "SOL Star",
+        "Hours of Darkness"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-astronomical-twilight",
+      "documentId": "eph97-09",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a table detailing the start and end times of astronomical twilight for three specific Julian Dates: September 7, 17, and 27, 1997. The data illustrates the daily variation in astronomical twilight duration across these dates.",
+      "categories": [
+        "Astronomical Data",
+        "Timekeeping",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Twilight times",
+        "Julian Date",
+        "Observing conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-siderealtime",
+      "documentId": "eph97-09",
+      "title": "Siderealtime",
+      "summary": "The article 'Siderealtime' presents a table showing the 'Transit Right Ascension at Local Midnight' for three different dates (07, 17, 27). For each date, it indicates the local time corresponding to 00:00 sidereal time. This data is relevant for understanding or utilizing sidereal time in astronomical contexts.",
+      "categories": [
+        "Astronomy",
+        "Technical Data",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Sidereal time",
+        "Right Ascension",
+        "Local Midnight",
+        "Transit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-darkest-saturday-night",
+      "documentId": "eph97-09",
+      "title": "Darkest Saturday Night",
+      "summary": "This brief entry, titled \"Darkest Saturday Night\" for a placeholder date of \"00-Sept-97\", lists key astronomical times such as sunset, twilight end, moonset, and dawn begin. Despite the use of placeholder data, it appears to be a schedule or planning note for an astronomical observing session prioritizing optimal darkness.",
+      "categories": [
+        "Observing Planning",
+        "Astronomical Schedule",
+        "Events"
+      ],
+      "keywords": [
+        "Dark night",
+        "Astronomical observing",
+        "Moonset",
+        "Twilight",
+        "Schedule",
+        "September 1997"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-activities-through-other-clubs",
+      "documentId": "eph97-09",
+      "title": "ACTIVITIES THROUGH OTHER CLUBS",
+      "summary": "TAC has successfully reserved the Montebello site for use every Wednesday indefinitely, providing a consistent and accessible location for astronomy enthusiasts. This ongoing arrangement allows individuals to plan ahead and enjoy company at the nearby site, a unique offering in the astronomical community.",
+      "categories": [
+        "Club Activities",
+        "Observing Site",
+        "News",
+        "Events"
+      ],
+      "keywords": [
+        "Montebello site",
+        "TAC",
+        "Wednesday",
+        "Astronomy",
+        "Observing",
+        "Club activities",
+        "Stargazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-september",
+      "documentId": "eph97-09",
+      "title": "September",
+      "summary": "This document outlines a series of astronomical events scheduled for September, including a General Meeting with an equipment night, multiple public observing sessions at different locations like Van Meter School and Grant Ranch, and a dedicated lunar observing session. These appear to be activities organized by amateur astronomy clubs like PAS, TAC, and FPOA.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Club Meetings",
+        "Public Outreach",
+        "Observing Sessions"
+      ],
+      "keywords": [
+        "September",
+        "PAS General Meeting",
+        "Equipment Night",
+        "TAC",
+        "Van Meter School",
+        "Public Night",
+        "Lunar Observing",
+        "Henry Coe",
+        "Grant Ranch",
+        "FPOA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-october",
+      "documentId": "eph97-09",
+      "title": "October",
+      "summary": "This document outlines two upcoming astronomical events for October: a public night on the 10th at TAC Van Meter School and lunar observing on the 11th at FP or Henry Coe. It also provides contact details for SJAA news and information, including a hotline, website, and instructions for subscribing to their mailing list.",
+      "categories": [
+        "Events",
+        "Observing",
+        "Club Information"
+      ],
+      "keywords": [
+        "October events",
+        "Public night",
+        "Lunar observing",
+        "TAC Van Meter School",
+        "Henry Coe",
+        "SJAA",
+        "Astronomy club",
+        "Mailing list"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-directions-to-sjaa-places",
+      "documentId": "eph97-09",
+      "title": "DIRECTIONS TO SJAA PLACES",
+      "summary": "This document provides detailed driving directions to three key locations used by the San Jose Astronomical Association (SJAA): Houge Park in San Jose, Henry Coe State Park near Morgan Hill, and Fremont Peak State Park south of San Juan Bautista. It outlines routes from major highways like Hwy 17, Hwy 85, and Hwy 101, and mentions any associated entrance fees for the state parks.",
+      "categories": [
+        "directions",
+        "locations",
+        "astronomy club resources",
+        "observing sites"
+      ],
+      "keywords": [
+        "SJAA",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "driving directions",
+        "San Jose",
+        "Morgan Hill",
+        "San Juan Bautista",
+        "observing locations",
+        "park fees"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph97-09-officers-and-board-of-directors",
+      "documentId": "eph97-09",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current Officers and Board of Directors for an organization. It provides the names and associated phone numbers for key leadership roles including President, Vice President, Secretary, Treasurer, and several Directors.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Contact Information",
+        "Leadership"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact Information",
+        "Organization Management",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-ephemeris-staff",
+      "documentId": "eph97-09",
+      "title": "Ephemeris Staff",
+      "summary": "This document lists the staff members for the \"Ephemeris\" publication, detailing their roles and contact information. It includes the Editor, Circulation contacts, and Layout designer along with their respective phone numbers.",
+      "categories": [
+        "Publication Details",
+        "Staff Directory",
+        "Organizational Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Staff",
+        "Editor",
+        "Circulation",
+        "Layout",
+        "Contact Information",
+        "Publication Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-telescope-loaner-program-status",
+      "documentId": "eph97-09",
+      "title": "Telescope Loaner Program Status",
+      "summary": "This document provides a status update for a telescope loaner program, detailing various telescopes, their current borrowers, and due dates. It indicates which telescopes are available for loan to any SJAA member. Contact information for reservations is also provided.",
+      "categories": [
+        "Program Status",
+        "Equipment Management",
+        "Membership Resources",
+        "Announcement"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Telescope",
+        "Loan",
+        "Availability",
+        "Equipment",
+        "SJAA",
+        "Borrower",
+        "Due Date",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-09-submit",
+      "documentId": "eph97-09",
+      "title": "Submit",
+      "summary": "Members of the San Jose Astronomical Association (SJAA) are encouraged to submit articles for publication in their monthly newsletter, the *SJAA Ephemeris*. Submissions, including name and phone number, should be emailed to Dave North by the tenth of the month to appear in the following issue.",
+      "categories": [
+        "Club News",
+        "Newsletter Information",
+        "Call for Submissions",
+        "Communication Guidelines"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "article submission",
+        "newsletter publication",
+        "member contributions",
+        "submission deadline",
+        "club communication"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph97-09-san-jose-astronomical-association-membership-form",
+      "documentId": "eph97-09",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is the San Jose Astronomical Association (SJAA) membership form, detailing standard and junior membership fees, and an optional Sky & Telescope subscription. It provides instructions for submitting the form and payment, either by mail to the treasurer or in person at an SJAA meeting, along with necessary contact information and the association's address.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Non-profit organization",
+        "Astronomy club information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership form",
+        "Membership fees",
+        "Junior membership",
+        "Sky & Telescope",
+        "Subscription",
+        "Payment",
+        "Treasurer",
+        "Contact information",
+        "Astronomy club",
+        "San Jose, CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph97-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9709/Eph97_09.pdf",
+      "txtPath": "9709/Eph97_09.md"
+    }
+  ]
+}

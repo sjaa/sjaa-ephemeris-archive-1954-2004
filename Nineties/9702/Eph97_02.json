@@ -1,0 +1,564 @@
+{
+  "articles": [
+    {
+      "id": "eph97-02-wind-and-nebula",
+      "documentId": "eph97-02",
+      "title": "Wind and Nebula",
+      "summary": "The author attended a star party at Fremont Peak despite initial overcast weather, where they field-tested a new Dobsonian mount and fixed a minor car issue. Observing conditions were challenging due to strong, gusty winds making planetary and galaxy viewing difficult, compounded by light pollution from nearby radio towers.",
+      "categories": [
+        "observing report",
+        "personal experience",
+        "equipment testing"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "star party",
+        "Dobsonian mount",
+        "telescope",
+        "astronomy",
+        "observing conditions",
+        "wind",
+        "light pollution",
+        "galaxies",
+        "NGC 7331",
+        "NGC 891"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph97-02-activities-calendar",
+      "documentId": "eph97-02",
+      "title": "Activities Calendar",
+      "summary": "This document outlines the activities calendar for February and March, primarily featuring multiple star parties held at Fremont Peak, Henry Coe, and Houge Park. It also schedules Observational Astronomy classes and general club meetings, with details on board elections and moon phases provided for many events. A hotline number is included for news and information.",
+      "categories": [
+        "Events",
+        "Observing Events",
+        "Educational",
+        "Club Meetings",
+        "Calendar"
+      ],
+      "keywords": [
+        "Star party",
+        "Fremont Peak",
+        "Henry Coe",
+        "Houge Park",
+        "Observational Astronomy class",
+        "General meeting",
+        "Board Elections",
+        "Astronomy",
+        "Moon phase",
+        "Sunset",
+        "February",
+        "March"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-fremont-peak-again",
+      "documentId": "eph97-02",
+      "title": "Fremont Peak Again",
+      "summary": "Jay Freeman recounts an observing session at Fremont Peak State Park on December 7-8, 1996, where he successfully visually detected the challenging supernova remnant S147 in Taurus. Despite difficult conditions and strong winds, he managed to observe parts of its filamentary web using a six-inch Intes Maksutov telescope and an Orion UltraBlock filter, an object he rates as tougher than some dwarf galaxies.",
+      "categories": [
+        "Observing Report",
+        "Deep-sky Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Supernova Remnant S147",
+        "Taurus",
+        "Visual Observation",
+        "Deep-sky Objects",
+        "Intes Maksutov",
+        "Orion UltraBlock filter",
+        "Amateur Astronomy",
+        "Jay Freeman",
+        "Winter Milky Way"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-02-wan-continued-from-page-1",
+      "documentId": "eph97-02",
+      "title": "WaN, continued from page 1",
+      "summary": "The article describes an astronomy observing session, initially hampered by wind and light pollution, that improved after moving to a more sheltered site. Observers successfully viewed various nebulae, including NGC 2024 (the 'tank tracks'), the Merope nebula in the Pleiades, and the Rosette nebula, often noting the effectiveness of UHC filters and smaller rich-field telescopes. The session also featured an intriguing optical phenomenon where a bright foreground star appeared to move differently from a background cluster when the telescope was jiggled, before concluding due to encroaching clouds.",
+      "categories": [
+        "observing reports",
+        "astronomy",
+        "equipment & techniques",
+        "personal experience",
+        "nebulae",
+        "star clusters"
+      ],
+      "keywords": [
+        "observing session",
+        "WaN",
+        "UHC filter",
+        "nebulae",
+        "Pleiades",
+        "Rosette nebula",
+        "NGC 2024",
+        "Thor's Helmet",
+        "rich-field telescope",
+        "optical illusion",
+        "astronomical equipment",
+        "observing conditions",
+        "persistence of vision"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph97-02-eye-on-everything",
+      "documentId": "eph97-02",
+      "title": "Eye on Everything",
+      "summary": "Lew Kurtz announces his departure as editor of the SJAA Ephemeris due to new job and night class commitments. He reflects positively on his 16 months in the role, expressing gratitude to numerous individuals who contributed articles, suggestions, and encouragement.",
+      "categories": [
+        "Editorial",
+        "Organizational News",
+        "Publication Update"
+      ],
+      "keywords": [
+        "Lew Kurtz",
+        "Editor",
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "Farewell",
+        "Newsletter",
+        "Acknowledgement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-do-we-really-need-more-prisons-or-welcome-to-fremont-peak-light-pollution-city",
+      "documentId": "eph97-02",
+      "title": "Do We Really Need More Prisons? (or, Welcome to Fremont Peak: \"Light Pollution City!\")",
+      "summary": "This article highlights the significant increase in light pollution at Fremont Peak due to the expansion and upgraded lighting of the Soledad prison complex. The author, Robert S. Hoyle, describes how the intensely bright sky glow, visible 22 miles away, has severely impacted astrophotography and the ability to observe faint objects, effectively crippling the southern sky, which was previously a dark and spectacular viewing area. The piece expresses dismay over the loss of a prime dark sky location.",
+      "categories": [
+        "Light Pollution",
+        "Observing Report",
+        "Astronomy Impact",
+        "Environmental Concern"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Light Pollution",
+        "Soledad prison",
+        "Astrophotography",
+        "Sky glow",
+        "Dark sky",
+        "Milky Way",
+        "Observing conditions",
+        "Effective aperture"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-02-fpa-continued-from-page-1",
+      "documentId": "eph97-02",
+      "title": "FPA, continued from page 1",
+      "summary": "The article recounts a series of astronomical observations, primarily focusing on nebulae and star clusters like the Horsehead, Rosette, and Thor's Helmet, made with various telescopes and filters. The author details visual impressions, compares views with and without filters, and offers evaluations of different equipment, notably criticizing the performance of the Tele Vue Gibraltar mount. The observations span different apertures, highlighting the nuances of deep-sky viewing.",
+      "categories": [
+        "Observing Reports",
+        "Deep-sky Astronomy",
+        "Equipment Reviews",
+        "Telescope Filters",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astronomical Observations",
+        "Deep-sky Objects",
+        "Nebulae",
+        "Star Clusters",
+        "Telescope Filters",
+        "Equipment Review",
+        "UltraBlock Filter",
+        "Lumicon UHC",
+        "Tele Vue Gibraltar Mount",
+        "Horsehead Nebula",
+        "Rosette Nebula",
+        "Cone Nebula",
+        "Thor's Helmet",
+        "Takahashi Telescope",
+        "Aperture",
+        "Magnification"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph97-02-lpc-continued-from-page-2",
+      "documentId": "eph97-02",
+      "title": "LPC, continued from page 2",
+      "summary": "The article expresses concern over the escalating problem of light pollution, specifically lamenting the loss of dark skies at Fremont Peak which hinders astronomical observation of numerous celestial objects and forces astronomers to abandon convenient facilities. It argues against passively accepting light pollution as an unavoidable consequence of progress, urging a proactive stance to preserve the diminishing number of accessible dark-sky sites. The International Dark-Sky Association (IDA) is highlighted as an effective model for mitigating light pollution through common-sense lighting practices, suggesting its approach could resolve local issues like the lighting at Soledad Prison.",
+      "categories": [
+        "Light Pollution",
+        "Astronomy",
+        "Advocacy",
+        "Conservation",
+        "Opinion"
+      ],
+      "keywords": [
+        "Light pollution",
+        "Fremont Peak",
+        "Dark skies",
+        "International Dark-Sky Association (IDA)",
+        "Soledad Prison",
+        "Astronomy",
+        "Celestial objects",
+        "Observing sites",
+        "Sky glow",
+        "Lighting fixtures",
+        "M8",
+        "M16",
+        "M17",
+        "M20",
+        "M24",
+        "Omega Centauri",
+        "M83",
+        "NGC253",
+        "Centaurus A",
+        "Helix Nebula"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph97-02-lpc-continued-from-page-3",
+      "documentId": "eph97-02",
+      "title": "LPC, continued from page 3",
+      "summary": "This article highlights the increasing threat of light pollution from new developments like prisons and theme parks, advocating for the preservation of dark skies as an environmental issue. It urges astronomers and citizens to actively support the International Dark-Sky Association (IDA), engage in advocacy, and report potential light pollution problems. The document also includes information on volunteering for school star parties and a comprehensive calendar of local astronomy club events.",
+      "categories": [
+        "Light Pollution Advocacy",
+        "Environmental Issues",
+        "Astronomy Club Activities",
+        "Community Outreach",
+        "Volunteer Opportunities",
+        "Event Calendar"
+      ],
+      "keywords": [
+        "Light Pollution",
+        "Dark Skies",
+        "International Dark-Sky Association (IDA)",
+        "Soledad Prison",
+        "Garlic World",
+        "Fremont Peak",
+        "Comet Hale-Bopp",
+        "Star Parties",
+        "Astronomy Club",
+        "Environmental Advocacy",
+        "Energy-efficient lighting"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph97-02-other-dates-and-events",
+      "documentId": "eph97-02",
+      "title": "OTHER dates and events --",
+      "summary": "This document outlines various upcoming dates and events, including a partial lunar eclipse, Daylight Savings Time changes, and organizational meetings. It also lists significant astronomy events like TSP, RTMC, and Astronomy Day, along with details for general meetings, astronomy classes, and star parties.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Events",
+        "Organizational Announcements",
+        "Scheduling"
+      ],
+      "keywords": [
+        "Lunar Eclipse",
+        "Daylight Savings Time",
+        "Easter",
+        "Astronomy Day",
+        "TSP",
+        "RTMC",
+        "General Meetings",
+        "Astronomy Class",
+        "Star Parties",
+        "Auction",
+        "HOUGE Public Star Parties",
+        "COE"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-directions-to-sjaa-places",
+      "documentId": "eph97-02",
+      "title": "Directions to SJAA places",
+      "summary": "This document, from the SJAA Ephemeris of February 1997, provides detailed driving directions to several astronomical observing locations in the greater San Jose area. It includes instructions for reaching Houge Park, Henry Coe State Park, Fremont Peak State Park, and Grant Ranch County Park, with notes on travel time and fees where applicable.",
+      "categories": [
+        "Directions",
+        "Observing Sites",
+        "Astronomical Clubs",
+        "Archival Document",
+        "Local Guide"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Directions",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "Grant Ranch County Park",
+        "San Jose",
+        "Star Parties",
+        "Observing Locations",
+        "Lick Observatory",
+        "Mt. Hamilton",
+        "Ephemeris",
+        "February 1997"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph97-02-don-machholz",
+      "documentId": "eph97-02",
+      "title": "Don Machholz",
+      "summary": "This article discusses the excellent visibility of Comet Hale-Bopp, encouraging early risers to observe it as a naked-eye object in the morning sky. It recommends planning public star parties from February through early May, highlighting specific dates like a partial lunar eclipse on March 23 and Astronomy Day on April 12 as prime viewing opportunities.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Comets",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Comet Hale-Bopp",
+        "Comet observation",
+        "Star parties",
+        "Naked-eye object",
+        "Lunar eclipse",
+        "Astronomy Day",
+        "February",
+        "March",
+        "April",
+        "May"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-ephemerides-epoch-2000-0h-utc",
+      "documentId": "eph97-02",
+      "title": "Ephemerides - Epoch 2000, 0h UTC",
+      "summary": "This document presents ephemerides for three comets: C/1995 O1 (Hale-Bopp), 46P/Wirtanen, and 81P/Wild 2. It lists their Right Ascension, Declination, Elongation, and estimated Sky Magnitude for various dates in early 2000, all referenced to Epoch 2000, 0h UTC. This information serves as a technical guide for locating and observing these celestial objects.",
+      "categories": [
+        "Astronomical Data",
+        "Comets",
+        "Ephemerides",
+        "Observational Astronomy",
+        "Technical Reference"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Hale-Bopp",
+        "Comet Wirtanen",
+        "Comet Wild 2",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Epoch 2000",
+        "Astronomical Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-orbital-elements-equinox-2000-0",
+      "documentId": "eph97-02",
+      "title": "Orbital Elements - Equinox 2000.0",
+      "summary": "This document provides a table of orbital elements for three comets: Hale-Bopp, P/Wirtanen, and P/Wild 2, all referenced to Equinox 2000.0. It details parameters such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period for each object. The data is essential for astronomical tracking and understanding the trajectories of these celestial bodies.",
+      "categories": [
+        "Astronomical Data",
+        "Comets",
+        "Orbital Mechanics",
+        "Reference Data"
+      ],
+      "keywords": [
+        "Orbital elements",
+        "Equinox 2000.0",
+        "Hale-Bopp",
+        "P/Wirtanen",
+        "P/Wild 2",
+        "Comets",
+        "Perihelion",
+        "Eccentricity",
+        "Inclination",
+        "Orbital period",
+        "Astronomical data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-richard-stanton",
+      "documentId": "eph97-02",
+      "title": "Richard Stanton",
+      "summary": "This document, titled 'Richard Stanton' and identified as the 'SJAA EPHEMERIS February 1997', provides detailed astronomical data for the month. It includes lunar phases, rise, transit, and set times for the Moon and five major planets (Mercury, Venus, Mars, Jupiter, Saturn), along with their distances and magnitudes. Additionally, it lists astronomical twilight times, sidereal time, and highlights the 'darkest Saturday night' in February.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Rise times",
+        "Transit times",
+        "Set times",
+        "Magnitude",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "February 1997"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph97-02-astro-ads",
+      "documentId": "eph97-02",
+      "title": "Astro Ads",
+      "summary": "This document features several free classified advertisements for astronomical equipment, such as binoculars, spotting scopes, telescope mirrors, and refractors. It also includes instructions for non-commercial advertisers to submit their ads and for members to submit articles for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Community Information",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "Astronomy equipment",
+        "classified ads",
+        "telescopes",
+        "binoculars",
+        "spotting scopes",
+        "refractors",
+        "telescope mirrors",
+        "Celestron",
+        "Takahashi",
+        "SJAA Ephemeris",
+        "newsletter submissions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-telescope-loaner-program-status",
+      "documentId": "eph97-02",
+      "title": "Telescope Loaner Program Status",
+      "summary": "This document provides an update on the Telescope Loaner Program, detailing the current status of various telescopes including those available for borrowing, those currently on loan with due dates, and those with specific conditions or notes. It lists several telescope types, borrower names, and indicates some items are available, while others have extended due dates or special requirements. The article also includes a waiting list entry and contact information for San Jose Astronomical Association (SJAA) members to inquire about borrowing telescopes.",
+      "categories": [
+        "Program Status",
+        "Equipment Management",
+        "Member Resources",
+        "Club Operations"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Telescope Availability",
+        "Astronomy Equipment",
+        "SJAA",
+        "Telescope Borrowing",
+        "Loan Status",
+        "Club Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-officers-and-board-of-directors",
+      "documentId": "eph97-02",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors, including their names and contact phone numbers. It also details individuals holding specific roles such as Editor, Mentoring Program Chairman, and Observational Astronomy Teacher, providing a directory of key personnel for the organization.",
+      "categories": [
+        "Organizational Directory",
+        "Administration",
+        "Personnel Listing",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Leadership",
+        "Contact information",
+        "Editor",
+        "Mentoring Program",
+        "Observational Astronomy",
+        "Roles"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-02-observatory-committee",
+      "documentId": "eph97-02",
+      "title": "Observatory Committee",
+      "summary": "This document lists contact information for the Observatory Committee, the School Star Party Chairman, and the Telescope Loaner Program. It appears to be an excerpt from the 'SJAA Ephemeris' dated February 1997, providing a directory for key personnel and programs within an astronomical organization.",
+      "categories": [
+        "Organizational Directory",
+        "Contact Information",
+        "Community Outreach",
+        "Historical Document",
+        "Publication Excerpt"
+      ],
+      "keywords": [
+        "Observatory Committee",
+        "School Star Party",
+        "Telescope Loaner Program",
+        "SJAA Ephemeris",
+        "Contact List",
+        "Astronomy Programs",
+        "February 1997"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph97-02-san-jose-astronomical-association-membership-form",
+      "documentId": "eph97-02",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing membership types (standard, junior) and their respective fees, along with an option to add a Sky & Telescope magazine subscription. It provides instructions for payment via check and submission either in person at a meeting or by mail to the Treasurer, including all necessary contact information for the association.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Organizational",
+        "Fees and Subscriptions",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Renewal",
+        "Junior Membership",
+        "Sky and Telescope",
+        "Subscription",
+        "Fees",
+        "Treasurer",
+        "Contact Information",
+        "Non-profit"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph97-02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9702/Eph97_02.pdf",
+      "txtPath": "9702/Eph97_02.md"
+    }
+  ]
+}

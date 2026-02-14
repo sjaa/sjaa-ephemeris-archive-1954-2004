@@ -1,0 +1,750 @@
+{
+  "articles": [
+    {
+      "id": "eph99-04-sjaa-activities-calendar",
+      "documentId": "eph99-04",
+      "title": "SJAA Activities Calendar",
+      "summary": "The SJAA Activities Calendar details scheduled events for April and May, including several observational astronomy classes focusing on equipment and usage, and numerous star parties at various locations like Houge Park, Peak, and Coe. It also lists a general meeting with a swap/auction and notes the Texas Star Party event.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Education",
+        "Club Activities",
+        "Star Parties",
+        "Observing Opportunities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Activities Calendar",
+        "Observational Astronomy class",
+        "Houge Park",
+        "Star party",
+        "Peak",
+        "Coe",
+        "General Meeting",
+        "Swap/Auction",
+        "Texas Star Party",
+        "Telescopes",
+        "Amateur astronomy",
+        "April events",
+        "May events"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph99-04-planetary-conjunction-by-day-paul-and-david-s-excellent-adventure",
+      "documentId": "eph99-04",
+      "title": "Planetary Conjunction by Day: Paul and David's Excellent Adventure",
+      "summary": "Paul and David recount their successful daytime observation of a Venus and Jupiter conjunction for middle school students. David, with some initial navigational challenges, managed to locate both planets, noting Venus's brightness compared to a dimmer Jupiter. They also utilized the opportunity to observe the Sun, discovering that a skyglow filter significantly enhanced the visibility of solar surface features.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Education",
+        "Amateur Astronomy",
+        "Solar Observing"
+      ],
+      "keywords": [
+        "Planetary Conjunction",
+        "Daytime Observing",
+        "Venus",
+        "Jupiter",
+        "Sun",
+        "Solar Filter",
+        "Syglow Filter",
+        "Astronomy Outreach",
+        "Middle School",
+        "Telescope",
+        "Dartmouth Middle School"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph99-04-sjaa-activities-calendar",
+      "documentId": "eph99-04",
+      "title": "SJAA Activities Calendar",
+      "summary": "The SJAA Activities Calendar outlines several upcoming astronomy-related events, including a star party at Houge Park and an Astronomy Day event at The Tech Museum, both on the 21st. It also lists a general meeting with Chris Cody from Bad Astronomy on the 22nd, and the multi-day Riverside Telescope Makers Conference from the 28th to the 31st.",
+      "categories": [
+        "Events",
+        "Community Activities",
+        "Observing",
+        "Meetings",
+        "Conferences"
+      ],
+      "keywords": [
+        "SJAA",
+        "Activities Calendar",
+        "Star Party",
+        "Astronomy Day",
+        "The Tech Museum",
+        "Houge Park",
+        "General Meeting",
+        "Chris Cody",
+        "Bad Astronomy",
+        "Riverside Telescope Makers Conference",
+        "Observing"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph99-04-about-henry-coe-star-parties",
+      "documentId": "eph99-04",
+      "title": "About Henry Coe Star Parties",
+      "summary": "This article clarifies that Henry Coe Park star parties have not been discontinued, despite concerns about low attendance leading to newcomers finding no astronomers. The San Jose Astronomical Association (SJAA) Board initially considered limiting public announcements but decided to include warnings in directions and invitations to manage expectations. A similar issue of ensuring an \"official presence\" is also addressed for Fremont Peak State Park star parties.",
+      "categories": [
+        "Club Announcement",
+        "Star Parties",
+        "Observing Sites",
+        "Logistics"
+      ],
+      "keywords": [
+        "Henry Coe Park",
+        "Fremont Peak State Park",
+        "Star Party",
+        "SJAA",
+        "Astronomy Club",
+        "Attendance",
+        "Schedule",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-stuff-you-can-see",
+      "documentId": "eph99-04",
+      "title": "Stuff You Can See",
+      "summary": "This article reports on a club meeting titled \"Stuff You Can See,\" featuring multiple astronomical presentations. Topics included an outburst of the recurrent nova T Scorpii, a visual feast of spring galaxies, Messier Marathon observing tools and a marathon report, tips for observing Mars, and an explanation of lunar elevation. The article also announced new board members and acknowledged outgoing members.",
+      "categories": [
+        "Club Meeting Report",
+        "Astronomy Presentations",
+        "Observing Guides",
+        "Astronomical News",
+        "Variable Stars",
+        "Deep Sky Objects",
+        "Planetary Observing"
+      ],
+      "keywords": [
+        "T Scorpii",
+        "Recurrent Nova",
+        "Galaxies",
+        "Messier Marathon",
+        "Mars",
+        "Lunar Elevation",
+        "Observing Tips",
+        "AAVSO",
+        "Board Members",
+        "Sketching",
+        "Filters"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph99-04-david-north",
+      "documentId": "eph99-04",
+      "title": "David North",
+      "summary": "This article, by David North, highlights April 20th as an optimal night for lunar observation, attributed to the moon's greatest northern declination and steady seeing in the San Jose area. It provides a detailed guide to observing specific lunar features near the first quarter, including a 'classroom' of craters (Theophilus, Cyrillus, Catherina), the Altai Scarp around Mare Nectaris, and several notable rilles.",
+      "categories": [
+        "lunar observing",
+        "astronomy guide",
+        "observing tips",
+        "events",
+        "technical"
+      ],
+      "keywords": [
+        "April 20",
+        "lunar observation",
+        "Moon",
+        "first quarter",
+        "declination",
+        "San Jose",
+        "Theophilus",
+        "Cyrillus",
+        "Catherina",
+        "Altai Scarp",
+        "Rupes Altai",
+        "Mare Nectaris",
+        "rilles",
+        "Rima Sheepshanks",
+        "Rimae Burg",
+        "Rimae Daniell",
+        "Rimae Posidonius",
+        "Lacus Mortis",
+        "terminator",
+        "Rukl",
+        "craters"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph99-04-the-shallow-sky",
+      "documentId": "eph99-04",
+      "title": "The Shallow Sky",
+      "summary": "This article details Mars's opposition on April 24th, highlighting its visibility, apparent size, and key surface features like Syrtis Major and the unusually small north polar cap. It provides software recommendations for observing Mars and briefly covers the visibility of other planets (Venus, Saturn, Jupiter, Mercury, Pluto, Uranus, Neptune) in the April night sky. The author also mentions a dedicated website for Mars observing information.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy News",
+        "Planetary Science",
+        "Resources"
+      ],
+      "keywords": [
+        "Mars",
+        "Opposition",
+        "Planetary Observation",
+        "April Sky",
+        "Venus",
+        "Saturn",
+        "Jupiter",
+        "North Polar Cap",
+        "Syrtis Major",
+        "Hellas",
+        "Astronomy Software",
+        "Telescopic Viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-telescopes-at-the-tech",
+      "documentId": "eph99-04",
+      "title": "Telescopes at the Tech",
+      "summary": "The San Jose Astronomical Association (SJAA) will host a two-day telescope display and demonstration at TheTech Museum on May 22-23. Activities include a Dobsonian telescope display, mirror making, indoor scope displays, and solar viewing, culminating in moon observation with a newly polished mirror. The event seeks volunteers and equipment donations.",
+      "categories": [
+        "event announcement",
+        "outreach",
+        "volunteer request",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "TheTech Museum",
+        "telescope display",
+        "Dobsonian",
+        "mirror making",
+        "solar viewing",
+        "volunteers",
+        "San Jose",
+        "astronomy event"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph99-04-striking-sparks-with-kids",
+      "documentId": "eph99-04",
+      "title": "Striking Sparks with kids",
+      "summary": "The article highlights the Sonoma County Astronomical Society's (SCAS) 'Striking Sparks Telescope award program,' which provides telescopes to school children to foster interest in astronomy, education, and teamwork. It features Adrian Zelaya, a former awardee who, at twelve years old, saved his allowance to sponsor a new telescope for another child and volunteered his time to help build it. The program, supported by community donations and volunteers, aims to ignite a lifelong love for the sky among young people.",
+      "categories": [
+        "Youth Engagement",
+        "Community Outreach",
+        "Astronomy Club Activities",
+        "Education",
+        "Volunteerism"
+      ],
+      "keywords": [
+        "Striking Sparks Telescope award program",
+        "Adrian Zelaya",
+        "Sonoma County Astronomical Society (SCAS)",
+        "Youth astronomy",
+        "Telescope building",
+        "Amateur astronomy",
+        "California",
+        "Young Astronomers",
+        "Jane Houston"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph99-04-bill-arnett",
+      "documentId": "eph99-04",
+      "title": "Bill Arnett",
+      "summary": "This document details the proceedings of a board meeting of an astronomy club, covering several key decisions and updates. Discussions included the potential cancellation of the Yosemite Star Party due to poor dates, clarification on the status of Coe star parties, and plans for an event with The Tech Museum. The meeting also addressed improvements to a solar scope, the appointment of a new secretary, and concluded with the election of six new board members.",
+      "categories": [
+        "Meeting Minutes",
+        "Club News",
+        "Event Planning",
+        "Organizational Update",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "Yosemite Star Party",
+        "Coe Star Parties",
+        "The Tech Museum",
+        "Astronomy Day",
+        "Solar Scope",
+        "Club Elections",
+        "SJAA",
+        "Jim Van Nuland",
+        "Bill Arnett",
+        "Ed Erbeck",
+        "Akkana Peck",
+        "Dave North"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-mooning-with-mom-and-dad",
+      "documentId": "eph99-04",
+      "title": "Mooning with Mom and Dad",
+      "summary": "Jane Houston recounts an evening observing the near full moon with her parents using their 6-inch reflector telescope after returning a borrowed moon filter. Despite the challenges of viewing a full moon, she points out various spectacular lunar features like the Tycho and Copernicus ray systems, Grimaldi, and Linne, creating a shared experience that culminates in spotting a meteor and sharing family memories and imagination.",
+      "categories": [
+        "observing report",
+        "personal story",
+        "amateur astronomy",
+        "lunar observation"
+      ],
+      "keywords": [
+        "moon",
+        "lunar features",
+        "full moon",
+        "moon filter",
+        "telescope",
+        "reflector",
+        "Tycho",
+        "Copernicus",
+        "Grimaldi",
+        "Riccioli",
+        "Linne",
+        "Aristarchus",
+        "Mare Serenitatis",
+        "Oceanus Procellarum",
+        "terminator",
+        "meteor",
+        "family",
+        "observing"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph99-04-astronomical-association-of-northern-california",
+      "documentId": "eph99-04",
+      "title": "Astronomical Association of Northern California",
+      "summary": "The Astronomical Association of Northern California (AANC) announced its annual awards, recognizing significant contributions to amateur astronomy. Ed Erbeek was named Commercial Astronomer of the Year, Denni Medlock received Amateur Astronomer of the Year, and Dr. Peter Jenniskens of the SETI Institute was honored as Professional Astronomer of the Year. A special award also went to the Mount Tamalpais Interpretive Association for a decade of public astronomy programs.",
+      "categories": [
+        "Awards",
+        "Amateur Astronomy",
+        "News",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "AANC Awards",
+        "Ed Erbeek",
+        "Denni Medlock",
+        "Dr. Peter Jenniskens",
+        "Mount Tamalpais Interpretive Association",
+        "Public Astronomy Programs",
+        "Amateur Astronomy",
+        "SETI Institute",
+        "SJAA"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph99-04-meteor-watch",
+      "documentId": "eph99-04",
+      "title": "Meteor Watch",
+      "summary": "The article \"Meteor Watch\" by David North details the upcoming Lyrid meteor shower, set to peak on April 21/22 with an average of 15 meteors per hour. Associated with Comet Thatcher, the Lyrids have historically produced bursts of activity, and observers are advised to start around 11 pm for a 4 am peak, noting the first quarter moon sets early. The article also mentions incidental activity from early Eta Aquarids, originating from Halley's Comet.",
+      "categories": [
+        "Astronomy",
+        "Observing Report",
+        "Celestial Events",
+        "Skywatching Guide"
+      ],
+      "keywords": [
+        "Lyrid meteor shower",
+        "Comet Thatcher",
+        "Eta Aquarids",
+        "Halley's Comet",
+        "Meteor observation",
+        "ZHR",
+        "April 21/22",
+        "Peak activity",
+        "First quarter moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-planet-conjunction-by-day",
+      "documentId": "eph99-04",
+      "title": "Planet Conjunction by Day",
+      "summary": "This article details a successful daylight observation of a Venus-Jupiter conjunction, describing the challenges of setting up the telescope and the excitement of the observers and students when they successfully viewed the planets. Despite difficulties like atmospheric instability and Jupiter's dimness, the gibbous phase of Venus and Jupiter's cloud bands were observed, providing a memorable educational experience.",
+      "categories": [
+        "observing report",
+        "astronomical observation",
+        "educational outreach"
+      ],
+      "keywords": [
+        "planet conjunction",
+        "daylight observation",
+        "Venus",
+        "Jupiter",
+        "telescope",
+        "ephemeris",
+        "students",
+        "gibbous phase",
+        "cloud bands"
+      ],
+      "pageStart": 1,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph99-04-comet-comments",
+      "documentId": "eph99-04",
+      "title": "Comet Comments",
+      "summary": "This article provides an update on the visibility of several comets: Comet LINEAR (1998 M5) and Periodic Comet Jager are fading, while Comet LINEAR (1998 T1) is emerging into the morning sky. It also presents statistics on visual comet discoveries since 1975, highlighting that 38% occur in the first half of the year, with the third quarter showing the highest number of finds.",
+      "categories": [
+        "Observing Reports",
+        "Comet Hunting",
+        "Astronomy Statistics"
+      ],
+      "keywords": [
+        "Comet LINEAR",
+        "Periodic Comet Jager",
+        "Comet visibility",
+        "Comet hunting",
+        "Comet discoveries",
+        "Visual comet discoveries"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-ephemerides",
+      "documentId": "eph99-04",
+      "title": "Ephemerides",
+      "summary": "This document provides ephemerides for three comets: C/1998 M5 (LINEAR), P/1998 U3 (Jager), and C/1998 T1 (LINEAR). For each comet, it lists observational data including right ascension, declination, elongation, sky visibility, and magnitude across specific date ranges, along with their key orbital elements such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period.",
+      "categories": [
+        "Astronomy",
+        "Observational Data",
+        "Ephemerides",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "comet",
+        "C/1998 M5 LINEAR",
+        "P/1998 U3 Jager",
+        "C/1998 T1 LINEAR",
+        "ephemeris",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "orbital elements",
+        "perihelion",
+        "astronomy",
+        "observation",
+        "celestial navigation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-elements",
+      "documentId": "eph99-04",
+      "title": "Elements",
+      "summary": "This document lists the orbital elements for an object named Jager, detailing its perihelion date (1999 03 10.0607), perihelion distance (2.133926 AU), and an orbital period of 14.9 years. It also provides other celestial mechanics parameters, a reference (MPC 33550), and contact information for Don Machholz.",
+      "categories": [
+        "Technical",
+        "Astronomy Data",
+        "Orbital Elements"
+      ],
+      "keywords": [
+        "Jager",
+        "orbital elements",
+        "perihelion",
+        "eccentricity",
+        "inclination",
+        "orbital period",
+        "absolute magnitude",
+        "Don Machholz",
+        "MPC"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-lunar-phases",
+      "documentId": "eph99-04",
+      "title": "Lunar Phases:",
+      "summary": "The document provides a table detailing the dates and times for various lunar phases, including Last Quarter, New Moon, First Quarter, and Full Moon. For each phase, it lists the date, rise time, transit time, and set time.",
+      "categories": [
+        "Astronomy",
+        "Celestial Events",
+        "Almanac",
+        "Observing Information"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Moon",
+        "Last Quarter",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Rise time",
+        "Transit time",
+        "Set time",
+        "Astronomy data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-nearer-planets",
+      "documentId": "eph99-04",
+      "title": "Nearer Planets:",
+      "summary": "This document provides an astronomical guide for observing the inner and gas giant planets (Mercury, Venus, Mars, Jupiter, and Saturn). It lists their orbital distance (A.U.), apparent magnitude, and celestial coordinates (Right Ascension and Declination) for three different dates, aiding observers in locating these planets.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Data",
+        "Planetary Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planetary Positions",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical Unit",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-sol-star-type-g2v",
+      "documentId": "eph99-04",
+      "title": "SOL Star Type G2V",
+      "summary": "This article presents an ephemeris for April 1999, detailing astronomical data related to \"SOL Star Type G2V\" (the Sun). It includes tables for sunrise, transit, set times, astronomical twilight, and sidereal time. The document also highlights key timings for the \"Darkest Saturday Night\" on April 17, 1999, providing specific data for sunset, twilight end, moonset, and dawn begin for that date.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Timekeeping",
+        "Observing Guides",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "SOL Star",
+        "G2V",
+        "Ephemeris",
+        "Sunrise",
+        "Sunset",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Darkness",
+        "Moon Set",
+        "April 1999",
+        "Astronomy",
+        "Celestial Mechanics"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph99-04-sjaa-loaner-scope-status",
+      "documentId": "eph99-04",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The San Jose Astronomical Association (SJAA) maintains a loaner scope program, making various telescopes available to its members. Members can contact Mike Koop via email or phone to arrange borrowing a scope, with pick-up at SJAA events. The document lists several stored telescopes, including Dobsons, Newtonians, refractors, and an astrophotography-ready C8, along with who stores them.",
+      "categories": [
+        "Member Services",
+        "Equipment",
+        "Astronomy Club",
+        "Resource Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Astronomy",
+        "Members",
+        "Equipment",
+        "Dobson",
+        "Refractor",
+        "Newtonian",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-current-scope-loans",
+      "documentId": "eph99-04",
+      "title": "Current Scope Loans",
+      "summary": "This document lists telescopes currently on loan, detailing the scope type, the borrower, and the due date. It informs interested individuals that they can be placed on a waiting list for a scope to become available after its due date.",
+      "categories": [
+        "administrative",
+        "equipment management",
+        "club records"
+      ],
+      "keywords": [
+        "telescope loans",
+        "scope borrowing",
+        "loan list",
+        "astronomy equipment",
+        "due dates",
+        "waiting list",
+        "Newtonian telescope",
+        "Dobsonian telescope",
+        "Celestron S/C",
+        "Solar Scope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-extended-scope-loans",
+      "documentId": "eph99-04",
+      "title": "Extended Scope Loans",
+      "summary": "This article lists astronomical telescopes with extended loan periods, available for borrowing to interested members by coordinating with the current borrowers for transfer. It also includes a waiting list for one specific scope and a call for members who can provide storage space for equipment.",
+      "categories": [
+        "Equipment Management",
+        "Club Announcement",
+        "Loan Program"
+      ],
+      "keywords": [
+        "telescope loans",
+        "extended loans",
+        "equipment borrowing",
+        "astronomy equipment",
+        "waiting list",
+        "scope storage"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-officers-and-board-of-directors",
+      "documentId": "eph99-04",
+      "title": "Officers and Board of Directors",
+      "summary": "This document provides a comprehensive directory of an organization's leadership, including its Officers and Board of Directors, complete with names and phone numbers. It also details key staff for various programs and committees such as the Ephemeris, Mentoring Program, Observational Astronomy, Observatory Committee, School Star Party, Telescope Loaner Program, and Web Page.",
+      "categories": [
+        "Organizational Information",
+        "Contact Directory",
+        "Leadership",
+        "Internal Document"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Staff",
+        "Mentoring Program",
+        "Observational Astronomy",
+        "Observatory Committee",
+        "School Star Party",
+        "Telescope Loaner Program",
+        "Web Page",
+        "Contact Information",
+        "Organizational Structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-submit",
+      "documentId": "eph99-04",
+      "title": "Submit",
+      "summary": "This document encourages members to submit articles for publication in the SJAA Ephemeris. Submissions should be sent to the editors via email at ephemeris@whiteoaks.com.",
+      "categories": [
+        "Announcement",
+        "Call for Submissions",
+        "Publication Information"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "Article submission",
+        "Members",
+        "Publication",
+        "Email"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-periodical-publication-statement",
+      "documentId": "eph99-04",
+      "title": "Periodical Publication Statement",
+      "summary": "This document, titled \"Periodical Publication Statement,\" announces that the \"SJAA Ephemeris,\" the newsletter of the San Jose Astronomical Association, is published monthly, 12 times a year, from January through December. It also provides the mailing address for the association.",
+      "categories": [
+        "Publication Information",
+        "Organizational",
+        "Administrative"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "monthly publication",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph99-04-to-subscribe-to-or-unsubscribe-from-the-sjaa-mailing-list-send-email-to-sjaa-request-sjaa-org-with-a-blank-subject-line-followed-by-a-single-text-line-that-says-subscribe-or-unsubscribe",
+      "documentId": "eph99-04",
+      "title": "To subscribe to or unsubscribe from the SJAA Mailing List send email to: sjaa-request@sjaa.org with a blank subject line followed by a single text line that says \"subscribe\" or \"unsubscribe\".",
+      "summary": "This document provides instructions on how to subscribe or unsubscribe from the SJAA Mailing List. Users need to send an email to sjaa-request@sjaa.org with a blank subject line and either 'subscribe' or 'unsubscribe' in the body. The content appears to be an excerpt from the SJAA Ephemeris, April 1999 issue.",
+      "categories": [
+        "instructions",
+        "club information",
+        "communications",
+        "archival"
+      ],
+      "keywords": [
+        "SJAA Mailing List",
+        "subscribe",
+        "unsubscribe",
+        "email instructions",
+        "sjaa-request@sjaa.org",
+        "Ephemeris"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph99-04-san-jose-astronomical-association-membership-form",
+      "documentId": "eph99-04",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is a membership form for the San Jose Astronomical Association (SJAA), detailing membership options and costs, including a standard membership for $15 and a junior membership for $6. Members can also add a Sky and Telescope subscription for an additional $27. The form provides instructions for submitting applications, either at a meeting or by mail, along with payment.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational",
+        "Administration"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Form",
+        "Membership Fees",
+        "Junior Membership",
+        "Sky and Telescope",
+        "Subscriptions",
+        "Contact Information",
+        "P.O. Box",
+        "Campbell, CA"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph99-04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9904/Eph99_04.pdf",
+      "txtPath": "9904/Eph99_04.md"
+    }
+  ]
+}

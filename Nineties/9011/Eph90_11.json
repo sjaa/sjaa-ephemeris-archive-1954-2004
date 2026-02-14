@@ -1,0 +1,529 @@
+{
+  "articles": [
+    {
+      "id": "eph90-11-ephemeris",
+      "documentId": "eph90-11",
+      "title": "EPHEMERIS",
+      "summary": "This document is the masthead for the November 1990 issue (Vol. 2 No. 10) of \"EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It identifies the periodical as a club newsletter for an amateur astronomy organization.",
+      "categories": [
+        "Club Publication",
+        "Amateur Astronomy",
+        "Newsletter"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Astronomy Club",
+        "November 1990",
+        "Publication",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-introductory-astrophotography",
+      "documentId": "eph90-11",
+      "title": "INTRODUCTORY ASTROPHOTOGRAPHY",
+      "summary": "This month's General Meeting will focus on introductory astrophotography, with Bob Fingerhut demonstrating planetary photography techniques. The Mars opposition occurring this month presents an excellent chance for astrophotographers to practice their skills.",
+      "categories": [
+        "Meeting Announcement",
+        "Astrophotography",
+        "Observing Event",
+        "Technique Demonstration"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Planetary photography",
+        "Mars opposition",
+        "Amateur astronomy",
+        "General Meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-star-hustler",
+      "documentId": "eph90-11",
+      "title": "STAR HUSTLER",
+      "summary": "The article introduces 'STAR HUSTLER,' a 5-minute television program hosted by Jack Horkheimer. Airing on KTEH channel 54 around 11:50 PM on Sundays, the show targets non-astronomers, offering engaging and informative lessons on elementary astronomy and sky lore. Each segment is tailored to visible celestial objects like bright planets and major constellations.",
+      "categories": [
+        "Television Program",
+        "Astronomy Education",
+        "Program Announcement",
+        "Media Recommendation"
+      ],
+      "keywords": [
+        "Jack Horkheimer",
+        "Star Hustler",
+        "Television",
+        "Astronomy",
+        "Sky lore",
+        "KTEH channel 54",
+        "Planets",
+        "Constellations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-auction",
+      "documentId": "eph90-11",
+      "title": "AUCTION",
+      "summary": "The Red Cross Auction needs a new location for its event, preferably on May 4, 1991, as its previous site at the Post Office is no longer viable due to upcoming construction and reduced parking. The organization is seeking a larger venue with good accessibility for unloading and mobility-impaired individuals, easy freeway access, and low cost.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Logistics"
+      ],
+      "keywords": [
+        "Auction",
+        "Red Cross",
+        "Venue change",
+        "Event planning",
+        "Parking",
+        "Accessibility",
+        "May 4, 1991"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-november-starry-nights",
+      "documentId": "eph90-11",
+      "title": "NOVEMBER STARRY NIGHTS",
+      "summary": "The \"NOVEMBER STARRY NIGHTS\" article details significant astronomical events for November, including a rare occultation between Jupiter's moons Europa and Ganymede, a lunar occultation of the Pleiades, Mars reaching opposition and its closest approach, and the peak of the Leonid meteor shower. It also proposes a creative \"Turkey Asterism\" discovery project. Additionally, the document lists a comprehensive schedule of general and board meetings, as well as several public star parties for November and early December.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guides",
+        "Club Meetings",
+        "Star Parties",
+        "Community Projects",
+        "News"
+      ],
+      "keywords": [
+        "November",
+        "Jupiter moons",
+        "Europa",
+        "Ganymede",
+        "occultation",
+        "Lunar occultation",
+        "Pleiades",
+        "Mars",
+        "opposition",
+        "closest approach",
+        "Leonid meteor shower",
+        "New Moon",
+        "asterism",
+        "Thanksgiving",
+        "astronomy project",
+        "star party",
+        "general meeting",
+        "astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-meteor-notes",
+      "documentId": "eph90-11",
+      "title": "METEOR NOTES",
+      "summary": "November is renowned for its spectacular meteor storms, which occur when Earth intersects young, concentrated meteor streams, often near the parent comet's position. The frequency and intensity of these storms are influenced by stream age and orbital perturbations, making their observation dependent on precise timing, location, and weather conditions. The article specifically mentions the Andromedid and Leonid streams as being associated with November's meteor events.",
+      "categories": [
+        "Astronomy",
+        "Meteor Showers",
+        "Celestial Mechanics",
+        "Observational Astronomy",
+        "Educational"
+      ],
+      "keywords": [
+        "Meteor storms",
+        "November meteors",
+        "Leonid stream",
+        "Andromedid stream",
+        "Meteor streams",
+        "Parent comet",
+        "Orbital perturbation",
+        "Night sky",
+        "Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph90-11-astronomers-stars",
+      "documentId": "eph90-11",
+      "title": "Astronomers' Stars",
+      "summary": "Patrick Moore's article discusses various meteor streams, contrasting a rarely active stream with the more predictable Leonid stream. It details the record-breaking 1966 Leonid meteor storm, which produced an unprecedented rate of 144,000 meteors per hour. The article predicts the next major Leonid storm will occur between 1998 and 2000, urging observers to plan for this significant astronomical event.",
+      "categories": [
+        "Astronomy Events",
+        "Meteor Showers",
+        "Observing Guides",
+        "Historical Astronomy",
+        "Predictions"
+      ],
+      "keywords": [
+        "Meteor storm",
+        "Leonid stream",
+        "Meteor shower",
+        "1966 Leonid meteor storm",
+        "Observational astronomy",
+        "Patrick Moore",
+        "Meteor predictions",
+        "Celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-individual-shower-notes",
+      "documentId": "eph90-11",
+      "title": "INDIVIDUAL SHOWER NOTES:",
+      "summary": "This document presents detailed notes on several meteor showers, including the Southern and Northern Taurids, Leonids, and Andromedids, outlining their characteristics, historical activity, and optimal viewing conditions. Additionally, it features a review of Patrick Moore's book, 'Astronomers' Stars,' which is praised for its engaging approach to stellar astronomy, using specific stars to explore broader astrophysical concepts.",
+      "categories": [
+        "Astronomy",
+        "Meteor Showers",
+        "Book Review",
+        "Stellar Astronomy",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Taurids",
+        "Leonids",
+        "Andromedids",
+        "Meteor Showers",
+        "Patrick Moore",
+        "Astronomers' Stars",
+        "Stellar Astronomy",
+        "Comets",
+        "Astrophysics",
+        "Observing",
+        "Celestial Events",
+        "Star Types"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-the-eye-and-its-ability-to-view-dim-celestial-objects",
+      "documentId": "eph90-11",
+      "title": "THE EYE AND ITS ABILITY TO VIEW DIM CELESTIAL OBJECTS",
+      "summary": "This article debunks the common misconception that short focal ratio telescopes provide brighter views of dim celestial objects, asserting that image brightness is solely determined by the instrument's aperture. It introduces the concept of 'Visual Equalization,' emphasizing the importance of achieving a 7mm exit pupil through correct magnification to deliver the brightest possible image to the eye, regardless of focal length. The author also briefly discusses how secondary mirror obstruction can impact contrast.",
+      "categories": [
+        "Astronomical Observing",
+        "Optics",
+        "Educational",
+        "Technical"
+      ],
+      "keywords": [
+        "telescope optics",
+        "exit pupil",
+        "focal ratio",
+        "aperture",
+        "visual equalization",
+        "image brightness",
+        "dim celestial objects",
+        "magnification",
+        "contrast"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph90-11-comet-comments",
+      "documentId": "eph90-11",
+      "title": "COMET COMMENTS",
+      "summary": "This article, 'COMET COMMENTS' by Don Machholz, reports on several recently discovered faint comets that are not expected to reach high brightness. It details Comet Levy, Periodic Comet Wild 2, and Comet Tsuchiya-Kiuchi's upcoming visibility, along with new discoveries: Comet Mueller (1990j), Comet Holt-Olmstead (1990k), and Comet Mueller (1990L), including their discovery circumstances and predicted magnitudes.",
+      "categories": [
+        "comet discoveries",
+        "observing reports",
+        "astronomy news"
+      ],
+      "keywords": [
+        "comets",
+        "Comet Levy",
+        "Periodic Comet Wild 2",
+        "Comet Tsuchiya-Kiuchi",
+        "Comet Mueller (1990j)",
+        "Comet Holt-Olmstead (1990k)",
+        "Comet Mueller (1990L)",
+        "discovery",
+        "magnitude",
+        "orbit",
+        "Palomar",
+        "Don Machholz",
+        "Jean Mueller",
+        "Henry E. Holt",
+        "C. Michelle Olmstead"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-seeking-comets",
+      "documentId": "eph90-11",
+      "title": "SEEKING COMETS",
+      "summary": "This article focuses on the discovery of comets using refractors and Schmidt-Cassegrains. It details observational parameters such as instrument aperture, comet discovery magnitude, elongation, sky conditions (morning or evening), and the number of hours spent searching for the comet.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astronomy",
+        "Equipment",
+        "Discovery"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Refractors",
+        "Schmidt-Cassegrains",
+        "Telescope Aperture",
+        "Discovery Magnitude",
+        "Observational Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-space-program-update",
+      "documentId": "eph90-11",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This Space Program Update reports on the successful launch of Ulysses by the Space Shuttle Discovery, which is now en route to use Jupiter's gravity to orbit and study the Sun's poles, while Discovery itself conducted further experiments. Additionally, the article notes the Astro-1 Spacelab mission's delay, Magellan's continued high-resolution radar imaging of Venus's surface, and Pioneer 10's milestone of reaching 50 AU from the Sun.",
+      "categories": [
+        "news",
+        "space missions",
+        "space exploration",
+        "astronomy",
+        "scientific research"
+      ],
+      "keywords": [
+        "Ulysses",
+        "Space Shuttle Discovery",
+        "Sun's Poles",
+        "Magellan",
+        "Venus",
+        "Pioneer 10",
+        "Heliosphere",
+        "Astro-1 Spacelab",
+        "Solar System Exploration",
+        "Scientific Instruments"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-astro-ads",
+      "documentId": "eph90-11",
+      "title": "ASTRO ADS",
+      "summary": "This document features 'ASTRO ADS,' a free classifieds section for non-commercial advertisers dealing in astronomically-related products and services. It primarily lists various used astronomical equipment for sale or trade, including telescopes (e.g., Celestron C8, Newtonian), camera outfits (Olympus), and numerous accessories like eyepieces, mounts, finderscopes, and filters. A brief concluding section touches upon rich field astronomy and building a DIY refractor.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "For Sale/Trade",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Telescopes",
+        "Astronomical equipment",
+        "Cameras",
+        "Eyepieces",
+        "Mounts",
+        "Finderscopes",
+        "Filters",
+        "Used equipment",
+        "Schmidt-Newtonian",
+        "Newtonian",
+        "Reflector",
+        "Schmidt Camera",
+        "Olympus",
+        "Celestron",
+        "Meade",
+        "Lumicon",
+        "Rich field astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph90-11-comets-found-with-refractors",
+      "documentId": "eph90-11",
+      "title": "Comets Found With Refractors",
+      "summary": "This article presents a tabular record of several comets discovered using refractor telescopes. It details the specific comets, their discoverers, the specifications of the refractors used (including aperture, magnification, and field of view), the comets' observed magnitudes, elongation from the Sun, time of observation (morning or evening sky), and the total observation hours leading to discovery. The data highlights the effectiveness of refractors in comet discovery.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy History",
+        "Technical",
+        "Cometology",
+        "Astronomical Instruments"
+      ],
+      "keywords": [
+        "Comets",
+        "Refractor telescopes",
+        "Comet discovery",
+        "Astronomical observation",
+        "Telescope specifications",
+        "Amateur astronomy",
+        "Magnitude",
+        "Elongation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-comets-found-with-a-schmidt-cassegrain-telescope",
+      "documentId": "eph90-11",
+      "title": "Comets Found With A Schmidt-Cassegrain Telescope",
+      "summary": "This document details the discovery of comet 1977m by Kohler. The comet was found using an 8-inch Schmidt-Cassegrain telescope and had a magnitude of 9.5 at the time of discovery. The information includes the telescope's magnification, elongation, and sky quadrant.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Report",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet 1977m",
+        "Schmidt-Cassegrain Telescope",
+        "Comet Discovery",
+        "Astronomy",
+        "Kohler"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-additional-data-from-last-month-s-listing",
+      "documentId": "eph90-11",
+      "title": "Additional Data From Last Month's Listing",
+      "summary": "This document provides supplemental data on comet observations, detailing various comets from 1975 to 1990 with information on their discoverers, instruments used, magnitudes, and observation hours. Additionally, it includes a comprehensive 'Celestial Calendar' for November 1990, outlining lunar phases, positions and magnitudes of nearer planets, solar data, astronomical twilight, and sidereal times, all specified in Pacific Standard Time.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Reports",
+        "Celestial Calendar",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet observations",
+        "Lunar phases",
+        "Planetary positions",
+        "Astronomical calendar",
+        "Magnitude",
+        "Astronomical instruments",
+        "November 1990",
+        "Pacific Standard Time",
+        "Celestial mechanics"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph90-11-officers-and-board-of-directors",
+      "documentId": "eph90-11",
+      "title": "OFFICERS AND BOARD OF DIRECTORS",
+      "summary": "This document lists the officers and board of directors for an organization, detailing their roles such as President, Vice President, Treasurer, Secretary, and Director. It also includes a separate section for Ephemeris Contributors. Each individual's name and contact phone number are provided for their respective positions within the organization.",
+      "categories": [
+        "Organizational Structure",
+        "Personnel Directory",
+        "Contact Information",
+        "Leadership",
+        "Administration"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "Ephemeris Contributors",
+        "Personnel",
+        "Leadership",
+        "Organizational roles",
+        "Contact details",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-comet-ephemeris",
+      "documentId": "eph90-11",
+      "title": "COMET EPHEMERIS",
+      "summary": "This document provides detailed ephemeris data for two comets, Periodic Comet Wild 2 (1989t) and Comet Tsuchiya-Kiuchi (1990l). It lists their celestial coordinates (Right Ascension and Declination for both 1950 and 2000 epochs), elongation from the Sun, general sky conditions, and predicted visual magnitude. The data covers observing periods from late October through early December, aiding astronomers in locating these objects.",
+      "categories": [
+        "Astronomy",
+        "Observing Aids",
+        "Comets",
+        "Ephemeris",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Comet Ephemeris",
+        "Periodic Comet Wild 2 (1989t)",
+        "Comet Tsuchiya-Kiuchi (1990l)",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Celestial Coordinates",
+        "Comet Observing",
+        "Astronomical Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph90-11-this-month-s-meteors",
+      "documentId": "eph90-11",
+      "title": "THIS MONTH'S METEORS",
+      "summary": "This article provides a table detailing various meteor showers active during the period, primarily November and early December. For each celestial event, it lists key observational data including active dates, the date of maximum activity, maximum zenith hourly rate, radiant point coordinates (Right Ascension and Declination), and meteor velocity, along with specific notes.",
+      "categories": [
+        "astronomy",
+        "celestial events",
+        "observing guides",
+        "ephemeris"
+      ],
+      "keywords": [
+        "meteors",
+        "meteor showers",
+        "observing",
+        "Leonids",
+        "Taurids",
+        "Andromedids",
+        "radiant point",
+        "zenith rate",
+        "astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph90-11-san-jose-astronomical-association-membership-application",
+      "documentId": "eph90-11",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), outlining different membership tiers (Membership only, Membership/S&T, Junior) and their respective costs. It provides instructions on where to send the application form and payment, along with contact details for the treasurer. Additionally, the document includes details about the SJAA's monthly publication, \"Ephemeris,\" encouraging members to submit articles and detailing submission procedures and editor contact information.",
+      "categories": [
+        "Membership",
+        "Administrative",
+        "Club Newsletter",
+        "Local Organization Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Application",
+        "Fees",
+        "Ephemeris",
+        "Newsletter",
+        "Astronomy Club",
+        "San Jose",
+        "Milpitas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph90-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9011/Eph90_11.pdf",
+      "txtPath": "9011/Eph90_11.md"
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "articles": [
+    {
+      "id": "eph92-12-sjaa-ephemeris",
+      "documentId": "eph92-12",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the December 1992 issue of \"SJAA Ephemeris,\" identified as Volume 3, Number 12. It serves as the official publication for the San Jose Astronomical Association, a local astronomical club.",
+      "categories": [
+        "Newsletter",
+        "Publication",
+        "Archival",
+        "Club News"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "December 1992",
+        "Astronomical Club",
+        "Publication history"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-the-eye-piece",
+      "documentId": "eph92-12",
+      "title": "The Eye Piece",
+      "summary": "Bob Madden recounts his enriching trip to the University of Arizona Astronomy Camp, including visits to Mt. Bigalow and Kitt Peak observatories, and recommends the experience. The article also details a full calendar of December and January events for the astronomy club, featuring star parties, general meetings, and a beginning astronomy class. It provides updates on fellow members' astronomical endeavors, such as Bill Dellinges' observing trips and John Briggs' work at Yerkes Observatory and upcoming venture to the South Pole.",
+      "categories": [
+        "Observing Reports",
+        "Events Calendar",
+        "Astronomy Clubs/Organizations",
+        "News",
+        "Travel"
+      ],
+      "keywords": [
+        "Astronomy Camp",
+        "Kitt Peak",
+        "Mt. Bigalow",
+        "Star Parties",
+        "General Meetings",
+        "Observatories",
+        "Telescopes",
+        "SJAA",
+        "Bill Dellinges",
+        "John Briggs",
+        "Yerkes Observatory",
+        "South Pole",
+        "Astronomy Education",
+        "Astrophotography",
+        "Black Holes"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph92-12-boo-day-star-party",
+      "documentId": "eph92-12",
+      "title": "BOO Day Star Party",
+      "summary": "The 'BOO Day Star Party' at Houge Park, planned for Halloween, turned into a pleasant social gathering rather than a stargazing event due to an overcast sky. A small number of trick-or-treaters attended, and the event briefly caught the attention of a police helicopter.",
+      "categories": [
+        "Event Report",
+        "Community Event",
+        "Social Event"
+      ],
+      "keywords": [
+        "Star Party",
+        "Halloween",
+        "Houge Park",
+        "Overcast Sky",
+        "Trick-or-Treaters",
+        "Social Event",
+        "Event Report"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-shelly-mcaleese-s-odyssey",
+      "documentId": "eph92-12",
+      "title": "Shelly McAleese's Odyssey",
+      "summary": "The article highlights Shelly McAleese, an accomplished amateur astronomer, and her 13.1\" Coultier telescope. The telescope was recently overhauled with a new focuser from Jack Zeider and re-balanced in preparation for Houge Park star parties. Shelly is praised for her expert star-hopping skills and ability to split 6\" double stars, and is noted as one of a few 'first lady astronomers.'",
+      "categories": [
+        "Profiles",
+        "Observing Reports",
+        "Telescope Maintenance",
+        "Club News"
+      ],
+      "keywords": [
+        "Shelly McAleese",
+        "Coultier telescope",
+        "Star parties",
+        "Houge Park",
+        "Star hopping",
+        "Double stars",
+        "Telescope overhaul",
+        "Amateur astronomy",
+        "Jack Zeider"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph92-12-publications-continued",
+      "documentId": "eph92-12",
+      "title": "Publications - Continued",
+      "summary": "The article discusses \"Vade mecum of Astronomy Amateur,\" a quarterly, 24-page magazine published by Mr. Brzozowski since May 1991. Despite its practical focus for beginning astronomers and young people, covering topics like finding celestial objects and building simple telescopes, the magazine faces significant distribution challenges, leading to substantial publication delays. Its content emphasizes hands-on observation over theoretical information.",
+      "categories": [
+        "Publication Review",
+        "Amateur Astronomy",
+        "Magazine Information",
+        "News"
+      ],
+      "keywords": [
+        "Vade mecum of Astronomy Amateur",
+        "Amateur astronomy",
+        "Mr. Brzozowski",
+        "Magazine",
+        "Publication",
+        "Distribution issues",
+        "Beginner astronomy",
+        "Practical astronomy",
+        "Observations",
+        "Telescope building",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-amateur-observatories",
+      "documentId": "eph92-12",
+      "title": "Amateur Observatories",
+      "summary": "This document describes amateur observatories, referred to as astronomical stations, in Poland. There are 17 such observatories primarily aimed at public sky shows, amateur astronomy, and educational purposes. Some, like those at the Silesian and Olsztyn Planetariums, are also equipped for research work, and most PTMA departments have telescopes for public viewing.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observatories",
+        "Public Outreach",
+        "Education",
+        "Poland"
+      ],
+      "keywords": [
+        "Amateur Observatories",
+        "Astronomical Stations",
+        "Poland",
+        "Public Sky Shows",
+        "Educational Observatories",
+        "Silesian Planetarium",
+        "Olsztyn Planetarium",
+        "Research Work",
+        "PTMA",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-planetariums-in-poland",
+      "documentId": "eph92-12",
+      "title": "Planetariums in Poland",
+      "summary": "Poland is home to eight \"ZEISS\" planetariums, varying in size and capabilities, with notable examples including the large Silesian Planetarium and the historical Nicholas Copernicus Museum Planetarium in Frombork. These facilities offer diverse educational programs, exhibitions, and activities for students, tourists, and the general public, including lectures, competitions, and instruction in amateur telescope building. They attract a significant number of visitors yearly, often with a focus on youth engagement and providing programs adapted for school curricula.",
+      "categories": [
+        "Astronomy",
+        "Education",
+        "Tourism",
+        "Institutions",
+        "History"
+      ],
+      "keywords": [
+        "Planetariums",
+        "Poland",
+        "ZEISS",
+        "Silesian Planetarium",
+        "Olsztyn",
+        "Frombork",
+        "Nicholas Copernicus",
+        "Astronomy education",
+        "Dome",
+        "Exhibitions",
+        "Lectures",
+        "Youth programs",
+        "Telescope building"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-holidays-in-the-planetarium",
+      "documentId": "eph92-12",
+      "title": "Holidays in the Planetarium",
+      "summary": "Since 1978, the Frombork Planetarium has organized \"Holidays in the Planetarium,\" a program attracting secondary school and university students. Participants assist staff, learn about astronomy, operate equipment like telescopes, and conduct observations and projection shows. Many return annually, and in 1983, they founded the PULSAR Association, proving to be invaluable helpers to the planetarium staff.",
+      "categories": [
+        "program description",
+        "education",
+        "outreach",
+        "institutional history",
+        "volunteering"
+      ],
+      "keywords": [
+        "Frombork Planetarium",
+        "Holidays in the Planetarium",
+        "astronomy education",
+        "student volunteers",
+        "observatory",
+        "PULSAR Association",
+        "celestial observations",
+        "telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-the-astronomical-olympiad",
+      "documentId": "eph92-12",
+      "title": "The Astronomical Olympiad",
+      "summary": "The Astronomical Olympiad, an annual competition organized by the Silesian Planetarium at Chorzow, is open to senior pupils across Poland and has been running since the 1957/58 school year. Attracting 200-500 competitors, it features two elimination rounds culminating in a final at the planetarium where the year's best astronomy adepts are selected. The Olympiad particularly fosters astronomical interest and development among younger students who often participate multiple times.",
+      "categories": [
+        "Educational Event",
+        "Astronomy Competition",
+        "Youth Program",
+        "Planetarium Activities"
+      ],
+      "keywords": [
+        "Astronomical Olympiad",
+        "Silesian Planetarium",
+        "Chorzow",
+        "Poland",
+        "Student competition",
+        "Astronomy education",
+        "Youth development",
+        "Annual event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-teaching-of-astronomy-in-poland",
+      "documentId": "eph92-12",
+      "title": "Teaching of Astronomy in Poland",
+      "summary": "In Poland, astronomy is not taught as a standalone subject but is integrated into other curricula. Secondary students encounter astronomical elements within their physics lessons, while younger students (5th-8th grades) learn about astronomy through geography and physics lessons.",
+      "categories": [
+        "Education",
+        "Curriculum",
+        "National Report"
+      ],
+      "keywords": [
+        "Astronomy education",
+        "Poland",
+        "Curriculum",
+        "Secondary schools",
+        "Physics",
+        "Geography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-12-polish-astronomy-continued",
+      "documentId": "eph92-12",
+      "title": "Polish Astronomy - Continued.",
+      "summary": "The article discusses the landscape of astronomical education in Poland, noting its inclusion in various university curricula and as a main subject at five universities. It emphasizes that effective astronomical learning benefits significantly from immediate explanations of phenomena, hands-on experiences like amateur astronomy events, and particularly from self-study driven by emotional engagement. The author suggests that this practical, self-driven approach leads to more permanent knowledge retention than conventional classroom methods.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Pedagogy"
+      ],
+      "keywords": [
+        "Polish astronomy",
+        "Astronomical education",
+        "Higher education",
+        "Self-study",
+        "Amateur astronomy",
+        "Teaching methods",
+        "Curriculum"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-amateur-telescopes",
+      "documentId": "eph92-12",
+      "title": "Amateur Telescopes",
+      "summary": "The article discusses the state of amateur telescopes in Poland, highlighting Mr. Universal's firm in Zywiec as the sole domestic manufacturer, offering nine types of refractors and Newtonian reflectors. While these telescopes are available, they are criticized for poor mounting construction. Polish amateurs either attempt DIY solutions or import expensive telescopes from Western countries.",
+      "categories": [
+        "observing reports",
+        "equipment review",
+        "amateur astronomy",
+        "market analysis"
+      ],
+      "keywords": [
+        "Poland",
+        "telescopes",
+        "amateur astronomy",
+        "Mr. Universal",
+        "Zywiec",
+        "refractors",
+        "reflectors",
+        "Newtonian telescopes",
+        "telescope mounting",
+        "DIY telescopes",
+        "import"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-a-special-grant-ranch-star-party-by-paul-barton",
+      "documentId": "eph92-12",
+      "title": "A Special Grant Ranch Star Party by Paul Barton",
+      "summary": "Paul Barton reports on a successful star party held on October 16, 1992, at a campsite near Halley Hill, Grant Ranch. The event hosted approximately 200 Girl Scouts and their leaders, with seven telescopes providing views of celestial objects. Despite the large, noisy crowd and limited space, the outing was enjoyed by all and indicated that the Halley Hill site has excellent potential for a future observatory.",
+      "categories": [
+        "Event Report",
+        "Astronomy Outreach",
+        "Observing Report",
+        "Site Survey"
+      ],
+      "keywords": [
+        "Star Party",
+        "Grant Ranch",
+        "Halley Hill",
+        "Girl Scouts",
+        "Telescopes",
+        "Observatory Planning",
+        "Astronomy Outreach",
+        "October 1992",
+        "Paul Barton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-channel-54-kteh-night-by-dr-johnson",
+      "documentId": "eph92-12",
+      "title": "Channel 54 (KTEH) Night by DR Johnson",
+      "summary": "The article details the ongoing collaborative relationship between the San Jose Astronomical Association (SJAA) and public television station KTEH, highlighting their mutual support through publicity and volunteering. SJAA is invited to participate in an upcoming KTEH pledge drive on Thursday, December 10th, 1992, from 6:15 PM to 11:30 PM, and is recruiting 25-30 volunteers for the event.",
+      "categories": [
+        "News",
+        "Events",
+        "Volunteer Opportunity",
+        "Community Outreach",
+        "Organizational Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "KTEH",
+        "Pledge Drive",
+        "Volunteer",
+        "December 10th",
+        "Astronomy",
+        "Community Partnership",
+        "Fremont Peak",
+        "Challenger Telescope"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-12-the-last-beginning-astronomy-class-of-1992",
+      "documentId": "eph92-12",
+      "title": "The Last Beginning Astronomy Class of 1992",
+      "summary": "This article reports on Jack Peterson's 'Last Beginning Astronomy Class of 1992,' covering various constellations, galaxies, and celestial objects like Perseus, Andromeda, Triangulum, Aries, Cetus (Mira), Eridanus, and Sculptor, including NGC 253 and NGC 288, and the Pleiades. The session also included a Q&A on weighing stars using orbital determination and magnitude measurement, with a discussion of the magnitude system and the capabilities of photometers. The class concluded with refreshments and an acknowledgment of attendees.",
+      "categories": [
+        "observing reports",
+        "astronomy education",
+        "event report",
+        "historical"
+      ],
+      "keywords": [
+        "Beginning Astronomy Class",
+        "Jack Peterson",
+        "constellations",
+        "Perseus",
+        "Algol",
+        "Andromeda",
+        "M-31",
+        "Triangulum",
+        "M-33",
+        "Pinwheel galaxy",
+        "Aries",
+        "First Point of Aries",
+        "Cetus",
+        "Mira",
+        "Omicron Ceti",
+        "Eridanus",
+        "Sculptor",
+        "NGC 253",
+        "Silver Dollar galaxy",
+        "NGC 288",
+        "globular cluster",
+        "Pleiades",
+        "weighing stars",
+        "orbital determination",
+        "temperature",
+        "color",
+        "H-R chart",
+        "magnitude measurements",
+        "magnitude system",
+        "photometers",
+        "Sirius",
+        "Vega",
+        "Alice Finley",
+        "1992"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-hogue-park-6-nov-92",
+      "documentId": "eph92-12",
+      "title": "Hogue Park 6 Nov 92",
+      "summary": "The article reports on a successful astronomy outing at Hogue Park on November 6, 1992, characterized by clear, warm weather and a large turnout of amateur astronomers and public visitors. Despite significant moonlight, attendees enjoyed observations of various celestial objects, including the Moon, Saturn, Andromeda, and a notably clear view of comet Swift-Tuttle. The event showcased a diverse array of telescopes and fostered a strong sense of community enjoyment among participants.",
+      "categories": [
+        "observing report",
+        "event",
+        "astronomy outing",
+        "equipment review"
+      ],
+      "keywords": [
+        "Hogue Park",
+        "astronomy outing",
+        "comet Swift-Tuttle",
+        "telescopes",
+        "amateur astronomy",
+        "star party",
+        "celestial objects",
+        "Moon",
+        "Saturn",
+        "Andromeda",
+        "Losmandy G-11",
+        "Meade LX 200"
+      ],
+      "pageStart": 102,
+      "pageEnd": 102
+    },
+    {
+      "id": "eph92-12-kteh-at-fremont-peak-friday-23-october",
+      "documentId": "eph92-12",
+      "title": "KTEH at Fremont Peak Friday, 23 October",
+      "summary": "This article recounts an astronomy outing at Fremont Peak, initially organized for KTEH Auction bidders who ultimately did not attend. Despite this, participants enjoyed observing with the 30-inch telescope, socialized, and discussed future telescope projects like the 72-inch. The author also notes the social benefits of star parties, the utility of setting circles for observers with vision issues, and expresses gratitude for the park ranger's cooperation.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Amateur Astronomy",
+        "Community"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "KTEH Auction",
+        "30-inch telescope",
+        "72-inch telescope",
+        "Star Party",
+        "Paul Barton",
+        "Jack Zelders",
+        "Bruce DeGraaf",
+        "Terry Kahl",
+        "Setting Circles",
+        "Ranger Rick",
+        "Observatory",
+        "December 1992"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph92-12-the-star-hill-inn",
+      "documentId": "eph92-12",
+      "title": "The Star Hill Inn",
+      "summary": "The author recounts a six-night visit to the Star Hill Inn, an astronomical facility in New Mexico, detailing the comfortable accommodations, extensive rental equipment, and supportive hosts. While noting some equipment issues and challenging \"seeing\" conditions, the report highlights the dark skies and overall positive experience, making it a recommended destination for amateur astronomers.",
+      "categories": [
+        "Observing Report",
+        "Travel",
+        "Facility Review",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Star Hill Inn",
+        "Astronomical facility",
+        "New Mexico",
+        "Astrotourism",
+        "Observing conditions",
+        "Sky darkness",
+        "Seeing",
+        "Telescopes",
+        "Equipment rental",
+        "Amateur astronomy travel"
+      ],
+      "pageStart": 5,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph92-12-astro-ads",
+      "documentId": "eph92-12",
+      "title": "ASTRO ADS",
+      "summary": "This document is a collection of free classified advertisements, known as \"Astro Ads,\" for noncommercial advertisers looking to sell astronomically related products or services. It provides submission guidelines, including a monthly deadline, and features several ads for used telescopes and accessories like refractors, Schmidt-Cassegrains, eyepieces, and finders, along with contact information and prices.",
+      "categories": [
+        "classifieds",
+        "used equipment",
+        "astronomy sales",
+        "community bulletin"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "telescopes",
+        "refractor",
+        "Meade DS16",
+        "Tuthill Polar Axis Finder",
+        "Newtonian Telescope",
+        "Classic C-8",
+        "eyepieces",
+        "finders",
+        "equatorial mount",
+        "Schmidt-Cassegrain",
+        "astronomical equipment",
+        "classified advertisements"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-equipment-loan",
+      "documentId": "eph92-12",
+      "title": "EQUIPMENT LOAN",
+      "summary": "The article announces the loan of a Cometron 60 telescope to Albert Chen and informs members that other equipment is available for loan through coordinator Paul Barton. Loans are for two months and renewable, and Paul is also seeking donations of finderscopes for the association's other telescopes.",
+      "categories": [
+        "Equipment Loan",
+        "Member Services",
+        "Donation Request",
+        "Community"
+      ],
+      "keywords": [
+        "equipment loan",
+        "telescope",
+        "Cometron 60",
+        "finderscope",
+        "donation",
+        "Paul Barton",
+        "Albert Chen",
+        "alt-azimuth mount",
+        "December 1992"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-12-november-1992",
+      "documentId": "eph92-12",
+      "title": "November 1992",
+      "summary": "This document provides a detailed astronomical almanac for December 1992, specifically for the Pacific Standard Time zone. It includes comprehensive data on lunar phases, the rise, transit, and set times for five planets (Mercury, Venus, Mars, Jupiter, Saturn), and information on the Sun, astronomical twilight, and sidereal time. The document also highlights the \"Darkest Saturday Night\" on December 26th with relevant times.",
+      "categories": [
+        "Astronomical Almanac",
+        "Observing Guide",
+        "Planetary Data",
+        "Lunar Data",
+        "Celestial Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "December 1992",
+        "Astronomical Data",
+        "Lunar Phases",
+        "Planetary Positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Rise Set Transit Times",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Pacific Standard Time",
+        "Celestial Mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-offices-and-board-of-directors",
+      "documentId": "eph92-12",
+      "title": "Offices and Board of Directors",
+      "summary": "The document lists the names and contact phone numbers of individuals holding various offices and serving on a Board of Directors. It details the President, Vice President, Treasurer, Secretary, and several Directors, along with their respective contact information.",
+      "categories": [
+        "Administration",
+        "Organization",
+        "Contact Information",
+        "Leadership"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Offices",
+        "Leadership",
+        "Contact information",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Organization structure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-ephemeris-contributors",
+      "documentId": "eph92-12",
+      "title": "Ephemeris Contributors",
+      "summary": "This document lists individuals contributing to ephemeris data, including their names and phone numbers. It also identifies an editor, Bob Madden, along with his contact number. The article serves as a directory of key personnel involved in ephemeris compilation.",
+      "categories": [
+        "Directory",
+        "Contributors",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Editor",
+        "Contact list",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-comet-comments",
+      "documentId": "eph92-12",
+      "title": "Comet Comments",
+      "summary": "This article discusses the final chance for Northern Hemisphere observers to see Periodic Comet Swift-Tuttle before its 2126 return, noting a slim chance of Earth impact then but a promising Perseid meteor shower. It also provides updates on the recovery observations of several other periodic comets, including Vaisala 1, Gehrels 3, Slaughter-Burnham, Schmassase, and Shoemaker, detailing their current magnitudes, recovery dates, and future brightening predictions.",
+      "categories": [
+        "observing reports",
+        "comet news",
+        "astronomy updates"
+      ],
+      "keywords": [
+        "Comet Swift-Tuttle",
+        "Periodic Comet Vaisala 1",
+        "Periodic Comet Gehrels 3",
+        "Periodic Comet Slaughter-Burnham",
+        "Periodic Comet Schmassase",
+        "Comet Shoemaker",
+        "comet recovery",
+        "magnitude",
+        "perihelion",
+        "Perseid meteor shower",
+        "Kitt Peak",
+        "Mt. Palomar",
+        "Don Machholtz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-ephemerides",
+      "documentId": "eph92-12",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for two periodic comets, Swift-Tuttle (1992t) and Schaumasse (1992x), detailing their positions and magnitudes over several weeks. It includes observational data such as Right Ascension, Declination, elongation, sky location (East), and apparent magnitude for each comet. The data spans from late November to early January, offering guidance for observers.",
+      "categories": [
+        "Ephemerides",
+        "Comet Observation",
+        "Astronomical Data",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Comet Swift-Tuttle",
+        "Comet Schaumasse",
+        "Ephemerides",
+        "Astronomy",
+        "Observation",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Periodic Comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-can-anyone-help",
+      "documentId": "eph92-12",
+      "title": "Can Anyone Help",
+      "summary": "A senior member of a club needs transportation to attend meetings at Milpitas Library, as they no longer drive. The club is seeking volunteers to provide rides. Interested individuals are asked to contact J.D. Wells for coordination.",
+      "categories": [
+        "Community Support",
+        "Club Announcement",
+        "Transportation Request"
+      ],
+      "keywords": [
+        "transportation",
+        "ride share",
+        "senior member",
+        "club meetings",
+        "Milpitas Library",
+        "volunteer",
+        "assistance"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-12-ephemeris",
+      "documentId": "eph92-12",
+      "title": "EPHEMERIS",
+      "summary": "EPHEMERIS is a monthly publication by the San Jose Astronomical Association, headquartered at 3509 Calico Ave., San Jose, California 95124. Members are invited to submit typed articles for publication to editor Bob Madden by the 12th of each month.",
+      "categories": [
+        "Organizational News",
+        "Publication Information",
+        "Submission Guidelines"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "monthly publication",
+        "article submission",
+        "editor",
+        "membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-12-san-jose-astronomical-association-membership",
+      "documentId": "eph92-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership application process for the San Jose Astronomical Association (SJAA), detailing different membership types and their costs, including options with or without a Sky & Telescope subscription. It provides a form for applicants to fill out with personal information and instructions for submission to the treasurer, along with contact details and organizational information like their non-profit status and an information hotline.",
+      "categories": [
+        "Membership",
+        "Organization Information",
+        "Application Form",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Fees",
+        "Application",
+        "Astronomy Club",
+        "Non-profit",
+        "Contact Information",
+        "Sky & Telescope",
+        "December 1992"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9212/Eph92_12.pdf",
+      "txtPath": "9212/Eph92_12.md"
+    }
+  ]
+}

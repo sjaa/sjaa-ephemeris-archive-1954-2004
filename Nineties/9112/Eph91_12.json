@@ -1,0 +1,551 @@
+{
+  "articles": [
+    {
+      "id": "eph91-12-sjaa-ephemeris",
+      "documentId": "eph91-12",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the December 1991 issue of 'SJAA EPHEMERIS,' the official publication of the San Jose Astronomical Association. It is identified as Volume 3, Number 12, serving as a monthly periodical for the association's members.",
+      "categories": [
+        "Newsletter",
+        "Association News",
+        "Periodical"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "December 1991",
+        "Astronomy",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-drift-method-of-polar-alignment",
+      "documentId": "eph91-12",
+      "title": "Drift Method of Polar Alignment",
+      "summary": "This article details the \"Drift Method of Polar Alignment,\" a crucial technique for astrophotography, providing a step-by-step guide on how to precisely adjust a telescope mount's azimuth and elevation by observing star drift. It explains the process of using a guiding eyepiece to correct for drift near the meridian and eastern horizon. Additionally, the document includes a schedule of upcoming astronomy club events, meetings, and celestial phenomena for December and January.",
+      "categories": [
+        "Technical Guide",
+        "Observing Techniques",
+        "Astrophotography",
+        "Club News",
+        "Events"
+      ],
+      "keywords": [
+        "Drift Method",
+        "Polar Alignment",
+        "Astrophotography",
+        "Telescope Mount",
+        "Azimuth Adjustment",
+        "Elevation Adjustment",
+        "Declination Drift",
+        "Guiding Eyepiece",
+        "Meridian",
+        "Star Drift",
+        "Star Party",
+        "Geminids",
+        "Lunar Eclipse",
+        "Solar Eclipse"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph91-12-life-out-there",
+      "documentId": "eph91-12",
+      "title": "Life Out There",
+      "summary": "This article explores the astronomical conditions necessary for life, particularly intelligent life, to develop on other planets. It details stellar classification, the lifespan of stars on the Main Sequence, and the concept of a habitable \"eco-zone\" for liquid water, systematically ruling out many star types. The author concludes that single F, G, and K type Main Sequence stars are the most promising candidates, while also pondering the survival of technological civilizations and the Fermi paradox.",
+      "categories": [
+        "Astrobiology",
+        "Astronomy",
+        "Stellar Evolution",
+        "Exoplanet Science",
+        "Search for Extraterrestrial Intelligence (SETI)"
+      ],
+      "keywords": [
+        "Extraterrestrial life",
+        "Intelligent life",
+        "Habitable zone",
+        "Eco-zone",
+        "Stellar classification",
+        "Main Sequence stars",
+        "Hertzsprung-Russell Diagram",
+        "Nuclear Fusion",
+        "Milky Way",
+        "Supernova",
+        "Carbon-based life",
+        "Star systems",
+        "Fermi Paradox",
+        "Technological civilization",
+        "Alpha Centauri"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph91-12-board-meeting-minutes-gleanings",
+      "documentId": "eph91-12",
+      "title": "Board Meeting Minutes Gleanings",
+      "summary": "Minutes from the October Board Meeting detail progress on the Grant Ranch Observatory, including a donated professional dome design by architect Eathan Cliffton and plans for site accessibility and star parties. The meeting also covered a request for observers for a Lawrence Livermore Labs adaptive optics experiment using a vertical laser to create an artificial star, and a general meeting report on the Astronomical Society of the Pacific's activities, emphasizing the vital role of amateur astronomers and their educational outreach efforts.",
+      "categories": [
+        "Board Meeting Minutes",
+        "Observatory Development",
+        "Astronomical Research",
+        "Amateur Astronomy",
+        "Club News",
+        "Education & Outreach"
+      ],
+      "keywords": [
+        "Grant Ranch Observatory",
+        "Dome Design",
+        "Lawrence Livermore Labs",
+        "Adaptive Optics",
+        "Artificial Star",
+        "Astronomical Society of the Pacific",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Astronomy Education",
+        "SJAA"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph91-12-astro-ads",
+      "documentId": "eph91-12",
+      "title": "ASTRO ADS",
+      "summary": "This document outlines \"ASTRO ADS,\" a free classified advertising service for noncommercial sellers of astronomy-related products and services. Ads can be submitted to Editor Bob Madden by the 15th of each month and will run for about three months. An example ad for Tele Vue eyepieces is provided.",
+      "categories": [
+        "Classifieds",
+        "Advertising",
+        "Community Service"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "Astronomy",
+        "Classifieds",
+        "Advertisements",
+        "Eyepieces",
+        "Tele Vue",
+        "Plossl",
+        "Noncommercial"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph91-12-lunar-phases",
+      "documentId": "eph91-12",
+      "title": "Lunar Phases",
+      "summary": "This document presents a schedule of lunar phases for December, specifically detailing the times for New Moon, First Quarter, Full Moon, and Last Quarter. It also includes the corresponding rise, transit, and set times for each of these phases.",
+      "categories": [
+        "Celestial Events",
+        "Almanac",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Lunar phases",
+        "Moon",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Rise times",
+        "Transit times",
+        "Set times",
+        "December"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-nearer-planets",
+      "documentId": "eph91-12",
+      "title": "Nearer Planets",
+      "summary": "This document provides an astronomical ephemeris for the \"Nearer Planets\" (Mercury, Venus, Mars, Jupiter, Saturn) and the Sun for three specific dates in December (7th, 17th, 27th). For each celestial body, it lists three time values (likely rise, transit, and set times), distance in Astronomical Units (A.U.), and apparent magnitude (Mag). The Sun's spectral type (G2V) and absolute magnitude are also noted.",
+      "categories": [
+        "Ephemeris",
+        "Observational Data",
+        "Astronomy Guide",
+        "Technical"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "Solar System",
+        "Planets",
+        "Astronomical Data",
+        "Ephemeris",
+        "Magnitude",
+        "AU",
+        "December",
+        "Observing Guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-astronomical-twilight",
+      "documentId": "eph91-12",
+      "title": "Astronomical Twilight",
+      "summary": "This document presents a concise log of astronomical twilight times for three specific dates in December. Each entry includes the Julian Date, calendar date, and the start and end times of astronomical twilight in a 24-hour format. The data likely serves as a reference for astronomical observation planning or record-keeping.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Timekeeping",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical twilight",
+        "Julian Date",
+        "Twilight",
+        "Times",
+        "Astronomy",
+        "Log",
+        "Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-sidereal-time",
+      "documentId": "eph91-12",
+      "title": "Sidereal Time",
+      "summary": "This document provides a concise listing of sidereal time values for specific dates in December at 0000 PST. It references astronomical events such as 'Transit Right,' 'Ascention' (likely Right Ascension), and 'Local Midnight,' indicating the progression of sidereal time throughout the month. The content serves as a basic reference for tracking astronomical time.",
+      "categories": [
+        "Astronomy",
+        "Astronomical Data",
+        "Timekeeping"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Astronomy",
+        "Transit",
+        "Right Ascension",
+        "Local Midnight",
+        "PST",
+        "Timekeeping"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-darkest-saturday-night-dec-07",
+      "documentId": "eph91-12",
+      "title": "Darkest Saturday Night ..... DEC 07",
+      "summary": "This document, dated December 1991, provides local astronomical times for \"Darkest Saturday Night\" on December 7th in the Pacific Standard Time zone. The bulk of the content comprises classified advertisements for a wide array of used astronomical equipment, from Celestron telescopes and Astro Physics refractors to specialized lenses and accessories. Additionally, it includes announcements regarding CCD image shareware, an astronomy catalog, a personal ad for a travel companion, and details for the upcoming COSMOCON 91 convention.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Events",
+        "Observing Information",
+        "Announcements",
+        "Equipment Sales"
+      ],
+      "keywords": [
+        "Astronomical Equipment",
+        "Telescopes",
+        "Eyepieces",
+        "Mounts",
+        "CCD Images",
+        "Astronomy Convention",
+        "Observing Times",
+        "Pacific Standard Time",
+        "Used Equipment",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 93
+    },
+    {
+      "id": "eph91-12-ephemeris",
+      "documentId": "eph91-12",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled \"EPHEMERIS,\" provides contact information for Krebs Convention Management Services, specifically addressed for COSMOCON 92. It lists their full address in San Francisco, CA, and a contact phone number.",
+      "categories": [
+        "Events",
+        "Convention Details",
+        "Contact Information"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "COSMOCON 92",
+        "Convention",
+        "Krebs Convention Management Services",
+        "San Francisco",
+        "Contact Info"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-comet-comments",
+      "documentId": "eph91-12",
+      "title": "Comet Comments",
+      "summary": "This article, titled \"Comet Comments,\" reports on three recently discovered comets: Periodic Comet McNaught-Hughes (1991y), Periodic Comet Shoemaker-Levy 5 (1991z), and Comet Shoemaker-Levy (1991a). It provides details on their discoverers, orbital periods, current brightness, and projected perihelion dates. Additionally, the article notes that periodic Comet Hartley remains brighter than anticipated and mentions Comet 1991d's presence in the morning sky.",
+      "categories": [
+        "Comet Discoveries",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet",
+        "Discovery",
+        "Periodic Comet",
+        "McNaught-Hughes",
+        "Shoemaker-Levy",
+        "Hartley",
+        "Magnitude",
+        "Perihelion",
+        "Orbit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-offices-and-board-of-directors",
+      "documentId": "eph91-12",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current Offices and Board of Directors for an organization, detailing the names and contact phone numbers for the President, Vice President, Treasurer, Secretary, and several Directors. It serves as a directory for the organization's leadership.",
+      "categories": [
+        "Organizational Structure",
+        "Contact Information",
+        "Leadership",
+        "Personnel"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "Contact Information",
+        "Organization",
+        "Personnel Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-ephemeris-contributors",
+      "documentId": "eph91-12",
+      "title": "Ephemeris Contributors",
+      "summary": "This document provides a directory of individuals contributing to ephemeris data, along with their respective phone numbers. It lists six contributors—Don Machholtz, Pat Donnelly, Richard Stanton, Steve Gotlib, Bob Fingerhut, and Jay Freeman—and identifies Bob Madden as the editor. This content appears to be a contact list for those involved in compiling astronomical positional information.",
+      "categories": [
+        "Astronomy",
+        "Contact List",
+        "Contributors",
+        "Reference Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contact Information",
+        "Astronomy Data",
+        "Editor",
+        "Don Machholtz",
+        "Pat Donnelly",
+        "Richard Stanton",
+        "Steve Gotlib",
+        "Bob Fingerhut",
+        "Jay Freeman",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-ephemerides",
+      "documentId": "eph91-12",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for three comets: Periodic Comet Hartley 2 (1991t), Periodic Comet Faye (1991n), and Comet Shoemaker-Levy (1991d). For each comet, it lists celestial coordinates (Right Ascension and Declination for 1950 and 2000 epochs), solar elongation, visibility period (morning or evening sky), and estimated visual magnitudes for dates ranging from late November to early January. These tables are essential for astronomers and observers tracking these celestial objects.",
+      "categories": [
+        "astronomy",
+        "ephemerides",
+        "observing guides",
+        "comets"
+      ],
+      "keywords": [
+        "EPHEMERIDES",
+        "Comet Hartley 2",
+        "Comet Faye",
+        "Comet Shoemaker-Levy",
+        "RA",
+        "DEC",
+        "Magnitude",
+        "Elongation",
+        "Comet observation",
+        "Celestial coordinates",
+        "Astronomy data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-grant-ranch-observatory-update",
+      "documentId": "eph91-12",
+      "title": "Grant Ranch Observatory Update",
+      "summary": "This article details the San Jose Astronomical Association (SJAA)'s core mission of educating the public in science and astronomy. To fulfill this, SJAA offers monthly public observing nights at a city park, free indoor astronomy classes, and follow-up observing sessions at Joseph Grant County Park. The association also maintains a partnership with the Fremont Peak Observatory Association.",
+      "categories": [
+        "Organization Update",
+        "Educational Programs",
+        "Observing Reports",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy education",
+        "Public observing",
+        "Astronomy classes",
+        "Joseph Grant County Park",
+        "Fremont Peak Observatory Association",
+        "Science education"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph91-12-peak-state-park-and-utilize-their-30-telescope-and-park-for-both-advanced-observing-as-well-as-periodic-over-nighters",
+      "documentId": "eph91-12",
+      "title": "Peak State Park, and utilize their 30\" telescope and park for both advanced observing as well as periodic over nighters.",
+      "summary": "The San Jose Astronomical Association (SJAA) proposes establishing an advanced astronomical observing site at Joseph Grant Ranch County Park, specifically at Halley Hill, to complement existing activities and fill a void left by Lick Observatory's discontinued public viewing. The initiative involves providing an 11\" computerized telescope for public viewing, educational classes, and advanced observing, with positive public reception already demonstrated during trial runs. SJAA is now seeking volunteers and beginning observatory design with expert assistance.",
+      "categories": [
+        "Project Proposal",
+        "Astronomy Outreach",
+        "Community Engagement",
+        "Observing Sites",
+        "Park Partnership"
+      ],
+      "keywords": [
+        "SJAA",
+        "Joseph Grant Ranch County Park",
+        "Halley Hill",
+        "Astronomical Observing",
+        "Public Viewing",
+        "11\" Telescope",
+        "Advanced Observing",
+        "Astronomy Education",
+        "Observatory Design",
+        "Volunteer Recruitment",
+        "Lick Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-solar-telescope-contributors",
+      "documentId": "eph91-12",
+      "title": "Solar Telescope Contributors",
+      "summary": "This document is a list of individuals acknowledged as contributors to a solar telescope project. It simply presents their names without providing details about their specific contributions or roles.",
+      "categories": [
+        "Contributors List",
+        "Project Acknowledgments",
+        "Personnel"
+      ],
+      "keywords": [
+        "Solar Telescope",
+        "Contributors",
+        "Individuals",
+        "Team",
+        "Acknowledgments"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-editor-s-corner",
+      "documentId": "eph91-12",
+      "title": "Editor's Corner",
+      "summary": "This Editor's Corner announces the upcoming December and January speakers for club meetings. Ernie Piini will discuss his experiences with the 1991 Solar Eclipse in December, marking the last meeting at the current venue. Ethan Clifton will present on observatory design in January, relevant to the club's Grant Ranch observatory project. The article also recaps November's talk on multiple star systems and calls for new speaker contacts.",
+      "categories": [
+        "Meeting Announcements",
+        "Club News",
+        "Astronomy Events",
+        "Observatory Project",
+        "Speaker Series"
+      ],
+      "keywords": [
+        "Ernie Piini",
+        "Great Solar Eclipse of 1991",
+        "Eclipse chasing",
+        "Telescope design",
+        "Ethan Clifton",
+        "Observatory design",
+        "Keck telescope",
+        "Mauna Kea",
+        "Grant Ranch County Park",
+        "Observatory project",
+        "Pat Donnelly",
+        "Multiple star systems",
+        "Club meetings",
+        "Speaker recruitment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-behind-the-milpitas-civic-center",
+      "documentId": "eph91-12",
+      "title": "BEHIND THE MILPITAS CIVIC CENTER.",
+      "summary": "This document provides detailed driving directions to a location behind the Milpitas Civic Center, specifically mentioning the library entrance after the police station. It includes instructions for accessing the site from both Highway 880/17 and Highway 680, utilizing Calaveras Blvd. and Highway 237.",
+      "categories": [
+        "Directions",
+        "Location Information",
+        "Logistics"
+      ],
+      "keywords": [
+        "Milpitas Civic Center",
+        "Directions",
+        "Milpitas",
+        "Calaveras Blvd",
+        "Highway 880",
+        "Highway 680",
+        "Highway 237",
+        "Library",
+        "Police Station"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph91-12-san-jose-astronomical-association-membership",
+      "documentId": "eph91-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and application process for the San Jose Astronomical Association (SJAA), including fees for standard, membership with Sky & Telescope magazine, and junior memberships. It provides contact information for submitting applications to the treasurer and details for the association's physical address, hotline, and the editor of its monthly publication, EPHEMERIS. The document also indicates it is a non-profit organization mailing information.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Administrative",
+        "Newsletter"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Subscription",
+        "Sky & Telescope",
+        "Junior Membership",
+        "EPHEMERIS",
+        "Newsletter",
+        "Contact Information",
+        "Milpitas",
+        "San Jose",
+        "Treasurer"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph91-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9112/Eph91_12.pdf",
+      "txtPath": "9112/Eph91_12.md"
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "articles": [
+    {
+      "id": "eph95-03-sjaa-ephemeris",
+      "documentId": "eph95-03",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the March 1995 issue (Volume 6, Number 3) of the \"SJAA Ephemeris.\" It serves as the official publication of the San Jose Astronomical Association, providing news and information for its members.",
+      "categories": [
+        "Astronomy Club Publication",
+        "Newsletter",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "March 1995",
+        "Astronomical Publication",
+        "Club Newsletter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-the-eyepiece",
+      "documentId": "eph95-03",
+      "title": "The Eyepiece",
+      "summary": "This newsletter column, \"The Eyepiece\" by Bob Madden, provides updates on recent clear skies and activities at the Chabot Mirror Making Lab. It announces an immediate increase in membership dues to $15, explaining it as a carefully considered decision by the Board of Directors. The article also details a comprehensive calendar of upcoming star parties, meetings, and observational astronomy classes for March, April, and early May.",
+      "categories": [
+        "Newsletter",
+        "Organizational News",
+        "Events Calendar",
+        "Observing Activities",
+        "Meetings",
+        "Classes"
+      ],
+      "keywords": [
+        "Membership Dues",
+        "Star Parties",
+        "Chabot Mirror Making Lab",
+        "Astronomical Events",
+        "Board of Directors",
+        "Observational Astronomy",
+        "Article Submissions",
+        "San Jose Astronomical Association",
+        "Solar Eclipse"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-forty-years-ago-this-month",
+      "documentId": "eph95-03",
+      "title": "Forty Years Ago this month",
+      "summary": "This article recounts a March 1954 meeting of an astronomical society, focusing on its early organizational efforts including discussion of incorporation, election of temporary officers, and a survey of members' telescopes. The meeting also featured educational talks on the Solar System and the constellation Leo, along with practical discussions on telescope construction and potential observing sites. The article highlights the initial activities and enthusiasm of the club members.",
+      "categories": [
+        "Historical",
+        "Club Meeting Report",
+        "Astronomical Society History",
+        "Organizational",
+        "Education"
+      ],
+      "keywords": [
+        "1954",
+        "Astronomical Society",
+        "Club meeting",
+        "Organization",
+        "Incorporation",
+        "Officers",
+        "Sky & Telescope",
+        "Solar System",
+        "Leo (constellation)",
+        "Telescope construction",
+        "Western Amateur Astronomers",
+        "San Jose State College"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-03-houge-park-star-party",
+      "documentId": "eph95-03",
+      "title": "Houge Park Star Party",
+      "summary": "The Houge Park Star Party, held on February 3, 1995, marked the first such event of the year, drawing over 100 people and 20 telescopes after a period of wet weather. Attendees observed objects like Mars, Saturn, and the Orion Nebula under surprisingly stable and fairly transparent conditions, often using high magnification. The event fostered a casual, \"picnic-like\" atmosphere, bringing together amateur astronomers and the public to enjoy a night of observing.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Event Report",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Houge Park Star Party",
+        "Star party",
+        "Amateur astronomy",
+        "Observing",
+        "Telescopes",
+        "Mars",
+        "Saturn",
+        "Orion Nebula",
+        "February 3, 1995",
+        "Paul Barton",
+        "High magnification",
+        "Community event"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph95-03-real-time-lunar-planetary-imaging",
+      "documentId": "eph95-03",
+      "title": "Real Time Lunar & Planetary Imaging",
+      "summary": "Gene Cisneros successfully adapted an inexpensive, miniature CCD surveillance camera for astronomical imaging after being inspired by the SL9 events. While initially facing issues with overexposure on bright objects like Jupiter, he achieved excellent, correctly exposed images of the Moon, demonstrating its utility for Solar System observations. He plans further tests and modifications to optimize its performance.",
+      "categories": [
+        "Amateur Astronomy Projects",
+        "Imaging Equipment Review",
+        "Observing Reports",
+        "Technical How-to",
+        "CCD Imaging"
+      ],
+      "keywords": [
+        "CCD camera",
+        "Lunar imaging",
+        "Planetary imaging",
+        "Jupiter",
+        "Moon",
+        "SL9",
+        "Telescope adaptation",
+        "Image processing",
+        "Electronic shutter",
+        "Amateur astronomy equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph95-03-asterisms-webb-and-neckerman-objects-02-25",
+      "documentId": "eph95-03",
+      "title": "Asterisms — Webb And Neckerman Objects: 02/25",
+      "summary": "This article introduces a series on \"Webb Objects\" and \"Neckerman Objects,\" which are asterisms observed from a \"picturesque point of view.\" Inspired by Webb and Larry Neckerman's approach to observing celestial objects, the author plans to present a couple dozen interesting asterisms, mostly identified by Neckerman and some by the author.",
+      "categories": [
+        "Observing Guides",
+        "Celestial Objects",
+        "Amateur Astronomy",
+        "Asterisms"
+      ],
+      "keywords": [
+        "Asterisms",
+        "Webb Objects",
+        "Neckerman Objects",
+        "Larry Neckerman",
+        "Observing",
+        "Celestial Objects",
+        "Telescopes"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph95-03-neckerman-2-nk-2-the-tomahawk-in-cepheus",
+      "documentId": "eph95-03",
+      "title": "Neckerman 2 (NK-2) — The Tomahawk In Cepheus.",
+      "summary": "Neckerman 2 (NK-2), also known as 'The Tomahawk,' is a striking geometric pattern of bright stars in Cepheus, discovered by Mr. Neckerman in 1963. Visible with small telescopes, it features four bright stars that form a tomahawk shape, with two additional stars appearing in larger instruments. Located three degrees northwest of delta Cephei, NK-2 is described as a showpiece object that consistently impresses observers at star parties.",
+      "categories": [
+        "observing reports",
+        "deep sky objects",
+        "stargazing guide",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Neckerman 2",
+        "NK-2",
+        "Cepheus",
+        "The Tomahawk",
+        "star pattern",
+        "double stars",
+        "delta Cephei",
+        "15 Cephei",
+        "Unitron refractor",
+        "Tirion's Sky Atlas 2000",
+        "Atlas Coeli",
+        "star parties"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-mars-the-heart-of-the-lion",
+      "documentId": "eph95-03",
+      "title": "Mars the heart of the lion",
+      "summary": "The article details observing Mars in January and February 1995, describing its apparent movement through the constellation Leo and its notable brightness during a close approach. It offers practical advice for amateur astronomers, explaining that telescopes can reveal Mars as a disk, with larger instruments potentially showing its polar ice cap and dark surface features.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Planetary Observation",
+        "Stargazing Tips",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Mars",
+        "Leo (constellation)",
+        "Planetary observation",
+        "Telescope viewing",
+        "Polar ice cap",
+        "Dark features",
+        "Amateur astronomy",
+        "1995"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph95-03-the-lunatic-fringe",
+      "documentId": "eph95-03",
+      "title": "The Lunatic Fringe",
+      "summary": "Rich Neuschaefer sends a brief, informal note, presumably accompanying another installment of 'The Lunatic Fringe' series. He expresses a personal reminder to observe the Moon again, hinting at his interest in lunar observation.",
+      "categories": [
+        "Amateur Astronomy",
+        "Lunar Observation",
+        "Personal Communication",
+        "Informal Update"
+      ],
+      "keywords": [
+        "Lunatic Fringe",
+        "Moon",
+        "Lunar observation",
+        "Amateur astronomy",
+        "Rich Neuschaefer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-the-lunatic-fringe",
+      "documentId": "eph95-03",
+      "title": "The Lunatic Fringe",
+      "summary": "This article provides a guide for observing specific lunar features during a bright, near-full Moon, particularly focusing on objects near the terminator. It categorizes several features like Aristarchus, Marius, Schroter's Valley, Rupes Toscanelli, and Marius Rille by difficulty, offering descriptions and tips for finding them. The article also recommends \"Atlas of the Moon\" by Antonin Rukl as a helpful resource.",
+      "categories": [
+        "Observing Guide",
+        "Lunar Observation",
+        "Amateur Astronomy",
+        "Recommended Resources"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar features",
+        "Aristarchus",
+        "Marius",
+        "Schroter's Valley",
+        "Rupes Toscanelli",
+        "Marius Rille",
+        "Terminator",
+        "Crater",
+        "Rille",
+        "Lunar atlas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-election-results",
+      "documentId": "eph95-03",
+      "title": "Election Results",
+      "summary": "The results of the Board of Director's elections, which took place at the February General meeting, have been announced. The individuals elected include Jim Van Nuland, Paul Barton, Bill O' Shaughnessy, Bob Elsberry, and Ed Erbeck.",
+      "categories": [
+        "news",
+        "organizational update",
+        "meeting report"
+      ],
+      "keywords": [
+        "election results",
+        "Board of Directors",
+        "general meeting",
+        "organizational governance",
+        "Jim Van Nuland",
+        "Paul Barton",
+        "Bill O' Shaughnessy",
+        "Bob Elsberry",
+        "Ed Erbeck"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-budget-jim-hodgers-board-member",
+      "documentId": "eph95-03",
+      "title": "Budget - Jim Hodgers, Board Member",
+      "summary": "This document outlines a budget report compiled by Board Member Jim Hodgers, detailing actual expenses for 1994 and a proposed budget for 1995. It identifies a projected financial shortfall in 1995, primarily due to the introduction of liability insurance costs. To cover these new expenses and ensure the organization's continued operation, a motion to increase membership dues from $12 to $15 per year was made, seconded, and passed.",
+      "categories": [
+        "Budget",
+        "Financial Report",
+        "Organizational Management",
+        "Membership",
+        "Club Business"
+      ],
+      "keywords": [
+        "Budget",
+        "Expenses",
+        "Income",
+        "Membership Dues",
+        "Liability Insurance",
+        "Financial Shortfall",
+        "1994",
+        "1995",
+        "Club Operations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-please-take-note",
+      "documentId": "eph95-03",
+      "title": "PLEASE TAKE NOTE !!",
+      "summary": "The Board of Directors has approved a motion to change the general meeting site to Houge Park. The annual swap and auction will be held there in April, and regular general meetings will commence at Houge Park starting in May. Members are advised to update their calendars with this new venue.",
+      "categories": [
+        "Announcement",
+        "Meetings",
+        "Events"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Venue Change",
+        "Houge Park",
+        "Swap and Auction",
+        "Board of Directors",
+        "April 1995",
+        "May 1995"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph95-03-good-h-alpha-sensitive-films",
+      "documentId": "eph95-03",
+      "title": "Good H-alpha-Sensitive Films",
+      "summary": "This article discusses the challenges of finding H-alpha sensitive films for astrophotography, noting the discontinuation of the original Fuji HG 400. The author identifies current Fuji NHG 400 and Kodak Pro 400 as potentially good alternatives, based on their data sheets showing red-sensitive layers peaking near 656nm. The piece concludes with caveats about potential outdated data, the importance of hydrogen hypering, and the need for adequate blue-green sensitivity for accurate nebula color rendition.",
+      "categories": [
+        "Astrophotography",
+        "Equipment Review",
+        "Technical Discussion",
+        "Observing Report"
+      ],
+      "keywords": [
+        "H-alpha",
+        "Film",
+        "Astrophotography",
+        "Fuji HG 400",
+        "Fuji NHG 400",
+        "Kodak Pro 400",
+        "Film sensitivity",
+        "Hypering",
+        "Nebulae",
+        "Color rendition",
+        "656nm",
+        "H-beta",
+        "OIII"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-astronomical-fun-factors",
+      "documentId": "eph95-03",
+      "title": "Astronomical Fun Factors",
+      "summary": "This article introduces the concept of the \"Astronomical Fun Factor\" (AFF) and \"Astronomical Fun Unit\" (AFU) as metrics to evaluate the enjoyment derived from using amateur telescopes and accessories, complementing traditional price and performance evaluations. The author, Val Germann, demonstrates how to calculate AFUs by applying a fun factor to observing time, using the example of observing with and without a finder scope. The piece humorously highlights the significant impact of user experience on overall enjoyment in amateur astronomy.",
+      "categories": [
+        "Amateur Astronomy",
+        "Opinion",
+        "Equipment Evaluation",
+        "User Experience",
+        "Commentary"
+      ],
+      "keywords": [
+        "Astronomical Fun Factor",
+        "Astronomical Fun Unit",
+        "Telescope evaluation",
+        "Amateur telescopes",
+        "Finder scope",
+        "Observing experience",
+        "Enjoyment",
+        "Dobsonian mount",
+        "Val Germann"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph95-03-april-8th-1995",
+      "documentId": "eph95-03",
+      "title": "April 8th, 1995",
+      "summary": "This document announces an event hosted by the San Jose Astronomical Association on April 8th, 1995, featuring a swap meet from 2:00 PM to 5:00 PM and an auction starting at 6:00 PM. The event, where attendees can exchange or sell unused items, is located at Hogue Park near Hwy. 17 and Camden Ave.",
+      "categories": [
+        "Event Announcement",
+        "Club Activity",
+        "Community Event",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "April 8, 1995",
+        "Swap Meet",
+        "Auction",
+        "Hogue Park",
+        "San Jose Astronomical Association",
+        "Astronomy equipment",
+        "Fundraiser",
+        "California"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph95-03-directions-to-houge-park",
+      "documentId": "eph95-03",
+      "title": "Directions to HOUGE PARK",
+      "summary": "This document provides directions to Houge Park and detailed registration information for the 1995 Bay Area Astronomical Auction, including a form for item donations benefitting the SJAA. It also features the 1994 calendar for the San Jose Astronomical Association (SJAA), listing dates for general meetings, Houge Park star parties, and observational astronomy classes. The article highlights pre-registration for the auction and encourages readers to check the monthly Ephemeris for updates.",
+      "categories": [
+        "Directions",
+        "Event Announcement",
+        "Registration",
+        "Calendar",
+        "Organizational Information",
+        "Fundraising"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Bay Area Astronomical Auction",
+        "SJAA",
+        "Star Party",
+        "General Meeting",
+        "Observational Astronomy Class",
+        "Registration",
+        "Donation",
+        "Calendar"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph95-03-astro-ads",
+      "documentId": "eph95-03",
+      "title": "ASTRO ADS",
+      "summary": "This document features 'Astro Ads,' a free classifieds section for noncommercial advertisers selling astronomically related products or services, with a monthly submission deadline. It lists various used astronomical equipment for sale, including telescopes (Meade, Questar, Dobsonian), optical components, and ATM (Amateur Telescope Making) stock. Additionally, there's a request for a ride to general meetings for a community member.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment Sales",
+        "Community Announcements",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "telescopes",
+        "Meade",
+        "Questar",
+        "Dobsonian",
+        "optical tube",
+        "eyepieces",
+        "tripod",
+        "solar filter",
+        "ATM stock",
+        "lenses",
+        "hardware",
+        "classified advertisements",
+        "astronomy equipment",
+        "community request"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-telescope-loaner-status",
+      "documentId": "eph95-03",
+      "title": "Telescope Loaner Status",
+      "summary": "This document provides a status update for a telescope loaner program, listing various telescopes, their current users, and due dates. Several telescopes are noted as 'available' for loan, including a specialized solar telescope for experienced members. Instructions are given for members to call Paul Barton to borrow a telescope or add their name to a waiting list.",
+      "categories": [
+        "equipment management",
+        "club news",
+        "loaner program",
+        "astronomy club operations"
+      ],
+      "keywords": [
+        "telescope loaner",
+        "equipment availability",
+        "SJAA",
+        "Paul Barton",
+        "astronomy club",
+        "telescope types",
+        "due dates",
+        "member services"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph95-03-lunar-phase-date-rise-trans-set",
+      "documentId": "eph95-03",
+      "title": "Lunar Phase Date Rise Trans Set",
+      "summary": "This document provides a tabular schedule of lunar phases, including New Moon, First Quarter, Full Moon, and Last Quarter. For each phase, it lists the specific date and time of the event, along with the corresponding moonrise, transit, and moonset times. This data serves as an astronomical guide for tracking the moon's cycle and positions.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Observing Aids",
+        "Lunar Data",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Moon",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Moonrise",
+        "Moonset",
+        "Transit",
+        "Astronomy Schedule",
+        "Celestial Mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-nearer-planets",
+      "documentId": "eph95-03",
+      "title": "NEARER PLANETS:",
+      "summary": "This article provides an astronomical ephemeris for March 1995, detailing the visibility, magnitude, and distance of Mercury, Venus, Mars, Jupiter, and Saturn across specific dates. It also includes data for the Sun, astronomical twilight, and sidereal time. A dedicated section highlights optimal observing conditions for the \"Darkest Saturday Night\" on March 25, 1995, listing times for sunset, moonrise, and astrophotography hours.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guide",
+        "Astronomical Data",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planetary positions",
+        "Magnitude",
+        "Astronomical Unit",
+        "Astronomical twilight",
+        "Sidereal time",
+        "Astrophotography",
+        "Observing conditions",
+        "March 1995"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-times-and-dates-are-pacific-standard",
+      "documentId": "eph95-03",
+      "title": "TIMES AND DATES ARE PACIFIC STANDARD",
+      "summary": "This document specifies that all times and dates referenced within are in Pacific Standard Time (PST) and represent local civil times. It also credits the derivation of these time values to \"Astronomy with your Personal Computer\" by Peter Duffet-Smith and \"MacEphem\" by Elwood Downey.",
+      "categories": [
+        "Technical Note",
+        "Reference Information",
+        "Methodology"
+      ],
+      "keywords": [
+        "Pacific Standard Time",
+        "PST",
+        "Local Civil Time",
+        "Time Standard",
+        "Astronomy with your Personal Computer",
+        "MacEphem",
+        "Time and Date Conventions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-offices-and-board-of-directors",
+      "documentId": "eph95-03",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the names and contact phone numbers for the current officers and members of the Board of Directors for an unspecified organization. It details the roles of President, Vice President, Secretary, Treasurer, and several Directors, providing an overview of its leadership.",
+      "categories": [
+        "Organizational Structure",
+        "Leadership Directory",
+        "Contact Information",
+        "Internal Governance"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "Leadership",
+        "Organizational Chart",
+        "Contact List",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-ephemeris-contributors",
+      "documentId": "eph95-03",
+      "title": "Ephemeris Contributors",
+      "summary": "This document is a very brief list titled \"Ephemeris Contributors.\" It provides the names and phone numbers for Don Machholz and Paul Barton, and just the name for Rich Stanton, seemingly as contact information for individuals involved in ephemeris contributions.",
+      "categories": [
+        "Contact List",
+        "Contributors",
+        "Reference"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Contributors",
+        "Contacts",
+        "Don Machholz",
+        "Paul Barton",
+        "Rich Stanton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-comet-comments",
+      "documentId": "eph95-03",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports on the faint first comet discovery of the year, P/1995 Al (Jedicke), and the fading of Periodic Comet Borrelly. It announces the availability of the \"Catalogue of Cometary Orbits (1995),\" detailing orbital elements for 878 comets, of which 184 are periodic. The piece concludes with a list of popular periodic comets, noting their periods, appearances, and associated meteor showers.",
+      "categories": [
+        "Comet Observations",
+        "Astronomical News",
+        "Reference Material",
+        "Cometary Science"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "P/1995 Al (Jedicke)",
+        "Periodic Comet Borrelly",
+        "Catalogue of Cometary Orbits",
+        "Orbital elements",
+        "Periodic comets",
+        "P/Halley",
+        "2P/Encke",
+        "Meteor showers",
+        "Ursid meteor shower",
+        "Leonids meteor shower",
+        "Perseid meteor shower"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph95-03-ephemeris",
+      "documentId": "eph95-03",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled \"EPHEMERIS,\" provides an astronomical ephemeris for Comet 19P/Borrelly, detailing its celestial coordinates (Right Ascension, Declination), elongation, sky visibility, and apparent magnitude for dates spanning late February to mid-March 1995. It also lists key orbital elements for the comet, including its perihelion date, distance, argument of perihelion, ascending node, inclination, eccentricity, and orbital period. The \"EPHEMERIS\" is identified as a monthly publication of the San Jose Astronomical Association, with submission guidelines for members.",
+      "categories": [
+        "Astronomy",
+        "Comet Observing",
+        "Orbital Data",
+        "Astronomical Publication",
+        "Local Astronomy Club"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "19P/BORRELLY",
+        "Comet",
+        "Orbital elements",
+        "Right ascension",
+        "Declination",
+        "Magnitude",
+        "Perihelion",
+        "San Jose Astronomical Association",
+        "Celestial mechanics"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph95-03-san-jose-astronomical-association-membership",
+      "documentId": "eph95-03",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership options, including 'Membership Only,' 'Membership/S&T' (likely referring to Sky & Telescope magazine), and 'Junior' (under 18), along with their respective annual dues. The form provides instructions for submission, contact details for the treasurer, and general information about the non-profit organization, dating the publication to March 1995.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Organizational Information",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Membership dues",
+        "Astronomy club",
+        "Junior membership",
+        "Sky & Telescope",
+        "Treasurer",
+        "Contact information",
+        "March 1995"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph95-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9503/Eph95_03.pdf",
+      "txtPath": "9503/Eph95_03.md"
+    }
+  ]
+}

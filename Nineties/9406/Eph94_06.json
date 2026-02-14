@@ -1,0 +1,622 @@
+{
+  "articles": [
+    {
+      "id": "eph94-06-sjaa-ephemeris",
+      "documentId": "eph94-06",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the June 1994 issue, Volume 5 Number 6, of \"SJAA EPHEMERIS,\" the official publication of the San Jose Astronomical Association. It serves as a historical record of the association's activities and astronomical information for that period.",
+      "categories": [
+        "Publications",
+        "Astronomy Club",
+        "News",
+        "Historical"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "Astronomy club publication",
+        "June 1994"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-the-eyepiece",
+      "documentId": "eph94-06",
+      "title": "The Eyepiece",
+      "summary": "This article provides updates on club activities and member news, including a health update for Bob Keller and the success of the April auction, which raised over $620. It details upcoming general meetings featuring speakers Mike Rushford on remote solar telescopes and Peter Jenniskens on the Perseid meteor shower, alongside a comprehensive schedule of June and July star parties and astronomical classes. The newsletter also encourages member contributions and highlights special events like the Yosemite Star Party and a concert series at Lick Observatory.",
+      "categories": [
+        "News",
+        "Events",
+        "Club Activities",
+        "Announcements",
+        "Astronomical Observing"
+      ],
+      "keywords": [
+        "Astronomy club",
+        "Star parties",
+        "Astronomical events",
+        "Member news",
+        "Auction results",
+        "Mike Rushford",
+        "Remote solar telescope",
+        "Bulletin Board System (BBS)",
+        "Peter Jenniskens",
+        "Perseid meteor shower",
+        "Lick Observatory",
+        "Collimation",
+        "Comet Shoemaker-Levy",
+        "Jupiter impact",
+        "Yosemite Star Party"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-06-double-triple-and-multiple-stars",
+      "documentId": "eph94-06",
+      "title": "Double, Triple, and Multiple Stars",
+      "summary": "This article by Patrick M Donnelly details the key factors influencing the successful observation of double and multiple stars. It emphasizes that sky conditions, specifically 'seeing' and darkness, are the single most important elements, often overriding telescope size. Other crucial factors include the observed star system's properties like component separation and magnitude difference, and the telescope's aperture and the use of high magnification.",
+      "categories": [
+        "Observational Astronomy",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Double Stars",
+        "Observing Techniques"
+      ],
+      "keywords": [
+        "Double stars",
+        "Multiple stars",
+        "Observing factors",
+        "Seeing conditions",
+        "Sky darkness",
+        "Telescope aperture",
+        "Resolving power",
+        "Star separation",
+        "Star magnitude",
+        "High power magnification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-demounting-the-optics-celestron",
+      "documentId": "eph94-06",
+      "title": "Demounting the Optics Celestron",
+      "summary": "This document provides detailed instructions for demounting the optics, specifically the corrector lens and secondary mirror, from a Celestron Schmidt-Cassegrain telescope. It emphasizes extreme caution due to the fragility and precise orientation requirements of the components for proper collimation and optical performance. The guide outlines steps for removal, indexing parts for reassembly, and careful replacement to avoid damage.",
+      "categories": [
+        "Technical",
+        "Maintenance",
+        "How-To Guide",
+        "Optics Repair"
+      ],
+      "keywords": [
+        "Celestron",
+        "Schmidt-Cassegrain",
+        "Optics",
+        "Demounting",
+        "Corrector Plate",
+        "Secondary Mirror",
+        "Telescope Maintenance",
+        "Collimation",
+        "Cleaning",
+        "Instructions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph94-06-optics",
+      "documentId": "eph94-06",
+      "title": "Optics",
+      "summary": "This article provides detailed, step-by-step instructions for the removal and reinstallation of a telescope's primary mirror, emphasizing necessary precautions and tools. It notes that the mirror will automatically orient correctly upon reinstallation but highlights the importance of subsequent collimation. The article also mentions the prior removal of the corrector plate and refers to external collimation instructions.",
+      "categories": [
+        "Technical",
+        "Maintenance",
+        "Repair",
+        "How-to Guide",
+        "Optics"
+      ],
+      "keywords": [
+        "Telescope",
+        "Primary Mirror",
+        "Optics",
+        "Removal",
+        "Installation",
+        "Collimation",
+        "Maintenance",
+        "Corrector Plate",
+        "Focusing Mechanism",
+        "Baffle Tube"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph94-06-notice",
+      "documentId": "eph94-06",
+      "title": "NOTICE!!!",
+      "summary": "This notice informs members that they have received their Ephemeris and should check their mailing label for their membership's expiration date. It urges them to renew promptly to ensure uninterrupted delivery of future Ephemeris issues.",
+      "categories": [
+        "Membership",
+        "Administrative Notice",
+        "Renewal Reminder"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Membership Renewal",
+        "Expiration Date",
+        "Mailing Label",
+        "Subscription"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-directions-to-the-san-jose-astronomical-association-s-star-parties-by-rich-neuschaefer",
+      "documentId": "eph94-06",
+      "title": "Directions to the San Jose Astronomical Association's star parties. by Rich Neuschaefer",
+      "summary": "This document provides directions to the San Jose Astronomical Association's (SJAA) star parties. It also offers essential advice for attendees to bring a red-filtered flashlight to preserve night vision for themselves and others, suggesting both DIY solutions and purchasing specialized red LED flashlights.",
+      "categories": [
+        "Events",
+        "Observing Tips",
+        "Community Astronomy",
+        "Guides"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Star party",
+        "Directions",
+        "Red flashlight",
+        "Night vision",
+        "Astronomy",
+        "Observing",
+        "Orion Telescope Center"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-henry-coe-state-park",
+      "documentId": "eph94-06",
+      "title": "HENRY COE STATE PARK",
+      "summary": "This document provides detailed driving directions to a specific astronomical observing site at Henry Coe State Park, accessible via the East Dunne Avenue exit from Hwy. 101 South. Visitors are instructed to park outside a locked gate near a horse trough and hike a short distance to the small, dusty site, which lacks restroom facilities. Assistance will be available from a member of the SJAA upon arrival.",
+      "categories": [
+        "Observing Site Information",
+        "Directions",
+        "Astronomy",
+        "Location Guide"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Observing site",
+        "Directions",
+        "San Jose Astronomical Association (SJAA)",
+        "Parking",
+        "Hiking",
+        "Gilroy",
+        "Anderson Reservoir"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-houge-park",
+      "documentId": "eph94-06",
+      "title": "HOUGE PARK",
+      "summary": "Houge Park serves as the location for the SJAA's in-town Friday star parties, generally held on the Friday closest to the first quarter Moon. The article provides detailed directions to the park, noting it's a fun but not very dark observing site, with available restrooms and space for telescope setup.",
+      "categories": [
+        "Observing Sites",
+        "Events",
+        "Logistics"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Star Party",
+        "SJAA",
+        "Observing Site",
+        "Directions",
+        "Telescope Setup",
+        "First Quarter Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-grant-ranch-county-park",
+      "documentId": "eph94-06",
+      "title": "GRANT RANCH COUNTY PARK",
+      "summary": "Grant Ranch County Park is described as an astronomical observing site for groups like the SJAA and Halls Valley Astronomical Group. Directions are provided, noting it's an 8-mile drive on Mt. Hamilton Road, and that telescopes are set up in the main South parking lot, which offers moderately dark skies. Users are advised that the park gates close after dark.",
+      "categories": [
+        "observing sites",
+        "directions",
+        "astronomy groups",
+        "star gazing"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "Mt. Hamilton Road",
+        "SJAA",
+        "Halls Valley Astronomical Group",
+        "observing site",
+        "telescopes",
+        "dark sky",
+        "directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-fremont-peak-state-park",
+      "documentId": "eph94-06",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park, located 70 miles south of San Jose, is a premier dark-sky observing site popular with amateur astronomers, especially during new moon weekends. The park offers excellent dark skies and good seeing conditions, often hosting 40-80 telescopes and featuring a public observatory with a 30-inch reflector. Visitors should bring red-filtered flashlights and note the park use fees, with clear directions provided for access.",
+      "categories": [
+        "Observing Site Guide",
+        "Amateur Astronomy",
+        "Location Information",
+        "Park Information"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "observing site",
+        "dark sky",
+        "new moon",
+        "amateur astronomy",
+        "observatory",
+        "telescopes",
+        "directions",
+        "park fees",
+        "San Juan Bautista"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph94-06-astro-ads",
+      "documentId": "eph94-06",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free platform for non-commercial advertisements of astronomically related products and services, requiring submissions by the 12th of each month for a three-month run. The document also presents the 1994 calendar for the SJAA, detailing dates for general meetings, Houge Park star parties, and observational astronomy classes.",
+      "categories": [
+        "Classifieds",
+        "Events Calendar",
+        "Community Information",
+        "Local Astronomy Group"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "classifieds",
+        "astronomy products",
+        "astronomy services",
+        "SJAA calendar",
+        "general meetings",
+        "star parties",
+        "observational astronomy classes",
+        "1994 events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-telescope-loaner-status",
+      "documentId": "eph94-06",
+      "title": "Telescope Loaner Status",
+      "summary": "This article provides an update on a telescope loaner program, detailing the current status of various telescopes, including who has them, their due dates, and which are available for borrowing, alongside a waiting list for interested members. It also features classified advertisements for astronomical equipment such as an observatory, telescopes, and eyepieces, and concludes with a note thanking a member for replacing a lost eyepiece, emphasizing the importance of equipment care.",
+      "categories": [
+        "Club Operations",
+        "Member Resources",
+        "Equipment Management",
+        "Classifieds",
+        "Community Bulletin"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Telescopes",
+        "Astronomy Equipment",
+        "Observatory",
+        "Eyepieces",
+        "Equipment Classifieds",
+        "Club Membership",
+        "Due Dates",
+        "Waiting List"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph94-06-eyepieces",
+      "documentId": "eph94-06",
+      "title": "Eyepieces",
+      "summary": "This article provides a comparative review of various Televue eyepieces, including Naglers, Plossls, and Panoptics, detailing their performance characteristics such as field of view, light transmission, cost, and eye relief. The author offers practical advice for amateur astronomers, covering topics like the use of Barlow lenses, considerations for eye relief and exit pupil, and tips for trying equipment before purchase. It emphasizes matching eyepieces to specific telescope types and observing needs.",
+      "categories": [
+        "Equipment Review",
+        "Observing Guide",
+        "Astronomy Gear",
+        "Technical Advice"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Televue",
+        "Nagler",
+        "Plossl",
+        "Panoptic",
+        "Barlow lens",
+        "Eye relief",
+        "Exit pupil",
+        "Field of view",
+        "Light transmission",
+        "Telescope accessories",
+        "Observing tips",
+        "Focal length",
+        "Distortion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-houge-park-star-party",
+      "documentId": "eph94-06",
+      "title": "Houge Park Star party",
+      "summary": "A star party at Houge Park on Friday, May 13th, was highly successful, drawing about 100 people and 15 telescopes under exceptionally clear, warm, and windless conditions with a minimal moon. Attendees observed Jupiter, the Moon (including a star occultation), and various deep-sky objects like M-3, M-13, M-44, and M-51 through the association's C-11 telescope. The report also highlights the need for a dedicated 'keeper' for the valuable C-11 telescope for future public and school events.",
+      "categories": [
+        "observing report",
+        "star party",
+        "community event",
+        "astronomy",
+        "telescope maintenance"
+      ],
+      "keywords": [
+        "Houge Park",
+        "star party",
+        "observing",
+        "Jupiter",
+        "Moon",
+        "occultation",
+        "star clusters",
+        "M-3",
+        "M-13",
+        "M-44",
+        "M-51",
+        "galaxy",
+        "telescopes",
+        "C-11",
+        "Paul Barton",
+        "May 13",
+        "SJAA"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph94-06-comet-comments",
+      "documentId": "eph94-06",
+      "title": "Comet Comments",
+      "summary": "This article, titled \"Comet Comments,\" by Don Machholtz provides updates on several comets visible in the sky. It details the recovery and characteristics of Periodic Comet Russell 2 (1994c) and Periodic Comet Maury (1994g) by J. Scotti, noting their faintness and orbital periods. Additionally, it highlights the discovery of Comet Takamizawa-Levy (1994f) by Kesao Takamizawa and David Levy, and another discovery, Comet Takamizawa (1994i), by Takamizawa, including their perihelion dates and brightness.",
+      "categories": [
+        "observing reports",
+        "astronomy news",
+        "cometology",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "comets",
+        "Periodic Comet Russell 2",
+        "Comet Takamizawa-Levy",
+        "Periodic Comet Maury",
+        "Comet Takamizawa",
+        "Don Machholtz",
+        "J. Scotti",
+        "Kesao Takamizawa",
+        "David Levy",
+        "perihelion",
+        "orbital period",
+        "magnitude",
+        "Kitt Peak",
+        "observational astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-ephemerides",
+      "documentId": "eph94-06",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for several comets, including Comet Takamizawa-Levy (1994f), Periodic Comet Tempel 1, Comet Mueller (1993a, 1993p), Periodic Comet Shoemaker-Levy (1993e), and Comet McNaught-Russell (1993v), and Comet Takamizawa (1994i). For each comet, tables list its Right Ascension, Declination, elongation and sky position, and apparent magnitude at 5-day intervals from late May to early July.",
+      "categories": [
+        "Ephemerides",
+        "Observational Data",
+        "Astronomy",
+        "Comets",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet",
+        "Takamizawa-Levy",
+        "Tempel 1",
+        "Mueller",
+        "Shoemaker-Levy",
+        "McNaught-Russell",
+        "Takamizawa",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomy",
+        "Observation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph94-06-june-1994",
+      "documentId": "eph94-06",
+      "title": "June 1994",
+      "summary": "This document provides a detailed astronomical guide for June 1994, listing lunar phases, positions and magnitudes for Mercury, Venus, Mars, Jupiter, and Saturn, along with Sun data and astronomical twilight times. All times and dates are given in Pacific Daylight Time (PDT). It also highlights the 'Darkest Saturday Night' on June 11 and references the computational sources used for the data.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "ephemeris",
+        "monthly sky report"
+      ],
+      "keywords": [
+        "June 1994",
+        "lunar phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun",
+        "astronomical twilight",
+        "sidereal time",
+        "Pacific Daylight Time",
+        "magnitudes",
+        "AU",
+        "celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-offices-and-board-of-directors",
+      "documentId": "eph94-06",
+      "title": "Offices and Board of Directors",
+      "summary": "This document outlines the Offices and Board of Directors for an organization, listing individuals by their positions such as President, Vice President, Secretary, Treasurer, and various Directors. It also provides contact information for Ephemeris contributors, the Editor, and Distribution personnel, including their names and phone numbers.",
+      "categories": [
+        "organization",
+        "personnel",
+        "contact information",
+        "governance"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Offices",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Ephemeris Contributors",
+        "Editor",
+        "Distribution",
+        "contact list"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-archeo-astronomy",
+      "documentId": "eph94-06",
+      "title": "Archeo-Astronomy",
+      "summary": "Dr. Jeff Buell presented on archaeoastronomy of the ancient Anasazi people in the Southwest U.S., detailing his organized tour of sites like Chaco Canyon and Mesa Verde. He highlighted how Anasazi architecture, including cliff dwellings and kivas, incorporated precise astronomical alignments for tracking the sun's solstices and equinoxes, crucial for their agricultural calendar. Evidence also suggests they may have observed the Moon's 18.6-year standstill cycle, demonstrating a sophisticated understanding of celestial movements deeply integrated into their culture.",
+      "categories": [
+        "Archeoastronomy",
+        "Indigenous Cultures",
+        "Astronomy",
+        "History",
+        "Lecture Report"
+      ],
+      "keywords": [
+        "Anasazi",
+        "Archeoastronomy",
+        "Southwest U.S.",
+        "Cliff dwellings",
+        "Kivas",
+        "Solstices",
+        "Equinoxes",
+        "Lunar standstills",
+        "18.6-year cycle",
+        "Chaco Canyon",
+        "Mesa Verde",
+        "Indigenous astronomy",
+        "Ancient cultures",
+        "Agricultural calendar"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph94-06-san-jose-astronomical-association-membership",
+      "documentId": "eph94-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the submission guidelines for articles to \"EPHEMERIS,\" the monthly publication of the San Jose Astronomical Association. Members are encouraged to submit typed articles to editor Bob Madden by the 12th of the previous month, with a 3-1/2\" IBM or MAC diskette text file preferred.",
+      "categories": [
+        "Membership Information",
+        "Publication Guidelines",
+        "Club Communications"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Article Submission",
+        "Bob Madden",
+        "Publication Deadline",
+        "Membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph94-06-san-jose-astronomical-association-membership",
+      "documentId": "eph94-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership options including individual, individual with Sky & Telescope subscription, and junior memberships, along with their respective fees. Applicants can join by submitting the form and payment at an SJAA meeting or mailing it to the treasurer, Jim Hodgers, at the provided San Jose address, with the document dating back to June 1994.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational Information",
+        "Historical Document",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Dues",
+        "Sky & Telescope",
+        "Non-profit",
+        "San Jose",
+        "Jim Hodgers",
+        "June 1994"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph94-06-the-upcoming-collision-of-periodic-comet-shoemaker-levy-9-with-jupiter",
+      "documentId": "eph94-06",
+      "title": "THE UPCOMING COLLISION OF PERIODIC COMET SHOEMAKER-LEVY 9 WITH JUPITER",
+      "summary": "Fragments of Comet Shoemaker-Levy 9 are predicted to collide with Jupiter over five days in July, marking the first time such an astronomical collision has been both predicted and observed. The comet fragmented into a 'string of pearls' in 1992 after a close encounter with Jupiter. While the impact points will not be directly visible from Earth, observers are encouraged to watch Jupiter, and a detailed schedule of predicted collision times for the various comet fragments is provided.",
+      "categories": [
+        "Events",
+        "Astronomy News",
+        "Observing Guide",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Levy 9",
+        "Jupiter",
+        "Comet Collision",
+        "Planetary Impact",
+        "Astronomy Observation",
+        "Impact Times",
+        "Solar System",
+        "Comet Fragments",
+        "Universal Time",
+        "Pacific Daylight Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph94-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9406/Eph94_06.pdf",
+      "txtPath": "9406/Eph94_06.md"
+    }
+  ]
+}

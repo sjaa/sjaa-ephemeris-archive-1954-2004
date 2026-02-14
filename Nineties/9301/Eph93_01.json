@@ -1,0 +1,761 @@
+{
+  "articles": [
+    {
+      "id": "eph93-01-sjaa-ephemeris",
+      "documentId": "eph93-01",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the January 1993 issue (Volume 4, Number 1) of the SJAA Ephemeris, serving as the official publication for the San Jose Astronomical Association.",
+      "categories": [
+        "Publications",
+        "Astronomical Associations",
+        "Newsletters",
+        "Historical"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "January 1993",
+        "Astronomical Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-the-eyepiece",
+      "documentId": "eph93-01",
+      "title": "The EyePiece",
+      "summary": "This article reports Del Johnson's resignation from the SJAA Board of Directors to join the Peace Corps, while also highlighting his significant contributions to the ongoing observatory project, which recently had a public hearing for its Environmental Impact Report. It also reviews a past presentation by Kevin Medlock and Vance Chin on advanced CCD imaging and remote telescope control. The document concludes with a detailed calendar of upcoming events for January and February, including general meetings with guest speakers, various star parties, and beginning astronomy classes.",
+      "categories": [
+        "Organizational News",
+        "Project Updates",
+        "Events",
+        "Technical Astronomy",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA Board of Directors",
+        "Observatory Project",
+        "Environmental Impact Report",
+        "Public Hearing",
+        "CCD Imaging",
+        "Remote Telescope Control",
+        "Star Parties",
+        "General Meetings",
+        "Beginning Astronomy Class",
+        "Peace Corps",
+        "Black Holes",
+        "Gamma Ray Bursters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-special-notice",
+      "documentId": "eph93-01",
+      "title": "SPECIAL NOTICE",
+      "summary": "The Royal Astronomical Society of Canada's \"Observer's Handbook 1993\" is now available for $10 through Association Treasurer Jack Peterson. Members are reminded that Election Night for five Board positions will be held on January 9th at the general meeting, with nominations accepted from the floor or through the Nominating Committee. Additionally, Bob Brauer has been appointed to the Board to fill a vacancy, and John Wright has been nominated for the upcoming elections.",
+      "categories": [
+        "Organizational Announcements",
+        "Events",
+        "Publications",
+        "Membership News",
+        "Governance"
+      ],
+      "keywords": [
+        "Observer's Handbook 1993",
+        "Royal Astronomical Society of Canada",
+        "Jack Peterson",
+        "Election Night",
+        "January 9",
+        "Board positions",
+        "Nominating Committee",
+        "Bob Brauer",
+        "John Wright",
+        "Del Johnson",
+        "General Meeting"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph93-01-astromicroscopy-and-astrophotomicrography",
+      "documentId": "eph93-01",
+      "title": "Astromicroscopy and Astrophotomicrography",
+      "summary": "The article introduces 'Astromicroscopy' and 'Astrophotomicrography,' a novel method developed by Samuel D. Bissette. This technique involves taking wide-field 35-mm astrophotographs, then placing these slides under a microscope to magnify and observe specific features within the images, and finally re-photographing these magnified areas. This approach allows for detailed astronomical observation and photography without being hampered by real-time weather conditions, light pollution, or other outdoor viewing frustrations.",
+      "categories": [
+        "Technical",
+        "Astrophotography Techniques",
+        "Observing Methods",
+        "Novel Approaches"
+      ],
+      "keywords": [
+        "Astromicroscopy",
+        "Astrophotomicrography",
+        "Microscope",
+        "Astrophotography",
+        "Slide photography",
+        "Magnification",
+        "Astronomical observation",
+        "Imaging techniques",
+        "Wide-field photography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-creating-the-original-color-slides",
+      "documentId": "eph93-01",
+      "title": "Creating the Original Color Slides",
+      "summary": "This article details the process for creating original color slides of the night sky, particularly constellation areas, using a 35mm SLR camera, ASA 400 Ektachrome film (pushed to 800), and a tracking telescope. It provides specific instructions on equipment setup, exposure settings (e.g., 8-10 minute time exposures), and crucial tips for successful astrophotography, such as polar alignment, using light pollution filters, and avoiding adverse conditions. The process also includes maintaining an exposure journal and examining the developed slides for quality.",
+      "categories": [
+        "Technical",
+        "Instructional",
+        "Astrophotography Guide"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Color Slides",
+        "35mm Camera",
+        "Ektachrome Film",
+        "Tracking Telescope",
+        "Time Exposure",
+        "Night Sky Photography",
+        "Light Pollution Filter",
+        "Polar Alignment",
+        "Celestial Photography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-projection-viewing",
+      "documentId": "eph93-01",
+      "title": "Projection viewing",
+      "summary": "This document describes a \"projection viewing\" technique for astronomical slides, suggesting projection onto a large, white matte screen (at least 2x3 feet) and cautioning against glass bead screens. The method involves using a sky atlas for orientation, identifying areas for \"astromicroscopy\" (microscopic examination of astro color slides), and studying the celestial objects within the projected image.",
+      "categories": [
+        "Technical",
+        "Observing techniques",
+        "Image analysis"
+      ],
+      "keywords": [
+        "Projection viewing",
+        "Astromicroscopy",
+        "Astronomical slides",
+        "Sky atlas",
+        "Microscopic examination",
+        "Screen projection"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-visual-use-of-the-microscope",
+      "documentId": "eph93-01",
+      "title": "Visual Use of the Microscope",
+      "summary": "This article details the visual use of an Edmund Scientific microscope, outlining its specifications including various objectives, eyepieces, and features for magnifications up to 1000X. It provides practical, step-by-step instructions for viewing a color slide, emphasizing proper light adjustment, focusing, and systematic scanning techniques. The guide also suggests making notes of interesting objects or capturing them through microphotography.",
+      "categories": [
+        "Instructional",
+        "Microscopy",
+        "Equipment Guide",
+        "Scientific Techniques"
+      ],
+      "keywords": [
+        "microscope use",
+        "visual observation",
+        "microscopy techniques",
+        "equipment operation",
+        "magnification",
+        "slide viewing",
+        "microphotography",
+        "laboratory procedures",
+        "Edmund Scientific"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph93-01-micro-astro-photography-continued",
+      "documentId": "eph93-01",
+      "title": "Micro Astro-photography Continued",
+      "summary": "This article provides instructions for analyzing astro-photographic slides, emphasizing the importance of carefully examining each object through an eyepiece at high magnification (up to 500X). It suggests using guides like the Messier list for identification and warns against artifacts, encouraging users to enjoy discovering faint astronomical information embedded in the film emulsion.",
+      "categories": [
+        "Technical",
+        "Astrophotography",
+        "Observing Techniques"
+      ],
+      "keywords": [
+        "Micro Astro-photography",
+        "Slide analysis",
+        "Magnification",
+        "500X",
+        "Messier list",
+        "Film emulsion",
+        "Astronomical objects",
+        "Artifacts",
+        "Right ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-astrophotomicrography-photos-of-astrosildes-through-a-microscope",
+      "documentId": "eph93-01",
+      "title": "Astrophotomicrography: Photos of Astrosildes through a Microscope",
+      "summary": "This article details a technique called \"astrophotomicrography,\" which involves photographing astronomical slides (astroslides) through a microscope using a 35-mm camera. It provides specific instructions on equipment setup, emphasizing significant overexposure settings needed to compensate for unusual backgrounds, and offers tips for exposure logging and using a slide duplicator for magnification. The author promotes this indoor observational method as a unique way for amateur astronomers to expand their knowledge and enjoyment of celestial objects, providing a welcome alternative to outdoor stargazing.",
+      "categories": [
+        "Astrophotography",
+        "Technical Guide",
+        "Observational Techniques",
+        "Amateur Astronomy",
+        "How-to"
+      ],
+      "keywords": [
+        "Astrophotomicrography",
+        "Microscope photography",
+        "Astroslides",
+        "35-mm camera",
+        "Exposure settings",
+        "Overexposure",
+        "Ektachrome film",
+        "Slide duplicator",
+        "Amateur astronomy",
+        "Photography techniques",
+        "Indoor observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-paul-s-asterism-by-paul-barton",
+      "documentId": "eph93-01",
+      "title": "Paul's Asterism by Paul Barton",
+      "summary": "This article describes \"Paul's Asterism,\" an unofficial grouping of stars in Cassiopeia, first pointed out by Paul Mancuso at a girl scout star party. Paul Barton details how to find this unique asterism, which observers have likened to a lobster, airplane, or E.T., located near Delta and Phi Cassiopeiae and NGC 457. The author challenges readers to observe it themselves and report their findings.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Celestial Objects",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Paul's Asterism",
+        "Cassiopeia",
+        "Asterism",
+        "Observing",
+        "Star Party",
+        "NGC 457",
+        "Delta Cassiopeiae",
+        "Phi Cassiopeiae",
+        "Fremont Peak"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph93-01-star-parties",
+      "documentId": "eph93-01",
+      "title": "Star Parties",
+      "summary": "Paul Barton recounts two November star party events, one at Independence High School and another at Henry Coe State Park, both significantly impacted by overcast weather but successful in engaging attendees, particularly students, with astronomy. The article also provides detailed observational logs from the LLNL Guide Star Project between July and October 1992, describing experiments with laser guide stars, various imaging techniques (CCD, VHS), and the challenges posed by atmospheric conditions. These outings highlight efforts in both public outreach and advanced astronomical research.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Astronomy Outreach",
+        "Technical Astronomy",
+        "Research & Development"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Amateur Astronomy",
+        "NASA",
+        "Kuiper Observatory",
+        "Guide Star Project",
+        "LLNL",
+        "Telescopes",
+        "Weather Conditions",
+        "Astronomy Education",
+        "CCD Camera",
+        "Laser Guide Star",
+        "Rayleigh Scatter",
+        "Adaptive Optics"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph93-01-star-parties",
+      "documentId": "eph93-01",
+      "title": "Star Parties",
+      "summary": "Paul Barton's article \"Star Parties\" discusses the common challenge of uncooperative weather for stargazers. It encourages enthusiasts not to be deterred by marginal conditions, as opportunities for celestial viewing can still arise. The author suggests that staying home too often means missing out on potential observing experiences.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Tips",
+        "Stargazing Lifestyle"
+      ],
+      "keywords": [
+        "Stargazing",
+        "Weather",
+        "Observing",
+        "Star Parties",
+        "Astronomy",
+        "Viewing conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-independence-high-school",
+      "documentId": "eph93-01",
+      "title": "Independence High School",
+      "summary": "On Thursday, November 19, a special event took place at Independence High School involving NASA and educators for the \"Flight Opportunities for Science Teacher Enrichment\" program. The initiative planned for science teachers to experience actual flights in a NASA C-141 Kuiper Observatory, equipped with a 36-inch telescope. Despite local astronomers setting up telescopes, the observing portion of the event was canceled due to overcast skies.",
+      "categories": [
+        "events",
+        "education",
+        "science outreach",
+        "NASA projects"
+      ],
+      "keywords": [
+        "Independence High School",
+        "NASA",
+        "Flight Opportunities for Science Teacher Enrichment",
+        "Kuiper Observatory",
+        "C-141",
+        "science education",
+        "educators",
+        "astronomy",
+        "Dr. David Koch",
+        "Edna Divore"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-henry-coe-state-park",
+      "documentId": "eph93-01",
+      "title": "Henry Coe State Park",
+      "summary": "Despite an initially gloomy forecast, a group of amateur astronomers visited Henry Coe State Park for an observing session on Saturday, Nov 21. They managed to set up three telescopes and observe a few celestial objects before rapidly deteriorating weather, including rain, forced them to pack up early. The outing highlighted the success of an astronomy class and telescope loaner program in engaging new skygazers.",
+      "categories": [
+        "observing report",
+        "community outreach",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "observing session",
+        "amateur astronomy",
+        "telescope loaner program",
+        "astronomy class",
+        "weather conditions",
+        "M-57",
+        "Saturn",
+        "Venus",
+        "Alberio"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-information-from-eye-on-the-sky-bbs-regarding-llnl-guide-star-project",
+      "documentId": "eph93-01",
+      "title": "Information from Eye on the Sky BBS Regarding LLNL Guide Star Project",
+      "summary": "This document chronicles a series of observations and experiments conducted in late 1992 for the LLNL Guide Star Project, detailing efforts to view, record, and analyze a laser guide star. Observers utilized various telescopes and intensified CCD cameras, noting phenomena like the guide star blinking with laser frequency changes and characterizing its visibility and structure. The log also highlights experimental plans, technical challenges, and communication attempts between observation sites.",
+      "categories": [
+        "Observing Reports",
+        "Technical Notes",
+        "Project Updates",
+        "Experimental Log"
+      ],
+      "keywords": [
+        "LLNL Guide Star Project",
+        "Laser Guide Star",
+        "Astronomical Observation",
+        "CCD Imaging",
+        "Telescopes",
+        "Adaptive Optics",
+        "Atmospheric Effects",
+        "Amateur Television (ATV)",
+        "Laser Scattering"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-what-to-look-for",
+      "documentId": "eph93-01",
+      "title": "What to look for:",
+      "summary": "The document outlines the 1993 calendar for the SJAA, detailing monthly dates for general meetings, Houge Park star parties, and beginning astronomy classes. It also includes a brief observing tip to look for a minimum in Rayleigh scatter at 5-10 KM altitude, and references an 'Ephemeris' for additional information and potential changes.",
+      "categories": [
+        "Events",
+        "Observing Tips",
+        "Education",
+        "Club News",
+        "Astronomy Calendar"
+      ],
+      "keywords": [
+        "SJAA",
+        "1993 Calendar",
+        "Star Party",
+        "General Meeting",
+        "Astronomy Class",
+        "Rayleigh Scatter",
+        "Atmospheric Observation",
+        "Ephemeris",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph93-01-astro-ads",
+      "documentId": "eph93-01",
+      "title": "ASTRO ADS",
+      "summary": "This document features 'ASTRO ADS,' a free classifieds section for noncommercial sales of astronomical products and services, listing various used telescopes, binoculars, and accessories. It also provides an update on an association's telescope loaner program, detailing available instruments and recent donations. Additionally, it includes a request for members to correspond with an astronomy enthusiast in South Africa.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Community News",
+        "Loaner Program"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "Telescope sale",
+        "Astronomical equipment",
+        "Newtonian Telescope",
+        "Celestron C-8",
+        "Takahashi FC 125",
+        "Orion binoculars",
+        "Telescope loaner program",
+        "Paul Barton",
+        "Donation",
+        "Amateur astronomy",
+        "Used equipment"
+      ],
+      "pageStart": 6,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph93-01-double-triple-and-multiple-stars",
+      "documentId": "eph93-01",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "Patrick M. Donnelly recounts a successful binocular observing session from Cedar Rapids, Iowa, after a period of cloudy weather. He details how to locate several binocular double stars, including 16-17 Draconis, Kappa-1 & Kappa-2 Pegasi, Alpha Ceti, and pairs within the Hyades cluster. The article emphasizes that a large telescope is not required to enjoy many fascinating celestial sights, encouraging readers to explore the sky with binoculars.",
+      "categories": [
+        "Observing Reports",
+        "Binocular Astronomy",
+        "Finding Guides",
+        "Double Stars",
+        "Practical Astronomy"
+      ],
+      "keywords": [
+        "Double stars",
+        "Multiple stars",
+        "Binoculars",
+        "Observing",
+        "Star hopping",
+        "16-17 Draconis",
+        "Kappa-1 & Kappa-2 Pegasi",
+        "Alpha Ceti",
+        "Fomalhaut",
+        "Theta-1 & Theta-2 Tauri",
+        "Hyades cluster",
+        "Pleiades cluster",
+        "Celestial objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-group-70-computer-bulletin-board",
+      "documentId": "eph93-01",
+      "title": "GROUP 70 Computer Bulletin Board",
+      "summary": "Group 70 has established a new computer bulletin board service (BBS) at 510-443-6146, operating initially from 5-10 PM Pacific with specific connection settings (1200/2400 baud, N-8-1). This BBS serves as a discussion forum for Group 70 and general astronomy, allowing members to download and upload .GIF images, and also accommodates the Tri-Valley Stargazers. Members are encouraged to use it for enhancing communication, discussing projects, and providing feedback, with Sysops Mike Rushford and Rich Combs available for support.",
+      "categories": [
+        "News",
+        "Communication",
+        "Technology",
+        "Community",
+        "Astronomy Clubs"
+      ],
+      "keywords": [
+        "Group 70",
+        "Bulletin Board Service (BBS)",
+        "Astronomy",
+        "Communication",
+        "GIF images",
+        "Tri-Valley Stargazers",
+        "Telescope",
+        "Computer Control",
+        "Dial-up"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph93-01-fremont-peak-11-28-1992",
+      "documentId": "eph93-01",
+      "title": "Fremont Peak 11-28-1992",
+      "summary": "The article details an astronomy observing session at Fremont Peak on November 28, 1992, including weather conditions, participants, and equipment used, alongside an announcement for an upcoming star party. It also introduces the NASA FOSTER Program, an educational outreach initiative preparing Bay Area teachers for airborne astronomy missions aboard the Kuiper Airborne Observatory (KAO) through intensive workshops and hands-on activities.",
+      "categories": [
+        "Observing Report",
+        "Educational Program",
+        "Astronomy Outreach",
+        "News",
+        "Events"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "observing session",
+        "star gazing",
+        "star party",
+        "NASA",
+        "FOSTER Program",
+        "KAO",
+        "airborne astronomy",
+        "teachers",
+        "science education",
+        "workshops",
+        "astrophysics",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph93-01-houge-park-4-december-1992-by-paul-barton",
+      "documentId": "eph93-01",
+      "title": "Houge Park 4 December 1992 by Paul Barton",
+      "summary": "This article details an astronomy observing session held at Houge Park on December 4, 1992. Despite a slow start and a bright moon limiting observations, the event eventually saw a good turnout of about fourteen telescopes and fifty visitors. Attendees successfully observed Comet Swift-Tuttle and enjoyed a relatively warm, dry evening, though a chill kept the number of children lower than usual.",
+      "categories": [
+        "observing report",
+        "community event",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "Houge Park",
+        "December 1992",
+        "Paul Barton",
+        "Comet Swift-Tuttle",
+        "observing session",
+        "telescopes",
+        "astronomy",
+        "Rich Neuschaefer",
+        "refractor",
+        "dobsonian"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph93-01-january-1993",
+      "documentId": "eph93-01",
+      "title": "January 1993",
+      "summary": "This document provides a detailed astronomical guide for January 1993, listing lunar phases with their corresponding dates and rise/transit/set times. It also includes daily positions, magnitudes, and rise/transit/set times for visible planets (Mercury, Venus, Mars, Jupiter, and Saturn), alongside solar data, astronomical twilight periods, and sidereal time. All timings are specified in Pacific Standard Time, with a special mention of the 'Darkest Saturday Night' on January 23rd.",
+      "categories": [
+        "Astronomical Almanac",
+        "Observing Guide",
+        "Ephemeris",
+        "Celestial Predictions"
+      ],
+      "keywords": [
+        "January 1993",
+        "Lunar Phases",
+        "Planetary Positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Pacific Standard Time",
+        "Celestial Data",
+        "Sky Guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-offices-and-board-of-directors",
+      "documentId": "eph93-01",
+      "title": "Offices and Board of Directors",
+      "summary": "This document outlines the current Offices and Board of Directors, listing individuals holding positions such as President, Vice President, Treasurer, Secretary, and Director, along with their respective phone numbers. It also includes a list of Ephemeris Contributors and the Editor, providing their names and contact information. Essentially, it serves as a directory of key personnel for an organization.",
+      "categories": [
+        "Organizational Structure",
+        "Directory",
+        "Contact Information",
+        "Governance",
+        "Personnel"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Officers",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Director",
+        "Ephemeris Contributors",
+        "Editor",
+        "Contact Details"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-comet-comments",
+      "documentId": "eph93-01",
+      "title": "Comet Comments",
+      "summary": "Don Machholtz reports on the celestial movements of several comets, noting Periodic Comet Swift-Tuttle's departure and Periodic Comet Schaumasse's good visibility in early 1993. The article highlights Comet Ohsita (1992a1), a new discovery, which will be visible in the morning sky, approaching Earth in late December, and potentially causing a meteor shower around January 29, favoring the Southern Hemisphere.",
+      "categories": [
+        "Comets",
+        "Observing Reports",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Comet Swift-Tuttle",
+        "Comet Schaumasse",
+        "Comet Ohsita (1992a1)",
+        "1992a1",
+        "Meteor shower",
+        "Observing",
+        "Ephemeris",
+        "1993",
+        "Don Machholtz",
+        "Ohshita"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-ephemerides",
+      "documentId": "eph93-01",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for three periodic comets: Swift-Tuttle (1992t), Schaumasse (1992x), and Ohsita (1992a₁). It lists their celestial coordinates (RA, DEC), elongation, sky position, and predicted visual magnitudes for various dates from late December through early February. The data is intended for astronomers tracking these comets.",
+      "categories": [
+        "Ephemerides",
+        "Comets",
+        "Observing Data",
+        "Astronomy",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Comet Swift-Tuttle",
+        "Comet Schaumasse",
+        "Comet Ohsita",
+        "ephemerides",
+        "RA",
+        "DEC",
+        "magnitude",
+        "celestial mechanics",
+        "comet observation",
+        "astronomy data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-astro-ad-continued",
+      "documentId": "eph93-01",
+      "title": "Astro Ad - Continued",
+      "summary": "This document features a \"Wanted\" advertisement for an image intensifier suitable for astronomy use, preferably ready to mount on 1-1/4 or 2-inch focusers. Contact information, including an address and phone number with specific calling hours, is provided for Edward Hillyer in Stockton, CA. The ad appears to be from January 1993, indicated by the 'EPHEMERIS' header.",
+      "categories": [
+        "Advertisement",
+        "Astronomy Equipment",
+        "Wanted Ad",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Image Intensifier",
+        "Astronomy Equipment",
+        "Wanted",
+        "Focuser",
+        "Edward Hillyer",
+        "Stockton CA",
+        "January 1993"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph93-01-san-jose-astronomical-association-membership",
+      "documentId": "eph93-01",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and application process for the San Jose Astronomical Association (SJAA). It details various membership types, including individual, individual with Sky & Telescope subscription, and junior, along with their respective fees. Applicants can submit their completed form at any SJAA meeting or by mailing it to the treasurer, Jack Peterson.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Club Information",
+        "Fees/Pricing"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Dues",
+        "Sky & Telescope",
+        "Junior membership",
+        "Treasurer",
+        "Contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-make-checks-payable-to-sjaa",
+      "documentId": "eph93-01",
+      "title": "MAKE CHECKS PAYABLE TO \"SJAA\"",
+      "summary": "This document outlines instructions for making membership payments to the San Jose Astronomical Association (SJAA). It details various membership types, including \"Membership Only,\" \"Membership/S&T,\" and \"Junior\" options, along with new or renewal status. The page also provides the SJAA's mailing address and indicates its non-profit organizational status for postal purposes.",
+      "categories": [
+        "Membership Information",
+        "Organizational Documents",
+        "Instructions",
+        "Non-profit Administration"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Renewal",
+        "Payment",
+        "San Jose Astronomical Association",
+        "Non-profit",
+        "Astronomy club",
+        "Checks",
+        "Subscription"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph93-01-sjaa-hotline",
+      "documentId": "eph93-01",
+      "title": "SJAA HOTLINE",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a 24-hour information hotline and publishes a monthly newsletter named \"EPHEMERIS.\" Members are encouraged to submit typed articles for publication to editor Bob Madden by the 12th of the previous month. This particular document is dated January 1993 and includes contact details for the association.",
+      "categories": [
+        "Organization Information",
+        "Publication Information",
+        "Announcements"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Hotline",
+        "Article submission",
+        "Newsletter",
+        "January 1993",
+        "Bob Madden"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph93-01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9301/Eph93_01.pdf",
+      "txtPath": "9301/Eph93_01.md"
+    }
+  ]
+}

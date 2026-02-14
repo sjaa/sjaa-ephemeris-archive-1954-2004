@@ -1,0 +1,539 @@
+{
+  "articles": [
+    {
+      "id": "eph97-07-anti-vibration-pads",
+      "documentId": "eph97-07",
+      "title": "Anti-Vibration Pads",
+      "summary": "Bill Arnett conducted an experiment at a star party to test Celestron vibration-damping footpads. He found that the pads significantly reduced the damping time of vibrations from a telescope tripod, cutting it from approximately two seconds to less than one second after a tap on the fork arm. Arnett concluded that the pads are effective, although he did not test their impact on wind-induced vibrations.",
+      "categories": [
+        "Observing Reports",
+        "Equipment Review",
+        "Product Testing"
+      ],
+      "keywords": [
+        "Anti-vibration pads",
+        "Celestron",
+        "Vibration damping",
+        "Telescope accessories",
+        "Star party",
+        "Tripod"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-mystery-dome-at-houge",
+      "documentId": "eph97-07",
+      "title": "Mystery Dome At Houge",
+      "summary": "On May 16, an impromptu moon observing session at Houge Park capitalized on rare conjunction of good seeing conditions and public interest. Observers, including Jack Zeiders with a 17\" Dobsonian and the author with a C8, engaged in \"real\" moon observing, spotting interesting features like a \"Mystery Dome\" and attracting visitor engagement.",
+      "categories": [
+        "Observing Reports",
+        "Public Outreach",
+        "Lunar Observation"
+      ],
+      "keywords": [
+        "Moon observing",
+        "Houge Park",
+        "Mystery Dome",
+        "Telescopes",
+        "Public interest",
+        "Lunar features"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-07-sjaa-activities-calendar",
+      "documentId": "eph97-07",
+      "title": "SJAA Activities Calendar",
+      "summary": "The SJAA (San Jose Astronomical Association) has published its activities calendar for July and August, featuring multiple star parties at locations like Henry Coe, Fremont Peak, and Houge Park. The calendar also includes beginning astronomy classes covering topics such as moon talks, charts, and software, alongside general meetings with speakers discussing eclipse trips and photography. An AANC Star-B-Que is planned for August.",
+      "categories": [
+        "Events",
+        "Observing Events",
+        "Educational Programs",
+        "Meetings",
+        "Organizational News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Activities Calendar",
+        "Star Parties",
+        "Henry Coe",
+        "Fremont Peak",
+        "Houge Park",
+        "Beginning Astronomy Class",
+        "General Meetings",
+        "Moon",
+        "Astronomy Charts",
+        "Astronomy Software",
+        "Astrophotography",
+        "Eclipse Trip",
+        "AANC Star-B-Que",
+        "July",
+        "August"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-monocentric-eyepieces",
+      "documentId": "eph97-07",
+      "title": "Monocentric Eyepieces",
+      "summary": "This article details an informal eyepiece comparison test conducted on May 31, 1997, at Fremont Peak State Park. The author specifically examines a 12mm Intes monocentric eyepiece, known for its superb correction and low scattered light, making it ideal for planetary or double star observing despite a small field of view. The article explains the technical definition of a monocentric design and describes the physical characteristics and optical efforts to eliminate stray light in the tested unit.",
+      "categories": [
+        "observing reports",
+        "equipment review",
+        "technical",
+        "astronomy"
+      ],
+      "keywords": [
+        "Monocentric eyepieces",
+        "Intes",
+        "eyepiece comparison",
+        "optical design",
+        "planetary observing",
+        "double star observing",
+        "scattered light",
+        "Steinheil monocentric",
+        "Fremont Peak State Park"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph97-07-monocentric-continued-from-page-1",
+      "documentId": "eph97-07",
+      "title": "Monocentric continued from page 1",
+      "summary": "This article reviews the performance of a 12mm monocentric eyepiece, highlighting its narrow 30-degree apparent field of view and a prominent out-of-focus ghost image. Despite these drawbacks, comparison tests against several other popular eyepieces (Plössl, Erfle, Lanthanum, Brandon, Orthoscopic, Takahashi) showed the monocentric significantly superior in contrast and reducing scattered light, making it ideal for observing double stars and planetary details. The author recommends it for serious observers focusing on these targets, but not as a general-purpose eyepiece.",
+      "categories": [
+        "equipment review",
+        "observing reports",
+        "technical"
+      ],
+      "keywords": [
+        "monocentric eyepiece",
+        "eyepiece comparison",
+        "contrast",
+        "scattered light",
+        "double stars",
+        "planets",
+        "field of view",
+        "ghost image",
+        "astronomy equipment",
+        "Tele Vue Plössl",
+        "Meade Erfle",
+        "Vixen Lanthanum",
+        "Brandon eyepiece",
+        "Meade orthoscopic",
+        "Takahashi eyepiece"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph97-07-moon-continued-from-page-1",
+      "documentId": "eph97-07",
+      "title": "Moon, continued from page 1",
+      "summary": "This article details an engaging lunar observing session where various features were observed, including the easily visible Rimae Ramsden and Sinus Iridium. Observers focused on domes near Hortensius and Copernicus, even discovering a large, pear-shaped dome west-north of Reinhold that was not on their charts. The session also involved visitors who enjoyed the \"hunt\" for features and compared views from different telescopes, making it an interactive educational experience.",
+      "categories": [
+        "Observing Reports",
+        "Selenography",
+        "Public Outreach",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar Observation",
+        "Selenography",
+        "Lunar Domes",
+        "Rimae Ramsden",
+        "Sinus Iridium",
+        "Public Outreach",
+        "Telescopes"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph97-07-directions-to-sjaa-places",
+      "documentId": "eph97-07",
+      "title": "Directions to SJAA places",
+      "summary": "This document provides detailed driving directions to three key locations associated with SJAA: Houge Park in San Jose, Henry Coe State Park east of Morgan Hill, and Fremont Peak State Park south of San Juan Bautista. It includes specific highway exits, turns, mileages, and notes on entrance fees for the state parks, guiding members to meeting or observing sites.",
+      "categories": [
+        "Directions",
+        "Locations",
+        "Logistics",
+        "Observing Sites"
+      ],
+      "keywords": [
+        "Directions",
+        "SJAA",
+        "Houge Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "San Jose",
+        "Morgan Hill",
+        "San Juan Bautista",
+        "California",
+        "Park Fees"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-activities-through-other-clubs",
+      "documentId": "eph97-07",
+      "title": "Activities Through Other Clubs",
+      "summary": "This document outlines a schedule of astronomical events and observing sessions for July and August, organized primarily by the TAC, HVAG, and PAS clubs. Activities include numerous star parties, lunar observing sessions at various locations such as Montebello and Fremont Peak, and a PAS club meeting featuring a lecture on the Chixulub Crater.",
+      "categories": [
+        "Event Schedule",
+        "Astronomy Events",
+        "Club Activities",
+        "Observing Sessions",
+        "News"
+      ],
+      "keywords": [
+        "Astronomy events",
+        "Star parties",
+        "Lunar observing",
+        "Club meetings",
+        "TAC",
+        "HVAG",
+        "PAS",
+        "Observing schedule",
+        "Chixulub Crater"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-periodical-publication-statement",
+      "documentId": "eph97-07",
+      "title": "Periodical Publication Statement",
+      "summary": "This document is a Periodical Publication Statement for the \"SJAA Ephemeris,\" the monthly newsletter of the San Jose Astronomical Association. It confirms that the newsletter is published 12 times a year, from January through December, and includes the association's address. A specific reference to the July 1997 issue is also noted.",
+      "categories": [
+        "publication information",
+        "organizational statement",
+        "newsletter details",
+        "administrative"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "publication",
+        "monthly",
+        "July 1997",
+        "astronomy organization"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph97-07-don-machholz",
+      "documentId": "eph97-07",
+      "title": "Don Machholz",
+      "summary": "The article details the visibility of Comets Hale-Bopp and Encke, along with the recent discovery of Comet C/1997 J2 (Meunier-Dupouy) while observers were tracking C/1997 J1 (Mueller). It also reports on ten faint, mostly Kreutz sungrazing comets detected by the SOHO satellite. Additionally, the text provides statistics on visual comet discoveries since 1975, emphasizing the rarity of accidental finds.",
+      "categories": [
+        "Astronomy News",
+        "Comet Observations",
+        "Astronomical Discoveries",
+        "Comet Hunting"
+      ],
+      "keywords": [
+        "Comet Hale-Bopp",
+        "Periodic Comet Encke",
+        "Comet C/1997 J2 (Meunier-Dupouy)",
+        "SOHO satellite",
+        "Sungrazing comets",
+        "Kreutz group",
+        "Comet discovery",
+        "Visual comet hunting",
+        "Magnitude",
+        "Astronomical Units (AU)"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph97-07-ephemerides-epoch-2000-0h-utc",
+      "documentId": "eph97-07",
+      "title": "Ephemerides -- Epoch 2000, 0h UTC",
+      "summary": "This document provides detailed ephemerides for two comets, C/1995 O1 (Hale-Bopp) and Periodic Comet Encke (2P/Encke), for dates between July 1 and August 10, relative to Epoch 2000, 0h UTC. It lists their Right Ascension, Declination, elongation from the Sun, and apparent magnitude, offering crucial positional data for observers.",
+      "categories": [
+        "Ephemerides",
+        "Comet Observation",
+        "Astronomical Data",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Hale-Bopp",
+        "C/1995 O1",
+        "Comet Encke",
+        "2P/Encke",
+        "Comets",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Astronomy",
+        "Observational Data",
+        "Epoch 2000"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-orbital-elements-epoch-2000-0",
+      "documentId": "eph97-07",
+      "title": "Orbital Elements -- Epoch 2000.0",
+      "summary": "This document provides a technical compilation of orbital elements for two prominent comets, Hale-Bopp and P/Encke, specified for Epoch 2000.0. It details various orbital parameters such as perihelion date and distance, argument of perihelion, ascending node, inclination, eccentricity, orbital period, and absolute magnitude for each comet. The data offers a concise reference for their celestial mechanics at a specific point in time.",
+      "categories": [
+        "Technical Data",
+        "Astronomy",
+        "Comets",
+        "Orbital Mechanics",
+        "Reference"
+      ],
+      "keywords": [
+        "Orbital Elements",
+        "Epoch 2000.0",
+        "Hale-Bopp",
+        "P/Encke",
+        "Comets",
+        "Perihelion",
+        "Eccentricity",
+        "Orbital Period",
+        "Celestial Mechanics",
+        "MPC"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-richard-stanton",
+      "documentId": "eph97-07",
+      "title": "Richard Stanton",
+      "summary": "This document, attributed to Richard Stanton and titled \"SJAA EPHEMERIS Page 4 July 1997,\" provides detailed astronomical data for the month of July 1997. It includes lunar phases with rise, transit, and set times, along with similar data for Mercury, Venus, Mars, Jupiter, Saturn, and the Sun (Sol), detailing their distances, magnitudes, and celestial coordinates. Additionally, it lists astronomical twilight begin and end times, sidereal time, and specific details for the \"Darkest Saturday Night\" on July 5, 1997.",
+      "categories": [
+        "ephemeris",
+        "astronomical data",
+        "sky guide",
+        "celestial events"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "July 1997",
+        "Lunar Phases",
+        "Planetary Data",
+        "Rise/Set Times",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Moon",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Sun"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph97-07-theft-in-sacramento",
+      "documentId": "eph97-07",
+      "title": "Theft In Sacramento",
+      "summary": "A visitor from Oregon experienced a theft in Sacramento, losing valuable astronomical equipment including Fujinon 16x70 and Orion 10x50 binoculars, along with a Rubbermaid toolcase containing various filters, a polar alignment scope, and other parts. The Sacramento police are investigating, and the public is asked to contact them at 916-264-5771 with case number 97-39263 if any items are found.",
+      "categories": [
+        "news",
+        "crime report",
+        "equipment theft"
+      ],
+      "keywords": [
+        "theft",
+        "Sacramento",
+        "astronomical equipment",
+        "binoculars",
+        "filters",
+        "polar alignment scope",
+        "Oregon visitor",
+        "police report"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-tax-tip",
+      "documentId": "eph97-07",
+      "title": "Tax Tip",
+      "summary": "SJAA members volunteering at public events can potentially deduct car mileage to and from these events as a charitable contribution, though time itself is not deductible. As SJAA is a certified nonprofit, active members might find this tax benefit helps offset their annual dues.",
+      "categories": [
+        "Tax Information",
+        "Member Benefits",
+        "Club News"
+      ],
+      "keywords": [
+        "Tax deduction",
+        "Charitable contribution",
+        "Volunteer mileage",
+        "SJAA",
+        "Nonprofit",
+        "IRS",
+        "Member dues"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-astro-ads",
+      "documentId": "eph97-07",
+      "title": "Astro Ads",
+      "summary": "The 'Astro Ads' section offers free classified advertisements for noncommercial astronomical products or services. Ads run for one month and can be extended by contacting the Editor via email or mail by the 10th of the previous month.",
+      "categories": [
+        "Service Announcement",
+        "Classifieds",
+        "Community Information"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "free ads",
+        "noncommercial",
+        "astronomy products",
+        "astronomy services",
+        "ad submission",
+        "ad extension"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-submit",
+      "documentId": "eph97-07",
+      "title": "Submit",
+      "summary": "The SJAA Ephemeris newsletter encourages its members to submit articles for publication. Submissions should be sent via email to Dave North by the 10th of each month to be included in the following month's issue. Authors are requested to include their name and phone number with their submission.",
+      "categories": [
+        "Announcement",
+        "Call for Submissions",
+        "Publication Information",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Article submission",
+        "SJAA Ephemeris",
+        "Newsletter",
+        "Publication",
+        "Deadline",
+        "Members",
+        "Content contribution"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-telescope-loaner-program-status",
+      "documentId": "eph97-07",
+      "title": "Telescope Loaner Program Status",
+      "summary": "This document provides a status update for a telescope loaner program, listing various telescopes currently on loan, their borrowers, and due dates. It details the status of each scope, indicating which are available and which are currently borrowed. As of the print date, there was no waiting list for the program.",
+      "categories": [
+        "Program Update",
+        "Equipment Management",
+        "Administrative"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Telescopes",
+        "Equipment status",
+        "Borrowing",
+        "Due dates",
+        "Availability"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-officers-and-board-of-directors",
+      "documentId": "eph97-07",
+      "title": "Officers and Board of Directors",
+      "summary": "This document lists the current officers and board of directors for an organization, detailing their names, titles (e.g., President, VP, Secretary, Treasurer, Director), and contact phone numbers. It also identifies the staff responsible for the \"Ephemeris\" publication and the chairman of the Mentoring Program.",
+      "categories": [
+        "Organizational Structure",
+        "Personnel Directory",
+        "Contact Information",
+        "Internal Affairs"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Director",
+        "Ephemeris Staff",
+        "Mentoring Program",
+        "Contact List"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph97-07-activities-committee",
+      "documentId": "eph97-07",
+      "title": "Activities Committee",
+      "summary": "This document lists the members and their contact information for various sub-committees and programs under the 'Activities Committee,' likely for an astronomical organization. Key roles include an observational astronomy teacher, observatory committee members, a school star party chairman, and contacts for a telescope loaner program and web page management.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Committee Structure"
+      ],
+      "keywords": [
+        "Activities Committee",
+        "contact information",
+        "observational astronomy",
+        "observatory committee",
+        "school star party",
+        "telescope loaner program",
+        "web page",
+        "SJAA"
+      ],
+      "pageStart": 5,
+      "pageEnd": 446
+    },
+    {
+      "id": "eph97-07-san-jose-astronomical-association-membership-form",
+      "documentId": "eph97-07",
+      "title": "San Jose Astronomical Association Membership Form",
+      "summary": "This document is the official membership form for the San Jose Astronomical Association (SJAA), detailing annual fees of $15 for regular members and $6 for juniors, with an optional $27 add-on for a Sky & Telescope subscription. Individuals can join or renew by submitting the completed form and payment via mail to the Treasurer or in person at any SJAA meeting.",
+      "categories": [
+        "Membership",
+        "Organizational Administration",
+        "Forms",
+        "Local Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Renewal",
+        "Fees",
+        "Sky & Telescope",
+        "Contact Information",
+        "San Jose",
+        "Non-profit",
+        "July 1997"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph97-07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9707/Eph97_07.pdf",
+      "txtPath": "9707/Eph97_07.md"
+    }
+  ]
+}

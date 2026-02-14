@@ -1,0 +1,570 @@
+{
+  "articles": [
+    {
+      "id": "eph92-08-sjaa-ephemeris",
+      "documentId": "eph92-08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is the August 1991 issue of the SJAA Ephemeris, the official publication of the San Jose Astronomical Association. It is Volume 3, Number 8 of their monthly newsletter.",
+      "categories": [
+        "publication",
+        "newsletter",
+        "club_news",
+        "astronomy_organization"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "August 1991",
+        "astronomy club",
+        "newsletter",
+        "publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-the-eyepiece",
+      "documentId": "eph92-08",
+      "title": "The Eyepiece",
+      "summary": "This article details upcoming events for the SJAA, including an August picnic and star party at Fremont Peak State Park with the FPOA, featuring the 30\" Challenger telescope. It also outlines the September \"show and tell\" general meeting and a schedule of various star parties and astronomy classes. The document further solicits member feedback on a potential SJAA observatory project, provides an update on the Livermore Laser Project's observational challenges, and includes administrative notes regarding address changes and increased membership rates.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Club News",
+        "Observing Reports",
+        "Member Resources",
+        "Technical",
+        "Administrative",
+        "Scientific News",
+        "Future Projects"
+      ],
+      "keywords": [
+        "SJAA",
+        "Fremont Peak State Park",
+        "Star Party",
+        "Picnic",
+        "Observatory",
+        "Laser Project",
+        "Astronomy Class",
+        "Club Meeting",
+        "Show and Tell",
+        "Telescope",
+        "Observing",
+        "Membership",
+        "FPOA",
+        "Challenger telescope"
+      ],
+      "pageStart": 2,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph92-08-directions-to-our-favorite-places",
+      "documentId": "eph92-08",
+      "title": "Directions to our Favorite Places",
+      "summary": "This article provides detailed directions and logistical information for members and the public to several key locations utilized by an astronomy organization. It outlines routes to the Milpitas Library for meetings and beginning astronomy classes, as well as to Houge Park, Fremont Peak State Park, and Henry Coe State Park for public star parties and a summer picnic. Practical advice regarding event attendance, parking, and site-specific safety is also included.",
+      "categories": [
+        "Directions",
+        "Event Information",
+        "Observing Site Information",
+        "Club Logistics"
+      ],
+      "keywords": [
+        "Directions",
+        "Milpitas Library",
+        "Houge Park",
+        "Fremont Peak State Park",
+        "Henry Coe State Park",
+        "Star Parties",
+        "Astronomy Classes",
+        "Club Meetings",
+        "Summer Picnic",
+        "Observing Sites",
+        "Milpitas",
+        "Morgan Hill"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph92-08-fremont-peak-state-park",
+      "documentId": "eph92-08",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "This document appears to be a fragmented set of notes or a map key for Fremont Peak State Park, detailing various locations and features within the park, including an observatory, rest rooms, BBQ site, and specific operational points like telescope notes and contact information for problems. It also lists names and includes a date of August, 1992, suggesting it might be related to planning or an event at that time.",
+      "categories": [
+        "observing reports",
+        "technical notes",
+        "site information",
+        "events",
+        "location details",
+        "historical document"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "observatory",
+        "telescope",
+        "Luna",
+        "Ephemeris",
+        "August 1992",
+        "site map",
+        "Black Rocks",
+        "Hollister",
+        "elevation",
+        "problems"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph92-08-lunar-phases-date-rise-tran-set",
+      "documentId": "eph92-08",
+      "title": "Lunar Phases Date Rise Tran Set",
+      "summary": "This document provides a concise schedule of major lunar phases for the month of August. It lists the exact time and date for the First Quarter, Full Moon, Last Quarter, and New Moon, along with their respective rise, transit, and set times.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Guide",
+        "Lunar Calendar"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "New Moon",
+        "Rise Time",
+        "Transit Time",
+        "Set Time",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-nearer-planets",
+      "documentId": "eph92-08",
+      "title": "Nearer Planets",
+      "summary": "This document presents an astronomical almanac for the 'nearer planets' (Mercury, Venus, Mars, Jupiter, and Saturn) for three specific dates in August. For each planet and date, it provides a set of times (likely rise, transit, and set), its distance from Earth in Astronomical Units (A.U.), and its apparent visual magnitude. The data serves as a guide for observing these celestial bodies.",
+      "categories": [
+        "Astronomical Data",
+        "Planetary Ephemeris",
+        "Observing Guide",
+        "Almanac"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Astronomical data",
+        "Ephemeris",
+        "Magnitude",
+        "AU",
+        "August",
+        "Observing times"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-sol-star-type-g2v-mag-26-72",
+      "documentId": "eph92-08",
+      "title": "SOL Star Type G2V Mag - 26.72",
+      "summary": "This document presents astronomical data for the Sun (SOL), identified by its G2V spectral type and apparent magnitude. It provides specific celestial coordinates, dates in August, and corresponding times, likely representing ephemeris data such as rise, transit, and set times for the Sun from various locations or on specific dates.",
+      "categories": [
+        "Astronomy",
+        "Ephemeris",
+        "Solar Data"
+      ],
+      "keywords": [
+        "Sun",
+        "SOL",
+        "G2V",
+        "Magnitude",
+        "Ephemeris",
+        "Astronomical data",
+        "Celestial coordinates",
+        "Solar observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-astronomical-twilight",
+      "documentId": "eph92-08",
+      "title": "Astronomical Twilight",
+      "summary": "This document lists specific Julian dates in July and August, alongside corresponding start and end times that likely indicate the duration of astronomical twilight for each given day. It provides a concise data set for tracking sky conditions related to astronomical observations.",
+      "categories": [
+        "Astronomical Data",
+        "Timekeeping",
+        "Observing Aids",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Twilight",
+        "Julian Date",
+        "JD",
+        "Times",
+        "Dates",
+        "Observation Planning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-sidereal-time",
+      "documentId": "eph92-08",
+      "title": "Sidereal Time",
+      "summary": "This document presents a concise list of sidereal time values for specific dates in August, all recorded at 0000 PST. It includes entries for \"Transit Right,\" \"Ascension,\" and \"Local Midnight,\" providing numerical data likely representing hours and minutes of sidereal time relevant to astronomical observations or calculations.",
+      "categories": [
+        "Astronomy",
+        "Technical Data",
+        "Timekeeping",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "Right Ascension",
+        "Astronomical Data",
+        "PST",
+        "Transit",
+        "Local Midnight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-darkest-saturday-night-aug-29",
+      "documentId": "eph92-08",
+      "title": "Darkest Saturday Night ..... Aug 29",
+      "summary": "The article announces optimal stargazing conditions for \"Darkest Saturday Night\" on August 29, providing key astronomical times. It lists sunset at 19:26, twilight end at 21:03, and moonrise at 08:47, all in Pacific Daylight Time. This information, attributed to Richard Stanton, highlights the late moonrise as favorable for evening observations.",
+      "categories": [
+        "Observing Conditions",
+        "Astronomy",
+        "Informational"
+      ],
+      "keywords": [
+        "Darkest Saturday Night",
+        "August 29",
+        "Sunset",
+        "Twilight End",
+        "Moonrise",
+        "Pacific Daylight Time",
+        "Stargazing",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-astro-ads",
+      "documentId": "eph92-08",
+      "title": "ASTRO ADS",
+      "summary": "This document functions primarily as a classifieds section, featuring numerous advertisements for used astronomical products and services. It lists a wide range of telescopes, accessories like eyepieces, mounts, and cameras, along with contact information and prices from May to August 1992. Additionally, the document includes a brief obituary for Dr. Isaac Asimov and a reference to an ephemeris page.",
+      "categories": [
+        "Advertisements",
+        "Used Equipment Sales",
+        "Astronomy Equipment",
+        "Obituaries"
+      ],
+      "keywords": [
+        "Astronomy Classifieds",
+        "Used Telescopes",
+        "Telescope Accessories",
+        "Isaac Asimov",
+        "Schmidt-Cassegrain",
+        "Optical Equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph92-08-double-triple-and-multiple-stars",
+      "documentId": "eph92-08",
+      "title": "DOUBLE, TRIPLE, AND MULTIPLE STARS",
+      "summary": "The author is preparing for an astronomy trip to Mt. John's Observatory in New Zealand to observe southern hemisphere double stars. They are reviewing potential targets and highlight Alpha Centauri, a triple star system and the closest to Earth, and Acrux, the brightest star in the Southern Cross, as spectacular examples. The article provides details on their location, magnitude, and separation.",
+      "categories": [
+        "Observational Astronomy",
+        "Stellar Astronomy",
+        "Trip Planning",
+        "Educational"
+      ],
+      "keywords": [
+        "Double Stars",
+        "Triple Stars",
+        "Multiple Stars",
+        "Alpha Centauri",
+        "Acrux",
+        "Southern Hemisphere",
+        "Mt. John's Observatory",
+        "New Zealand",
+        "Star Systems",
+        "Southern Cross"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-offices-and-board-of-directors",
+      "documentId": "eph92-08",
+      "title": "Offices and Board of Directors",
+      "summary": "This document lists the current Offices and Board of Directors, providing the names and phone numbers for key leadership positions. It details individuals serving as President, Vice President, Treasurer, Secretary, and several Directors. The information outlines the organizational structure and contact details for its governing body.",
+      "categories": [
+        "Organizational Information",
+        "Governance",
+        "Directory"
+      ],
+      "keywords": [
+        "Offices",
+        "Board of Directors",
+        "Leadership",
+        "Personnel",
+        "Officers",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-ephemeris-contributors",
+      "documentId": "eph92-08",
+      "title": "Ephemeris Contributors",
+      "summary": "This document provides a contact list of individuals who contribute to ephemerides, along with an editor, detailing their names and phone numbers. It serves as a directory for those involved in astronomical data compilation.",
+      "categories": [
+        "directory",
+        "contact information",
+        "astronomy resources"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "contributors",
+        "editor",
+        "contact list",
+        "astronomy",
+        "phone numbers",
+        "Don Machholtz",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-comet-comments",
+      "documentId": "eph92-08",
+      "title": "Comet Comments",
+      "summary": "Don Machholtz reports on recent comet activity, detailing the recovery of Periodic Comet Ashbrook-Jackson (1992p) on May 4, which might become observable by amateurs next summer. He also recounts his own discovery of Comet Machholtz (1992k) on July 2, noting its ninth magnitude and challenges in computing its orbit due to its low position and poor weather. The article briefly mentions Comet Shoemaker-Levy as well.",
+      "categories": [
+        "News",
+        "Discoveries",
+        "Observing Reports",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet Ashbrook-Jackson",
+        "Comet Machholtz",
+        "Comet Shoemaker-Levy",
+        "Comet Discovery",
+        "Comet Recovery",
+        "Don Machholtz",
+        "Amateur Observation",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-ephemerides",
+      "documentId": "eph92-08",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for Comet Shoemaker-Levy (1991a₁) for late July through early September 1992, including its celestial coordinates, elongation, and visual magnitude. Additionally, it offers a brief description of a distant B-type spectroscopic binary double star system, recommending its observation from the Southern Hemisphere.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guide",
+        "Comets",
+        "Double Stars",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Shoemaker-Levy (1991a₁)",
+        "Comet",
+        "Double Stars",
+        "Observing",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Southern Hemisphere",
+        "August 1992"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph92-08-a-little-night-musing",
+      "documentId": "eph92-08",
+      "title": "A Little Night Musing",
+      "summary": "The author recounts a public star party experience using a 4\" Quantum Maksutov, noting its performance and the warm atmosphere. The article also announces several upcoming club events, including a combined picnic/BBQ with FPOA, a Yosemite trip, and a September slide and equipment night. Additionally, it proposes a mentorship group for new amateur astronomers and thanks the community for funding a new T-scanner Hydrogen-Alpha filter.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Club Activities",
+        "Community Outreach",
+        "Equipment"
+      ],
+      "keywords": [
+        "Star Party",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Quantum Maksutov",
+        "Astronomy Club",
+        "SJAA",
+        "FPOA",
+        "Hydrogen-Alpha Filter",
+        "Mentorship Program",
+        "Observational Astronomy",
+        "Picnic",
+        "Yosemite Trip",
+        "Equipment Night"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-more-gleanings-by-bob-madden",
+      "documentId": "eph92-08",
+      "title": "More Gleanings by Bob Madden",
+      "summary": "This article, 'More Gleanings by Bob Madden,' provides several organizational and project updates. Bob Bnauer has accepted the role of Publicity Director and is seeking committee members, while Del Johnson is departing for the Peace Corps in November. Significant progress has been made on the Hally Hill project, including providing a contour map to the Park Commission and planning for parking at the base with path lighting, and the structural design team recommended a roll-off roof for an observatory, with continued efforts to obtain Park Commission approval.",
+      "categories": [
+        "Organizational Updates",
+        "Project News",
+        "Site Development",
+        "Facility Planning",
+        "Member News"
+      ],
+      "keywords": [
+        "Bob Madden",
+        "Bob Bnauer",
+        "Publicity Director",
+        "Del Johnson",
+        "Peace Corps",
+        "Hally Hill",
+        "Park Commission",
+        "Survey Team",
+        "Observatory Design",
+        "Roll-off Roof",
+        "Structural Design Team",
+        "Jerry Dunmire",
+        "Questionnaire",
+        "August 1992"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph92-08-observatory-questionnaire",
+      "documentId": "eph92-08",
+      "title": "OBSERVATORY QUESTIONNAIRE",
+      "summary": "This document is an observatory questionnaire designed to gather feedback on proposed features and design priorities for a new observatory. It seeks public input on preferred characteristics (e.g., low maintenance, cost, public access) and agreement with the observatory committee's conclusions. Additionally, it aims to identify volunteers with specific construction skills to assist with the observatory's building process.",
+      "categories": [
+        "Observatory Planning",
+        "Community Engagement",
+        "Volunteer Recruitment",
+        "Survey"
+      ],
+      "keywords": [
+        "observatory",
+        "questionnaire",
+        "design features",
+        "construction",
+        "volunteers",
+        "public outreach",
+        "committee",
+        "feedback",
+        "August 1992"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph92-08-san-jose-astronomical-association-membership",
+      "documentId": "eph92-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "The San Jose Astronomical Association publishes a monthly newsletter called \"EPHEMERIS.\" Members are encouraged to submit typed articles for publication, which must be sent to the editor, Bob Madden, by the 12th of the previous month.",
+      "categories": [
+        "Association Information",
+        "Publication",
+        "Membership",
+        "Submission Guidelines"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Membership",
+        "Article submission",
+        "Publication guidelines",
+        "Bob Madden"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-san-jose-astronomical-association-membership",
+      "documentId": "eph92-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP",
+      "summary": "This document outlines the membership options and associated fees for the San Jose Astronomical Association (SJAA), including standard, junior, and a combined membership with Sky & Telescope magazine. It provides a form for new or renewing members to fill out their contact information and instructions for submitting payment to the treasurer via mail or at an SJAA meeting. The document also includes the association's official mailing address and non-profit organization details.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizational Information",
+        "Club Administration"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership fees",
+        "Subscription",
+        "Sky & Telescope",
+        "Treasurer",
+        "Milpitas CA",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph92-08-sjaa-hotline",
+      "documentId": "eph92-08",
+      "title": "SJAA HOTLINE",
+      "summary": "This document fragment introduces the SJAA (San Jose Astronomical Association, likely) 24-hour information hotline, providing the phone number 408-559-1221. It indicates that the information is current as of August 1992 and directs readers to page 8 for an ephemeris.",
+      "categories": [
+        "Announcement",
+        "Historical",
+        "Astronomy Club",
+        "Observing Aid"
+      ],
+      "keywords": [
+        "SJAA",
+        "Hotline",
+        "Information",
+        "Ephemeris",
+        "August 1992",
+        "Astronomy",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph92-08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "9208/Eph92_08.pdf",
+      "txtPath": "9208/Eph92_08.md"
+    }
+  ]
+}
