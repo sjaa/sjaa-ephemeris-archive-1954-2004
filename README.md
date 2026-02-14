@@ -16,3 +16,17 @@ pdf-batch --skip-ocr --mode claude --format markdown /path/to/pdfs
 # Generate both searchable PDF and markdown
 pdf-batch --mode claude --format markdown /path/to/pdfs
 ```
+
+## Article Detection, Summarization, and Embedding Generation
+
+Once text or markdown files are generated, they can be split into articles and summarized.  This is where the [summarize-documents](https://github.com/cecomp64/summarize-documents) tool comes in.  Point it at your
+generated text or markdown files, and it will split it into articles, summaries, and embeddings for semantic search.
+
+```bash
+# Generate article summaries and embeddings
+document-summarizer /path/to/documents --pattern "*.md" --model-provider gemini --generate-embeddings --embedding-provider gemini --embedding-model google-embedding-001 --embedding-dimensions 768
+```
+
+Article classification will not be perfect, but it is still pretty good.  Manual review and refinement could be helpful, depending on your tolerance for noise.
+
+## Import Into Document Archive Web App
