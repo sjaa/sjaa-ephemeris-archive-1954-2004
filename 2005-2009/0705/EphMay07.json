@@ -1,0 +1,203 @@
+{
+  "articles": [
+    {
+      "id": "ephmay07-deep-sky-observing",
+      "documentId": "ephmay07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep-sky observing list for May 2007, specifically for the period from the third quarter to new moon, authored by Mark Wagner. It features a sampling of celestial objects, primarily galaxies, along with one planetary nebula and one globular cluster, including their celestial coordinates, magnitudes, sizes, and brief observing notes. The list is designed to guide astronomers to observable deep-sky targets.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Objects",
+        "Amateur Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Observing List",
+        "Galaxies",
+        "Planetary Nebula",
+        "Globular Cluster",
+        "May 2007",
+        "Celestial Coordinates",
+        "Magnitude",
+        "Arp",
+        "NGC",
+        "Messier",
+        "Abell",
+        "Herschel",
+        "OIII Filter"
+      ],
+      "pageStart": 2,
+      "pageEnd": 274
+    },
+    {
+      "id": "ephmay07-hexagons-on-saturn-spots-on-mercury",
+      "documentId": "ephmay07",
+      "title": "Hexagons on Saturn, Spots on Mercury",
+      "summary": "This article provides an observing guide for the May sky, detailing the best times and features of planets like Saturn, Jupiter, Venus, and Mercury. It highlights Saturn's prominent rings due to quadrature and mentions the challenge of viewing its polar hexagonal storm, alongside recent imaging efforts for Mercury's previously unphotographed side. The guide also covers the visibility of Comet 96P/Machholz and offers tips for observing other celestial bodies.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Solar System Exploration",
+        "Celestial Events",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "May Sky",
+        "Saturn",
+        "Jupiter",
+        "Mercury",
+        "Venus",
+        "Comet 96P/Machholz",
+        "Observing",
+        "Planets",
+        "Rings",
+        "Quadrature",
+        "Hexagonal Storm",
+        "Iapetus",
+        "Opposition",
+        "Cassini",
+        "Mariner 10",
+        "Don Machholz",
+        "Ephemeris"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay07-nasa-space-place",
+      "documentId": "ephmay07",
+      "title": "NASA Space Place",
+      "summary": "The article uses the analogy of a bird eating a worm to explain the rarity of observing a black hole devouring a star, despite such events occurring frequently in the universe. Astronomers, led by Suvi Gezari, successfully caught one such \"black hole breakfast\" in a distant elliptical galaxy using the GALEX ultraviolet space telescope, monitoring the entire two-year process. This observation, supported by multiple telescopes, offers crucial insights into how black holes feed and grow, and establishes ultraviolet light as a new tool for detecting these events.",
+      "categories": [
+        "Astronomy News",
+        "Observational Astronomy",
+        "Space Science",
+        "Research Findings",
+        "Educational Content"
+      ],
+      "keywords": [
+        "Black Holes",
+        "Stars",
+        "Galaxies",
+        "GALEX",
+        "Ultraviolet Radiation",
+        "Telescopes",
+        "Astronomy",
+        "Space Exploration",
+        "Suvi Gezari",
+        "Cosmic Events"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay07-a-visit-to-goldstone",
+      "documentId": "ephmay07",
+      "title": "A Visit to Goldstone",
+      "summary": "This article provides an account of a visit to NASA's Goldstone Deep Space Communications Complex, detailing its role in supporting numerous robotic spacecraft missions since 1958, from the early Mariners to current missions like Cassini and Voyager. It also includes results from the San Jose Astronomical Association's successful annual auction, which raised significant funds for the club, and announces an upcoming Silicon Valley Astronomy Lecture by Dana Backman on planetary systems.",
+      "categories": [
+        "Astronomy Facilities Tour",
+        "Space Communication",
+        "Astronomy Club News",
+        "Public Lecture Announcement",
+        "Educational Outreach"
+      ],
+      "keywords": [
+        "Goldstone",
+        "Deep Space Network (DSN)",
+        "NASA",
+        "Spacecraft communication",
+        "Radio astronomy",
+        "JPL",
+        "Cassini-Huygens",
+        "Voyager",
+        "Mars Exploration Rovers",
+        "GAVRT",
+        "SJAA auction",
+        "Fundraising",
+        "Astronomy lecture",
+        "Dana Backman",
+        "Planetary systems",
+        "SOFIA"
+      ],
+      "pageStart": 1,
+      "pageEnd": 32
+    },
+    {
+      "id": "ephmay07-the-last-33-days-in-astronomy",
+      "documentId": "ephmay07",
+      "title": "The Last 33 Days In Astronomy",
+      "summary": "This article summarizes significant astronomical and space-related news from March 11 to April 13, 2007. Key developments include the discovery of outgassing on Saturn's moon Dione and unique X-ray observations of a black hole in NGC 1365 during an eclipse. Spaceflight updates feature the launch of the fifth space tourist, Charles Simonyi, a target launch date for STS-117 following repairs, and the determination that a software error caused the Mars Global Surveyor's failure. Additionally, the Astronomical Society of the Pacific announced James Manning as its new executive director.",
+      "categories": [
+        "News",
+        "Planetary Science",
+        "Astrophysics",
+        "Space Exploration",
+        "Human Spaceflight",
+        "Spacecraft Operations",
+        "Organizational News"
+      ],
+      "keywords": [
+        "Dione",
+        "Enceladus",
+        "Cassini",
+        "Saturn",
+        "outgassing",
+        "ASP",
+        "James Manning",
+        "Charles Simonyi",
+        "space tourist",
+        "STS-117",
+        "Space Shuttle",
+        "black hole",
+        "NGC 1365",
+        "Chandra",
+        "Active Galactic Nucleus",
+        "MGS",
+        "Mars Global Surveyor",
+        "software error",
+        "2007"
+      ],
+      "pageStart": 6,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephmay07-sjaa-loaner-scope-status",
+      "documentId": "ephmay07",
+      "title": "SJAA loaner scope status",
+      "summary": "The article details the status of the San Jose Astronomical Association (SJAA) loaner telescope program, listing a variety of telescopes available for immediate loan to members, along with contact information for arrangements. It also provides lists of scopes currently on loan and those with extended loan periods, indicating their borrowers and due dates. Members can contact Mike Koop to borrow available scopes or be placed on a waiting list for those currently loaned out.",
+      "categories": [
+        "Club Resources",
+        "Equipment Loan Program",
+        "Membership Benefits",
+        "Astronomy Equipment Status"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope program",
+        "astronomy club",
+        "San Jose Astronomical Association",
+        "available scopes",
+        "borrowing telescopes",
+        "Dobson",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Newtonian",
+        "binoculars"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0705/EphMay07.pdf",
+      "txtPath": "0705/EphMay07.md"
+    }
+  ]
+}

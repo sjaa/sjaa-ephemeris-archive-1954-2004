@@ -1,0 +1,292 @@
+{
+  "articles": [
+    {
+      "id": "ephapr08-sjaa-auction-information",
+      "documentId": "ephapr08",
+      "title": "SJAA Auction Information",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its 28th annual astronomical auction and swap meet at Houge Park on Sunday, April 20, 2008. This event offers a chance for beginners to acquire telescopes and for experienced observers to find equipment, while also serving as a fundraiser for the SJAA with a suggested 10% seller donation. The article also provides a calendar of other SJAA activities, including star parties, dark sky weekends, astronomy classes, and general meetings for March, April, and May.",
+      "categories": [
+        "Events",
+        "Fundraising",
+        "Club Activities",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Auction XXVIII",
+        "Houge Park",
+        "Star Party",
+        "Dark Sky Weekend",
+        "Astronomy Class",
+        "General Meeting",
+        "Swap Meet",
+        "Telescopes",
+        "Astronomical Equipment",
+        "Fundraiser",
+        "April 2008"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr08-deep-sky-observing",
+      "documentId": "ephapr08",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep-sky observing list for April 2008, specifically for the third quarter to new moon period. It features a curated selection of galaxies, primarily in Ursa Major, Canes Venatici, Leo, and Virgo, listed from north to south. Each entry includes details such as challenge rating, object type, size, magnitude, coordinates, and brief descriptive notes for observers.",
+      "categories": [
+        "observing list",
+        "astronomy guide",
+        "deep sky",
+        "ephemeris"
+      ],
+      "keywords": [
+        "deep sky observing",
+        "galaxies",
+        "NGC",
+        "Messier",
+        "Arp",
+        "Ursa Major",
+        "Canes Venatici",
+        "Leo",
+        "Virgo",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "observing challenge",
+        "April 2008"
+      ],
+      "pageStart": 2,
+      "pageEnd": 18
+    },
+    {
+      "id": "ephapr08-the-dawning-of-the-age-of-aquarius",
+      "documentId": "ephapr08",
+      "title": "The Dawning of the Age of Aquarius",
+      "summary": "Akkana Peck explores the astronomical realities behind common astrological concepts, starting with the discrepancy between her astrological birth sign and her true astronomical birth sign due to Earth's precession. The article then delves into the complex and debated timing of the \"Age of Aquarius,\" explaining how astrological ages are determined by the vernal equinox's movement through zodiacal signs, which are distinct from constellations. It highlights the lack of consensus among astrologers regarding its start and debunks popular misconceptions from culture.",
+      "categories": [
+        "Astronomy",
+        "Astrology",
+        "Science Communication",
+        "Celestial Mechanics",
+        "Popular Culture"
+      ],
+      "keywords": [
+        "Astrology",
+        "Astronomy",
+        "Precession",
+        "Age of Aquarius",
+        "Zodiac",
+        "Vernal Equinox",
+        "Constellations",
+        "Astrological signs",
+        "Birth sign",
+        "Planetary positions",
+        "Syzygy",
+        "XEphem"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr08-galaxy-seasons",
+      "documentId": "ephapr08",
+      "title": "Galaxy Seasons",
+      "summary": "The article \"Galaxy Seasons\" explains that twice a year, during fall and spring, our view of the night sky points away from the dense plane of the Milky Way, allowing optimal observation of distant galaxies. The fall season is ideal for viewing members of our Local Group, such as the Andromeda Galaxy and M33, while spring provides opportunities to observe the much larger and more distant Virgo Supercluster. The author emphasizes the need for dark skies and appropriate equipment for these deep-sky observations.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Deep-Sky Observing",
+        "Galaxies",
+        "Education"
+      ],
+      "keywords": [
+        "Galaxy Seasons",
+        "Milky Way",
+        "Local Group",
+        "Andromeda Galaxy",
+        "M31",
+        "M33",
+        "Virgo Supercluster",
+        "Deep-sky observing",
+        "Dark skies",
+        "Telescope aperture",
+        "Star hopping",
+        "Fall Galaxy Season",
+        "Spring Galaxy Season",
+        "Magellanic Clouds",
+        "Perseus-Pisces Supercluster",
+        "Coma Berenices"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr08-sjaa-2007-year-end-statement",
+      "documentId": "ephapr08",
+      "title": "SJAA 2007 year end statement",
+      "summary": "The SJAA's 2007 year-end financial statement reports a total of $27,377.74 across various accounts, with most funds invested in four staggered 1-year CD accounts for higher interest. The organization earned $910.84 in interest from CDs last year and expects to earn around $1100 this year, aiming for this interest to eventually cover liability insurance premiums. Excess funds from the checking account will be added to the maturing CDs.",
+      "categories": [
+        "financial report",
+        "organizational administration",
+        "year-end statement",
+        "treasurer's report"
+      ],
+      "keywords": [
+        "SJAA",
+        "financial statement",
+        "CD accounts",
+        "interest income",
+        "treasurer",
+        "investments",
+        "organizational finance",
+        "liability insurance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr08-sjaa-yosemite-public-star-party-2008",
+      "documentId": "ephapr08",
+      "title": "SJAA Yosemite Public Star Party 2008",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual Yosemite Public Star Party on July 4-5 at Glacier Point, Yosemite National Park. Up to 30 participants will receive free admission and camping in exchange for running public stargazing events on Friday and Saturday evenings, requiring at least one scope per two people. The camping facilities are described as rustic, and priority for participation is given to SJAA members.",
+      "categories": [
+        "event announcement",
+        "observing event",
+        "club activity",
+        "call for participation"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite",
+        "Glacier Point",
+        "star party",
+        "public outreach",
+        "astronomy",
+        "camping",
+        "July 4-5",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr08-the-star-of-bethlehem-revisited",
+      "documentId": "ephapr08",
+      "title": "The Star of Bethlehem Revisited",
+      "summary": "The author recounts observing a dazzling Jupiter-Venus conjunction in 2008, which prompted a reflection on the \"Star of Bethlehem.\" The article explores the theory that the Star of Bethlehem in 2 B.C.E. was a similarly spectacular, but much closer, planetary conjunction of Jupiter and Venus, potentially appearing as a single bright star to the Magi. It references astronomical perspectives on how such an event could have served as the guiding star mentioned in legend.",
+      "categories": [
+        "Astronomy",
+        "Historical Astronomy",
+        "Observing Report",
+        "Celestial Events",
+        "Commentary"
+      ],
+      "keywords": [
+        "Star of Bethlehem",
+        "Planetary conjunction",
+        "Jupiter",
+        "Venus",
+        "Magi",
+        "2 B.C.E.",
+        "Astronomy observation",
+        "Biblical astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephapr08-invisible-spiral-arms",
+      "documentId": "ephapr08",
+      "title": "Invisible Spiral Arms",
+      "summary": "NASA's Galaxy Evolution Explorer (GALEX) has revealed that many nearby spiral galaxies possess \"invisible\" spiral arms that extend far beyond their visible light boundaries, making some galaxies more than three times larger than previously thought. These extended arms are comprised of hot, young stars that shine brightly in ultraviolet light, which the GALEX telescope is designed to detect. This discovery provides crucial new clues for scientists studying how galaxies form and evolve, particularly concerning bursts of star formation far from galactic centers.",
+      "categories": [
+        "Scientific Discovery",
+        "Astronomy",
+        "Space Exploration",
+        "Astrophysics",
+        "News"
+      ],
+      "keywords": [
+        "Invisible spiral arms",
+        "Galaxy Evolution Explorer",
+        "GALEX",
+        "Ultraviolet astronomy",
+        "Spiral galaxies",
+        "Star formation",
+        "Galaxy evolution",
+        "Young stars",
+        "NASA"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephapr08-silicon-valley-astronomy-lectures",
+      "documentId": "ephapr08",
+      "title": "Silicon Valley Astronomy Lectures",
+      "summary": "This document announces a Silicon Valley Astronomy Lecture by Dr. Jill Tarter from the SETI Institute on April 23, 2008, focusing on the search for extraterrestrial intelligence and the new Allen Telescope Array. The lecture is free and open to the public at Foothill College. Additionally, the article includes a \"Last 29 days in Astronomy\" section highlighting recent space news and a classified ad for a used telescope.",
+      "categories": [
+        "Events",
+        "Lectures",
+        "News",
+        "Astronomy",
+        "SETI",
+        "Advertisement"
+      ],
+      "keywords": [
+        "Jill Tarter",
+        "SETI Institute",
+        "Silicon Valley Astronomy Lectures",
+        "Allen Telescope Array",
+        "Extraterrestrial intelligence",
+        "Foothill College",
+        "Space news",
+        "Titan",
+        "Mars",
+        "Enceladus",
+        "Spitzer Space Telescope",
+        "Radio telescope",
+        "Telescope sale"
+      ],
+      "pageStart": 5,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephapr08-telescope-loaner-program",
+      "documentId": "ephapr08",
+      "title": "Telescope Loaner Program",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a Telescope Loaner Program, allowing members to test various telescope models and technologies before purchasing. The program maintains a changing inventory of scopes for all experience levels, with a list of currently available and soon-to-be-available telescopes provided. The document also includes club officer contacts, staff for the 'SJAA Ephemeris' newsletter, and general club publication details.",
+      "categories": [
+        "Club Program",
+        "Membership Benefit",
+        "Observing Resources",
+        "Club Directory",
+        "Newsletter Information"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Telescopes",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "Equatorial Mount",
+        "Amateur Astronomy",
+        "Club Membership",
+        "SJAA Ephemeris",
+        "Contact Information"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0804/EphApr08.pdf",
+      "txtPath": "0804/EphApr08.md"
+    }
+  ]
+}

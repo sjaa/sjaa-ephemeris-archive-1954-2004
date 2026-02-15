@@ -1,0 +1,247 @@
+{
+  "articles": [
+    {
+      "id": "ephjan07-bob-fies-aluminizing-mirrors-discussion-announcement",
+      "documentId": "ephjan07",
+      "title": "Bob Fies: Aluminizing Mirrors Discussion & Announcement",
+      "summary": "Bob Fies, a long-standing expert in aluminizing telescope mirrors, will deliver a talk on January 6th at Houge Park. He will share the history of his mirror coating business, which began in the 1960s and gained professional momentum after 1991, and provide a step-by-step overview of the mirror aluminizing process, including care and recoating. Fies is known for coating mirrors for amateur telescope makers, including John Dobson and the Chabot Telescope Makers Workshop.",
+      "categories": [
+        "Event Announcement",
+        "Technical Discussion",
+        "History",
+        "Community News"
+      ],
+      "keywords": [
+        "Bob Fies",
+        "Mirror aluminizing",
+        "Telescope mirrors",
+        "Amateur telescope making",
+        "Vacuum system",
+        "John Dobson",
+        "Sidewalk Astronomers",
+        "Coating process",
+        "Houge Park",
+        "San Jose Astronomical Association",
+        "Peninsula Astronomical Society"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan07-to-chase-a-very-small-dot",
+      "documentId": "ephjan07",
+      "title": "To Chase a Very Small Dot",
+      "summary": "Ernie Piini successfully photographed the 2006 Mercury transit from his San Jose driveway, detailing the custom-built equipment he used, including an 8-inch Newtonian telescope with a solar filter and a digital camera. Despite initial overcast skies, the weather cleared, allowing him to capture numerous images with the help of fellow amateur astronomers. The article also briefly contrasts this experience with his observations of the 1993 Mercury transit in Australia, highlighting advancements in his setup and techniques.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Celestial Event",
+        "Astrophotography",
+        "Equipment"
+      ],
+      "keywords": [
+        "Mercury Transit",
+        "Solar Observation",
+        "Astrophotography",
+        "Telescopes",
+        "Digital Camera",
+        "Solar Filter",
+        "Ernie Piini",
+        "2006 Mercury Transit",
+        "San Jose",
+        "Amateur Astronomy",
+        "Sunspot"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan07-ringing-in-the-new-year",
+      "documentId": "ephjan07",
+      "title": "Ringing in the New Year",
+      "summary": "This article provides an astronomical preview for 2007, highlighting key celestial events and observing opportunities. It details Saturn's visibility and ring tilt, two lunar eclipses (with a promising one in August), and Mars's opposition in December, alongside the visibility of other planets and several comets. The piece also covers upcoming space missions like Dawn and Phoenix, the New Horizons' Jupiter encounter, and the presumed loss of the Mars Global Surveyor spacecraft.",
+      "categories": [
+        "observing reports",
+        "events",
+        "news",
+        "space exploration",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "Saturn",
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "lunar eclipses",
+        "opposition",
+        "comets",
+        "Dawn mission",
+        "Phoenix lander",
+        "Herschel telescope",
+        "New Horizons",
+        "Mars Global Surveyor",
+        "2007 astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan07-the-last-30-days-in-astronomy",
+      "documentId": "ephjan07",
+      "title": "The Last 30 Days In Astronomy",
+      "summary": "This astronomy news roundup for November 10 to December 10, 2006, covered the apparent failure of the Mars Global Surveyor, new evidence for water on Mars, and images of historical Mars landers by the Mars Reconnaissance Orbiter. Other significant events included NASA's plans for a lunar polar settlement, the launch of Space Shuttle STS-116, funding cuts at the Arecibo radio telescope, and the detection of a black hole consuming a star, alongside a notable lawsuit against Meade Instruments regarding telescope design claims.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Planetary Science",
+        "Astrophysics",
+        "Astronomy Facilities",
+        "Industry News"
+      ],
+      "keywords": [
+        "Mars Global Surveyor",
+        "Mars water",
+        "Mars Reconnaissance Orbiter",
+        "Viking landers",
+        "Lunar settlement",
+        "Arecibo radio telescope",
+        "STS-116",
+        "Black hole",
+        "Meade Instruments",
+        "NASA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan07-nasa-space-place",
+      "documentId": "ephjan07",
+      "title": "NASA Space Place",
+      "summary": "NASA's Mars rovers, Spirit and Opportunity, have been upgraded with new artificial intelligence software to autonomously detect and photograph Martian dust devils. These dust devils, which can be as tall as Mount Everest and potentially carry static electricity, are an important weather phenomenon on Mars that NASA seeks to understand better for future human missions. The AI technology, initially tested on Earth-orbiting satellites, helps researchers overcome the challenge of observing these transient events.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Artificial Intelligence",
+        "NASA News",
+        "Technology"
+      ],
+      "keywords": [
+        "Mars",
+        "Dust Devils",
+        "NASA",
+        "Spirit Rover",
+        "Opportunity Rover",
+        "Artificial Intelligence",
+        "JPL",
+        "Space Technology 6",
+        "Autonomous Sciencecraft",
+        "Martian Weather",
+        "EO-1 satellite"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan07-solar-system-stats-for-january-2007",
+      "documentId": "ephjan07",
+      "title": "Solar System Stats for January 2007",
+      "summary": "This document presents a table of solar system statistics for January 2007, detailing the Right Ascension, Declination, orbital distance, apparent magnitude, and apparent size for Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and the Sun on specific dates. The data is adapted from the Observer's Handbook, sourced from authoritative astronomical offices. It serves as a reference for celestial positions and properties during that month.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observational Astronomy",
+        "Reference"
+      ],
+      "keywords": [
+        "Solar System",
+        "January 2007",
+        "Ephemeris",
+        "Planetary positions",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Apparent size",
+        "Orbital distance",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Sun"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan07-bruce-margon-speaking-on-results-from-the-hubble-telescope-on-january-24-2007",
+      "documentId": "ephjan07",
+      "title": "Bruce Margon speaking on Results from the Hubble Telescope on January 24, 2007",
+      "summary": "Astronomer Bruce Margon, former Associate Director for Science for the Hubble Space Telescope, will deliver a non-technical, illustrated talk titled \"Glimpsing the Edge of the Universe: Results from the Hubble Space Telescope\" at Foothill College on January 24, 2007. This free public lecture, part of the Silicon Valley Astronomy Lectures, will cover recent discoveries, the future of Hubble, and its societal impact. The event is co-sponsored by NASA Ames Research Center, The Foothill College Astronomy Program, The SETI Institute, and The Astronomical Society of the Pacific.",
+      "categories": [
+        "Events",
+        "Public Lecture",
+        "Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Bruce Margon",
+        "Hubble Space Telescope",
+        "Foothill College",
+        "Silicon Valley Astronomy Lectures",
+        "University of California, Santa Cruz",
+        "NASA Ames Research Center",
+        "SETI Institute",
+        "Astronomical Society of the Pacific",
+        "Space Telescope Science Institute",
+        "Astronomy",
+        "Space Exploration",
+        "Discoveries",
+        "Big Bang",
+        "Galaxies",
+        "January 24, 2007"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan07-sjaa-loaner-scope-status",
+      "documentId": "ephjan07",
+      "title": "SJAA loaner scope status",
+      "summary": "This article details the status of the San Jose Astronomical Association's (SJAA) loaner telescope program, listing various astronomical instruments available for members to borrow. It categorizes scopes by immediate availability, recently loaned, and those with extended loan periods, providing contact information for Mike Koop to facilitate borrowing. The document emphasizes that all scopes are accessible to SJAA members, with a note about a waiting list for currently loaned items.",
+      "categories": [
+        "Club Program",
+        "Equipment Availability",
+        "Resource Management",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy club",
+        "equipment",
+        "availability",
+        "borrowing",
+        "observing equipment",
+        "binoculars"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0701/EphJan07.pdf",
+      "txtPath": "0701/EphJan07.md"
+    }
+  ]
+}

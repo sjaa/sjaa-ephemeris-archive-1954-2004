@@ -1,0 +1,225 @@
+{
+  "articles": [
+    {
+      "id": "ephaug09-sjaa-ephemeris",
+      "documentId": "ephaug09",
+      "title": "SJAA Ephemeris",
+      "summary": "This SJAA Ephemeris outlines the San Jose Astronomical Association's activity calendar for late July, August, and September, including star parties, dark sky weekends, general meetings, and astronomy classes. The article also announces a new default for Ephemeris delivery, shifting to online notification to reduce printing costs, and the termination of the Observatory Fund, with plans to re-direct its contributions to other club initiatives.",
+      "categories": [
+        "Events",
+        "News",
+        "Club Administration",
+        "Observing Reports",
+        "Schedule"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Activities Calendar",
+        "Star Party",
+        "Dark Sky Weekend",
+        "General Meeting",
+        "Astronomy Class",
+        "Ephemeris",
+        "Newsletter",
+        "Observatory Fund",
+        "Club Update",
+        "August 2009"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephaug09-august-2009",
+      "documentId": "ephaug09",
+      "title": "August 2009",
+      "summary": "This document presents the NASA Space Place calendar for August 2009, targeting children with daily activities, educational games, and space-related facts. It highlights astronomical events such as the Perseids meteor shower and moon phases, alongside historical anniversaries and creative challenges tied to space and science topics.",
+      "categories": [
+        "calendar",
+        "educational",
+        "astronomy",
+        "children's activities",
+        "space news"
+      ],
+      "keywords": [
+        "August 2009",
+        "NASA Space Place",
+        "calendar",
+        "Perseids meteor shower",
+        "moon phases",
+        "space exploration",
+        "clouds",
+        "comets",
+        "Saturn",
+        "Voyager 2",
+        "aviation",
+        "kids' activities",
+        "educational games"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephaug09-penning-penumbral-predictions",
+      "documentId": "ephaug09",
+      "title": "Penning Penumbral Predictions",
+      "summary": "This article offers an August 2009 observing guide, detailing the visibility of Jupiter, Neptune, Uranus, Saturn, Venus, Mars, and Pluto. It then focuses on an upcoming penumbral lunar eclipse, analyzing its occurrence as the second in consecutive months and using historical data to demonstrate that such events are not as rare as they initially appear. The piece briefly mentions NASA's LCROSS mission and includes directions to Houge Park for local readers.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Phenomena",
+        "Eclipse Analysis",
+        "Space Mission News",
+        "Local Information"
+      ],
+      "keywords": [
+        "Lunar eclipse",
+        "Penumbral eclipse",
+        "Planetary observation",
+        "Jupiter",
+        "Neptune",
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Pluto",
+        "LCROSS mission",
+        "Celestial mechanics",
+        "August 2009",
+        "Eclipse frequency"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephaug09-the-cool-chemistry-of-alien-life",
+      "documentId": "ephaug09",
+      "title": "The Cool Chemistry of Alien Life",
+      "summary": "NASA's Spitzer Space Telescope has revealed intriguing insights into the potential chemistry of alien life around M-dwarf stars. While acetylene was detected in planet-forming discs, the absence of hydrogen cyanide (HCN), a crucial building block for DNA's adenine, suggests that prebiotic chemistry may unfold differently on planets orbiting these cool stars. This difference is attributed to M-dwarfs' lower ultraviolet light emissions, which are insufficient to break nitrogen bonds required for HCN formation, implying a unique foundation for life beyond Earth.",
+      "categories": [
+        "Astrobiology",
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Research"
+      ],
+      "keywords": [
+        "Alien life",
+        "Prebiotic chemistry",
+        "M-dwarf stars",
+        "Spitzer Space Telescope",
+        "Hydrogen cyanide (HCN)",
+        "Acetylene",
+        "DNA",
+        "Exoplanets",
+        "Planet-forming discs",
+        "Ultraviolet light"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug09-book-review-confessions-of-an-alien-hunter-by-seth-shostak",
+      "documentId": "ephaug09",
+      "title": "Book Review: Confessions of an Alien Hunter by Seth Shostak",
+      "summary": "This article is a glowing review of Seth Shostak's book, \"Confessions of an Alien Hunter,\" which offers a concise summary of the first 50 years of the Search for Extraterrestrial Intelligence (SETI). The book is praised for its humorous and scientific approach to ETI, addressing both extreme viewpoints (ETI believers vs. radical skeptics) and debunking common myths while providing insights into SETI's challenges, history, and the future. The reviewer highly recommends the book for its blend of anecdotes, science, and direct responses to naysayers.",
+      "categories": [
+        "Book Review",
+        "SETI",
+        "Astronomy",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Seth Shostak",
+        "Confessions of an Alien Hunter",
+        "SETI",
+        "Extraterrestrial Intelligence (ETI)",
+        "Fermi's Paradox",
+        "Alien abductions",
+        "Roswell incident",
+        "EQ Peg",
+        "Mars anomalies",
+        "Viking experiment",
+        "Frank Drake"
+      ],
+      "pageStart": 5,
+      "pageEnd": 25
+    },
+    {
+      "id": "ephaug09-the-last-month-in-astronomy",
+      "documentId": "ephaug09",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article provides a roundup of astronomy news from June and July 2009, highlighting several significant discoveries and events. Key updates include new insights into exoplanet life, observations of Betelgeuse's shrinking diameter, the launch of the LRO/LCROSS mission, and findings of potential salt on Enceladus. Other topics cover evidence for the Tunguska event, detailed images of nebulae like NGC 7293 and the Swan Nebula, and a re-evaluation of Galileo's potential early discovery of Neptune.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Planetary Science",
+        "Stellar Astronomy",
+        "Astrobiology",
+        "Deep Sky Objects",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Drake equation",
+        "Exoplanets",
+        "Betelgeuse",
+        "LRO",
+        "LCROSS",
+        "Moon",
+        "Enceladus",
+        "Cassini spacecraft",
+        "Tunguska event",
+        "NGC 7293",
+        "Swan Nebula",
+        "Galileo",
+        "Neptune",
+        "Stellar evolution",
+        "Nebulae",
+        "Space launches"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug09-it-must-be-astronomical",
+      "documentId": "ephaug09",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article, titled \"It Must Be Astronomical...\", highlights the San Jose Astronomical Association's (SJAA) telescope loaner program and provides recommendations for observing deep sky objects like M17 and NGC 6440. It also lists upcoming astronomy conferences, promotes a NASA podcast on the Milky Way for the International Year of Astronomy, and includes organizational details for the SJAA, its staff, and contact information.",
+      "categories": [
+        "Club Activities",
+        "Observing Guides",
+        "Astronomy Events",
+        "Educational Content",
+        "News",
+        "Organizational Information"
+      ],
+      "keywords": [
+        "Telescope Loaners",
+        "Deep Sky Objects",
+        "M17",
+        "NGC 6440",
+        "Abell 44",
+        "Sagittarius",
+        "Epsilon Aurigae",
+        "Variable Stars",
+        "ASP Annual Meeting",
+        "Advanced Imaging Conference",
+        "Jane Houston Jones",
+        "NASA Podcast",
+        "Milky Way",
+        "International Year of Astronomy",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris"
+      ],
+      "pageStart": 7,
+      "pageEnd": 301
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0908/EphAug09.pdf",
+      "txtPath": "0908/EphAug09.md"
+    }
+  ]
+}

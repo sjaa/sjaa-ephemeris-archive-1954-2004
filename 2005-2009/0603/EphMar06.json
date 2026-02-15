@@ -1,0 +1,412 @@
+{
+  "articles": [
+    {
+      "id": "ephmar06-stardust-adventures",
+      "documentId": "ephmar06",
+      "title": "Stardust Adventures",
+      "summary": "Jim Albers details his unexpected involvement in coordinating ground observations for the Stardust Reentry Capsule (SRC) mission, starting with creating public viewing resources and engaging amateur astronomers. His efforts led to an invitation to fly aboard the DC-8 aircraft for a rehearsal flight, where he assisted with instrument setup and Iridium flare predictions. The article concludes with his personal, albeit challenging, ground observation of the SRC reentry and subsequent data analysis of collected photos and videos.",
+      "categories": [
+        "Spacecraft Reentry",
+        "Observing Report",
+        "Citizen Science",
+        "Astronomy Community",
+        "Technical Coordination"
+      ],
+      "keywords": [
+        "Stardust Reentry Capsule (SRC)",
+        "Spacecraft observation",
+        "Amateur astronomy",
+        "Public outreach",
+        "NASA Ames",
+        "SETI Institute",
+        "DC-8 aircraft",
+        "Iridium flares",
+        "Trajectory analysis",
+        "Data analysis",
+        "SJAA"
+      ],
+      "pageStart": 1,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephmar06-gps-global-positioning-on-a-shoestring",
+      "documentId": "ephmar06",
+      "title": "GPS: Global Positioning on a Shoestring",
+      "summary": "The article describes a 'shoestring' experiment to determine one's latitude and longitude using a simple string, celestial observation, and a star chart. Inspired by traditional celestial navigation, the author attempts to pinpoint their location by observing a star directly overhead. While initial attempts yielded inconsistent results for latitude, a carefully calculated longitude formula achieved surprising, though acknowledged as lucky, accuracy.",
+      "categories": [
+        "DIY Astronomy",
+        "Celestial Navigation",
+        "Experimental Project",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "GPS alternative",
+        "shoestring method",
+        "celestial navigation",
+        "sextant",
+        "nautical almanac",
+        "latitude",
+        "longitude",
+        "right ascension",
+        "declination",
+        "astronomy experiment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar06-march-11-general-meeting-mirror-making-and-testing",
+      "documentId": "ephmar06",
+      "title": "March 11 General Meeting: Mirror Making and Testing",
+      "summary": "The March 11 General Meeting will feature Richard Ozer and Paul Zurakowski of the Chabot Telescope Maker's Workshop, who will guide attendees through the process of grinding and polishing telescope mirrors by hand. The presentation will cover the techniques, challenges, and, crucially, the testing and figuring stages using Ronchi and slitless testers. Attendees will also have the opportunity for hands-on experience with a mirror and tester setup after the presentation.",
+      "categories": [
+        "Meeting Announcement",
+        "Technical Workshop",
+        "Amateur Astronomy",
+        "Optics"
+      ],
+      "keywords": [
+        "Mirror Making",
+        "Telescope Mirror",
+        "Mirror Testing",
+        "Ronchi Tester",
+        "Slitless Tester",
+        "Optical Testing",
+        "Chabot Telescope Maker's Workshop",
+        "David Smith",
+        "Richard Ozer",
+        "Paul Zurakowski",
+        "Grinding",
+        "Polishing",
+        "Figuring"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmar06-which-one-is-the-planet",
+      "documentId": "ephmar06",
+      "title": "Which One is the Planet?",
+      "summary": "This article offers an astronomical observing guide for March 2006, detailing prime viewing opportunities for planets like Mars, Saturn, and Jupiter, including specific celestial events like moon transits and conjunctions. It also provides updates on significant space missions, announcing the successful launch of New Horizons to Pluto and the return of Project Stardust with comet samples, alongside a call for citizen scientists to help analyze the collected dust.",
+      "categories": [
+        "Observing Guide",
+        "Space Exploration",
+        "Celestial Events",
+        "Citizen Science",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Mars",
+        "Saturn",
+        "Jupiter",
+        "Mercury",
+        "Venus",
+        "Pluto",
+        "New Horizons Mission",
+        "Project Stardust",
+        "Comet Wild 2",
+        "Zodiacal Light",
+        "Lunar Eclipse",
+        "Solar Eclipse",
+        "Planetary Observations",
+        "March 2006",
+        "Stardust@home"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmar06-nasa-space-place",
+      "documentId": "ephmar06",
+      "title": "NASA Space Place",
+      "summary": "Future space exploration could utilize constellations of small, inexpensive \"micro-sats\" instead of large, single satellites, offering advantages like collective mirror size, increased longevity, and lower launch costs. NASA's experimental Space Technology 5 (ST5) mission aims to test crucial micro-sat technologies and gather data on Earth's magnetic field and space weather. Successful deployment could pave the way for applications such as early solar flare warnings and detailed storm monitoring.",
+      "categories": [
+        "Space Technology",
+        "NASA Missions",
+        "Future Concepts",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Micro-sats",
+        "Space Technology 5 (ST5)",
+        "NASA",
+        "Satellites",
+        "Space telescopes",
+        "Constellation",
+        "Earth's magnetic field",
+        "Space weather",
+        "New Millennium Program"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar06-2006-messier-marathon",
+      "documentId": "ephmar06",
+      "title": "2006 Messier Marathon",
+      "summary": "The San Jose Astronomical Association announced its 2006 Messier Marathon, an annual event challenging amateur astronomers to locate 109 Messier deep-sky objects in a single night, to be held on March 25/26 at Henry Coe State Park. This article provides historical context, noting Don Machholz's role in establishing the tradition, and offers practical advice for participants, including recommended gear, observing lists for various skill levels, and resources. It emphasizes a fun experience for all, from novices to seasoned marathoners, encouraging participation in this long-standing astronomical tradition.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Club Activities",
+        "Historical Context"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Henry Coe State Park",
+        "Deep-sky objects",
+        "Charles Messier",
+        "Don Machholz",
+        "Amateur astronomy",
+        "Observing event",
+        "Star charts",
+        "Star hopping"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephmar06-auction-xxvi",
+      "documentId": "ephmar06",
+      "title": "Auction XXVI",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual Auction XXVI and swap meet on Sunday, April 9, 2006, at Houge Park in San Jose. This event provides an opportunity for beginners and experienced observers to buy and sell astronomical equipment, with an auction starting at 1 PM followed by a swap meet. Sellers are encouraged to preregister items for free advertising and will pay a 10% commission, with funds supporting the SJAA as a 501(c)(3) educational organization.",
+      "categories": [
+        "events",
+        "announcement",
+        "community",
+        "sales"
+      ],
+      "keywords": [
+        "Auction XXVI",
+        "astronomical auction",
+        "swap meet",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Houge Park",
+        "San Jose",
+        "astronomical equipment",
+        "telescopes",
+        "eyepieces",
+        "binoculars",
+        "filters",
+        "preregistration",
+        "commission",
+        "April 9, 2006"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar06-sjaa-yosemite-public-star-party-2006",
+      "documentId": "ephmar06",
+      "title": "SJAA Yosemite Public Star Party 2006",
+      "summary": "The annual SJAA Yosemite Public Star Party is scheduled for July 21-22 at Glacier Point in Yosemite National Park. Up to 30 participants will receive free admission and camping in exchange for hosting two public star parties on Friday and Saturday evenings. Attendees are expected to bring telescopes and tolerate rough camping conditions, with priority given to SJAA members for this ideal new moon weekend.",
+      "categories": [
+        "Event Announcement",
+        "Public Outreach",
+        "Star Party",
+        "Astronomy Event"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite National Park",
+        "Glacier Point",
+        "Star Party",
+        "Public Viewing",
+        "Camping",
+        "New Moon",
+        "Astronomy"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephmar06-board-of-directors-elected",
+      "documentId": "ephmar06",
+      "title": "Board of Directors Elected",
+      "summary": "At the February 11 general meeting, the San Jose Astronomical Association (SJAA) elected its Board of Directors. Gary Mitchell, Dave Smith, Mike Koop, and Rob Hawley were re-elected, while Jim Van Nuland and Dana Crom resigned mid-term, with Dr. Lee Hoglan and Rich Neuschaefer appointed to fill their respective terms. Craig Scull was appointed Secretary, and he will continue on the board with Bill O'Shaughnessy.",
+      "categories": [
+        "Club News",
+        "Governance",
+        "Elections",
+        "Appointments"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "SJAA",
+        "Election",
+        "Resignation",
+        "Appointment",
+        "Gary Mitchell",
+        "Dave Smith",
+        "Mike Koop",
+        "Rob Hawley",
+        "Jim Van Nuland",
+        "Dana Crom",
+        "Dr. Lee Hoglan",
+        "Rich Neuschaefer",
+        "Craig Scull",
+        "Bill O'Shaughnessy",
+        "General Meeting",
+        "Secretary"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar06-physics-for-poets",
+      "documentId": "ephmar06",
+      "title": "Physics for Poets",
+      "summary": "Foothill College is offering its award-winning \"Physics for Poets\" course (Physics 12) again in Spring 2006, taught by Andrew Fraknoi. This non-technical class explains complex ideas like Einstein's theories, relativity, and quantum mechanics using humor and analogies, making it accessible to students without a science or math background. The course focuses on modern physics concepts shaping our understanding of space, time, matter, and energy.",
+      "categories": [
+        "Course Offering",
+        "Education",
+        "Physics",
+        "Science",
+        "Announcement"
+      ],
+      "keywords": [
+        "Physics for Poets",
+        "Einstein",
+        "Relativity",
+        "Quantum Mechanics",
+        "Foothill College",
+        "Andrew Fraknoi",
+        "Non-technical science",
+        "Higher Education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar06-eas-awards-jvn-on-march-12th",
+      "documentId": "ephmar06",
+      "title": "EAS Awards JVN on March 12th",
+      "summary": "The Eastbay Astronomical Society (EAS) will present Jim Van Nuland (JVN) with the prestigious Helen Pillans Award for 2006 on March 12th. JVN is being recognized for his two decades of dedicated direction of the San Jose Astronomical Association's (SJAA) school star party program, which last year engaged over 10,000 students in astronomy outreach. The award ceremony will be held at the Chabot Space and Science Center and will feature Nobel Laureate Dr. Charles H. Townes as a guest speaker.",
+      "categories": [
+        "Awards",
+        "Events",
+        "Community News",
+        "Astronomy Outreach"
+      ],
+      "keywords": [
+        "EAS",
+        "Eastbay Astronomical Society",
+        "Jim Van Nuland",
+        "Helen Pillans Award",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "School Star Party Program",
+        "Amateur Astronomy",
+        "Chabot Space and Science Center",
+        "Dr. Charles H. Townes",
+        "March 12th"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephmar06-scott-sandford-to-talk-on-march-1-2006-at-7-p-m",
+      "documentId": "ephmar06",
+      "title": "Scott Sandford to talk on March 1, 2006 at 7 p.m.",
+      "summary": "Dr. Scott Sandford from NASA Ames will give a non-technical, illustrated talk on Project Stardust at Foothill College on March 1, 2006. The talk will cover the historic mission, which successfully collected and returned comet samples to Earth in January 2006, and discuss the initial findings from their analysis. This free event is open to the public and co-sponsored by several astronomy organizations.",
+      "categories": [
+        "event announcement",
+        "public lecture",
+        "astronomy",
+        "space mission",
+        "science communication"
+      ],
+      "keywords": [
+        "Scott Sandford",
+        "NASA Ames",
+        "Project Stardust",
+        "Comet Wild-2",
+        "sample return mission",
+        "astronomy talk",
+        "Foothill College",
+        "March 1 2006"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar06-solar-system-stats-for-march-2006",
+      "documentId": "ephmar06",
+      "title": "Solar System Stats for March 2006",
+      "summary": "This document provides detailed astronomical statistics for the Sun and seven planets (Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune) for March 2006. It includes their Right Ascension, Declination, distance, apparent magnitude, and apparent angular size on specific dates throughout the month, adapted from the Observer's Handbook.",
+      "categories": [
+        "astronomy",
+        "solar system",
+        "ephemeris",
+        "observing data",
+        "reference",
+        "planetary data"
+      ],
+      "keywords": [
+        "Solar System",
+        "March 2006",
+        "Ephemeris",
+        "Planetary Data",
+        "Astronomical Statistics",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Angular Size",
+        "Sun",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephmar06-sjaa-loaner-scope-status",
+      "documentId": "ephmar06",
+      "title": "SJAA loaner scope status",
+      "summary": "This document outlines the current status of the San Jose Astronomical Association's (SJAA) telescope loaner program, detailing which scopes are available for immediate borrowing, which are currently on loan with due dates, and those with extended loan periods. It provides contact information for Mike Koop, the program coordinator, for members interested in borrowing equipment.",
+      "categories": [
+        "Astronomy Club Services",
+        "Equipment Loan Program",
+        "Status Report",
+        "Observing Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy club",
+        "available scopes",
+        "loaned scopes",
+        "extended loans",
+        "Dobsonian",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "refractor",
+        "binoculars",
+        "spectroscope",
+        "Mike Koop",
+        "astronomy equipment"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0603/EphMar06.pdf",
+      "txtPath": "0603/EphMar06.md"
+    }
+  ]
+}

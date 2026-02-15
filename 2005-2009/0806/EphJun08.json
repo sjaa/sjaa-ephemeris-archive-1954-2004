@@ -1,0 +1,193 @@
+{
+  "articles": [
+    {
+      "id": "ephjun08-deep-sky-observing",
+      "documentId": "ephjun08",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This article provides a deep-sky observing list compiled by Mark Wagner for June 2008, focusing on the third quarter to new moon period. It features a curated selection of galaxies, globular clusters, and nebulae, each with a challenge rating, astronomical data, and brief observational notes. The list is organized geographically from north to south and references several standard astronomical catalogs.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Celestial Objects List"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Observing List",
+        "June 2008",
+        "Galaxies",
+        "Globular Clusters",
+        "Planetary Nebulae",
+        "Dark Nebulae",
+        "Messier objects",
+        "NGC objects",
+        "Arp objects",
+        "Abell objects",
+        "Barnard objects",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Constellations",
+        "Challenge Rating"
+      ],
+      "pageStart": 2,
+      "pageEnd": 293
+    },
+    {
+      "id": "ephjun08-how-bright-is-the-moon-or-neptune",
+      "documentId": "ephjun08",
+      "title": "How Bright is the Moon? or Neptune?",
+      "summary": "This article details an upcoming lunar occultation of Neptune on June 22nd-23rd, cautioning observers about the challenge of spotting the dim planet against a bright gibbous moon. It explains factors affecting the Moon's surface brightness and offers observing tips for Neptune. Additionally, the article provides a monthly sky guide for June, covering visibility and notable events for Jupiter, Mars, Saturn, Mercury, Venus, and Pluto's opposition.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy Events",
+        "Planetary Science",
+        "Sky Notes",
+        "Technical Explanation"
+      ],
+      "keywords": [
+        "Lunar occultation",
+        "Neptune",
+        "Moon brightness",
+        "Gibbous moon",
+        "Planetary observation",
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Mercury",
+        "Venus",
+        "Pluto",
+        "Opposition",
+        "June sky",
+        "Retro reflectors"
+      ],
+      "pageStart": 3,
+      "pageEnd": 213
+    },
+    {
+      "id": "ephjun08-cataloging-stars",
+      "documentId": "ephjun08",
+      "title": "Cataloging Stars",
+      "summary": "This article details the comprehensive systems used for cataloging stars, tracing their evolution from historical proper names, Bayer, and Flamsteed designations to modern positional catalogs. It describes various contemporary catalogs such as HD, SAO, Hipparcos, Tycho-2, GSC, and the vast USNO, outlining their respective depths, accuracies, and typical applications. The author concludes with practical advice for amateur astronomers on utilizing these diverse catalogs, emphasizing their role in star identification and observational astronomy.",
+      "categories": [
+        "Astronomy",
+        "Star Cataloging",
+        "Astrometry",
+        "History of Astronomy",
+        "Observational Resources"
+      ],
+      "keywords": [
+        "Star Cataloging",
+        "Astrometry",
+        "Bayer designation",
+        "Flamsteed designation",
+        "IAU",
+        "Henry Draper Catalog (HD)",
+        "SAO Catalog",
+        "Hipparcos Catalog",
+        "Tycho-2 Catalog",
+        "Hubble Guide Star Catalog (GSC)",
+        "USNO Catalog",
+        "Star Identification",
+        "Stellar Magnitude",
+        "Positional Catalogs"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun08-stellar-compass-for-space-explorers",
+      "documentId": "ephjun08",
+      "title": "Stellar Compass for Space Explorers",
+      "summary": "NASA's Inertial Stellar Compass (ISC), part of the Space Technology 6 (ST6) program, successfully completed its flight test in December 2007, demonstrating a new way for spacecraft to determine their orientation. This innovative system uses an ultra-low-power camera and tiny micro-electromechanical system (MEMS) gyros on silicon wafers, offering significant advantages over traditional stellar compasses. The ISC is substantially lighter and consumes less power, reducing the cost of future space missions while achieving impressive accuracy of 0.05 degrees.",
+      "categories": [
+        "Technology Development",
+        "Space Exploration",
+        "News",
+        "Observing Reports",
+        "Technical"
+      ],
+      "keywords": [
+        "Stellar Compass",
+        "Spacecraft Navigation",
+        "Inertial Stellar Compass (ISC)",
+        "MEMS gyros",
+        "Space Technology 6 (ST6)",
+        "NASA",
+        "JPL",
+        "Flight Test",
+        "TacSat-2",
+        "Attitude Control",
+        "Cost Reduction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun08-the-last-30-days-in-astronomy",
+      "documentId": "ephjun08",
+      "title": "The Last 30 Days in Astronomy",
+      "summary": "This astronomy update from early 2008 covers recent developments in space exploration and observation. Key news includes the opportunity for public participation in the Kepler mission, updates on asteroid Apophis's Earth impact probability, and the extension of the Cassini mission to Saturn. Additionally, it offers practical advice for amateur astronomers on observing Pluto amidst dense star fields.",
+      "categories": [
+        "news",
+        "space missions",
+        "astronomy education",
+        "observing reports",
+        "astrodynamics"
+      ],
+      "keywords": [
+        "Kepler mission",
+        "extrasolar planets",
+        "asteroid Apophis",
+        "Cassini mission",
+        "Saturn",
+        "Titan",
+        "Pluto",
+        "amateur astronomy",
+        "observing tips",
+        "NASA"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjun08-telescope-loaner-program",
+      "documentId": "ephjun08",
+      "title": "Telescope Loaner Program",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) Telescope Loaner Program, which allows members to try a variety of telescopes and a spectroscope before purchasing. It provides a list of currently available equipment and a link for updated information. Additionally, the article includes contact details for the club's officers and board members, along with publication information for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "Club Services",
+        "Membership Benefits",
+        "Astronomy Clubs",
+        "Equipment Loan",
+        "Club Administration",
+        "Newsletters"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "telescopes",
+        "astronomy equipment",
+        "Dobsonian",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "spectroscope",
+        "club membership",
+        "club officers",
+        "Ephemeris newsletter"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0806/EphJun08.pdf",
+      "txtPath": "0806/EphJun08.md"
+    }
+  ]
+}

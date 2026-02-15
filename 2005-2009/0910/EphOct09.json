@@ -1,0 +1,180 @@
+{
+  "articles": [
+    {
+      "id": "ephoct09-sjaa-ephemeris",
+      "documentId": "ephoct09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This SJAA Ephemeris for October 2009 outlines the San Jose Astronomical Association's upcoming activities from late September through November, including star parties, general meetings with speakers on topics like galaxy evolution, astronomy classes, and dark sky weekends. The newsletter also features an update on the newly refurbished Hubble Space Telescope and a request for a new editor for the 'Ephemeris' publication.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Lectures",
+        "Education",
+        "Organizational",
+        "Volunteer Opportunity"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "Star party",
+        "Astronomy class",
+        "General meeting",
+        "Hubble Space Telescope",
+        "HST",
+        "Lick Observatory",
+        "Galaxies",
+        "Dark Sky Weekend",
+        "Newsletter editor",
+        "October 2009",
+        "Houge Park",
+        "Henry Coe Park"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephoct09-hubble-space-telescope-wide-field-camera-3-early-release-observations",
+      "documentId": "ephoct09",
+      "title": "Hubble Space Telescope Wide Field Camera 3: Early Release Observations",
+      "summary": "This document highlights the Early Release Observations from the Hubble Space Telescope's new Wide Field Camera 3 (WFC3) after its upgrade. It showcases four notable images: the butterfly-shaped NGC 6302 nebula, a galactic clash in Stephan's Quintet, the star-filled core of the Omega Centauri globular cluster, and a star birth pillar in the Carina Nebula. These images demonstrate the WFC3's capabilities in capturing detailed astronomical phenomena.",
+      "categories": [
+        "Observing Reports",
+        "Space Telescopes",
+        "Astrophotography",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Wide Field Camera 3",
+        "Early Release Observations",
+        "NGC 6302",
+        "Stephan's Quintet",
+        "Omega Centauri",
+        "Carina Nebula",
+        "Nebula",
+        "Galaxies",
+        "Globular Cluster",
+        "Star Formation",
+        "NASA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct09-a-planet-named-easterbunny",
+      "documentId": "ephoct09",
+      "title": "A Planet Named Easterbunny?",
+      "summary": "This article details the process and guidelines for naming newly discovered dwarf planets and other solar system objects, highlighting the collaborative roles of discoverers and the International Astronomical Union (IAU). It uses the example of a dwarf planet initially nicknamed \"Easterbunny\" by its discoverers, which was officially named Makemake, adhering to IAU rules requiring mythological names for Kuiper belt objects. The article underscores the importance of choosing meaningful names that connect these celestial bodies to human culture and mythology.",
+      "categories": [
+        "Astronomy",
+        "Solar System Bodies",
+        "Naming Conventions",
+        "Science Education"
+      ],
+      "keywords": [
+        "Dwarf planets",
+        "IAU",
+        "Naming conventions",
+        "Kuiper Belt",
+        "Makemake",
+        "Mike Brown",
+        "Solar System"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct09-deep-impact",
+      "documentId": "ephoct09",
+      "title": "Deep Impact",
+      "summary": "The article details the upcoming NASA LCROSS mission, scheduled to impact the Moon's south pole on October 9th to search for water ice. It provides observers with information on the impact's visibility, the target crater Cabeus A, and resources for group observations or live webcasts. Additionally, the article includes an October skygazing guide, highlighting visible planets and phenomena like the zodiacal light.",
+      "categories": [
+        "Space Exploration",
+        "Celestial Events",
+        "Observing Guide",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "LCROSS mission",
+        "Lunar impact",
+        "Water ice",
+        "Cabeus A",
+        "Moon observing",
+        "Planetary observation",
+        "October skygazing",
+        "NASA",
+        "Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct09-the-last-month-in-astronomy",
+      "documentId": "ephoct09",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article summarizes significant astronomical news and discoveries from August and September 2009. Key updates include new images from the refurbished Hubble Space Telescope, the detection of the amino acid glycine on Comet Wild2, and research into fast-spinning white dwarfs with supernova potential. It also covers discoveries about galactic interactions, solar corona heating, and the return of the 'Enose' sensor from the space station, concluding with a promotion for educational space storybooks.",
+      "categories": [
+        "Astronomy News",
+        "Space Missions",
+        "Astrophysics",
+        "Planetary Science",
+        "Cosmology",
+        "Science Education"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Comet Wild2",
+        "Glycine",
+        "White Dwarf",
+        "Supernova",
+        "Andromeda Galaxy",
+        "Sun's Corona",
+        "Enose",
+        "Space Station",
+        "Kuiper Belt",
+        "Oort Cloud",
+        "Galactic Spirals",
+        "NASA Stardust",
+        "XMM Newton"
+      ],
+      "pageStart": 1,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct09-it-must-be-astronomical",
+      "documentId": "ephoct09",
+      "title": "It Must Be Astronomical...",
+      "summary": "This issue of the San Jose Astronomical Association's \"Ephemeris\" newsletter highlights the club's telescope loaner program and an upcoming Advanced Imaging Conference. It also offers educational content, including a Q&A on radio detection of meteorites and a list of astronomy blogs, alongside club administrative details and contact information.",
+      "categories": [
+        "News",
+        "Club Information",
+        "Events",
+        "Educational Resources"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Telescope Loaner Program",
+        "Advanced Imaging Conference",
+        "Meteorite Detection",
+        "Radio Astronomy",
+        "Astronomy Blogs",
+        "Club Officers",
+        "Newsletter"
+      ],
+      "pageStart": 7,
+      "pageEnd": 259
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0910/EphOct09.pdf",
+      "txtPath": "0910/EphOct09.md"
+    }
+  ]
+}

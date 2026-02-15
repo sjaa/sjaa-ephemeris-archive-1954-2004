@@ -1,0 +1,138 @@
+{
+  "articles": [
+    {
+      "id": "ephsep08-the-shallow-sky",
+      "documentId": "ephsep08",
+      "title": "The Shallow Sky",
+      "summary": "This article details September 2008's celestial observations, highlighting the twilight dance of Venus, Mars, and Mercury, along with observing opportunities for Jupiter, Uranus, Neptune, and Pluto. It also provides an update on the Mars Phoenix probe, which successfully directly detected water and is now facing the Martian winter. Additionally, information is included for renewing group subscriptions to *Astronomy* magazine.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Astronomy",
+        "Space Exploration",
+        "Astronomy News",
+        "Club Services"
+      ],
+      "keywords": [
+        "September 2008",
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Moon",
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Phoenix probe",
+        "Mars exploration",
+        "water detection",
+        "celestial events",
+        "planet observation",
+        "conjunction",
+        "opposition",
+        "astronomy magazine",
+        "group subscription"
+      ],
+      "pageStart": 1,
+      "pageEnd": 30
+    },
+    {
+      "id": "ephsep08-death-of-a-supergiant",
+      "documentId": "ephsep08",
+      "title": "Death of a Supergiant",
+      "summary": "Scientists, led by Kevin Schawinski, made a groundbreaking observation of a red supergiant's death throes using NASA's GALEX space telescope. GALEX detected a \"pre-flash\" of ultraviolet (UV) light from a Type IIP supernova (SNLS-04D2dc) just as the star's core collapsed and a shockwave reached its surface, hours before the visible light explosion. This unique UV observation offers crucial insights into the star's state immediately before its death, revealing information like its size and the early stages of a supernova that was previously unobtainable.",
+      "categories": [
+        "Astronomy News",
+        "Astrophysics",
+        "Space Exploration",
+        "Observing Report",
+        "Stellar Evolution"
+      ],
+      "keywords": [
+        "Supernova",
+        "Red Supergiant",
+        "GALEX",
+        "Ultraviolet Light",
+        "Shock Wave",
+        "Star Death",
+        "Core Collapse",
+        "Neutron Star",
+        "SNLS-04D2dc",
+        "Type IIP Supernova"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep08-sjaa-programs-and-astronomy-highlights",
+      "documentId": "ephsep08",
+      "title": "SJAA Programs and Astronomy Highlights",
+      "summary": "This article highlights upcoming astronomy events including the 10th annual Silicon Valley Astronomy Lectures at Foothill College, offering academic credit, and NASA Ames' 'Return to the Moon' Family Night on September 6, 2008, promoting the LRO/LCROSS missions and inviting SJAA participation. It also provides a recap of recent astronomy news, an update on NASA's International Year of Astronomy 2009 efforts from Jane Houston Jones, and mentions the Star-B-Q 2008 event with photos.",
+      "categories": [
+        "Events",
+        "Astronomy News",
+        "Education",
+        "Community Outreach",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Silicon Valley Astronomy Lectures",
+        "Foothill College",
+        "NASA Ames",
+        "Return to the Moon Family Night",
+        "LRO",
+        "LCROSS",
+        "SJAA",
+        "Cassini",
+        "Hubble",
+        "Solar Eclipse",
+        "Titan",
+        "Star-B-Q 2008",
+        "Jane Houston Jones",
+        "JPL",
+        "International Year of Astronomy 2009",
+        "Sidewalk Astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep08-telescope-loaner-program",
+      "documentId": "ephsep08",
+      "title": "Telescope Loaner Program",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a Telescope Loaner Program, allowing members to try various telescopes, from binoculars to a large 18-inch Dobsonian, before purchase. The article also announces a \"Slide and Equipment Night\" event in September 2008 for members to share equipment and images. Additionally, it provides a comprehensive list of SJAA officers, contact information, and details regarding their monthly newsletter, the \"SJAA Ephemeris.\"",
+      "categories": [
+        "Club Services",
+        "Events",
+        "Club Administration",
+        "Newsletter/Publications",
+        "Equipment Loaner Program"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomy Club",
+        "Telescopes",
+        "Binoculars",
+        "Dobsonian",
+        "Refractor",
+        "Newtonian",
+        "Slide and Equipment Night",
+        "Star Party",
+        "Club Officers",
+        "Newsletter",
+        "Ephemeris"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0809/EphSep08.pdf",
+      "txtPath": "0809/EphSep08.md"
+    }
+  ]
+}

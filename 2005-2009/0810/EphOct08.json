@@ -1,0 +1,194 @@
+{
+  "articles": [
+    {
+      "id": "ephoct08-october-2008",
+      "documentId": "ephoct08",
+      "title": "OCTOBER 2008",
+      "summary": "This document presents a calendar for October 2008, detailing astronomical events like Moon phases and the Orionids meteor shower, alongside significant anniversaries in space exploration, such as the launch of GOES-1 and the first photo of the Moon's far side by Lunik 3. It integrates various educational themes, including energy awareness and World Space Week, consistently encouraging engagement with NASA's \"The Space Place\" website for related activities and information.",
+      "categories": [
+        "Calendar",
+        "Educational Content",
+        "Astronomy Events",
+        "Space History",
+        "STEM Education",
+        "Science Communication"
+      ],
+      "keywords": [
+        "October 2008",
+        "Calendar",
+        "NASA",
+        "The Space Place",
+        "Astronomy",
+        "Moon phases",
+        "Orionids meteor shower",
+        "Space exploration",
+        "GOES-1",
+        "Lunik 3",
+        "Weather satellites",
+        "Space weather",
+        "World Space Week",
+        "Energy Awareness Month",
+        "Educational activities",
+        "Historical anniversaries"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct08-the-shallow-sky-twinkle-twinkle",
+      "documentId": "ephoct08",
+      "title": "The Shallow Sky: Twinkle, Twinkle",
+      "summary": "This article offers an astronomical guide for October, detailing opportunities to observe various celestial bodies like the Moon, Venus, Jupiter, Neptune, Uranus, and the asteroid Vesta. It provides specific viewing times and tips, including how to locate these objects. A key focus is on explaining why planets appear not to twinkle compared to stars, attributing this phenomenon to their disk size relative to atmospheric fluctuations, and notes exceptions like Pluto.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Planetary Observation",
+        "Educational"
+      ],
+      "keywords": [
+        "October sky",
+        "celestial observation",
+        "Moon",
+        "Venus",
+        "Jupiter",
+        "Neptune",
+        "Uranus",
+        "Vesta",
+        "Mercury",
+        "twinkling stars",
+        "atmospheric seeing",
+        "telescope tips",
+        "Halloween astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct08-death-of-a-supergiant",
+      "documentId": "ephoct08",
+      "title": "Death of a Supergiant",
+      "summary": "NASA researchers are developing \"Sensor Web 2.0,\" a web portal akin to a \"Google for satellites,\" designed to simplify access to data from Earth-observing satellites. This system allows users to easily request specific information, such as wildfire maps or floodwater salinity, and can even trigger satellites to acquire new imagery in an area of interest. The initiative aims to integrate numerous satellites into a seamless, user-friendly network to enhance our ability to observe and understand the planet, as demonstrated during the Myanmar cyclone crisis.",
+      "categories": [
+        "Technology",
+        "Earth Observation",
+        "Satellite Systems",
+        "Data Management",
+        "NASA Initiatives",
+        "Remote Sensing",
+        "Disaster Management"
+      ],
+      "keywords": [
+        "NASA",
+        "Satellites",
+        "Earth-observing satellites",
+        "Sensor Web 2.0",
+        "Data portal",
+        "EO-1",
+        "Daniel Mandl",
+        "Remote sensing",
+        "Environmental monitoring",
+        "Disaster relief",
+        "Hyperion Imager"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct08-silicon-valley-astronomy-lectures",
+      "documentId": "ephoct08",
+      "title": "Silicon Valley Astronomy Lectures",
+      "summary": "The article announces an upcoming Silicon Valley Astronomy Lecture by Leonard Susskind on October 1st, where he will discuss \"The Black Hole Wars: My Battle with Stephen Hawking,\" a non-technical talk exploring black hole theory and its implications for understanding reality. Additionally, it provides an overview of the Large Hadron Collider (LHC), which commenced operations in September 2008, explaining its purpose in particle physics and potential discoveries such as new particles, the Higgs boson, or evidence for string theory.",
+      "categories": [
+        "Event Announcement",
+        "Physics",
+        "Astronomy",
+        "Particle Physics",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Leonard Susskind",
+        "Stephen Hawking",
+        "Black Holes",
+        "Large Hadron Collider (LHC)",
+        "Particle Physics",
+        "Higgs Boson",
+        "String Theory",
+        "Silicon Valley Astronomy Lectures",
+        "Quantum Theory",
+        "Gravity"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct08-the-last-31-days-in-astronomy",
+      "documentId": "ephoct08",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This article, titled 'The Last 31 Days In Astronomy,' reports on several key astronomical events and discoveries from August and September 2008. Highlights include updates on the Hubble repair mission, findings from Mars rovers Phoenix and Opportunity, new details from Cassini's flyby of Enceladus, a theory on black holes forming stars, and the detection of a mysterious new type of variable celestial object.",
+      "categories": [
+        "Space Missions",
+        "Planetary Exploration",
+        "Astrophysics",
+        "Observational Astronomy",
+        "Spacecraft Operations",
+        "Scientific Discovery"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "STS-125",
+        "Atlantis",
+        "Phoenix Mars Lander",
+        "Mars Rover Opportunity",
+        "Enceladus",
+        "Cassini",
+        "Black Holes",
+        "Star Formation",
+        "New Celestial Object",
+        "Variable Stars",
+        "Magnitude",
+        "NASA"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct08-telescope-loaner-program",
+      "documentId": "ephoct08",
+      "title": "Telescope Loaner Program",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a Telescope Loaner Program, allowing members to test various telescopes and binoculars before purchasing. The program maintains a diverse inventory, including Dobsonians, refractors, Newtonians, and Schmidt-Cassegrains, catering to all experience levels. The article also provides contact information for the club's officers, board of directors, and various club services, along with publication details for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "Club Services",
+        "Equipment Loaner Program",
+        "Astronomy Club Information",
+        "Newsletter Publication",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy Club",
+        "Telescopes",
+        "Binoculars",
+        "Dobsonian",
+        "Refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Ephemeris Newsletter",
+        "Club Officers",
+        "Star Parties"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0810/EphOct08.pdf",
+      "txtPath": "0810/EphOct08.md"
+    }
+  ]
+}

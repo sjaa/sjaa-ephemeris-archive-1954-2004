@@ -1,0 +1,224 @@
+{
+  "articles": [
+    {
+      "id": "ephjun09-sjaa-ephemeris",
+      "documentId": "ephjun09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA EPHEMERIS details upcoming activities for the San Jose Astronomical Association from May through July, including dark sky weekends at Henry Coe Park, star parties at Houge Park, general meetings with speakers, and astronomy classes. Additionally, the article features an analysis of the Space Shuttle Atlantis mission to repair and significantly enhance the capabilities of the Hubble Space Telescope, emphasizing its scientific value and cost-effectiveness. It also provides contact information and website for the association.",
+      "categories": [
+        "Events",
+        "News",
+        "Observing",
+        "Meetings",
+        "Education",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Events",
+        "Star Parties",
+        "Dark Sky Observing",
+        "Hubble Space Telescope",
+        "Space Shuttle Atlantis",
+        "Pioneer Missions",
+        "Astronomy Education",
+        "General Meetings",
+        "Astronomical Calendar"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjun09-june-2009",
+      "documentId": "ephjun09",
+      "title": "JUNE 2009",
+      "summary": "This document is the June 2009 calendar from NASA Space Place, featuring daily educational facts and themes related to astronomy, space exploration, and environmental awareness. It highlights historical space events, astronomical phenomena like moon phases and the Summer Solstice, and promotes scientific thinking. The calendar also provides numerous links to supplementary online resources and activities for kids and educators.",
+      "categories": [
+        "Calendar",
+        "Educational Resource",
+        "Astronomy",
+        "Space Exploration",
+        "Environmental Awareness",
+        "Space History"
+      ],
+      "keywords": [
+        "NASA Space Place",
+        "June 2009",
+        "Space Weather",
+        "Magnetosphere",
+        "Moon Phases",
+        "Summer Solstice",
+        "Space Walk",
+        "Gemini 4",
+        "Ed White",
+        "Gian Domenico Cassini",
+        "Saturn's Moons",
+        "Pioneer 10",
+        "Pluto's Orbit",
+        "Asteroids",
+        "Comets",
+        "Recycling Month",
+        "World Environment Day",
+        "Father's Day",
+        "STEM Education"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun09-the-shallow-sky",
+      "documentId": "ephjun09",
+      "title": "The Shallow Sky",
+      "summary": "The article details current planetary observations, highlighting Saturn's visibility and Pluto's challenging opposition in Sagittarius. It then delves into the NASA STEREO mission, explaining its purpose in observing the Sun in 3D to understand coronal mass ejections, and its recent arrival at Earth's stable Lagrangian points L4 and L5. The author elaborates on Lagrangian points, their stability, and their connection to \"Trojan points\" and asteroids, even mentioning the hypothetical planet Theia.",
+      "categories": [
+        "Observational Astronomy",
+        "Space Missions",
+        "Solar Physics",
+        "Orbital Mechanics",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Saturn",
+        "Pluto",
+        "STEREO mission",
+        "Solar observation",
+        "Coronal Mass Ejections",
+        "CMEs",
+        "Lagrangian points",
+        "L4",
+        "L5",
+        "Trojan points",
+        "Trojan asteroids",
+        "Theia",
+        "Orbital mechanics",
+        "NASA",
+        "Sagittarius",
+        "Milky Way"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun09-the-swiss-army-knife-of-weather-satellites",
+      "documentId": "ephjun09",
+      "title": "The Swiss Army Knife of Weather Satellites",
+      "summary": "NOAA-19, the newest polar-orbiting weather satellite, is the final and most capable in the 50-year-long TIROS series, boasting a wide array of functions beyond basic weather, such as spotting volcanic eruptions, monitoring crops, and aiding search and rescue. Launched by NASA and operated by NOAA, it serves as a bridge to the upcoming National Polar-orbiting Operational Environmental Satellite System (NPOESS), which will integrate civilian and military capabilities for even more advanced Earth observations.",
+      "categories": [
+        "Satellites",
+        "Space Technology",
+        "Earth Observation",
+        "Weather Monitoring",
+        "Science News"
+      ],
+      "keywords": [
+        "NOAA-19",
+        "TIROS",
+        "Weather Satellites",
+        "NASA",
+        "NOAA",
+        "NPOESS",
+        "Polar-orbiting",
+        "Remote Sensing",
+        "Environmental Monitoring",
+        "Space Exploration"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun09-astrophotography",
+      "documentId": "ephjun09",
+      "title": "Astrophotography",
+      "summary": "This article details the capabilities and advantages of astronomical CCDs compared to webcams, particularly for astrophotography. It covers their uses in deep-space long exposures, narrowband imaging, photometry for variable stars and exoplanets, and self-tracking with autoguiding. The author highlights their superior features like cooling, monochrome sensors, automated filter wheels, and adaptive optics, enabling amateurs to achieve professional-level results.",
+      "categories": [
+        "Astrophotography",
+        "Technical Review",
+        "Astronomy Equipment",
+        "Observing Techniques",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Astronomical CCDs",
+        "Deep Space Imaging",
+        "Photometry",
+        "Exoplanets",
+        "Adaptive Optics",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun09-the-last-month-in-astronomy",
+      "documentId": "ephjun09",
+      "title": "The Last Month In Astronomy",
+      "summary": "The article 'The Last Month In Astronomy' summarizes significant astronomical developments from April and May 2009. It covers diverse topics such as a mild solar weather forecast, a theoretical warp drive concept, refined Hubble Constant measurements, and milestones for the ALMA telescope. Key discoveries include the lightest exoplanet Gliese 581e, a record-breaking distant gamma-ray burst, and initial operations of the Kepler mission, alongside updates on the Mars rover Spirit and the search for objects near Earth's Lagrange points.",
+      "categories": [
+        "News",
+        "Astronomy Updates",
+        "Space Missions & Technology",
+        "Scientific Discoveries",
+        "Cosmology",
+        "Exoplanets",
+        "Solar Physics",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Solar weather",
+        "Warp drive",
+        "Hubble Constant",
+        "ALMA",
+        "Gamma-ray bursts",
+        "Exoplanets",
+        "Kepler mission",
+        "Mars rover Spirit",
+        "Galaxy formation",
+        "STEREO spacecraft"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjun09-it-must-be-astronomical",
+      "documentId": "ephjun09",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article highlights the San Jose Astronomical Association's telescope loaner program, offering members a chance to try various scopes. It provides recommendations for deep sky objects to observe in March, categorized by difficulty. Additionally, it lists upcoming astronomical events like star parties and a total solar eclipse, along with club officer contacts and publication details for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "Club Services",
+        "Observing Guide",
+        "Astronomical Events",
+        "Club News",
+        "Membership Information"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Deep Sky Objects",
+        "M83",
+        "N5084",
+        "N5134",
+        "Galaxies",
+        "Golden State Star Party",
+        "Total Solar Eclipse",
+        "AANC Star-B-Q",
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Astronomy Club",
+        "Club Officers",
+        "School Star Parties",
+        "Observing recommendations"
+      ],
+      "pageStart": 7,
+      "pageEnd": 291
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0906/EphJun09.pdf",
+      "txtPath": "0906/EphJun09.md"
+    }
+  ]
+}

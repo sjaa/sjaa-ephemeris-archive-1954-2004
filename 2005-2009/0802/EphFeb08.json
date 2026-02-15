@@ -1,0 +1,197 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb08-dr-friedemann-freund",
+      "documentId": "ephfeb08",
+      "title": "Dr. Friedemann Freund",
+      "summary": "This document announces Dr. Friedemann Freund as the speaker for the San Jose Astronomical Association's February 2008 event. Dr. Freund, a professor at San Jose State University and researcher at SETI, will discuss his work on the hypothesis that rock weathering, rather than photosynthesis, may be responsible for oxygen prevalence on Earth-like planets. He will also touch upon his research into pre-earthquake signals.",
+      "categories": [
+        "events",
+        "news",
+        "technical",
+        "research",
+        "astronomy"
+      ],
+      "keywords": [
+        "Dr. Friedemann Freund",
+        "SETI",
+        "San Jose State University",
+        "Oxygen",
+        "Rock Weathering",
+        "Photosynthesis",
+        "Earth-like planets",
+        "Earthquake prediction",
+        "Pre-earthquake signals",
+        "Speaker event",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephfeb08-deep-sky-observing",
+      "documentId": "ephfeb08",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This article presents a deep-sky observing list for the third quarter to new moon in February 2008, compiled by Mark Wagner. The list primarily features open clusters and one planetary nebula, arranged from north to south within a specific right ascension range. Each entry includes astronomical data such as constellation, type, size, magnitude, and coordinates, along with brief descriptive observing notes.",
+      "categories": [
+        "observing reports",
+        "deep-sky astronomy",
+        "astronomy guides",
+        "observing lists"
+      ],
+      "keywords": [
+        "deep sky",
+        "observing list",
+        "open clusters",
+        "planetary nebula",
+        "NGC",
+        "M",
+        "February 2008",
+        "right ascension",
+        "declination",
+        "constellation",
+        "magnitude",
+        "astronomical objects",
+        "Messier objects",
+        "Herschel objects"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephfeb08-an-edgy-eclipse",
+      "documentId": "ephfeb08",
+      "title": "An Edgy Eclipse",
+      "summary": "The article details a total lunar eclipse occurring on February 20, describing it as an \"edgy\" event that may appear brighter and coppery with a bright edge. It highlights observing opportunities for the moon, nearby Saturn, several Messier galaxies, and the bright planet Mars, providing specific viewing times and visible features. The San Jose Astronomical Association (SJAA) is hosting a public eclipse party.",
+      "categories": [
+        "astronomy news",
+        "observing guide",
+        "events",
+        "planetary astronomy"
+      ],
+      "keywords": [
+        "lunar eclipse",
+        "total lunar eclipse",
+        "February 2008",
+        "Saturn",
+        "Mars",
+        "Messier galaxies",
+        "observing tips",
+        "SJAA",
+        "celestial events",
+        "astronomy club"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb08-photos",
+      "documentId": "ephfeb08",
+      "title": "Photos",
+      "summary": "The article highlights various events and activities of the SJAA, including talks by Dr. Graeme Smith and Dr. Lee Hoglan on astronomy topics and dark sky myopia. It also covers a 'Slide and Equipment night' featuring a member-built digital SLR camera mount, and a white elephant gift exchange where a Dobsonian telescope rocker box was exchanged. These events reflect the SJAA's regular community engagement and member activities.",
+      "categories": [
+        "Community Events",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Meetings",
+        "Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy talks",
+        "General Meeting",
+        "Slide and Equipment night",
+        "Show and Tell night",
+        "Digital SLR camera mount",
+        "Dobsonian telescope",
+        "White elephant gift exchange",
+        "Dr. Graeme Smith",
+        "Dr. Lee Hoglan",
+        "Dark sky myopia",
+        "Rob Hawley",
+        "Gary Seronik",
+        "Sky & Telescope"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb08-ultraviolet-surprise",
+      "documentId": "ephfeb08",
+      "title": "Ultraviolet Surprise",
+      "summary": "NASA's Galaxy Evolution Explorer (GALEX) space telescope is conducting an all-sky survey at ultraviolet wavelengths, revealing previously unseen features of celestial objects. Earth's atmosphere blocks this light, making space telescopes essential for such observations. Much of the data remains unexamined, inviting public participation to discover new phenomena like Mira's 13-light-year-long comet-like tail and extended ultraviolet spiral arms in galaxies.",
+      "categories": [
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Discovery",
+        "Citizen Science",
+        "Observational Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Galaxy Evolution Explorer",
+        "GALEX",
+        "Ultraviolet astronomy",
+        "Space telescope",
+        "Mira",
+        "Star tail",
+        "Galaxy arms",
+        "Data archive",
+        "NASA",
+        "NGC 1512"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb08-the-last-31-days-in-astronomy",
+      "documentId": "ephfeb08",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This article provides a monthly recap of astronomy news from December 2007 to January 2008. Key highlights include updates on the Deep Impact mission (now Epoxi) for comet and exoplanet observations, discussions on unusual gamma-ray bursts, the UN's declaration of 2009 as the International Year of Astronomy, and significant discoveries related to supermassive black holes, early galaxies, and organic molecules around star-forming systems.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Celestial Objects",
+        "Astronomy Initiatives",
+        "SETI"
+      ],
+      "keywords": [
+        "Deep Impact",
+        "Epoxi",
+        "Comet Hartley 2",
+        "Exoplanets",
+        "Gamma-ray burst (GRB)",
+        "GRB 070125",
+        "International Year of Astronomy 2009",
+        "SETI@home",
+        "Arecibo",
+        "Tholins",
+        "Organic molecules",
+        "HR 4796A",
+        "Supernova",
+        "Eta Carinae",
+        "SN 2006gy",
+        "Black holes",
+        "Quasar",
+        "Milky Way galaxies",
+        "Star formation",
+        "Hubble Space Telescope",
+        "Asteroid 2007 WD5",
+        "Mars",
+        "Time travel"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0802/EphFeb08.pdf",
+      "txtPath": "0802/EphFeb08.md"
+    }
+  ]
+}

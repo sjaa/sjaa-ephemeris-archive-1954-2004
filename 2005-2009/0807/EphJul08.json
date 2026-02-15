@@ -1,0 +1,193 @@
+{
+  "articles": [
+    {
+      "id": "ephjul08-deep-sky-observing",
+      "documentId": "ephjul08",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This article presents a deep sky observing list compiled by Mark Wagner for July 2008, spanning the period from the third quarter to new moon. It details various celestial objects, including planetary nebulae, globular clusters, and open clusters, with challenge ratings, observational notes, and celestial coordinates. The list aims to guide observers from north to south, focusing on objects within one hour of right ascension.",
+      "categories": [
+        "observing guide",
+        "astronomy",
+        "deep sky",
+        "observing list"
+      ],
+      "keywords": [
+        "deep sky observing",
+        "Messier objects",
+        "NGC objects",
+        "planetary nebulae",
+        "globular clusters",
+        "open clusters",
+        "celestial coordinates",
+        "July 2008",
+        "astronomy guide",
+        "challenge rating"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjul08-phoenix-from-fire-into-ice",
+      "documentId": "ephjul08",
+      "title": "Phoenix from fire into ice",
+      "summary": "The article announces the successful landing of NASA's Phoenix Mars lander in the Martian north polar region, where it has begun analyzing soil samples for water, with its mission expected to last three months. It also details several celestial events for observers on Earth in July, including Jupiter at opposition, a close pass of Mars and Saturn, Venus entering the evening sky, and the visibility of Mercury, Uranus, Neptune, and Pluto.",
+      "categories": [
+        "Space Exploration",
+        "Observing Reports",
+        "News",
+        "Astronomy Events",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Phoenix Mars Lander",
+        "Mars",
+        "Water on Mars",
+        "Jupiter",
+        "Saturn",
+        "Mars-Saturn Conjunction",
+        "Venus",
+        "Mercury",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Skywatching",
+        "July Astronomy",
+        "Celestial Events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul08-solar-eclipses-future-events-and-travel-tips",
+      "documentId": "ephjul08",
+      "title": "Solar Eclipses: Future Events and Travel Tips",
+      "summary": "This article explains solar eclipses, including the astronomical mechanics behind them, such as 'eclipse months' and the difference between total, annular, and partial eclipses. It highlights upcoming solar eclipses for 2008, 2009, 2010, and the next US-visible event in 2017, along with travel advice for those interested in observing these celestial phenomena. The author also provides recommendations for eclipse travel companies and mentions specific observing locations.",
+      "categories": [
+        "Astronomy Explanation",
+        "Future Events",
+        "Observing Guide",
+        "Travel Tips",
+        "Solar Eclipses"
+      ],
+      "keywords": [
+        "solar eclipse",
+        "lunar eclipse",
+        "moon",
+        "sun",
+        "earth",
+        "totality",
+        "corona",
+        "annular eclipse",
+        "eclipse months",
+        "orbital mechanics",
+        "eclipse travel",
+        "Siberia",
+        "China",
+        "South Pacific",
+        "United States eclipse",
+        "TravelQuest International",
+        "MWT Associates"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul08-ozone-the-greenhouse-gas",
+      "documentId": "ephjul08",
+      "title": "Ozone, the Greenhouse Gas",
+      "summary": "Ozone, while known for blocking harmful UV light in the stratosphere and being a pollutant at the surface, also acts as a potent greenhouse gas at middle altitudes, trapping significantly more heat per pound than CO2. NASA's Aura satellite, equipped with the Tropospheric Emission Spectrometer (TES), provides unprecedented global data on this mid-altitude ozone, revealing its impact on climate change and the potential for increased concentrations due to industrialization.",
+      "categories": [
+        "Climate Science",
+        "Earth Science",
+        "Space Exploration",
+        "Environmental Science",
+        "Scientific Research",
+        "Observational Reports"
+      ],
+      "keywords": [
+        "Ozone",
+        "Greenhouse Gas",
+        "Climate Change",
+        "NASA Aura satellite",
+        "TES (Tropospheric Emission Spectrometer)",
+        "Stratosphere",
+        "Troposphere",
+        "Mid-altitude ozone",
+        "Carbon Dioxide (CO2)",
+        "JPL",
+        "Air Pollution",
+        "Industrialization"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul08-the-sjaa-telescope-loaner-program-overview-selection-and-support",
+      "documentId": "ephjul08",
+      "title": "The SJAA Telescope Loaner Program: Overview, Selection, and Support",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a telescope loaner program for members, providing various telescope types like Dobs and Schmitt Cassegrains for a three-month period, along with guidance for beginners and support through workshops. The article also features an announcement for the Exploratorium and NASA's live webcast and viewing party for the Total Solar Eclipse of 2008 from China, and new Spitzer telescope findings revealing Cassiopeia A as a Type IIb supernova.",
+      "categories": [
+        "Club Services",
+        "Astronomical News",
+        "Events",
+        "Equipment Guide",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "SJAA Telescope Loaner Program",
+        "Dobsonian telescopes",
+        "Schmitt Cassegrain telescopes",
+        "Refractors",
+        "Equatorial Mounts",
+        "Beginner astronomers",
+        "Star hopping",
+        "Total Solar Eclipse 2008",
+        "Exploratorium",
+        "NASA",
+        "Xinjiang Province",
+        "Cassiopeia A",
+        "Supernova remnant",
+        "Type IIb supernova",
+        "Spitzer telescope",
+        "Beginner's Workshops",
+        "Rob Hawley"
+      ],
+      "pageStart": 7,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephjul08-the-last-31-days-in-astronomy",
+      "documentId": "ephjul08",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This article, \"The Last 31 Days In Astronomy,\" compiles significant astronomical news from May and June 2008. Key developments include the controversial reclassification of Pluto as a \"plutoid,\" the successful launch of the GLAST gamma-ray telescope, and the Phoenix lander's arrival on Mars. Additionally, new research revealed the universe is twice as bright as previously thought, and a detailed Spitzer mosaic indicated the Milky Way possesses only two major spiral arms.",
+      "categories": [
+        "News & Updates",
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Planetary Science",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Pluto",
+        "GLAST",
+        "Phoenix Mars Lander",
+        "Milky Way Galaxy",
+        "Extragalactic Star",
+        "Universe Brightness",
+        "IAU",
+        "Space Telescopes"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0807/EphJul08.pdf",
+      "txtPath": "0807/EphJul08.md"
+    }
+  ]
+}

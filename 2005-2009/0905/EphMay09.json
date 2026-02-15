@@ -1,0 +1,203 @@
+{
+  "articles": [
+    {
+      "id": "ephmay09-may-2009",
+      "documentId": "ephmay09",
+      "title": "MAY 2009",
+      "summary": "This document presents a calendar for May 2009, highlighting various science-related events, historical dates, and holidays, often linking them to educational activities and resources on NASA's Space Place website. It encourages learning about topics such as ultraviolet light, astronomy, weather, space exploration, and scientific measurements through engaging suggestions and online materials.",
+      "categories": [
+        "calendar",
+        "education",
+        "astronomy",
+        "space exploration",
+        "science history",
+        "activity guide"
+      ],
+      "keywords": [
+        "May 2009",
+        "calendar",
+        "NASA Space Place",
+        "educational resources",
+        "Ultraviolet Awareness Month",
+        "Astronomy Day",
+        "Moon phases",
+        "hurricanes",
+        "volcanoes",
+        "Mars",
+        "President Kennedy",
+        "Moon landing",
+        "Krypton discovery",
+        "Mother's Day",
+        "classroom activities"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmay09-the-shallow-sky",
+      "documentId": "ephmay09",
+      "title": "The Shallow Sky",
+      "summary": "This article provides a guide to celestial observations for May 2009, detailing the positions of Saturn, Pluto, and morning planets, including a rare double shadow transit on Jupiter. It heavily emphasizes the ongoing and unusually prolonged solar minimum, discussing the absence of sunspots, their characteristics, and their debated correlation with Earth's climate and historical \"mini ice ages.\" The author concludes by suggesting a break from solar observing due to inactivity and provides directions to Houge Park.",
+      "categories": [
+        "Observing Reports",
+        "Solar Astronomy",
+        "Astronomical Events",
+        "Climate Science",
+        "Local Guide"
+      ],
+      "keywords": [
+        "Planetary Observations",
+        "Solar Activity",
+        "Sunspots",
+        "Solar Minimum",
+        "Maunder Minimum",
+        "Jupiter Transits",
+        "Saturn Rings",
+        "Climate Correlation",
+        "Astronomy Guide",
+        "Celestial Events",
+        "Houge Park"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay09-apollo-upgrade",
+      "documentId": "ephmay09",
+      "title": "Apollo Upgrade",
+      "summary": "NASA's upcoming lunar missions, planned for around 2020, aim for more ambitious goals than the Apollo program, including extended astronaut stays and advanced scientific research. This necessitates a significant technological upgrade, as the basic Apollo-era hardware is inadequate for long-term lunar habitation and exploration. The Exploration Technology Development Program is developing new systems for life support, radiation shielding, advanced rovers, and smart robots to support these future endeavors.",
+      "categories": [
+        "Space Exploration",
+        "Future Technology",
+        "NASA Programs",
+        "Lunar Missions"
+      ],
+      "keywords": [
+        "Apollo program",
+        "Lunar missions",
+        "NASA",
+        "Exploration Technology Development Program (ETDP)",
+        "Space technology",
+        "Lunar outpost",
+        "Life support systems",
+        "Lunar rover",
+        "Robotics",
+        "Radiation shielding",
+        "Moon",
+        "Space hardware",
+        "Astronauts"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay09-astrophotography",
+      "documentId": "ephmay09",
+      "title": "Astrophotography",
+      "summary": "This article explores the transformative impact of low-cost webcams on astrophotography, detailing their diverse applications beyond their original use. It highlights how these video cameras are effectively utilized for techniques like autoguiding, \"lucky imaging,\" planetary imaging, double star measurements, and image stacking, capitalizing on their short exposure times and high frame rates. The piece emphasizes webcams' advantages in making astrophotography more accessible due to their lower cost, color imaging capabilities, and reduced noise, leading to more \"eyes on the skies\" than ever before.",
+      "categories": [
+        "Astrophotography",
+        "Observing Techniques",
+        "Amateur Astronomy",
+        "Technology Review",
+        "Equipment Guide"
+      ],
+      "keywords": [
+        "Webcam",
+        "Astrophotography",
+        "CCD",
+        "CMOS",
+        "Autoguiding",
+        "Lucky Imaging",
+        "Planetary Imaging",
+        "Double Star Measurement",
+        "Image Stacking",
+        "Video Astronomy",
+        "Low Cost Imaging",
+        "Amateur Telescope"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay09-the-last-month-in-astronomy",
+      "documentId": "ephmay09",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article provides a roundup of astronomy news from March and April 2009, highlighting several significant developments. It covers the successful jettison of the Kepler spacecraft's cover, marking the start of its exoplanet hunting mission, and new high-resolution imaging revealing details of the tight binary star Theta1 Ori C in the Trapezium. Other topics include the Spitzer Telescope's search for hydrogen cyanide in protoplanetary disks, the close approach of asteroid 2009 FH, and stunning images from the VLT of the colliding galaxies Arp 261, alongside a monthly observing podcast.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Observational Astronomy",
+        "Stellar Astronomy",
+        "Galactic Astronomy",
+        "Solar System Astronomy",
+        "Exoplanet Research"
+      ],
+      "keywords": [
+        "Kepler spacecraft",
+        "Exoplanets",
+        "Trapezium",
+        "Theta1 Ori C",
+        "Arp 261",
+        "Colliding galaxies",
+        "Spitzer Space Telescope",
+        "Hydrogen cyanide",
+        "Asteroid 2009 FH",
+        "Orion Nebula",
+        "Binary stars",
+        "Supernova remnant",
+        "VLT (Very Large Telescope)",
+        "M51",
+        "Jane Houston Jones",
+        "Protoplanetary disks"
+      ],
+      "pageStart": 6,
+      "pageEnd": 261
+    },
+    {
+      "id": "ephmay09-it-must-be-astronomical",
+      "documentId": "ephmay09",
+      "title": "It Must Be Astronomical...",
+      "summary": "This \"Ephemeris\" newsletter article from the San Jose Astronomical Association (SJAA) outlines club resources and upcoming astronomical events. It details a telescope loaner program, provides observing recommendations for deep-sky objects in March, and highlights hot dates for events such as the STS-125 mission to repair the HST, a SETI science day, and the Golden State Star Party. The article also includes organizational information for the SJAA and its newsletter.",
+      "categories": [
+        "Club News",
+        "Observing Guides",
+        "Astronomical Events",
+        "Community Services",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Deep sky objects",
+        "M83",
+        "N5084",
+        "N5134",
+        "Meteor shower",
+        "Geminids",
+        "STS-125",
+        "Hubble Space Telescope (HST)",
+        "SETI",
+        "Dark Matter",
+        "Dark Energy",
+        "Golden State Star Party",
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Club resources",
+        "Astronomy events",
+        "Observing"
+      ],
+      "pageStart": 7,
+      "pageEnd": 258
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0905/EphMay09.pdf",
+      "txtPath": "0905/EphMay09.md"
+    }
+  ]
+}

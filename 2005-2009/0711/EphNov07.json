@@ -1,0 +1,186 @@
+{
+  "articles": [
+    {
+      "id": "ephnov07-deep-sky-observing",
+      "documentId": "ephnov07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep-sky observing list curated by Mark Wagner for November 2007, focusing on the period from the third quarter to the new moon. It details various celestial objects, including galaxies, planetary nebulae, and open clusters, primarily located in northern constellations like Cepheus, Cassiopeia, Perseus, and Andromeda. Each entry includes astronomical data and specific observational notes for amateur astronomers.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Observing List",
+        "November 2007",
+        "NGC",
+        "Messier Objects",
+        "Planetary Nebula",
+        "Open Cluster",
+        "Galaxy",
+        "Cepheus",
+        "Cassiopeia",
+        "Perseus",
+        "Andromeda",
+        "Mark Wagner"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov07-mars-going-backwards",
+      "documentId": "ephnov07",
+      "title": "Mars Going Backwards",
+      "summary": "This article explains Mars's upcoming retrograde motion starting November 15, an apparent westward movement on a star chart. Historically, this phenomenon caused complexity for geocentric models like Ptolemy's epicycles, but Copernicus and Kepler simplified the explanation: it's an optical illusion caused by Earth's position and faster orbit as it overtakes an outer planet like Mars. Retrograde motion typically occurs near a planet's opposition.",
+      "categories": [
+        "Astronomy Explanation",
+        "Celestial Mechanics",
+        "History of Astronomy",
+        "Skywatching Guide"
+      ],
+      "keywords": [
+        "Mars",
+        "Retrograde motion",
+        "Ptolemy",
+        "Epicycles",
+        "Copernicus",
+        "Kepler",
+        "Earth",
+        "Opposition",
+        "Star chart",
+        "Solar system"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephnov07-the-shallow-sky",
+      "documentId": "ephnov07",
+      "title": "The Shallow Sky",
+      "summary": "The 'Shallow Sky' article offers an astronomical observing guide for November 2007, detailing optimal viewing for Mars (nearing opposition), Jupiter (including a rare double shadow transit on Nov 4th), Saturn, Venus, Mercury, and the asteroid Ceres. It also highlights a lunar occultation of Regulus on Nov 2-3. Additionally, the article announces a free public lecture by Jeff Moore of NASA Ames on November 13, 2007, covering discoveries from the New Horizons mission at Jupiter and the Cassini mission at Saturn.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Space Exploration",
+        "Lecture Announcement"
+      ],
+      "keywords": [
+        "Mars opposition",
+        "Jupiter shadow transit",
+        "Regulus occultation",
+        "Ceres opposition",
+        "New Horizons mission",
+        "Cassini mission",
+        "Planetary observing",
+        "Astronomical lectures",
+        "November 2007"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephnov07-a-missile-in-your-eye",
+      "documentId": "ephnov07",
+      "title": "A Missile in Your Eye",
+      "summary": "JPL scientists, initially developing a rapid spectrometer (CTIS) to detect ballistic missile launches, are now adapting this \"missile-quick\" technology for medical applications. This spectrometer can capture the entire retina's spectral information in a 3-millisecond snapshot, allowing doctors to detect low oxygen levels—an indicator of eye disease—despite constant eye movement. Clinical trials are underway for this relatively inexpensive spin-off technology.",
+      "categories": [
+        "Technology",
+        "Medical Applications",
+        "Scientific Research",
+        "Spin-off Technology",
+        "Aerospace"
+      ],
+      "keywords": [
+        "Spectrometer",
+        "CTIS",
+        "JPL",
+        "NASA",
+        "Medical Imaging",
+        "Eye Health",
+        "Retina",
+        "Missile Detection",
+        "Spin-off Technology",
+        "Oxygenation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov07-the-last-31-days-in-astronomy",
+      "documentId": "ephnov07",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This astronomy news compilation from September-October 2007 highlights several significant events: the Mars rover Opportunity reaching Victoria Crater, the launch of the Dawn spacecraft to Vesta and Ceres, and the inauguration of the Allen Telescope Array (ATA-42). Other notable reports include a significant reduction in Arctic sea ice, revised measurements for the Orion Nebula's distance and age, detailed imaging of Mercury using 'lucky imaging' technique, a new crew for the International Space Station, and the discovery of a rare CO2 isotope affecting atmospheric models for Venus and Mars.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Astrophysics",
+        "Observational Astronomy",
+        "Space Missions",
+        "Climate Science",
+        "SETI"
+      ],
+      "keywords": [
+        "Mars Rover Opportunity",
+        "Victoria Crater",
+        "Dawn spacecraft",
+        "Vesta",
+        "Ceres",
+        "Ion Propulsion",
+        "Arctic Sea Ice",
+        "M42",
+        "Orion Nebula",
+        "VLBA",
+        "Mercury",
+        "Lucky Imaging",
+        "International Space Station (ISS)",
+        "Peggy Whitson",
+        "Allen Telescope Array (ATA-42)",
+        "CO2 isotope",
+        "Venus Express",
+        "Mars methane"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov07-astronomical-swap-meet-november-18-2007",
+      "documentId": "ephnov07",
+      "title": "Astronomical Swap Meet November 18, 2007",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual astronomical swap meet on Sunday, November 18, 2007, at Houge Park in San Jose. This event allows individuals to buy, sell, and trade astronomy-related equipment and literature, operating as a club fundraiser with a 10% donation requested on sales. The swap meet will feature a consignment table for sellers with few items and encourages community participation.",
+      "categories": [
+        "Event Announcement",
+        "Fundraiser",
+        "Community Event",
+        "Sales and Exchange"
+      ],
+      "keywords": [
+        "Astronomical Swap Meet",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Houge Park",
+        "Astronomy Equipment",
+        "Telescopes",
+        "Eyepieces",
+        "Binoculars",
+        "Fundraiser",
+        "Consignment",
+        "Selling",
+        "Buying",
+        "November 2007"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0711/EphNov07.pdf",
+      "txtPath": "0711/EphNov07.md"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "id": "ephaug07-deep-sky-observing",
+      "documentId": "ephaug07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep sky observing list for August 2007, focusing on objects in the constellations Cepheus and Cygnus. It details various celestial objects, including open clusters, nebulae, and galaxies, with information on their type, size, magnitude, coordinates, and specific observing notes or recommended equipment like filters and magnifications. The list is a sampling from a larger online resource, designed to guide observers during the third quarter to new moon period.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Celestial Objects List"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "August 2007",
+        "Observing List",
+        "Cepheus",
+        "Cygnus",
+        "NGC objects",
+        "Messier objects",
+        "Open Clusters",
+        "Planetary Nebulae",
+        "Reflection Nebulae",
+        "Galaxies",
+        "Astronomy Filters",
+        "Telescope Observations"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephaug07-lunar-eclipse-in-the-wee-hours",
+      "documentId": "ephaug07",
+      "title": "Lunar Eclipse in the Wee Hours",
+      "summary": "This article details a total lunar eclipse occurring on August 27-28, providing specific timings for its penumbral, umbral, and totality phases. It also offers a comprehensive guide to observing Jupiter throughout August, highlighting changes like the fading Southern Equatorial Band and the improved visibility of the Great Red Spot and Red Spot Junior. Additionally, it briefly covers the observing prospects for Mars, Neptune, Uranus, Pluto, Saturn, Venus, and Mercury during the month.",
+      "categories": [
+        "Observing Guide",
+        "Events",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Lunar eclipse",
+        "Jupiter",
+        "Planetary observation",
+        "August astronomy",
+        "Southern Equatorial Band",
+        "Great Red Spot",
+        "Red Spot Junior",
+        "Mars",
+        "Neptune",
+        "Uranus",
+        "Pluto",
+        "Saturn",
+        "Venus",
+        "Mercury",
+        "Total eclipse"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephaug07-nasa-space-place",
+      "documentId": "ephaug07",
+      "title": "NASA Space Place",
+      "summary": "The article introduces the Mars Rock Crusher, a NASA-developed tool designed to process Martian rock samples for future missions. Unlike current rovers that only abrade rock surfaces, this six-inch tall device will crush rocks like hematite and magnetite into a fine powder, enabling more in-depth mineral analysis by spectrometers. This innovation significantly advances the capabilities for scientific exploration of Mars's geological composition.",
+      "categories": [
+        "Space Exploration",
+        "Mars Mission",
+        "Technology Development",
+        "Planetary Science",
+        "Engineering",
+        "News"
+      ],
+      "keywords": [
+        "Mars",
+        "Rock Crusher",
+        "NASA",
+        "Robotic Missions",
+        "Planetary Instrument Definition and Development Program",
+        "Mineral Analysis",
+        "Spectrometer",
+        "Geology",
+        "Hematite",
+        "Magnetite",
+        "Basalts",
+        "Olivine",
+        "JPL"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug07-calstar-s-new-approach",
+      "documentId": "ephaug07",
+      "title": "CalStar's New Approach",
+      "summary": "The Fall CalStar Star Party, organized by SJAA and GSSP, will take place from October 11-13 at Lake San Antonio, featuring a new site layout. Key changes include a dedicated Late Arrival/Early Departure area and improved signage for the Dark Enforced and Casual camping areas. Stricter rules regarding vehicle movement after 8 PM are being enforced to preserve night vision for all attendees, with registration beginning September 1st.",
+      "categories": [
+        "Event Announcement",
+        "Event Logistics",
+        "Observing Etiquette",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "CalStar",
+        "Star Party",
+        "SJAA",
+        "GSSP",
+        "Lake San Antonio",
+        "Night Vision",
+        "Late Arrival",
+        "Early Departure",
+        "Dark Enforced Area",
+        "Casual Area",
+        "Astronomy Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug07-the-last-30-days-in-astronomy",
+      "documentId": "ephaug07",
+      "title": "The Last 30 Days In Astronomy",
+      "summary": "This article summarizes key astronomy and space exploration news from June and July 2007. Highlights include astronaut Sunita Williams setting a new record for longest spaceflight duration, the successful completion of the Space Shuttle Atlantis's STS-117 mission, and new findings suggesting the Milky Way has more complex spiral arm structures than previously thought. Additionally, it details new assignments for the Deep Impact and Stardust spacecraft, and announces the delay of the Dawn mission to prioritize the Phoenix Mars mission.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy News",
+        "Space Missions",
+        "Orbital Mechanics",
+        "Launch Schedules"
+      ],
+      "keywords": [
+        "Sunita Williams",
+        "Spaceflight Record",
+        "Atlantis",
+        "STS-117",
+        "Milky Way",
+        "Spiral Arms",
+        "Deep Impact",
+        "Stardust",
+        "Comet Boethin",
+        "Comet Tempel 1",
+        "Extrasolar Planets",
+        "Dawn Mission",
+        "Ceres",
+        "Vesta",
+        "Phoenix Mission",
+        "NASA",
+        "Cape Canaveral"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephaug07-a-master-s-degree-in-astronomy",
+      "documentId": "ephaug07",
+      "title": "A Master's Degree in Astronomy",
+      "summary": "This article details the author Paul Kohlmiller's experience pursuing a remote Master of Science degree in Astronomy through Swinburne University of Technology's online program. It outlines the program's structure, which includes e-mail discussions, textbook readings, essays, open-book tests, PowerPoint presentations, and a final project. The author also discusses the program's cost, mathematical prerequisites, available courses, and his overall assessment of the effectiveness and challenges of online learning.",
+      "categories": [
+        "Education",
+        "Astronomy Programs",
+        "Online Learning",
+        "Higher Education",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Swinburne University of Technology",
+        "Master's Degree",
+        "Astronomy",
+        "Online Education",
+        "Remote Learning",
+        "Graduate Program",
+        "Course Structure",
+        "Curriculum",
+        "Paul Kohlmiller"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug07-from-the-president-of-the-club",
+      "documentId": "ephaug07",
+      "title": "From the President of the club",
+      "summary": "The President of the SJAA, Rob Hawley, announced significant changes to the club's Telescope Loaner Program following the resignation of its long-time manager, Mike Koop. The board has temporarily suspended new loans and equipment returns to re-evaluate the program's inventory and future investments, which already includes a telescope rebuild project. Members currently with loaned equipment are asked to retain it and contact the club if they can offer storage or assistance.",
+      "categories": [
+        "Club News",
+        "Program Update",
+        "Organizational Announcement",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "SJAA",
+        "Mike Koop",
+        "Rob Hawley",
+        "Club programs",
+        "Astronomy clubs",
+        "Telescope maintenance",
+        "Volunteer management",
+        "Swinburne University",
+        "Master's Degree",
+        "Astronomy education"
+      ],
+      "pageStart": 4,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0708/EphAug07.pdf",
+      "txtPath": "0708/EphAug07.md"
+    }
+  ]
+}

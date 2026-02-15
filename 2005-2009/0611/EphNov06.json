@@ -1,0 +1,228 @@
+{
+  "articles": [
+    {
+      "id": "ephnov06-november-general-meeting",
+      "documentId": "ephnov06",
+      "title": "November General Meeting",
+      "summary": "The article announces the November 4, 2006 General Meeting featuring Dr. Ivan Linscott, a Senior Research Associate at Stanford University. Dr. Linscott will present on radio occultation, a technique using spacecraft signals to profile planetary atmospheres. He will specifically discuss a bi-static radar experiment conducted by Stanford and JPL during Mars opposition, which used the Mars orbiter Odyssey to search for water on Mars' northern plains.",
+      "categories": [
+        "Event Announcement",
+        "Meeting",
+        "Scientific Talk",
+        "Astronomy",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "November General Meeting",
+        "Dr. Ivan Linscott",
+        "Stanford University",
+        "Radio occultation",
+        "Planetary atmospheres",
+        "Mars",
+        "UHF bi-static radar experiment",
+        "Mars orbiter Odyssey",
+        "Water on Mars",
+        "Digital signal processing",
+        "Hogue Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov06-sjaa-swap-meet",
+      "documentId": "ephnov06",
+      "title": "SJAA Swap Meet",
+      "summary": "The San Jose Astronomical Association (SJAA) announced an astronomical swap meet scheduled for November 5, 2006, at Houge Park. This event allows individuals to buy and sell a wide variety of astronomy-related items, ranging from telescopes to star charts. Payments to the club are voluntary donations, serving as a fundraiser, with options for pre-publicity for large items and a consignment table for smaller sellers.",
+      "categories": [
+        "Event Announcement",
+        "Fundraiser",
+        "Club Activity",
+        "Buying and Selling"
+      ],
+      "keywords": [
+        "SJAA",
+        "Swap Meet",
+        "Astronomy Equipment",
+        "Fundraiser",
+        "November 2006",
+        "Houge Park",
+        "San Jose",
+        "Donations",
+        "Consignment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov06-mercury-transit",
+      "documentId": "ephnov06",
+      "title": "Mercury Transit!",
+      "summary": "This article details a rare Mercury transit across the sun scheduled for November 8th, providing essential information for safe observation. It outlines various methods, including the use of proper solar filters or eyepiece projection, along with precise event timings and an explanation of the 'black drop effect'. The author also briefly discusses the astronomical reasons for the transit's occurrence in November and touches on other visible celestial objects and recent news regarding the dwarf planet Eris.",
+      "categories": [
+        "Astronomical Event",
+        "Observing Guide",
+        "Astronomy News",
+        "Celestial Mechanics",
+        "Space Safety"
+      ],
+      "keywords": [
+        "Mercury Transit",
+        "Sun",
+        "Solar Filter",
+        "Eyepiece Projection",
+        "Black Drop Effect",
+        "H-alpha Filter",
+        "Orbital Inclination",
+        "Ecliptic Nodes",
+        "Eris",
+        "Dysnomia",
+        "Planetary Observation",
+        "November 8th"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephnov06-the-biggest-club-observing-site",
+      "documentId": "ephnov06",
+      "title": "The BIGGEST Club Observing Site",
+      "summary": "This article details the Orange County Astronomers' (OCA) Anza site, a 22-acre dark-sky observing location in California, benchmarking it as the largest club observing site. Developed over decades, it offers extensive facilities including club observatories, numerous private pads, and user observatories, supported by volunteer efforts and member fees. The site faces increasing maintenance costs and challenges with ongoing expansion plans, necessitating dues and fee increases.",
+      "categories": [
+        "Club Observing Site Review",
+        "Astronomy Club Management",
+        "Dark Sky Preservation",
+        "Infrastructure Development"
+      ],
+      "keywords": [
+        "Orange County Astronomers",
+        "Anza site",
+        "observing site",
+        "dark-sky",
+        "star parties",
+        "private pads",
+        "club observatories",
+        "site development",
+        "maintenance costs",
+        "volunteerism",
+        "light pollution",
+        "club membership",
+        "California astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephnov06-staggering-distance",
+      "documentId": "ephnov06",
+      "title": "Staggering Distance",
+      "summary": "This article highlights the immense distances in our solar system and beyond, using Jupiter, Pluto, and most notably, the Voyager 1 spacecraft, as examples. Voyager 1 has traveled 15 billion km to reach the heliosheath, the outer edge of the sun's heliosphere, making significant and unexpected scientific discoveries about this boundary region. Despite the 14-hour delay for its radio messages to reach Earth, the mission continues to provide valuable data on the solar system's furthest reaches.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy",
+        "Spacecraft Missions",
+        "Scientific Discovery",
+        "Solar System"
+      ],
+      "keywords": [
+        "Voyager 1",
+        "heliosheath",
+        "solar system",
+        "Jupiter",
+        "Pluto",
+        "distances",
+        "spacecraft",
+        "NASA",
+        "JPL",
+        "solar wind",
+        "interstellar space"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov06-solar-system-stats-for-november-2006",
+      "documentId": "ephnov06",
+      "title": "Solar System Stats for November 2006",
+      "summary": "This article provides a table of solar system statistics for November 2006, detailing astronomical data for Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and the Sun. The data includes Right Ascension, Declination, distance from Earth, apparent magnitude, and angular size, presented for the 1st, 11th, and 21st of the month. The information is adapted from reputable sources like the Observer's Handbook and various nautical almanac offices.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Information",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Solar System",
+        "Planets",
+        "Sun",
+        "November 2006",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Angular Size",
+        "Astronomical Statistics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov06-dale-cruikshank-speaking-on-pluto-on-november-8-2006",
+      "documentId": "ephnov06",
+      "title": "Dale Cruikshank speaking on Pluto on November 8, 2006",
+      "summary": "Astronomer Dale Cruikshank from NASA's Ames Research Center will deliver a non-technical, illustrated talk titled \"The Planet Pluto: Maligned but Not Forgotten\" on November 8, 2006, at Foothill College. The lecture will cover Pluto's characteristics as a dwarf planet, its significance as a gateway to the outer Solar System, and the ongoing New Horizons mission launched in January 2006 to study Pluto and its moons. Dr. Cruikshank, a leading authority on the outer solar system, will explain complex scientific ideas in simple language.",
+      "categories": [
+        "events",
+        "lectures",
+        "astronomy news",
+        "public outreach"
+      ],
+      "keywords": [
+        "Dale Cruikshank",
+        "Pluto",
+        "New Horizons",
+        "dwarf planets",
+        "outer solar system",
+        "NASA Ames Research Center",
+        "Foothill College",
+        "November 8, 2006",
+        "Silicon Valley Astronomy Lectures",
+        "space exploration"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov06-sjaa-loaner-scope-status",
+      "documentId": "ephnov06",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a telescope loaner program for its members, with a detailed list of available, recently loaned, and extended-loan scopes. Members can contact Mike Koop to borrow an available telescope, be added to a waiting list for currently borrowed items, or arrange transfers for extended-loan equipment. The article specifies various types of telescopes, from refractors and Dobsonians to binoculars, along with their current status and contact information for borrowing.",
+      "categories": [
+        "Club Program",
+        "Equipment",
+        "Astronomy Club",
+        "Resource Management",
+        "Member Services"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Astronomy Equipment",
+        "Club Resources",
+        "Dobsonian",
+        "Refractor",
+        "Schmidt-Cassegrain",
+        "Binoculars",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0611/EphNov06.pdf",
+      "txtPath": "0611/EphNov06.md"
+    }
+  ]
+}

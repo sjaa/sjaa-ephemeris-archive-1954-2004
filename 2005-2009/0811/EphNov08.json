@@ -1,0 +1,221 @@
+{
+  "articles": [
+    {
+      "id": "ephnov08-november-2008",
+      "documentId": "ephnov08",
+      "title": "NOVEMBER 2008",
+      "summary": "This document presents a calendar for November 2008, highlighting daily observances, moon phases (First Quarter, Full, Last Quarter, New), and educational activities related to space and Earth science. It encourages engagement for kids, parents, and teachers, often linking to NASA's 'The Space Place' website for further exploration and activities.",
+      "categories": [
+        "calendar",
+        "educational activities",
+        "astronomical events",
+        "space science",
+        "Earth science",
+        "public outreach"
+      ],
+      "keywords": [
+        "November 2008",
+        "calendar",
+        "moon phases",
+        "space education",
+        "Earth science education",
+        "NASA Space Place",
+        "kids activities",
+        "teacher resources",
+        "parent engagement",
+        "time-keeping",
+        "aviation history",
+        "cosmic poetry",
+        "topographical maps",
+        "Thanksgiving",
+        "games and puzzles"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov08-crepuscular-rays",
+      "documentId": "ephnov08",
+      "title": "Crepuscular Rays",
+      "summary": "This article provides an astronomy guide for early November, detailing visible planets like Venus, Jupiter, and Saturn, along with celestial events and the end of Daylight Savings Time. It also explores Mars exploration through terrestrial analogue sites in California's Mojave Desert, specifically lava tubes. The author then delves into the optical phenomenon of crepuscular rays (\"God rays\") as observed in these lava tubes and forests, discussing their unique visibility conditions and drawing parallels to lunar observations.",
+      "categories": [
+        "Astronomy Observing",
+        "Planetary Science",
+        "Space Exploration",
+        "Geology",
+        "Optical Phenomena",
+        "Astronomical Events & Reports"
+      ],
+      "keywords": [
+        "Crepuscular Rays",
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Daylight Savings Time",
+        "Mojave Desert",
+        "Lava Tubes",
+        "Lunar Observations",
+        "Planetary Conjunction",
+        "Skywatching",
+        "Mars Analogue Sites"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov08-extreme-starburst",
+      "documentId": "ephnov08",
+      "title": "Extreme Starburst",
+      "summary": "Galaxy J100054+023436, dubbed the \"Baby Boom galaxy,\" is an extreme starburst galaxy discovered by NASA's Spitzer Space Telescope, producing an astonishing 4000 stars annually. Located 12.3 billion light-years away, this young galaxy's rapid star formation, likely triggered by a galactic merger, challenges the prevailing Hierarchical Model of galaxy evolution. Astronomers are now searching for more such galaxies to understand if this phenomenon is unique or a common occurrence in the early universe.",
+      "categories": [
+        "astronomy news",
+        "astrophysics",
+        "galaxy evolution",
+        "space telescopes",
+        "research"
+      ],
+      "keywords": [
+        "Baby Boom galaxy",
+        "starburst galaxy",
+        "galaxy evolution",
+        "star formation",
+        "Spitzer Space Telescope",
+        "galactic merger",
+        "early universe",
+        "J100054+023436",
+        "Hierarchical Model",
+        "Peter Capak"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephnov08-spacecraft-find-gamma-ray-bursts",
+      "documentId": "ephnov08",
+      "title": "Spacecraft find gamma-ray bursts",
+      "summary": "Gamma-ray bursts (GRBs), initially detected serendipitously by Vela satellites monitoring nuclear tests, were later confirmed to be of cosmological origin. Subsequent advanced observatories like Compton, BeppoSAX, and Swift significantly advanced GRB research, classifying them into short and long durations, pinpointing their locations, and studying their properties across the electromagnetic spectrum. Notable discoveries include GRB080319, the brightest GRB to date, observed with a look-back time of 7.5 billion years.",
+      "categories": [
+        "Astrophysics",
+        "Space Exploration",
+        "Observing Reports",
+        "History of Science",
+        "Technical"
+      ],
+      "keywords": [
+        "Gamma-ray bursts",
+        "GRBs",
+        "Vela satellites",
+        "Compton Gamma Ray Observatory",
+        "BeppoSAX",
+        "Swift spacecraft",
+        "Neutron star mergers",
+        "Black holes",
+        "Cosmological GRBs",
+        "X-ray astronomy",
+        "GRB080319",
+        "Spacecraft",
+        "Observatories",
+        "Nuclear test ban treaty"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov08-membership-can-no-longer-supply-s-t-reminders",
+      "documentId": "ephnov08",
+      "title": "Membership can no longer supply S&T reminders",
+      "summary": "Due to a steady decline in service from Sky & Telescope (S&T) since its purchase, including a lack of timely subscription list updates, the club will no longer be able to provide renewal reminders for S&T subscriptions. Members will now need to rely on direct reminders from S&T or proactively renew through the club at a favorable rate. The club will continue to process renewals but warns that waiting until membership is due may not align with subscription timing.",
+      "categories": [
+        "Club Announcement",
+        "Membership Services",
+        "Administrative Update",
+        "Subscription Information"
+      ],
+      "keywords": [
+        "S&T",
+        "Sky & Telescope",
+        "subscription renewals",
+        "membership services",
+        "club administration",
+        "service decline",
+        "subscription reminders",
+        "member communication"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov08-the-last-31-days-in-astronomy",
+      "documentId": "ephnov08",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This article provides a recap of significant astronomical events and discoveries from the past month, including a major hardware failure on the Hubble Space Telescope necessitating an update to the STS-125 mission. It also details the Phoenix lander's detection of snow on Mars, the successful high-temperature testing of the Kepler spacecraft, and the Ulysses spacecraft's observation of the weakest solar wind in 50 years, potentially impacting the heliopause.",
+      "categories": [
+        "news",
+        "space missions",
+        "spacecraft updates",
+        "planetary science",
+        "solar physics",
+        "discoveries"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "STS-125",
+        "Servicing Mission 4",
+        "Phoenix lander",
+        "Mars",
+        "snow",
+        "water-ice",
+        "Kepler spacecraft",
+        "solar wind",
+        "Ulysses spacecraft",
+        "heliopause",
+        "astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov08-telescope-loaner-program",
+      "documentId": "ephnov08",
+      "title": "Telescope Loaner Program",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a Telescope Loaner Program allowing members to try various telescopes before purchasing, catering to all experience levels. The program maintains a diverse inventory, including binoculars, refractors, reflectors, and Dobsonian telescopes ranging from 4.5\" to 17\" apertures. Members can find the most up-to-date information on the program's dedicated webpage.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Club",
+        "Membership Benefits",
+        "Organizational Information",
+        "Newsletter"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Telescopes",
+        "Binoculars",
+        "Refractor",
+        "Reflector",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "Spectroscope",
+        "Astronomy Club Membership",
+        "Amateur Astronomy",
+        "Club Officers",
+        "Ephemeris Newsletter",
+        "School Star Parties"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0811/EphNov08.pdf",
+      "txtPath": "0811/EphNov08.md"
+    }
+  ]
+}

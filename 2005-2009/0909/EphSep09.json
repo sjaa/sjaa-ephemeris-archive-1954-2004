@@ -1,0 +1,186 @@
+{
+  "articles": [
+    {
+      "id": "ephsep09-it-s-our-choice-really",
+      "documentId": "ephsep09",
+      "title": "It's Our Choice, Really",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) calendar of activities for late August, September, and October 2009, including star parties, dark sky weekends, general meetings, and astronomy classes. Additionally, it features an essay by Wayne Hale titled \"It's Our Choice, Really,\" which advocates for continued investment in the space program by comparing the historical trajectory of Ming China's inward turn versus European nations' pursuit of exploration, linking national destiny to the choice of outward expansion.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Space Policy",
+        "Historical Analysis",
+        "Opinion"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy events",
+        "Star party",
+        "Dark Sky weekend",
+        "General Meeting",
+        "Astronomy Class",
+        "Space exploration",
+        "National destiny",
+        "Ming Dynasty",
+        "China",
+        "European exploration",
+        "Innovation",
+        "Wayne Hale",
+        "Lick Observatory",
+        "September 2009"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep09-home-home-on-lagrange",
+      "documentId": "ephsep09",
+      "title": "Home, Home on Lagrange",
+      "summary": "This article provides an astronomical guide for September 2009, focusing on Jupiter's visibility, the fading 'Black Smudge' impact, and a curious observation challenge regarding its Galilean moons. It also covers the positions of other planets, updates on ongoing space missions like Cassini and LCROSS, and details the significance and celestial location of Lagrangian points. A substantial part explains how amateur astronomers can conceptualize and locate the L1 through L5 Lagrangian points in the sky.",
+      "categories": [
+        "Observing Report",
+        "Space Exploration",
+        "Amateur Astronomy",
+        "Educational",
+        "News"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Black Smudge",
+        "Galilean satellites",
+        "Lagrangian points",
+        "L4",
+        "L5",
+        "STEREO A",
+        "STEREO B",
+        "LCROSS",
+        "Cassini",
+        "Uranus opposition",
+        "SOHO",
+        "WMAP",
+        "Planck",
+        "ecliptic",
+        "orbital elements",
+        "September 2009"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep09-sarsat-to-the-rescue",
+      "documentId": "ephsep09",
+      "title": "SARSAT to the Rescue",
+      "summary": "The SARSAT (Search and Rescue Satellite-aided Tracking) system uses a network of primarily weather satellites, such as POES and GOES, to detect and locate distress signals from emergency beacons. This life-saving system has rescued over 25,000 individuals in 25 years by utilizing the Doppler effect for precise location pinpointing and providing rapid notification. The network was recently enhanced by the launch of NOAA-19 and is planned for future expansion with GPS satellite integration for even faster location services.",
+      "categories": [
+        "Technical",
+        "Satellite Technology",
+        "Search and Rescue",
+        "Space Applications"
+      ],
+      "keywords": [
+        "SARSAT",
+        "Search and Rescue",
+        "Satellite Technology",
+        "Emergency Beacons",
+        "Distress Signals",
+        "NOAA",
+        "NASA",
+        "POES",
+        "GOES",
+        "Doppler Effect",
+        "NOAA-19",
+        "Cospas-Sarsat"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep09-astronomy-renewal",
+      "documentId": "ephsep09",
+      "title": "ASTRONOMY Renewal",
+      "summary": "This article announces the renewal period for the group subscription to Astronomy magazine for 2010, offering rates of $34 for one year or $60 for two years. Subscribers are instructed to send checks payable to Jim Van Nuland by late September. It also provides options for independent subscribers to convert to the group rate and for new subscribers to join, distinguishing this process from Sky & Telescope subscriptions handled through SJAA dues.",
+      "categories": [
+        "Membership",
+        "Subscriptions",
+        "Administrative Announcement",
+        "Periodical Renewal"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "subscription renewal",
+        "group rate",
+        "Jim Van Nuland",
+        "2010",
+        "payment",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep09-fall-astronomy-for-poets-classes-at-foothill-college",
+      "documentId": "ephsep09",
+      "title": "Fall \"Astronomy for Poets\" Classes at Foothill College",
+      "summary": "This document features two distinct sections: an announcement for Fall 2009 \"Astronomy for Poets\" classes at Foothill College, celebrating the International Year of Astronomy with introductory courses and a lecture series; and a technical explanation on specifying celestial object positions. The technical section details orbital elements like mean anomaly and epoch, focusing on how to determine the positions of Earth and the L4/L5 Lagrangian points for astronomical programs, using a simplified circular orbit approximation.",
+      "categories": [
+        "Education",
+        "Technical Article",
+        "Astronomy Events",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Astronomy education",
+        "Foothill College",
+        "International Year of Astronomy",
+        "Andrew Fraknoi",
+        "Orbital elements",
+        "Mean anomaly",
+        "Lagrangian points",
+        "Vernal equinox"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep09-the-last-month-in-astronomy",
+      "documentId": "ephsep09",
+      "title": "The Last Month In Astronomy",
+      "summary": "The article presents recent astronomy news from July-August 2009, highlighting discoveries by Kepler and Opportunity, updates on NASA/JPL initiatives, and Cassini findings related to potential liquid water on Enceladus, alongside details of a past mission failure. It then shifts to an essay by former Space Shuttle Program manager Wayne Hale, using China's historical inward turn versus European exploration to advocate for continuous risk-taking and exploration as crucial for societal progress and to avoid stagnation. Hale emphasizes that choices regarding exploration have profound, long-term consequences for nations.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Planetary Science",
+        "Space Policy",
+        "History",
+        "Opinion"
+      ],
+      "keywords": [
+        "Kepler",
+        "exoplanets",
+        "Mars",
+        "meteorites",
+        "Near Earth Objects",
+        "Cassini",
+        "Enceladus",
+        "OCO",
+        "space missions",
+        "launch failure",
+        "historical analogy",
+        "societal progress",
+        "risk-taking",
+        "Wayne Hale"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0909/EphSep09.pdf",
+      "txtPath": "0909/EphSep09.md"
+    }
+  ]
+}

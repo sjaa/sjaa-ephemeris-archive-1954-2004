@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "id": "ephjul07-deep-sky-observing",
+      "documentId": "ephjul07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This article presents a deep sky observing list compiled by Mark Wagner for July 2007, focusing on objects comfortably elevated for viewing during astronomical dark. The list, a sampling of a larger online resource, details various celestial bodies including planetary nebulae, open clusters, and globular clusters, providing their type, size, magnitude, coordinates, and brief descriptions for amateur astronomers. It serves as a practical guide for observers looking to explore specific deep-sky targets.",
+      "categories": [
+        "observing reports",
+        "astronomy",
+        "deep sky",
+        "observing guides",
+        "celestial objects"
+      ],
+      "keywords": [
+        "deep sky observing",
+        "July 2007",
+        "observing list",
+        "planetary nebula",
+        "open cluster",
+        "globular cluster",
+        "NGC",
+        "Messier",
+        "astronomical dark",
+        "telescope filters",
+        "R.A.",
+        "Dec."
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjul07-giant-planets-dwarf-planets",
+      "documentId": "ephjul07",
+      "title": "Giant Planets, Dwarf Planets",
+      "summary": "This article details the visibility of various planets for observers in July, noting optimal times and challenges for viewing Jupiter, Venus, Saturn, Mars, Mercury, Uranus, and Neptune. It heavily emphasizes the asteroids Vesta and Ceres, highlighting the upcoming NASA Dawn mission to explore them and encouraging amateur astronomers to submit sketches and images of these celestial bodies.",
+      "categories": [
+        "Observing Report",
+        "News",
+        "Educational",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Planetary Visibility",
+        "Asteroids",
+        "Vesta",
+        "Ceres",
+        "NASA Dawn Mission",
+        "Dwarf Planets",
+        "Skywatching",
+        "July",
+        "Jupiter",
+        "Venus",
+        "Saturn",
+        "Mars",
+        "Mercury",
+        "Uranus",
+        "Neptune"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul07-the-ions-of-dawn",
+      "documentId": "ephjul07",
+      "title": "The Ions of Dawn",
+      "summary": "NASA's Dawn probe is set to launch this summer to explore the giant asteroids Ceres and Vesta in the solar system's asteroid belt. The mission employs ion propulsion, a technology proven by Deep Space 1, which enables the spacecraft to orbit two distinct celestial bodies with significantly less fuel than conventional rockets. Scientists anticipate Dawn's up-close views will provide crucial insights into the conditions of the early solar system.",
+      "categories": [
+        "Space Mission",
+        "Technology",
+        "Astronomy News",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Dawn probe",
+        "Ion propulsion",
+        "Ceres",
+        "Vesta",
+        "NASA",
+        "Asteroid belt",
+        "Deep Space 1",
+        "Early solar system",
+        "Spacecraft technology",
+        "JPL"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul07-m81",
+      "documentId": "ephjul07",
+      "title": "M81",
+      "summary": "The article highlights M81, also known as Bode's Galaxy, a prominent spiral galaxy in Ursa Major, emphasizing a new Hubble image and its visual appeal for observers. It explores the galaxy's suspected past collisions with M82 and NGC 3077, postulating how these interactions might explain its unusual rotation pattern compared to expected dark matter distribution. The piece also delves into the galaxy's discovery by Johann Bode and its membership in the M81 Group, one of the closest galaxy groups to the Milky Way.",
+      "categories": [
+        "Galaxies",
+        "Observing Reports",
+        "Astronomy History",
+        "Cosmology",
+        "Space Telescopes",
+        "News"
+      ],
+      "keywords": [
+        "M81",
+        "Bode's Galaxy",
+        "M82",
+        "NGC 3077",
+        "Galaxy collisions",
+        "Dark matter",
+        "Hubble Space Telescope",
+        "Johann Bode",
+        "Ursa Major",
+        "Spiral galaxies",
+        "M81 Group",
+        "Star party"
+      ],
+      "pageStart": 5,
+      "pageEnd": 70427
+    },
+    {
+      "id": "ephjul07-the-last-31-days-in-astronomy",
+      "documentId": "ephjul07",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This article summarizes astronomy news from May 11 to June 11, 2007, highlighting several significant discoveries and space mission updates. Key events include the Mars Rover Spirit finding strong evidence of past water on Mars, the identification of new types of extrasolar planets and the most massive binary star, and the discovery of the most distant black hole. Additionally, the Messenger spacecraft conducted a Venus flyby, and the Space Shuttle Atlantis launched to the ISS, where astronaut Sunita Williams set a new record for longest single duration in space by a woman.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Astrophysics",
+        "Planetary Science",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Mars Rover Spirit",
+        "Mars water evidence",
+        "silica",
+        "extrasolar planets",
+        "A-type stars",
+        "hot Neptune",
+        "M81 galaxy",
+        "Hubble Space Telescope",
+        "massive stars",
+        "binary stars",
+        "Messenger spacecraft",
+        "Venus flyby",
+        "Mercury mission",
+        "dark matter",
+        "MACHO",
+        "gravitational lensing",
+        "Hubble repair mission",
+        "Space Shuttle Atlantis",
+        "International Space Station (ISS)",
+        "Sunita Williams",
+        "black holes",
+        "quasars",
+        "early universe"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul07-changes-to-the-telescope-loaner-program",
+      "documentId": "ephjul07",
+      "title": "Changes to the Telescope Loaner Program",
+      "summary": "The club's telescope loaner program is undergoing significant changes following the resignation of its long-serving manager, Mike Koop. The board has paused new loans and returns to evaluate the program's inventory and future investments, while a key improvement involves rebuilding a scope by Albert Highe. Members currently with loaned scopes are asked to retain them, and the club seeks assistance with storage or program operation.",
+      "categories": [
+        "Club Announcement",
+        "Program Update",
+        "Member Services",
+        "Equipment Management"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Club Management",
+        "Program Changes",
+        "Volunteer Resignation",
+        "Equipment Inventory",
+        "Member Services",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul07-jane-houston-jones-on-your-i-pod",
+      "documentId": "ephjul07",
+      "title": "Jane Houston Jones on your I-Pod",
+      "summary": "Jane Houston Jones, a Senior Outreach Specialist for the Cassini mission at JPL and former SJAA Ephemeris editor, has developed a series of short educational videos. These videos feature amateur astronomy images, sky charts, and links to NASA networks, and are available for download on devices like an iPod or computer, targeting various educational and public outreach groups.",
+      "categories": [
+        "News",
+        "Outreach",
+        "Education",
+        "Astronomy",
+        "Technology Resources"
+      ],
+      "keywords": [
+        "Jane Houston Jones",
+        "JPL",
+        "Cassini mission",
+        "Amateur astronomy",
+        "Educational videos",
+        "iPod",
+        "Sky charts",
+        "NASA",
+        "SJAA",
+        "Outreach programs"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0707/EphJul07.pdf",
+      "txtPath": "0707/EphJul07.md"
+    }
+  ]
+}

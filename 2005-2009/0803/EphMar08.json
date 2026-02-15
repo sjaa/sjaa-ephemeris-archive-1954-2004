@@ -1,0 +1,204 @@
+{
+  "articles": [
+    {
+      "id": "ephmar08-deep-sky-observing",
+      "documentId": "ephmar08",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This article presents a deep-sky observing list compiled by Mark Wagner for March 2008, covering the period from the third quarter to new moon. It details a selection of galaxies and open clusters, ordered from north to south, providing astronomical data, challenge ratings (1-4), and descriptive observing notes for each target. The full list is available online, with this excerpt focusing on objects within one hour of right ascension.",
+      "categories": [
+        "Observing List",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Observing List",
+        "Galaxies",
+        "Open Clusters",
+        "NGC objects",
+        "Messier objects",
+        "Astronomical Data",
+        "Challenge Rating",
+        "March 2008",
+        "Telescopic Observing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 315
+    },
+    {
+      "id": "ephmar08-zosma",
+      "documentId": "ephmar08",
+      "title": "Zosma",
+      "summary": "The article provides an in-depth look at Zosma (Delta Leonis), an A4 star in the Leo constellation, detailing its etymology, physical characteristics like rapid rotation and luminosity, and its membership in the Ursa Major Stream. It discusses Zosma's potential as a Delta Scuti variable and its status as a triple star system, while also touching upon broader astronomical concepts like Bayer star naming conventions and the OBAFGKM stellar classification system.",
+      "categories": [
+        "Stellar Astrophysics",
+        "Astronomy Education",
+        "Constellation Lore",
+        "Star Naming and Classification"
+      ],
+      "keywords": [
+        "Zosma",
+        "Delta Leonis",
+        "Leo constellation",
+        "Stellar characteristics",
+        "Stellar classification",
+        "Bayer designations",
+        "OBAFGKM",
+        "Ursa Major Stream",
+        "Delta Scuti stars",
+        "Stellar evolution",
+        "Triple star system"
+      ],
+      "pageStart": 3,
+      "pageEnd": 10530
+    },
+    {
+      "id": "ephmar08-notification-of-may-general-meeting",
+      "documentId": "ephmar08",
+      "title": "Notification of May General Meeting",
+      "summary": "Due to insufficient time before the February meeting, the club will hold a second General Meeting in May to vote on three proposed amendments to its bylaws. These amendments aim to improve procedures regarding the definition of board member absence, qualifications for board membership, and the notification process for director candidates. The board believes these changes are in the best interest of the club.",
+      "categories": [
+        "Club Business",
+        "Meetings",
+        "Governance",
+        "Bylaws",
+        "Announcements"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Bylaws",
+        "Board of Directors",
+        "Amendments",
+        "Voting",
+        "Club Governance",
+        "Member Participation",
+        "Candidacy Notification",
+        "May Meeting",
+        "Club Procedures"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "ephmar08-geoff-marcy-on-march-5-2008-at-7-p-m",
+      "documentId": "ephmar08",
+      "title": "Geoff Marcy on March 5, 2008 at 7 p.m.",
+      "summary": "Astronomer Geoff Marcy of UC Berkeley will deliver a non-technical, illustrated talk titled \"New Worlds and Yellowstone: How Common are Habitable Planets?\" on March 5, 2008, at 7 p.m. The lecture, part of the Silicon Valley Astronomy Lectures at Foothill College, will discuss the search for exoplanets, including Earth-like worlds and extraterrestrial intelligence, and what future telescopes might find. The event is free and open to the public.",
+      "categories": [
+        "Events",
+        "Lecture Announcement",
+        "Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Geoff Marcy",
+        "Andrew Fraknoi",
+        "Silicon Valley Astronomy Lectures",
+        "Foothill College",
+        "Exoplanets",
+        "Habitable Planets",
+        "Extraterrestrial Intelligence",
+        "Astrobiology",
+        "Telescopes",
+        "Public Lecture"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar08-no-mars-rock-unturned",
+      "documentId": "ephmar08",
+      "title": "No Mars Rock Unturned",
+      "summary": "The Mars rovers Spirit and Opportunity currently face limitations in immediate data collection of interesting rocks due to communication delays with Earth. To overcome this, JPL has developed AEGIS (Autonomous Exploration for Gathering Increased Science) software. This artificial intelligence allows rovers to autonomously identify and capture high-resolution images and data of intriguing geological features without waiting for human commands, thereby preventing missed scientific opportunities.",
+      "categories": [
+        "Space Exploration",
+        "Robotics",
+        "Artificial Intelligence",
+        "Mars Missions",
+        "Technology Development"
+      ],
+      "keywords": [
+        "Mars rovers",
+        "Spirit rover",
+        "Opportunity rover",
+        "AEGIS software",
+        "Artificial intelligence",
+        "Autonomous exploration",
+        "JPL",
+        "NASA",
+        "Planetary science",
+        "Data collection",
+        "Mars rocks",
+        "Technology upgrade"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar08-letter-from-the-president",
+      "documentId": "ephmar08",
+      "title": "Letter from the President",
+      "summary": "The President's letter reviews a year of significant improvements for the club, including revitalized beginner programs, a new website, a new Beginner's Workshop, and major investments in the loaner telescope program. It also highlights increased board involvement, the return of CalStar to its roots, and ongoing school outreach, with plans for continued growth and member engagement. The document also includes a brief summary of recent astronomy news.",
+      "categories": [
+        "Club Update",
+        "Organizational News",
+        "Program Updates",
+        "Community Outreach",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Club achievements",
+        "Beginner's Astronomy Class",
+        "Website redesign",
+        "Beginner's Workshop",
+        "Loaner telescope program",
+        "CalStar",
+        "Golden State Star Party",
+        "Board of Directors",
+        "School program",
+        "Jupiter storm",
+        "ISS Columbus module",
+        "Space Shuttle Atlantis",
+        "Rob Hawley"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar08-messier-marathon",
+      "documentId": "ephmar08",
+      "title": "Messier Marathon",
+      "summary": "The article announces the annual Messier Marathon, hosted by the San Jose Astronomical Association (SJAA) at Henry Coe State Park on Saturday, March 8th. It details the event's purpose, which is to locate all 110 Messier objects in one night, highlighting skill development in efficient chart usage and object identification over simple viewing. Participants are strongly advised to prepare with excellent charts, detailed strategies, and checklists.",
+      "categories": [
+        "Events",
+        "Observing Guides",
+        "Amateur Astronomy",
+        "Club News"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier objects",
+        "Henry Coe State Park",
+        "San Jose Astronomical Association",
+        "Star hopping",
+        "Astronomical charts",
+        "Telescopes",
+        "Observing event",
+        "Deep-sky objects",
+        "Don Machholz"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0803/EphMar08.pdf",
+      "txtPath": "0803/EphMar08.md"
+    }
+  ]
+}

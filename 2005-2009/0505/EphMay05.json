@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "id": "ephmay05-eclipse-on-the-bounty",
+      "documentId": "ephmay05",
+      "title": "Eclipse on the Bounty",
+      "summary": "This article recounts Rob Hawley's experience observing a rare total solar eclipse near Pitcairn Island during an expedition at sea. Despite initial annular conditions and challenging cloud cover, the ship successfully navigated into totality, providing a spectacular, albeit brief, view of the diamond ring and corona. The document also includes the San Jose Astronomical Association's activity calendar for May and June 2005, detailing star parties, general meetings, and ATM classes.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Event",
+        "Astronomy Club Activities",
+        "Observing Logistics",
+        "News"
+      ],
+      "keywords": [
+        "Solar eclipse",
+        "Total eclipse",
+        "Annular eclipse",
+        "Pitcairn Island",
+        "Rob Hawley",
+        "Astronomical expedition",
+        "San Jose Astronomical Association",
+        "Star parties",
+        "Eclipse viewing",
+        "Diamond Ring",
+        "Corona",
+        "2005 eclipse"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay05-factoids",
+      "documentId": "ephmay05",
+      "title": "Factoids",
+      "summary": "This article, \"Factoids\" by Dave North, presents a collection of brief, unrelated observations and trivia about the Moon, its characteristics, and related cultural and historical aspects. It covers topics ranging from lunar regolith and formation theories to astronaut activities, famous Moon depictions, and general astronomical lore, encouraging readers to observe the Moon in May. The author also shares personal viewing experiences and discusses various scientific and anecdotal details about Earth's natural satellite.",
+      "categories": [
+        "Astronomy",
+        "Lunar Science",
+        "Space Exploration",
+        "Trivia",
+        "Observing Reports",
+        "History of Science"
+      ],
+      "keywords": [
+        "Moon",
+        "Factoids",
+        "Regolith",
+        "Lunar formation",
+        "Big Impact hypothesis",
+        "Astronauts",
+        "Maria",
+        "Blue Moon",
+        "Observing",
+        "Space travel",
+        "Lunar craters",
+        "Alan Shepard",
+        "Neil Armstrong",
+        "Georges Melles",
+        "A Trip To The Moon"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay05-cloud-pictures",
+      "documentId": "ephmay05",
+      "title": "Cloud Pictures",
+      "summary": "This article serves as an observing guide for amateur astronomers, detailing how to find and identify various cloud features on Jupiter, such as its equatorial bands, polar regions, and the Great Red Spot, which is well-placed for observation in May. It offers practical tips for observing planetary details and briefly notes the observational status of other planets like Saturn, Mars, Uranus, and the asteroid 1 Ceres during the same month, including specific dates for notable celestial events.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Sky Guides",
+        "Tips & Techniques"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "planetary observation",
+        "amateur astronomy",
+        "telescopes",
+        "equatorial bands",
+        "polar regions",
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Ceres",
+        "May",
+        "skywatching",
+        "festoons",
+        "white ovals",
+        "opposition"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay05-starry-starry-night",
+      "documentId": "ephmay05",
+      "title": "Starry, Starry Night",
+      "summary": "This article serves as an observing guide, highlighting Porrima (Gamma Virginis) as an excellent starting point for stargazing in May. It details Porrima's characteristics as a double star, its proximity to Jupiter, and its location near the distant quasar 3C273 and the giant elliptical galaxy M87, both part of the Virgo cluster. The author provides tips for observing these varied celestial objects, emphasizing their visibility in early May.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Stargazing",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Porrima",
+        "Gamma Virginis",
+        "Jupiter",
+        "3C273",
+        "M87",
+        "Quasar",
+        "Elliptical Galaxy",
+        "Double Star",
+        "Virgo Cluster",
+        "Observation",
+        "Telescope",
+        "Magnitude",
+        "Light Years",
+        "May Viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay05-sjaa-may-general-meeting",
+      "documentId": "ephmay05",
+      "title": "SJAA May General Meeting",
+      "summary": "The SJAA May General Meeting will feature Naishi Min, former director of the Shanghai Planetarium, as the speaker. He will discuss ancient Chinese astronomy, including traditional constellations, star names, and historical observational instruments like armillaries. Additionally, Mr. Min will showcase his innovative pop-up models designed to visualize complex astronomical concepts and demonstrate various astronomical predictors he has developed.",
+      "categories": [
+        "Events",
+        "Meeting Announcement",
+        "Astronomy History",
+        "Education",
+        "Guest Speaker"
+      ],
+      "keywords": [
+        "SJAA",
+        "Naishi Min",
+        "Chinese astronomy",
+        "ancient astronomy",
+        "Shanghai Planetarium",
+        "constellations",
+        "armillaries",
+        "observatories",
+        "pop-up models",
+        "astronomical instruments",
+        "planispheres",
+        "moon-phase predictors"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay05-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephmay05",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "The article announces the final lecture for the 2004-2005 Silicon Valley Astronomy Lecture Series, featuring Dr. Nathalie Cabrol discussing Mars exploration on May 18, 2005. It also details the recent election of new officers for the San Jose Astronomical Association (SJAA) and provides comprehensive Solar System ephemeris data for May 2005, including planetary positions and magnitudes.",
+      "categories": [
+        "Events",
+        "Lecture",
+        "Club News",
+        "Observing Data",
+        "Planetary Science",
+        "Astronomy Information"
+      ],
+      "keywords": [
+        "Silicon Valley Astronomy Lecture Series",
+        "Dr. Nathalie Cabrol",
+        "Mars exploration",
+        "Spirit rover",
+        "Gusev Crater",
+        "Planetary geology",
+        "NASA Ames Research Center",
+        "SETI Institute",
+        "San Jose Astronomical Association",
+        "Club elections",
+        "Solar System ephemeris",
+        "Astronomical data",
+        "May 2005"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmay05-sjaa-loaner-scope-status",
+      "documentId": "ephmay05",
+      "title": "SJAA loaner scope status",
+      "summary": "This document outlines the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program, detailing which scopes are available for immediate loan, those currently out on regular or extended loan, and scopes on a waiting list. SJAA members can contact Mike Koop to inquire about borrowing an available telescope or to be placed on a waiting list for specific models. The list includes various types of telescopes, ranging from refractors and Newtonians to Dobsonians and Schmidt-Cassegrains, along with their descriptions and current custodians or borrowers.",
+      "categories": [
+        "Program Update",
+        "Equipment Loan",
+        "Membership Services",
+        "Astronomy Club",
+        "Inventory Status"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy equipment",
+        "available scopes",
+        "scope loans",
+        "waiting list",
+        "members",
+        "Dobson",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "refractor"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0505/EphMay05.pdf",
+      "txtPath": "0505/EphMay05.md"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "articles": [
+    {
+      "id": "ephoct07-deep-sky-observing",
+      "documentId": "ephoct07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document presents a deep-sky observing list compiled by Mark Wagner for October 2007, focusing on objects within a specific right ascension range that are well-positioned for viewing. It includes a table detailing celestial objects such as planetary nebulae, open clusters, and galaxies, with information on their constellation, type, size, magnitude, and coordinates. Each entry also provides brief observational notes and refers to a more comprehensive list available online.",
+      "categories": [
+        "observing list",
+        "deep-sky astronomy",
+        "observational astronomy",
+        "celestial objects"
+      ],
+      "keywords": [
+        "deep sky",
+        "observing",
+        "October 2007",
+        "planetary nebula",
+        "open cluster",
+        "galaxy",
+        "NGC",
+        "M",
+        "Arp",
+        "HCG",
+        "Messier",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "telescope"
+      ],
+      "pageStart": 2,
+      "pageEnd": 319
+    },
+    {
+      "id": "ephoct07-breaking-up-is-hard-to-do",
+      "documentId": "ephoct07",
+      "title": "Breaking Up is Hard to Do",
+      "summary": "This article provides an October 2007 observing guide, highlighting Mars' increasing visibility for detail, along with other planets like Jupiter, Uranus, and Neptune, and notes challenges posed by late sunsets due to Daylight Savings Time and the moon's phase. It also delves into the \"Baptistina Breakup\" theory, proposing that a 160-million-year-old asteroid collision created fragments responsible for both the Chicxulub impact that killed the dinosaurs and the Moon's Tycho crater.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy News",
+        "Solar System",
+        "Planetary Science",
+        "Events"
+      ],
+      "keywords": [
+        "Mars",
+        "Opposition",
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Zodiacal Light",
+        "Halloween",
+        "Daylight Savings Time",
+        "Baptistina Breakup",
+        "Asteroid (298) Baptistina",
+        "Chicxulub meteor",
+        "Dinosaurs",
+        "Tycho crater",
+        "Moon",
+        "Iapetus",
+        "Cassini",
+        "October 2007"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct07-cosmic-cockroaches",
+      "documentId": "ephoct07",
+      "title": "Cosmic Cockroaches",
+      "summary": "Polycyclic Aromatic Hydrocarbons (PAHs), ring-shaped molecules of carbon and hydrogen, have been discovered to survive supernova blasts, demonstrating surprising resilience. NASA's Spitzer Space Telescope observed PAHs within the supernova remnant N132D, still intact despite the extreme conditions. This finding suggests that these incredibly tough molecules could have withstood ancient supernovae to contribute to the primordial conditions necessary for the origins of life on Earth.",
+      "categories": [
+        "Astronomy News",
+        "Astrophysics",
+        "Scientific Discovery",
+        "Space Telescopes",
+        "Astrobiology"
+      ],
+      "keywords": [
+        "Polycyclic Aromatic Hydrocarbons",
+        "PAHs",
+        "Supernova",
+        "Spitzer Space Telescope",
+        "N132D",
+        "Large Magellanic Cloud",
+        "Origins of Life",
+        "Interstellar Molecules",
+        "NASA",
+        "Infrared Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct07-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephoct07",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "The article announces an upcoming lecture by NASA scientist David Morrison titled \"Taking a Hit: Asteroid Impacts and Evolution\" on October 3, 2007, as part of the Silicon Valley Astronomy Lecture Series at Foothill College. The free, non-technical talk will cover how asteroid impacts have influenced life on Earth, current efforts by the Spaceguard Survey to reduce impact risk, and the ongoing need for government action plans. Dr. Morrison, a leading expert in astrobiology, will discuss the scientific and societal implications of asteroid impacts.",
+      "categories": [
+        "Events",
+        "Public Lecture",
+        "Astronomy",
+        "Space Science",
+        "Planetary Defense",
+        "Education & Outreach"
+      ],
+      "keywords": [
+        "Silicon Valley Astronomy Lecture Series",
+        "Asteroid impacts",
+        "David Morrison",
+        "NASA Ames Research Center",
+        "Evolution",
+        "Near Earth Asteroids",
+        "Planetary defense",
+        "Astrobiology",
+        "Foothill College",
+        "October 2007"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct07-changes-to-the-telescope-loaner-program",
+      "documentId": "ephoct07",
+      "title": "Changes to the Telescope Loaner Program",
+      "summary": "The board has reactivated the telescope loaner program, which will be implemented in stages to ensure a smooth transition. Initially, only telescopes currently stored by non-members are available, with the immediate goal of bringing these back under club control and addressing storage issues. The success of the program is highly dependent on volunteers for storage, scope transfers, inventory management, and user training.",
+      "categories": [
+        "Program Update",
+        "Announcement",
+        "Volunteer Opportunity",
+        "Club Operations"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "Volunteer",
+        "Storage",
+        "Club Program",
+        "Astronomy Club",
+        "Inventory Management",
+        "Program Reactivation"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0710/EphOct07.pdf",
+      "txtPath": "0710/EphOct07.md"
+    }
+  ]
+}

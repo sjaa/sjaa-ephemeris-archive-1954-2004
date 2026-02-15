@@ -1,0 +1,190 @@
+{
+  "articles": [
+    {
+      "id": "ephjun05-sjaa-ephemeris",
+      "documentId": "ephjun05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA EPHEMERIS details the San Jose Astronomical Association's (SJAA) activities for June and July, including various star parties, ATM classes, astronomy classes, and general meetings featuring a guest speaker from Lick Observatory. The document also includes an article by Akkana Peck that discusses the updated number of moons for solar system planets, focusing on Jupiter's lead and the unique characteristics of asteroid Cruithne, often referred to as Earth's 'second moon'.",
+      "categories": [
+        "Club Activities",
+        "Events",
+        "Astronomy Education",
+        "Planetary Science",
+        "Newsletter"
+      ],
+      "keywords": [
+        "SJAA",
+        "star parties",
+        "astronomy classes",
+        "general meetings",
+        "planetary moons",
+        "Jupiter",
+        "Saturn",
+        "Earth's second moon",
+        "Cruithne",
+        "Lick Observatory",
+        "solar system"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjun05-scientific-and-historical-features",
+      "documentId": "ephjun05",
+      "title": "Scientific and Historical Features",
+      "summary": "The article provides an observational guide for June, highlighting opportunities to view Jupiter's moon transits, Mercury's evening appearance and conjunctions, Pluto at opposition, and glimpses of Saturn and Mars. It also delves into a critical analysis of the inconsistent and confusing naming conventions for lunar features, specifically the crater 'Pickering,' exposing discrepancies between the International Astronomical Union (IAU) and United States Geological Survey (USGS) records.",
+      "categories": [
+        "Observational Astronomy",
+        "Celestial Events",
+        "Astronomical Nomenclature",
+        "History of Astronomy",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Shadow Transits",
+        "Mercury",
+        "Pluto",
+        "Saturn",
+        "Venus",
+        "Lunar Craters",
+        "Pickering Crater",
+        "IAU",
+        "USGS",
+        "Observing Guide",
+        "Edward Charles Pickering",
+        "William Henry Pickering",
+        "Astronomy"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun05-nit-pickering",
+      "documentId": "ephjun05",
+      "title": "Nit Pickering",
+      "summary": "This article discusses a clarification regarding lunar nomenclature, specifically the crater Pickering. The author, Dave North, acknowledges an email from Bob Garfinkle pointing out that William H. Pickering was not honored with a lunar crater, despite common belief. The crater Pickering is named for Edward Pickering, and William H. Pickering is highlighted as a controversial figure known for publishing imaginary observations and false scientific claims, particularly concerning the Moon.",
+      "categories": [
+        "Lunar Nomenclature",
+        "Astronomy History",
+        "Editorial Commentary",
+        "Debunking Misinformation"
+      ],
+      "keywords": [
+        "Nit Pickering",
+        "Dave North",
+        "Bob Garfinkle",
+        "William Pickering",
+        "Edward Pickering",
+        "lunar nomenclature",
+        "Moon",
+        "crater",
+        "Rukl",
+        "Jeff Medkeff",
+        "Messier A",
+        "imaginary observations",
+        "false scientific claims"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun05-auction-success",
+      "documentId": "ephjun05",
+      "title": "Auction Success",
+      "summary": "The SJAA 25th Annual Auction on April 24, 2005, was a highly successful and entertaining event, raising a net of $7930.30 from 102 unique items, earning the club $1249.25. Highlights included the sale of a C14 telescope for $3000, various astronomy accessories, antique books, and donations from vendors like Scope City. The event was praised for its fun atmosphere and the bargains offered to attendees.",
+      "categories": [
+        "Event Report",
+        "Fundraising",
+        "Club Activity",
+        "Community"
+      ],
+      "keywords": [
+        "SJAA Auction",
+        "Astronomy Equipment",
+        "Fundraising",
+        "Michael Koop",
+        "Jay Freeman",
+        "Benjamin Mendelsohn",
+        "Sam Sweiss",
+        "Scope City",
+        "C14 telescope",
+        "Parks Wave Binoculars",
+        "Sky Image Lab",
+        "Lick Observatory",
+        "Chabot Space and Science Center",
+        "Lumicon International",
+        "Brandon Eyepiece",
+        "Astronomy History"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun05-seeing-a-solar-eclipse",
+      "documentId": "ephjun05",
+      "title": "Seeing a Solar Eclipse",
+      "summary": "Author David Findley describes his journey from regretting a missed solar eclipse in 1970 to enthusiastically joining an \"eclipse tour\" to Panama for a 2005 annular solar eclipse. The article details the meticulous planning by Paul Maley, the diverse community of eclipse chasers, the logistical challenges including weather, and the actual viewing experience, which, despite some cloud cover, was a profoundly satisfying event. This immersive trip transformed his perspective, inspiring him to plan for future eclipse expeditions.",
+      "categories": [
+        "Observing Report",
+        "Solar Eclipse",
+        "Astronomy Travel",
+        "Personal Experience",
+        "Astronomy Tour"
+      ],
+      "keywords": [
+        "Solar eclipse",
+        "Annular eclipse",
+        "Eclipse tour",
+        "Panama",
+        "Eclipse chasing",
+        "Astronomy travel",
+        "Paul Maley",
+        "Claude Nicollier",
+        "Observing equipment",
+        "Baily's Beads",
+        "Astronomy community",
+        "Iridium flare",
+        "Night sky observation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun05-sjaa-loaner-scope-status",
+      "documentId": "ephjun05",
+      "title": "SJAA loaner scope status",
+      "summary": "The document details the status of the San Jose Astronomical Association's (SJAA) loaner scope program, listing astronomical equipment available for members. It provides contact information for Mike Koop to arrange scope loans and outlines scopes currently available, those recently loaned out, extended loans, and members on the waiting list. Various types and sizes of telescopes, including Dobsons, Newtonians, refractors, and S/C scopes, are part of the inventory.",
+      "categories": [
+        "Club Operations",
+        "Equipment Loan Program",
+        "Astronomy Club",
+        "Resource Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scopes",
+        "Telescopes",
+        "Astronomy Equipment",
+        "SJAA Members",
+        "Scope Availability",
+        "Waiting List",
+        "Dobsonians",
+        "Newtonians",
+        "Refractors",
+        "Schmidt-Cassegrain"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0506/EphJun05.pdf",
+      "txtPath": "0506/EphJun05.md"
+    }
+  ]
+}

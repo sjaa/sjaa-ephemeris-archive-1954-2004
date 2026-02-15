@@ -1,0 +1,251 @@
+{
+  "articles": [
+    {
+      "id": "ephapr05-shingletown-star-party",
+      "documentId": "ephapr05",
+      "title": "Shingletown Star Party",
+      "summary": "The Shingletown Star Party, a popular annual event for amateur astronomers, is set for its 4th year from Wednesday, July 6th, through Monday, July 11th. Located at Shingletown Airport near Mt. Lassen in Northern California, the event promises dark skies and a variety of daytime activities. Registration is now open, and further details, including a downloadable flyer for the 2005 event, are available on its official website.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Shingletown Star Party",
+        "Star Party",
+        "Amateur Astronomers",
+        "Northern California",
+        "Mt. Lassen",
+        "Shingletown Airport",
+        "Dark Skies",
+        "Registration",
+        "July 2005"
+      ],
+      "pageStart": 2005,
+      "pageEnd": 2005
+    },
+    {
+      "id": "ephapr05-the-stars-of-orion",
+      "documentId": "ephapr05",
+      "title": "The Stars of Orion",
+      "summary": "This article provides an in-depth look at the major stars within the Orion constellation, offering details on their distances, characteristics, and eventual fates. It covers stars like Saiph, Betelgeuse, Bellatrix, Rigel, and the belt stars (Alnitak, Alnilam, Mintaka), along with a description of the Great Orion Nebula (M42/M43). The piece serves as a guide for viewing Orion during its final months of visibility.",
+      "categories": [
+        "astronomy",
+        "observing guide",
+        "educational",
+        "constellation analysis"
+      ],
+      "keywords": [
+        "Orion constellation",
+        "Betelgeuse",
+        "Rigel",
+        "Orion Nebula",
+        "M42",
+        "supernova",
+        "light years",
+        "Saiph",
+        "Bellatrix",
+        "Alnitak",
+        "Alnilam",
+        "Mintaka",
+        "stellar nursery",
+        "Trapezium"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr05-mooning",
+      "documentId": "ephapr05",
+      "title": "Mooning",
+      "summary": "This month's 'Moon column' is absent because author Dave North lacked inspiration for an April Fool's piece and was busy with observing activities during good weather. He briefly mentions upcoming celestial events, including a mostly-unobservable hybrid solar eclipse and an unexciting penumbral lunar eclipse on April 24th, which he notes will only make the Moon appear slightly dim. The author attributes the brevity of the column to a busy schedule of 'Actual Observing' and other outdoor pursuits.",
+      "categories": [
+        "Column",
+        "Celestial Events",
+        "Observing Reports",
+        "Astronomy Commentary"
+      ],
+      "keywords": [
+        "Moon column",
+        "April Fool's",
+        "Hybrid solar eclipse",
+        "Penumbral lunar eclipse",
+        "Observing",
+        "Libration",
+        "Precession",
+        "Sky & Telescope"
+      ],
+      "pageStart": 73,
+      "pageEnd": 73
+    },
+    {
+      "id": "ephapr05-auction-xxv",
+      "documentId": "ephapr05",
+      "title": "Auction XXV",
+      "summary": "The San Jose Astronomical Association (SJAA) is holding its annual astronomical auction and swap meet, \"Auction XXV,\" on Sunday, April 24, 2005, at Houge Park in San Jose. This event provides an opportunity for beginners to acquire telescopes and for experienced observers to find various astronomical equipment, with an auction starting at 1 PM followed by a swap meet around 3 PM. Sellers pay a 10% commission, supporting the SJAA's educational endeavors.",
+      "categories": [
+        "Events",
+        "News",
+        "Community",
+        "Buying & Selling"
+      ],
+      "keywords": [
+        "Astronomical auction",
+        "Swap meet",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Telescopes",
+        "Astronomical equipment",
+        "Houge Park",
+        "San Jose",
+        "Amateur astronomy",
+        "Observing equipment",
+        "Commission",
+        "April 2005"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr05-board-of-directors-elected",
+      "documentId": "ephapr05",
+      "title": "Board of Directors Elected",
+      "summary": "The article reports on the annual election of the Board of Directors, where four members were re-elected and Gordon Reade was newly elected. It also announces the death of Richard Barrett, a Mercury-News columnist whose 1954 column led to the founding of the San Jose Amateur Astronomers, now known as the San Jose Astronomical Association.",
+      "categories": [
+        "Organizational News",
+        "Elections",
+        "Obituary",
+        "History"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Election",
+        "San Jose Astronomical Association",
+        "Richard Barrett",
+        "Founding",
+        "Annual Meeting",
+        "Governance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr05-excellent-sf-bay-areagraze-april-15-of-upsilon-geminorum",
+      "documentId": "ephapr05",
+      "title": "Excellent SF Bay AreaGraze April 15 of Upsilon Geminorum",
+      "summary": "An excellent grazing occultation of the magnitude 4.1 star Upsilon Geminorum was predicted for the SF Bay Area on the evening of Friday, April 15, 2005. The event was highlighted as suitable for beginners due to the bright star, high lunar elevation, and convenient timing, with an expedition planned for south Fremont. The article detailed observation techniques, the predicted lunar profile, and several alternate viewing locations.",
+      "categories": [
+        "Events",
+        "Observational Astronomy",
+        "Practical Guide",
+        "Occultations"
+      ],
+      "keywords": [
+        "Upsilon Geminorum",
+        "Grazing Occultation",
+        "SF Bay Area",
+        "Astronomy",
+        "Fremont",
+        "Lunar Occultation",
+        "Observing Techniques",
+        "April 2005",
+        "Star"
+      ],
+      "pageStart": 4,
+      "pageEnd": 80
+    },
+    {
+      "id": "ephapr05-new-theory-about-the-barringer-meteor-crater",
+      "documentId": "ephapr05",
+      "title": "New Theory about the Barringer Meteor Crater",
+      "summary": "Scientists have developed a new theory about the Barringer Meteor Crater, proposing that the meteor struck Earth at a much slower speed (around 12 km/sec) than previously thought and fragmented into a swarm of material during atmospheric entry. This revised model, based on sophisticated simulations by H. Jay Melosh and Gareth Collins, resolves the long-standing mystery of why there is not more impact-melted rock at the crater. The article also briefly touches on the timeline of human presence in North America relative to the impact event.",
+      "categories": [
+        "News",
+        "Scientific Research",
+        "Planetary Science",
+        "Geology",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Barringer Meteor Crater",
+        "Meteorite impact",
+        "Impact velocity",
+        "Atmospheric entry",
+        "Impact melt",
+        "Melosh",
+        "Collins",
+        "Simulation",
+        "Arizona",
+        "Coconino formation",
+        "Paleo-Indians"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr05-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephapr05",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "This article announces a free public lecture by Dr. Frank Drake, a pioneer in SETI, on April 20, 2005, discussing updated estimates for extraterrestrial life, incorporating recent exoplanet discoveries. It also provides comprehensive solar system statistics including Right Ascension, Declination, Distance, Magnitude, and Size for various celestial bodies throughout April 2005, adapted from observer handbooks.",
+      "categories": [
+        "Events",
+        "Astronomy Lecture",
+        "SETI",
+        "Observing Data",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Frank Drake",
+        "SETI",
+        "Extraterrestrial Life",
+        "Drake Equation",
+        "Astronomy Lecture",
+        "Exoplanets",
+        "Solar System Statistics",
+        "Ephemeris",
+        "April 2005",
+        "Foothill College"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephapr05-sjaa-loaner-scope-status",
+      "documentId": "ephapr05",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an update on the status of its telescope loaner program, detailing which scopes are available for immediate borrowing, those currently on loan, and those with extended loan periods. Members can contact Mike Koop to borrow an available scope or be placed on a waiting list for popular models. The article also lists specific telescope types and the members currently storing or borrowing them.",
+      "categories": [
+        "Club Resources",
+        "Member Services",
+        "Equipment Management",
+        "Astronomical Society Operations"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope program",
+        "astronomical equipment",
+        "reflectors",
+        "refractors",
+        "Dobsonians",
+        "Schmidt-Cassegrain",
+        "binoculars",
+        "spectroscope",
+        "membership",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0504/EphApr05.pdf",
+      "txtPath": "0504/EphApr05.md"
+    }
+  ]
+}

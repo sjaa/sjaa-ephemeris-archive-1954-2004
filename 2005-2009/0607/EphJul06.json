@@ -1,0 +1,218 @@
+{
+  "articles": [
+    {
+      "id": "ephjul06-two-additional-star-parties-at-willow-springs",
+      "documentId": "ephjul06",
+      "title": "Two Additional Star Parties at Willow Springs",
+      "summary": "The owner of the Willow Springs site, which may be donated to the SJAA, is allowing two additional star parties this summer: July 21-22 and August 18-19. Efforts are underway to expand viewing sites to accommodate more attendees, with further details to be shared via SJAA-Announce and TAC mail lists. The article also provides detailed directions to Houge Park, although Houge Park is not mentioned in relation to the star parties at Willow Springs.",
+      "categories": [
+        "Events",
+        "News",
+        "Logistics",
+        "Community"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Willow Springs",
+        "SJAA",
+        "Astronomy Events",
+        "Viewing Sites",
+        "Houge Park",
+        "Directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul06-deneb",
+      "documentId": "ephjul06",
+      "title": "Deneb",
+      "summary": "The article details Deneb, a supergiant A2 star in Cygnus (the Northern Cross) and a prominent member of the Summer Triangle. Despite its immense distance of at least 1500 light-years, Deneb appears as bright as closer stars Vega and Altair due to its extraordinary intrinsic luminosity, equivalent to 160,000 Suns and 200 times the Sun's diameter. The text also highlights other celestial objects of interest within Cygnus, such as the double star Alberio, the black hole candidate Cygnus X-1, and several planetary systems and deep-sky objects.",
+      "categories": [
+        "Astronomy",
+        "Star Profile",
+        "Constellation Study",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Deneb",
+        "Summer Triangle",
+        "Cygnus",
+        "Northern Cross",
+        "Vega",
+        "Altair",
+        "supergiant",
+        "A2 star",
+        "luminosity",
+        "light-years",
+        "apparent magnitude",
+        "intrinsic brightness",
+        "Alberio",
+        "Cygnus X-1",
+        "black hole candidate",
+        "planetary systems",
+        "16 Cygni",
+        "HD 188753",
+        "Messier objects",
+        "M29",
+        "M39",
+        "Dumbbell Nebula",
+        "M27",
+        "Vulpecula"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjul06-see-spot-see-spot-merge",
+      "documentId": "ephjul06",
+      "title": "See Spot. See Spot Merge?",
+      "summary": "This article discusses the upcoming close approach of Jupiter's Great Red Spot (GRS) and Oval BA (Red Jr) around July 7th, noting that while a merger is unlikely, their interaction could distort Red Jr. It provides visual observing tips for finding Red Jr and also covers other celestial targets for July, including Pluto, Uranus, Neptune, and Earth's aphelion, as inner planets are largely inaccessible. Observers are encouraged to use larger telescopes and high power for subtle features.",
+      "categories": [
+        "Planetary Astronomy",
+        "Observing Guide",
+        "Celestial Events",
+        "Amateur Astronomy",
+        "Tips and Techniques"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Oval BA",
+        "Red Jr",
+        "Planetary Storms",
+        "Observing",
+        "Telescope",
+        "Pluto",
+        "Uranus",
+        "Neptune",
+        "Aphelion",
+        "July",
+        "Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul06-olbers-paradox",
+      "documentId": "ephjul06",
+      "title": "Olbers' Paradox",
+      "summary": "Olbers' Paradox questions why the night sky is dark if the universe is infinite and filled with stars. The article traces the historical considerations of this paradox by figures like Kepler, Newton, Chéseaux, and Olbers, who often proposed solutions like light attenuation by interstellar dust, which was later refuted. Modern scientific consensus attributes the dark night sky primarily to the finite age of the universe and, to a lesser extent, the expansion of the universe.",
+      "categories": [
+        "Astronomy",
+        "Cosmology",
+        "History of Science",
+        "Paradoxes"
+      ],
+      "keywords": [
+        "Olbers' Paradox",
+        "Dark Night Sky",
+        "Infinite Universe",
+        "Finite Age of Universe",
+        "Universe Expansion",
+        "Interstellar Dust",
+        "General Relativity",
+        "Big Bang Theory"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul06-nasa-space-place",
+      "documentId": "ephjul06",
+      "title": "NASA Space Place",
+      "summary": "The article highlights how the European Space Agency's XMM-Newton x-ray telescope efficiently uses 'slew time' – the periods between observing targets – to conduct a continuous survey of the sky. By keeping its cameras running, XMM-Newton has already mapped 15% of the sky, leading to discoveries of new galaxy clusters and observations of black holes flaring, demonstrating a valuable new method for astronomical data collection and scientific discovery.",
+      "categories": [
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Discoveries",
+        "Telescope Technology",
+        "Astrophysics",
+        "News"
+      ],
+      "keywords": [
+        "XMM-Newton",
+        "X-ray telescope",
+        "Slew time",
+        "Galaxy clusters",
+        "Black holes",
+        "Vela Supernova Remnant",
+        "European Space Agency (ESA)",
+        "NASA Space Place",
+        "Astronomical survey",
+        "Space observation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul06-an-invitation-to-sjaa-members",
+      "documentId": "ephjul06",
+      "title": "An Invitation to SJAA Members",
+      "summary": "The article extends an invitation to all SJAA members for the Fremont Peak Observatory Association's (FPOA) 20th Anniversary Star-B-Que event on Saturday, August 26, 2006, at Fremont Peak State Park, detailing the catering, raffle, and speaker, along with RSVP instructions. It also includes comprehensive solar system statistics for July 2006, providing data such as Right Ascension, Declination, Distance, Magnitude, and Size for various planets and the Sun.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Astronomical Data",
+        "Observing Aids",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "FPOA",
+        "SJAA",
+        "Fremont Peak Observatory",
+        "Anniversary",
+        "Star-B-Que",
+        "Solar System",
+        "Planets",
+        "Astronomical Data",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "July 2006",
+        "August 2006"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul06-sjaa-loaner-scope-status",
+      "documentId": "ephjul06",
+      "title": "SJAA loaner scope status",
+      "summary": "This document outlines the status of the San Jose Astronomical Association (SJAA) loaner scope program, detailing telescopes available for immediate loan, those currently out on loan with due dates, and scopes with extended loan periods. SJAA members can contact Mike Koop to borrow any available telescope, with pick-ups arranged at SJAA events. The article also mentions a waiting list for currently loaned equipment.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Club Information",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy club",
+        "San Jose Astronomical Association",
+        "member benefits",
+        "equipment rental",
+        "dobsonian",
+        "newtonian",
+        "refractor",
+        "catadioptric",
+        "spectroscope",
+        "binoculars"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0607/EphJul06.pdf",
+      "txtPath": "0607/EphJul06.md"
+    }
+  ]
+}

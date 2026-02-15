@@ -1,0 +1,162 @@
+{
+  "articles": [
+    {
+      "id": "ephjul09-the-shallow-sky",
+      "documentId": "ephjul09",
+      "title": "The Shallow Sky",
+      "summary": "This article, \"The Shallow Sky,\" details significant astronomical events and observing opportunities for July 2009. It highlights the total solar eclipse on July 22, visible from India, China, and the Pacific, and a less noticeable penumbral lunar eclipse on July 7. The piece also provides a guide to observing planets like Saturn, Jupiter (including a close encounter with Neptune), Uranus, Venus, and Mars, alongside directions to Houge Park, a local observing spot.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Amateur Astronomy",
+        "Local Interest"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Penumbral Lunar Eclipse",
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus",
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Pleiades",
+        "Hyades",
+        "Aldebaran",
+        "July 2009",
+        "Houge Park",
+        "San Jose"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul09-scoring-more-energy-from-less-sunlight",
+      "documentId": "ephjul09",
+      "title": "Scoring More Energy from Less Sunlight",
+      "summary": "NASA's Space Technology 5 (ST-5) mission successfully validated advanced power technologies critical for spacecraft, particularly microsatellites. The mission demonstrated high-efficiency solar cells that produce significantly more power and high-capacity, safety-enhanced lithium-ion batteries. These innovations enable smaller, more capable science missions and have already been integrated into other NASA probes like MESSENGER and THEMIS.",
+      "categories": [
+        "Technology",
+        "Space Exploration",
+        "NASA News",
+        "Engineering"
+      ],
+      "keywords": [
+        "Space Technology 5 (ST-5)",
+        "Solar cells",
+        "Lithium-ion batteries",
+        "Microsatellites",
+        "Spacecraft power",
+        "NASA",
+        "New Millennium Program",
+        "MESSENGER",
+        "THEMIS",
+        "Power management",
+        "Technology validation",
+        "Energy efficiency"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul09-fits-and-starts",
+      "documentId": "ephjul09",
+      "title": "FITS and Starts",
+      "summary": "Astrophotography of dim objects necessitates long exposures, which introduces challenges like noise and artifacts. The article details techniques to overcome these, including using calibration frames (bias, flat, and dark images) for data reduction, cooling the camera, and employing the FITS file format for comprehensive data storage. It also explains how multiple monochrome images taken with different filters are combined to produce a final color image, alongside methods like dithering to correct CCD defects.",
+      "categories": [
+        "Astrophotography",
+        "Technical Guide",
+        "Image Processing",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "CCD imaging",
+        "Noise reduction",
+        "Exposure time",
+        "Bias image",
+        "Flat field",
+        "Dark image",
+        "Image reduction",
+        "FITS file",
+        "Camera cooling",
+        "Monochrome CCD",
+        "Color imaging",
+        "Filters",
+        "Dithering",
+        "Image artifacts"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul09-the-last-month-in-astronomy",
+      "documentId": "ephjul09",
+      "title": "The Last Month In Astronomy",
+      "summary": "The article summarizes recent astronomy news, including NASA announcing winners for a science museum program and the successful detection of a new exoplanet using astrometry. It also reports on the Spitzer Space Telescope entering a warm operational phase after running out of coolant, and the successful launch of the Herschel and Planck spacecraft. Additionally, an amateur astronomer provides details and analysis of their astrophotography of M51.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Exoplanet Discovery",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Awards/Grants"
+      ],
+      "keywords": [
+        "NASA",
+        "Exoplanets",
+        "Astrometry",
+        "Spitzer Space Telescope",
+        "Herschel Space Observatory",
+        "Planck Spacecraft",
+        "M51",
+        "Whirlpool Galaxy",
+        "Science Museums",
+        "Planetariums",
+        "Spacecraft Launch",
+        "Infrared Astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul09-it-must-be-astronomical",
+      "documentId": "ephjul09",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the San Jose Astronomical Association's \"Ephemeris\" newsletter highlights the club's telescope loaner program and offers deep-sky object recommendations for March, including M80, N 6070, and HGC 076. It also lists upcoming astronomical events, such as a total solar eclipse, star parties, and conferences, from July to November. The piece concludes with club administrative information, officer contacts, and details about the newsletter.",
+      "categories": [
+        "Club News",
+        "Observing Guides",
+        "Events",
+        "Membership Services",
+        "Educational Content"
+      ],
+      "keywords": [
+        "telescope loaner program",
+        "deep sky objects",
+        "M80",
+        "N 6070",
+        "HGC 076",
+        "meteorite impact craters",
+        "Total Solar Eclipse",
+        "Star-B-Q",
+        "ASP Annual Meeting",
+        "Advanced Imaging Conference",
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": 7,
+      "pageEnd": 264
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0907/EphJul09.pdf",
+      "txtPath": "0907/EphJul09.md"
+    }
+  ]
+}

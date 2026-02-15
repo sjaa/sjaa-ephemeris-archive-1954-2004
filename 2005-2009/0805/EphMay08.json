@@ -1,0 +1,247 @@
+{
+  "articles": [
+    {
+      "id": "ephmay08-sjaa-ephemeris",
+      "documentId": "ephmay08",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document, the May 2008 SJAA EPHEMERIS, outlines the San Jose Astronomical Association's upcoming activities for late April, May, and June, including star parties, astronomy classes, dark sky weekends, and general meetings with guest speakers. It also features \"The Shallow Sky,\" an observing guide for May 2008, detailing the visibility and notable events for planets like Saturn, Mercury, Mars, and the Moon.",
+      "categories": [
+        "Events Calendar",
+        "Observing Reports",
+        "Astronomy Education",
+        "Club News"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Astronomy events",
+        "Star party",
+        "Dark Sky weekend",
+        "Astronomy class",
+        "General meeting",
+        "Planet observation",
+        "Saturn",
+        "Mercury",
+        "Mars",
+        "Moon",
+        "Celestial events",
+        "Astrophotography",
+        "Houge Park",
+        "Henry Coe Park",
+        "Coyote Lake County Park",
+        "May 2008"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephmay08-deep-sky-observing",
+      "documentId": "ephmay08",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document presents a deep sky observing list for May 2008, targeting objects visible from the third quarter to new moon. It features a selection of galaxies and globular clusters, ordered from north to south, each with a challenge rating, detailed astronomical data, and brief observational notes. A link to a more extensive list is also provided.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Observing List",
+        "Galaxies",
+        "Globular Clusters",
+        "NGC Objects",
+        "Messier Objects",
+        "Arp Objects",
+        "May 2008",
+        "Ursa Major",
+        "Virgo",
+        "Bootes",
+        "Canes Venatici",
+        "Centaurus"
+      ],
+      "pageStart": 2,
+      "pageEnd": 286
+    },
+    {
+      "id": "ephmay08-get-out-of-town",
+      "documentId": "ephmay08",
+      "title": "Get Out of Town!",
+      "summary": "This article, \"Get Out of Town!\", highlights the necessity of traveling to dark sky locations for optimal galaxy observing, due to pervasive light pollution and humidity. It provides an extensive guide to numerous observing sites, ranging from local spots near San Jose to distant locations across California, other US states, and even international destinations including the Southern Hemisphere. The author encourages astronomers to travel further to unlock new and enhanced celestial viewing opportunities.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy Travel",
+        "Light Pollution",
+        "Amateur Astronomy",
+        "Observing Sites"
+      ],
+      "keywords": [
+        "Dark skies",
+        "Galaxy observing",
+        "Light pollution",
+        "Star parties",
+        "Observing locations",
+        "California astronomy",
+        "Southern Hemisphere",
+        "Telescope rental",
+        "BYOT",
+        "Messier objects"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay08-the-curious-case-of-alh84001",
+      "documentId": "ephmay08",
+      "title": "The Curious Case of ALH84001",
+      "summary": "The article details the scientific debate surrounding the Martian meteorite ALH84001, which landed in Antarctica 17,000 years ago. Discovered in 1984, it gained notoriety in the 1990s after claims of possible signs of ancient Martian biological activity were made. Proponents cite unusual shapes, specific Polycyclic Aromatic Hydrocarbons (PAHs), and unique magnetite characteristics, while skeptics propose abiotic explanations, leaving the question of extraterrestrial life in ALH84001 unresolved.",
+      "categories": [
+        "Astrobiology",
+        "Planetary Science",
+        "Meteoritics",
+        "Scientific Debate",
+        "Extraterrestrial Life"
+      ],
+      "keywords": [
+        "ALH84001",
+        "Mars",
+        "Meteorite",
+        "Astrobiology",
+        "Extraterrestrial life",
+        "Magnetite",
+        "Polycyclic Aromatic Hydrocarbons",
+        "Martian life",
+        "Bacteria",
+        "Allan Hills",
+        "Scientific debate",
+        "Antarctica"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay08-beginner-s-corner-astronomical-catalogs",
+      "documentId": "ephmay08",
+      "title": "Beginner's Corner: Astronomical Catalogs",
+      "summary": "This article, \"Beginner's Corner: Astronomical Catalogs (Part 1),\" clarifies how deep-sky objects are genuinely cataloged by the scientific community, distinguishing it from commercial \"star-naming\" services. It traces the historical evolution of astronomical cataloging, highlighting the contributions of Charles Messier, William and John Herschel, and J.L.E. Dreyer, whose work led to the comprehensive New General Catalog (NGC) and Index Catalog (IC). These catalogs serve as the fundamental reference for amateur astronomers exploring non-stellar observable objects.",
+      "categories": [
+        "Education",
+        "Astronomy History",
+        "Deep Sky Observing",
+        "Amateur Astronomy Guide"
+      ],
+      "keywords": [
+        "Astronomical Catalogs",
+        "Deep Sky Objects",
+        "Messier List",
+        "NGC/IC",
+        "Amateur Astronomy",
+        "Star Naming Controversy",
+        "Cataloging History"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephmay08-tracking-wildlife-from-space",
+      "documentId": "ephmay08",
+      "title": "Tracking Wildlife from Space",
+      "summary": "The Argos system, a collaboration between NOAA, NASA, and the French space agency (CNES), utilizes orbiting weather satellites like the Polar Operational Environmental Satellites (POES) and MetOp to track wildlife globally. Miniature transmitters attached to animals send signals to these satellites, enabling scientists to monitor migratory patterns of species such as buzzards and sea turtles across thousands of miles. This satellite-based tracking provides crucial data for understanding animal movements, protecting habitats, and conserving endangered species.",
+      "categories": [
+        "Environmental Science",
+        "Wildlife Tracking",
+        "Satellite Technology",
+        "Conservation"
+      ],
+      "keywords": [
+        "Argos system",
+        "Satellite tracking",
+        "Wildlife",
+        "Animal migration",
+        "Endangered species",
+        "NOAA",
+        "Transmitters",
+        "POES",
+        "Remote sensing",
+        "Habitat protection"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephmay08-abscicon-2008",
+      "documentId": "ephmay08",
+      "title": "AbSciCon 2008",
+      "summary": "The article primarily reports on AbSciCon 2008, a significant astrobiology conference held in Santa Clara, featuring 600 attendees and hundreds of presentations on topics ranging from the search for extraterrestrial life to the origins of life and planetary habitability. Key highlights included discussions on SETI strategies, potential exoplanet discoveries, and evidence for ancient life on Mars. Additionally, the document briefly introduces new NASA Space Place educational activities on greenhouse gases and wildlife tracking, and summarizes recent astronomy news.",
+      "categories": [
+        "Conference Report",
+        "Astrobiology",
+        "SETI",
+        "Space Exploration",
+        "Astronomy News",
+        "Education"
+      ],
+      "keywords": [
+        "AbSciCon 2008",
+        "Astrobiology",
+        "SETI",
+        "Exoplanets",
+        "Mars",
+        "Martian Meteorite ALH84001",
+        "Origin of Life",
+        "RNA World",
+        "Greenhouse Gases",
+        "NASA Space Place",
+        "Wildlife Tracking",
+        "Space Missions",
+        "Titan",
+        "Enceladus",
+        "Amino Acids",
+        "Protoplanetary Disks"
+      ],
+      "pageStart": 5,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephmay08-telescope-loaner-program",
+      "documentId": "ephmay08",
+      "title": "Telescope Loaner Program",
+      "summary": "The San Jose Astronomical Association (SJAA) operates a Telescope Loaner Program, allowing members to test various telescope models and technologies before making a purchase. The program maintains a diverse inventory, including Dobsonian, Newtonian, and Schmidt-Cassegrain telescopes of different apertures and configurations, with available scopes changing periodically. Additionally, the article provides a comprehensive list of SJAA's officers, board members, key staff for its Ephemeris newsletter, various contact email addresses, and details regarding the newsletter's publication.",
+      "categories": [
+        "Club Program",
+        "Telescopes",
+        "Organization Information",
+        "Newsletter",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "Newtonian",
+        "Orion XT Dob",
+        "Celestron S/C",
+        "Club membership",
+        "Astrophotography",
+        "Ephemeris newsletter",
+        "Club officers",
+        "Board of Directors",
+        "School Star Party",
+        "Astronomy club"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0805/EphMay08.pdf",
+      "txtPath": "0805/EphMay08.md"
+    }
+  ]
+}

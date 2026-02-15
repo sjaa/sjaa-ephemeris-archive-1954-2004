@@ -1,0 +1,213 @@
+{
+  "articles": [
+    {
+      "id": "ephjul05-sjaa-dues-increase-notice",
+      "documentId": "ephjul05",
+      "title": "SJAA Dues Increase Notice",
+      "summary": "The San Jose Astronomical Association (SJAA) Board announced an increase in annual membership dues to $20 ($10 for Juniors), effective August 1, 2005. This marks the first increase in ten years, driven by rising operational costs, particularly for printing the Ephemeris and a significant surge in liability insurance premiums. Despite the necessity, the club aims to continue supporting its various programs and affiliations.",
+      "categories": [
+        "Club Announcement",
+        "Membership",
+        "Financial Update",
+        "Organizational News",
+        "Dues/Fees"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership Dues",
+        "Dues Increase",
+        "Annual Membership",
+        "August 1, 2005",
+        "Operational Costs",
+        "Liability Insurance",
+        "Ephemeris",
+        "Star Parties",
+        "Telescope Loaner Program",
+        "Club Operations"
+      ],
+      "pageStart": 70,
+      "pageEnd": 70
+    },
+    {
+      "id": "ephjul05-sjaa-now-accepts-paypal",
+      "documentId": "ephjul05",
+      "title": "SJAA Now Accepts PayPal",
+      "summary": "The San Jose Astronomical Association (SJAA) has implemented PayPal as a new, convenient option for membership renewals, streamlining the process for its members. This update allows for immediate payment transmission and renewal processing, while also offering credit card payments for those without a PayPal account, and retaining traditional mail-in forms as an alternative. A security Q&A is available for members with concerns.",
+      "categories": [
+        "News",
+        "Organizational Update",
+        "Membership",
+        "Financial"
+      ],
+      "keywords": [
+        "SJAA",
+        "PayPal",
+        "Membership Renewal",
+        "Online Payment",
+        "Credit Card",
+        "Payment Options",
+        "Security"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjul05-food-for-thought",
+      "documentId": "ephjul05",
+      "title": "Food For Thought",
+      "summary": "This article discusses two lunar topics: the observation of a Transient Lunar Phenomenon (TLP) known as the \"Lunar Donut,\" which the author observed but couldn't verify its disappearance, and the history behind the lunar crater \"Baco.\" The author clarifies that \"Baco\" is an officially adopted German misspelling of Roger Bacon's name, expressing frustration with this peculiar naming convention for lunar features.",
+      "categories": [
+        "Lunar Observing",
+        "Astronomy History",
+        "Nomenclature",
+        "Amateur Astronomy",
+        "Opinion/Commentary"
+      ],
+      "keywords": [
+        "Lunar Donut",
+        "Transient Lunar Phenomena",
+        "TLP",
+        "Baco crater",
+        "Roger Bacon",
+        "IAU",
+        "Lunar nomenclature",
+        "Janssen",
+        "Moon observation",
+        "SJAA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul05-the-shallow-sky-planets-and-stars-and-a-deep-impact",
+      "documentId": "ephjul05",
+      "title": "The Shallow Sky: Planets and Stars, and a Deep Impact",
+      "summary": "This article details various astronomical events for July, including close passes of Mercury and Venus with the Beehive cluster and each other, the Moon's passes by the Pleiades and an occultation of Antares, and optimal viewing times for Jupiter and other planets. It also highlights the \"Deep Impact\" mission's impending collision with Comet Tempel 1, the return-to-flight Space Shuttle Discovery mission, and the opening of CalStar registration for an upcoming star party.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Events",
+        "Space Missions",
+        "Club News"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Moon",
+        "Beehive Cluster",
+        "Pleiades",
+        "Antares",
+        "Deep Impact Mission",
+        "Comet Tempel 1",
+        "Space Shuttle Discovery",
+        "CalStar",
+        "Astronomical Observing",
+        "Conjunction",
+        "Occultation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul05-asp-position-announcement",
+      "documentId": "ephjul05",
+      "title": "ASP Position Announcement",
+      "summary": "The Astronomical Society of the Pacific (ASP) in San Francisco is seeking a full-time Astronomy Educator for an NSF-funded project. This role involves developing hands-on activities and toolkits, training educators at small science museums and nature centers, and assisting with distance learning programs. The position requires a Bachelor's degree in sciences with experience in informal education and outreach, preferably in astronomy.",
+      "categories": [
+        "Job Announcement",
+        "Education",
+        "Outreach",
+        "Professional Development",
+        "Astronomy"
+      ],
+      "keywords": [
+        "ASP",
+        "Astronomical Society of the Pacific",
+        "Astronomy Educator",
+        "Job Opening",
+        "Informal Education",
+        "Outreach",
+        "Professional Development",
+        "Science Museums",
+        "Nature Centers",
+        "Hands-on Activities",
+        "Distance Learning",
+        "NSF"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul05-solar-system-stats-for-july-2005",
+      "documentId": "ephjul05",
+      "title": "Solar System Stats for July 2005",
+      "summary": "This document provides a detailed ephemeris for various Solar System bodies for July 2005, including Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and the Sun. For specific dates (July 1, 11, 21), it lists their Right Ascension (RA), Declination (Dec.), distance from Earth in Astronomical Units (AU), apparent magnitude (Mag), and apparent angular size. The data is adapted from authoritative astronomical handbooks, serving as a reference for celestial positions and visibility.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Reference",
+        "Solar System"
+      ],
+      "keywords": [
+        "Solar System",
+        "July 2005",
+        "Ephemeris",
+        "Planetary Positions",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Angular Size",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Sun",
+        "Astronomical Units",
+        "Observational Astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul05-sjaa-loaner-scope-status",
+      "documentId": "ephjul05",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an updated status for its telescope loaner program, outlining which scopes are immediately available to members and how to borrow them. It also lists telescopes currently on loan with their due dates, scopes with extended loan periods, and members on a waiting list for popular instruments. Members can contact Mike Koop to arrange a loan.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Membership Information",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy club",
+        "equipment loan",
+        "Dobson",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "refractor",
+        "binoculars",
+        "waiting list",
+        "member services"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0507/EphJul05.pdf",
+      "txtPath": "0507/EphJul05.md"
+    }
+  ]
+}

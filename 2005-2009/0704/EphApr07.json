@@ -1,0 +1,261 @@
+{
+  "articles": [
+    {
+      "id": "ephapr07-sjaa-ephemeris",
+      "documentId": "ephapr07",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) activities calendar for late March, April, and May, including astronomy classes, star parties, mirror-making workshops, and general meetings. It also details recent leadership changes within the SJAA, announcing new officers and acknowledging the significant contributions of former president Mike Koop. Additionally, it provides links for more information on the annual auction and a planned Yosemite trip.",
+      "categories": [
+        "Events Calendar",
+        "Club Activities",
+        "Organizational News",
+        "Astronomy Education",
+        "Star Parties"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Astronomy classes",
+        "Star parties",
+        "Mirror-making workshop",
+        "SJAA Auction",
+        "General meetings",
+        "Houge Park",
+        "Leadership changes",
+        "Mike Koop",
+        "Rob Hawley",
+        "Dark sky weekend",
+        "Andromeda Galaxy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr07-deep-sky-observing",
+      "documentId": "ephapr07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep-sky observing list for April 2007, specifically for the period from the third quarter to the new moon. It features a selection of celestial objects, primarily galaxies and one globular cluster, with detailed information including their constellation, type, size, magnitude, right ascension, and declination. The list is designed to guide observers through objects at a comfortable elevation, moving from north to south, and includes observational notes for many targets.",
+      "categories": [
+        "Observing Report",
+        "Astronomy List",
+        "Deep Sky Observing Guide"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Galaxies",
+        "Globular Cluster",
+        "Observing List",
+        "April 2007",
+        "Ursa Major",
+        "Canes Venatici",
+        "Bootes",
+        "Coma Berenices",
+        "Messier objects",
+        "Arp objects",
+        "NGC objects"
+      ],
+      "pageStart": 2,
+      "pageEnd": 313
+    },
+    {
+      "id": "ephapr07-volunteer-astronomer-information-2007-2008",
+      "documentId": "ephapr07",
+      "title": "Volunteer Astronomer Information 2007-2008",
+      "summary": "Project ASTRO is recruiting volunteer amateur and professional astronomers in the Bay Area for the 2007-2008 school year. Volunteers will be paired with 3rd-9th grade teachers, attend a free two-day summer training workshop, and make at least four classroom visits to share their love of astronomy and help students learn science. Applications are due by May 4, with space limited to 30 partnerships.",
+      "categories": [
+        "Volunteer Opportunity",
+        "Education and Outreach",
+        "Program Announcement",
+        "Partnership Program"
+      ],
+      "keywords": [
+        "Project ASTRO",
+        "Volunteer astronomers",
+        "Bay Area",
+        "Science education",
+        "Classroom visits",
+        "Teacher partnerships",
+        "Astronomy activities",
+        "Training workshop",
+        "2007-2008 school year"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr07-beware-the-tides-of-march-well-april",
+      "documentId": "ephapr07",
+      "title": "Beware the Tides of March! (Well, April)",
+      "summary": "The article begins by highlighting celestial events for April, including Saturn's visibility, the variable brightness of Saturn's moon Iapetus, Venus's dazzling display, and a significant lunar occultation of Regulus. It then transitions to a detailed discussion of ocean tides, prompted by a note about \"large tides\" coinciding with the Moon's perigee and new moon. The author explains the complexities beyond basic tidal theory, detailing how factors like continents, ocean depth, and the Coriolis effect lead to the delayed peak of extreme tides, known as the \"age of the tide,\" for which a comprehensive modern theory remains elusive.",
+      "categories": [
+        "Astronomy",
+        "Observational Astronomy",
+        "Oceanography",
+        "Science Explanation"
+      ],
+      "keywords": [
+        "Saturn",
+        "Iapetus",
+        "Venus",
+        "Lunar occultation",
+        "Regulus",
+        "Moon perigee",
+        "Ocean tides",
+        "Tidal theory",
+        "Spring tides",
+        "Age of the tide",
+        "Planetary observation",
+        "April sky"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr07-nasa-space-place",
+      "documentId": "ephapr07",
+      "title": "NASA Space Place",
+      "summary": "This article discusses the development of solar sails for space propulsion, highlighting the challenge of creating a lightweight yet strong mast. It introduces NASA's SAILMAST program, which has developed a 40-meter, 1.4-kilogram carbon fiber truss designed for this purpose. The SAILMAST technology is scheduled for flight-testing on the Space Technology 8 (ST8) mission in February 2009 to validate its performance and deployment straightness in microgravity, advancing future space exploration and applications like solar sentinels.",
+      "categories": [
+        "Space Technology",
+        "Space Exploration",
+        "NASA Programs",
+        "Propulsion"
+      ],
+      "keywords": [
+        "Solar sails",
+        "SAILMAST",
+        "NASA",
+        "Space Technology 8 (ST8)",
+        "New Millennium Program",
+        "Space propulsion",
+        "Lightweight structures",
+        "Carbon fiber truss",
+        "Solar sentinels",
+        "Deep space exploration",
+        "Michael McEachen",
+        "ATK Space Systems"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr07-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephapr07",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "The article announces two upcoming astronomy lectures in April 2007. David Grinspoon will present on April 11, discussing climate catastrophes on other planets in the solar system and their implications for Earth's climate, as part of the Silicon Valley Astronomy Lecture Series. Karrie Gilbert will speak on April 28 about galactic archaeology, focusing on galaxy formation through studies of the Milky Way and Andromeda galaxies.",
+      "categories": [
+        "Events",
+        "News",
+        "Astronomy Lectures",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Planetary Science",
+        "Climate Change",
+        "Galaxy Formation",
+        "Milky Way",
+        "Andromeda Galaxy",
+        "David Grinspoon",
+        "Karrie Gilbert",
+        "Silicon Valley Astronomy Lecture Series",
+        "Solar System"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephapr07-the-last-28-days-in-astronomy",
+      "documentId": "ephapr07",
+      "title": "The Last 28 Days In Astronomy",
+      "summary": "This article summarizes astronomy news from February 10 to March 10, 2007, highlighting several key events. It covers the launch of the International Heliophysical Year, damage to Space Shuttle Atlantis, and the release of breathtaking new images of Saturn from the Cassini mission. Other notable events include a meteorite striking a house, direct proof of the YORP effect on asteroids, and a legislative resolution in New Mexico to reclassify Pluto as a planet.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Space Science",
+        "Astronomical Phenomena",
+        "Events"
+      ],
+      "keywords": [
+        "International Heliophysical Year",
+        "Space Shuttle Atlantis",
+        "Cassini",
+        "Saturn",
+        "Meteorite",
+        "YORP effect",
+        "Asteroids",
+        "Pluto",
+        "New Mexico"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr07-letters-to-the-editor",
+      "documentId": "ephapr07",
+      "title": "Letters to the Editor",
+      "summary": "This article features a 'Letter to the Editor' from The Space Place Team, expressing gratitude to their partners. They were delighted when their website, 'The Space Place,' along with 'StarChild,' was featured as a question on Jeopardy! Kids' Week, identifying NASA as the sponsoring organization. The team highlights the significant role of their partners in promoting space and Earth science education and fostering a mutually beneficial relationship.",
+      "categories": [
+        "Community Message",
+        "Education",
+        "Outreach",
+        "Partnership",
+        "News",
+        "Acknowledgement"
+      ],
+      "keywords": [
+        "Space Place",
+        "StarChild",
+        "NASA",
+        "Jeopardy!",
+        "Kids' Week",
+        "education",
+        "outreach",
+        "web site",
+        "space science",
+        "Earth science",
+        "partnership",
+        "impact"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephapr07-sjaa-loaner-scope-status",
+      "documentId": "ephapr07",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a loaner scope program for its members, detailing the availability of various telescopes, including Dobsonians, Schmidt-Cassegrains, and refractors. Members can contact Mike Koop to borrow available scopes or inquire about those currently on loan or with extended loan periods. The document lists the specific scopes, their descriptions, and current status.",
+      "categories": [
+        "Astronomy Club Information",
+        "Equipment Loan Program",
+        "Member Services",
+        "Resource Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomical equipment",
+        "Dobsonians",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Binoculars",
+        "members",
+        "borrowing",
+        "availability",
+        "loan program",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0704/EphApr07.pdf",
+      "txtPath": "0704/EphApr07.md"
+    }
+  ]
+}

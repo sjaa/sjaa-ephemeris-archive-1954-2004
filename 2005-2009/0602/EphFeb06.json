@@ -1,0 +1,221 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb06-starry-starry-night",
+      "documentId": "ephfeb06",
+      "title": "Starry, Starry Night",
+      "summary": "The article primarily describes Procyon, the brightest star in Canis Minor, detailing its etymology, physical properties as a double star (Procyon A and B), and its apparent brightness due to its relatively close distance of 11 light-years. It also mentions Procyon's surface temperature and its inclusion in the Winter Circle/Triangle asterisms, concluding with a brief note about a $500 donation from the Andrah Foundation to the SJAA for astronomy education.",
+      "categories": [
+        "Astronomy",
+        "Star Profile",
+        "Constellations",
+        "Stellar Characteristics",
+        "Organization News",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Procyon",
+        "Canis Minor",
+        "Double Star",
+        "White Dwarf",
+        "Stellar Magnitude",
+        "Winter Circle",
+        "Winter Triangle",
+        "SJAA",
+        "Andrah Foundation",
+        "Astronomy Education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb06-editor-s-dark-matter",
+      "documentId": "ephfeb06",
+      "title": "Editor's Dark Matter",
+      "summary": "This article, 'Editor's Dark Matter,' provides an overview of the SJAA Ephemeris publication, detailing its three formats (printed, PDF, HTML), article submission guidelines, and production process including fonts and layout software. It also clarifies policies for using NASA-credited photos and includes an announcement about the upcoming SJAA Board election, held annually at the February General Meeting, with a long-time member not seeking re-election.",
+      "categories": [
+        "Publication Details",
+        "Organizational News",
+        "Editorial Notes",
+        "Technical Information"
+      ],
+      "keywords": [
+        "SJAA Ephemeris",
+        "Publication process",
+        "Article submission",
+        "Adobe Acrobat",
+        "HTML",
+        "NASA photos",
+        "Board election",
+        "San Jose Astronomical Association",
+        "Newsletter"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb06-close-encounters-with-the-six-lazy-boys",
+      "documentId": "ephfeb06",
+      "title": "Close Encounters with the Six Lazy Boys",
+      "summary": "This article outlines celestial events for observers in February 2006, framed by the Cherokee legend of the Pleiades, referred to as the \"Six Lazy Boys.\" Key events include the Moon's occultation of Pleiades stars, Mars's close approach to the Pleiades, and Saturn's passage near the Beehive cluster (M44). It also details the best evening apparition of Mercury for the year and provides observing tips for Jupiter, Venus, and Mars's comparison with Aldebaran.",
+      "categories": [
+        "observing guide",
+        "celestial events",
+        "astronomy news",
+        "cultural astronomy"
+      ],
+      "keywords": [
+        "Pleiades",
+        "Moon",
+        "Mars",
+        "Saturn",
+        "Mercury",
+        "Beehive cluster",
+        "M44",
+        "Aldebaran",
+        "Jupiter",
+        "Venus",
+        "occultation",
+        "February 2006",
+        "star clusters",
+        "planets"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb06-nasa-s-rovers-continue-to-explore-and-amaze",
+      "documentId": "ephfeb06",
+      "title": "NASA's Rovers Continue to Explore and Amaze",
+      "summary": "NASA's Spirit and Opportunity Mars rovers have significantly surpassed their original mission length, completing a full Martian year of exploration. They continue to gather crucial geological evidence of ancient Martian environments, including periods of wet and potentially habitable conditions. Both rovers are actively exploring different terrains, with Spirit descending Husband Hill and Opportunity examining bedrock between Endurance and Victoria craters, uncovering insights into the planet's environmental history and even performing unexpected astronomical observations.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Astronomy",
+        "NASA Missions",
+        "Geology",
+        "News"
+      ],
+      "keywords": [
+        "NASA",
+        "Mars Rovers",
+        "Spirit Rover",
+        "Opportunity Rover",
+        "Mars",
+        "Martian geology",
+        "Husband Hill",
+        "Endurance Crater",
+        "Victoria Crater",
+        "JPL",
+        "Cornell University",
+        "Ancient Mars",
+        "Water on Mars",
+        "Habitable conditions",
+        "Solar cells",
+        "Astronomical observations",
+        "Halley's Comet"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb06-snowstorm-on-pluto",
+      "documentId": "ephfeb06",
+      "title": "Snowstorm on Pluto",
+      "summary": "Pluto experiences a unique 'snowstorm' where its entire nitrogen atmosphere freezes and falls to the surface as it recedes from the Sun during its 248-Earth-year winter. Scientists predict this atmospheric collapse could occur within the next 10-20 years, turning the atmosphere into a several-centimeter-deep layer of ice. The New Horizons spacecraft is racing to reach Pluto by 2015 to study its atmosphere and surface before this event potentially hides its features or removes the atmosphere entirely, though recent observations show the atmosphere is currently expanding.",
+      "categories": [
+        "Planetary Science",
+        "Space Exploration",
+        "Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Pluto",
+        "Atmosphere Collapse",
+        "Snowstorm",
+        "New Horizons Mission",
+        "Alan Stern",
+        "Nitrogen Atmosphere",
+        "Stellar Occultation",
+        "Planetary Winter",
+        "Spacecraft"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb06-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephfeb06",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "The article announces a free public lecture by Dr. Scott Sandford from NASA Ames on Project Stardust, the comet-studying spacecraft, taking place on March 1, 2006, as part of the Silicon Valley Astronomy Lecture Series. Additionally, it provides detailed Solar System statistics for February 2006, including Right Ascension, Declination, Distance, Magnitude, and Apparent Size for various planets and the Sun. This data is adapted from the Observer's Handbook by The Royal Astronomical Society of Canada.",
+      "categories": [
+        "events",
+        "lectures",
+        "astronomical data",
+        "observing information",
+        "news"
+      ],
+      "keywords": [
+        "Silicon Valley Astronomy Lecture Series",
+        "Scott Sandford",
+        "NASA Ames Research Center",
+        "Project Stardust",
+        "comets",
+        "meteorites",
+        "Foothill College",
+        "SETI Institute",
+        "Astronomical Society of Pacific",
+        "Solar System",
+        "ephemeris",
+        "February 2006",
+        "Right Ascension",
+        "Declination",
+        "Astronomical Units",
+        "Magnitude",
+        "Apparent Size",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Sun"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephfeb06-sjaa-loaner-scope-status",
+      "documentId": "ephfeb06",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) operates a telescope loaner program, providing its members with access to a variety of astronomical equipment. The article details scopes immediately available for loan, those currently borrowed with due dates, and scopes with extended loan periods. Members interested in borrowing can contact Mike Koop to arrange pick-up or be placed on a waiting list.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan",
+        "Member Information",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Astronomy Equipment",
+        "Dobsonians",
+        "Refractors",
+        "Schmidt-Cassegrain",
+        "Observing Equipment"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0602/EphFeb06.pdf",
+      "txtPath": "0602/EphFeb06.md"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "articles": [
+    {
+      "id": "ephdec07-sjaa-ephemeris",
+      "documentId": "ephdec07",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) activities calendar from late November through January, including astronomy classes, star parties, and general meetings. It highlights the December general meeting featuring Dr. Lee Hoglan discussing night myopia, and announces openings for new board members, with elections scheduled for February 2008. The board aims to revitalize the club's loaner telescope program and ensure ongoing club operations for its 270+ members.",
+      "categories": [
+        "Events Calendar",
+        "General Meeting Details",
+        "Organizational Announcements",
+        "Club News",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Class",
+        "Star Party",
+        "Dark Sky Weekend",
+        "General Meeting",
+        "Houge Park",
+        "Henry Coe Park",
+        "Night Myopia",
+        "Dr. Lee Hoglan",
+        "Dr. Jeff Moore",
+        "Pluto Express",
+        "Board Members",
+        "Elections",
+        "Loaner Program",
+        "San Jose Astronomical Association",
+        "December 2007",
+        "January 2008"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephdec07-deep-sky-observing",
+      "documentId": "ephdec07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document, titled \"DEEP SKY OBSERVING\" by Mark Wagner, presents a curated list of celestial objects for deep-sky observation during the December 2007 third quarter to new moon period. The list, which begins in the north and moves southward within a specific right ascension window, includes open clusters and galaxies with detailed information such as constellation, type, size, magnitude, coordinates, and specific observing notes often mentioning the telescope aperture used. It serves as a sampling of a larger online list and references various astronomical catalogs.",
+      "categories": [
+        "Observing List",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Reference Data",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "December 2007",
+        "NGC",
+        "Messier",
+        "Arp",
+        "Open Cluster",
+        "Galaxy",
+        "Constellations",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Telescope Observations",
+        "Binocular Objects",
+        "Astronomy List"
+      ],
+      "pageStart": 2,
+      "pageEnd": 77
+    },
+    {
+      "id": "ephdec07-mars-under-the-tree",
+      "documentId": "ephdec07",
+      "title": "Mars Under the Tree",
+      "summary": "The article details celestial events for December 2007, primarily focusing on Mars' opposition on Christmas Eve, noting its high elevation and the unique opportunity to observe both polar caps due to an equator-on view. It also discusses other observing highlights, including a close Mars-Moon encounter, the expected brightening of Comet 8P/Tuttle near M31 and M33, and practical advice for amateur astronomers regarding equipment for planetary viewing.",
+      "categories": [
+        "Skywatching Guide",
+        "Observing Tips",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Mars opposition",
+        "Comet 8P/Tuttle",
+        "Comet 17/P Holmes",
+        "Mars polar caps",
+        "Mars-Moon conjunction",
+        "Astronomical filters",
+        "Telescopes",
+        "Planetary observation",
+        "Naked-eye astronomy",
+        "December 2007"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec07-why-is-the-sky-dark-and-quiet",
+      "documentId": "ephdec07",
+      "title": "Why is the Sky Dark ... and Quiet?",
+      "summary": "This article explores the Fermi Paradox, which questions why we haven't encountered extraterrestrial intelligence given the vastness and age of the galaxy. It draws parallels to Olbers' Paradox (why the night sky is dark), suggesting that just as the finite age and size of the observable universe explain the dark sky, the lack of alien visitation might be due to the time required for signals or colonization to reach us, challenging assumptions about infinite expansion and reach.",
+      "categories": [
+        "Astrobiology",
+        "Cosmology",
+        "Scientific Paradoxes",
+        "SETI",
+        "Philosophy of Science"
+      ],
+      "keywords": [
+        "Fermi Paradox",
+        "Olbers' Paradox",
+        "Extraterrestrial Intelligence",
+        "Drake Equation",
+        "SETI",
+        "Exoplanets",
+        "Universe expansion",
+        "Finite age of universe",
+        "Enrico Fermi",
+        "Frank Drake",
+        "Colonization",
+        "Rare Earth hypothesis"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec07-going-my-way",
+      "documentId": "ephdec07",
+      "title": "Going My Way?",
+      "summary": "NASA's New Millennium Program (NMP) is tasked with identifying, maturing, and validating promising new technologies for future space exploration. A crucial aspect, managed by NMP Architect Linda Herrell, involves strategically planning how to transport these technologies into space, often by creatively leveraging shared launch opportunities to meet low-cost validation project constraints. This early-stage transportation planning is a foundational element in future mission design.",
+      "categories": [
+        "News",
+        "Space Technology",
+        "Mission Planning",
+        "Space Transportation",
+        "NASA Programs",
+        "Space Weather",
+        "Educational Outreach"
+      ],
+      "keywords": [
+        "NASA",
+        "New Millennium Program (NMP)",
+        "Space technology",
+        "Technology validation",
+        "Mission planning",
+        "Space transportation",
+        "Launch vehicles",
+        "Payloads",
+        "Low-cost space missions",
+        "Linda Herrell",
+        "Space weather",
+        "Solar activity"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec07-the-last-31-days-in-astronomy",
+      "documentId": "ephdec07",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This article summarizes significant astronomy news from October 11 to November 11, 2007, including the planned construction of the Giant Magellan Telescope, observations of Comet Holmes, new findings suggesting water ice at Mars' equator, the discovery of a fifth planet orbiting 55 Cancri, and the STS-120 shuttle mission. It also features a detailed profile of the star Mirfak, noting its proximity to Comet Holmes and providing observational guidance.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Space Exploration",
+        "Telescopes",
+        "Planetary Science",
+        "Exoplanets",
+        "Stellar Astronomy",
+        "Observational Guides"
+      ],
+      "keywords": [
+        "Giant Magellan Telescope",
+        "GMT",
+        "Chile",
+        "Comet Holmes",
+        "Mars Express",
+        "Medusae Fossae Formation",
+        "Water Ice",
+        "55 Cancri",
+        "Exoplanet",
+        "STS-120",
+        "Space Shuttle Discovery",
+        "Rosetta Spacecraft",
+        "Artificial Asteroid",
+        "Mirfak",
+        "Perseus",
+        "Algol",
+        "Star Cluster"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec07-loaner-program-up-and-running",
+      "documentId": "ephdec07",
+      "title": "Loaner Program Up and Running",
+      "summary": "The San Jose Astronomical Association's (SJAA) telescope loaner program is fully operational, making available a variety of telescopes for members. The club is actively investing in the program by repairing existing scopes, acquiring new ones through donations and purchases, and rebuilding others to ensure a suitable inventory. Members with outstanding loans are encouraged to keep their contact information updated to facilitate scope exchanges.",
+      "categories": [
+        "Club Program Update",
+        "Equipment Availability",
+        "Membership Information",
+        "Organizational News",
+        "Newsletter"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy Equipment",
+        "Available Scopes",
+        "Club Activities",
+        "Loan Program",
+        "Ephemeris"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0712/EphDec07.pdf",
+      "txtPath": "0712/EphDec07.md"
+    }
+  ]
+}

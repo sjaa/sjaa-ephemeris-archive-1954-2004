@@ -1,0 +1,182 @@
+{
+  "articles": [
+    {
+      "id": "ephaug06-chabot-observatories-exhibit-opens-august-5-2006",
+      "documentId": "ephaug06",
+      "title": "Chabot Observatories Exhibit – Opens August 5, 2006",
+      "summary": "Chabot Observatories launched a new exhibit on August 5, 2006, delving into the history and ongoing use of its iconic telescopes, including the 1883 'Leah' and 1915 'Rachel'. The interactive exhibit allows visitors to virtually operate telescopes, experiment with optics, and explore over a century of the observatory's history through multimedia and artifact displays.",
+      "categories": [
+        "News",
+        "Events",
+        "History",
+        "Astronomy Education",
+        "Observatories"
+      ],
+      "keywords": [
+        "Chabot Observatories",
+        "Exhibit",
+        "Telescopes",
+        "Astronomy History",
+        "Optics",
+        "Oakland",
+        "Rachel telescope",
+        "Leah telescope",
+        "Nellie telescope",
+        "Multimedia displays"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephaug06-chabot-and-the-amateur-community",
+      "documentId": "ephaug06",
+      "title": "Chabot and the Amateur Community",
+      "summary": "The Chabot Space & Science Center offers extensive free astronomy services to the public and amateur community, including year-round observing with large telescopes and volunteer-led programs. Amateur astronomers play a crucial role as operators, maintainers, and participants in research projects like exoplanet tracking and astrophotography, often through partnerships with the Eastbay Astronomical Society. Chabot also fosters astronomy education through youth programs, teacher workshops, a telescope makers workshop, and its planetarium, maintaining its long-standing commitment as a public observatory through active amateur involvement.",
+      "categories": [
+        "Public Outreach",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Educational Programs",
+        "Community Engagement",
+        "Volunteer Programs"
+      ],
+      "keywords": [
+        "Chabot Space & Science Center",
+        "Amateur astronomers",
+        "Public observing",
+        "Telescopes",
+        "Volunteers",
+        "Eastbay Astronomical Society (EAS)",
+        "Exoplanet research",
+        "Astrophotography",
+        "Youth programs",
+        "Planetarium",
+        "Telescope makers workshop",
+        "Astronomy education",
+        "Oakland"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephaug06-the-shallow-sky",
+      "documentId": "ephaug06",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an observing guide for August, detailing planetary visibility and events such as Jupiter's shadow transits and optimal viewing of outer planets like Neptune and Uranus, while also debunking the recurring \"Mars will be bigger than the Moon\" hoax. Additionally, it addresses confusing Sky & Telescope magazine subscription renewal notices, assuring members about their validity and outlining proper renewal procedures.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Astronomy",
+        "Public Outreach",
+        "Club News",
+        "Membership Services"
+      ],
+      "keywords": [
+        "Planetary Observing",
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Mars Hoax",
+        "Sky & Telescope",
+        "Subscriptions",
+        "SJAA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug06-from-thunderstorms-to-solar-storms",
+      "documentId": "ephaug06",
+      "title": "From Thunderstorms to Solar Storms...",
+      "summary": "NASA and NOAA launched GOES-N, a new generation geostationary weather satellite, to significantly improve the accuracy of storm pinpointing and space weather monitoring. Equipped with advanced features like star trackers, an optical bench, and a sharper Solar X-ray Imager (SXI) with automatic flare identification, GOES-N will provide 2 to 4 times greater accuracy for atmospheric storms and enable earlier warnings for solar flares and geomagnetic storms. This satellite aims to enhance continuous weather surveillance for both terrestrial and space-based phenomena.",
+      "categories": [
+        "Satellite Technology",
+        "Weather Forecasting",
+        "Space Weather",
+        "Aerospace News",
+        "Scientific Instruments"
+      ],
+      "keywords": [
+        "GOES-N",
+        "Weather Satellites",
+        "Solar Storms",
+        "Thunderstorms",
+        "NASA",
+        "NOAA",
+        "Geostationary Operational Environmental Satellites",
+        "Space Weather Monitoring",
+        "Solar X-ray Imager (SXI)",
+        "Geomagnetic Storms",
+        "Satellite Launch",
+        "Storm Tracking"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephaug06-an-invitation-to-sjaa-members",
+      "documentId": "ephaug06",
+      "title": "An Invitation to SJAA Members",
+      "summary": "The Fremont Peak Observatory Association (FPOA) is hosting its 20th-anniversary \"Star-B-Que\" on August 26, 2006, at Fremont Peak State Park, inviting all SJAA members to attend. The event will feature catered food, a potluck, a raffle, and a guest speaker, requiring reservations. The document also includes detailed solar system ephemeris for August 2006, listing celestial object positions and properties.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Observing Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "FPOA",
+        "SJAA",
+        "Anniversary",
+        "Star-B-Que",
+        "Fremont Peak Observatory",
+        "Fremont Peak State Park",
+        "Astronomy event",
+        "August 2006",
+        "Solar System",
+        "Planets",
+        "Astronomical data",
+        "RA",
+        "Dec",
+        "Magnitude",
+        "Distance"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug06-sjaa-loaner-scope-status",
+      "documentId": "ephaug06",
+      "title": "SJAA loaner scope status",
+      "summary": "This article outlines the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program for its members. It provides a detailed list of telescopes immediately available for loan, scopes currently out with their borrowers and due dates, and those with extended loan periods. SJAA members interested in borrowing a scope are instructed to contact Mike Koop, with a waiting list in place for currently unavailable equipment.",
+      "categories": [
+        "Club Services",
+        "Equipment Status",
+        "Member Information",
+        "Program Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope Program",
+        "Telescopes",
+        "Astronomy Equipment",
+        "Membership Benefits",
+        "Availability",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Spectroscope"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0608/EphAug06.pdf",
+      "txtPath": "0608/EphAug06.md"
+    }
+  ]
+}

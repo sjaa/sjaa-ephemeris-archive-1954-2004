@@ -1,0 +1,151 @@
+{
+  "articles": [
+    {
+      "id": "ephjan05-sjaa-ephemeris",
+      "documentId": "ephjan05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This issue of the SJAA Ephemeris highlights the release of the revised Rükl \"Atlas Of The Moon\" and offers an in-depth explanation of lunar observation terms, specifically \"selenographic colongitude,\" from the RASC Observer's Handbook. Additionally, it provides a detailed activities calendar for the San Jose Astronomical Association for January and February 2005, listing star parties, astronomy and ATM classes, and general meetings.",
+      "categories": [
+        "Club Publication",
+        "Lunar Observation",
+        "Astronomical Education",
+        "Events Calendar",
+        "Technical Guide",
+        "Book Review"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar Observation",
+        "Rükl Atlas Of The Moon",
+        "Selenographic Colongitude",
+        "Observer's Handbook",
+        "SJAA",
+        "Star Parties",
+        "Astronomy Classes",
+        "Cassini-Huygens Mission",
+        "January Events",
+        "February Events",
+        "Ephemeris"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjan05-deep-impact",
+      "documentId": "ephjan05",
+      "title": "Deep Impact",
+      "summary": "This article details upcoming astronomical events for January 2005, including significant lunar librations and a perigee-new moon event affecting tides. It also outlines the \"Deep Impact\" mission, set to launch January 12th and collide with Comet Tempel 1 on July 4th to study its nucleus without altering its orbit, as part of NASA's Discovery program. Additionally, it provides directions to Houge Park, likely for a local astronomy event.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Lunar Observing",
+        "Local Event Information"
+      ],
+      "keywords": [
+        "Deep Impact mission",
+        "Comet Tempel 1",
+        "Lunar librations",
+        "Astronomical events",
+        "Space probe",
+        "NASA",
+        "Moon observation",
+        "Perigee"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjan05-splashdown",
+      "documentId": "ephjan05",
+      "title": "Splashdown!",
+      "summary": "The article \"Splashdown!\" announces the Huygens probe's imminent descent onto Titan in January 2005, detailing its separation from the Cassini orbiter, atmospheric entry, and anticipated 2.5-hour drift to the surface to relay findings. It also serves as an observing guide for January, highlighting Saturn's excellent visibility and providing details on Jupiter, Mars, Mercury, Venus, Uranus, Pluto, and Neptune, including a close pass of Mercury and Venus.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Observing Guide",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "Huygens probe",
+        "Titan",
+        "Cassini mission",
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Uranus",
+        "Planetary observing",
+        "Space exploration",
+        "January 2005"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan05-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephjan05",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "The Silicon Valley Astronomy Lecture Series announced a talk on January 26, 2005, by NASA Ames astronomer Jeff Cuzzi, who will discuss the Cassini mission's early findings at Saturn, focusing on its rings and the Huygens probe's exploration of Titan. This non-technical, illustrated lecture is free and open to the public. The document also provides detailed solar system statistics, including right ascension, declination, distance, magnitude, and apparent size for major planets and the Sun for January 2005.",
+      "categories": [
+        "Events",
+        "Astronomy News",
+        "Lectures",
+        "Observing Reports",
+        "Public Education"
+      ],
+      "keywords": [
+        "Silicon Valley Astronomy Lecture Series",
+        "Jeff Cuzzi",
+        "Cassini mission",
+        "Saturn",
+        "Huygens probe",
+        "Titan",
+        "Planetary rings",
+        "NASA Ames Research Center",
+        "Foothill College",
+        "Astronomy lecture",
+        "Solar System Stats",
+        "Ephemeris",
+        "January 2005",
+        "Space exploration"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan05-sjaa-loaner-scope-status",
+      "documentId": "ephjan05",
+      "title": "SJAA loaner scope status",
+      "summary": "This article outlines the status of the San Jose Astronomical Association (SJAA) loaner scope program, providing a detailed list of available telescopes and astronomical equipment. It categorizes scopes by immediate availability, those currently on loan with due dates, and those with extended loan periods or waiting lists. SJAA members are directed to contact Mike Koop to arrange equipment loans.",
+      "categories": [
+        "Club News",
+        "Equipment Loan",
+        "Member Services"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Program",
+        "Telescopes",
+        "Astronomical Equipment",
+        "Membership",
+        "Availability",
+        "Dobsonian",
+        "Refractor",
+        "Schmidt-Cassegrain",
+        "Spectroscope"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0501/EphJan05.pdf",
+      "txtPath": "0501/EphJan05.md"
+    }
+  ]
+}

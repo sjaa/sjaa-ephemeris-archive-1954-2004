@@ -1,0 +1,214 @@
+{
+  "articles": [
+    {
+      "id": "ephjan06-planets-for-poets",
+      "documentId": "ephjan06",
+      "title": "PLANETS FOR POETS",
+      "summary": "Foothill College is offering \"Planets for Poets,\" an introductory Astronomy 10A course for the winter quarter of January through March 2006. Taught by Andrew Fraknoi, the course requires no prior science or math background and covers a range of engaging topics from new planetary discoveries to cosmic threats and the search for extraterrestrial life. Registration begins December 12th for both day and evening sessions.",
+      "categories": [
+        "education",
+        "course offering",
+        "local event",
+        "astronomy program"
+      ],
+      "keywords": [
+        "Foothill College",
+        "Astronomy 10A",
+        "Planets for Poets",
+        "Andrew Fraknoi",
+        "winter quarter 2006",
+        "planetary science",
+        "solar system",
+        "exoplanets",
+        "Mars",
+        "Pluto",
+        "Saturn's rings",
+        "life in the universe"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan06-dobson-workshop-at-jan-feb-astronomy-class",
+      "documentId": "ephjan06",
+      "title": "Dobson Workshop at Jan/Feb Astronomy Class",
+      "summary": "Rob Hawley will lead a two-part workshop in January and February, focusing on Dobsonian/Newtonian telescopes. The first session on January 20 will cover setup issues, collimation techniques, tools, hands-on practice, and scope maintenance, including cleaning optics and dealing with dew. The second session on February 17 will focus on using the scope, discussing filters, star charts (paper and PC), planning observing sessions, object catalogs, finding objects, and keeping records.",
+      "categories": [
+        "events",
+        "education",
+        "technical",
+        "workshop"
+      ],
+      "keywords": [
+        "Dobsonian telescope",
+        "Newtonian telescope",
+        "collimation",
+        "telescope maintenance",
+        "astronomy class",
+        "filters",
+        "star charts",
+        "observing planning",
+        "telescope setup",
+        "polar alignment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjan06-the-shallow-sky",
+      "documentId": "ephjan06",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an astronomical guide for January, detailing optimal observing conditions for planets such as Mars and Saturn, the latter reaching opposition with a noticeable ring tilt. It also covers the return of the Stardust spacecraft carrying comet dust, and celestial events like the gibbous moon passing through the Pleiades. Furthermore, it explains Earth's perihelion occurring in winter and clarifies that seasons are caused by axial tilt, not distance from the sun.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Astronomy News",
+        "Educational"
+      ],
+      "keywords": [
+        "Mars",
+        "Saturn",
+        "Venus",
+        "Mercury",
+        "Jupiter",
+        "Moon",
+        "Pleiades",
+        "Stardust spacecraft",
+        "Comet Wild 2",
+        "Opposition",
+        "Conjunction",
+        "Perihelion",
+        "Seasons",
+        "Earth's axial tilt",
+        "January observing"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan06-observe-the-stardust-re-entry",
+      "documentId": "ephjan06",
+      "title": "Observe the Stardust Re-entry",
+      "summary": "The Stardust spacecraft is scheduled for re-entry on January 15, 2006, at 1:56 PST, returning pristine samples of comet Wild 2 and interstellar dust to land in Utah. This event will be the fastest spacecraft re-entry ever, creating a visible 'scheduled meteor' across the western United States, with a predicted peak magnitude of -7. NASA will be studying the re-entry from a DC-8, and amateur astronomers are encouraged to observe and submit photographic or video data, with specific viewing guidance provided for locations in Nevada and Utah.",
+      "categories": [
+        "Astronomy Events",
+        "Space Missions",
+        "Observing Guide",
+        "Citizen Science",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Stardust spacecraft",
+        "re-entry",
+        "comet Wild 2",
+        "interstellar dust",
+        "January 15, 2006",
+        "Utah Test and Training Range",
+        "observing guide",
+        "amateur astronomy",
+        "NASA",
+        "spectroscopy",
+        "meteor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan06-michael-detweiler-1942-2005",
+      "documentId": "ephjan06",
+      "title": "Michael Detweiler, 1942 - 2005",
+      "summary": "Michael Burnside Detweiler, a distinguished chemist and physicist, passed away on December 3, 2005, at the age of 63, after a long battle with prostate cancer. Throughout his career, he made significant contributions, including developing an improved hemoccult test for early colon cancer and working on rocket propellants, while also passionately tutoring students in science. A lifelong astronomy enthusiast and member of the San Jose Astronomical Association, he also found joy as a skilled pianist.",
+      "categories": [
+        "Obituary",
+        "Biography",
+        "Science and Technology",
+        "Astronomy Community",
+        "Education"
+      ],
+      "keywords": [
+        "Michael Detweiler",
+        "Obituary",
+        "Prostate cancer",
+        "Chemist",
+        "Physicist",
+        "Hemoccult test",
+        "Colon cancer",
+        "Rocket propellants",
+        "Science tutor",
+        "Astronomy",
+        "San Jose Astronomical Association",
+        "Ricard Observatory",
+        "Pianist",
+        "Santa Clara University"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan06-a-new-view-of-the-andromeda-galaxy",
+      "documentId": "ephjan06",
+      "title": "A New View of the Andromeda Galaxy",
+      "summary": "The article discusses a new perspective on the Andromeda Galaxy, revealed by NASA's GALEX ultraviolet telescope. While typically seen as a spiral, GALEX's UV imaging, which highlights newborn stars, shows Andromeda as a vast ring of star formation around a concentrated core. This new view helps astronomers understand galaxy evolution by studying star birth patterns in Andromeda and numerous other galaxies, both nearby and billions of light-years away.",
+      "categories": [
+        "Astronomy",
+        "Space Telescopes",
+        "Scientific Discovery",
+        "Galaxy Evolution",
+        "Observational Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Andromeda Galaxy",
+        "GALEX",
+        "Ultraviolet Light",
+        "Star Formation",
+        "Galaxy Evolution Explorer",
+        "NASA",
+        "Milky Way",
+        "Spiral Galaxy",
+        "Ring Galaxy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan06-sjaa-loaner-scope-status",
+      "documentId": "ephjan06",
+      "title": "SJAA loaner scope status",
+      "summary": "This article outlines the status of the San Jose Astronomical Association (SJAA) loaner telescope program, detailing which telescopes are available for immediate loan to members and providing contact information for borrowing. It also lists scopes that are currently loaned out or on extended loan, including their borrowers and due dates. The program offers a wide variety of telescopes, from small refractors to large Dobsons, as a benefit for SJAA members.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Clubs",
+        "Member Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy club",
+        "San Jose Astronomical Association",
+        "Dobson",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "refractor",
+        "spectroscope",
+        "binoculars",
+        "borrowing equipment",
+        "membership benefits",
+        "scope status"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan06",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 6",
+      "issueDate": null,
+      "pdfPath": "0601/EphJan06.pdf",
+      "txtPath": "0601/EphJan06.md"
+    }
+  ]
+}

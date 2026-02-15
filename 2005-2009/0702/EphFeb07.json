@@ -1,0 +1,209 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb07-deep-sky-observing",
+      "documentId": "ephfeb07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep sky observing list compiled by Mark Wagner for the February 2007 third quarter to new moon period. It features a selection of primary (easy) and secondary (more difficult) celestial targets, organized from north to south and within a comfortable right ascension range for viewing. The list includes galaxies, globular clusters, planetary nebulae, and open clusters, with brief descriptions for each.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Resource List"
+      ],
+      "keywords": [
+        "deep sky observing",
+        "observing list",
+        "February 2007",
+        "galaxies",
+        "globular clusters",
+        "planetary nebulae",
+        "open clusters",
+        "star hopping",
+        "NGC",
+        "M objects",
+        "Arp galaxies",
+        "astronomical dark",
+        "OIII filter"
+      ],
+      "pageStart": 1,
+      "pageEnd": 336
+    },
+    {
+      "id": "ephfeb07-about-this-dwarf-planet-pluto",
+      "documentId": "ephfeb07",
+      "title": "About this dwarf planet Pluto",
+      "summary": "This article discusses the reclassification of Pluto as a dwarf planet, offering an alternative perspective to public 'hand-wringing' by highlighting Pluto's small size and low density compared to other planets. It draws parallels with historical reclassifications, such as Ceres from planet to asteroid and Earth's demotion from the center of the universe, to emphasize that scientific understanding evolves. The author details the International Astronomical Union's (IAU) three criteria for defining a planet, specifically addressing common misconceptions about the 'clears its orbit' rule.",
+      "categories": [
+        "Planetary Science",
+        "Scientific Classification",
+        "Astronomy History",
+        "Opinion/Analysis"
+      ],
+      "keywords": [
+        "Pluto",
+        "Dwarf Planet",
+        "Planet Definition",
+        "IAU",
+        "Ceres",
+        "Planetary Classification",
+        "Orbital Dynamics",
+        "Hydrostatic Equilibrium"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb07-the-last-31-days-in-astronomy",
+      "documentId": "ephfeb07",
+      "title": "The Last 31 Days In Astronomy",
+      "summary": "This article compiles significant astronomical news from December 2006 to January 2007, detailing discoveries such as early universe objects by Spitzer, liquid lakes on Titan, and a 3D dark matter map by Hubble, alongside updates on the STS-116 mission and Mars rovers. It also provides an in-depth explanation of Pluto's reclassification as a dwarf planet, outlining the new criteria and a broader planetary categorization system that includes Earth as a \"rocky dwarf.\"",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Planetary Science",
+        "Cosmology"
+      ],
+      "keywords": [
+        "Pluto Reclassification",
+        "Dwarf Planet",
+        "Astronomy News",
+        "Spitzer Space Telescope",
+        "Hubble Space Telescope",
+        "Dark Matter",
+        "Titan",
+        "Mars Rovers",
+        "Early Universe",
+        "Quasars"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb07-nasa-space-place",
+      "documentId": "ephfeb07",
+      "title": "NASA Space Place",
+      "summary": "The article highlights the growing trend of polar flights between the US and Asia, driven by efficiency, and the associated risks posed by space weather. Solar storms can cause issues like radio blackouts, navigation errors, and radiation exposure for flight crews on these routes. To mitigate these risks, NOAA and NASA are deploying advanced GOES satellites, including the upcoming GOES-R, to enhance space weather forecasting and ensure safer air travel.",
+      "categories": [
+        "Space Weather",
+        "Aviation",
+        "Satellite Technology",
+        "Solar Science",
+        "Public Safety",
+        "News"
+      ],
+      "keywords": [
+        "Space weather",
+        "Polar flights",
+        "Solar storms",
+        "Radiation",
+        "GOES satellites",
+        "NOAA",
+        "NASA",
+        "Aviation safety",
+        "Air travel",
+        "GOES-R",
+        "Space Weather Prediction Center",
+        "Solar flares",
+        "Coronal holes",
+        "X-ray telescopes"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb07-solar-system-stats-for-february-2007",
+      "documentId": "ephfeb07",
+      "title": "Solar System Stats for February 2007",
+      "summary": "This article provides detailed astronomical data for solar system objects (planets and Sun) for February 2007, including their Right Ascension, Declination, distance, magnitude, and apparent size, adapted from reputable astronomical handbooks. It also offers a guide for amateur astronomers on the visibility and observational challenges for planets during the month, highlighting Saturn as the main attraction and noting the New Horizons spacecraft's close encounter with Jupiter at month's end.",
+      "categories": [
+        "astronomy",
+        "observing reports",
+        "planetary data",
+        "celestial mechanics",
+        "space exploration",
+        "ephemeris"
+      ],
+      "keywords": [
+        "February 2007",
+        "Solar System",
+        "planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Sun",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "distance",
+        "apparent size",
+        "opposition",
+        "New Horizons",
+        "spacecraft",
+        "gravity assist"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephfeb07-sjaa-donations-are-tax-deductible",
+      "documentId": "ephfeb07",
+      "title": "SJAA Donations are Tax-Deductible",
+      "summary": "This article reminds members that donations to SJAA, a 501(c)(3) charity, are tax-deductible, including annual dues. It also highlights an upcoming auction in April where items donated for sale are deductible at their full fair market value, offering members an opportunity to convert items into tax deductions. Members are advised to consult their tax advisor for specifics.",
+      "categories": [
+        "Club Announcement",
+        "Financial Information",
+        "Tax Information",
+        "Fundraising"
+      ],
+      "keywords": [
+        "SJAA",
+        "donations",
+        "tax-deductible",
+        "501(c)(3)",
+        "annual dues",
+        "auction",
+        "fair market value",
+        "tax season"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb07-sjaa-loaner-scope-status",
+      "documentId": "ephfeb07",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) operates a loaner scope program, making over 20 telescopes available to its members, managed by Mike Koop. This article details the current status of these scopes, categorizing them as available, recently loaned out, or on extended loan, complete with borrower information, due dates, and instructions for borrowing or joining a waiting list.",
+      "categories": [
+        "Club Program",
+        "Equipment Management",
+        "Member Services"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy equipment",
+        "member benefits",
+        "scope status",
+        "borrowing program"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0702/EphFeb07.pdf",
+      "txtPath": "0702/EphFeb07.md"
+    }
+  ]
+}

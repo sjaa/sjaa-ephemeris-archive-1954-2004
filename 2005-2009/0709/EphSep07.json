@@ -1,0 +1,188 @@
+{
+  "articles": [
+    {
+      "id": "ephsep07-deep-sky-observing",
+      "documentId": "ephsep07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This article provides a sample deep-sky observing list for September 2007, tailored for viewing during astronomical dark. It features various celestial objects including open clusters, planetary nebulae, and galaxies, complete with their coordinates, magnitudes, and helpful observational notes. The list, a portion of a larger online resource, aims to guide amateur astronomers in their deep-sky explorations.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Astronomy",
+        "Amateur Astronomy",
+        "Celestial Object Lists"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Observing List",
+        "September 2007",
+        "Open Cluster",
+        "Planetary Nebula",
+        "Galaxy",
+        "Galaxy Cluster",
+        "NGC objects",
+        "Messier objects",
+        "Cepheus",
+        "Lacerta",
+        "Cygnus",
+        "Pegasus",
+        "Auriga",
+        "Astronomical Dark",
+        "Telescope Filters",
+        "Magnitude"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep07-the-shallow-sky",
+      "documentId": "ephsep07",
+      "title": "The Shallow Sky",
+      "summary": "The article discusses the recent launch of NASA's Phoenix probe to Mars, which will search for organic molecules and study Martian composition upon its arrival in late May of next year. It also provides an observing guide for September, highlighting the visibility of Jupiter, the opposition of Uranus, and tips for finding Mercury, Venus, Neptune, and Saturn, including a close pass of Saturn with Regulus. Additionally, it mentions the zodiacal light and offers advice for optimal viewing conditions.",
+      "categories": [
+        "Space Exploration",
+        "Observing Reports",
+        "Celestial Events",
+        "Planetary Science",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Phoenix probe",
+        "Mars",
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Mercury",
+        "Venus",
+        "Saturn",
+        "Regulus",
+        "Zodiacal light",
+        "Opposition",
+        "Launch",
+        "Observing guide"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep07-omit-needless-bytes",
+      "documentId": "ephsep07",
+      "title": "Omit Needless Bytes!",
+      "summary": "The growing number of active space missions is overtaxing NASA's Deep Space Network, prompting a need for more efficient communication. To address this, the New Millennium Program developed Beacon Monitor technology, which simplifies spacecraft health reporting by transmitting basic diagnoses as one of four simple radio tones. This system, tested on Deep Space 1 and now used by the New Horizons mission, significantly reduces the network's time and bandwidth demands.",
+      "categories": [
+        "Space Technology",
+        "Space Communication",
+        "NASA Programs",
+        "Deep Space Exploration"
+      ],
+      "keywords": [
+        "Deep Space Network",
+        "Beacon Monitor",
+        "New Millennium Program (NMP)",
+        "Space communication",
+        "NASA",
+        "Deep Space 1",
+        "New Horizons",
+        "Bandwidth efficiency",
+        "Space probes",
+        "JPL"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep07-calstar-s-new-approach",
+      "documentId": "ephsep07",
+      "title": "CalStar's New Approach",
+      "summary": "The Fall CalStar Star Party, scheduled for October 11-13 at Lake San Antonio, is introducing a new site layout in collaboration with GSSP to enhance the participant experience. Key changes include a dedicated Late Arrival/Early Departure area and improved signage for Dark Enforced and Casual camping zones, all designed to better manage traffic and preserve night vision. While established rules like vehicle movement restrictions after 8 PM remain, attendees are encouraged to register starting September 1st.",
+      "categories": [
+        "Event Announcement",
+        "Event Logistics",
+        "Observing Guidelines"
+      ],
+      "keywords": [
+        "CalStar",
+        "Star Party",
+        "SJAA",
+        "GSSP",
+        "Lake San Antonio",
+        "Site Layout",
+        "Dark Sky Etiquette",
+        "Night Vision",
+        "Registration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep07-community-updates-and-news",
+      "documentId": "ephsep07",
+      "title": "Community Updates and News",
+      "summary": "This document compiles astronomy news from July 8 to August 8, 2007, detailing discoveries such as life-necessary compounds from VY Canis Majoris and potential planets in a four-star system, alongside updates on Mars rovers, the Cassini mission, and the Mars Phoenix launch. It also includes an announcement for the San Jose Astronomy Association's group subscription renewal to Astronomy magazine and a detailed obituary for Peter L. Manly, a pioneer in video astronomy and author.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Astronomy Discoveries",
+        "Community Updates",
+        "Obituary",
+        "Subscription Information"
+      ],
+      "keywords": [
+        "Astronomy news",
+        "Space missions",
+        "Mars exploration",
+        "Cassini",
+        "Spitzer",
+        "Exoplanets",
+        "Stellar compounds",
+        "Space Shuttle",
+        "ISS",
+        "Community announcements",
+        "Astronomy magazine",
+        "Group subscription",
+        "Peter L. Manly",
+        "Video astronomy",
+        "Occultations",
+        "Halley's Comet"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep07-reach-for-the-stars",
+      "documentId": "ephsep07",
+      "title": "Reach for the Stars!",
+      "summary": "This article announces the AANC-CON event, \"Reach for the Stars!\", held on Saturday, September 29, 2007, at the College of San Mateo. The event featured a day and night of astronomy activities, including workshops, talks, telescopes, planetarium shows, hands-on activities, and a \"Jazz Under the Stars\" Star Party, catering to all ages and sponsored by the Astronomical Association of Northern California and the College of San Mateo.",
+      "categories": [
+        "event",
+        "astronomy event",
+        "announcement",
+        "public outreach"
+      ],
+      "keywords": [
+        "AANC-CON",
+        "College of San Mateo",
+        "astronomy",
+        "star party",
+        "workshops",
+        "telescopes",
+        "NASA scientists",
+        "family event",
+        "volunteer",
+        "San Mateo County Astronomical Society",
+        "September 29, 2007"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0709/EphSep07.pdf",
+      "txtPath": "0709/EphSep07.md"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "articles": [
+    {
+      "id": "ephdec05-2005-speakers",
+      "documentId": "ephdec05",
+      "title": "2005 Speakers",
+      "summary": "This article highlights some of the excellent speakers and a popular event from the general meetings held in 2005. Presentations covered topics such as the Cassini and Stardust missions, the history of Lick Observatory, and updates to the NGC and IC catalogs. The annual auction was also a successful and well-attended club activity.",
+      "categories": [
+        "Speakers",
+        "General Meetings",
+        "Astronomy",
+        "Club Events",
+        "Space Missions",
+        "Astronomical Catalogs"
+      ],
+      "keywords": [
+        "2005",
+        "Speakers",
+        "General meetings",
+        "Cassini mission",
+        "Huygens probe",
+        "Auction",
+        "Lick Observatory",
+        "NGC catalog",
+        "IC catalog",
+        "Stardust mission",
+        "Dale Cruikshank",
+        "Dorothy Schaumberg",
+        "Steve Gottlieb",
+        "Scott Sanford"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec05-the-shallow-sky",
+      "documentId": "ephdec05",
+      "title": "The Shallow Sky",
+      "summary": "This article outlines observing opportunities for December, encouraging readers to share views of planets like Mars and Saturn with friends and family, and detailing their visibility and interesting features. It also covers other celestial objects such as Venus, Uranus, Neptune, Mercury, and Jupiter, alongside specific events like the Moon's close pass by Mars and a lunar occultation of Spica. Furthermore, it promotes the sale of RASC Handbooks and Astronomy Calendars as holiday gifts, with proceeds benefiting the SJAA's telescope loaner program.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Events",
+        "Community News",
+        "Outreach"
+      ],
+      "keywords": [
+        "Mars",
+        "Saturn",
+        "Venus",
+        "Planetary observation",
+        "Celestial events",
+        "December sky",
+        "Telescope viewing",
+        "Lunar occultation",
+        "RASC Observer's Handbook",
+        "Astronomy calendar",
+        "SJAA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec05-starry-starry-night",
+      "documentId": "ephdec05",
+      "title": "Starry, Starry Night",
+      "summary": "The article analyzes Alnilam, a central star in Orion's belt, detailing its stellar properties, lifecycle towards a supernova, and its role in an OB association, while also explaining how to locate other prominent stars using Orion. It then reviews the Advanced Imaging Conference 2005, a highly technical event for serious amateur astrophotographers focused on advanced imaging techniques, CCD cameras, and image processing rather than general astronomical science.",
+      "categories": [
+        "Stellar Astronomy",
+        "Observational Astronomy",
+        "Astrophotography",
+        "Events",
+        "Technical"
+      ],
+      "keywords": [
+        "Alnilam",
+        "Orion",
+        "Stellar evolution",
+        "Supernova",
+        "OB association",
+        "Advanced Imaging Conference 2005",
+        "Astrophotography",
+        "CCD imaging",
+        "Image processing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec05-nasa-space-place",
+      "documentId": "ephdec05",
+      "title": "NASA Space Place",
+      "summary": "The article introduces LISA (Laser Interferometer Space Antenna), a planned NASA/ESA mission set for around 2015, designed to detect gravitational waves from violent cosmic events like black hole collisions and echoes from the Big Bang. It details the mission's ambitious goal of measuring minute changes in spacecraft separation over millions of kilometers to capture these ripples in spacetime. A major challenge highlighted is the complex data analysis required to distinguish myriad simultaneous gravitational wave signals, a problem scientists are actively addressing with theoretical models and computer codes.",
+      "categories": [
+        "Space Mission",
+        "Astrophysics",
+        "Future Technology",
+        "Science News",
+        "Gravitational Wave Astronomy",
+        "Data Analysis"
+      ],
+      "keywords": [
+        "LISA",
+        "Laser Interferometer Space Antenna",
+        "Gravitational waves",
+        "Space-time ripples",
+        "Supermassive black holes",
+        "Big Bang",
+        "Neutron stars",
+        "NASA",
+        "European Space Agency",
+        "Spacecraft",
+        "Data analysis",
+        "Theoretical physics",
+        "JPL"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec05-editor-s-dark-matter",
+      "documentId": "ephdec05",
+      "title": "Editor's Dark Matter",
+      "summary": "This article discusses several recent developments in astronomy, including a new peer-reviewed theory challenging the existence of dark matter with an alternative relativistic gravity explanation for galaxies. It also reports the discovery of a new Kuiper Belt Object comparable to Pluto in size and two new moons for Pluto, prompting renewed questions about Pluto's planetary status. Additionally, key operational and data statistics regarding the Hubble Space Telescope were presented at the AIC2005 conference.",
+      "categories": [
+        "News",
+        "Astrophysics",
+        "Planetary Science",
+        "Space Technology"
+      ],
+      "keywords": [
+        "Dark Matter",
+        "relativity",
+        "gravity",
+        "Kuiper Belt Object",
+        "Pluto",
+        "Hubble Space Telescope",
+        "AIC2005"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec05-solar-system-stats-for-december-2005",
+      "documentId": "ephdec05",
+      "title": "Solar System Stats for December 2005",
+      "summary": "This document provides a detailed table of solar system statistics for December 2005, offering astronomical data for Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and the Sun. For specific dates (1st, 11th, and 21st) within the month, it lists each body's Right Ascension (RA), Declination (Dec.), distance from Earth in Astronomical Units (AU), apparent magnitude (Mag), and angular size. The data is adapted from The Observer's Handbook, published by The Royal Astronomical Society of Canada.",
+      "categories": [
+        "astronomical data",
+        "ephemeris",
+        "observing guide",
+        "solar system information",
+        "historical data"
+      ],
+      "keywords": [
+        "solar system",
+        "planets",
+        "Sun",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "December 2005",
+        "Right Ascension",
+        "Declination",
+        "distance (AU)",
+        "apparent magnitude",
+        "angular size",
+        "astronomy",
+        "observer's handbook"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec05-sjaa-loaner-scope-status",
+      "documentId": "ephdec05",
+      "title": "SJAA loaner scope status",
+      "summary": "The document details the status of the San Jose Astronomical Association (SJAA) loaner scope program, providing a comprehensive list of telescopes available for immediate loan, those currently on loan with due dates, and scopes with extended loan periods. SJAA members can contact Mike Koop to borrow available scopes, with pickup coordinated at club events or by joining a waiting list for currently borrowed items. The program offers a wide variety of telescopes, from refractors and Newtonians to Dobsonians and Schmidt-Cassegrains, catering to different astronomical interests.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Membership Information",
+        "Astronomy Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy club",
+        "equipment loan",
+        "San Jose Astronomical Association",
+        "Dobsonians",
+        "Schmidt-Cassegrain",
+        "Newtonian",
+        "refractor",
+        "binoculars",
+        "member benefit"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0512/EphDec05.pdf",
+      "txtPath": "0512/EphDec05.md"
+    }
+  ]
+}

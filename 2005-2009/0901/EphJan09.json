@@ -1,0 +1,213 @@
+{
+  "articles": [
+    {
+      "id": "ephjan09-monthly-ephemeris-and-report",
+      "documentId": "ephjan09",
+      "title": "Monthly Ephemeris and Report",
+      "summary": "This document from the San Jose Astronomical Association (SJAA) outlines their activities for late December, January, and February, including star parties, general meetings featuring guest speakers on topics like exoplanets and the Mars Phoenix Lander, and astronomy classes. It also contains an educational article explaining neutron stars, pulsars, and Soft Gamma-Ray Repeaters (SGRs). Additionally, a January 2009 calendar highlights astronomical and space exploration milestones with educational links, celebrating the International Year of Astronomy.",
+      "categories": [
+        "Events",
+        "Observing",
+        "Meetings",
+        "Educational",
+        "Astronomy",
+        "Astrophysics",
+        "Space Exploration",
+        "Local Club Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy events",
+        "Star parties",
+        "General meetings",
+        "Astronomy classes",
+        "Neutron stars",
+        "Pulsars",
+        "Soft Gamma-Ray Repeaters",
+        "Supernovae",
+        "Magnetic fields",
+        "Mars Phoenix Lander",
+        "Exoplanets",
+        "International Year of Astronomy",
+        "Space exploration",
+        "Telescopes"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjan09-the-shallow-sky",
+      "documentId": "ephjan09",
+      "title": "The Shallow Sky",
+      "summary": "The article provides an observing guide for Saturn in January, highlighting its nearly edge-on rings and the visible shadows cast due to Saturn's axial tilt, alongside a mention of Venus and Uranus. It then transitions to a detailed discussion of magnetars, specifically Soft Gamma Repeaters (SGRs) and Anomalous X-ray Pulsars (AXPs), exploring their rarity, characteristics, and a hypothesis suggesting SGRs may be an older, transient state of magnetars.",
+      "categories": [
+        "Observational Astronomy",
+        "Planetary Science",
+        "Astrophysics",
+        "Stellar Evolution",
+        "Skywatching"
+      ],
+      "keywords": [
+        "Saturn",
+        "Rings",
+        "Axial Tilt",
+        "Seasons",
+        "Venus",
+        "Uranus",
+        "Conjunction",
+        "Magnetar",
+        "SGRs",
+        "AXPs",
+        "Neutron Stars",
+        "Pulsars",
+        "Gamma-rays",
+        "X-rays",
+        "Magnetic Field",
+        "Supernova Remnant",
+        "Stellar Evolution"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan09-what-happened-to-comet-holmes",
+      "documentId": "ephjan09",
+      "title": "What Happened to Comet Holmes?",
+      "summary": "Researchers believe Comet Holmes' dramatic 2007 outburst, which saw it brighten a million-fold, was caused by a phase change of amorphous ice to crystalline ice within a subterranean cavern in its nucleus. This transition released immense heat, triggering an explosion equivalent to 24 kilotons of TNT and ejecting 10 million metric tons of dust and gas. Observations by the Spitzer Space Telescope helped scientists understand the event, which was a repeat of a smaller explosion in 1892, suggesting the comet may erupt again.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Space Exploration",
+        "Scientific Research",
+        "News",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Comet Holmes",
+        "17P/Holmes",
+        "Comet Outburst",
+        "Ice Phase Change",
+        "Spitzer Space Telescope",
+        "Infrared Astronomy",
+        "NASA",
+        "JPL",
+        "Caltech",
+        "Bill Reach",
+        "Jeremie Vaubaillon",
+        "Comet Nucleus",
+        "Dust Cloud"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan09-observe-or-image-the-moon-for-nasa",
+      "documentId": "ephjan09",
+      "title": "Observe or Image the Moon for NASA",
+      "summary": "NASA's Lunar Crater Observation and Sensing Satellite (LCROSS) mission is seeking assistance from amateur astronomers to image the Moon's polar regions. This campaign aims to build a digital image library of the lunar poles under varying conditions to prepare for a planned rocket impact, likely in August-September 2009, to search for water. Amateur contributions will help refine targeting protocols, verify topographical features, and prepare for observing the impact plumes in shadowed regions.",
+      "categories": [
+        "Citizen Science",
+        "Observing Campaign",
+        "News",
+        "Technical Details",
+        "Lunar Exploration"
+      ],
+      "keywords": [
+        "LCROSS",
+        "NASA",
+        "Moon",
+        "Lunar Poles",
+        "Water Discovery",
+        "Amateur Astronomy",
+        "Imaging",
+        "Lunar Craters",
+        "Libration",
+        "Impact Mission",
+        "Faustini",
+        "Shoemaker"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan09-the-last-month-in-astronomy",
+      "documentId": "ephjan09",
+      "title": "The Last Month In Astronomy",
+      "summary": "The past month in astronomy brought updates on major space projects, including cryogenic testing for the James Webb Space Telescope and the delay of the Mars Science Laboratory launch. Significant scientific discoveries were made, such as Hubble's detection of carbon dioxide on an exoplanet and the finding of a life-critical sugar molecule in a habitable region of the galaxy. India's Chandrayaan-1 also began lunar observations, alongside advancements in space-based internet technology and magnetar research.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Astrophysics",
+        "Planetary Science",
+        "Space Missions",
+        "Astrobiology",
+        "Space Technology"
+      ],
+      "keywords": [
+        "James Webb Space Telescope",
+        "JWST",
+        "Hubble Space Telescope",
+        "Exoplanets",
+        "Carbon Dioxide",
+        "Mars Science Laboratory",
+        "Space Shuttle",
+        "Chandrayaan-1",
+        "Lunar exploration",
+        "Glycolaldehyde",
+        "Sugar molecule",
+        "Magnetars",
+        "Neutron stars",
+        "Space-based Internet",
+        "DTN protocol",
+        "Cryogenic testing",
+        "Mission delays",
+        "Spacecraft",
+        "Extraterrestrial life"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan09-telescope-loaner-program",
+      "documentId": "ephjan09",
+      "title": "Telescope Loaner Program",
+      "summary": "The article details the San Jose Astronomical Association's (SJAA) Telescope Loaner Program, a significant member benefit allowing individuals to try various telescopes—from binoculars to a 17\" Dobsonian—before purchase. It also provides an organizational directory, listing club officers, board members, Ephemeris newsletter staff, and various contact email addresses, alongside publication information for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "Club Program Information",
+        "Membership Benefits",
+        "Organizational Structure",
+        "Contact Information",
+        "Publication Details",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Telescope Loaner Program",
+        "San Jose Astronomical Association (SJAA)",
+        "Telescopes",
+        "Astronomy Club",
+        "Club Membership",
+        "Dobsonian",
+        "Refractor",
+        "Binoculars",
+        "Schmidt-Cassegrain",
+        "Club Officers",
+        "Board of Directors",
+        "Ephemeris Newsletter",
+        "School Star Parties",
+        "Contact Information",
+        "Astronomical Equipment"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0901/EphJan09.pdf",
+      "txtPath": "0901/EphJan09.md"
+    }
+  ]
+}

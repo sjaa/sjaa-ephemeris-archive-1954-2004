@@ -1,0 +1,467 @@
+{
+  "articles": [
+    {
+      "id": "ephmar05b-sjaa-ephemeris",
+      "documentId": "ephmar05b",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA Ephemeris, the official publication of the San Jose Astronomical Association, focuses on promoting astronomy education and outreach among its members and the public. It details various learning opportunities, including club general meetings, dedicated astronomy classes, and local lecture series, alongside critical teaching opportunities through Project ASTRO and public star parties. The document also provides a comprehensive calendar of SJAA activities and events for March and April.",
+      "categories": [
+        "News",
+        "Events",
+        "Education",
+        "Outreach",
+        "Club Activities",
+        "Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Education",
+        "Star Parties",
+        "Club Meetings",
+        "Astronomy Classes",
+        "Lectures",
+        "Project ASTRO",
+        "Hogue Park",
+        "Silicon Valley",
+        "Messier Marathon",
+        "Astronomy Day",
+        "Andrew Fraknoi",
+        "Phil Plait",
+        "March 2005",
+        "April 2005"
+      ],
+      "pageStart": 2,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephmar05b-auction-xxv",
+      "documentId": "ephmar05b",
+      "title": "Auction XXV",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual Auction XXV and swap meet on Sunday, April 24, 2005, at Houge Park in San Jose. This event provides a prime opportunity for astronomers, both beginners and experienced, to buy and sell various astronomical paraphernalia, from telescopes to filters and star charts. Sellers will pay a 10% commission, capped at $50 per item, with proceeds benefiting the SJAA as a 501(c)(3) educational organization.",
+      "categories": [
+        "Event Announcement",
+        "Club News",
+        "Community Event"
+      ],
+      "keywords": [
+        "Astronomical auction",
+        "Swap meet",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomical equipment",
+        "Telescopes",
+        "Houge Park",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar05b-sjaa-march-general-meeting",
+      "documentId": "ephmar05b",
+      "title": "SJAA March General Meeting",
+      "summary": "The SJAA (San Jose Astronomical Association) announced their March 26, 2005 general meeting, featuring Steve Gottlieb discussing improvements to the NGC and IC catalogs of deep-sky objects. The talk, open and free to all, will cover the history and significance of these catalogs, which list over 13,000 objects, predominantly galaxies. Gottlieb, an experienced astronomer and author, is known for his work on deep-sky observing and cataloging.",
+      "categories": [
+        "Meeting Announcement",
+        "Astronomy Talk",
+        "Observing Reports",
+        "History of Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Steve Gottlieb",
+        "NGC catalog",
+        "IC catalog",
+        "Deep-sky objects",
+        "Galaxies",
+        "William Herschel",
+        "John Herschel",
+        "J. Dreyer",
+        "Messier objects",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmar05b-real-class",
+      "documentId": "ephmar05b",
+      "title": "Real Class",
+      "summary": "This article announces a 'Moon Month' astronomy class for March 18th, aimed at both new and experienced lunar observers. It offers practical advice on equipment, suggesting a beginner-friendly moon map, discussing telescope types and features (tracking, computer drives), and debunking the necessity of moon filters. The author encourages attendance, promising free candy, and provides tips for enhancing the lunar viewing experience.",
+      "categories": [
+        "Events",
+        "Observing Tips",
+        "Beginner Astronomy",
+        "Equipment Advice",
+        "Lunar Observing"
+      ],
+      "keywords": [
+        "Moon",
+        "Astronomy Class",
+        "Lunar Observing",
+        "Telescopes",
+        "Moon Map",
+        "Filters",
+        "Tracking Drives",
+        "Rukl's Atlas",
+        "Dave North",
+        "SJAA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmar05b-cassini-mission-and-iapetus-report",
+      "documentId": "ephmar05b",
+      "title": "Cassini Mission and Iapetus Report",
+      "summary": "The article discusses recent findings from the Cassini mission about Saturn's moon Iapetus, highlighting its unique two-toned appearance with a dark leading side and a bright trailing side. It suggests the dark side may be caused by Iapetus sweeping up dust, possibly from Phoebe, and provides a guide for amateur astronomers to observe Iapetus's varying magnitude at different elongations using backyard telescopes.",
+      "categories": [
+        "News",
+        "Observing Guide",
+        "Planetary Science",
+        "Space Exploration",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Cassini Mission",
+        "Iapetus",
+        "Saturn's Moon",
+        "Two-toned moon",
+        "Planetary geology",
+        "Amateur observing",
+        "Magnitude estimation",
+        "Phoebe",
+        "Observational astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephmar05b-give-a-child-the-universe-at-a-classroom-near-you",
+      "documentId": "ephmar05b",
+      "title": "Give a Child The Universe at a Classroom Near You",
+      "summary": "Project ASTRO is recruiting amateur and professional astronomers to partner with 3rd-9th grade teachers in Bay Area classrooms for the 2005-2006 school year. Volunteers attend a summer training workshop, receive curriculum resources, and make at least four visits to their adopted classroom to facilitate hands-on astronomy activities. This program aims to inspire students in science and offers a fulfilling volunteer experience, with applications due by May 6.",
+      "categories": [
+        "volunteer opportunity",
+        "educational outreach",
+        "program announcement",
+        "astronomy education",
+        "community engagement"
+      ],
+      "keywords": [
+        "Project ASTRO",
+        "astronomers",
+        "teachers",
+        "students",
+        "Bay Area",
+        "classroom visits",
+        "hands-on activities",
+        "science education",
+        "volunteer",
+        "2005-2006 school year",
+        "application deadline",
+        "training workshop",
+        "Astronomical Society of the Pacific"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar05b-wow-and-cool",
+      "documentId": "ephmar05b",
+      "title": "Wow and Cool",
+      "summary": "Paul Kohlmiller recounts his highly positive first-year experience with Project ASTRO, a program that brings astronomers into grade school classrooms. He addresses common reservations, emphasizing the program's flexibility, the surprising engagement of 5th-grade students, and the robust support system provided by the Project ASTRO community. Kohlmiller concludes by highlighting the profound personal rewards of inspiring students, as exemplified by a student who stated they only liked science \"when the astronomer comes.\"",
+      "categories": [
+        "Astronomy Outreach",
+        "Education",
+        "Volunteer Experience",
+        "Program Review"
+      ],
+      "keywords": [
+        "Project ASTRO",
+        "Astronomy Education",
+        "Classroom Visit",
+        "Science Outreach",
+        "Grade School",
+        "Student Engagement",
+        "Volunteer",
+        "Paul Kohlmiller",
+        "ASP"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar05b-it-s-messier-marathon-time-again",
+      "documentId": "ephmar05b",
+      "title": "It's Messier Marathon Time Again!",
+      "summary": "The article announces the San Jose Astronomical Association's 2005 Messier Marathon, taking place on March 12/13 at Henry Coe State Park, inviting participants to find 109 deep sky objects in one night. It also briefly mentions a $500 grant to the SJAA from the Andrah Foundation for astronomy education and a \"Physics for Poets\" course celebrating Einstein's 100th anniversary of his \"miracle year.\"",
+      "categories": [
+        "Event Announcement",
+        "Observational Astronomy",
+        "Astronomy Club Activities",
+        "Education",
+        "Astronomy History"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier objects",
+        "San Jose Astronomical Association",
+        "Henry Coe State Park",
+        "Deep sky objects",
+        "Amateur astronomy",
+        "Don Machholz",
+        "Andrah Foundation",
+        "Einstein",
+        "Relativity",
+        "Andrew Fraknoi",
+        "Physics for Poets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar05b-editor-s-semi-dark-matter",
+      "documentId": "ephmar05b",
+      "title": "Editor's Semi-Dark Matter",
+      "summary": "Orion Telescopes, a company offering discounts to SJAA members, has been acquired by Imaginova, though immediate changes to its products or retail store are not expected. Meade has launched a new line of more affordable Ritchey-Chrétien telescopes, with reservations now being taken. Additionally, March marks the 350th anniversary of Christian Huygens' discovery of Titan.",
+      "categories": [
+        "News",
+        "Product Announcements",
+        "Astronomy History",
+        "Business News"
+      ],
+      "keywords": [
+        "Orion Telescopes",
+        "Imaginova",
+        "Meade",
+        "Ritchey-Chrétien",
+        "telescopes",
+        "Titan",
+        "Christian Huygens",
+        "anniversary",
+        "astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar05b-sjaa-yosemite-public-star-party-2005",
+      "documentId": "ephmar05b",
+      "title": "SJAA Yosemite Public Star Party 2005",
+      "summary": "The article announces the annual SJAA Yosemite Public Star Party, scheduled for August 5-6, 2005, at Glacier Point in Yosemite National Park. Up to 30 participants will receive free admission and camping in exchange for hosting two public star parties. Attendees are expected to bring telescopes and prioritize SJAA members for registration.",
+      "categories": [
+        "Event Announcement",
+        "Observing Event",
+        "Public Outreach",
+        "Logistics"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite",
+        "Star Party",
+        "Glacier Point",
+        "Astronomy",
+        "Public Outreach",
+        "Camping",
+        "Telescopes",
+        "August 2005"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephmar05b-comet-machholz-tests-sjaa-website-capacity",
+      "documentId": "ephmar05b",
+      "title": "Comet Machholz tests SJAA Website Capacity",
+      "summary": "The article details a significant spike in the San Jose Astronomical Association (SJAA) website traffic during January 2005, driven by an Astronomy Picture of the Day (APOD) feature linking to an article about Comet Machholz. It also announces and describes the \"Alien Earths\" exhibit at the UC Berkeley Lawrence Hall of Science, running until May 8, 2005, which explores the search for life and space exploration through interactive displays and a lecture series.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Public Outreach",
+        "Website Administration",
+        "Education"
+      ],
+      "keywords": [
+        "Comet Machholz",
+        "SJAA",
+        "Website traffic",
+        "Astronomy Picture of the Day",
+        "Lawrence Hall of Science",
+        "Alien Earths exhibit",
+        "Exoplanets",
+        "Search for life",
+        "Space exploration",
+        "UC Berkeley",
+        "NASA",
+        "SETI Institute",
+        "Kepler mission",
+        "January 2005",
+        "March 2005"
+      ],
+      "pageStart": 8,
+      "pageEnd": 50105
+    },
+    {
+      "id": "ephmar05b-alien-earths-lectures-at-lhs",
+      "documentId": "ephmar05b",
+      "title": "Alien Earths Lectures at LHS",
+      "summary": "This article announces a series of \"Alien Earths Lectures at LHS\" scheduled for March 20, 2005, featuring three prominent scientists. Dr. Margaret Race discusses planetary protection, Dr. William Borucki details the search for habitable exoplanets and the Kepler mission, and Dr. Emma Bakes explores the potential for life on Titan and Europa. The speakers are experts from the SETI Institute and NASA, specializing in astrobiology, exoplanet discovery, and the chemical evolution of planetary atmospheres.",
+      "categories": [
+        "Events",
+        "Lectures",
+        "Astrobiology",
+        "Exoplanet Research",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Alien Earths",
+        "Lectures",
+        "Planetary protection",
+        "Exoplanets",
+        "Habitable planets",
+        "Kepler mission",
+        "Titan",
+        "Europa",
+        "Astrobiology",
+        "SETI Institute",
+        "NASA",
+        "Extraterrestrial life",
+        "Origins of life",
+        "March 2005"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephmar05b-dr-phil-plait-to-talk-on-march-2-2005-at-7-p-m",
+      "documentId": "ephmar05b",
+      "title": "Dr. Phil Plait to talk on March 2, 2005 at 7 p.m.",
+      "summary": "Astronomer and author Phil Plait will deliver a free, non-technical, and illustrated talk titled \"Bad Astronomy (In Everyday Life and the Movies)\" on March 2, 2005, at 7 p.m. at Foothill College in Los Altos Hills, California. The lecture will address and debunk common scientific misconceptions, particularly those prevalent in popular culture and films, covering topics from asteroid threats to the Apollo Moon Landings hoax. This family-friendly event is open to the public, requiring no prior science background, and aims to engage both astronomy enthusiasts and those interested in critical thinking.",
+      "categories": [
+        "Event Announcement",
+        "Public Lecture",
+        "Astronomy Education",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Phil Plait",
+        "Bad Astronomy",
+        "Science misconceptions",
+        "Popular science",
+        "Astronomy",
+        "Foothill College",
+        "Los Altos Hills",
+        "Public talk",
+        "Debunking myths",
+        "Moon landings",
+        "Hubble Space Telescope",
+        "Sonoma State University",
+        "Critical thinking"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar05b-solar-system-stats-for-march-2005",
+      "documentId": "ephmar05b",
+      "title": "Solar System Stats for March 2005",
+      "summary": "This document presents a detailed ephemeris for the Solar System in March 2005, providing astronomical data for the Sun and eight planets (Mercury through Neptune). For the 1st, 11th, and 21st of the month, it lists Right Ascension, Declination, distance from Earth in Astronomical Units, visual magnitude, and angular size. The data is adapted from The Observer's Handbook by The Royal Astronomical Society of Canada.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Reference",
+        "Solar System"
+      ],
+      "keywords": [
+        "Solar System",
+        "planets",
+        "Sun",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Right Ascension",
+        "Declination",
+        "Astronomical Unit",
+        "Magnitude",
+        "Angular Size",
+        "March 2005",
+        "astronomy",
+        "ephemerides"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephmar05b-physics-for-poets",
+      "documentId": "ephmar05b",
+      "title": "Physics for Poets",
+      "summary": "This document outlines a 'Physics for Poets' course at Foothill College, designed to make complex physics concepts like relativity, quantum mechanics, and atomic theory accessible to non-science majors through humor and everyday language, also exploring physics' impact on humanities. It also includes an astronomical section featuring diagrams and descriptions of Saturn's moon Iapetus, detailing its bright and dark features and orbital characteristics.",
+      "categories": [
+        "Course Announcement",
+        "Science Education",
+        "Physics",
+        "Astronomy",
+        "Astronomical Information"
+      ],
+      "keywords": [
+        "Physics for Poets",
+        "Foothill College",
+        "Relativity",
+        "Quantum Mechanics",
+        "Atoms",
+        "Energy",
+        "Gravity",
+        "Black Holes",
+        "Einstein",
+        "Stephen Hawking",
+        "Humanities",
+        "Iapetus",
+        "Saturn's Moon",
+        "Voyager Data",
+        "Tidally Locked"
+      ],
+      "pageStart": 5,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephmar05b-sjaa-loaner-scope-status",
+      "documentId": "ephmar05b",
+      "title": "SJAA loaner scope status",
+      "summary": "This article outlines the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program, detailing which scopes are immediately available, those currently on loan with due dates, and those with extended loan periods. SJAA members can contact Mike Koop to borrow equipment, which includes various types of telescopes and a spectroscope.",
+      "categories": [
+        "Program Information",
+        "Membership Resources",
+        "Equipment Loan"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope Program",
+        "Astronomy Equipment",
+        "Available Scopes",
+        "Extended Loans",
+        "Waiting List",
+        "Dobsonians",
+        "Refractors",
+        "Schmidt-Cassegrain"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar05b",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0503/EphMar05b.pdf",
+      "txtPath": "0503/EphMar05b.md"
+    }
+  ]
+}

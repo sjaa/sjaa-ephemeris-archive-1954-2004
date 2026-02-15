@@ -1,0 +1,184 @@
+{
+  "articles": [
+    {
+      "id": "ephdec06-photos-from-jane-and-mojo-jones",
+      "documentId": "ephdec06",
+      "title": "Photos from Jane and Mojo Jones",
+      "summary": "This document features a collection of astronomical travel photos by Jane and Mojo Jones, showcasing landmarks like the Leviathan Telescope and the Royal Greenwich Observatory, as well as a visit with Sir Patrick Moore. It also announces a holiday party on December 2nd, inviting attendees to bring food/drink contributions (no alcohol) and participate in a 'white elephant' gift exchange with an astronomical theme.",
+      "categories": [
+        "Photography",
+        "Social Event",
+        "Astronomy History",
+        "Newsletter"
+      ],
+      "keywords": [
+        "Photos",
+        "Astronomy Landmarks",
+        "Holiday Party",
+        "Gift Exchange",
+        "Leviathan Telescope",
+        "Royal Greenwich Observatory",
+        "Sir Patrick Moore",
+        "Jane and Mojo Jones",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec06-the-shallow-sky",
+      "documentId": "ephdec06",
+      "title": "The Shallow Sky",
+      "summary": "This article covers December 2006 astronomical observations, including a recent Mercury transit, upcoming Venus transit in 2012, and the visibility of planets like Saturn, Mercury, Jupiter, and Mars. It also features a biographical sketch of Annie Jump Cannon, an influential astronomer known for her work in stellar classification at Harvard Observatory, highlighting her background and the role of women \"computers\" in early astronomy.",
+      "categories": [
+        "Observing Reports",
+        "Historical Astronomy",
+        "Celestial Events",
+        "Astronomy News",
+        "Women in STEM"
+      ],
+      "keywords": [
+        "Mercury transit",
+        "Venus transit",
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Annie Jump Cannon",
+        "Stellar classification",
+        "Harvard Observatory",
+        "Women in astronomy",
+        "December 2006",
+        "Planetary observation",
+        "Conjunction"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec06-observing-across-the-atlantic-september-october-2006",
+      "documentId": "ephdec06",
+      "title": "Observing across the Atlantic September-October, 2006",
+      "summary": "This article details a two-week astronomical journey in September-October 2006 across the UK and Ireland by Jane Houston Jones. The trip included visits to Sir Patrick Moore's private observatories, the ancient site of Stonehenge, the historic Leviathan telescope at Birr Castle and the Whirlpool Star Party where the author spoke, and the Royal Observatory Greenwich. It highlights encounters with prominent figures, historical instruments, and the shared passion for astronomy across time and geography.",
+      "categories": [
+        "Travelogue",
+        "Observing Report",
+        "Historical Astronomy",
+        "Events",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Jane Houston Jones",
+        "Sir Patrick Moore",
+        "Farthings",
+        "British Astronomical Association",
+        "Stonehenge",
+        "Leviathan Telescope",
+        "Birr Castle",
+        "Whirlpool Star Party",
+        "Royal Observatory Greenwich",
+        "Prime Meridian",
+        "Greenwich Mean Time",
+        "Cassini Mission",
+        "Telescopes",
+        "Astronomy History"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec06-the-planet-in-the-machine",
+      "documentId": "ephdec06",
+      "title": "The Planet in the Machine",
+      "summary": "This article explores the immense complexity of Earth's weather and climate systems, likening it to a 'butterfly effect' caused by numerous interdependent variables and human activities. It introduces Earth system science, a field dedicated to building and refining mathematical models that use data from NASA's Earth-observing satellites to understand and predict climate changes and severe weather patterns. The ultimate goal is to create more accurate long-term climate predictions and short-term weather warnings to help mitigate future challenges.",
+      "categories": [
+        "Earth Science",
+        "Climate Modeling",
+        "Space Technology",
+        "Environmental Science",
+        "Scientific Research",
+        "NASA Missions"
+      ],
+      "keywords": [
+        "butterfly effect",
+        "Earth system science",
+        "climate models",
+        "weather prediction",
+        "NASA",
+        "Earth-observing satellites",
+        "climate change",
+        "atmospheric circulation",
+        "CloudSat",
+        "Terra",
+        "Aqua"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec06-solar-system-stats-for-december-2006",
+      "documentId": "ephdec06",
+      "title": "Solar System Stats for December 2006",
+      "summary": "This article presents detailed astronomical data for the Solar System's major planets and the Sun for December 2006, including their right ascension, declination, distances, magnitudes, and apparent sizes. It also provides a biography of Annie Jump Cannon, highlighting her groundbreaking work in developing the stellar spectral classification system and her contributions to the Henry Draper Catalogue at Harvard Observatory.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Biography",
+        "History of Astronomy",
+        "Stellar Classification"
+      ],
+      "keywords": [
+        "Solar System",
+        "Planetary Data",
+        "December 2006",
+        "Ephemeris",
+        "Annie Jump Cannon",
+        "Stellar Spectra",
+        "Spectral Classification",
+        "Harvard Observatory",
+        "Henry Draper Catalogue",
+        "OBAFGKM",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Apparent Size"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec06-sjaa-loaner-scope-status",
+      "documentId": "ephdec06",
+      "title": "SJAA loaner scope status",
+      "summary": "This article provides an updated status of the San Jose Astronomical Association's (SJAA) loaner telescope program for its members. It lists various telescopes and binoculars currently available for immediate loan, those recently loaned out, and those with extended loan periods. SJAA members can contact Mike Koop to borrow available equipment, with no waiting list currently in effect.",
+      "categories": [
+        "Program Update",
+        "Member Services",
+        "Equipment Loan",
+        "Resource Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "binoculars",
+        "astronomical equipment",
+        "equipment availability",
+        "member program",
+        "Dobson",
+        "Refractor",
+        "Schmidt-Cassegrain"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0612/EphDec06.pdf",
+      "txtPath": "0612/EphDec06.md"
+    }
+  ]
+}

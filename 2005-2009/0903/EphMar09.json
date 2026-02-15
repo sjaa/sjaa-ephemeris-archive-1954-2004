@@ -1,0 +1,184 @@
+{
+  "articles": [
+    {
+      "id": "ephmar09-march-2009",
+      "documentId": "ephmar09",
+      "title": "MARCH 2009",
+      "summary": "This document presents a calendar for March 2009, detailing daily observances and notable events, many of which are linked to educational activities and resources on NASA's 'The Space Place' website. It highlights a blend of general holidays, historical dates, astronomical phenomena like moon phases and the vernal equinox, and science-related topics for children.",
+      "categories": [
+        "Calendar",
+        "Educational",
+        "Astronomy",
+        "Science Communication",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "March 2009",
+        "Calendar",
+        "The Space Place",
+        "NASA",
+        "Education",
+        "Astronomy",
+        "Moon phases",
+        "Vernal Equinox",
+        "Daylight Saving Time",
+        "Science activities",
+        "Kids"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmar09-saturn-at-opposition-and-a-couple-more-transits",
+      "documentId": "ephmar09",
+      "title": "Saturn at opposition, and a couple more transits",
+      "summary": "This article details celestial events for March 2009, prominently featuring Saturn at opposition with opportunities to observe its rings and moon transits (Titan and Rhea). It also provides viewing information for Venus's inferior conjunction, a morning alignment of Mercury, Mars, and Jupiter, and the bright asteroid Ceres. Additionally, the piece includes an update on the Mars rover Spirit's temporary operational issue.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Astronomy News",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Saturn",
+        "Opposition",
+        "Titan transit",
+        "Rhea transit",
+        "Venus",
+        "Inferior Conjunction",
+        "Mercury",
+        "Mars",
+        "Jupiter",
+        "Ceres",
+        "Mars rover Spirit",
+        "Amateur Astronomy",
+        "March 2009"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmar09-severe-space-weather",
+      "documentId": "ephmar09",
+      "title": "Severe Space Weather",
+      "summary": "A NASA-funded study warns that severe space weather, like a \"super solar flare\" followed by an extreme geomagnetic storm, could cause widespread societal and economic disruption. Such an event would likely trigger cascading failures in the electric power grid, impacting essential services such as water distribution, food supply, communications, and transportation, with potential costs of trillions of dollars. The article emphasizes the need for resilient infrastructure and improved space weather forecasting to mitigate these serious threats, referencing the historic Carrington Event.",
+      "categories": [
+        "Space Weather",
+        "Risk Assessment",
+        "Infrastructure",
+        "News",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Space Weather",
+        "Solar Flares",
+        "Geomagnetic Storms",
+        "Power Grid",
+        "Carrington Event",
+        "Societal Impact",
+        "Economic Impact",
+        "Infrastructure",
+        "Forecasting"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar09-starry-starry-night",
+      "documentId": "ephmar09",
+      "title": "Starry, Starry Night",
+      "summary": "This article details Barnard's Star, an M-class dwarf known for its exceptionally high proper motion, making its movement observable over years despite its dimness. Discovered by Edward Barnard in 1916, it is one of the closest stars to Earth and will eventually be the closest, notable for its magnetic variability and unique trajectory through the galactic halo. The document also briefly includes information on recent board elections and directions to a local park.",
+      "categories": [
+        "Stellar Astronomy",
+        "Observational Astronomy",
+        "Club News",
+        "Logistics"
+      ],
+      "keywords": [
+        "Barnard's Star",
+        "Proper Motion",
+        "Variable Stars",
+        "M-class dwarf",
+        "Edward Barnard",
+        "Galactic Halo",
+        "Club Elections"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar09-the-last-month-in-astronomy",
+      "documentId": "ephmar09",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article compiles several recent astronomical updates from early 2009, covering new research suggesting a past 'flip' of the Moon and skepticism surrounding reported methane on Mars. It also highlights discoveries like the smallest exoplanet by COROT and 'rain' on Titan, alongside achievements by amateur astronomers. A multi-observatory image of M101 using Hubble, Chandra, and Spitzer telescopes is featured to celebrate the International Year of Astronomy.",
+      "categories": [
+        "News & Updates",
+        "Scientific Discoveries",
+        "Space Missions",
+        "Astronomical Observations",
+        "Awards & Achievements",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Moon",
+        "Mars",
+        "Methane",
+        "Exoplanets",
+        "Titan",
+        "Cassiopeia A",
+        "M101 Galaxy",
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "Spitzer Space Telescope",
+        "COROT spacecraft",
+        "Kepler spacecraft",
+        "Space Shuttle Discovery",
+        "International Year of Astronomy 2009",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar09-it-must-be-astronomical",
+      "documentId": "ephmar09",
+      "title": "It Must Be Astronomical ...",
+      "summary": "This article, 'It Must Be Astronomical...', is a newsletter from the San Jose Astronomical Association (SJAA) for March 2009. It features the club's telescope loaner program, provides recommendations for three deep-sky objects (NGC 2683, NGC 2509, N 2525), and lists several astronomical lectures and a star party scheduled from March to June. The document also includes club officer information, staff for the 'SJAA Ephemeris' newsletter, and various contact email addresses.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Guide",
+        "Resources",
+        "Newsletter"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Telescope loaner program",
+        "Deep sky objects",
+        "NGC 2683",
+        "NGC 2509",
+        "N 2525",
+        "Astronomical events",
+        "Lectures",
+        "Star party",
+        "Golden State Star Party",
+        "Club officers",
+        "Ephemeris",
+        "March 2009",
+        "Maria Mitchell"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0903/EphMar09.pdf",
+      "txtPath": "0903/EphMar09.md"
+    }
+  ]
+}

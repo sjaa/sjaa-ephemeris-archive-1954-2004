@@ -1,0 +1,226 @@
+{
+  "articles": [
+    {
+      "id": "ephnov09-sjaa-ephemeris",
+      "documentId": "ephnov09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA Ephemeris for November 2009 outlines the San Jose Astronomical Association's upcoming activities, including star parties, dark sky weekends, astronomy classes, and general meetings spanning from late October through December. It also features 'The Shallow Sky' column, which discusses the unexpected lack of visible debris from the LCROSS lunar impact and provides an observing guide for planets like Mars, Jupiter, Mercury, Venus, and Saturn during November, along with a reminder about Daylight Saving Time.",
+      "categories": [
+        "Events Calendar",
+        "Observing Reports",
+        "Astronomy News",
+        "Club Activities",
+        "Celestial Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Party",
+        "Dark Sky Weekend",
+        "Astronomy Class",
+        "General Meeting",
+        "LCROSS",
+        "Mars",
+        "Jupiter",
+        "Europa",
+        "Beehive Cluster",
+        "Planetary Observation",
+        "Daylight Saving Time",
+        "November 2009"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephnov09-sjaa-and-city-of-san-jose-in-contract",
+      "documentId": "ephnov09",
+      "title": "SJAA and City of San Jose In Contract",
+      "summary": "The San Jose Astronomical Association (SJAA) has finalized a contract with the City of San Jose for the use of Houge Park until June 2010. Both parties will evaluate the agreement after the first year to consider a longer-term extension. The SJAA extended thanks to various City of San Jose staff members and Rob Hawley for their roles in making the contract possible.",
+      "categories": [
+        "Organizational News",
+        "Partnership Agreement",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "City of San Jose",
+        "Houge Park",
+        "Contract",
+        "Agreement",
+        "Partnership",
+        "Facility Use",
+        "Community Relations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov09-by-law-changes",
+      "documentId": "ephnov09",
+      "title": "By-law Changes",
+      "summary": "The article details proposed changes to an organization's by-laws, which were approved by the board on October 3, 2009, and await membership approval. Key amendments include limiting the President's term to two consecutive years and modifying the membership admission process to require board approval after payment of dues. These revisions aim to update the organization's governance and membership procedures.",
+      "categories": [
+        "Governance",
+        "Organizational News",
+        "By-laws",
+        "Membership"
+      ],
+      "keywords": [
+        "by-laws",
+        "amendment",
+        "term limits",
+        "President",
+        "board of directors",
+        "membership admission",
+        "dues",
+        "voting",
+        "governance"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov09-spitzer-the-sequel",
+      "documentId": "ephnov09",
+      "title": "Spitzer, the Sequel",
+      "summary": "The Spitzer Space Telescope's primary mission has ended due to running out of liquid helium coolant, but it is now entering a \"warm phase\" or \"second life.\" Even without the extreme cooling, two of its short-wavelength infrared sensors remain functional, allowing it to continue important research. This extended mission will focus on exploring the universe's expansion rate, studying variable stars, and searching for near-Earth asteroids.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy",
+        "Science News",
+        "Telescopes",
+        "Mission Extension"
+      ],
+      "keywords": [
+        "Spitzer Space Telescope",
+        "Infrared Astronomy",
+        "Warm Mission",
+        "Liquid Helium",
+        "NASA",
+        "JPL",
+        "Universe Expansion",
+        "Variable Stars",
+        "Near-Earth Asteroids",
+        "Infrared Light",
+        "Sensors"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephnov09-eclipse-reports-and-observations",
+      "documentId": "ephnov09",
+      "title": "Eclipse Reports and Observations",
+      "summary": "Ernie Piini embarked on a cruise near Iwo Jima to observe the July 22, 2009 total solar eclipse, marking his 27th totality and third from the Saros #136 family. This unique journey also served as a pilgrimage to honor his brother's WWII survival after his ship was sunk near the island. Despite initial logistical challenges requiring a ship-based observation and a custom-designed camera mount, the expedition successfully yielded stunning views of the eclipse and fulfilled a deeply personal mission.",
+      "categories": [
+        "Observing Reports",
+        "Expeditions",
+        "Personal Accounts",
+        "Solar Eclipses",
+        "Amateur Astronomy",
+        "Technical"
+      ],
+      "keywords": [
+        "Solar Eclipse",
+        "2009 Eclipse",
+        "Iwo Jima",
+        "Saros #136",
+        "Eclipse Observation",
+        "Personal Narrative",
+        "Amateur Astronomy Equipment",
+        "WWII History",
+        "Cruise Ship"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov09-the-last-month-in-astronomy",
+      "documentId": "ephnov09",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article, titled 'The Last Month In Astronomy,' compiles recent developments in space science. Key updates include new insights into Europa's potentially oxygen-rich oceans, a reduced risk of asteroid Apophis hitting Earth, and early successes from the Herschel telescope imaging star-forming regions. It also covers mission updates like Messenger's third Mercury flyby and LCROSS's target change, alongside multiple discoveries of water or ice on Mars and the Moon.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Scientific Discoveries",
+        "Planetary Science",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Europa",
+        "Apophis",
+        "Herschel Space Observatory",
+        "Messenger spacecraft",
+        "LCROSS mission",
+        "Water discovery",
+        "Mars ice",
+        "Lunar water",
+        "Star formation",
+        "Asteroid impact risk",
+        "Mercury flyby"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov09-speaker-search-and-club-updates",
+      "documentId": "ephnov09",
+      "title": "Speaker Search and Club Updates",
+      "summary": "The article announces a search for potential speakers for SJAA General Meetings, encouraging members to submit ideas to David Smith. It also reports a concerning issue of eyepiece theft at recent public star parties at Houge Park, urging attendees to secure their equipment and watch out for others' gear to minimize risks.",
+      "categories": [
+        "Club Updates",
+        "Announcements",
+        "Security Alert",
+        "Community Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Speaker Search",
+        "General Meetings",
+        "Eyepiece Theft",
+        "Houge Park",
+        "Star Parties",
+        "Equipment Security",
+        "Astronomy Gear"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov09-it-must-be-astronomical-column",
+      "documentId": "ephnov09",
+      "title": "It Must Be Astronomical... (Column)",
+      "summary": "This column from the 'Ephemeris' newsletter highlights the club's telescope loaner program and recommends several astronomy blogs, including those from SETI and Professor Astronomy. It also answers a question about the most distant moon visible with an amateur telescope (Triton) and announces an upcoming Advanced Imaging Conference. Additionally, the article lists club officers, staff, contact information, and publication details for the San Jose Astronomical Association.",
+      "categories": [
+        "Club News",
+        "Resources",
+        "Education",
+        "Events",
+        "Equipment"
+      ],
+      "keywords": [
+        "telescope loaner program",
+        "astronomy blogs",
+        "SETI",
+        "Triton",
+        "Charon",
+        "amateur astronomy",
+        "Advanced Imaging Conference",
+        "San Jose Astronomical Association",
+        "newsletter",
+        "club administration"
+      ],
+      "pageStart": 7,
+      "pageEnd": 234
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0911/EphNov09.pdf",
+      "txtPath": "0911/EphNov09.md"
+    }
+  ]
+}

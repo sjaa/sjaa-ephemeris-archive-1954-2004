@@ -1,0 +1,165 @@
+{
+  "articles": [
+    {
+      "id": "ephdec09-a-master-s-degree-in-astronomy",
+      "documentId": "ephdec09",
+      "title": "A Master's Degree in Astronomy",
+      "summary": "Paul Kohlmiller recounts his 4.5-year journey to earning an online Master's Degree in Astronomy from Swinburne University, inspired by Marni Berendsen. He details the program's rigorous structure, which included 12 classes with extensive readings, online discussions, two research papers, and open-book tests, contrasting it with 'paper mill' degrees. Kohlmiller reflects on the time, financial investment, and academic challenges, ultimately noting the difficulty in quantifying its worth but emphasizing the personal achievement.",
+      "categories": [
+        "Education",
+        "Personal Experience",
+        "Astronomy",
+        "Online Learning",
+        "Higher Education"
+      ],
+      "keywords": [
+        "Master's Degree",
+        "Astronomy",
+        "Swinburne University",
+        "Online education",
+        "Distance learning",
+        "Academic program",
+        "Paul Kohlmiller",
+        "Higher education",
+        "Student experience",
+        "Academic challenge"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec09-the-shallow-sky",
+      "documentId": "ephdec09",
+      "title": "The Shallow Sky",
+      "summary": "This article details celestial observing opportunities for December, highlighting Jupiter's close passes with Neptune, a double shadow transit, and its daytime visibility, alongside updates on Mercury, Mars, and Saturn. It also explores the utility of Twitter for tracking real-time space news, like the Mars rovers' status and the LCROSS water discovery. The author briefly reflects on the value of an Astronomy Master's degree for amateur astronomers.",
+      "categories": [
+        "Observing Report",
+        "Space Exploration",
+        "Astronomy News",
+        "Technology",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Neptune",
+        "Mars",
+        "Mercury",
+        "Saturn",
+        "Moon",
+        "Double Shadow Transit",
+        "Mars Rovers",
+        "Spirit",
+        "Opportunity",
+        "LCROSS",
+        "Twitter",
+        "Observing",
+        "December 2009",
+        "Master's Degree in Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec09-staring-at-lightning",
+      "documentId": "ephdec09",
+      "title": "Staring at Lightning",
+      "summary": "This article emphasizes the scientific value of monitoring lightning, not just for its visual spectacle but as a key indicator of storm dynamics and potential climate change. NASA and NOAA are developing the Geostationary Lightning Mapper (GLM) for the GOES-R geostationary satellite, set to launch around 2015. GLM will provide continuous, wide-area lightning data, offering unprecedented insights for climate research, severe weather forecasting, and aviation safety, overcoming limitations of previous observational methods.",
+      "categories": [
+        "Space Technology",
+        "Earth Science",
+        "Meteorology",
+        "Climate Research",
+        "Satellite Missions"
+      ],
+      "keywords": [
+        "Lightning",
+        "Geostationary Lightning Mapper (GLM)",
+        "GOES-R",
+        "Satellite",
+        "Climate change",
+        "Storms",
+        "Weather forecasting",
+        "NASA",
+        "NOAA",
+        "Geostationary orbit",
+        "Atmospheric science"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec09-the-last-month-in-astronomy",
+      "documentId": "ephdec09",
+      "title": "The Last Month In Astronomy",
+      "summary": "This past month in astronomy brought updates on the Hayabusa mission's challenging return with asteroid samples, alongside groundbreaking discoveries. Researchers identified a new class of rapid supernova, found a dense carbon atmosphere on a neutron star, and observed the most distant galaxy cluster yet. Furthermore, 32 new exoplanets were discovered, including potential super-Earths in habitable zones, and new images of galaxies and stellar nurseries were captured.",
+      "categories": [
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Astrophysics",
+        "Exoplanets",
+        "Observational Astronomy",
+        "Telescopes",
+        "News"
+      ],
+      "keywords": [
+        "Hayabusa",
+        "Asteroid Itokawa",
+        "Supernova (SN2002bj)",
+        "Neutron star",
+        "Cassiopeia A",
+        "Galaxy cluster (JKCS041)",
+        "Exoplanets",
+        "HARPS spectrograph",
+        "Barnard's Galaxy (NGC6822)",
+        "Herschel telescope",
+        "Chandra",
+        "VLT",
+        "UKIRT",
+        "Ion engines",
+        "Stellar evolution",
+        "Carbon atmosphere",
+        "Rapid supernova",
+        "Most distant galaxy",
+        "Hubble"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec09-it-must-be-astronomical",
+      "documentId": "ephdec09",
+      "title": "It Must Be Astronomical...",
+      "summary": "The December 2009 SJAA Ephemeris newsletter details a telescope loaner program and two astronomy job openings at the Astronomical Society of the Pacific and Lick Observatory. It also announces upcoming events like the Geminid meteor shower and the SJAA Holiday Party, provides an astronomical fact about the Andromeda Galaxy, and lists club officers and contact information.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Job Postings",
+        "Amateur Astronomy",
+        "Observing Tips",
+        "Club Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "astronomy jobs",
+        "Astronomical Society of the Pacific",
+        "Lick Observatory",
+        "Geminid meteor shower",
+        "SJAA Holiday Party",
+        "Andromeda Galaxy",
+        "Ephemeris newsletter"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0912/EphDec09.pdf",
+      "txtPath": "0912/EphDec09.md"
+    }
+  ]
+}

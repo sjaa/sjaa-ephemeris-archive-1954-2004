@@ -1,0 +1,202 @@
+{
+  "articles": [
+    {
+      "id": "ephjan08-deep-sky-observing",
+      "documentId": "ephjan08",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep sky observing list for January 2008, focusing on objects observable during the third quarter to new moon period. The list, organized by right ascension from north to south, includes various celestial objects like galaxies, open clusters, and nebulae, complete with their coordinates, magnitudes, sizes, and brief observational notes. It serves as a sampling of a larger list available online.",
+      "categories": [
+        "observing list",
+        "deep sky astronomy",
+        "amateur astronomy",
+        "observational guide",
+        "technical data"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "observing list",
+        "January 2008",
+        "galaxies",
+        "open clusters",
+        "planetary nebulae",
+        "dark nebulae",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "constellation",
+        "Arp objects",
+        "NGC objects",
+        "Kemble's Cascade"
+      ],
+      "pageStart": 2,
+      "pageEnd": 213
+    },
+    {
+      "id": "ephjan08-wasting-away-again-in-margaritifer",
+      "documentId": "ephjan08",
+      "title": "Wasting Away Again in Margaritifer",
+      "summary": "This article serves as a detailed guide for observing Mars in January 2008, following its Christmas Eve opposition, which presented ideal viewing conditions due to its high altitude. It explains how the Martian day length impacts observation times and provides a chronological breakdown of prominent surface features visible throughout the month, including Syrtis Major, Hellas, Mare Sirenum, and Mare Acidalium. The author offers practical tips for identifying these features, distinguishing polar caps, and challenging oneself with more subtle details like Valles Marineris.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Observation",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Mars",
+        "opposition",
+        "telescope observation",
+        "Martian features",
+        "Syrtis Major",
+        "Hellas",
+        "Mare Cimmerium",
+        "Mare Tyrrhenum",
+        "Cerberus Fossae",
+        "Elysium",
+        "Mare Sirenum",
+        "Olympus Mons",
+        "Tharsis volcanoes",
+        "Lacus Solis",
+        "Mare Erythraeum",
+        "Argyre",
+        "Mare Acidalium",
+        "Niliacus Lacus",
+        "Valles Marineris",
+        "polar caps",
+        "January 2008"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan08-the-shallow-sky",
+      "documentId": "ephjan08",
+      "title": "The Shallow Sky",
+      "summary": "This article provides amateur astronomers with observing tips for January, focusing heavily on prominent Martian features visible throughout the month, including specific bays and lacuses. It also mentions the locations of the Spirit and Opportunity rovers' landing sites. Additionally, it offers brief guidance on observing Saturn, Uranus, Venus, Pluto, and Jupiter during the same period.",
+      "categories": [
+        "observing report",
+        "planetary astronomy",
+        "amateur astronomy",
+        "celestial events"
+      ],
+      "keywords": [
+        "Mars",
+        "January",
+        "observing",
+        "Margaritifer Sinus",
+        "Sinus Meridiani",
+        "Sinus Sabaeus",
+        "Acidalium",
+        "Niliacus Lacus",
+        "Syrtis Major",
+        "Hellas",
+        "Nilosyrtis",
+        "Spirit Rover",
+        "Opportunity Rover",
+        "Gusev Crater",
+        "Saturn",
+        "Uranus",
+        "Venus",
+        "Pluto",
+        "Jupiter"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjan08-board-news",
+      "documentId": "ephjan08",
+      "title": "Board News",
+      "summary": "The article reports on two key updates: the Board of Directors approved minor changes to the bylaws, clarifying quorum requirements and allowing directors to abstain from votes, which await membership ratification. Additionally, the club has received and is selling RASC Observer's Handbooks, astronomy calendars, and Beginner's Observing Guides at a discounted rate, with proceeds supporting the loaner scope program.",
+      "categories": [
+        "Club Governance",
+        "Organizational Updates",
+        "Publications & Resources",
+        "Sales"
+      ],
+      "keywords": [
+        "Bylaws",
+        "Board of Directors",
+        "Quorum",
+        "Voting",
+        "Abstention",
+        "RASC",
+        "Observer's Handbook",
+        "Astronomy Calendar",
+        "Beginner's Observing Guide",
+        "Membership Ratification",
+        "Club Operations"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan08-hesiodus-sunrise-ray",
+      "documentId": "ephjan08",
+      "title": "Hesiodus Sunrise Ray",
+      "summary": "This article describes lunar sunrise and sunset rays, which are shafts of light illuminating the lunar surface through gaps in crater walls, focusing on the Hesiodus Sunrise Ray. This specific phenomenon occurs when sunlight passes through a common gap between the Pitatus and Hesiodus craters, bisecting Hesiodus at particular times of the year. The author recounts a personal observation of the ray and encourages amateur astronomers to use resources like the Robinson Lunar Observatory website to predict and observe these fleeting lunar light shows.",
+      "categories": [
+        "Lunar Astronomy",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Observation Guide"
+      ],
+      "keywords": [
+        "Hesiodus Sunrise Ray",
+        "Lunar rays",
+        "Sunrise rays",
+        "Sunset rays",
+        "Moon observation",
+        "Crater illumination",
+        "Pitatus crater",
+        "Hesiodus crater",
+        "Rupes Recta",
+        "Lunar phenomena",
+        "Amateur astronomy",
+        "Robinson Lunar Observatory"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan08-club-announcements-and-events",
+      "documentId": "ephjan08",
+      "title": "Club Announcements and Events",
+      "summary": "The article announces two board member openings for the SJAA, with elections scheduled for February 16, 2008, highlighting responsibilities like revitalizing the loaner program and overseeing club activities. Additionally, it promotes a free public lecture by Joel Primack and Nancy Abrams on January 23, 2008, as part of the Silicon Valley Astronomical Lecture Series, discussing cosmology and humanity's place in the universe.",
+      "categories": [
+        "Club Announcements",
+        "Events",
+        "Volunteer Opportunities",
+        "Public Lectures",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Members",
+        "Elections",
+        "Volunteer",
+        "Loaner Program",
+        "Silicon Valley Astronomy Lectures",
+        "Joel Primack",
+        "Nancy Abrams",
+        "Cosmology",
+        "Dark Matter",
+        "Dark Energy",
+        "Big Bang",
+        "Public Outreach",
+        "January 2008",
+        "February 2008"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan08",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0801/EphJan08.pdf",
+      "txtPath": "0801/EphJan08.md"
+    }
+  ]
+}

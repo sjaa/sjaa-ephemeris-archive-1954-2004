@@ -1,0 +1,163 @@
+{
+  "articles": [
+    {
+      "id": "ephsep05-calstar",
+      "documentId": "ephsep05",
+      "title": "CalStar",
+      "summary": "The sixth annual CalStar observing event will take place at Lake San Antonio from Thursday, June 29 through Saturday, October 1, 2005, with registration now open. Sponsored by the San Jose Astronomical Association, this low-key star party offers some of California's darkest skies, catered dinners, and separate dark-enforced and casual observing areas. Attendees have options for camping, RVs, or local accommodations, with opportunities to extend their stay.",
+      "categories": [
+        "Event Announcement",
+        "Observing Event",
+        "Star Party",
+        "Astronomy Club Activity",
+        "Logistics"
+      ],
+      "keywords": [
+        "CalStar",
+        "Lake San Antonio",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Observing",
+        "Star Party",
+        "Dark Skies",
+        "Astronomy Event",
+        "Camping",
+        "Registration",
+        "Catered Dinners",
+        "2005"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephsep05-open-letter-to-commander-eileen-collins",
+      "documentId": "ephsep05",
+      "title": "Open Letter to Commander Eileen Collins",
+      "summary": "This open letter to Commander Eileen Collins congratulates her on the STS-114 Space Shuttle Discovery mission, praising her exceptional calm and professionalism in handling various in-flight anomalies like debris strikes and tile damage, as well as political interruptions and weather-related landing delays. The author expresses deep admiration for her 'cool' demeanor and concise responses ('Copy') throughout the challenging flight, contrasting it with his own imagined, less composed reactions. The letter serves as a personal tribute to her leadership and composure under pressure.",
+      "categories": [
+        "Open Letter",
+        "Space Exploration",
+        "Astronaut Tribute",
+        "Mission Commentary"
+      ],
+      "keywords": [
+        "Eileen Collins",
+        "STS-114",
+        "Space Shuttle Discovery",
+        "NASA",
+        "Mission Control",
+        "Spaceflight",
+        "Astronauts",
+        "External Tank",
+        "Tile Damage",
+        "Landing Delays",
+        "Professionalism",
+        "Paul Kohlmiller"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep05-the-tenth-planet",
+      "documentId": "ephsep05",
+      "title": "The Tenth Planet",
+      "summary": "This article discusses the discovery of 2003 UB313, a 'tenth planet' potentially larger than Pluto, and the ongoing debate surrounding planet definitions. It also serves as an observing guide for September 2005, detailing the visibility and positions of various planets including Jupiter, Saturn, Venus (with an upcoming conjunction), Mars (ahead of opposition), Uranus, Neptune, and Pluto. An included sketch provides a detailed observation of Mars from July 2005.",
+      "categories": [
+        "astronomical discovery",
+        "observing guide",
+        "planetary science",
+        "celestial events",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "2003 UB313",
+        "Tenth Planet",
+        "Pluto",
+        "dwarf planet debate",
+        "Kuiper Belt Objects",
+        "Jupiter",
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Venus-Jupiter conjunction",
+        "Uranus opposition",
+        "observing guide September 2005",
+        "telescope",
+        "binoculars"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep05-science-features-and-reports",
+      "documentId": "ephsep05",
+      "title": "Science Features and Reports",
+      "summary": "This article highlights the launch of NOAA-18 in May 2005, the newest low-Earth orbit weather satellite continuing a 45-year legacy of vital atmospheric monitoring for detailed weather forecasting. It also announces a new 'Astronomy for Recreation' seminar offered by Foothill College starting Fall 2005, designed for astronomy hobbyists. Additionally, the document provides detailed solar system statistics for September 2005, including planetary positions, distances, magnitudes, and apparent sizes.",
+      "categories": [
+        "News",
+        "Technology",
+        "Astronomy",
+        "Earth Science",
+        "Education",
+        "Observational Data"
+      ],
+      "keywords": [
+        "NOAA-18",
+        "weather satellites",
+        "weather forecasting",
+        "low-Earth orbit",
+        "geosynchronous satellites",
+        "NASA",
+        "NOAA",
+        "astronomy seminar",
+        "Foothill College",
+        "astronomy hobby",
+        "solar system",
+        "ephemeris",
+        "planetary data",
+        "September 2005"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep05-sjaa-loaner-scope-status",
+      "documentId": "ephsep05",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an updated status of its loaner telescope program, detailing available scopes, those currently on loan, and scopes with extended loan periods. SJAA members can contact Mike Koop to borrow available equipment or be placed on a waiting list for currently loaned items. The list includes a variety of telescopes, binoculars, and specialized scopes, along with the names of members storing or borrowing them.",
+      "categories": [
+        "Club Update",
+        "Equipment Management",
+        "Loaner Program",
+        "Astronomy Club Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope program",
+        "astronomical equipment",
+        "Dobson",
+        "Newtonian",
+        "SCT",
+        "refractor",
+        "binoculars",
+        "astronomy club",
+        "scope availability",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0509/EphSep05.pdf",
+      "txtPath": "0509/EphSep05.md"
+    }
+  ]
+}

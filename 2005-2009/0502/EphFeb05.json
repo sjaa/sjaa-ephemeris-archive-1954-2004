@@ -1,0 +1,226 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb05-sjaa-celebrates-50-years",
+      "documentId": "ephfeb05",
+      "title": "SJAA Celebrates 50 Years",
+      "summary": "The San Jose Astronomical Association (SJAA) celebrated its 50th anniversary on December 18, 2004, with a special meeting featuring historical presentations, long-time members sharing anecdotes, and a traditional holiday general meeting with a white elephant gift exchange. A CD archive of the club's 'Ephemeris' publication was also released. The article also provides a detailed calendar of SJAA activities for February and March 2005, including star parties, astronomy classes, and general meetings.",
+      "categories": [
+        "Club News",
+        "Anniversary",
+        "Events Calendar",
+        "Club History",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "50th Anniversary",
+        "Astronomy Club",
+        "Club History",
+        "Star Parties",
+        "Astronomy Classes",
+        "Ephemeris",
+        "General Meeting",
+        "White Elephant Gift Exchange",
+        "Observing Events"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephfeb05-the-shallow-sky",
+      "documentId": "ephfeb05",
+      "title": "The Shallow Sky",
+      "summary": "This article, 'The Shallow Sky,' offers an astronomical observing guide for February, detailing the visibility of Saturn and Jupiter, including observing conditions and specific altitudes. It also highlights Comet C/2004 Q2 Machholz as easily visible and mentions the Huygens probe's descent to Titan. Additionally, the guide includes directions to Houge Park and a note about a past talk by Don Machholz on cometary discoveries.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Planetary Astronomy",
+        "Cometary Astronomy",
+        "Local Astronomy Information"
+      ],
+      "keywords": [
+        "Saturn",
+        "Jupiter",
+        "Comet C/2004 Q2 Machholz",
+        "Huygens probe",
+        "Titan",
+        "February sky",
+        "Observing guide",
+        "Amateur astronomy",
+        "Mars",
+        "Planetary observation",
+        "Houge Park",
+        "Don Machholz"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb05-bare-mooning",
+      "documentId": "ephfeb05",
+      "title": "Bare Mooning",
+      "summary": "In \"Bare Mooning,\" Dave North recounts his recent month of lunar observation without a telescope, due to various hindering circumstances. He details numerous lunar features visible to the naked eye, including major Maria, prominent craters like Clavius and Tycho, and even ray systems. The article encourages observers to appreciate the Moon's beauty and details even without optical aid, though it also subtly suggests using a telescope when possible.",
+      "categories": [
+        "Observing Reports",
+        "Lunar Observing",
+        "Beginner's Guide"
+      ],
+      "keywords": [
+        "Moon",
+        "Naked-eye observation",
+        "Lunar features",
+        "Maria",
+        "Craters",
+        "Libration",
+        "Astronomy",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb05-huygens-lands-on-titan",
+      "documentId": "ephfeb05",
+      "title": "Huygens Lands On Titan",
+      "summary": "On January 14, 2005, the Huygens probe successfully landed on Titan, Saturn's largest moon, marking the first time a spacecraft landed on a moon of another planet. The probe transmitted data for 90 minutes after landing and returned valuable photos and information during its descent through Titan's atmosphere, which will be further analyzed. This mission was a joint project of the ESA and the Italian Space Agency.",
+      "categories": [
+        "news",
+        "space exploration",
+        "mission update",
+        "planetary science"
+      ],
+      "keywords": [
+        "Huygens probe",
+        "Titan",
+        "Cassini mission",
+        "planetary landing",
+        "ESA",
+        "Italian Space Agency",
+        "space exploration",
+        "moon",
+        "Saturn"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb05-sky-and-telescope-renewals",
+      "documentId": "ephfeb05",
+      "title": "Sky and Telescope Renewals",
+      "summary": "The club offers discounted Sky & Telescope subscriptions as a membership benefit, coordinating renewals by sending notices two months prior to expiration to ensure continuous service. Members are encouraged to renew their club membership concurrently and utilize the club's postage-paid form to help save on expenses and accurately track subscription anniversaries, while online renewal options are currently under development.",
+      "categories": [
+        "Club Announcement",
+        "Membership",
+        "Benefits",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "Sky & Telescope",
+        "Subscription Renewal",
+        "Membership Benefits",
+        "Discounts",
+        "Club Administration",
+        "Online Renewal"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb05-sjaa-february-general-meeting",
+      "documentId": "ephfeb05",
+      "title": "SJAA February General Meeting",
+      "summary": "The SJAA February General Meeting features Scott Sandford providing an update on the Stardust mission, which successfully encountered Comet Wild 2 and is now returning samples to Earth. Additionally, the article commemorates the 75th anniversary of Pluto's discovery, detailing how 11-year-old Venetia Burney named the planet and including a 1991 interview with its discoverer, Clyde Tombaugh, about his early work at Lowell Observatory.",
+      "categories": [
+        "Event Announcement",
+        "Astronomy News",
+        "Space Exploration",
+        "History of Astronomy",
+        "Public Lecture"
+      ],
+      "keywords": [
+        "SJAA Meeting",
+        "Scott Sandford",
+        "Stardust mission",
+        "Comet Wild 2",
+        "Spacecraft update",
+        "Pluto discovery",
+        "Venetia Burney",
+        "Clyde Tombaugh",
+        "Percival Lowell",
+        "Lowell Observatory",
+        "Planet X",
+        "Astronomy history"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb05-solar-system-stats-for-february-2005",
+      "documentId": "ephfeb05",
+      "title": "Solar System Stats for February 2005",
+      "summary": "This document provides astronomical statistics for various solar system bodies, including planets and the Sun, for February 2005. It lists data such as Right Ascension, Declination, Distance (in AU), Apparent Magnitude, and Apparent Size for specific dates within the month. The information is adapted from the Observer's Handbook, sourced from the U.S. Naval Observatory and Her Majesty's Nautical Almanac Office.",
+      "categories": [
+        "Astronomical Data",
+        "Ephemeris",
+        "Observing Guide",
+        "Technical"
+      ],
+      "keywords": [
+        "Solar System",
+        "February 2005",
+        "Right Ascension",
+        "Declination",
+        "Distance",
+        "Magnitude",
+        "Apparent Size",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Sun"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephfeb05-sjaa-loaner-scope-status",
+      "documentId": "ephfeb05",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an update on the status of its loaner telescope program, detailing which scopes are currently available for immediate loan, those recently loaned out, and those on extended loan. SJAA members can contact Mike Koop to borrow available equipment or join a waiting list for other scopes.",
+      "categories": [
+        "Membership Services",
+        "Loaner Program",
+        "Equipment Status",
+        "Community Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy equipment",
+        "borrowing",
+        "members",
+        "availability",
+        "Dobsonians",
+        "refractors",
+        "Schmidt-Cassegrain",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0502/EphFeb05.pdf",
+      "txtPath": "0502/EphFeb05.md"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "articles": [
+    {
+      "id": "ephsep06-shallowsky",
+      "documentId": "ephsep06",
+      "title": "ShallowSky",
+      "summary": "The article advocates for astronomical sketching as a superior method to astrophotography for observing \"shallow sky\" objects—those with high dynamic range like the Moon, planets, and bright nebulae. It argues that the human eye captures more detail than cameras in these instances, and that sketching offers benefits such as a permanent record, aid for comparison, and a way to share views without requiring artistic skill or expensive equipment. Practical tips for sketching various celestial objects are provided, alongside a brief monthly sky guide and information about the CalStar 2006 event.",
+      "categories": [
+        "Observing Techniques",
+        "Astronomical Sketching",
+        "Astrophotography",
+        "Monthly Sky Guide",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Astronomical sketching",
+        "Astrophotography",
+        "Observational astronomy",
+        "Dynamic range",
+        "Planetary observation",
+        "Lunar observation",
+        "Deep sky observation",
+        "Historical astronomy",
+        "CalStar 2006"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep06-astronomy-magazine-renewal-time",
+      "documentId": "ephsep06",
+      "title": "ASTRONOMY magazine renewal time",
+      "summary": "The article announces the renewal period for a group subscription to Astronomy magazine for 2007, facilitated by Jim Van Nuland, detailing pricing ($34 for one year, $60 for two) and payment instructions for current, converting, and new subscribers. Checks will be held until late September before being processed. Additionally, the document includes a classified ad for a used Celestron C-5 telescope with accessories, priced at $550.",
+      "categories": [
+        "Subscription Notice",
+        "Club/Organization Announcement",
+        "Classified Ad"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "Subscription renewal",
+        "Group rates",
+        "Celestron C-5",
+        "Telescope sale",
+        "2007"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep06-electronic-ephemeris",
+      "documentId": "ephsep06",
+      "title": "Electronic Ephemeris",
+      "summary": "This article promotes the electronic version of the \"Ephemeris\" newsletter, highlighting its advantages over the print version, such as instant delivery, color content, hyperlinks, and cost savings for the club. It instructs members on how to access the online publication in PDF or HTML and how to opt-in for electronic delivery. Additionally, it announces a $25 discount for new SJAA members at Scope City for telescope and binocular purchases.",
+      "categories": [
+        "Newsletter Update",
+        "Club Communication",
+        "Membership Information",
+        "Announcements"
+      ],
+      "keywords": [
+        "Electronic Ephemeris",
+        "Online Newsletter",
+        "SJAA",
+        "Membership",
+        "Digital Publication",
+        "PDF",
+        "HTML",
+        "Club Benefits",
+        "Scope City",
+        "Discount"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep06-celebrating-40-years-of-intent-listening",
+      "documentId": "ephsep06",
+      "title": "Celebrating 40 Years of Intent Listening",
+      "summary": "This article celebrates the 40th anniversary of NASA's Deep Space Network (DSN), highlighting its crucial role in enabling robotic space exploration. It emphasizes the symbiotic relationship between advanced spacecraft and the ground-based communication infrastructure, particularly focusing on the evolution of the \"Mars\" 64-meter (later 70-meter) antenna at Goldstone, California. The DSN's continuous technological improvements have allowed for increasingly distant missions, higher data rates, and supported nearly all U.S. planetary missions, as well as international space and scientific endeavors.",
+      "categories": [
+        "Space Exploration",
+        "Space Technology",
+        "History of Science/Technology",
+        "Observatories/Infrastructure",
+        "Engineering"
+      ],
+      "keywords": [
+        "Deep Space Network (DSN)",
+        "Goldstone",
+        "Mars antenna",
+        "Radio Antennas",
+        "Space Exploration",
+        "Robotic Missions",
+        "Communication Technology",
+        "JPL",
+        "40th Anniversary",
+        "NASA",
+        "Mariner IV",
+        "Voyager"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep06-solar-system-stats-for-september-2006",
+      "documentId": "ephsep06",
+      "title": "Solar System Stats for September 2006",
+      "summary": "This article presents a table of Solar System statistics for September 2006, adapted from the Observer's Handbook of The Royal Astronomical Society of Canada. It provides astronomical data including Right Ascension, Declination, distance, apparent magnitude, and apparent size for the Sun and major planets (Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune) on the 1st, 11th, and 21st of the month. The data is sourced from reputable astronomical almanacs and contributors.",
+      "categories": [
+        "Astronomical Data",
+        "Observing Information",
+        "Solar System",
+        "Almanac",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Solar System",
+        "September 2006",
+        "RA",
+        "Dec",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Apparent Size",
+        "Distance",
+        "Planets",
+        "Sun",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Observer's Handbook"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep06-astronomy-for-poets",
+      "documentId": "ephsep06",
+      "title": "ASTRONOMY FOR POETS",
+      "summary": "Foothill College is offering a non-technical astronomy course, \"Astronomy for Poets,\" from September 25 to December 12, 2006. Taught by Andrew Fraknoi, the course explores major astronomical discoveries like black holes and the expanding universe without math, using analogies and images. Prospective students can attend the first class to experience the course before registering, with options for credit or non-credit attendance.",
+      "categories": [
+        "Course Offering",
+        "Education",
+        "Event Announcement",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Foothill College",
+        "Astronomy for Poets",
+        "Andrew Fraknoi",
+        "Stars",
+        "Galaxies",
+        "Universe",
+        "Black Holes",
+        "Big Bang",
+        "Hubble Telescope",
+        "Non-technical astronomy",
+        "Los Altos",
+        "Fall 2006"
+      ],
+      "pageStart": 6,
+      "pageEnd": 25
+    },
+    {
+      "id": "ephsep06-sjaa-loaner-scope-status",
+      "documentId": "ephsep06",
+      "title": "SJAA loaner scope status",
+      "summary": "The article provides an update on the status of the San Jose Astronomical Association (SJAA) loaner scope program, listing various telescopes and binoculars available for members to borrow. It details which scopes are immediately available, those currently on loan with due dates, and those with extended loan periods or undergoing repair. Members interested in borrowing a scope are directed to contact Mike Koop, with a notice that the waiting list is currently empty.",
+      "categories": [
+        "program update",
+        "equipment loan",
+        "membership services",
+        "observing reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescopes",
+        "astronomy equipment",
+        "scope status",
+        "members",
+        "borrowing",
+        "available scopes",
+        "dobsonians",
+        "SCT",
+        "refractors",
+        "binoculars"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0609/EphSep06.pdf",
+      "txtPath": "0609/EphSep06.md"
+    }
+  ]
+}

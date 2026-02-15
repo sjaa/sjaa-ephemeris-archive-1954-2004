@@ -1,0 +1,236 @@
+{
+  "articles": [
+    {
+      "id": "ephapr09-sjaa-ephemeris",
+      "documentId": "ephapr09",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA EPHEMERIS details upcoming events for the San Jose Astronomical Association from late March through May, including numerous star parties at Houge Park, dedicated Dark Sky weekends at Henry Coe Park, astronomy classes, and their annual auction. Additionally, the article announces the annual SJAA Yosemite Public Star Party in July, offering free admission and camping to volunteers at Glacier Point in exchange for public outreach.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Astronomy Club Activities",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Star Party",
+        "Dark Sky Weekend",
+        "Houge Park",
+        "Henry Coe Park",
+        "Astronomy Class",
+        "Auction",
+        "Yosemite",
+        "Glacier Point",
+        "Astronomy Day",
+        "Messier Marathon"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephapr09-april-2009",
+      "documentId": "ephapr09",
+      "title": "APRIL 2009",
+      "summary": "This document is a calendar for April 2009, featuring daily highlights that combine celestial events, historical dates in space exploration, and various awareness days with educational content. Each entry provides links and references to activities, articles, and games from NASA's 'The Space Place' website, focusing on space science, mathematics, and Earth-related topics for educational purposes.",
+      "categories": [
+        "Calendar",
+        "Educational Resources",
+        "Astronomy",
+        "Space Exploration",
+        "Science Communication",
+        "Monthly Events"
+      ],
+      "keywords": [
+        "April 2009",
+        "Calendar",
+        "NASA",
+        "The Space Place",
+        "Educational activities",
+        "Space science",
+        "Mathematics Awareness Month",
+        "Moon phases",
+        "Space Shuttle",
+        "Hubble Space Telescope",
+        "Earth Day",
+        "Astronomy for kids",
+        "Science education"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr09-pluto-visits-the-states",
+      "documentId": "ephapr09",
+      "title": "Pluto visits the states",
+      "summary": "This article presents an astronomical ephemeris for April 2009, detailing observable planets like Saturn, Mercury, Venus (including an occultation by the Moon), and Mars (conjunctions with Venus and Uranus). It also humorously discusses recent resolutions from New Mexico and Illinois declaring Pluto a planet within their state boundaries, sparking commentary on Pluto's controversial status and the practical implications of such declarations.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Astronomy News",
+        "Astronomical Ephemeris",
+        "Space Policy"
+      ],
+      "keywords": [
+        "Pluto",
+        "planetary status",
+        "dwarf planet",
+        "New Mexico",
+        "Illinois",
+        "April 2009",
+        "Saturn",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Jupiter",
+        "Neptune",
+        "occultation",
+        "conjunction",
+        "Clyde Tombaugh"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr09-where-did-all-these-gadgets-come-from",
+      "documentId": "ephapr09",
+      "title": "Where did all these gadgets come from?!",
+      "summary": "NASA's New Millennium Program (NMP) is crucial for flight-testing innovative space technologies, such as ion propulsion and AI, before they are integrated into real missions. By validating these advanced systems, NMP significantly reduces risk and enables ambitious space exploration projects like the Dawn mission, which relies on ion propulsion, and has enhanced numerous other probes, including the Mars rovers and the New Horizons mission. The program's success demonstrates that in-space validation is key to widespread technology adoption across deep-space missions.",
+      "categories": [
+        "news",
+        "technical",
+        "space exploration",
+        "NASA programs"
+      ],
+      "keywords": [
+        "New Millennium Program (NMP)",
+        "NASA",
+        "space technology",
+        "ion propulsion",
+        "Deep Space 1",
+        "Dawn mission",
+        "flight testing",
+        "space exploration",
+        "artificial intelligence",
+        "hyper-spectral imagers",
+        "JPL"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr09-mailing-list-policy",
+      "documentId": "ephapr09",
+      "title": "Mailing List Policy",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) mailing list policy, detailing open posting with moderation for non-board members and highlighting increased transparency through public links and visible subscriber lists. Separately, it includes an astronomical analysis of Pluto's declination, concluding that it will never be observed directly overhead from locations like New Mexico or Illinois due to its maximum northern declination, thus challenging its planetary status based on this criterion.",
+      "categories": [
+        "Club Administration",
+        "Organizational Policy",
+        "Astronomy",
+        "Planetary Science",
+        "Communication",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "mailing list policy",
+        "communication transparency",
+        "moderation",
+        "Pluto",
+        "declination",
+        "planetary status",
+        "astronomy",
+        "celestial mechanics",
+        "JPL HORIZONS"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr09-the-last-month-in-astronomy",
+      "documentId": "ephapr09",
+      "title": "The Last Month In Astronomy",
+      "summary": "This astronomy report for February-March 2009 details several significant events, including the successful launch of the Kepler spacecraft to search for exoplanets and the discovery of a binary black hole. It also covers the deliberate lunar crash of China's Chang'e 1, the launch failure of the Orbiting Carbon Observatory, and the upcoming Planck mission to study the Cosmic Microwave Background. Additionally, the article notes a local talk by Christopher McKay discussing Mars findings.",
+      "categories": [
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Mission News",
+        "Astrophysics",
+        "Planetary Science",
+        "Local Events"
+      ],
+      "keywords": [
+        "Kepler spacecraft",
+        "Exoplanets",
+        "Binary black hole",
+        "Chang'e 1",
+        "OCO failure",
+        "Planck mission",
+        "Cosmic Microwave Background",
+        "Herschel mission",
+        "Mars exploration",
+        "Space telescopes"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephapr09-loaners",
+      "documentId": "ephapr09",
+      "title": "Loaners",
+      "summary": "The article describes a club's loaner program, which allows members to try various telescopes of different sizes and technologies before making a purchase. Highlighted as a significant member benefit, the program caters to all experience levels and maintains a constantly changing inventory of available scopes.",
+      "categories": [
+        "Club Programs",
+        "Member Benefits",
+        "Equipment"
+      ],
+      "keywords": [
+        "loaner program",
+        "telescopes",
+        "astronomy equipment",
+        "club membership",
+        "scopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr09-deep-sky-objects",
+      "documentId": "ephapr09",
+      "title": "Deep Sky Objects",
+      "summary": "The article presents three recommended deep sky objects for observation in March, categorized by difficulty: NGC 2567 (easy open cluster), NGC 2613 (medium edge-on spiral galaxy), and Abell 29 (difficult planetary nebula). For each object, it provides celestial coordinates, a brief description, and apparent magnitude. The article also includes a trivia question about a distant bright star, Deneb.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Objects",
+        "Astronomy Recommendations"
+      ],
+      "keywords": [
+        "Deep Sky Objects",
+        "NGC 2567",
+        "NGC 2613",
+        "Abell 29",
+        "Open Cluster",
+        "Spiral Galaxy",
+        "Planetary Nebula",
+        "March",
+        "Observation",
+        "Magnitude",
+        "Celestial Coordinates",
+        "Deneb"
+      ],
+      "pageStart": 287,
+      "pageEnd": 287
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0904/EphApr09.pdf",
+      "txtPath": "0904/EphApr09.md"
+    }
+  ]
+}

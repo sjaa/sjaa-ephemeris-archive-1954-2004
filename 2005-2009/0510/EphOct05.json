@@ -1,0 +1,207 @@
+{
+  "articles": [
+    {
+      "id": "ephoct05-the-shallow-sky-mars-observing-101",
+      "documentId": "ephoct05",
+      "title": "The Shallow Sky: Mars Observing 101",
+      "summary": "This article from the SJAA Ephemeris provides a comprehensive guide to observing Mars during its upcoming opposition and closest approach in late October/early November 2005. It explains what an opposition is, highlights the favorable observing conditions due to Mars' high altitude this year, and offers practical advice for amateur astronomers, including sketching, using software and globes, and identifying key surface features. Additionally, the document includes a detailed calendar of the San Jose Astronomical Association's activities for October and November.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Events Calendar",
+        "Planetary Science",
+        "Amateur Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Mars",
+        "Opposition",
+        "Observing",
+        "Telescope",
+        "SJAA",
+        "Star Party",
+        "Akkana Peck",
+        "Syrtis Major",
+        "Hellas",
+        "Sketching",
+        "Astronomy Class",
+        "ATM Class",
+        "October",
+        "November"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct05-birthday-for-a-legend",
+      "documentId": "ephoct05",
+      "title": "Birthday for a Legend",
+      "summary": "The article reports on AANC-Con 2005 in San Francisco, celebrating John Dobson's 90th birthday, honoring his contributions to amateur astronomy and the Dobsonian telescope mount. The event featured solar observing, mirror grinding, a mayoral proclamation, and a film screening. Additionally, the document provides a guide for observing Mars, detailing specific surface features and weather phenomena like orographic clouds and dust storms.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "Observing Guides",
+        "Astronomy History",
+        "Planetary Observation"
+      ],
+      "keywords": [
+        "John Dobson",
+        "Dobsonian mount",
+        "AANC-Con 2005",
+        "Sidewalk Astronomers",
+        "Mars observation",
+        "planetary features",
+        "dust storms",
+        "mirror grinding",
+        "San Francisco"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct05-october-15-speaker-dr-diane-wooden-on-what-we-have-learned-from-deep-impact",
+      "documentId": "ephoct05",
+      "title": "October 15 Speaker: Dr. Diane Wooden, on what we have learned from Deep Impact",
+      "summary": "The article announces Dr. Diane Wooden, an astrophysicist from NASA Ames Research Center, as the speaker for an October 15 event. She will discuss the findings from the Deep Impact mission, which involved a spacecraft impacting Comet Tempel 1 in 2005. Dr. Wooden's talk will cover what has been learned about comets, their composition, and their role as time capsules from the early solar system.",
+      "categories": [
+        "Event Announcement",
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Research"
+      ],
+      "keywords": [
+        "Deep Impact",
+        "Comet Tempel 1",
+        "Dr. Diane Wooden",
+        "NASA Ames Research Center",
+        "Comets",
+        "Solar System Formation",
+        "Astrophysics",
+        "Spacecraft",
+        "Cosmic Dust"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct05-marveling-the-august-celestial-fireworks",
+      "documentId": "ephoct05",
+      "title": "Marveling the August Celestial Fireworks",
+      "summary": "The article details Ernie Piini's experience observing and recording the annual Perseid meteor shower on August 11 with Dr. Peter Jenniskens at Fremont Peak State Park. Piini used his redesigned Image Intensifier recording system, which boasts a wider field of view, to capture over 150 meteors. The observers are awaiting data from multiple other cameras to precisely measure predicted elevated meteor rates.",
+      "categories": [
+        "observing report",
+        "astronomy",
+        "technical equipment",
+        "meteor shower"
+      ],
+      "keywords": [
+        "Perseid meteor shower",
+        "Ernie Piini",
+        "Dr. Peter Jenniskens",
+        "Fremont Peak State Park",
+        "Image Intensifier system",
+        "meteor observation",
+        "astronomical equipment",
+        "celestial events",
+        "shadow bands",
+        "Leonid shower"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct05-nasa-space-place",
+      "documentId": "ephoct05",
+      "title": "NASA Space Place",
+      "summary": "NASA's Deep Impact mission successfully collided an 820-lb copper impactor with Comet Tempel 1 on July 4, 2005, providing scientists with their first view beneath a comet's crust. This improbable bulls-eye, 88 million miles from Earth, was made possible by 'AutoNav,' an autonomous navigation computer program with artificial intelligence, which executed critical last-minute course corrections that human navigators couldn't have performed due to distance and time delays. Developed and proven on the Deep Space 1 mission, AutoNav's success paves the way for future precision targeting in space.",
+      "categories": [
+        "Space Exploration",
+        "Spacecraft Technology",
+        "Astronomy News",
+        "Scientific Achievements",
+        "NASA Missions"
+      ],
+      "keywords": [
+        "Deep Impact mission",
+        "Comet Tempel 1",
+        "AutoNav",
+        "Autonomous Navigation",
+        "NASA",
+        "JPL",
+        "Comets",
+        "Spacecraft",
+        "Artificial intelligence",
+        "Deep Space 1",
+        "Impactors"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct05-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephoct05",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "Astronomer Cynthia Phillips will deliver a non-technical lecture on October 5, 2005, focusing on Jupiter's moon Europa, exploring the evidence for liquid water and the potential for life beneath its icy surface. This free public event is part of the Silicon Valley Astronomy Lecture Series. The document also includes detailed Solar System statistics for October 2005, providing ephemeris data for various celestial bodies.",
+      "categories": [
+        "Events",
+        "Lectures",
+        "Astronomy",
+        "Planetary Science",
+        "Astronomical Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Cynthia Phillips",
+        "Europa",
+        "Jupiter",
+        "Water",
+        "Life",
+        "SETI Institute",
+        "Silicon Valley Astronomy Lecture Series",
+        "Solar System",
+        "October 2005",
+        "Planetary Geology"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct05-sjaa-loaner-scope-status",
+      "documentId": "ephoct05",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a detailed status update for its loaner telescope program, listing equipment available for immediate loan, items currently borrowed, and those with extended loan periods. SJAA members can contact Mike Koop to borrow scopes, which include various types like Newtonian, Schmidt-Cassegrain, Dobsonian telescopes, and binoculars. The article also mentions a waiting list for popular items, facilitating equipment access for the club's members.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Club News",
+        "Resource Availability"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "binoculars",
+        "astronomy equipment",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "Newtonian",
+        "Refractor",
+        "Star Spectroscope",
+        "borrowing",
+        "availability",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct05",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0510/EphOct05.pdf",
+      "txtPath": "0510/EphOct05.md"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "articles": [
+    {
+      "id": "ephoct06-star-b-q-06",
+      "documentId": "ephoct06",
+      "title": "Star-B-Q 06",
+      "summary": "The article reports on \"Star-B-Q 06,\" an outdoor social event for an astronomy club, likely the SJAA, in October 2006. It features various members, including SJAA President Mike Koop, participating in activities like a trivia contest and discussions about the Fremont Peak Observatory, alongside a quick-forming chow line.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "News"
+      ],
+      "keywords": [
+        "Star-B-Q 06",
+        "SJAA",
+        "Astronomy club",
+        "Social event",
+        "Fremont Peak Observatory",
+        "Trivia contest",
+        "October 2006"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct06-the-shallow-sky",
+      "documentId": "ephoct06",
+      "title": "The Shallow Sky",
+      "summary": "This article discusses the controversial IAU decision to demote Pluto to a \"dwarf planet,\" highlighting the confusing new definition and the widespread disagreement among scientists regarding its flaws and the voting process. It also provides an update on Pluto's current astronomical location in Ophiuchus and offers observing notes for various planets, clarifying previous errors about Uranus's position.",
+      "categories": [
+        "News",
+        "Science Policy",
+        "Astronomy",
+        "Celestial Observing",
+        "Scientific Debate"
+      ],
+      "keywords": [
+        "Pluto",
+        "IAU vote",
+        "Planet definition",
+        "Dwarf planet",
+        "Solar System Bodies",
+        "Ophiuchus",
+        "Planetary observing",
+        "Kuiper Belt",
+        "Alan Stern",
+        "New Horizons mission"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct06-a-club-observatory-tale-from-san-diego",
+      "documentId": "ephoct06",
+      "title": "A Club Observatory, tale from San Diego",
+      "summary": "The article describes the San Diego Astronomical Association's (SDAA) Tierra Del Sol observatory site, a 10-acre facility established 30 years ago. Located 70 miles east of San Diego, it offers a developed dark-sky area for public star parties, a club observatory, and various private observing pads and observatories for members. Its success is attributed to strategic site selection, robust infrastructure (electricity, water, restrooms), diverse offerings for members, and continuous volunteer efforts over decades.",
+      "categories": [
+        "Club Operations",
+        "Observing Sites",
+        "Astronomy Clubs",
+        "Facility Development",
+        "Site Management"
+      ],
+      "keywords": [
+        "San Diego Astronomical Association",
+        "Tierra Del Sol Observatory",
+        "Club observatory",
+        "Observing site",
+        "Dark sky",
+        "Private pads",
+        "Astronomy club management",
+        "Volunteer efforts",
+        "Infrastructure",
+        "Site selection",
+        "Membership models"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct06-alex-filippenko-on-dark-energy-on-october-4-2006",
+      "documentId": "ephoct06",
+      "title": "Alex Filippenko on Dark Energy on October 4, 2006",
+      "summary": "Astronomer Alex Filippenko of UC Berkeley is scheduled to give a non-technical, illustrated talk titled \"Dark Energy and the Runaway Universe\" on October 4, 2006, at Foothill College. The lecture will present compelling evidence for the universe's accelerating expansion, driven by mysterious 'dark energy,' a finding in which Dr. Filippenko's group played a leading role. This free public event is part of the Silicon Valley Astronomy Lectures, offering a progress report on the universe's unexpected behavior.",
+      "categories": [
+        "Event Announcement",
+        "Public Lecture",
+        "Astronomy",
+        "Cosmology",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Alex Filippenko",
+        "Dark Energy",
+        "Runaway Universe",
+        "Accelerating Expansion",
+        "Foothill College",
+        "Silicon Valley Astronomy Lectures",
+        "Cosmology",
+        "Public Talk",
+        "Supernovae"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct06-planetary-insights",
+      "documentId": "ephoct06",
+      "title": "Planetary Insights",
+      "summary": "One article argues for a \"Pluto Exception\" to the IAU's new planet definition, citing historical precedents and Pluto's unique scientific and cultural significance to retain its planetary status. The second article explores the discovery and formation of \"deadly planets\" orbiting pulsars, detailing their extreme radiation environments and how observations from the Spitzer Space Telescope reveal they likely form from post-supernova \"fallback\" disks.",
+      "categories": [
+        "Astronomy",
+        "Planetary Science",
+        "Exoplanets",
+        "Astrophysics",
+        "Scientific Opinion",
+        "IAU Decisions",
+        "Space Exploration",
+        "Stellar Astronomy"
+      ],
+      "keywords": [
+        "Pluto",
+        "planet definition",
+        "IAU",
+        "dwarf planet",
+        "pulsar planets",
+        "exoplanets",
+        "supernova",
+        "Spitzer Space Telescope",
+        "Arecibo telescope",
+        "planet formation",
+        "extreme environments",
+        "radiation",
+        "solar system",
+        "barycenter"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct06-sjaa-loaner-scope-status",
+      "documentId": "ephoct06",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a detailed status update for its loaner telescope program, listing a wide array of telescopes available for immediate loan to members, along with contact information for the program coordinator, Mike Koop. The document also categorizes scopes currently on loan and those with extended loan periods, informing members about availability and waitlist procedures. The waiting list for new reservations is currently empty.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Club Information",
+        "Resource Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy equipment",
+        "San Jose Astronomical Association",
+        "borrowing scopes",
+        "Dobsonian",
+        "Celestron",
+        "Orion",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "spectroscope",
+        "binoculars"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0610/EphOct06.pdf",
+      "txtPath": "0610/EphOct06.md"
+    }
+  ]
+}

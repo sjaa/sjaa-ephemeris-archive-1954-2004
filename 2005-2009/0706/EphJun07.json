@@ -1,0 +1,181 @@
+{
+  "articles": [
+    {
+      "id": "ephjun07-deep-sky-observing",
+      "documentId": "ephjun07",
+      "title": "DEEP SKY OBSERVING",
+      "summary": "This document provides a deep sky observing list compiled by Mark Wagner for June 2007, specifically for the period between the third quarter and new moon. It features a selection of celestial objects, including globular clusters, planetary nebulae, and galaxies, along with their coordinates, size, and magnitude, ordered from north to south. The list is presented as a sampling, directing readers to a full version online.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "ephemeris",
+        "deep sky objects"
+      ],
+      "keywords": [
+        "deep sky observing",
+        "Mark Wagner",
+        "June 2007",
+        "globular cluster",
+        "planetary nebula",
+        "galaxy",
+        "NGC objects",
+        "Messier objects",
+        "Right Ascension",
+        "Declination",
+        "astronomy",
+        "observing list"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun07-jupiter-season-opens",
+      "documentId": "ephjun07",
+      "title": "Jupiter Season Opens",
+      "summary": "This article serves as an observing guide for June, detailing the opening of Jupiter Season with its opposition on the 5th, and Venus's prominent evening display reaching greatest elongation and passing near the Beehive cluster. It covers the visibility and observing challenges for other planets like Saturn, Mercury, and Pluto (at opposition on the 19th), along with advice for locating the bright asteroid 4 Vesta. The piece offers practical tips for amateur astronomers on finding various celestial objects throughout the month.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Celestial Events",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Venus",
+        "Saturn",
+        "Mercury",
+        "Pluto",
+        "4 Vesta",
+        "Opposition",
+        "Greatest Elongation",
+        "Beehive Cluster",
+        "M44",
+        "M107",
+        "Observing tips",
+        "Night Sky",
+        "June",
+        "Asteroid",
+        "Planets"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun07-clouds-from-top-to-bottom",
+      "documentId": "ephjun07",
+      "title": "Clouds from Top to Bottom",
+      "summary": "NASA's experimental CloudSat satellite provides unique 3D profiles of Earth's clouds by penetrating them with radar from top to bottom, unlike traditional satellites that only view cloud tops. This quickly processed data proved invaluable to the U.S. Coast Guard for navigating low-lying clouds during search operations for illegal fishing boats. Beyond its primary role in understanding clouds' critical role in Earth's climate, CloudSat offers vital information on cloud structure and storm intensity for various operational users globally.",
+      "categories": [
+        "Space Mission",
+        "Earth Science",
+        "Satellite Technology",
+        "Operational Applications",
+        "Weather"
+      ],
+      "keywords": [
+        "CloudSat",
+        "NASA",
+        "Clouds",
+        "Vertical Cloud Structure",
+        "Radar Satellite",
+        "U.S. Coast Guard",
+        "Climate Research",
+        "Weather Forecasting"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun07-gold-creation",
+      "documentId": "ephjun07",
+      "title": "Gold Creation",
+      "summary": "This article explores the cosmic origins of gold and other heavy elements, explaining that they are forged through neutron capture processes, specifically the rapid (r-process), rather than conventional stellar fusion. While supernovae are known sites for the r-process, the article delves into more exotic potential mechanisms such as MHD jets, quark-novae, and neutron star mergers, each presenting unique evidence and challenges for the creation of elements like gold.",
+      "categories": [
+        "Astrophysics",
+        "Stellar Evolution",
+        "Nucleosynthesis",
+        "Science Explained"
+      ],
+      "keywords": [
+        "Gold",
+        "Nucleosynthesis",
+        "R-process",
+        "Supernova",
+        "Neutron Star Mergers",
+        "Heavy Elements",
+        "Neutron Capture",
+        "Quark-Nova",
+        "MHD Jets",
+        "Stellar Nucleosynthesis"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun07-the-last-30-days-in-astronomy",
+      "documentId": "ephjun07",
+      "title": "The Last 30 Days In Astronomy",
+      "summary": "This article discusses the synthesis of r-process elements, exploring scenarios like neutron star mergers, collapsars, and supernovae, concluding that Type II Supernovae are likely the dominant source. It also provides a chronological summary of astronomical news from April 13 to May 13, 2007, highlighting discoveries such as STEREO's 3D solar images, the potentially habitable exoplanet Gliese 581c, Mercury's liquid outer core, and the brightest supernova detected.",
+      "categories": [
+        "Astronomical Research",
+        "Stellar Astrophysics",
+        "Exoplanets",
+        "Solar System Exploration",
+        "Space Missions",
+        "Astronomical News"
+      ],
+      "keywords": [
+        "r-process elements",
+        "Supernovae",
+        "Neutron star mergers",
+        "Collapsars",
+        "Black holes",
+        "Gliese 581c",
+        "Habitable exoplanets",
+        "STEREO spacecraft",
+        "Mercury",
+        "Phoenix Mars Lander",
+        "HD 189733b",
+        "Stellar nucleosynthesis",
+        "Gamma-ray bursts",
+        "Solar observation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjun07-sjaa-loaner-scope-status",
+      "documentId": "ephjun07",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a loaner scope program for its members, providing access to various telescopes. This article details the current status of the program, listing scopes available for immediate loan, those recently loaned out, and those on extended loan. Members can contact Mike Koop to arrange borrowing, either for immediate pickup or to be placed on a waiting list.",
+      "categories": [
+        "Program Status Report",
+        "Community Program",
+        "Astronomy Club Information",
+        "Equipment Loan"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner scope program",
+        "Telescopes",
+        "Astronomy equipment",
+        "Members",
+        "Dobson",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Availability"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun07",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0706/EphJun07.pdf",
+      "txtPath": "0706/EphJun07.md"
+    }
+  ]
+}

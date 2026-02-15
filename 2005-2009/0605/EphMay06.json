@@ -1,0 +1,182 @@
+{
+  "articles": [
+    {
+      "id": "ephmay06-eclipse-2006-trip-report",
+      "documentId": "ephmay06",
+      "title": "Eclipse 2006 Trip Report",
+      "summary": "Rob Hawley recounts his 2006 total solar eclipse trip to Libya, detailing the travel logistics with a Sky and Telescope/TravelQuest group and the unique desert viewing site shared with a large international crowd. He outlines his personal goals for the eclipse, focusing on observing it directly while simultaneously attempting automated astrophotography to overcome past equipment failures. His setup involved a computer-controlled Canon 20Da camera on a TeleVue 76 telescope with an Orion EQ-3 mount, allowing for a high volume of images.",
+      "categories": [
+        "observing reports",
+        "travel",
+        "astrophotography",
+        "technical",
+        "club news",
+        "events",
+        "astronomical data"
+      ],
+      "keywords": [
+        "Solar Eclipse 2006",
+        "Libya",
+        "Rob Hawley",
+        "astrophotography setup",
+        "Canon 20Da",
+        "TeleVue 76",
+        "Orion EQ-3",
+        "automated imaging",
+        "SJAA Ephemeris",
+        "star party",
+        "astronomy events",
+        "solar system statistics"
+      ],
+      "pageStart": 1,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmay06-auction-2006",
+      "documentId": "ephmay06",
+      "title": "Auction 2006",
+      "summary": "The 26th SJAA Auction, held on April 9th at Houge Parks, successfully netted approximately $1300 for the organization. Led by auctioneer Kevin Medlock, the event saw strong bidding for smaller items and high-quality eyepieces, despite less interest in small SCT scopes. The success was attributed to numerous volunteers and generous donations from supporters like Scope City, Lumicon International, and Orion Telescope.",
+      "categories": [
+        "Event Report",
+        "Fundraising",
+        "Club Activities",
+        "News"
+      ],
+      "keywords": [
+        "Auction",
+        "SJAA",
+        "Fundraising",
+        "Eyepieces",
+        "Telescopes",
+        "Donations",
+        "Kevin Medlock",
+        "Club Event"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmay06-blue-ring-around-uranus",
+      "documentId": "ephmay06",
+      "title": "Blue Ring Around Uranus",
+      "summary": "The article discusses the recent discovery and scientific explanation of Uranus's outer \"blue ring.\" It posits that the ring's blue color is due to extremely tiny dust particles scattering blue light, a phenomenon analogous to why Earth's sky appears blue. The piece also briefly touches on the visibility and observational prospects for other planets like Jupiter, Saturn, and Mars in the May sky.",
+      "categories": [
+        "Planetary Science",
+        "Astronomy News",
+        "Observational Astronomy",
+        "Scientific Explanation"
+      ],
+      "keywords": [
+        "Uranus",
+        "blue ring",
+        "planetary rings",
+        "light scattering",
+        "dust particles",
+        "Jupiter",
+        "Saturn",
+        "Earth's sky",
+        "planetary observation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay06-eclipse-2006",
+      "documentId": "ephmay06",
+      "title": "Eclipse 2006",
+      "summary": "This article, titled \"Eclipse 2006,\" showcases several photographs of the total solar eclipse that occurred on March 29, 2006, capturing phenomena like solar prominences, the diamond ring effect, and Earthshine. It also announces an upcoming May 13 General Meeting of the San Jose Astronomical Association (SJAA) where members are invited to share their experiences of observing the eclipse.",
+      "categories": [
+        "observing report",
+        "astronomical event",
+        "meeting announcement",
+        "astrophotography"
+      ],
+      "keywords": [
+        "solar eclipse",
+        "Eclipse 2006",
+        "March 29, 2006",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "solar prominence",
+        "diamond ring effect",
+        "Earthshine",
+        "astronomy meeting",
+        "Rob Hawley",
+        "David Baumgartner",
+        "TeleVue 76",
+        "Canon 20Ad",
+        "NASA TV"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay06-nasa-space-place",
+      "documentId": "ephmay06",
+      "title": "NASA Space Place",
+      "summary": "Recent discoveries from the Spitzer Space Telescope indicate that planets may form around virtually any type of star, not just Sun-like stars. Planet-forming dust disks have been observed around both massive 'hypergiant' stars (R 66 and R 126) and a tiny 'brown dwarf' star (Cha 110913-773444). These findings challenge the conventional understanding of planet formation environments and suggest the universe could be teeming with worlds around diverse stellar types.",
+      "categories": [
+        "Astronomy News",
+        "Exoplanet Research",
+        "Stellar Formation",
+        "Space Telescopes",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Spitzer Space Telescope",
+        "Planet formation",
+        "Exoplanets",
+        "Hypergiant stars",
+        "Brown dwarfs",
+        "Dust disks",
+        "Infrared astronomy",
+        "R 66",
+        "R 126",
+        "Cha 110913-773444",
+        "Large Magellanic Cloud",
+        "Solar System"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay06-sjaa-loaner-scope-status",
+      "documentId": "ephmay06",
+      "title": "SJAA loaner scope status",
+      "summary": "The article details the status of the San Jose Astronomical Association (SJAA) loaner scope program, providing a comprehensive list of telescopes available for immediate loan, those currently loaned out with due dates, and scopes on extended loan. SJAA members can contact Mike Koop to borrow an available scope or be placed on a waiting list for currently loaned equipment. The program offers a variety of telescopes, from refractors and Newtonians to numerous Dobsonians and even specialized equipment like a Star Spectroscope and binoculars.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Resources",
+        "Inventory Management",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Loaner Scope",
+        "Telescope",
+        "Astronomy Club",
+        "Dobson",
+        "Newtonian",
+        "Refractor",
+        "Schmidt-Cassegrain",
+        "Spectroscope",
+        "Binoculars",
+        "Equipment Availability",
+        "Member Services"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0605/EphMay06.pdf",
+      "txtPath": "0605/EphMay06.md"
+    }
+  ]
+}
