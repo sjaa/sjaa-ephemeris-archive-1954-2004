@@ -1,0 +1,229 @@
+{
+  "articles": [
+    {
+      "id": "ephjul04-continued-from-page-1",
+      "documentId": "ephjul04",
+      "title": "Continued from page 1",
+      "summary": "This article first describes a simple optical experiment demonstrating diffraction and chromatic aberration using fingers against a bright background and a digital camera, connecting it to methods used in telescope mirror testing. It then transitions to an astronomical observing guide for the month, detailing the visibility of Jupiter, Mercury, Venus, Uranus, Neptune, and Pluto, while noting Saturn and Mars are too close to the sun to be seen.",
+      "categories": [
+        "Observing Reports",
+        "Optics & Physics",
+        "Educational",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Diffraction",
+        "Chromatic Aberration",
+        "Planet Observing",
+        "Jupiter",
+        "Mercury",
+        "Venus",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Optical Experiment",
+        "Skywatching",
+        "Telescope Testing"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "ephjul04-attend-a-conjunction-astrocon-2004-july-20-24-2004-san-francisco-bay-area",
+      "documentId": "ephjul04",
+      "title": "Attend A Conjunction! AstroCon 2004 July 20-24, 2004 San Francisco Bay Area",
+      "summary": "AstroCon 2004, the Astronomical League's annual convention, is scheduled for July 20-24, 2004, in the San Francisco Bay Area. This event brings together major astronomical organizations, offering sessions with professional astronomers, public outreach tips, and a field trip to Lick Observatory. Attendees can find complete details and register online.",
+      "categories": [
+        "Events",
+        "Conferences",
+        "Announcements",
+        "Astronomy Convention"
+      ],
+      "keywords": [
+        "AstroCon 2004",
+        "Astronomical League",
+        "Convention",
+        "Astronomy",
+        "San Francisco Bay Area",
+        "Lick Observatory",
+        "Outreach",
+        "ALPO",
+        "ASP",
+        "AAVSO",
+        "Registration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul04-orbital-dynamics",
+      "documentId": "ephjul04",
+      "title": "Orbital Dynamics",
+      "summary": "This article delves into the orbital dynamics of the Moon, first briefly dismissing the popular 'Blue Moon' definition. It then tackles the practical question of how long the Moon remains centered in a 1-degree eyepiece field of view when using sidereal rates, detailing calculations for its angular motion and apparent size at both apogee and perigee. The author concludes that while lunar rates on telescopes can extend observation time without correction, precise alignment is crucial for their effectiveness.",
+      "categories": [
+        "Orbital Dynamics",
+        "Observational Astronomy",
+        "Lunar Astronomy",
+        "Technical Explanation",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Moon",
+        "Orbital dynamics",
+        "Sidereal orbit",
+        "Eyepiece",
+        "Field of view",
+        "Angular velocity",
+        "Perigee",
+        "Apogee",
+        "Telescope tracking",
+        "Lunar observation",
+        "Blue Moon"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul04-from-the-board",
+      "documentId": "ephjul04",
+      "title": "From The Board",
+      "summary": "The article from the SJAA board announces a request for donations of old laptops (Windows 98 or later with specific features) for club use, noting they are tax-deductible. It also discusses the possibility of creating a new SJAA logo that better represents the club's amateur star parties, suggesting a design depicting people with telescopes, and proposes a potential logo design contest for members.",
+      "categories": [
+        "Club Announcements",
+        "Donations",
+        "Member Involvement",
+        "Equipment Request",
+        "Branding"
+      ],
+      "keywords": [
+        "SJAA",
+        "laptop",
+        "donation",
+        "Windows 98",
+        "tax-deductible",
+        "logo",
+        "star parties",
+        "amateur telescopes",
+        "design contest",
+        "club news"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul04-top-10-ways-to-do-astrophotography",
+      "documentId": "ephjul04",
+      "title": "Top 10 Ways to do Astrophotography",
+      "summary": "This article outlines ten methods for amateur astrophotography, detailing various equipment and techniques for capturing celestial images. It covers options ranging from high-end scientific-grade CCD cameras and dedicated Schmidt cameras to more accessible approaches like modified webcams, piggyback cameras, and using a telescope as a primary lens. The guide also discusses projection eyepieces and low-cost imagers suitable for lunar and planetary photography.",
+      "categories": [
+        "Astrophotography",
+        "Equipment Guide",
+        "Astronomy Techniques",
+        "How-to Guide",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "CCD cameras",
+        "Webcams",
+        "Telescopes",
+        "Imaging techniques",
+        "Amateur astronomy",
+        "Lunar imaging",
+        "Planetary imaging",
+        "Schmidt camera",
+        "T-mount",
+        "Projection eyepiece"
+      ],
+      "pageStart": 5,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephjul04-reflections-on-winning-the-2004-w-bruce-blair-medal",
+      "documentId": "ephjul04",
+      "title": "Reflections on Winning the 2004 W. Bruce Blair Medal",
+      "summary": "Jane Houston Jones reflects on the honor of receiving the 2004 W. Bruce Blair Medal, an award from the Western Amateur Astronomers (WAA), an organization founded by Dr. G. Bruce Blair. She delves into the history of the medal and acknowledges the inspiration she drew from past recipients, ultimately dedicating her award to John Dobson for his formative influence on her amateur astronomy journey and her commitment to sharing the universe with others.",
+      "categories": [
+        "Awards and Recognition",
+        "Personal Reflection",
+        "Amateur Astronomy",
+        "History of Astronomy Organizations"
+      ],
+      "keywords": [
+        "W. Bruce Blair Medal",
+        "Jane Houston Jones",
+        "Western Amateur Astronomers",
+        "Dr. G. Bruce Blair",
+        "Amateur Astronomy",
+        "John Dobson",
+        "Astronomy Awards",
+        "Inspiration",
+        "Telescope Making"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul04-july-general-meeting",
+      "documentId": "ephjul04",
+      "title": "July General Meeting",
+      "summary": "The July General Meeting will feature a guest speaker, Tony Misch from Lick Observatory, discussing the latest research, the new Automatic Planet Finder (APF) telescope, and an animation of the 1882 Transit of Venus. The meeting is set for July 31 at 8:00 p.m. at Hogue Park. The document also provides comprehensive Solar System statistics for July 2004, including ephemeris data for various celestial bodies.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing",
+        "Astronomy Data",
+        "Research"
+      ],
+      "keywords": [
+        "July General Meeting",
+        "Lick Observatory",
+        "Tony Misch",
+        "Automatic Planet Finder",
+        "Transit of Venus",
+        "Solar System Stats",
+        "Ephemeris",
+        "Astronomy Research",
+        "Telescopes",
+        "Planetary Data"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul04-sjaa-loaner-scope-status",
+      "documentId": "ephjul04",
+      "title": "SJAA loaner scope status",
+      "summary": "The article details the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program, providing information for members interested in borrowing equipment. It lists a variety of available telescopes, scopes currently on loan with their due dates, and those with extended loan periods or undergoing repair. The document also includes contact information for Mike Koop, who manages the program, and a waiting list for popular items.",
+      "categories": [
+        "Program Update",
+        "Member Services",
+        "Equipment Management",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy equipment",
+        "borrowing",
+        "available scopes",
+        "scopes on loan",
+        "waiting list",
+        "San Jose Astronomical Association",
+        "member benefits"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0407/EphJul04.pdf",
+      "txtPath": "0407/EphJul04.md"
+    }
+  ]
+}

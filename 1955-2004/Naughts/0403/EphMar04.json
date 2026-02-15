@@ -1,0 +1,272 @@
+{
+  "articles": [
+    {
+      "id": "ephmar04-foothill-college-lecture-series",
+      "documentId": "ephmar04",
+      "title": "Foothill College Lecture Series",
+      "summary": "Foothill College is hosting a free, non-technical lecture by Dr. James Kaler on \"Extreme Stars: The Strangest Critters in the Stellar Zoo\" on Wednesday, March 3 at 7 p.m. The talk will cover unusual stars, star birth, and death. Additionally, there's an advisory about potential road closures near the Mars Center at NASA Ames due to construction.",
+      "categories": [
+        "events",
+        "lecture",
+        "astronomy",
+        "news",
+        "public outreach"
+      ],
+      "keywords": [
+        "Foothill College",
+        "James Kaler",
+        "Extreme Stars",
+        "stellar zoo",
+        "star birth",
+        "star death",
+        "astronomy lecture",
+        "Los Altos Hills",
+        "NASA Ames Research Center",
+        "Mars Center",
+        "traffic advisory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar04-top-and-bottom-or-bottom-and-top",
+      "documentId": "ephmar04",
+      "title": "Top And Bottom (or Bottom and Top?)",
+      "summary": "The article \"Top And Bottom (or Bottom and Top?)\" by Dave North explores the unique advantages of observing the lunar poles, particularly during March. It highlights that the slow terminator movement, consistent low light, and extreme foreshortening offer detailed, stable views of features, sharp profiles, and an easier study of shadows and elevations. The author also touches upon the scientific interest in potential water deposits and practical benefits for future lunar bases in these regions.",
+      "categories": [
+        "Observing Techniques",
+        "Lunar Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "lunar poles",
+        "moon observation",
+        "terminator",
+        "foreshortening",
+        "lunar features",
+        "water deposits",
+        "lunar bases",
+        "selenography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmar04-auction-xxiv",
+      "documentId": "ephmar04",
+      "title": "Auction XXIV",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual Auction XXIV and swap meet on Sunday, April 4, 2004, at Houge Park in San Jose. This event offers an opportunity for both beginners and experienced observers to buy and sell astronomical equipment, including telescopes, filters, and charts. The event features an auction followed by a swap meet, with a 10% commission on sales benefiting the SJAA as a tax-deductible contribution.",
+      "categories": [
+        "Event Announcement",
+        "Observing Community",
+        "Sales/Auction",
+        "Club Activity"
+      ],
+      "keywords": [
+        "Auction",
+        "Swap Meet",
+        "Astronomical Equipment",
+        "Telescopes",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy",
+        "Observing",
+        "San Jose",
+        "Equipment Sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar04-astro-index",
+      "documentId": "ephmar04",
+      "title": "ASTRO INDEX",
+      "summary": "The \"ASTRO INDEX\" article provides a numerical comparison of the known moons for Jupiter and Saturn between 1974 and 2004. It highlights a significant increase in discovered moons, particularly noting the large number of Jovian moons found in 2003.",
+      "categories": [
+        "Astronomical Data",
+        "Solar System",
+        "Discovery Updates",
+        "Statistics"
+      ],
+      "keywords": [
+        "Jovian moons",
+        "Saturnian moons",
+        "Jupiter",
+        "Saturn",
+        "Natural Satellites",
+        "Moon Discovery",
+        "Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmar04-perceiving-the-primordial-pancake",
+      "documentId": "ephmar04",
+      "title": "Perceiving the Primordial Pancake",
+      "summary": "The article details a rare celestial event in late March where all five naked-eye planets—Mercury, Venus, Mars, Jupiter, and Saturn—along with the Moon, are simultaneously visible in the evening sky. It leverages this planetary alignment to explain the concept of the ecliptic, describing it as the plane of the Earth's orbit and where most planets lie due to the solar system's formation from a 'primordial pancake' of dust. The piece also provides specific observing tips for each planet, highlights Jupiter's near opposition, and notes special events like triple shadow transits by its moons.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Celestial Mechanics",
+        "Solar System",
+        "Astronomical Events",
+        "Education"
+      ],
+      "keywords": [
+        "Naked-eye planets",
+        "Planetary alignment",
+        "Ecliptic",
+        "Primordial pancake",
+        "Solar system formation",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Moon",
+        "March",
+        "Observing tips",
+        "Telescope",
+        "Binoculars",
+        "Jupiter shadow transit",
+        "Zodiacal light"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar04-out-there",
+      "documentId": "ephmar04",
+      "title": "Out There",
+      "summary": "This article, \"Out There\" by Mark Wagner, serves as a guide for deep-sky observing, highlighting specific celestial targets such as the Thor's Helmet nebula (NGC 2359), the open cluster NGC 2362, and the galaxy cluster Abell 1367. It also promotes upcoming astronomy events like the SJAA Messier Marathon and the Shingletown Star Party. The piece concludes by discussing the challenging but rewarding phenomenon of observing zodiacal light.",
+      "categories": [
+        "Observing Guides",
+        "Deep-Sky Objects",
+        "Astronomy Events",
+        "Celestial Phenomena",
+        "Observing Techniques"
+      ],
+      "keywords": [
+        "Deep-sky observing",
+        "NGC 2359",
+        "Thor's Helmet",
+        "NGC 2362",
+        "Abell 1367",
+        "Galaxy clusters",
+        "Emission nebulae",
+        "Open clusters",
+        "Zodiacal light",
+        "Messier Marathon",
+        "Shingletown Star Party",
+        "Dark skies",
+        "Wolf-Rayet stars",
+        "OIII filter",
+        "Ultrablock filter"
+      ],
+      "pageStart": 4,
+      "pageEnd": 23
+    },
+    {
+      "id": "ephmar04-attend-a-conjunction-astrocon-2004",
+      "documentId": "ephmar04",
+      "title": "Attend A Conjunction! AstroCon 2004",
+      "summary": "AstroCon 2004 is announced as a unique joint convention of the Astronomical League, AAVSO, ALPO, and ASP, taking place from July 20-24, 2004, in the San Francisco Bay Area. The event will feature professional astronomers, member sessions, public outreach techniques, and a field trip to Lick Observatory. Attendees are encouraged to visit the website or call for registration details.",
+      "categories": [
+        "Events",
+        "News",
+        "Conference Announcement"
+      ],
+      "keywords": [
+        "AstroCon 2004",
+        "Astronomical League",
+        "AAVSO",
+        "ALPO",
+        "ASP",
+        "Astronomy Conference",
+        "San Francisco Bay Area",
+        "Lick Observatory",
+        "Amateur Astronomy",
+        "Public Outreach"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar04-celestial-calendar-march-2004",
+      "documentId": "ephmar04",
+      "title": "Celestial calendar March 2004",
+      "summary": "The 'Celestial calendar March 2004' article provides a guide for observing various deep-sky objects, including galaxy clusters like Abell 1367 and Markarian's Chain, and globular clusters such as M53 and NGC 5053, with recommendations for aperture and observing conditions. It also includes an astronomical ephemeris for March 2004, detailing lunation phases, planetary positions for Mercury, Venus, Mars, Jupiter, and Saturn, and dark sky information for optimal viewing.",
+      "categories": [
+        "Celestial Calendar",
+        "Observational Astronomy",
+        "Deep-Sky Objects",
+        "Ephemeris",
+        "Stargazing Tips",
+        "Monthly Sky Guide"
+      ],
+      "keywords": [
+        "March 2004",
+        "Abell 1367",
+        "Markarian's Chain",
+        "M53",
+        "NGC 5053",
+        "Hickson 68",
+        "Galaxy Cluster",
+        "Globular Cluster",
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Lunation",
+        "Dark Sky",
+        "Observing Guide",
+        "Virgo Cluster",
+        "Coma Berenices",
+        "Leo",
+        "Canes Venatici",
+        "Canis Major"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar04-sjaa-loaner-scope-status",
+      "documentId": "ephmar04",
+      "title": "SJAA loaner scope status",
+      "summary": "This article details the status of the San Jose Astronomical Association's (SJAA) loaner telescope program, providing a comprehensive list of available scopes, those currently on loan, and scopes with extended loan periods. It also includes contact information for borrowing equipment and a waiting list for popular items. The program allows SJAA members to access various telescopes and astronomical instruments.",
+      "categories": [
+        "Club Resources",
+        "Member Services",
+        "Equipment Loan Program",
+        "Inventory Status"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy equipment",
+        "Dobsonian",
+        "refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "member benefits",
+        "observing equipment",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0403/EphMar04.pdf",
+      "txtPath": "0403/EphMar04.md"
+    }
+  ]
+}

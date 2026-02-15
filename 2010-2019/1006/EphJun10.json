@@ -1,0 +1,253 @@
+{
+  "articles": [
+    {
+      "id": "ephjun10-dark-matter-and-dark-energy-how-embarrassing",
+      "documentId": "ephjun10",
+      "title": "Dark Matter and Dark Energy: How Embarrassing!",
+      "summary": "This document features an article discussing the scientific mysteries surrounding dark matter and dark energy, which constitute the vast majority of the universe. It reviews observational evidence, such as anomalous galaxy rotation curves and the accelerating expansion of the universe, that led to their postulation, emphasizing the current lack of understanding. The document also includes an activities calendar for the San Jose Astronomical Association (SJAA), listing upcoming star parties, general meetings, and astronomy classes for May, June, and July.",
+      "categories": [
+        "Cosmology",
+        "Astrophysics",
+        "Amateur Astronomy",
+        "Events",
+        "Science Education"
+      ],
+      "keywords": [
+        "Dark Matter",
+        "Dark Energy",
+        "Universe Expansion",
+        "Galaxy Rotation",
+        "Big Bang",
+        "Star Parties",
+        "Astronomy Classes",
+        "San Jose Astronomical Association",
+        "Lick Observatory",
+        "NASA/Ames"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun10-saturn-s-swirling-snowstorm",
+      "documentId": "ephjun10",
+      "title": "Saturn's swirling snowstorm",
+      "summary": "Amateur astrophotographer Christopher Go discovered a massive blizzard on Saturn in March, which was subsequently confirmed by the Cassini spacecraft, revealing powerful updrafts and high levels of phosphine. This highlights the crucial role of amateur astronomers in monitoring and contributing to significant astronomical discoveries, while the article also provides guidance for amateur involvement and covers other planetary viewing opportunities for June.",
+      "categories": [
+        "observing reports",
+        "planetary science",
+        "amateur astronomy",
+        "news",
+        "celestial events"
+      ],
+      "keywords": [
+        "Saturn",
+        "blizzard",
+        "storm",
+        "Christopher Go",
+        "Anthony Wesley",
+        "Cassini spacecraft",
+        "amateur astronomy",
+        "planetary weather",
+        "phosphine",
+        "ammonia-ice",
+        "Jupiter",
+        "Pluto",
+        "Mars",
+        "Venus",
+        "astrophotography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun10-ancient-supernova-riddle-solved",
+      "documentId": "ephjun10",
+      "title": "Ancient Supernova Riddle, Solved",
+      "summary": "This article discusses the puzzle of how Earth and fragile interstellar clouds, like 'the Local Fluff,' survived ancient supernovae blasts during the Pliocene era. Scientists discovered that the Local Fluff, an interstellar cloud near our solar system, is strongly magnetized. Data from NASA's Voyager spacecraft revealed this magnetic field provides the necessary pressure for the cloud to resist destruction from surrounding hot supernova gas, offering insights into how supernovas interact with their environment.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Space Exploration",
+        "Scientific Discovery",
+        "News"
+      ],
+      "keywords": [
+        "Supernova",
+        "Local Fluff",
+        "Voyager spacecraft",
+        "Magnetism",
+        "Interstellar medium",
+        "Pliocene era",
+        "Australopithecus",
+        "Hydrogen clouds",
+        "Helium clouds",
+        "NASA",
+        "Merav Opher"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun10-directions-to-houge-park",
+      "documentId": "ephjun10",
+      "title": "Directions to Houge Park",
+      "summary": "This document provides detailed driving directions to Houge Park, located in San Jose near Campbell and Los Gatos. It outlines two specific routes: one from Highway 17 via Camden Avenue and Bascom Avenue, and another from Highway 85 via Bascom Avenue and White Oaks Road, guiding visitors to the park's entrance and parking.",
+      "categories": [
+        "Directions",
+        "Location Guide",
+        "Travel Information"
+      ],
+      "keywords": [
+        "Houge Park",
+        "San Jose",
+        "Campbell",
+        "Los Gatos",
+        "Hwy 17",
+        "Hwy 85",
+        "driving directions",
+        "park",
+        "Bascom Avenue",
+        "Twilight Drive"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun10-observatory-fund",
+      "documentId": "ephjun10",
+      "title": "Observatory Fund",
+      "summary": "The SJAA Board of Directors has dissolved its Observatory Committee and plans to absorb the Observatory Fund donations into the club's General Funds. This decision follows a public notice issued last August to terminate efforts to acquire or construct an observatory and redirect its dedicated funds. The Board is seeking input from donors regarding these plans and encourages them to make contact.",
+      "categories": [
+        "Organizational News",
+        "Financial",
+        "Public Notice",
+        "Club Operations"
+      ],
+      "keywords": [
+        "SJAA",
+        "Observatory Fund",
+        "Board of Directors",
+        "General Funds",
+        "Donations",
+        "Fund redirection",
+        "Public Notice",
+        "Observatory Committee",
+        "Nonprofit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun10-current-astronomical-spacecraft",
+      "documentId": "ephjun10",
+      "title": "Current Astronomical Spacecraft",
+      "summary": "This document lists currently active astronomical spacecraft, categorizing them by their operational location such as Earth orbit, orbiting the Moon or Sun, heading toward or at planets, at Lagrangian points, flying past asteroids/comets, or exiting the solar system. It provides numerous examples of observatories and probes for each category, offering a snapshot of current space-based astronomical research.",
+      "categories": [
+        "Space Missions",
+        "Astronomical Observatories",
+        "Reference"
+      ],
+      "keywords": [
+        "Astronomical spacecraft",
+        "Space observatories",
+        "Space probes",
+        "Solar System exploration",
+        "Current missions",
+        "Earth orbit",
+        "Lagrangian points"
+      ],
+      "pageStart": 16,
+      "pageEnd": 16
+    },
+    {
+      "id": "ephjun10-sjaa-yosemite-public-star-party-2010",
+      "documentId": "ephjun10",
+      "title": "SJAA Yosemite Public Star Party 2010",
+      "summary": "The San Jose Astronomical Association (SJAA) is organizing its annual Yosemite Public Star Party at Glacier Point from September 3-5, 2010. Up to 30 participants will receive free admission and rustic camping in exchange for hosting three public observing events throughout the weekend, requiring attendees to bring telescopes and staff the parties. Priority will be given to SJAA members who can provide scopes for public viewing, and interested individuals should contact Jim Van Nuland.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Call for Participation",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite National Park",
+        "Star Party",
+        "Glacier Point",
+        "Astronomy Events",
+        "Public Viewing",
+        "Telescopes",
+        "Camping",
+        "September 2010"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun10-the-last-month-in-astronomy",
+      "documentId": "ephjun10",
+      "title": "The Last Month In Astronomy",
+      "summary": "Recent astronomical discoveries include evidence of a supermassive black hole being expelled from its galaxy, possibly due to a merger, and the detection of an unexpected 'hole' in space by the Herschel spacecraft. Additionally, water ice and organic materials were found on asteroid 24 Themis, revising theories about the asteroid belt's composition. Lastly, the Spitzer Space Telescope observed exoplanet GJ 436b, which surprisingly lacks methane in its atmosphere despite suitable conditions.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Observational Reports",
+        "Space Discoveries"
+      ],
+      "keywords": [
+        "Black hole",
+        "Galaxy merger",
+        "Chandra X-ray observatory",
+        "Herschel spacecraft",
+        "Hole in space",
+        "Stellar jets",
+        "Asteroid 24 Themis",
+        "Water ice",
+        "Organic materials",
+        "Exoplanet GJ 436b",
+        "Methane",
+        "Spitzer Space Telescope",
+        "Infrared astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjun10-it-must-be-astronomical",
+      "documentId": "ephjun10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the SJAA Ephemeris newsletter provides updates for members, including details on a telescope loaner program, visibility of upcoming 2010 eclipses, and a Q&A about supermassive black holes. It also lists several 'Hot Dates' for astronomical events and conferences, such as the Golden State Star Party and SETIcon. Additionally, it provides contact information for the association's officers and staff, along with publication details for the newsletter.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Astronomical Phenomena",
+        "Educational",
+        "Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Loaner program",
+        "Telescopes",
+        "Lunar Eclipse",
+        "Solar Eclipse",
+        "Super Massive Black Hole",
+        "Star Party",
+        "SETIcon",
+        "Astronomy Conferences"
+      ],
+      "pageStart": 7,
+      "pageEnd": 252
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1006/EphJun10.pdf",
+      "txtPath": "1006/EphJun10.md"
+    }
+  ]
+}

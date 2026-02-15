@@ -1,0 +1,238 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1709-sjaa-member-observation-posts-reports",
+      "documentId": "ephemeris-1709",
+      "title": "SJAA Member Observation Posts & Reports",
+      "summary": "The article details two San Jose Astronomical Association (SJAA) member observation events: a highly successful partial solar eclipse viewing at Houge Park on August 21, 2017, which drew about 500 attendees with numerous telescopes and live video feeds; and an observing session at Mendoza Ranch on July 22, 2017. During the Mendoza Ranch event, member Marilyn Perry actively pursued various Astronomical League programs, observing faint fuzzies, Saturn, and the Swan nebula, and discussed her extensive AL achievements. The piece also briefly features a photo from the total solar eclipse in Oregon.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Club Activities",
+        "Amateur Astronomy",
+        "Astronomical League Programs"
+      ],
+      "keywords": [
+        "Solar Eclipse 2017",
+        "SJAA",
+        "Houge Park",
+        "Mendoza Ranch",
+        "Telescope Observing",
+        "Astronomical League",
+        "Star Party",
+        "Deep-sky Objects",
+        "Planetary Observation",
+        "Partial Solar Eclipse",
+        "Total Solar Eclipse"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1709-star-party-reports",
+      "documentId": "ephemeris-1709",
+      "title": "Star Party Reports",
+      "summary": "The San Jose Astronomical Association (SJAA) actively engages in community outreach through two distinct star party programs. The long-running 'School Star Party Central' provides numerous private observing sessions for schools across mid-Santa Clara County, relying on dedicated volunteers and boasting high activity levels. Additionally, SJAA successfully launched its first public 'Pinnacles East Star Party' in collaboration with the National Park Service in July 2017, attracting 200 visitors and initiating efforts to certify Pinnacles East as a Dark Sky Site.",
+      "categories": [
+        "Observing reports",
+        "Community outreach",
+        "Educational programs",
+        "Club activities",
+        "Dark sky advocacy",
+        "Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Star parties",
+        "School star parties",
+        "Pinnacles East",
+        "National Park Service",
+        "NPS",
+        "Jim Van Nuland",
+        "Ed Wong",
+        "Community outreach",
+        "Observing events",
+        "Volunteers",
+        "Dark Sky Site",
+        "International Dark Sky Association",
+        "IDA",
+        "Santa Clara County",
+        "Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1709-cassini-mission-and-saturn-observations",
+      "documentId": "ephemeris-1709",
+      "title": "Cassini Mission and Saturn Observations",
+      "summary": "NASA's Cassini spacecraft is concluding its nearly 20-year mission on September 15, 2017, with an intentional plunge into Saturn's atmosphere, marking the end of its \"Grand Finale\" phase. Media events, including news conferences and live commentary, are scheduled at JPL to cover this historic event. The article also features recent Cassini observations, including an image of Saturn-lit Tethys and a view of Saturn's iconic polar hexagon.",
+      "categories": [
+        "News",
+        "Space Mission",
+        "Planetary Science",
+        "Events",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Cassini",
+        "Saturn",
+        "NASA",
+        "JPL",
+        "Mission End",
+        "Grand Finale",
+        "Tethys",
+        "Hexagon",
+        "Spacecraft",
+        "Atmosphere",
+        "Rings",
+        "Media Events"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1709-iris-nebula-ngc-7023",
+      "documentId": "ephemeris-1709",
+      "title": "Iris Nebula (NGC 7023)",
+      "summary": "This article details an astrophotography session by Bruce Braunstein, capturing the Iris Nebula (NGC 7023) at the Stellarvue Star Party in June 2017. It provides a comprehensive list of the imaging equipment used, including telescope, camera, mount, software, and accessories. Furthermore, it specifies the detailed framing and integration data, totaling 7.9 hours of exposure.",
+      "categories": [
+        "astrophotography report",
+        "technical equipment",
+        "observing report",
+        "event photography"
+      ],
+      "keywords": [
+        "Iris Nebula",
+        "NGC 7023",
+        "Bruce Braunstein",
+        "Stellarvue Star Party 2017",
+        "astrophotography",
+        "imaging equipment",
+        "exposure data",
+        "SBIG STT 8300M",
+        "Astro Tech AT65EDQ",
+        "Paramount MyT",
+        "Pixinsight"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephemeris-1709-kid-spot",
+      "documentId": "ephemeris-1709",
+      "title": "Kid Spot",
+      "summary": "The 'Kid Spot' article features space-themed jokes and a quiz covering solar eclipses and moon phases, with answers provided. It also presents a timeline of '100 Years of Astronomical Discovery' from 1920-1930, highlighting significant events and scientific breakthroughs like the measurement of Betelgeuse, Einstein's Nobel Prize, and the proposal of Hubble's Constant.",
+      "categories": [
+        "Education",
+        "History of Astronomy",
+        "Astronomy",
+        "Quizzes",
+        "Fun Facts"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Astronomy Jokes",
+        "Astronomy Quiz",
+        "Solar Eclipse",
+        "Moon Phases",
+        "Astronomical Discovery",
+        "Betelgeuse",
+        "Geomagnetic Storm",
+        "Albert Einstein",
+        "Photoelectric Effect",
+        "Plaskett's Star",
+        "Arthur Eddington",
+        "Mass Luminosity Relationship",
+        "Cecilia Payne-Gaposchkin",
+        "Robert Goddard",
+        "Liquid Propellant Rocket",
+        "IAU",
+        "Constellations",
+        "Hubble's Constant",
+        "Universe Expansion",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Space History"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-1709-board-meeting-excerpts",
+      "documentId": "ephemeris-1709",
+      "title": "Board Meeting Excerpts",
+      "summary": "The San Jose Astronomical Association (SJAA) Board meetings from May to August 2017 covered various operational and strategic topics. Discussions included progress on the Hogue Park application with the City of San Jose, updates to the SJAA membership database and website, and the creation of an AskSJAA mailing list. The Board also addressed equipment matters, such as repairs for a 24-inch donated scope and budgeting for a new scope for the school program, while refining event guidelines and amending club bylaws.",
+      "categories": [
+        "Board Meetings",
+        "Club Administration",
+        "Event Planning & Management",
+        "Equipment & Facilities",
+        "Outreach & Programs"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meetings",
+        "Hogue Park",
+        "San Jose",
+        "Membership Database",
+        "Website",
+        "AskSJAA",
+        "24-inch scope",
+        "School Program",
+        "Meetup",
+        "Open Space Authority (OSA)",
+        "RCDO",
+        "Bylaws",
+        "Club Address",
+        "Event Guidelines"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-1709-sjaa-library-programs",
+      "documentId": "ephemeris-1709",
+      "title": "SJAA Library & Programs",
+      "summary": "The article details various programs and resources offered by the San Jose Astronomical Association (SJAA) for its members and the community. These include an astronomy library, telescope repair sessions, solar observing events, and educational programs like 'Quick STARt' and 'Intro to the Night Sky'. Additionally, SJAA provides a loaner equipment program and fosters an Astro Imaging Special Interest Group with related workshops and field clinics to support both beginner and experienced astronomers.",
+      "categories": [
+        "Programs",
+        "Services",
+        "Education",
+        "Observing",
+        "Technical",
+        "Resources",
+        "Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "Library",
+        "Telescope Fix It",
+        "Solar Observing",
+        "Quick STARt Program",
+        "Intro to the Night Sky",
+        "Loaner Program",
+        "Astro Imaging SIG",
+        "Workshops",
+        "Astronomy",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Houge Park",
+        "Members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1709",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1709/Ephemeris.1709.pdf",
+      "txtPath": "1709/Ephemeris.1709.md"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1408-barnstorming-the-moon-adventures-of-the-lunar-atmosphere-and-dust-environment-explorer",
+      "documentId": "ephemeris-1408",
+      "title": "Barnstorming the Moon: Adventures of the Lunar Atmosphere and Dust Environment Explorer",
+      "summary": "The article summarizes a talk by Dr. Richard Elphic on the Lunar Atmosphere and Dust Environment Explorer (LADEE) mission (2013-2014). LADEE demonstrated low-cost lunar exploration, tested laser communications, and characterized the Moon's tenuous atmosphere. Key findings included evidence of a dust ejecta cloud caused by constant bombardment and the discovery of noble gases (argon, helium, neon) that \"hop\" across the lunar surface, with concentrations varying by temperature and sunlight.",
+      "categories": [
+        "Observing Reports",
+        "Space Missions",
+        "Planetary Science",
+        "Astronomy Talks",
+        "Research Findings"
+      ],
+      "keywords": [
+        "LADEE mission",
+        "Lunar Atmosphere and Dust Environment Explorer",
+        "Moon",
+        "Lunar atmosphere",
+        "Lunar dust",
+        "Richard Elphic",
+        "NASA Ames",
+        "Exosphere",
+        "Noble gases",
+        "Laser communications",
+        "Micrometeoroids",
+        "Spectrometry"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1408-the-invisible-shield-of-our-sun",
+      "documentId": "ephemeris-1408",
+      "title": "The Invisible Shield of our Sun",
+      "summary": "The Sun creates a vast protective region called the heliosphere, an \"invisible shield\" formed by the solar wind pushing back against the interstellar medium (ISM). This heliosphere effectively blocks dangerous ionized plasma and most high-energy cosmic rays, safeguarding the planets and life within our solar system. Data from spacecraft like Voyager 1 confirmed the heliosphere's effectiveness, revealing a dramatic increase in plasma density and cosmic rays beyond its boundary, the heliopause.",
+      "categories": [
+        "Astronomy",
+        "Solar Physics",
+        "Space Exploration",
+        "Science Explanation",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Sun",
+        "Heliosphere",
+        "Solar Wind",
+        "Interstellar Medium",
+        "Voyager 1",
+        "Heliopause",
+        "Cosmic Rays",
+        "Plasma",
+        "Solar System",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1408-nasa-s-next-giant-leap",
+      "documentId": "ephemeris-1408",
+      "title": "NASA's Next Giant Leap",
+      "summary": "NASA is embarking on its next major human space exploration endeavor, building on the legacy of the Apollo missions to extend human presence deeper into the solar system, specifically towards Mars and beyond. This 'Path to Mars' involves extensive research on the International Space Station and the development of cutting-edge technologies like the Orion spacecraft and Space Launch System (SLS) heavy-lift rocket, designed to enable humans to travel farther than ever before.",
+      "categories": [
+        "Human Space Exploration",
+        "Future Missions",
+        "Space Technology",
+        "NASA Programs",
+        "Deep Space Exploration"
+      ],
+      "keywords": [
+        "NASA",
+        "Mars",
+        "Human exploration",
+        "Orion spacecraft",
+        "Space Launch System (SLS)",
+        "International Space Station (ISS)",
+        "Apollo program",
+        "Deep space",
+        "Spaceflight technology",
+        "Future missions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1408-astronomy-news",
+      "documentId": "ephemeris-1408",
+      "title": "Astronomy News",
+      "summary": "The article details recent astronomical findings and an upcoming celestial event. It highlights Hubble's observation of NGC 121, the oldest globular cluster in the Small Magellanic Cloud, offering insights into stellar evolution and galactic history. Additionally, it reports the Curiosity rover's discovery of an iron meteorite named \"Lebanon\" on Mars, discussing its characteristics and prevalence. Finally, it provides a reminder and viewing tips for the 2014 Perseid meteor shower, noting less ideal conditions due to the moon.",
+      "categories": [
+        "Astronomical Discoveries",
+        "Space Exploration",
+        "Astronomical Events",
+        "Observing Tips",
+        "Stellar Astronomy",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Globular Clusters",
+        "Small Magellanic Cloud",
+        "Curiosity Rover",
+        "Mars Exploration",
+        "Iron Meteorites",
+        "Perseid Meteor Shower",
+        "Star Formation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1408-kid-spot",
+      "documentId": "ephemeris-1408",
+      "title": "KID SPOT",
+      "summary": "This 'Kid Spot' section offers an engaging mix of astronomy-related content, including jokes, a quiz to test knowledge, and a July 2014 night sky challenge encouraging observation of planets and stars. It also provides a detailed educational overview of the constellation Sagittarius, discussing its mythology, recognizable asterisms like 'the Teapot,' and notable deep-sky objects such as the Lagoon, Omega, and Trifid Nebulae, highlighting its proximity to the galactic center.",
+      "categories": [
+        "educational",
+        "observing guide",
+        "astronomy facts",
+        "constellation deep dive"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "astronomy jokes",
+        "astronomy quiz",
+        "night sky challenge",
+        "July 2014",
+        "Saturn",
+        "Mars",
+        "Spica",
+        "Antares",
+        "Great Square of Pegasus",
+        "Sagittarius",
+        "constellations",
+        "zodiac",
+        "the Archer",
+        "the Teapot",
+        "Milky Way",
+        "galactic center",
+        "Lagoon Nebula",
+        "Omega Nebula",
+        "Trifid Nebula",
+        "Messier objects",
+        "Ganymede",
+        "Eta Carinae"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1408-club-updates",
+      "documentId": "ephemeris-1408",
+      "title": "Club Updates",
+      "summary": "The San Jose Astronomical Association (SJAA) provides updates on several member and community programs. These include School Star Parties for educational outreach, a dedicated library for members, and the Advanced Loaner Telescope & QuickSTAR! Programs for equipment evaluation. Additionally, the popular Fix-It Program for telescope repair now requires appointments due to high demand and focuses on specific types of issues.",
+      "categories": [
+        "Club News",
+        "Educational Outreach",
+        "Member Services",
+        "Equipment Programs",
+        "Technical Support"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Parties",
+        "School Programs",
+        "Astronomical Library",
+        "Loaner Telescopes",
+        "QuickSTAR!",
+        "Telescope Repair",
+        "Fix-It Program",
+        "Astronomy Equipment",
+        "Member Benefits"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1408-from-the-board-of-directors",
+      "documentId": "ephemeris-1408",
+      "title": "From the Board of Directors",
+      "summary": "This article from the San Jose Astronomical Association (SJAA) Board of Directors provides updates on club activities and internal matters. Key announcements include celebrating SJAA's 60th anniversary, an upcoming Movie Night featuring \"Robinson Crusoe on Mars\" and \"Star Wars, Episode V,\" and the Annual Show & Tell event. Board meeting excerpts detail discussions on changing the Ephemeris publication frequency, planning for the 60th anniversary, adjusting the FixIt program due to high demand, and moving forward with joining the Astronomical League.",
+      "categories": [
+        "News",
+        "Events",
+        "Organization/Club Business",
+        "Announcements",
+        "Publications"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Board of Directors",
+        "60th Anniversary",
+        "Movie Night",
+        "Annual Show & Tell",
+        "Ephemeris",
+        "Astronomical League",
+        "FixIt Program",
+        "Club events",
+        "Membership",
+        "Astronomy club"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1408",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1408/Ephemeris.1408.pdf",
+      "txtPath": "1408/Ephemeris.1408.md"
+    }
+  ]
+}

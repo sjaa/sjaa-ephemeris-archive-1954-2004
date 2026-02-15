@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-bulletin-02-2026-sjaa-ephemeris-bulletin",
+      "documentId": "ephemeris-bulletin-02-2026",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin marks its one-year anniversary, reiterating its goal to provide timely club announcements, observational notes, and event calendars to members. This issue highlights M81, also known as Bode's Nebula, as the 'Target of the Month,' offering detailed guidance and astronomical data for observing the spiral galaxy. Additionally, the bulletin actively seeks volunteers for various SJAA programs, including content creation for the Ephemeris, astro-imaging talks, equipment loaner support, and school star parties.",
+      "categories": [
+        "Club News",
+        "Observing Guide",
+        "Volunteer Opportunities",
+        "Amateur Astronomy",
+        "Anniversary"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris Bulletin",
+        "M81",
+        "Bode's Nebula",
+        "Ursa Major",
+        "Spiral Galaxy",
+        "Observing Tips",
+        "Astrophotography",
+        "Volunteer",
+        "Astronomy Club",
+        "Celestial Objects"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-bulletin-02-2026",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2602/Ephemeris.Bulletin.02.2026.pdf",
+      "txtPath": "2602/Ephemeris.Bulletin.02.2026.md"
+    }
+  ]
+}

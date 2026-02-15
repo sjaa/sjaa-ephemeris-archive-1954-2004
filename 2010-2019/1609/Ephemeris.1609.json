@@ -1,0 +1,386 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1609-sjaa-at-lick-observatory-may-2016",
+      "documentId": "ephemeris-1609",
+      "title": "SJAA at Lick Observatory May 2016",
+      "summary": "The San Jose Astronomical Association (SJAA) hosted a special tour event at Lick Observatory on May 13, 2016, for 40 members and supporters. Attendees enjoyed presentations by Dr. Elinor Gates and Tanja Bode, a unique 'Ride the Dome' experience with the Shane telescope, and observing celestial objects like the M3 globular cluster and Jupiter through the historic 36\" Great Refractor. The event successfully raised $2,000 to support Lick Observatory.",
+      "categories": [
+        "event report",
+        "observing report",
+        "fundraising",
+        "astronomy club activities",
+        "observatory tour"
+      ],
+      "keywords": [
+        "SJAA",
+        "Lick Observatory",
+        "May 2016",
+        "Shane telescope",
+        "Great Refractor",
+        "M3 globular cluster",
+        "Jupiter",
+        "Elinor Gates",
+        "Bill O'Neil",
+        "Gary Chock",
+        "Tanja Bode",
+        "fundraising",
+        "observatory tour"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1609-curiosity-s-4th-anniversary-on-mars",
+      "documentId": "ephemeris-1609",
+      "title": "Curiosity's 4th Anniversary on Mars",
+      "summary": "This article commemorates the Curiosity rover's fourth anniversary on Mars, highlighting its ongoing mission to collect samples, drill rocks like \"Marimba,\" and ascend Mount Sharp to study ancient geological evidence of environmental evolution. It details the rover's past discovery of a freshwater lake at \"Yellowknife Bay,\" indicating a once-habitable environment, and announces a new 'Mars Rover' social media game for public engagement related to future exploration technologies.",
+      "categories": [
+        "Mars Exploration",
+        "Space Missions",
+        "Anniversaries",
+        "Scientific Discoveries",
+        "Public Outreach",
+        "Rover Operations"
+      ],
+      "keywords": [
+        "Curiosity rover",
+        "Mars",
+        "4th Anniversary",
+        "Mount Sharp",
+        "Gale Crater",
+        "Mars Rover game",
+        "Habitable environment",
+        "Sample collection",
+        "NASA",
+        "Geological evidence"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1609-a-hubble-sky-full-of-stars",
+      "documentId": "ephemeris-1609",
+      "title": "A Hubble Sky Full of Stars",
+      "summary": "The Hubble Space Telescope captured a dazzling image of NGC 4833, a globular cluster located 22,000 light-years away in the constellation Musca. This tightly packed collection of ancient stars is one of over 150 such clusters in the Milky Way, providing astronomers valuable insights into the formation, evolution, and age of our galaxy.",
+      "categories": [
+        "Astronomy",
+        "Space Telescopes",
+        "Celestial Objects",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "NGC 4833",
+        "Globular cluster",
+        "Musca",
+        "Milky Way",
+        "Galaxy formation",
+        "Stellar evolution",
+        "Stars"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1609-five-years-post-launch-juno-is-at-a-turning-point",
+      "documentId": "ephemeris-1609",
+      "title": "Five Years Post-Launch, Juno Is at a Turning Point",
+      "summary": "Five years post-launch, NASA's Juno spacecraft has reached a turning point after arriving at Jupiter, having completed its first apojove on July 31. It is currently in one of two long capture orbits, preparing for its science mission, with all instruments set to collect data during its first close pass over Jupiter on August 27. This pass will serve as a trial run before Juno shortens its orbit to 14 days and fully begins its mission to study Jupiter's deep structure, atmosphere, and magnetic environment.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy",
+        "Mission Update",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Juno spacecraft",
+        "Jupiter",
+        "NASA",
+        "Space mission",
+        "Orbital mechanics",
+        "Apojove",
+        "Science mission",
+        "Capture orbits",
+        "Solar system"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1609-the-autumn-sky",
+      "documentId": "ephemeris-1609",
+      "title": "The Autumn Sky",
+      "summary": "This article outlines celestial events and observing opportunities for the autumn of 2016 (September-December), detailing the visibility and significant conjunctions for major planets like Mercury, Venus, Mars, Jupiter, Saturn, Uranus, and Neptune. It also provides peak dates for meteor showers including the Orionids, Leonids, Geminids, and Ursids, alongside guidance on identifying constellations and news about an SJAA 'half' Messier marathon event.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Events",
+        "Local Club News",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Autumn Sky",
+        "Planet Visibility",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Conjunction",
+        "Aphelion",
+        "Perihelion",
+        "Meteor Showers",
+        "Orionid",
+        "Leonid",
+        "Geminid",
+        "Ursid",
+        "Constellations",
+        "Aquarius",
+        "Pegasus",
+        "Taurus",
+        "Orion",
+        "Deep Sky Objects",
+        "Messier Marathon",
+        "Royal Astronomical Society of Canada",
+        "SJAA",
+        "Observer's Handbook",
+        "September 2016",
+        "October 2016",
+        "November 2016",
+        "December 2016"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1609-pinnacles-dssh-june-4-2016",
+      "documentId": "ephemeris-1609",
+      "title": "Pinnacles DSSH June 4, 2016",
+      "summary": "The San Jose Astronomical Association's (SJAA) Summer Deep Sky Scavenger Hunt at Pinnacles West Side on June 4, 2016, proved to be an exceptional observing event despite initial concerns about wildfire smoke. Organized by Ed Wong, participants enjoyed remarkably clear skies (SQM 21.69), successfully identifying numerous challenging deep-sky objects like Omega Centauri and Centaurus A. The event fostered significant camaraderie and skill development among club members, receiving widespread praise for its organization and excellent viewing conditions.",
+      "categories": [
+        "observing report",
+        "event report",
+        "club activity",
+        "deep sky astronomy"
+      ],
+      "keywords": [
+        "Pinnacles DSSH",
+        "June 4 2016",
+        "Ed Wong",
+        "SJAA",
+        "Deep Sky Scavenger Hunt",
+        "Pinnacles West Side",
+        "Observing",
+        "Omega Centauri",
+        "Centaurus A",
+        "Deep-sky objects",
+        "Star party",
+        "SQM 21.69",
+        "Wildfire smoke",
+        "Amateur astronomy"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1609-sjaa-member-observation-posts",
+      "documentId": "ephemeris-1609",
+      "title": "SJAA Member Observation Posts",
+      "summary": "This article compiles several amateur astronomy observation reports from SJAA members in mid-2016, detailing various experiences from backyard planetary viewing to dark-sky deep-sky observing at remote sites. Members share insights on overcoming challenges like light pollution and poor seeing, utilizing different telescope equipment, and providing detailed descriptions of celestial objects ranging from planets and carbon stars to nebulae and star clusters. The reports also include reviews of observing locations and tips for visual astronomy and basic astrophotography.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Observing",
+        "Deep Sky Observing",
+        "Amateur Astronomy",
+        "Equipment Reviews",
+        "Site Reviews",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Carbon Stars",
+        "Dobsonian Telescopes",
+        "Pinnacles East",
+        "Monte Bello",
+        "Light Pollution",
+        "Nebulae",
+        "Globular Clusters",
+        "Seeing Conditions",
+        "Star Hopping",
+        "Astrophotography"
+      ],
+      "pageStart": 9,
+      "pageEnd": 128
+    },
+    {
+      "id": "ephemeris-1609-cave-nebula",
+      "documentId": "ephemeris-1609",
+      "title": "Cave Nebula",
+      "summary": "This document features two distinct astrophotography reports. Mark Striebeck details his deep-sky imaging of the Cave Nebula from Orange Spring Ranch, California, using specialized telescopes and cameras over 5.4 hours. Separately, Gary Chock describes capturing a rich-field Milky Way shot above the 'Mexican Mine Cabins' from the Ancient Bristlecone Pine Forest using a DSLR and a portable tracker.",
+      "categories": [
+        "observing reports",
+        "astrophotography",
+        "equipment",
+        "imaging techniques"
+      ],
+      "keywords": [
+        "Cave Nebula",
+        "Milky Way",
+        "astrophotography",
+        "Takahashi TOA-130",
+        "FLI ML16803",
+        "Canon EOS 6D",
+        "iOptron SkyTracker",
+        "Pixinsight",
+        "Mariposa, CA",
+        "Ancient Bristlecone Pine Forest",
+        "Mark Striebeck",
+        "Gary Chock"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-1609-eastern-veil-ngc-6995",
+      "documentId": "ephemeris-1609",
+      "title": "Eastern Veil - NGC 6995",
+      "summary": "Manoj Koushik presents an astrophotograph of the Eastern Veil Nebula (NGC 6995), captured from his new backyard 'Tapas Observatory' in San Jose, CA. The image is a culmination of 44 hours of integration over multiple nights in July 2016, detailing the specific telescope, camera, mount, filters, and processing software used. This project marks his return to astrophotography after a period of absence.",
+      "categories": [
+        "Astrophotography",
+        "Observing Report",
+        "Technical",
+        "Equipment"
+      ],
+      "keywords": [
+        "Eastern Veil Nebula",
+        "NGC 6995",
+        "Astrophotography",
+        "Manoj Koushik",
+        "Tapas Observatory",
+        "San Jose",
+        "Stellarvue SVG100",
+        "QSI 683 wsg-8",
+        "Mesu 200",
+        "PixInsight",
+        "Deep-sky imaging",
+        "Narrowband filters"
+      ],
+      "pageStart": 16,
+      "pageEnd": 17
+    },
+    {
+      "id": "ephemeris-1609-kid-spot",
+      "documentId": "ephemeris-1609",
+      "title": "Kid Spot",
+      "summary": "This 'Kid Spot' section offers an engaging blend of astronomy-related content, featuring space-themed jokes, a quiz on NASA's planetary missions, and a collection of 'Did You Know?' facts. Covering diverse topics from solar system features to stellar magnitudes and galaxy clusters, it provides educational and entertaining insights, likely aimed at a broad audience including younger readers. The content was published as part of the SJAA Ephemeris in September 2016.",
+      "categories": [
+        "Educational",
+        "Astronomy Facts",
+        "Quiz",
+        "General Interest",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Space",
+        "NASA Missions",
+        "Solar System",
+        "Planets",
+        "Stars",
+        "Galaxies",
+        "Moon",
+        "Jokes",
+        "Quiz",
+        "Did You Know",
+        "Curiosity",
+        "Juno",
+        "Cassini",
+        "New Horizons",
+        "Magnitude System",
+        "Maunder Minimum",
+        "Rheasilvia",
+        "El Gordo",
+        "Sagittarius",
+        "Lick Observatory",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": 17,
+      "pageEnd": 18
+    },
+    {
+      "id": "ephemeris-1609-board-meeting-excerpts",
+      "documentId": "ephemeris-1609",
+      "title": "Board Meeting Excerpts",
+      "summary": "These board meeting excerpts from May, June, and July 2016 detail the San Jose Astronomical Association's administrative and operational discussions. Key topics included the transition to Google for Non Profits, organization of storage facilities, approval of the 2017 events calendar, and upgrades to club equipment like the Lunt Solar Scope and imaging camera. The board also addressed online security, a new lost and found policy, and community relations regarding observing spaces.",
+      "categories": [
+        "Board Meetings",
+        "Club Administration",
+        "Operations",
+        "Equipment Maintenance",
+        "Events Planning",
+        "Technology",
+        "Facility Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Google for Non Profits",
+        "Storage Room",
+        "Hogue Park",
+        "Events Calendar",
+        "Lunt Solar Scope",
+        "Imaging Program",
+        "Lost & Found",
+        "Mendoza Ranch",
+        "Online Security",
+        "SJAA Forum",
+        "Club Equipment"
+      ],
+      "pageStart": 18,
+      "pageEnd": 19
+    },
+    {
+      "id": "ephemeris-1609-sjaa-library",
+      "documentId": "ephemeris-1609",
+      "title": "SJAA Library!",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a variety of resources and programs for its members and the community, including a library of astronomy books and DVDs. They offer practical support like free telescope repair sessions and an equipment loaner program, alongside educational initiatives such as solar observing, beginner-focused 'Quick STARt' and 'Intro to the Night Sky' sessions, and specialized astrophotography groups and workshops.",
+      "categories": [
+        "Club Programs",
+        "Member Services",
+        "Astronomy Education",
+        "Community Engagement",
+        "Equipment Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Library",
+        "Telescope Fix It",
+        "Solar Observing",
+        "Quick STARt Program",
+        "Intro to Night Sky",
+        "Loaner Program",
+        "Astro Imaging SIG",
+        "Astrophotography",
+        "Workshops",
+        "Beginner Astronomy",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1609",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1609/Ephemeris.1609.pdf",
+      "txtPath": "1609/Ephemeris.1609.md"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "articles": [
+    {
+      "id": "ephmay02-observing-markarian-s-chain-a-one-night-project",
+      "documentId": "ephmay02",
+      "title": "Observing Markarian's Chain — A One-Night Project",
+      "summary": "This article details an amateur astronomer's serendipitous discovery and subsequent dedicated observation of Markarian's Chain in the Virgo constellation. Starting as a casual night out, the experience evolved into a focused project involving research into the chain's constituent galaxies and their scientific significance, particularly their connection to Active Galactic Nuclei. The author shares personal observing tips and encourages deeper contemplation while observing.",
+      "categories": [
+        "observing report",
+        "deep-sky astronomy",
+        "amateur astronomy",
+        "astronomical objects",
+        "galaxy observation",
+        "astronomy education"
+      ],
+      "keywords": [
+        "Markarian's Chain",
+        "Virgo constellation",
+        "galaxies",
+        "Active Galactic Nuclei (AGN)",
+        "deep-sky observing",
+        "Henry Coe State Park",
+        "Coma Berenices",
+        "NGC objects",
+        "telescope",
+        "UV radiation",
+        "B.E. Markarian",
+        "Byurakan Spectral Sky Survey"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmay02-mooning",
+      "documentId": "ephmay02",
+      "title": "Mooning",
+      "summary": "This article highlights prominent women in astronomy, detailing lunar features named after Hypatia, Carolyn Herschel, and Annie Jump Cannon, and provides observational tips for locating them in May 2002. It also explores the historical significance of Castor as the first recognized binary star. Additionally, the document announces two upcoming amateur astronomy events: the inaugural Shingletown Star Party and the annual SJAA Yosemite Trip, both scheduled for July 2002.",
+      "categories": [
+        "Astronomical History & Biography",
+        "Observational Astronomy",
+        "Amateur Astronomy Events",
+        "Lunar Astronomy",
+        "Stellar Astronomy"
+      ],
+      "keywords": [
+        "Hypatia",
+        "Carolyn Herschel",
+        "Annie Jump Cannon",
+        "Lunar features",
+        "Star classification",
+        "Castor",
+        "Binary star",
+        "Shingletown Star Party",
+        "Yosemite Trip",
+        "Amateur astronomy",
+        "Observing tips",
+        "Spectroscopy",
+        "OBAFGKM system",
+        "Sinus Iridum"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay02-the-shallow-sky",
+      "documentId": "ephmay02",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an observing guide for the May evening sky, detailing the positions and appearances of Mercury, Saturn, Venus, Mars, Jupiter, and the Moon, along with tips for locating fainter outer planets. It also offers advice on learning constellations, recommending computer planetarium programs and specific books, and emphasizing the importance of context and dark skies. Additionally, it announces the donation of a 17-inch Dobsonian telescope and a 6-inch battleship binocular to SJAA by Jack Zeiders.",
+      "categories": [
+        "observing guide",
+        "education",
+        "astronomy tips",
+        "club news",
+        "celestial events"
+      ],
+      "keywords": [
+        "May planets",
+        "Mercury",
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Moon",
+        "constellations",
+        "star parties",
+        "telescope donation",
+        "binoculars",
+        "inferior conjunction",
+        "occultations",
+        "lunar eclipse"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay02-aanc-conference-may-18-2002",
+      "documentId": "ephmay02",
+      "title": "AANC Conference May 18, 2002",
+      "summary": "The AANC Conference will take place on May 18, 2002, at the College of San Mateo, featuring a diverse agenda of talks on topics like the Kepler Mission, black holes, and the DART telescope. Attendees can enjoy solar viewing during lunch, followed by planetarium shows, a spaghetti feed hosted by the San Mateo County Astronomical Society, and a star party. Registration details and forms are available on the AANC website.",
+      "categories": [
+        "Events",
+        "News",
+        "Conference",
+        "Announcement"
+      ],
+      "keywords": [
+        "AANC Conference",
+        "College of San Mateo",
+        "Kepler Mission",
+        "Terrestrial planets",
+        "Black hole",
+        "DART membrane telescope",
+        "Coronado Filters",
+        "Solar filters",
+        "Solar viewing",
+        "Planetarium shows",
+        "Star party",
+        "San Mateo County Astronomical Society"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay02-sjaa-loaner-scope-status",
+      "documentId": "ephmay02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article outlines the current status of the SJAA's telescope loaner program for its members. It details which telescopes are immediately available, which are currently on loan with their due dates, and which have extended loan periods. Members interested in borrowing a scope or being placed on a waiting list are instructed to contact Mike Koop.",
+      "categories": [
+        "Club Services",
+        "Equipment Loaner Program",
+        "Membership Information",
+        "Logistics"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Dobson",
+        "Refractor",
+        "Newt/P Mount",
+        "S/C",
+        "Astronomy Club",
+        "Equipment Availability",
+        "Waiting List",
+        "Mike Koop"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0205/EphMay02.pdf",
+      "txtPath": "0205/EphMay02.md"
+    }
+  ]
+}

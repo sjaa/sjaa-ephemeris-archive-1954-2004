@@ -1,0 +1,289 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1703-sjaa-annual-meeting-pot-luck-dinner-elections-and-awards",
+      "documentId": "ephemeris-1703",
+      "title": "SJAA Annual Meeting: Pot Luck Dinner, Elections and Awards",
+      "summary": "The San Jose Astronomical Association (SJAA) held its annual meeting on February 11, 2017, featuring a potluck dinner, elections, and an awards ceremony. New board members were elected, and several individuals, including Ed Wong, Lee Hoglan, and outgoing President Dave Iltner, were recognized for their significant contributions to the club and its community outreach programs. The event highlighted SJAA's various initiatives, particularly its school astronomy and star party programs.",
+      "categories": [
+        "Club Event",
+        "Annual Meeting",
+        "Awards",
+        "Elections",
+        "Organization News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Annual Meeting",
+        "Pot Luck Dinner",
+        "Elections",
+        "Awards",
+        "Service Recognition",
+        "Board Members",
+        "Community Outreach",
+        "Star Parties",
+        "Dave Iltner",
+        "Ed Wong",
+        "Lee Hoglan",
+        "February 2017"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1703-never-groundhog-day-in-jupiter",
+      "documentId": "ephemeris-1703",
+      "title": "Never Groundhog Day in Jupiter",
+      "summary": "NASA's Juno mission recently completed a close flyby of Jupiter on Feb. 2, 2017, with all science instruments operating to collect new data. The mission continues to yield surprising discoveries about Jupiter's magnetic fields, aurora, and internal structure, demonstrating that each flyby offers new insights. The public can also participate by voting on features for JunoCam to image.",
+      "categories": [
+        "news",
+        "space exploration",
+        "planetary science",
+        "mission update",
+        "public outreach"
+      ],
+      "keywords": [
+        "NASA",
+        "Juno mission",
+        "Jupiter",
+        "flyby",
+        "JunoCam",
+        "perijove",
+        "magnetic fields",
+        "aurora",
+        "Jovian Infrared Auroral Mapper",
+        "JIRAM",
+        "Scott Bolton",
+        "Southwest Research Institute"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1703-sjaa-member-observation-trip-and-program-reports",
+      "documentId": "ephemeris-1703",
+      "title": "SJAA Member Observation, Trip, and Program Reports",
+      "summary": "This collection of SJAA member reports details various astronomical activities, including observations of planets (Neptune, Uranus, Venus) and deep-sky objects, as well as an exciting lunar occultation of Aldebaran. It also features a comprehensive site report evaluating Williams Hill for astronomical observing, an update on school star party programs, and an astroimaging workshop report from Coyote Valley.",
+      "categories": [
+        "Observation Reports",
+        "Trip Reports",
+        "Program Reports",
+        "Site Evaluation",
+        "Astrophotography",
+        "Community Events",
+        "Educational Outreach"
+      ],
+      "keywords": [
+        "Neptune",
+        "Uranus",
+        "Venus",
+        "Aldebaran",
+        "Moon",
+        "Lunar occultation",
+        "Deep-sky objects",
+        "Williams Hill",
+        "Mendoza Ranch",
+        "Coyote Valley",
+        "Astrophotography",
+        "Astroimaging workshop",
+        "School star parties",
+        "Astronomical League programs",
+        "Observing sites",
+        "SJAA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1703-aldebaran",
+      "documentId": "ephemeris-1703",
+      "title": "Aldebaran",
+      "summary": "Aldebaran, also known as Alpha Tauri, is an orange giant star located 65 light-years away in the constellation Taurus, and is the brightest star in its constellation, ranking as the 14th brightest in the night sky. Easily found by following Orion's belt, it appears to be part of the Hyades cluster but is significantly closer. The star is close enough to the ecliptic to be regularly occulted by the Moon, with a series of such events occurring between 2015 and 2018, and it is also the destination of the Pioneer 10 probe.",
+      "categories": [
+        "Astronomy",
+        "Celestial Objects",
+        "Star Guides",
+        "Observational Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Aldebaran",
+        "Alpha Tauri",
+        "Taurus",
+        "Orange giant",
+        "Star",
+        "Lunar occultation",
+        "Hyades cluster",
+        "Orion's Belt",
+        "Pioneer 10",
+        "Ecliptic"
+      ],
+      "pageStart": 9,
+      "pageEnd": 2018
+    },
+    {
+      "id": "ephemeris-1703-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-1703",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This article presents an astrophotography gallery showcasing impressive deep-sky images captured by members of the San Jose Astronomical Association (SJAA). It features photographs from Rogelio Bernal Andreo (M31), PJ Mahany (M78), and Eric Zbinden (LBN 762 and LBN 753 molecular clouds). Each entry provides detailed technical specifications including equipment, software, exposure times, and locations, highlighting the diverse skills and techniques of these amateur astronomers.",
+      "categories": [
+        "Astrophotography",
+        "Member Gallery",
+        "Observing Reports",
+        "Astronomy Club News",
+        "Deep-sky Imaging"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophotography",
+        "Deep-sky objects",
+        "M31",
+        "Andromeda Galaxy",
+        "M78",
+        "Molecular Clouds",
+        "Rogelio Bernal Andreo",
+        "PJ Mahany",
+        "Eric Zbinden",
+        "Imaging equipment",
+        "Image processing",
+        "PixInsight",
+        "DARC Observatory"
+      ],
+      "pageStart": 10,
+      "pageEnd": 900
+    },
+    {
+      "id": "ephemeris-1703-kid-spot",
+      "documentId": "ephemeris-1703",
+      "title": "Kid Spot",
+      "summary": "This article features a 'Kid Spot' section with astronomy-themed jokes and a quiz on astronomical facts, including questions about constellations and historical figures. It also includes a historical timeline detailing significant astronomical discoveries made between 1904 and 1912, excerpted from Astronomy Magazine. The answers to the 'Kid Spot Quiz' are provided at the end.",
+      "categories": [
+        "Educational",
+        "Astronomy History",
+        "Quizzes",
+        "Jokes",
+        "Magazine Excerpts"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Astronomy",
+        "Jokes",
+        "Quiz",
+        "Constellations",
+        "International Astronomical Union",
+        "Buzz Aldrin",
+        "Astronomical Discovery",
+        "Interstellar Medium",
+        "Photoelectric Effect",
+        "Special Relativity",
+        "Trojan Asteroid",
+        "Tunguska Event",
+        "Hale Telescope",
+        "Sunspots",
+        "Milky Way",
+        "Andromeda Nebula",
+        "Doppler Shift"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-1703-from-the-board-of-directors",
+      "documentId": "ephemeris-1703",
+      "title": "From the Board of Directors",
+      "summary": "This article from the Board of Directors outlines key decisions and announcements for the SJAA, including upcoming club officer elections, a spring swap meet, and Earth Day. Board meeting excerpts detail discussions on a new membership database, managing club assets, planning for awards and a solar eclipse event, and the approval of budgets for a new speaker system and solar program batteries. The board also addressed internal operational matters like club correspondence, calendar management, and the 'Ask SJAA' service.",
+      "categories": [
+        "Club Operations",
+        "Events",
+        "Governance",
+        "News",
+        "Planning",
+        "Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Club Officer Elections",
+        "Swap Meet",
+        "Earth Day",
+        "Membership Database",
+        "Club Assets",
+        "Awards",
+        "Ask SJAA",
+        "Speaker System",
+        "Unitron Event",
+        "Solar Eclipse",
+        "ASP Girl Scouts Program",
+        "Solar Program",
+        "Club Calendar"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-1703-sjaa-library",
+      "documentId": "ephemeris-1703",
+      "title": "SJAA Library",
+      "summary": "The article outlines various resources and programs offered by the SJAA (San Jose Astronomical Association) for its members and the community. These include a library of astronomy books and DVDs, a free 'Telescope Fix It' service, and a loaner equipment program. Additionally, it details several educational and observational opportunities such as solar observing sessions, beginner-focused 'Quick STARt' and 'Intro to the Night Sky' programs, and special interest groups and workshops for astrophotography.",
+      "categories": [
+        "Programs",
+        "Resources",
+        "Education",
+        "Events",
+        "Services",
+        "Observing",
+        "Technical"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Programs",
+        "Library",
+        "Telescope Repair",
+        "Solar Observing",
+        "Beginner Astronomy",
+        "Night Sky Observation",
+        "Equipment Loaner",
+        "Astrophotography",
+        "Workshops",
+        "Special Interest Groups"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1703-school-star-party",
+      "documentId": "ephemeris-1703",
+      "title": "School Star Party",
+      "summary": "The San Jose Astronomical Association (SJAA) offers \"star parties\" or evening observing sessions for schools across mid-Santa Clara County, with Jim Van Nuland coordinating the program. The document also provides a comprehensive list of SJAA contacts for various roles and programs, along with details about their quarterly newsletter, Ephemeris.",
+      "categories": [
+        "Educational Outreach",
+        "Observing Events",
+        "Organizational Information",
+        "Contact Information",
+        "Local Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star Party",
+        "School Events",
+        "Observing Sessions",
+        "Santa Clara County",
+        "Astronomy Club",
+        "Community Outreach",
+        "Ephemeris Newsletter"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1703",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1703/Ephemeris.1703.pdf",
+      "txtPath": "1703/Ephemeris.1703.md"
+    }
+  ]
+}

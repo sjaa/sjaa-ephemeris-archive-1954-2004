@@ -1,0 +1,304 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-23-09-i-would-rather-see-starlight-than-streetlights",
+      "documentId": "ephemeris-23-09",
+      "title": "\"I Would Rather See Starlight than Streetlights\"",
+      "summary": "This article serves as an endorsement for The Astronomical League (AL), highlighting its benefits for amateur astronomers seeking to enhance their observing skills through structured programs. The author, Marianne Damon, details AL membership perks, including free observing guides and magazine subscriptions, and elaborates on the organization's over 30 observing programs, awards, and support for dark sky preservation. Founded 77 years ago, the AL is presented as a valuable resource for learning and community for its 23,000 members across 300 member societies.",
+      "categories": [
+        "Amateur Astronomy",
+        "Organizations",
+        "Observing Programs",
+        "Membership",
+        "Dark Sky Preservation"
+      ],
+      "keywords": [
+        "Astronomical League (AL)",
+        "Observing Programs",
+        "Amateur Astronomy",
+        "Membership",
+        "Dark Sky Preservation",
+        "Reflector",
+        "Observing Skills",
+        "Sky & Telescope",
+        "Astronomy magazine",
+        "Starlight"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-23-09-happy-hours",
+      "documentId": "ephemeris-23-09",
+      "title": "Happy Hours",
+      "summary": "The article \"Happy Hours\" by Marianne Damon quantifies the extensive volunteer efforts of an association's members, calculating the time and monetary value of their contributions. It meticulously tallies volunteer hours across various \"members only\" and \"public\" programs, estimating a grand total of 331 hours per month. Valuing these hours at California's non-profit rate of $37.32/hour, the article concludes that the members contribute over $12,353 worth of service to the association and community monthly.",
+      "categories": [
+        "Organizational Management",
+        "Volunteerism",
+        "Community Outreach",
+        "Financial Valuation",
+        "Astronomy Club Operations"
+      ],
+      "keywords": [
+        "Volunteer hours",
+        "Non-profit organizations",
+        "Community service",
+        "Astronomy programs",
+        "Member engagement",
+        "Financial value",
+        "Star parties",
+        "Public outreach",
+        "Association management",
+        "Volunteer recognition"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-23-09-citizen-science-building-the-light-curve-of-supernova-sn-2023ixf-and-photometric-considerations",
+      "documentId": "ephemeris-23-09",
+      "title": "Citizen science: building the light curve of supernova SN 2023ixf and photometric considerations",
+      "summary": "Francesco Meschia details his 80-day citizen science project to construct the light curve of supernova SN 2023ixf, located in the M101 galaxy. He utilized his amateur astrophotography equipment and advanced photometric methods, subsequently having his data validated by a professional astronomer and published as an AstroNote. The article underscores the significant scientific contributions possible through amateur astronomy and rigorous data collection.",
+      "categories": [
+        "Citizen Science",
+        "Amateur Astronomy",
+        "Observational Astronomy",
+        "Photometry Techniques",
+        "Supernova Research"
+      ],
+      "keywords": [
+        "Citizen Science",
+        "Supernova SN 2023ixf",
+        "Photometry",
+        "Light Curve",
+        "Amateur Astronomy",
+        "Type II Supernova",
+        "M101 Galaxy",
+        "Aperture Photometry",
+        "Differential Photometry",
+        "AstroNote",
+        "Data Analysis",
+        "Astronomical Observation",
+        "Astrophotography",
+        "Stellar Evolution",
+        "Standard Candles"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-23-09-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-23-09",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This document showcases the San Jose Astronomical Association (SJAA) Member Astrophoto Gallery, featuring recent astronomical images captured by its members. It highlights four distinct astrophotographs, including the Soap Bubble, Elephant Trunk, SunSpot, and Cat's Paw/Lobster nebulae. Each entry provides comprehensive technical details such as the photographer's name, imaging dates, locations, specific telescopes, cameras, mounts, and software used for image acquisition and processing.",
+      "categories": [
+        "Astrophotography Gallery",
+        "Member Showcase",
+        "Technical Details",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophotography",
+        "Astrophoto Gallery",
+        "Deep-sky imaging",
+        "Solar observation",
+        "Nebulae",
+        "Soap Bubble Nebula",
+        "Elephant Trunk Nebula",
+        "SunSpot",
+        "Cat's Paw Nebula",
+        "Lobster Nebula",
+        "Telescopes",
+        "Cameras",
+        "Mounts",
+        "Image processing software"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-23-09-practical-astronomy-capturing-a-solar-eclipse-in-person",
+      "documentId": "ephemeris-23-09",
+      "title": "Practical Astronomy: Capturing A Solar Eclipse In Person",
+      "summary": "This article provides practical advice for observing and capturing solar eclipses, highlighting the unique experience of viewing them in person compared to digital media. It details upcoming annular (October 2023) and total (April 2024) solar eclipses, emphasizing the narrow viewing paths and the need for early planning due to increased costs for travel and equipment. The author also lists essential gear, including special eclipse glasses, cameras with long focal lengths, solar filters, tripods, and advises consulting expert resources for exposure settings.",
+      "categories": [
+        "Practical Astronomy",
+        "Observing Guide",
+        "Events",
+        "Photography",
+        "Planning"
+      ],
+      "keywords": [
+        "Solar Eclipse",
+        "Annular Eclipse",
+        "Total Solar Eclipse",
+        "Eclipse Photography",
+        "Eclipse Viewing",
+        "Fred Espenak",
+        "Eclipse Glasses",
+        "Solar Filter",
+        "Astronomy Equipment",
+        "October 2023 Eclipse",
+        "April 2024 Eclipse"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-23-09-the-unicorn-constellation",
+      "documentId": "ephemeris-23-09",
+      "title": "The Unicorn Constellation",
+      "summary": "The article describes an encounter at an 'In Town Star Party' where a child requested to see the Unicorn Constellation. The author explains that while there is indeed a constellation named Monoceros (the Unicorn), it lacks an accompanying legend and consists of low-brightness stars, making it best observed away from city lights despite being rich in Messier Objects and nebulae. It is located near well-known constellations like Orion and Canis Major.",
+      "categories": [
+        "observing reports",
+        "constellations",
+        "astronomy education",
+        "star parties"
+      ],
+      "keywords": [
+        "Unicorn Constellation",
+        "Monoceros",
+        "Star Parties",
+        "constellations",
+        "Messier Objects",
+        "nebulae",
+        "Orion",
+        "Canis Major",
+        "Canis Minor"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-23-09-kid-spot",
+      "documentId": "ephemeris-23-09",
+      "title": "Kid Spot",
+      "summary": "The 'Kid Spot' article features two astronomy-themed jokes, followed by an engaging introduction to radio astronomy. It explains Karl Jansky's pioneering discovery of radio waves from space and demonstrates how even a simple FM radio setup can detect signals from celestial bodies like the Sun, Jupiter, and distant galaxies. The piece highlights that various cosmic phenomena emit detectable radio waves and concludes with an example of a student successfully using an FM radio for a science project.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Radio Astronomy",
+        "DIY/Hobby",
+        "History of Science"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Astronomy jokes",
+        "Radio astronomy",
+        "Karl Jansky",
+        "Radio waves",
+        "FM radio",
+        "Sun",
+        "Jupiter",
+        "Ganymede",
+        "Galaxies",
+        "Celestial signals",
+        "Science project",
+        "Static"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-23-09-from-the-board-of-directors",
+      "documentId": "ephemeris-23-09",
+      "title": "From the Board of Directors",
+      "summary": "The SJAA Board of Directors announced opportunities for members to join online groups (Meetup, Google Group) and an open position for the Library. The organization is also hosting a partial solar eclipse event at Houge Park on October 14th, starting at 7:30 AM, and is seeking volunteers, especially those with solar observing experience. This event is in addition to another one being organized at KIPAC.",
+      "categories": [
+        "Announcements",
+        "Events",
+        "Volunteering",
+        "Organizational News",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Meetup",
+        "Google Group",
+        "Open Position",
+        "Library",
+        "Partial Eclipse",
+        "Solar Observing",
+        "Houge Park",
+        "Volunteers",
+        "October 14",
+        "KIPAC"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-23-09-board-meeting-excerpts",
+      "documentId": "ephemeris-23-09",
+      "title": "Board Meeting Excerpts",
+      "summary": "This document summarizes key discussions and decisions from the San Jose Astronomical Association (SJAA) board meetings in July, August, and September 2023. Key topics included formal adoption of a Code of Conduct for leadership, ongoing relationships with the City of San Jose and the Open Space Authority (OSA), and planning for future events such as an annual eclipse event with KIPAC and a 'How to buy a telescope' workshop. The board also approved reimbursements and welcomed a new Speaker Coordinator.",
+      "categories": [
+        "Board Meetings",
+        "Organizational Updates",
+        "Policy & Governance",
+        "Partnerships & Collaborations",
+        "Event Planning"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Code of Conduct",
+        "City of San Jose",
+        "Open Space Authority (OSA)",
+        "Tilton Ranch",
+        "KIPAC",
+        "Eclipse Event",
+        "Telescope Workshop",
+        "Volunteer Portal",
+        "Speaker Coordinator",
+        "Leadership"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-23-09-sjaa-library-and-member-programs",
+      "documentId": "ephemeris-23-09",
+      "title": "SJAA Library and Member Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a wide array of programs and resources for its members and the community. These include a library, telescope repair services, various observing sessions (solar, general), educational workshops like Quick STARt and Astronomy 101, and an equipment loaner program. Additionally, SJAA hosts special interest groups and workshops for astro imaging, along with organizing school star parties.",
+      "categories": [
+        "member programs",
+        "educational resources",
+        "astronomy events",
+        "equipment support",
+        "community outreach",
+        "observing reports",
+        "technical workshops"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy library",
+        "telescope repair",
+        "Fix It Session",
+        "Solar Observing",
+        "Quick STARt Program",
+        "Astronomy 101",
+        "Loaner Program",
+        "Astro Imaging SIG",
+        "Astrophotography",
+        "Star Parties",
+        "Houge Park",
+        "amateur astronomy",
+        "telescope collimation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-23-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2309/Ephemeris_23-09.pdf",
+      "txtPath": "2309/Ephemeris_23-09.md"
+    }
+  ]
+}

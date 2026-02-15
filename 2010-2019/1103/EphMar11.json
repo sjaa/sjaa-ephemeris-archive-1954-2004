@@ -1,0 +1,141 @@
+{
+  "articles": [
+    {
+      "id": "ephmar11-worlds-of-controversy",
+      "documentId": "ephmar11",
+      "title": "Worlds of Controversy",
+      "summary": "The article details several ongoing astronomical controversies discussed in recent talks, including challenges to the existence of ice volcanoes on Saturn's moon Titan, skepticism regarding the reliability of Martian methane measurements, and the ongoing debate surrounding Pluto's planetary status. It also provides practical observing tips for planets visible in March and briefly touches on the newly discovered Kepler-11 exoplanetary system.",
+      "categories": [
+        "Planetary Science",
+        "Astronomy Research",
+        "Science Communication",
+        "Observing Reports",
+        "Exoplanets"
+      ],
+      "keywords": [
+        "Titan",
+        "Ice Volcanoes",
+        "Cassini",
+        "Mars",
+        "Methane",
+        "Pluto",
+        "Planetary Status",
+        "New Horizons",
+        "Kepler-11",
+        "Exoplanetary Systems",
+        "Saturn",
+        "Mercury",
+        "Venus",
+        "Neptune",
+        "Zodiacal Light",
+        "Spectroscopy",
+        "Controversy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmar11-nasa-space-place",
+      "documentId": "ephmar11",
+      "title": "NASA Space Place",
+      "summary": "New research suggests that Sun-like stars in close double-star systems are a \"time bomb\" for planets and life. Unlike our single Sun, these binary systems experience intense gravitational and magnetic interactions, causing stars to spiral inward, intensify magnetic activity, and ultimately destabilize planetary orbits, leading to collisions and the pulverization of planets into dust. NASA's Spitzer Space Telescope has observed the infrared glow from such pulverized debris, highlighting the importance of our Sun's singularity for the stability of Earth.",
+      "categories": [
+        "astronomy research",
+        "planetary science",
+        "stellar evolution",
+        "NASA missions",
+        "news"
+      ],
+      "keywords": [
+        "Sun",
+        "binary stars",
+        "double-star systems",
+        "planets",
+        "life",
+        "Spitzer Space Telescope",
+        "gravitational resonance",
+        "magnetic dynamo",
+        "solar wind",
+        "collisions",
+        "planetary destruction",
+        "Harvard-Smithsonian Astrophysical Observatory",
+        "Jeremy Drake"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar11-the-last-month-in-astronomy",
+      "documentId": "ephmar11",
+      "title": "The Last Month in Astronomy",
+      "summary": "The article summarizes recent astronomical developments, including the Kepler mission's announcement of over 1200 exoplanet candidates and a compact six-planet system, alongside new insights into changing dunes on Mars and the innovative use of Europa as a guide star for high-resolution Jupiter imaging. It also covers the upcoming final Space Shuttle missions, the Stardust probe's extended mission to Tempel 1, and revised understandings of Cepheid variable stars and the relationship between galactic black holes and dark matter.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Planetary Science",
+        "Astrophysics",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Exoplanets",
+        "Kepler Mission",
+        "Mars Dunes",
+        "Jupiter",
+        "Europa",
+        "Adaptive Optics",
+        "Space Shuttle",
+        "Stardust",
+        "Comets",
+        "Black Holes",
+        "Dark Matter",
+        "Cepheid Variables",
+        "Standard Candles",
+        "NASA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar11-sjaa-club-programs-and-announcements",
+      "documentId": "ephmar11",
+      "title": "SJAA Club Programs and Announcements",
+      "summary": "This article serves as the March 2011 newsletter for the San Jose Astronomical Association (SJAA), detailing a packed calendar of club activities including star parties, astronomy classes, and an Annual Auction for February, March, and April. It also features updates on NASA's Kepler mission's exoplanet discoveries and an announcement for a public lecture by Dr. Chris McKay on Saturn's moon Titan. Additionally, the newsletter provides club news on membership dues, a telescope loaner program, and statistics for school star parties.",
+      "categories": [
+        "Events",
+        "News",
+        "Club Information",
+        "Astronomy Education",
+        "Observing Activities"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomy Calendar",
+        "Star Parties",
+        "Astronomy Classes",
+        "Messier Marathon",
+        "Kepler Mission",
+        "Exoplanets",
+        "Titan (moon of Saturn)",
+        "Chris McKay",
+        "Silicon Valley Astronomy Lectures",
+        "Dark-Sky Weekends",
+        "Club Programs",
+        "Membership Dues",
+        "Telescope Loaner Program",
+        "School Star Parties"
+      ],
+      "pageStart": 2,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1103/EphMar11.pdf",
+      "txtPath": "1103/EphMar11.md"
+    }
+  ]
+}

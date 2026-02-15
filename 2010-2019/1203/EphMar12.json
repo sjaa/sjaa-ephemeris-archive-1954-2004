@@ -1,0 +1,164 @@
+{
+  "articles": [
+    {
+      "id": "ephmar12-the-shallow-sky",
+      "documentId": "ephmar12",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an observing guide for March, highlighting various planets visible in the sky. Early in the month, Mercury, Jupiter, and Venus are prominent in the dusk, with Jupiter and Venus making a close pass. Later evenings are ideal for observing Saturn's 'Serpent Storm' in its northern hemisphere, and Mars, which reaches opposition and closest approach early in March, offering views of its surface features despite a smaller disk. Neptune and Pluto are morning objects, and the start of Daylight Savings Time on March 11 is noted.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Planetary Science",
+        "Events"
+      ],
+      "keywords": [
+        "March",
+        "Planetary Observation",
+        "Mercury",
+        "Jupiter",
+        "Venus",
+        "Uranus",
+        "Saturn",
+        "Serpent Storm",
+        "Mars",
+        "Opposition",
+        "Surface Features",
+        "Northern Hemisphere",
+        "Solstice",
+        "Neptune",
+        "Pluto",
+        "Daylight Savings Time",
+        "Skywatching"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar12-february-general-meeting-life-at-the-edge",
+      "documentId": "ephmar12",
+      "title": "February General Meeting: Life at the Edge",
+      "summary": "The February General Meeting featured astrobiologist Lynn Rothschild, who discussed 'Life at the Edge' – life in extreme environments on Earth and the search for life in the universe. Additionally, the San Jose Astronomical Association announced the acquisition of a new Lunt solar scope, which will be used for solar viewing sessions and to observe significant upcoming events: an annular solar eclipse on May 20, 2012, and a rare transit of Venus on June 5, 2012.",
+      "categories": [
+        "Events",
+        "News",
+        "Observing Reports",
+        "Astrobiology",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Lynn Rothschild",
+        "Astrobiology",
+        "Life at the Edge",
+        "Lunt Solar Scope",
+        "Solar Astronomy",
+        "Annular Solar Eclipse",
+        "Transit of Venus",
+        "SJAA",
+        "Public Observing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar12-nasa-space-place",
+      "documentId": "ephmar12",
+      "title": "NASA Space Place",
+      "summary": "This article details the groundbreaking observations from NASA's Aquarius satellite, which is providing unprecedented insights into global sea surface salinity. These measurements are crucial for understanding ocean currents, the global water cycle, and their profound impact on climate variability. Additionally, the document provides a comprehensive status update on various active and upcoming planetary missions, covering explorations from Mercury to Pluto.",
+      "categories": [
+        "Space Missions",
+        "Earth Science",
+        "Oceanography",
+        "Climate Science",
+        "Planetary Science",
+        "Mission Updates"
+      ],
+      "keywords": [
+        "Aquarius satellite",
+        "sea salt",
+        "salinity",
+        "ocean currents",
+        "climate variability",
+        "global water cycle",
+        "NASA",
+        "Earth observation",
+        "planetary missions",
+        "Messenger",
+        "Curiosity",
+        "DAWN",
+        "Juno",
+        "Cassini",
+        "New Horizons"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar12-the-last-month-in-astronomy",
+      "documentId": "ephmar12",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article compiles significant astronomical news from early 2012, highlighting discoveries such as the Milky Way's central black hole actively consuming asteroids and new exoplanet systems found by Kepler. It also reports on the decommissioning of the Galex spacecraft after nine years of service, the Curiosity rover detecting a major solar storm, and the Herschel mission's detailed infrared images of the Eagle Nebula. A statistical study further suggests the presence of at least 100 billion planets within our galaxy.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Exoplanets",
+        "Galactic Astronomy",
+        "Solar System",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Black Holes",
+        "Milky Way",
+        "Galex",
+        "Kepler",
+        "Exoplanets",
+        "Curiosity Rover",
+        "Mars",
+        "Solar Storms",
+        "Herschel Mission",
+        "Eagle Nebula",
+        "Infrared Astronomy",
+        "Galaxy Evolution",
+        "Star Formation",
+        "Planetary Systems",
+        "Space Telescopes"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar12-it-must-be-astronomical",
+      "documentId": "ephmar12",
+      "title": "It Must Be Astronomical ...",
+      "summary": "The San Jose Astronomical Association (SJAA) announced the re-election of four incumbent board members and highlighted their telescope loaner program, along with introducing Astronomy.FM, a 24/7 astronomy podcast station. The article also provides a detailed update on completed and scheduled school star parties, contact information for officers, and publication details for the monthly 'Ephemeris' newsletter.",
+      "categories": [
+        "Association News",
+        "Governance",
+        "Programs & Services",
+        "Outreach & Education",
+        "Resources"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Board Elections",
+        "Astronomy.FM",
+        "Telescope Loaner Program",
+        "School Star Parties",
+        "Astronomical Events",
+        "Community Outreach",
+        "Ephemeris Newsletter"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1203/EphMar12.pdf",
+      "txtPath": "1203/EphMar12.md"
+    }
+  ]
+}

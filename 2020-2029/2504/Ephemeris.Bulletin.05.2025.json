@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-bulletin-05-2025-sjaa-ephemeris-bulletin",
+      "documentId": "ephemeris-bulletin-05-2025",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "This SJAA Ephemeris Bulletin for May 2025 highlights \"Galaxy Season,\" a period best for observing numerous galaxies, with the Sombrero Galaxy (M104) as the featured target. The bulletin also announces upcoming SJAA events, including a Pinnacles Star Party and a Telescope Workshop. Additionally, it details various volunteer opportunities within the club, such as for the Imaging SIG, Loaner Program, and School Star Party Program, and encourages members to complete a feedback survey.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Club News",
+        "Educational Content",
+        "Volunteer Opportunities",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Galaxy Season",
+        "Sombrero Galaxy",
+        "M104",
+        "Virgo",
+        "Messier Objects",
+        "Star Party",
+        "Telescope Workshop",
+        "SJAA",
+        "Astrophotography",
+        "Globular Clusters"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-bulletin-05-2025",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2504/Ephemeris.Bulletin.05.2025.pdf",
+      "txtPath": "2504/Ephemeris.Bulletin.05.2025.md"
+    }
+  ]
+}

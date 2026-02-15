@@ -1,0 +1,197 @@
+{
+  "articles": [
+    {
+      "id": "ephoct03-mt-wilson-mars-observing-run",
+      "documentId": "ephoct03",
+      "title": "Mt. Wilson Mars Observing Run",
+      "summary": "This article details an observing run at Mt. Wilson Observatory in August 2003, where the author used the 60-inch telescope for exceptional views of Mars, potentially spotting Olympus Mons, as well as observations of deep-sky objects like M13, M92, and the Ring Nebula. The document also includes the San Jose Astronomical Association's activity calendar for October and November 2003, listing star parties, general meetings, and ATM classes. Finally, there's a call for volunteers to take on the role of editor for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Club Activities",
+        "Events Calendar",
+        "Club Announcement",
+        "Deep Sky Observation"
+      ],
+      "keywords": [
+        "Mt. Wilson Observatory",
+        "Mars observation",
+        "60-inch telescope",
+        "deep-sky objects",
+        "M13",
+        "M92",
+        "Ring Nebula",
+        "Neptune",
+        "Olympus Mons",
+        "San Jose Astronomical Association (SJAA)",
+        "star parties",
+        "astronomy club events",
+        "newsletter editor",
+        "amateur astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephoct03-the-shallow-sky",
+      "documentId": "ephoct03",
+      "title": "The shallow sky",
+      "summary": "This article discusses the ongoing favorable Mars opposition in October 2003, noting its impressive apparent size compared to previous oppositions and its accessibility for evening viewing. It highlights observable features such as the shrinking southern polar cap, dim southern regions like Hellas, and the changing albedo features. The author also shares a newfound appreciation for colored filters, recommending orange/red for dark areas and light violet for general detail, though noting limited cloud activity during this clear season on Mars.",
+      "categories": [
+        "observing report",
+        "planetary astronomy",
+        "amateur astronomy guide"
+      ],
+      "keywords": [
+        "Mars opposition",
+        "Mars",
+        "observing",
+        "telescope",
+        "arc seconds",
+        "polar cap",
+        "Hellas",
+        "Syrtis Major",
+        "albedo features",
+        "colored filters",
+        "orange filter",
+        "red filter",
+        "violet filter",
+        "blue filter",
+        "clouds",
+        "October 2003"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct03-out-there",
+      "documentId": "ephoct03",
+      "title": "Out There",
+      "summary": "This article covers a range of amateur astronomy topics, including detailed observing reports of Mars's orographic clouds and other planets' visibility, along with a review of deep-sky objects like NGC 246 and the Sculptor Galaxy. It also features a discussion on lunar libration and its application in creating 3D stereo images of the Moon, following up on previous articles, and briefly recounts an observation of Phobos.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Astronomy",
+        "Deep Sky Astronomy",
+        "Lunar Studies",
+        "Astronomical Imaging",
+        "Telescopes & Equipment"
+      ],
+      "keywords": [
+        "Mars",
+        "Olympus Mons",
+        "Tharsis volcanoes",
+        "Mt. Wilson Observatory",
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Venus",
+        "Mercury",
+        "NGC 246",
+        "NGC 253",
+        "Sculptor Galaxy",
+        "NGC 288",
+        "Planetary Nebula",
+        "Globular Cluster",
+        "Phobos",
+        "Moon",
+        "Lunar libration",
+        "3D astrophotography",
+        "Visual astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct03-deep-gems-in-an-autumn-night",
+      "documentId": "ephoct03",
+      "title": "Deep gems in an autumn night",
+      "summary": "This article encourages amateur astronomers to observe deep-sky objects in October, leveraging earlier sunsets and darker skies. It provides a detailed observing guide for targets in constellations like Cassiopeia and Cetus. Specific recommendations include the planetary nebulae NGC 40 and NGC 246 (The Skull), the double star Eta Cassiopeia, and the galaxies NGC 185, NGC 278, and NGC 147, complete with finding charts and observing notes.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Objects",
+        "Amateur Astronomy",
+        "Stargazing"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Planetary nebulae",
+        "Double stars",
+        "Galaxies",
+        "Cassiopeia",
+        "Cetus",
+        "Sculptor",
+        "NGC 40",
+        "Eta Cassiopeia",
+        "NGC 185",
+        "NGC 246",
+        "Autumn stargazing",
+        "Telescope observing"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct03-goodbye-galileo",
+      "documentId": "ephoct03",
+      "title": "Goodbye Galileo",
+      "summary": "The article announces the planned \"suicide plunge\" of the Galileo probe into Jupiter on September 21, 2003, to prevent potential contamination of Jovian moons, while highlighting its significant achievements despite early technical issues. It also includes an announcement for an upcoming lecture on the Mars rover mission, directions to Houge Park, and a correction regarding SJAA membership fees with Sky & Telescope.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Events",
+        "Astronomy",
+        "Local Information",
+        "Club Announcements"
+      ],
+      "keywords": [
+        "Galileo probe",
+        "Jupiter",
+        "Europa",
+        "Mars rover mission",
+        "David Des Marais",
+        "lecture",
+        "space mission",
+        "planetary science",
+        "SJAA membership",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct03-sjaa-loaner-scope-status",
+      "documentId": "ephoct03",
+      "title": "SJAA loaner scope status",
+      "summary": "This document outlines the current status of the SJAA (San Jose Astronomical Association) telescope loaner program, detailing which scopes are available for immediate loan, which are currently on loan with due dates, and which have extended loan periods. It also lists members on a waiting list for specific or any available scopes. SJAA members interested in borrowing can contact Mike Koop via email or phone.",
+      "categories": [
+        "Loaner Program",
+        "Member Services",
+        "Equipment Status",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "astronomy equipment",
+        "Dobsonian",
+        "refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "solar scope",
+        "scope availability",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0310/EphOct03.pdf",
+      "txtPath": "0310/EphOct03.md"
+    }
+  ]
+}

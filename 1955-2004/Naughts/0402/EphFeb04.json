@@ -1,0 +1,128 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb04-foothill-college-lecture-series",
+      "documentId": "ephfeb04",
+      "title": "Foothill College Lecture Series",
+      "summary": "The article announces a free, non-technical lecture titled \"The Search for Planet X: Exploring the Solar System Beyond Neptune\" by Dr. Eugene Chiang of UC Berkeley. Scheduled for February 11 at 7 p.m. at Foothill College's Smithwick Theater, the talk will discuss new discoveries of objects and mini-planets beyond Neptune. The event is open to the public and co-sponsored by organizations including NASA Ames Research Center and the SETI Institute.",
+      "categories": [
+        "Public Lecture",
+        "Astronomy Event",
+        "Science Communication",
+        "Education"
+      ],
+      "keywords": [
+        "Foothill College",
+        "Lecture Series",
+        "Eugene Chiang",
+        "Planet X",
+        "Solar System",
+        "Neptune",
+        "Mini-planets",
+        "Astronomy",
+        "NASA Ames Research Center",
+        "SETI Institute",
+        "Astronomical Society of the Pacific",
+        "Public event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb04-on-the-edge",
+      "documentId": "ephfeb04",
+      "title": "On The Edge",
+      "summary": "The main article encourages amateur astronomers to observe lunar librations, focusing on the terminator near the Moon's limb around the full phase, with specific targets like Mare Orientale. It offers practical tips for challenging observations and highlights the overlooked beauty of the lunar edge. The document also features an announcement for a speaker on cosmic \"antigravity,\" a photo of Saturn and its moons, and various club news items and errata.",
+      "categories": [
+        "Observational Astronomy",
+        "Lunar Observing",
+        "Club News",
+        "Events",
+        "Astrophotography",
+        "Cosmology"
+      ],
+      "keywords": [
+        "Lunar libration",
+        "Moon observing",
+        "Mare Orientale",
+        "Terminator",
+        "Full phase",
+        "Observational tips",
+        "Alexei Filippenko",
+        "Dark Energy",
+        "Accelerating Universe",
+        "Saturn",
+        "SJAA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb04-feature-articles-and-reports",
+      "documentId": "ephfeb04",
+      "title": "Feature Articles and Reports",
+      "summary": "This article provides an astronomy observing guide for February, detailing optimal viewing conditions for planets like Saturn, Jupiter, and Mars, and highlighting a rare Jupiter satellite transit. It also includes a first-hand report from a journalist covering the Mars Spirit rover landing at JPL and announces the San Jose Astronomical Association's upcoming Messier Marathon event. The document concludes with a brief memorial for the Columbia space shuttle crew.",
+      "categories": [
+        "Astronomy Observing",
+        "Space Exploration News",
+        "Amateur Astronomy Events",
+        "Club Reports",
+        "Memorial"
+      ],
+      "keywords": [
+        "Planetary observation",
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Mars Spirit rover",
+        "JPL",
+        "Messier Marathon",
+        "Deep sky objects",
+        "Amateur astronomy",
+        "San Jose Astronomical Association (SJAA)",
+        "Columbia shuttle",
+        "Satellite transit",
+        "Zodiacal light",
+        "Atmospheric seeing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb04-sjaa-loaner-scope-status",
+      "documentId": "ephfeb04",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an update on the status of its loaner telescope program, detailing which scopes are immediately available for members, those currently on loan with due dates, and those with extended loan periods. Members interested in borrowing equipment, including various types of telescopes and a spectroscope, should contact Mike Koop. The article lists contact details for inquiries and arrangements for scope pickups or waiting list placements.",
+      "categories": [
+        "Member Services",
+        "Equipment Loan Program",
+        "Announcements",
+        "Resource Listing"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner scopes",
+        "Telescopes",
+        "Astronomical equipment",
+        "Dobsonian",
+        "Newtonian",
+        "Refractor",
+        "Spectroscope",
+        "Member benefits",
+        "Scope availability",
+        "Waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0402/EphFeb04.pdf",
+      "txtPath": "0402/EphFeb04.md"
+    }
+  ]
+}

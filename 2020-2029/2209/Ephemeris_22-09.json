@@ -1,0 +1,297 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-22-09-welcome-to-sjaa",
+      "documentId": "ephemeris-22-09",
+      "title": "Welcome to SJAA",
+      "summary": "This article introduces Steven Nelson as SJAA's new Director2 and QuickStart Program Leader. Nelson, an astronomy major from UC Berkeley and former STEM teacher, brings extensive professional and amateur telescope experience, including work on the Hubble's Faint Object Spectrograph and at major observatories like Lick and Mauna Kea. He expresses enthusiasm for rejoining SJAA's public education mission, having previously served on its Board around the turn of the century.",
+      "categories": [
+        "Organizational News",
+        "Personnel Announcement",
+        "Member Profile",
+        "Amateur Astronomy",
+        "Education"
+      ],
+      "keywords": [
+        "Steven Nelson",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "QuickStart Program",
+        "UC Berkeley",
+        "Hubble Space Telescope",
+        "Lick Observatory",
+        "Mauna Kea",
+        "Telescopes",
+        "Astronomy Education",
+        "Amateur Astronomy",
+        "Board Member",
+        "September 2022"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-22-09-in-memoriam-don-machholz",
+      "documentId": "ephemeris-22-09",
+      "title": "In Memoriam Don Machholz",
+      "summary": "This article is an 'In Memoriam' tribute to Don Machholz (1952-2022), a renowned comet hunter, SJAA member, and co-inventor of the Messier Marathon, who passed away unexpectedly from COVID-19 at age 69. It highlights his significant contributions to the astronomy community, including his podcast 'Looking Up With Don,' articles for EarthSky, and his regular 'Comet Comments' in the SJAA Ephemeris. Friends and colleagues fondly remember him for his kindness, legendary status, and his dedication to public astronomy education.",
+      "categories": [
+        "Obituary",
+        "Astronomy History",
+        "Community News",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Comet hunter",
+        "Messier Marathon",
+        "SJAA",
+        "COVID-19",
+        "Astronomy community",
+        "Looking Up With Don",
+        "EarthSky",
+        "Comet discoveries"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-22-09-origin-of-the-constellations",
+      "documentId": "ephemeris-22-09",
+      "title": "Origin of the Constellations",
+      "summary": "This article explores the origins of constellations, tracing many common names back to ancient Middle Eastern, Greek, and Roman cultures, while also acknowledging similar star-grouping traditions worldwide. It details the addition of modern constellations by astronomers from the 1500s-1700s and the International Astronomical Union's 1930 standardization of 88 constellations. The piece also shares a Native American Navajo folktale explaining the creation of stars and the incomplete nature of some star patterns, emphasizing the role of cultural narratives in understanding the night sky.",
+      "categories": [
+        "History of Astronomy",
+        "Cultural Astronomy",
+        "Folklore",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Constellations",
+        "Star lore",
+        "Mythology",
+        "Ancient cultures",
+        "Modern constellations",
+        "International Astronomical Union",
+        "Navajo",
+        "Cultural significance",
+        "Astronomy history",
+        "Stellarium"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-22-09-comet-headed-our-way",
+      "documentId": "ephemeris-22-09",
+      "title": "Comet Headed Our Way",
+      "summary": "Comet C/2022 E3 ZTF, discovered on March 2, 2022, is anticipated to be a significant topic in the astronomy community as it approaches its closest points to the Sun (January 13, 2023) and Earth (February 2, 2023). Predicted to reach a peak magnitude of 5.5, it may be visible to the naked eye and easily with binoculars, positioned high in the northern sky. The author has already observed and showcased the comet at public star parties, expecting media attention as the end of 2022 approaches.",
+      "categories": [
+        "news",
+        "observing report",
+        "astronomy",
+        "celestial events",
+        "public outreach"
+      ],
+      "keywords": [
+        "Comet C/2022 E3 ZTF",
+        "Zwicky Transient Facility",
+        "Palomar Observatory",
+        "January 2023",
+        "February 2023",
+        "naked eye visibility",
+        "binoculars",
+        "magnitude",
+        "perihelion",
+        "star party",
+        "comet observation",
+        "solar system"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-22-09-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-22-09",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "The SJAA Member Astrophoto Gallery features recent astrophotography submissions from club members, showcasing deep-sky objects like WR134, NGC 6914, Caldwell 100, and M 27. Each entry provides comprehensive details including the imaging dates, locations, and the specific telescopes, cameras, mounts, and software utilized by the astrophotographers.",
+      "categories": [
+        "Astrophotography",
+        "Member Gallery",
+        "Astronomy Club Content",
+        "Deep-Sky Imaging",
+        "Technical Details"
+      ],
+      "keywords": [
+        "WR134",
+        "NGC 6914",
+        "Caldwell 100",
+        "M 27",
+        "Astrophotography",
+        "Deep-Sky Objects",
+        "Imaging Telescope",
+        "Imaging Camera",
+        "Mount",
+        "Image Processing Software",
+        "PixInsight",
+        "ZWO ASI",
+        "Astro-Tech",
+        "Celestron",
+        "Samyang",
+        "Astro-Physics",
+        "iOptron",
+        "Rainbow Astro",
+        "Nighttime Imaging 'N' Astronomy (N.I.N.A.)",
+        "NoiseXTerminator",
+        "StarXTerminator",
+        "SJAA"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-22-09-using-cepheids-as-distance-measures",
+      "documentId": "ephemeris-22-09",
+      "title": "Using Cepheids As Distance Measures",
+      "summary": "This article outlines a method for measuring stellar distances using Cepheid variable stars, specifically Delta Cephei. Observers are instructed to record Delta Cephei's brightness variations over time to determine its period, which is then used to find its absolute magnitude. Finally, the absolute and apparent magnitudes are applied in the distance modulus formula to calculate the star's distance from Earth.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy Education",
+        "Stellar Measurement",
+        "Technical Explanation"
+      ],
+      "keywords": [
+        "Cepheid variable stars",
+        "Distance measurement",
+        "Delta Cephei",
+        "Absolute magnitude",
+        "Apparent magnitude",
+        "Distance modulus",
+        "Period-luminosity relation",
+        "Observational astronomy",
+        "Stellar brightness"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-22-09-hubble-views-a-galactic-marvel",
+      "documentId": "ephemeris-22-09",
+      "title": "Hubble Views a Galactic Marvel",
+      "summary": "The article highlights a new Hubble Space Telescope image of NGC 1156, a dwarf irregular galaxy with a unique shape that blends features of both spiral and elliptical galaxies, showcasing intense star formation. Located 25 million light-years away in Aries, it is classified as an isolated galaxy. This observation is part of a 'gap-filling' program designed to capture detailed images of nearby galaxies not previously studied sufficiently by Hubble.",
+      "categories": [
+        "observing reports",
+        "astronomy news",
+        "space exploration",
+        "telescopes"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "NGC 1156",
+        "galaxy",
+        "dwarf irregular galaxy",
+        "star formation",
+        "Aries",
+        "isolated galaxy",
+        "Every Known Nearby Galaxy program"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-22-09-kid-spot",
+      "documentId": "ephemeris-22-09",
+      "title": "Kid Spot",
+      "summary": "NASA's Mars Sample Return Program has finalized its conceptual design phase, outlining a revised architecture to bring Martian samples to Earth by 2033. The updated plan leverages the Perseverance rover's longevity and adds two Ingenuity-like helicopters for sample retrieval, eliminating the need for a separate Sample Fetch Rover. This international collaboration with ESA aims to reduce mission complexity and increase success probability.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Astronomy",
+        "Mars Mission",
+        "Technical Updates"
+      ],
+      "keywords": [
+        "NASA",
+        "Mars Sample Return Program",
+        "Perseverance rover",
+        "Mars",
+        "ESA",
+        "Jezero Crater",
+        "Ingenuity helicopter",
+        "Sample Retrieval Lander",
+        "Earth Return Orbiter",
+        "Mars Ascent Vehicle",
+        "2033",
+        "space exploration"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-22-09-from-the-board-of-directors",
+      "documentId": "ephemeris-22-09",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) Board of Directors has been actively reconvening in-person activities following the lifting of mask mandates and held several meetings in June, July, and August 2022. Key decisions included changing the fiscal year, implementing sign-in sheets for events, approving a Code of Conduct for leadership, and establishing a Protection of Minors Policy. Additionally, the board approved funds for solar program equipment and discussed ongoing operational concerns, bylaw maintenance, and asset inventory for compliance reporting.",
+      "categories": [
+        "Club Governance",
+        "Policy Updates",
+        "Operational Management",
+        "Announcements",
+        "Financial Decisions"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Board Meetings",
+        "COVID-19",
+        "In-person events",
+        "Fiscal Year",
+        "Code of Conduct",
+        "Protection of Minors Policy",
+        "Solar Program",
+        "Bylaws",
+        "Asset Inventory",
+        "Houge Park"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-22-09-sjaa-programs-and-resources",
+      "documentId": "ephemeris-22-09",
+      "title": "SJAA Programs and Resources",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a diverse range of programs and resources designed to support and educate both novice and experienced astronomy enthusiasts. These include a library, telescope repair sessions, and monthly observing events for solar and night sky viewing. SJAA also provides beginner guidance programs, an equipment loaner program, specialized astro-imaging groups and workshops, and hosts educational star parties for schools and the community.",
+      "categories": [
+        "Educational Programs",
+        "Observing Events",
+        "Community Services",
+        "Equipment & Resources",
+        "Special Interest Groups"
+      ],
+      "keywords": [
+        "SJAA",
+        "Amateur Astronomy",
+        "Astronomy Education",
+        "Telescope Repair",
+        "Solar Observing",
+        "Night Sky Observing",
+        "Equipment Loan",
+        "Astrophotography",
+        "Star Parties",
+        "Quick STARt Program",
+        "Intro to the Night Sky",
+        "Library"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-22-09",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 6",
+      "issueDate": null,
+      "pdfPath": "2209/Ephemeris_22-09.pdf",
+      "txtPath": "2209/Ephemeris_22-09.md"
+    }
+  ]
+}

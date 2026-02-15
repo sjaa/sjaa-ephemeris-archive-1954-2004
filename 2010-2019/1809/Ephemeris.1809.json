@@ -1,0 +1,371 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1809-president-s-message-september-2018",
+      "documentId": "ephemeris-1809",
+      "title": "President's Message September 2018",
+      "summary": "The September 2018 President's Message from Swami Nigam welcomes members, shares his personal journey with SJAA, and outlines key initiatives focused on automating operations and increasing member participation. It details significant personnel transitions, including the departures of long-serving Vice President Bill O'Neil and School Star Party lead Jim Van Nuland, the stepping down of content editor Sandy Mohan, and the passing of Phil Chambers. The message also introduces new volunteers taking on various leadership roles within the club.",
+      "categories": [
+        "Club News",
+        "Organizational Updates",
+        "Personnel Changes",
+        "Volunteer Engagement",
+        "Programs & Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "President's Message",
+        "Club Operations",
+        "Member Participation",
+        "Personnel Transitions",
+        "Volunteer Leadership",
+        "Starry Nights",
+        "School Star Party",
+        "Solar Viewing",
+        "Astronomy Outreach",
+        "Swami Nigam"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1809-sjaa-s-school-star-party-needs-your-help",
+      "documentId": "ephemeris-1809",
+      "title": "SJAA's School Star Party Needs Your Help!",
+      "summary": "The San Jose Astronomical Association (SJAA) is seeking volunteers for its School Star Party (SSP) program after long-time leader Jim Van Nuland retired. New leaders Cat Cvengros and Peter Mu are now at the helm, aiming to continue the program's mission of bringing astronomy education to hundreds of young people and families. The article outlines specific volunteer roles, including SSP Liaisons, Scouts, and Astronomers, encouraging interested individuals to contribute to this impactful community outreach initiative.",
+      "categories": [
+        "News",
+        "Volunteer Opportunity",
+        "Community Outreach",
+        "Astronomy Education",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "School Star Party Program",
+        "Volunteers",
+        "Astronomy Education",
+        "Community Outreach",
+        "Night Sky Observation",
+        "Leadership Transition",
+        "Cat Cvengros",
+        "Peter Mu",
+        "Jim Van Nuland",
+        "Telescopes",
+        "Public Events",
+        "Non-profit"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1809-new-solar-loaner-telescope-and-kit-details",
+      "documentId": "ephemeris-1809",
+      "title": "New Solar Loaner Telescope and Kit Details",
+      "summary": "The San Jose Astronomical Association (SJAA) has introduced a new Lunt 50 H-α solar telescope to its Advanced Loaner Program, available to members as of August. This article details the comprehensive kit, which includes a double-stacking etalon filter, explaining the importance of hydrogen-alpha viewing for observing prominences and filaments, especially during solar minimum. It also provides technical insights into etalon filters and outlines the borrowing procedures and requirements for qualified SJAA members.",
+      "categories": [
+        "News",
+        "Observing Equipment",
+        "Technical Explanation",
+        "Solar Astronomy",
+        "Program Information"
+      ],
+      "keywords": [
+        "Solar Telescope",
+        "Hydrogen Alpha",
+        "Lunt 50",
+        "SJAA",
+        "Loaner Program",
+        "Prominences",
+        "Filaments",
+        "Sunspots",
+        "Etalon Filter",
+        "Double-stacking",
+        "Solar Minimum",
+        "Chromosphere",
+        "Astronomy Equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1809-bill-o-neil-resignation-letter",
+      "documentId": "ephemeris-1809",
+      "title": "Bill O'Neil Resignation Letter",
+      "summary": "Bill O'Neil announces his resignation from the SJAA Board of Directors and his role as Vice President, effective August 12, 2018, as he and his wife are moving to Seattle, Washington. He reflects on his extensive contributions to the SJAA, including leading the Starry Nights and Solar Programs, serving as VP, and his involvement in public outreach and the Houge Park contract. O'Neil expresses confidence in the SJAA's leadership and plans to maintain his membership.",
+      "categories": [
+        "Organizational News",
+        "Leadership Change",
+        "Volunteer Report",
+        "Astronomy Club",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Bill O'Neil",
+        "SJAA",
+        "Resignation",
+        "Vice President",
+        "Board of Directors",
+        "Starry Nights",
+        "Solar Program",
+        "Public Outreach",
+        "Glacier National Park",
+        "Lunt Hydrogen-alpha telescope",
+        "Wolf Witt",
+        "Swami Nigam",
+        "Houge Park",
+        "Total Solar Eclipse",
+        "Seattle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1809-editor-s-note",
+      "documentId": "ephemeris-1809",
+      "title": "Editor's note",
+      "summary": "Sandy Mohan, the outgoing Editor of Ephemeris, reflects on her five years in the role and her long-standing involvement with the SJAA, which began in 2000 through her sons' rekindled interest in astronomy. She recounts her personal journey, highlights the club's resources and the newsletter's evolution, and expresses gratitude while wishing the new editor success.",
+      "categories": [
+        "Editorial",
+        "Club News",
+        "Publication Update",
+        "Personal Reflection"
+      ],
+      "keywords": [
+        "Sandy Mohan",
+        "Ephemeris",
+        "SJAA",
+        "Editor's Note",
+        "Astronomy Club",
+        "Newsletter",
+        "Club History",
+        "Member Experience",
+        "Publication Changes"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1809-cambrian-fest-2018",
+      "documentId": "ephemeris-1809",
+      "title": "Cambrian Fest 2018",
+      "summary": "The San Jose Astronomical Association (SJAA) participated for the ninth consecutive year in San Jose's 'Celebrate Cambrian' community fair on August 26, 2018. Volunteers hosted a booth featuring multiple solar telescopes, including a Lunt H-alpha scope and a camera-equipped rig displaying live solar views, showcasing a prominence and a filament on the sun. The event successfully engaged the public and students, with activities like UV-sensitive bead bracelets, fostering community outreach and interest in astronomy.",
+      "categories": [
+        "Event Report",
+        "Community Outreach",
+        "Solar Observing",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Cambrian Fest",
+        "Celebrate Cambrian",
+        "San Jose",
+        "Solar astronomy",
+        "Solar scopes",
+        "H-alpha telescope",
+        "Sun",
+        "Prominence",
+        "Filament",
+        "Community fair",
+        "Volunteers",
+        "Public engagement",
+        "UV-sensitive beads"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1809-traveling-to-the-sun-why-won-t-parker-solar-probe-melt",
+      "documentId": "ephemeris-1809",
+      "title": "Traveling to the Sun: Why Won't Parker Solar Probe Melt?",
+      "summary": "NASA's Parker Solar Probe launched to travel closer to the Sun's corona than any previous mission, aiming to provide unprecedented observations of solar phenomena. Despite encountering temperatures exceeding a million degrees Fahrenheit, the probe is designed not to melt thanks to its custom Thermal Protection System (TPS) heat shield, autonomous navigation, and a specialized water-based cooling system. The design leverages the distinction between temperature and heat, recognizing that the low density of the corona limits actual heat transfer to the spacecraft.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy",
+        "Spacecraft Technology",
+        "Engineering",
+        "Physics",
+        "News"
+      ],
+      "keywords": [
+        "Parker Solar Probe",
+        "Sun",
+        "Solar Corona",
+        "Heat Shield",
+        "Thermal Protection System (TPS)",
+        "NASA",
+        "Johns Hopkins APL",
+        "Heat Transfer",
+        "Spacecraft Cooling",
+        "Autonomous Systems"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1809-local-author-and-astronomer-honored-with-an-asteroid-named-for-him",
+      "documentId": "ephemeris-1809",
+      "title": "Local Author and Astronomer Honored with an Asteroid Named for Him",
+      "summary": "Bob Garfinkle, a longtime SJAA member, author, and astronomer, has been honored with an asteroid officially named \"(31862) Garfinkle\" by the International Astronomical Union (IAU). The asteroid, located in the main belt, is approximately 6 km in diameter. Garfinkle is also a Fellow of the Royal Astronomical Society, a best-selling author of astronomy books, and holds various other prestigious positions in astronomical and writing organizations.",
+      "categories": [
+        "news",
+        "honor/award",
+        "astronomy",
+        "member spotlight"
+      ],
+      "keywords": [
+        "Bob Garfinkle",
+        "asteroid",
+        "International Astronomical Union",
+        "IAU",
+        "minor planet",
+        "SJAA",
+        "astronomer",
+        "author",
+        "Royal Astronomical Society",
+        "Fremont Peak Observatory Association",
+        "lunar observers' handbook",
+        "California Writers Club",
+        "Journal of the Association of Lunar and Planetary Observers",
+        "British Astronomical Association",
+        "history of astronomy"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephemeris-1809-hubble-s-messier-telescope",
+      "documentId": "ephemeris-1809",
+      "title": "Hubble's Messier Telescope",
+      "summary": "This article details the life and work of Charles Messier, a French astronomer known for compiling the \"Catalog of Nebulae and Star Clusters\" to help comet hunters distinguish comets from other deep-sky objects. It highlights the Messier catalog's enduring popularity among amateur astronomers due to the visibility of its 110 objects and describes how the Hubble Space Telescope has contributed significantly to imaging 96 of these objects, offering detailed views and scientific insights through multi-wavelength observations.",
+      "categories": [
+        "Astronomy History",
+        "Deep-sky Objects",
+        "Amateur Astronomy",
+        "Space Telescopes",
+        "Observational Astronomy",
+        "Catalogs"
+      ],
+      "keywords": [
+        "Charles Messier",
+        "Messier Catalog",
+        "Hubble Space Telescope",
+        "Comets",
+        "Nebulae",
+        "Star Clusters",
+        "Galaxies",
+        "Amateur Astronomers",
+        "M1",
+        "Crab Nebula",
+        "M31",
+        "Andromeda Galaxy",
+        "Astronomical League",
+        "Imaging Techniques"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-1809-kid-spot",
+      "documentId": "ephemeris-1809",
+      "title": "Kid Spot",
+      "summary": "This article features a \"Kid Spot\" section offering astronomy-themed jokes and a quiz, alongside a report on the San Jose Astronomical Association (SJAA). SJAA hosted a movie screening for \"Saving The Dark,\" a film by Sriram Murali dedicated to raising awareness about light pollution and its impact on observing the night sky and the environment. The association sponsored the movie with $1000 and renewed its membership with the International Dark Sky Association (IDA) with a $100 donation, committing to further publicize the film.",
+      "categories": [
+        "News",
+        "Education",
+        "Advocacy",
+        "Events",
+        "Astronomy Basics"
+      ],
+      "keywords": [
+        "Light pollution",
+        "Dark skies",
+        "Astronomy education",
+        "SJAA",
+        "International Dark Sky Association",
+        "Saving The Dark movie",
+        "Community outreach",
+        "Space facts",
+        "Conservation"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-1809-from-the-board-of-directors",
+      "documentId": "ephemeris-1809",
+      "title": "From the Board of Directors",
+      "summary": "This report from the SJAA Board of Directors details key announcements and discussions from June and July 2018. Significant personnel changes include Bill O'Neil's resignation as Director and VP due to relocation, and Ken Miura's appointment to a vacant board seat. The report also covers updates on the City of San Jose contract, the acquisition of a new solar telescope for the loaner program, and initiatives such as an apprentice program, establishing an Instagram presence, and a sponsorship for the 'Saving the Dark' movie.",
+      "categories": [
+        "Board Meetings",
+        "Personnel Updates",
+        "Club Operations",
+        "Events & Programs",
+        "Financial Decisions",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "resignation",
+        "appointments",
+        "club management",
+        "solar telescope",
+        "loaner program",
+        "City of San Jose contract",
+        "Saving the Dark",
+        "sponsorship",
+        "social media",
+        "Instagram",
+        "apprenticeship program",
+        "star party",
+        "CalStar",
+        "Swap Meet"
+      ],
+      "pageStart": 6,
+      "pageEnd": 16
+    },
+    {
+      "id": "ephemeris-1809-sjaa-library",
+      "documentId": "ephemeris-1809",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a comprehensive suite of resources and programs for its members and the community, catering to all ages and skill levels. Offerings include a library, free telescope repair, solar observing sessions, beginner-friendly programs like Quick STARt and Intro to the Night Sky, an equipment loaner program, and dedicated groups and workshops for astrophotography. SJAA also hosts public and school star parties, fostering engagement and education in astronomy.",
+      "categories": [
+        "Member Resources",
+        "Educational Programs",
+        "Community Events",
+        "Technical Support",
+        "Observing Sessions",
+        "Special Interest Groups",
+        "Equipment Services"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy library",
+        "Telescope repair",
+        "Solar observing",
+        "Beginner astronomy",
+        "Quick STARt",
+        "Intro to the Night Sky",
+        "Star parties",
+        "Equipment loaner program",
+        "Astrophotography",
+        "Astro Imaging SIG",
+        "Community outreach",
+        "Workshops"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1809",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1809/Ephemeris.1809.pdf",
+      "txtPath": "1809/Ephemeris.1809.md"
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "articles": [
+    {
+      "id": "2025-12-digital-sjaa-programs",
+      "documentId": "2025-12-digital",
+      "title": "SJAA Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a comprehensive range of astronomy programs for both its members and the general public. Member benefits include a library, telescope maintenance and loaner programs, beginner guidance, and astrophotography special interest groups. Public offerings focus on educational sessions like Astronomy 101, various star parties (in-town, school, solar, starry nights), binocular stargazing, and an online beginner forum, catering to all levels of interest.",
+      "categories": [
+        "Educational",
+        "Observing Events",
+        "Technical Support",
+        "Special Interest Groups",
+        "Community Outreach",
+        "Equipment Resources"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Astronomy Programs",
+        "Member Services",
+        "Public Outreach",
+        "Star Parties",
+        "Astrophotography",
+        "Beginner Astronomy",
+        "Telescope Support",
+        "Equipment Loan",
+        "Solar Observing",
+        "Binocular Stargazing",
+        "Amateur Astronomy",
+        "Quick START Program",
+        "Astro Imaging SIG"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "2025-12-digital-astro-101-more-than-you-might-think",
+      "documentId": "2025-12-digital",
+      "title": "Astro 101: More Than You Might Think",
+      "summary": "The article details the San Jose Astronomical Association's (SJAA) Astro 101 program, an extensive educational initiative designed to provide public outreach in astronomy and related sciences. It outlines a diverse range of in-person and online presentations, workshops, and forums covering various astronomical topics and observing skills, emphasizing the program's evolution and broad scope. The author highlights SJAA's mission to inspire awe, foster science literacy, and encourage critical thinking among participants, from beginners to intermediate astronomers.",
+      "categories": [
+        "Educational Programs",
+        "Astronomy Outreach",
+        "Club Activities",
+        "Science Literacy",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astro 101",
+        "Astronomy education",
+        "Public outreach",
+        "Science literacy",
+        "Star parties",
+        "Telescope workshops",
+        "Night sky observing",
+        "Astrophotography",
+        "Volunteering",
+        "Critical thinking",
+        "Cosmos",
+        "Space science"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "2025-12-digital-email-group-maintenance",
+      "documentId": "2025-12-digital",
+      "title": "Email Group Maintenance",
+      "summary": "SJAA is updating its email groups (Observers and Astroimaging) to give members greater control over participation. Members can now join or leave groups instantly via their profile at membership.sjaa.net, eliminating previous waiting times for approval. The groups are also being renamed to reflect the sjaa.net domain, and old groups will become read-only after December 9th.",
+      "categories": [
+        "news",
+        "member services",
+        "technical update",
+        "communication"
+      ],
+      "keywords": [
+        "SJAA",
+        "email groups",
+        "Google Groups",
+        "membership management",
+        "Observers group",
+        "Astroimaging group",
+        "automation",
+        "member profile",
+        "sjaa.net"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "2025-12-digital-imaging-secrets-denoise",
+      "documentId": "2025-12-digital",
+      "title": "Imaging Secrets: Denoise",
+      "summary": "This article, \"Imaging Secrets: Denoise,\" discusses the critical role of denoising in modern astrophotography, highlighting how advancements in image processing have transformed the field. It covers traditional methods like Multiscale Linear Transform (MLT) and Multiscale Median Transform (MMT), contrasting them with the efficiency and impressive results of newer AI-powered denoising tools. The piece emphasizes that effective denoising, whether traditional or AI-enabled, is essential for producing high-quality astronomical images by reducing graininess and preserving fine details.",
+      "categories": [
+        "Technical Guide",
+        "Astrophotography",
+        "Image Processing",
+        "Technology News"
+      ],
+      "keywords": [
+        "denoise",
+        "astrophotography",
+        "AI",
+        "image processing",
+        "noise reduction",
+        "MLT",
+        "MMT",
+        "neural networks",
+        "signal-to-noise ratio",
+        "smart scopes"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "2025-12-digital-shot-through-the-clouds",
+      "documentId": "2025-12-digital",
+      "title": "Shot Through The Clouds",
+      "summary": "During a School Star Party on November 10th, 2025, astrophotographer John Gates successfully imaged the Pleiades and, to a lesser extent, the Wizard Nebula, despite severe cloud cover and heavy haze. Using Seestar smart telescopes, the author demonstrated that worthwhile astronomical imaging can still be achieved under challenging conditions by wisely selecting targets like bright star clusters or nebulae. This experience highlights the capabilities of modern smart telescopes to overcome less-than-ideal observing environments.",
+      "categories": [
+        "Observing Report",
+        "Astrophotography",
+        "Event Report",
+        "Technical Analysis",
+        "Equipment Usage"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Seestar",
+        "Pleiades",
+        "Wizard Nebula",
+        "School Star Party",
+        "Cloud Cover",
+        "Haze",
+        "Poor Seeing Conditions",
+        "Smart Telescope",
+        "SJAA",
+        "NGC 7380",
+        "M45"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "2025-12-digital-kids-corner",
+      "documentId": "2025-12-digital",
+      "title": "KIDS CORNER",
+      "summary": "This 'KIDS CORNER' article presents an educational section designed for children, featuring a word search puzzle filled with astronomy-related terms such as constellations, observational tools, and celestial bodies. It also includes 'Fun Facts' that explain the concept of solstices and the reason for Earth's changing seasons due to its axial tilt, referencing both summer and winter solstices.",
+      "categories": [
+        "Educational",
+        "Astronomy",
+        "Children's Content",
+        "Activities",
+        "Popular Science"
+      ],
+      "keywords": [
+        "Kids Corner",
+        "Word Search",
+        "Astronomy",
+        "Solstice",
+        "Seasons",
+        "Earth's Tilt",
+        "Constellations",
+        "Stars",
+        "Telescope",
+        "Star Chart",
+        "NASA"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "2025-12-digital-imaging-index",
+      "documentId": "2025-12-digital",
+      "title": "Imaging Index",
+      "summary": "The 'Imaging Index' is a new feature that compiles detailed information about astrophotography images submitted by members. It serves as a reference guide, providing insight into the equipment, exposure times, and celestial targets photographed by various astrophotographers, with page references to find the featured images within the publication.",
+      "categories": [
+        "Astrophotography",
+        "Technical Reference",
+        "Member Contributions"
+      ],
+      "keywords": [
+        "Imaging Index",
+        "astrophotography equipment",
+        "exposure times",
+        "celestial targets",
+        "member images",
+        "telescopes",
+        "cameras",
+        "comets",
+        "nebulae",
+        "solar imaging"
+      ],
+      "pageStart": 1,
+      "pageEnd": 16
+    },
+    {
+      "id": "2025-12-digital-a-glow-in-the-dark-window-into-the-universe",
+      "documentId": "2025-12-digital",
+      "title": "A Glow-in-the-Dark Window into the Universe",
+      "summary": "The article describes the \"Astro Match\" science station, a popular attraction at In-Town Star Parties, which features glow-in-the-dark images of celestial objects and corresponding name chips. This hands-on activity, designed for all ages, encourages participants to identify and learn about various astronomical features, often connecting their observations to live telescope views. The station aims to enhance curiosity and engagement with astronomy through a gamified learning experience.",
+      "categories": [
+        "observing reports",
+        "events",
+        "education",
+        "outreach",
+        "activity report"
+      ],
+      "keywords": [
+        "Astro Match",
+        "science station",
+        "star parties",
+        "celestial objects",
+        "glow-in-the-dark",
+        "astronomy education",
+        "hands-on learning",
+        "SJAA events",
+        "planets",
+        "constellations",
+        "nebulae",
+        "galaxies",
+        "UV lamp"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "2025-12-digital-member-survey-results",
+      "documentId": "2025-12-digital",
+      "title": "Member Survey Results",
+      "summary": "The San Jose Astronomical Association (SJAA) conducted a member survey to gather feedback and ideas for improvement as it celebrates its 70th anniversary. Based on the survey, which received a 25% response rate from its nearly 500 members, the club is implementing several initiatives. These include enhancing communication through welcome videos, a weekly newsletter, expanded 'Ephemeris' content, and a new Discord server, as well as fostering community with new member meet-and-greet nights and a 'Mentor Connect' program.",
+      "categories": [
+        "Club News",
+        "Member Feedback",
+        "Organizational Development",
+        "Communication Strategy",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Member Survey",
+        "Communication",
+        "Community",
+        "Club Anniversary",
+        "Welcome Videos",
+        "Ephemeris Bulletin",
+        "Weekly Newsletter",
+        "Discord",
+        "Meet-and-Greet",
+        "Mentor Connect",
+        "Star Parties",
+        "Public Programs"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "2025-12-digital-discord-for-sjaa",
+      "documentId": "2025-12-digital",
+      "title": "Discord for SJAA",
+      "summary": "The San Jose Astronomical Association (SJAA) has launched a new Discord server to provide a real-time platform for members to connect, ask questions, get help, and share observations. Complementing existing email groups, the free platform offers topic-specific chat channels, forums for astrophotos and equipment, and feeds for astronomy news and forecasts. Members can join and customize notification settings, with over 120 individuals already active on the server.",
+      "categories": [
+        "news",
+        "community update",
+        "member services",
+        "how-to guide"
+      ],
+      "keywords": [
+        "SJAA",
+        "Discord",
+        "community platform",
+        "chat server",
+        "astronomy",
+        "member engagement",
+        "online community",
+        "astrophotography",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2025-12-digital-membership-profile-update",
+      "documentId": "2025-12-digital",
+      "title": "Membership Profile Update",
+      "summary": "SJAA has upgraded its membership management to a dedicated web app, improving internal processes through automation and enhancing member benefits. This new system streamlines renewal reminders, facilitates volunteer matching based on skills and interests, and will enable an upcoming mentorship program. Members are encouraged to update their profiles at membership.sjaa.net and consider volunteering or sharing their expertise with the organization.",
+      "categories": [
+        "Organizational Update",
+        "Membership Management",
+        "Volunteer Opportunities",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA membership",
+        "web app",
+        "membership management",
+        "renewal process",
+        "automation",
+        "volunteer opportunities",
+        "mentorship program",
+        "member profiles",
+        "skill matching",
+        "Ephemeris"
+      ],
+      "pageStart": 7,
+      "pageEnd": 14
+    },
+    {
+      "id": "2025-12-digital-the-view-from-below-the-skies",
+      "documentId": "2025-12-digital",
+      "title": "The View From Below The Skies",
+      "summary": "The SJAA leadership team conducted a member survey to gather input on programs and areas for improvement, with a summary of findings and actions taken by Wolf Witt. Additionally, the SJAA plans to expand its 'Fix It' program to non-members starting in 2026, while maintaining priority for SJAA members.",
+      "categories": [
+        "news",
+        "organizational update",
+        "member services",
+        "program expansion"
+      ],
+      "keywords": [
+        "SJAA",
+        "member survey",
+        "leadership",
+        "Fix It program",
+        "program expansion",
+        "feedback",
+        "non-members",
+        "member priority"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "2025-12-digital-by-the-numbers",
+      "documentId": "2025-12-digital",
+      "title": "By The Numbers",
+      "summary": "The article highlights the San Jose Astronomical Association's (SJAA) robust social media presence across various platforms, showcasing astrophotos, club event pictures, and announcements. It encourages public engagement to support their mission of astronomy and science education, while also providing a numerical snapshot of their membership and follower growth across platforms like Meetup, X, Facebook, and Instagram between September and November 2025.",
+      "categories": [
+        "Club Update",
+        "Social Media",
+        "Statistics",
+        "Public Engagement",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Social Media",
+        "Followers",
+        "Membership",
+        "Meetup",
+        "X",
+        "Facebook",
+        "Instagram",
+        "Discord",
+        "Mastodon",
+        "Astronomy Education",
+        "Club Growth",
+        "Statistics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2025-12-digital-board-minutes",
+      "documentId": "2025-12-digital",
+      "title": "Board Minutes",
+      "summary": "The SJAA Board Minutes detail various operational updates, including the successful renewal of their Houge Park location for an additional six years and the appointment of a new Volunteer Coordinator. The club is actively pursuing partnerships with other astronomy groups and community programs like Walden West, while also securing permits for member-only observing sessions at Grant Ranch. Additionally, the board approved a new communication policy and plans for Google Group maintenance, alongside archiving historical club publications.",
+      "categories": [
+        "Board Meeting Minutes",
+        "Club Operations",
+        "Partnerships & Outreach",
+        "Facility Management",
+        "Volunteer News",
+        "Policy Updates",
+        "Archiving"
+      ],
+      "keywords": [
+        "SJAA",
+        "Houge Park",
+        "Volunteer Coordinator",
+        "Suchi Sankaranarayan",
+        "Grant Ranch",
+        "Observing Sessions",
+        "Walden West",
+        "The Ephemeris",
+        "Communication Policy",
+        "Google Groups",
+        "Club Partnerships",
+        "San Jose Astronomical Association",
+        "Permits",
+        "Club History"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "2025-12-digital-fall-comets",
+      "documentId": "2025-12-digital",
+      "title": "Fall Comets",
+      "summary": "The article highlights the exceptional comet observing during the fall season, particularly focusing on C/2025 R2 Swan and C/2025 A6 Lemmon. Swan was noted for its large green coma and brightening magnitude, often appearing near deep sky objects like M16, while Lemmon captivated observers with its dramatic and rapidly evolving dust and ion tails, frequently imaged for its \"wafting\" appearance.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Comets",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Fall Comets",
+        "C/2025 R2 Swan",
+        "C/2025 A6 Lemmon",
+        "Comet Observing",
+        "Coma",
+        "Tail",
+        "Ion Tail",
+        "Dust Tail",
+        "Magnitude",
+        "M16",
+        "Deep Sky Targets",
+        "Astrophotography"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    }
+  ],
+  "documents": [
+    {
+      "id": "2025-12-digital",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2512/2025.12.Digital.pdf",
+      "txtPath": "2512/2025.12.Digital.md"
+    }
+  ]
+}

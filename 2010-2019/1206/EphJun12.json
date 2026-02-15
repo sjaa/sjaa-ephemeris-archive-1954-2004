@@ -1,0 +1,187 @@
+{
+  "articles": [
+    {
+      "id": "ephjun12-the-shallow-sky",
+      "documentId": "ephjun12",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an in-depth guide for observing the June 5th Venus transit, including crucial solar observation safety tips, a detailed timetable for San Jose, and explanations of phenomena like the 'black drop effect' and the 'aureole'. It also briefly covers other planetary observations for June and announces the Golden State Star Party. The emphasis is on safe viewing and understanding the unique aspects of the transit.",
+      "categories": [
+        "observing guide",
+        "astronomical event",
+        "skywatching",
+        "safety",
+        "event announcement"
+      ],
+      "keywords": [
+        "Venus transit",
+        "solar observation",
+        "solar filter",
+        "solar projection",
+        "black drop effect",
+        "aureole",
+        "June 2012",
+        "San Jose",
+        "planets",
+        "Golden State Star Party"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun12-nasa-space-place",
+      "documentId": "ephjun12",
+      "title": "NASA Space Place",
+      "summary": "The article describes the increase in solar activity during 2012, focusing on the powerful solar flares and coronal mass ejections (CMEs) originating from sunspot AR1429 in March. It emphasizes the crucial role of Earth's strong magnetic field in defending the planet from these intense solar storms, preventing significant harm despite buffeting satellites and producing widespread auroras. The text contrasts Earth's protection with Mars's lack of a global magnetic field, which is believed to have led to the stripping away of its atmosphere.",
+      "categories": [
+        "Solar Activity",
+        "Space Weather",
+        "Astronomy",
+        "Planetary Science",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Sun",
+        "Solar activity",
+        "Solar flares",
+        "Coronal Mass Ejections (CMEs)",
+        "Magnetism",
+        "Earth's magnetic field",
+        "Sunspots",
+        "AR1429",
+        "Auroras",
+        "Space weather",
+        "Carrington Event",
+        "Mars",
+        "NASA Space Place",
+        "Solar cycle"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun12-loaner-scope-auction",
+      "documentId": "ephjun12",
+      "title": "Loaner Scope Auction",
+      "summary": "An auction was successfully held to sell several loaner telescopes, including a Meade LXD75 refractor, in order to refresh the telescope loaner program led by Lee Hoglan. Kevin Medlock served as auctioneer for the well-attended event, with Mark Wagner and Greg Claytor expressing positive feedback, and Ed Wong providing photographs.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Fundraising",
+        "Equipment"
+      ],
+      "keywords": [
+        "Auction",
+        "Loaner scopes",
+        "Telescope loaner program",
+        "Meade LXD75 refractor",
+        "Astronomy club",
+        "Fundraising"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun12-the-last-month-in-astronomy",
+      "documentId": "ephjun12",
+      "title": "The Last Month In Astronomy",
+      "summary": "The article recaps recent astronomical discoveries, including NASA's Dawn spacecraft revealing Vesta's differentiated, Earth-like structure and iron core, and the Spitzer observatory directly detecting light from a Super-Earth exoplanet. The Mars rover Opportunity found strong evidence of water, while new research suggests Earth's heavy bombardment period lasted much longer than previously believed. Other highlights include Hubble imaging the Egg Nebula and the Sombrero Galaxy exhibiting both spiral and elliptical characteristics.",
+      "categories": [
+        "Astronomy News",
+        "Space Missions",
+        "Planetary Science",
+        "Exoplanetary Science",
+        "Galactic Astronomy",
+        "Cosmic Impacts"
+      ],
+      "keywords": [
+        "Vesta",
+        "Dawn spacecraft",
+        "Super-Earth",
+        "Exoplanet",
+        "Spitzer observatory",
+        "Opportunity rover",
+        "Mars",
+        "Water on Mars",
+        "Pre-planetary Nebula",
+        "Egg Nebula",
+        "Hubble Space Telescope",
+        "Meteorite",
+        "Late Heavy Bombardment",
+        "Asteroid Belt",
+        "Sombrero Galaxy",
+        "NGC4594",
+        "Planetary differentiation",
+        "Infrared astronomy",
+        "Magma ocean"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjun12-seticon-ii-where-science-and-imagination-meet",
+      "documentId": "ephjun12",
+      "title": "SETIcon II: Where Science and Imagination Meet",
+      "summary": "SETIcon II, organized by the SETI Institute, is a unique public event scheduled for June 22-24, 2012, in Santa Clara, California. It aims to bridge the gap between real science and imagination, bringing together scientists, science fiction authors, artists, and the public for discussions, panels, and interactive exhibits on space, science, and technology. The event is distinct from technical conferences or typical sci-fi conventions, offering a new platform for exploring the intersection of these fields.",
+      "categories": [
+        "Events",
+        "Conferences",
+        "Public Outreach",
+        "Science Communication",
+        "Promotional Material",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "SETIcon II",
+        "SETI Institute",
+        "Science",
+        "Imagination",
+        "Space Exploration",
+        "Science Fiction",
+        "Public Event",
+        "Technology",
+        "Science Education",
+        "Santa Clara",
+        "June 2012"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephjun12-it-must-be-astronomical",
+      "documentId": "ephjun12",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article provides directions to Houge Park, details the revamped telescope loaner program including the QuickSTARt initiative, and presents statistics for completed school star parties while listing upcoming events as of May 1, 2012. It also includes contact information for the San Jose Astronomical Association's officers, board, and staff, along with publication details for its monthly newsletter, \"SJAA Ephemeris.\"",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Locations",
+        "Educational Programs",
+        "Resources",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Houge Park",
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Telescope Loaner Program",
+        "QuickSTARt",
+        "School Star Parties",
+        "Astronomy Outreach",
+        "Club Officers",
+        "Event Schedule",
+        "Directions"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1206/EphJun12.pdf",
+      "txtPath": "1206/EphJun12.md"
+    }
+  ]
+}

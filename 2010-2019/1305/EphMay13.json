@@ -1,0 +1,297 @@
+{
+  "articles": [
+    {
+      "id": "ephmay13-gas-giant-party-shallow-sky",
+      "documentId": "ephmay13",
+      "title": "Gas Giant Party Shallow Sky",
+      "summary": "May offers primary observation opportunities for Jupiter and Saturn, with Saturn providing stable views and Jupiter presenting exciting Jovian moon events despite its low position in the sky. The article highlights several significant events, including a rare multiple transit of Ganymede, Io, and their shadows on May 26, and a Ganymede eclipse on May 8, emphasizing the need for a good western horizon and early setup. It also briefly mentions other planets but suggests focusing on the Galilean moons for the month.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy Events",
+        "Planetary Observation"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "Galilean moons",
+        "Ganymede",
+        "Io",
+        "transits",
+        "eclipses",
+        "May observations",
+        "observing tips",
+        "shallow sky",
+        "polarizing filter",
+        "western horizon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay13-c-2011-l4-pan-starrs-hit-and-miss-golden-comet",
+      "documentId": "ephmay13",
+      "title": "C/2011 L4 Pan-STARRS Hit And Miss Golden Comet",
+      "summary": "The article details the observation of Comet C/2011 L4 Pan-STARRS, noting its initial difficulty for many US observers but eventual visibility and impressive appearance, especially in the Bay Area around mid-March. It describes the comet's golden color, distinctive tail, and long-period orbit originating from the Oort Cloud. The piece further explains how comets like Pan-STARRS offer vital clues about the early solar system's chemistry, the potential seeding of Earth with water and organic compounds, and the ongoing scientific interest in their composition.",
+      "categories": [
+        "Observing Reports",
+        "Cometary Science",
+        "Amateur Astronomy",
+        "Astrophysics",
+        "Solar System History"
+      ],
+      "keywords": [
+        "C/2011 L4 Pan-STARRS",
+        "Comet observation",
+        "Oort Cloud",
+        "Solar system formation",
+        "Organic compounds",
+        "Early Earth",
+        "Comet tail",
+        "Magnitude",
+        "Kuiper Belt",
+        "Murchison meteorite"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay13-sjaa-s-earth-day-shines",
+      "documentId": "ephmay13",
+      "title": "SJAA's Earth Day Shines!",
+      "summary": "SJAA successfully hosted a public outreach event at Cupertino's Earth Day, drawing approximately 250 attendees who viewed the active Sun through various telescopes, despite cloudy conditions. Volunteers engaged with interested individuals, distributed educational brochures on solar observation and dark sky preservation, making the day a great success.",
+      "categories": [
+        "Events",
+        "Public Outreach",
+        "Event Report",
+        "Solar Observation"
+      ],
+      "keywords": [
+        "SJAA",
+        "Earth Day",
+        "Cupertino",
+        "Solar Observation",
+        "Sunspots",
+        "Prominences",
+        "Dark Sky",
+        "Telescopes",
+        "Volunteers",
+        "Astronomy Event"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay13-upcoming-star-parties",
+      "documentId": "ephmay13",
+      "title": "Upcoming Star Parties",
+      "summary": "The article announces two upcoming star parties for amateur astronomers in California. The SJAA Yosemite Public Star Party is scheduled for August 23-24, 2013, at Glacier Point, offering free admission and camping for participants willing to host public events, despite rough conditions and a bright moon. Separately, the Golden State Star Party will take place from July 6-9, 2013, in Adin, CA, described as a comfortable annual event for up to 400 amateur astronomers under dark skies.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Star Parties",
+        "SJAA Yosemite Public Star Party",
+        "Golden State Star Party",
+        "Yosemite National Park",
+        "Glacier Point",
+        "Adin, CA",
+        "August 2013",
+        "July 2013",
+        "Amateur Astronomers",
+        "Camping",
+        "Public Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay13-top-targets-of-the-deep",
+      "documentId": "ephmay13",
+      "title": "Top Targets Of The Deep",
+      "summary": "This article serves as an observing guide for deep-sky targets, focusing on constellations such as Ursa Major, Canes Venatici, Crater, and Corvus. It provides a curated list of celestial objects, categorized for beginners and advanced observers, including nebulae, galaxies, and globular clusters, complete with magnitudes, coordinates, and star-hopping instructions.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Astronomy",
+        "Stargazing",
+        "Beginner Astronomy",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Ursa Major",
+        "Canes Venatici",
+        "Crater",
+        "Corvus",
+        "M97 Owl Nebula",
+        "M81",
+        "M82",
+        "M3 Globular Cluster",
+        "Hickson 68 Galaxy Group",
+        "NGC 4038/4039 Antennae Galaxies",
+        "Star hopping",
+        "Constellations",
+        "Galaxy clusters"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay13-exploring-the-water-world",
+      "documentId": "ephmay13",
+      "title": "Exploring the Water World",
+      "summary": "Earth's vast oceans, covering 70% of the planet and holding 98% of its water, are a critical yet largely unexplored component of our solar system's blue planet. The ocean acts as a 'flywheel' for climate, moderating temperatures and playing key roles in the water and carbon cycles, and driving weather patterns. NASA utilizes advanced satellite technology and remote sensing to study ocean processes, significantly enhancing our understanding of this essential system and its interactions with the atmosphere, land, and life.",
+      "categories": [
+        "Science",
+        "Earth Science",
+        "Oceanography",
+        "Climate Change",
+        "NASA Missions",
+        "Technology"
+      ],
+      "keywords": [
+        "Ocean",
+        "Climate",
+        "NASA",
+        "Satellites",
+        "Remote Sensing",
+        "Water Cycle",
+        "Carbon Cycle",
+        "Weather",
+        "Arctic Sea Ice",
+        "Phytoplankton",
+        "Earth System"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmay13-heard-and-overheard-by-mina-wagner",
+      "documentId": "ephmay13",
+      "title": "HEARD AND OVERHEARD... By Mina Wagner",
+      "summary": "This article covers a beginner's astronomy class where attendees viewed Comet Pan-STARRS, provides directions to the Rancho Cañada del Oro (RCDO) observing site, and shares multiple observing reports of Comet Pan-STARRS from various locations. It also includes an account of an 'observing adventure' to Fremont Peak for comet viewing. An informal survey about observing sites is also mentioned.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Practical Information",
+        "Celestial Objects",
+        "Community"
+      ],
+      "keywords": [
+        "Comet Pan-STARRS",
+        "Beginner's Class",
+        "Star Party",
+        "Observing Site",
+        "RCDO",
+        "Fremont Peak",
+        "Binoculars",
+        "Telescope",
+        "Naked Eye Observation",
+        "Astronomy",
+        "Directions"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephmay13-sjaa-board-meeting",
+      "documentId": "ephmay13",
+      "title": "SJAA Board Meeting",
+      "summary": "The SJAA Board Meeting minutes from February 24, 2013, detail several key decisions including the approval of a new board member, officer elections, and the purchase of equipment for the advanced loaner program and club events. Discussions also covered plans for an upcoming auction, member retention strategies, evaluating an observing site, appraising historical binoculars, and outreach initiatives. An accompanying \"Observing Adventures\" report describes a visit to Fremont Peak, observing a sunset, and dealing with light pollution.",
+      "categories": [
+        "Board Meeting Minutes",
+        "Club Operations",
+        "Observing Reports",
+        "Astronomy Club News",
+        "Event Planning",
+        "Equipment Acquisition"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Minutes",
+        "Officer Elections",
+        "Loaner Program",
+        "Telescope Mounts",
+        "Auction",
+        "Observing Site",
+        "Binoculars",
+        "Fremont Peak",
+        "Santa Teresa County Park",
+        "Newsletter",
+        "Membership",
+        "Outreach",
+        "Light Pollution"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephmay13-sjaa-s-may-25th-general-meeting-speaker-timothy-ferris",
+      "documentId": "ephmay13",
+      "title": "SJAA's May 25th General Meeting Speaker: Timothy Ferris",
+      "summary": "The San Jose Astronomical Association (SJAA) will host acclaimed author, filmmaker, and professor Timothy Ferris as the speaker for their May 25th General Meeting. Ferris, known for his numerous science books, documentaries, and work on the Voyager phonograph record, will present on \"Keys To The Universe.\" The meeting is scheduled to begin at 7:30 PM at Houge Park.",
+      "categories": [
+        "Meeting Announcement",
+        "Speaker Event",
+        "Astronomy Club",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Timothy Ferris",
+        "SJAA",
+        "General Meeting",
+        "Keys To The Universe",
+        "May 25th",
+        "Astronomy",
+        "Science Writer",
+        "Voyager",
+        "UC Berkeley",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay13-sjaa-programs-you-may-like",
+      "documentId": "ephmay13",
+      "title": "SJAA Programs you may like!",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a variety of popular programs, including \"Quick STARt\" for beginner mentoring and a \"Fix-It Program\" for equipment repair. They also host a \"Solar Observing Program\" at Houge Park featuring a new H-Alpha telescope, and an \"Imaging SIG\" for astrophotography enthusiasts. Additionally, the club encourages participation in its \"Board Meetings\" for sharing ideas and expanding interests.",
+      "categories": [
+        "Club Programs",
+        "Observing Events",
+        "Educational",
+        "Technical Support",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Amateur Astronomy",
+        "Quick STARt",
+        "Fix-It Program",
+        "Solar Observing",
+        "Imaging SIG",
+        "Beginner Programs",
+        "Equipment Repair",
+        "Astrophotography",
+        "H-Alpha Telescope",
+        "Club Activities",
+        "Mentoring",
+        "Volunteer",
+        "Houge Park"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1305/EphMay13.pdf",
+      "txtPath": "1305/EphMay13.md"
+    }
+  ]
+}

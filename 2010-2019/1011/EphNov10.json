@@ -1,0 +1,190 @@
+{
+  "articles": [
+    {
+      "id": "ephnov10-ephemeris",
+      "documentId": "ephnov10",
+      "title": "EPHEMERIS",
+      "summary": "The article details the Fourth Mars Science Laboratory Landing Site Workshop, held to select candidates for the Mars \"Curiosity\" rover, scheduled for a late 2011 launch. It outlines four primary landing sites—Gale Crater, Mawrth Vallis, Holden Crater, and Eberswalde Crater—each offering unique geological features for studying Mars's ancient past and potential habitability. Additionally, the article provides the San Jose Astronomical Association's activity calendar for late October, November, and December 2010, including astronomy classes, star parties, dark sky weekends, and general meetings.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Astronomy Events",
+        "Club Activities",
+        "Mission Planning"
+      ],
+      "keywords": [
+        "Mars Science Laboratory",
+        "Curiosity rover",
+        "Mars landing sites",
+        "Gale Crater",
+        "Mawrth Vallis",
+        "Holden Crater",
+        "Eberswalde Crater",
+        "NASA",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star Party",
+        "Astronomy Class",
+        "Dark Sky Weekend",
+        "November 2010"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov10-august-general-meeting-summary",
+      "documentId": "ephnov10",
+      "title": "August General Meeting Summary",
+      "summary": "The August General Meeting of the SJAA featured the presentation of the Gregory Award to Gary Mitchell for his extensive contributions to the club and community, particularly his work at school star parties. Additionally, senior astronomer Seth Shostak from the SETI Institute gave a popular talk on innovative methods for searching for extraterrestrial intelligence. The meeting included a presentation and Q&A session with Shostak, highlighting his expertise and engaging personality.",
+      "categories": [
+        "Meeting Summary",
+        "Awards",
+        "Guest Speaker",
+        "SETI",
+        "Community Service"
+      ],
+      "keywords": [
+        "August General Meeting",
+        "SJAA",
+        "Gregory Award",
+        "Gary Mitchell",
+        "Star Parties",
+        "Seth Shostak",
+        "SETI Institute",
+        "Extraterrestrial Intelligence",
+        "Alien Communications",
+        "Astronomy Club"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephnov10-the-shallow-sky",
+      "documentId": "ephnov10",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an overview of planetary visibility for the current fall sky, highlighting Jupiter's prominence and its unique South Equatorial Belt, with Uranus nearby. It guides observers to find Neptune, Mercury, and Mars in the evening sky, noting a close pass between Mercury and Mars. The piece concludes by mentioning Venus and Saturn moving to the morning sky and a reminder about the end of Daylight Savings Time.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Skywatching",
+        "Planetary Observation",
+        "Calendar"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Mercury",
+        "Mars",
+        "Pluto",
+        "Venus",
+        "Saturn",
+        "South Equatorial Belt",
+        "Daylight Savings Time",
+        "Antares",
+        "Celestial events",
+        "Observing guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov10-nasa-space-place",
+      "documentId": "ephnov10",
+      "title": "NASA Space Place",
+      "summary": "The article discusses a recent close encounter between Earth and Jupiter in September 2010, offering a great view through telescopes. It primarily highlights NASA's Juno mission, scheduled to arrive at Jupiter in July 2016, which aims to study the giant planet's hidden interior, magnetic field, and water content. By mapping Jupiter's gravitational and magnetic fields and using microwave radiometers, Juno will help scientists understand the planet's core structure and origin.",
+      "categories": [
+        "Space Missions",
+        "Planetary Science",
+        "Astronomy News",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Juno mission",
+        "NASA",
+        "Space exploration",
+        "Planetary interior",
+        "Magnetic field",
+        "Liquid metallic hydrogen",
+        "Great Red Spot",
+        "Water content",
+        "Spacecraft",
+        "Observing",
+        "Scott Bolton",
+        "2010 close encounter"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov10-the-last-month-in-astronomy",
+      "documentId": "ephnov10",
+      "title": "The Last Month In Astronomy",
+      "summary": "Recent astronomical findings include the discovery of a dust-enshrouded supernova and new insights into planetary bodies such as ancient seas on Mars, rapid chemical reactions in Europa's ice, and material sharing among Saturn's moons. The article also featured a new infrared image of the barred spiral galaxy NGC 1365 and covered Kalmbach Publishing's acquisition of Discover magazine.",
+      "categories": [
+        "Discoveries",
+        "Planetary Science",
+        "Astrophysics",
+        "Observational Astronomy",
+        "Astrobiology",
+        "Business News"
+      ],
+      "keywords": [
+        "Supernova",
+        "Mars",
+        "Europa",
+        "Saturn's Moons",
+        "NGC 1365",
+        "Dust-covered Supernova",
+        "Carbonate Rocks",
+        "Subsurface Life",
+        "Chemical Reactions",
+        "Barred Spiral Galaxy",
+        "Spitzer Space Telescope",
+        "Mars Reconnaissance Orbiter",
+        "VLT",
+        "Astronomy Magazine",
+        "Discover Magazine"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov10-it-must-be-astronomical",
+      "documentId": "ephnov10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the SJAA Ephemeris newsletter provides updates on the San Jose Astronomical Association's activities, including a telescope loaner program and an upcoming membership dues change effective January 1, 2011. It also highlights educational resources for children, such as NASA's Climate Kids game, and details the club's completed and scheduled school star parties. The document concludes with lists of club officers, staff, and contact information.",
+      "categories": [
+        "Club News & Announcements",
+        "Membership Information",
+        "Community Outreach",
+        "Events & Programs",
+        "Organizational Details"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Telescope Loaner Program",
+        "Membership Dues",
+        "Newsletter",
+        "School Star Parties",
+        "Astronomy Education",
+        "Club Officers",
+        "Amateur Astronomy",
+        "Community Events"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1011/EphNov10.pdf",
+      "txtPath": "1011/EphNov10.md"
+    }
+  ]
+}

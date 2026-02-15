@@ -1,0 +1,278 @@
+{
+  "articles": [
+    {
+      "id": "ephjul03-observing-hickson-50",
+      "documentId": "ephjul03",
+      "title": "Observing Hickson 50",
+      "summary": "The article details Jane Houston Jones's experiences observing Hickson 50, a challenging compact galaxy group, using 17.5-inch and 30-inch amateur telescopes. It provides a historical overview of galaxy cluster discoveries before recounting specific observing techniques, equipment, and the successful visual identification of multiple components of Hickson 50. Additionally, the document includes a calendar of San Jose Astronomical Association (SJAA) activities for July and August.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Deep Sky Objects",
+        "Astronomy History",
+        "Astronomical Events",
+        "Club News"
+      ],
+      "keywords": [
+        "Hickson 50",
+        "Galaxy clusters",
+        "Deep sky observing",
+        "Amateur telescopes",
+        "San Jose Astronomical Association (SJAA)",
+        "Ursa Major",
+        "M97",
+        "Pluto",
+        "Star hopping",
+        "Redshift",
+        "Compact galaxy groups"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjul03-something-in-the-way",
+      "documentId": "ephjul03",
+      "title": "Something in the way",
+      "summary": "The author recounts a recent observing experience where, after setting up at Shoreline for an event involving the Moon blocking the sun, they encountered very poor visibility due to atmospheric conditions. The article also notes that its content might be out of sync with actual events due to early submission deadlines, adding a humorous note about the disappointing viewing conditions.",
+      "categories": [
+        "Observing Report",
+        "Personal Experience",
+        "Astronomy",
+        "Publication Notes"
+      ],
+      "keywords": [
+        "Observation",
+        "Shoreline",
+        "Visibility",
+        "Atmospheric Conditions",
+        "Ephemeris",
+        "Dave North",
+        "Moon's light",
+        "South Bay"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjul03-mooning",
+      "documentId": "ephjul03",
+      "title": "Mooning",
+      "summary": "This article details an observer's experience watching a lunar eclipse from a parking lot at Valley Fair, noting an early sighting, the usefulness of binoculars and a tripod, and atmospheric effects impacting the moon's brightness and terminator sharpness. The author highlights surprisingly high public interest in the inconveniently early event, contrasting it with subsequent poor observing conditions throughout the month. The piece concludes with a brief mention of an upcoming Mars eclipse not visible from the observer's location.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Amateur Astronomy",
+        "Tips & Advice"
+      ],
+      "keywords": [
+        "lunar eclipse",
+        "moon observation",
+        "binoculars",
+        "tripod",
+        "atmospheric effects",
+        "terminator",
+        "public interest",
+        "weather",
+        "Mars eclipse"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul03-get-ready-for-mars",
+      "documentId": "ephjul03",
+      "title": "Get ready for Mars",
+      "summary": "This article encourages amateur astronomers to begin observing Mars in July 2003, as it grows from 16 to 20 arcseconds and is visible throughout the evening. Despite its low elevation, early practice identifying features like the shrinking south polar cap, Hellas, and Syrtis Major is advised to prepare for its closest opposition in August. The authors emphasize the challenging but rewarding nature of Mars observation and suggest using software for feature identification.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Observation",
+        "Amateur Astronomy",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Mars",
+        "Observation",
+        "Opposition",
+        "South Polar Cap",
+        "Hellas",
+        "Syrtis Major",
+        "July 2003",
+        "Amateur Astronomy",
+        "Telescope",
+        "Asteroid (22338) Janemejo"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul03-shallow-sky",
+      "documentId": "ephjul03",
+      "title": "Shallow sky",
+      "summary": "This article discusses various astronomical software, including xephem and Marsmap, and invites readers to suggest more programs for a comprehensive list. It also provides updates on planetary visibility for the month of July, noting that Jupiter is descending in the western sky and will soon be lost to the sun's glare. Additionally, it highlights that Mercury will be visible low in the west-northwest during the last week of July, being particularly easy to locate on the 26th.",
+      "categories": [
+        "Observing Reports",
+        "Technical",
+        "Celestial Events",
+        "Sky Watching"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Mercury",
+        "Astronomy software",
+        "Planetary visibility",
+        "xephem",
+        "Marsmap",
+        "July",
+        "Western sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul03-delicacies-on-via-lactea",
+      "documentId": "ephjul03",
+      "title": "Delicacies on Via Lactea",
+      "summary": "This article, \"Delicacies on Via Lactea,\" encourages amateur astronomers to observe deep-sky objects located within the Milky Way, often referred to as the 'Zone of Avoidance' by galaxy hunters. It provides detailed descriptions and observing tips for several planetary nebulae and open clusters, along with brief notes on planetary visibility for the month. The piece also advocates for utilizing dark-sky observing sites and engaging with local astronomy communities.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Objects",
+        "Amateur Astronomy",
+        "Stargazing Tips",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "Milky Way",
+        "Via Lactea",
+        "Zone of Avoidance",
+        "ZOA",
+        "planetary nebulae",
+        "open clusters",
+        "NGC 6543",
+        "Cat's Eye Nebula",
+        "NGC 6826",
+        "Blinking Planetary",
+        "NGC 6802",
+        "The Coathanger",
+        "Melotte 111",
+        "NGC 6633",
+        "NGC 6781",
+        "NGC 6755",
+        "NGC 6756",
+        "NGC 6704",
+        "Veronica Lake Cluster",
+        "Draco",
+        "Aquila",
+        "Ophiuchus",
+        "Scutum",
+        "Jupiter",
+        "Saturn",
+        "Venus",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "telescopes",
+        "backyard observing",
+        "dark skies",
+        "star party",
+        "UHC filter"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul03-out-there",
+      "documentId": "ephjul03",
+      "title": "Out there",
+      "summary": "This article presents a diverse collection of astronomical content, including detailed observational reports of deep-sky objects such as the \"Little Gem\" planetary nebulae (NGC 6818, NGC 6369) and the striking B86/NGC 6520 pair, accompanied by a list of celestial targets. It also features a historical account of a 1949 solar eclipse report published in *Sky & Telescope* and a poetic explanation of planetary retrograde motion. The content aims to inspire observers and educate on astronomical phenomena.",
+      "categories": [
+        "Observational Astronomy",
+        "Deep-Sky Objects",
+        "Astronomy History",
+        "Astronomy Education",
+        "Poetry"
+      ],
+      "keywords": [
+        "Planetary Nebulae",
+        "NGC 6818",
+        "NGC 6369",
+        "Little Gem",
+        "B86",
+        "NGC 6520",
+        "Deep-Sky Observing",
+        "Solar Eclipse",
+        "Retrograde Motion",
+        "Celestial Objects",
+        "Telescope Observations",
+        "Astronomy Reports",
+        "Open Clusters",
+        "Globular Clusters"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul03-minor-planet-22338-janemojo-1992-le",
+      "documentId": "ephjul03",
+      "title": "Minor planet 22338 Janemojo = 1992 LE",
+      "summary": "This article details the discovery and naming of minor planet 22338 Janemojo, originally designated 1992 LE. Discovered by Carolyn Shoemaker and David Levy on June 3, 1992, at Mt. Palomar, it was later named after SJAA members Jane and Morris \"Mojo\" Jones. The text also provides a brief historical context on minor planet discoveries, beginning with Ceres in 1801.",
+      "categories": [
+        "Minor Planet Discovery",
+        "Astronomy History",
+        "Naming Conventions",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Minor planet",
+        "Asteroid",
+        "22338 Janemojo",
+        "1992 LE",
+        "Carolyn Shoemaker",
+        "David Levy",
+        "Discovery",
+        "Naming",
+        "Mt. Palomar",
+        "Ceres",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul03-sjaa-loaner-scope-status",
+      "documentId": "ephjul03",
+      "title": "SJAA loaner scope status",
+      "summary": "The article details the current status of the San Jose Astronomical Association's (SJAA) telescope loaner program, providing an inventory of available telescopes, those currently on loan with due dates, and scopes with extended loan periods. It also includes a waiting list for certain equipment, instructing SJAA members to contact Mike Koop for borrowing inquiries. This update helps members track the availability of various astronomical instruments.",
+      "categories": [
+        "Club Services",
+        "Equipment Management",
+        "Membership Information",
+        "Astronomy Club Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescopes",
+        "Dobson",
+        "Refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Solar Scope",
+        "Astronomy Club",
+        "Equipment Loan",
+        "Waiting List",
+        "Mike Koop"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0307/EphJul03.pdf",
+      "txtPath": "0307/EphJul03.md"
+    }
+  ]
+}

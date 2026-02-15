@@ -1,0 +1,279 @@
+{
+  "articles": [
+    {
+      "id": "ephoct01-sjaa-ephemeris",
+      "documentId": "ephoct01",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA Ephemeris for October 2001 presents a \"Scary Halloween Observing\" guide, detailing various celestial objects with evocative names like the Skull Nebula and Mirach's Ghost, complete with their astronomical data for observation. It also features a comprehensive activities calendar for October and November 2001, outlining general meetings, multiple star parties at different locations, astronomy classes, and a swap meet organized by the San Jose Astronomical Association. The publication additionally acknowledges the September 11, 2001 event.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Club Publication",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Halloween astronomy",
+        "Deep-sky objects",
+        "Nebulae",
+        "Galaxies",
+        "Multiple stars",
+        "Lunar features",
+        "Star parties",
+        "Astronomy club activities",
+        "SJAA",
+        "October 2001",
+        "November 2001"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephoct01-under-african-skies",
+      "documentId": "ephoct01",
+      "title": "Under African Skies",
+      "summary": "The article details the successful Cosmos Education 2001 \"Under African Skies\" Eclipse Conference and Education Expedition. An international team traveled through several African countries, visiting over 27 schools and educating more than 3,500 students and teachers. The expedition culminated in a three-day conference in Lusaka, Zambia, attended by over 500 people, which featured diverse presentations and concluded with the observation of a total solar eclipse.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Events",
+        "Science Communication",
+        "Expedition",
+        "Non-profit Activities"
+      ],
+      "keywords": [
+        "Cosmos Education",
+        "Eclipse Conference",
+        "Education Expedition",
+        "Africa",
+        "Solar Eclipse 2001",
+        "Zambia",
+        "Lusaka",
+        "Science Outreach",
+        "International Team",
+        "Under African Skies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct01-under-the-100-inch-and-60-inch",
+      "documentId": "ephoct01",
+      "title": "Under the 100-inch and 60-inch",
+      "summary": "Steven Nelson recounts his first tour of the Mount Wilson Observatory, specifically the historic 60-inch and 100-inch telescopes. He describes seeing the untouched observing lockers of renowned astronomers like Hubble, Humason, and Sandage, and marvels at the unique architecture of the 100-inch's support pedestal. The article also includes a list of upcoming school star parties organized by a local astronomical society.",
+      "categories": [
+        "Personal Account",
+        "Observatory Visit",
+        "History of Astronomy",
+        "Events",
+        "Star Parties"
+      ],
+      "keywords": [
+        "Mount Wilson Observatory",
+        "100-inch telescope",
+        "60-inch telescope",
+        "Hubble",
+        "Humason",
+        "Sandage",
+        "Observatory tour",
+        "Astronomical Society of the Pacific",
+        "Star parties",
+        "Astronomy history"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct01-mooning",
+      "documentId": "ephoct01",
+      "title": "Mooning",
+      "summary": "The article \"Mooning\" explores the prominent lunar crater Clavius, detailing its unique features such as its large size and distinctive arc of internal craters. It connects the crater to its namesake, 16th-century Jesuit mathematician Christopher Clavius, highlighting his significant contributions to the Gregorian calendar reform and his invention of the decimal point. Additionally, the document includes a request for donations of 1-1/4\" eyepieces and other astronomy equipment to support the West Valley College astronomy program.",
+      "categories": [
+        "Lunar Astronomy",
+        "History of Science",
+        "Observational Astronomy",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Clavius crater",
+        "Moon",
+        "lunar features",
+        "Christopher Clavius",
+        "decimal point",
+        "Gregorian calendar",
+        "calendar reform",
+        "West Valley College",
+        "astronomy program",
+        "telescope donations",
+        "eyepieces",
+        "Tycho Brahe",
+        "Johann Kepler",
+        "Galileo Galilei",
+        "Russell Porter"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct01-gas-giants-and-rings",
+      "documentId": "ephoct01",
+      "title": "Gas Giants and Rings",
+      "summary": "This article highlights October as an excellent month for observing all gas giants, offering detailed viewing tips for Saturn, Jupiter, Uranus, and Neptune, including features to look for and challenges to expect. It also briefly mentions observing Mars, Venus, and Mercury, and suggests setting up a telescope for Halloween trick-or-treaters to view the Full Moon. The author provides practical advice for amateur astronomers using various viewing instruments.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Planetary Astronomy",
+        "Events"
+      ],
+      "keywords": [
+        "Gas Giants",
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Rings",
+        "Great Red Spot",
+        "Galilean moons",
+        "Transits",
+        "Telescope",
+        "Binoculars",
+        "Naked Eye Observing",
+        "Halloween",
+        "Mars",
+        "Venus",
+        "Mercury",
+        "October",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct01-sjaa-club-news-and-announcements",
+      "documentId": "ephoct01",
+      "title": "SJAA Club News and Announcements",
+      "summary": "The article provides updates from the SJAA, announcing a December 1st holiday party featuring a potluck, show-and-tell, and a gift lottery for astronomically-themed items. It also recaps September's \"Slide and Equipment Night\" where various unique astronomical equipment was showcased. Furthermore, the club is selling 2002 \"Astronomical Pocket Diaries\" as a fundraiser to benefit their loaner equipment fund.",
+      "categories": [
+        "Club News",
+        "Event Announcement",
+        "Event Recap",
+        "Fundraising",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "holiday party",
+        "social event",
+        "potluck",
+        "show and tell",
+        "gift lottery",
+        "astronomical equipment",
+        "telescopes",
+        "dobsonian",
+        "refractor",
+        "solar telescope",
+        "fundraiser",
+        "pocket calendar",
+        "astronomical diary",
+        "ephemeris",
+        "loaner equipment fund"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct01-free-lecture-october-10th-at-foothill-college",
+      "documentId": "ephoct01",
+      "title": "Free Lecture October 10th at Foothill College",
+      "summary": "Dr. Chris Chyba from the SETI Institute and Stanford will deliver a free illustrated lecture titled \"Life in the Universe: Is It Just Around the Corner?\" on October 10th at 7 pm at Foothill College. This event, part of the Silicon Valley Astronomy Lecture Series, will explore the definition of life, potential extraterrestrial life forms, and current scientific efforts in astrobiology, including missions to places like Jupiter's moon Europa. The public is invited to attend this opening talk, co-sponsored by NASA Ames Research Center and others.",
+      "categories": [
+        "Events",
+        "News",
+        "Lecture Announcement",
+        "Astronomy",
+        "Astrobiology"
+      ],
+      "keywords": [
+        "Chris Chyba",
+        "SETI Institute",
+        "Stanford",
+        "Foothill College",
+        "Silicon Valley Astronomy Lecture Series",
+        "Life in the Universe",
+        "Astrobiology",
+        "Extraterrestrial Life",
+        "Europa",
+        "NASA Ames Research Center",
+        "Public Lecture"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct01-celestial-calendar-october-2001",
+      "documentId": "ephoct01",
+      "title": "Celestial Calendar October 2001",
+      "summary": "This article provides a detailed celestial calendar for October 2001, outlining key astronomical data for observers. It includes lunar phases, the positions and magnitudes of visible planets (Mercury, Venus, Mars, Jupiter, and Saturn) throughout the month, and essential timing information such as hours of darkness, astronomical twilight, and sidereal time. A specific \"Darkest Saturday Night\" on October 13th is highlighted for optimal viewing conditions.",
+      "categories": [
+        "Celestial Calendar",
+        "Observing Guide",
+        "Astronomical Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "October 2001",
+        "Lunar Phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Astronomical Twilight",
+        "Hours of Darkness",
+        "Sidereal Time",
+        "Planet Positions",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Darkest Saturday Night"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct01-sjaa-loaner-scope-status",
+      "documentId": "ephoct01",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA Loaner Scope Status document provides an update on the availability of telescopes for members to borrow. It lists scopes currently available for immediate loan, those recently loaned out with their due dates, and those on extended loan. Members interested in borrowing a scope can contact Mike Koop, and the program also seeks members who can provide storage space for loaner equipment.",
+      "categories": [
+        "club update",
+        "member services",
+        "equipment loan program",
+        "status report"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy club",
+        "equipment",
+        "Dobson",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "spectroscope",
+        "loan status",
+        "membership benefits"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0110/EphOct01.pdf",
+      "txtPath": "0110/EphOct01.md"
+    }
+  ]
+}

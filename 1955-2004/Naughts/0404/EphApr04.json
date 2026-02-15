@@ -1,0 +1,189 @@
+{
+  "articles": [
+    {
+      "id": "ephapr04-sjaa-ephemeris",
+      "documentId": "ephapr04",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This SJAA EPHEMERIS issue details a Costa Rica Star Party experience, highlighting the comfort and dark skies of La Ensenada Lodge for observing southern hemisphere celestial objects, and its appeal for spouses. Additionally, it provides the San Jose Astronomical Association's activity calendar for April and May, listing general meetings, ATM classes, astronomy classes, and various star parties.",
+      "categories": [
+        "Observing Report",
+        "Travel",
+        "Club Activities",
+        "Events Calendar",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Costa Rica Star Party",
+        "Southern Sky",
+        "La Ensenada Lodge",
+        "Dark Sky Site",
+        "Astrotourism",
+        "SJAA",
+        "General Meeting",
+        "ATM Class",
+        "Astronomy Class",
+        "Star Party",
+        "Deep Sky Weekend",
+        "Observing",
+        "Telescopes",
+        "Eyepieces"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephapr04-foothill-college-lecture-series",
+      "documentId": "ephapr04",
+      "title": "Foothill College Lecture Series",
+      "summary": "This document announces an upcoming lecture at Foothill College on April 14th by Dr. Claudia Alexander of NASA's JPL, who will discuss discoveries from the Galileo mission to Jupiter and its moons. It also features a detailed observing report from a productive astronomical trip to Costa Rica, highlighting observations of southern sky objects like Eta Carina and the Large Magellanic Cloud using 8\" and 13\" telescopes. Additionally, directions to Houge Park are provided.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Claudia Alexander",
+        "Galileo mission",
+        "Jupiter",
+        "Foothill College Lecture",
+        "Astronomy observing",
+        "Costa Rica",
+        "Southern Sky",
+        "Eta Carina",
+        "Rosetta Project"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr04-the-lunar-bush",
+      "documentId": "ephapr04",
+      "title": "The Lunar Bush",
+      "summary": "The article critically examines President Bush's tentative proposal for a Mars mission, which includes establishing a base on the Moon. It contrasts the advantages and disadvantages of a lunar base versus one at a Lagrangian point, considering factors such as gravity, available materials, and ease of launch. While expressing skepticism about the US's immediate political resolve, the author ultimately believes both lunar and orbital bases will be pursued by the international community.",
+      "categories": [
+        "Space Exploration",
+        "Space Policy",
+        "Opinion/Commentary",
+        "Future of Space Travel",
+        "Lunar Exploration"
+      ],
+      "keywords": [
+        "Bush mission",
+        "Mars mission",
+        "Moon base",
+        "Lagrangian point",
+        "Space exploration",
+        "Lunar exploration",
+        "Space policy",
+        "Gravity",
+        "Space materials",
+        "NASA",
+        "International cooperation",
+        "Future of space"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr04-the-shallow-sky",
+      "documentId": "ephapr04",
+      "title": "The shallow sky",
+      "summary": "This article provides an amateur observing guide to Jupiter, covering how to find it, what details to look for through a telescope, and relevant terminology. It details observing the Galilean moons, their transits and shadows, Jupiter's equatorial bands (NEB, SEB), the Great Red Spot, and polar regions. The guide also mentions specific double shadow transits for April and briefly notes Saturn's visibility.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Celestial Events",
+        "Beginner Tips"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Galilean moons",
+        "Io",
+        "Europa",
+        "Ganymede",
+        "Callisto",
+        "Great Red Spot",
+        "NEB",
+        "SEB",
+        "Moon transits",
+        "Shadow transits",
+        "Telescope observing",
+        "April sky",
+        "Saturn"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr04-out-there",
+      "documentId": "ephapr04",
+      "title": "Out There",
+      "summary": "The article \"Out There\" provides an April 2004 astronomical update, detailing the visibility of planets like Venus, Mars, and Mercury, along with mentions of Uranus, Neptune, and Pluto. It also includes an \"Editor's Semi-Dark Matter\" section with various announcements such as a NASA Ames speaker series, AstroCon 2004 details, an auction, and a Lick Observatory job opening. A significant portion is dedicated to \"A Sampling of Planetaries,\" guiding observers through challenging and well-known planetary nebulae like Abell 31, NGC 3132, NGC 3242, M97, and the Southern Crab Nebula, with practical observing tips.",
+      "categories": [
+        "Observing Reports",
+        "News & Announcements",
+        "Celestial Events",
+        "Observing Guides",
+        "Deep-Sky Astronomy"
+      ],
+      "keywords": [
+        "Planetary Visibility",
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Pleiades",
+        "Planetary Nebulae",
+        "Deep-Sky Observing",
+        "Observing Filters",
+        "AstroCon 2004",
+        "Astronomical Events",
+        "NASA Ames",
+        "Lick Observatory",
+        "NGC 3242",
+        "M97",
+        "Abell 31",
+        "NGC 3132",
+        "Southern Crab Nebula"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr04-sjaa-loaner-scope-status",
+      "documentId": "ephapr04",
+      "title": "SJAA loaner scope status",
+      "summary": "The SJAA (San Jose Astronomical Association) maintains a loaner scope program, detailing the status of various telescopes available to its members. The article lists scopes currently available for immediate loan, those on loan with their due dates, and scopes with extended loan periods (some undergoing repair). Members can contact Mike Koop to inquire about borrowing a scope or to be added to the waiting list.",
+      "categories": [
+        "Membership Services",
+        "Equipment Loan Program",
+        "Astronomy Club Information",
+        "Resource Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "astronomy equipment",
+        "Dobsonian",
+        "refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "member benefits",
+        "scope availability",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0404/EphApr04.pdf",
+      "txtPath": "0404/EphApr04.md"
+    }
+  ]
+}

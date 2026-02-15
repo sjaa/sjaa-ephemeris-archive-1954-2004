@@ -1,0 +1,45 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-bulletin-04-2025-sjaa-ephemeris-bulletin",
+      "documentId": "ephemeris-bulletin-04-2025",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin for April 2025 highlights the upcoming Lyrid meteor shower, offering tips for observation. It also details various SJAA events and features the Leo Triplet as the 'Target of the Month,' providing astronomical facts. Additionally, the bulletin announces recent Board and Officer election results and lists several volunteer opportunities within the association.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Educational",
+        "Community News",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Lyrid meteor shower",
+        "C/ 1861 G1 Thatcher",
+        "Leo Triplet",
+        "Messier 65",
+        "Messier 66",
+        "NGC 3628",
+        "Hamburger Galaxy",
+        "Astro 101",
+        "Starry Nights",
+        "Pinnacles Star Party",
+        "Imaging SIG",
+        "Loaner Program",
+        "School Star Party Program",
+        "Board Elections"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-bulletin-04-2025",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2503/Ephemeris.Bulletin.04.2025.pdf",
+      "txtPath": "2503/Ephemeris.Bulletin.04.2025.md"
+    }
+  ]
+}

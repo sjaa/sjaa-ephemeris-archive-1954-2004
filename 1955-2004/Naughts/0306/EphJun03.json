@@ -1,0 +1,187 @@
+{
+  "articles": [
+    {
+      "id": "ephjun03-astronomy-tour",
+      "documentId": "ephjun03",
+      "title": "Astronomy tour",
+      "summary": "The article details Paul Kohlmiller's experience on the \"Arizona Deep Skies and Deserts\" astronomy tour in May 2003, organized by Sky & Telescope magazine. Despite challenges like moonlight and adverse weather limiting viewing sessions, the tour included visits to major observatories such as Kitt Peak and Lowell Observatory's Anderson Mesa (featuring an interferometer), a unique visit to astronomer David Levy's home observatory, and a lecture by Dr. Jeff Hester. The author describes both successful observations, like Omega Centauri and M51, and the educational insights gained on observatory management and telescope technology.",
+      "categories": [
+        "Trip Report",
+        "Astronomy Tour",
+        "Observatory Visits",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Arizona Deep Skies and Deserts",
+        "Sky & Telescope",
+        "Kitt Peak Observatory",
+        "Lowell Observatory",
+        "Anderson Mesa",
+        "Interferometer",
+        "David Levy",
+        "Dr. Jeff Hester",
+        "Omega Centauri",
+        "M51",
+        "Telescopes",
+        "Observing conditions",
+        "Travel"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjun03-springtime-galaxies-doubles-and-globulars",
+      "documentId": "ephjun03",
+      "title": "Springtime galaxies, doubles and globulars",
+      "summary": "This article by Mark Wagner serves as a comprehensive observing guide for spring, focusing on a 2-hour celestial window from R.A. 15:30 to 17:30. It meticulously explores a range of deep-sky objects including galaxies in Draco, numerous double stars, and a rich selection of globular clusters in Hercules and Ophiuchus. The guide provides detailed descriptions, specific locator tips, and personal observing notes for each target, concluding with an invitation for reader feedback to shape future astronomy columns.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Observing",
+        "Astronomy Column",
+        "Stargazing Report"
+      ],
+      "keywords": [
+        "Spring Astronomy",
+        "Deep Sky Objects",
+        "Galaxies",
+        "Double Stars",
+        "Globular Clusters",
+        "Draco",
+        "Hercules",
+        "Ophiuchus",
+        "NGC 5982",
+        "NGC 5985",
+        "NGC 6229",
+        "M13",
+        "NGC 6207",
+        "Antares",
+        "Observing Tips",
+        "Constellations"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun03-mooning",
+      "documentId": "ephjun03",
+      "title": "Mooning",
+      "summary": "This article provides observing tips for the month of June, highlighting the challenges and opportunities for viewing the Moon, Jupiter, Pluto, and Mars. It suggests techniques for catching an early new Moon and observing eastern lunar features, while also detailing how to find Jupiter low in the west. Special attention is given to Pluto's opposition, advising on finder chart comparison, and to Mars' growing apparent size, encouraging observation of surface features and its shrinking polar cap.",
+      "categories": [
+        "Observing Reports",
+        "Celestial Events",
+        "Monthly Sky Report",
+        "Technical Tips"
+      ],
+      "keywords": [
+        "Moon",
+        "New Moon",
+        "Lunar Observation",
+        "Jupiter",
+        "Pluto",
+        "Mars",
+        "Opposition",
+        "Finder Charts",
+        "Telescope",
+        "Observing Techniques",
+        "June Sky",
+        "Hellas",
+        "Syrtis Major",
+        "South Polar Cap"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun03-music-of-the-spheres",
+      "documentId": "ephjun03",
+      "title": "Music of the Spheres",
+      "summary": "Lick Observatory's Summer Programs, 'The Summer Visitors Program' and 'Music of the Spheres' (featuring concerts, talks, and telescope viewing), will have tickets available starting May 13th. The article also notes a donation to the SJAA in memory of Rita Miram, lists upcoming star parties, and shares acknowledgments for past school star parties and a general meeting talk.",
+      "categories": [
+        "Events",
+        "Public Outreach",
+        "News",
+        "Donations"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "Summer Programs",
+        "Music of the Spheres",
+        "Summer Visitors Program",
+        "Tickets",
+        "Astronomy",
+        "Telescope Viewing",
+        "Star Parties",
+        "SJAA",
+        "Rita Miram",
+        "Donation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun03-xxiii-auction",
+      "documentId": "ephjun03",
+      "title": "XXIII Auction",
+      "summary": "The 23rd annual SJAA auction and swap meet proved to be the club's most profitable ever, raising a record $1849.01 from 81 items sold and an additional $95 from the swap meet. The event saw a variety of astronomical equipment, prints, and books donated by members and external contributors, including items from the Hewett Estate and a refurbished Jaegers Refractor. The success was attributed to numerous volunteers and the engaging auctioneering of Jay Freeman.",
+      "categories": [
+        "Events",
+        "Fundraising",
+        "Club News",
+        "Observing Equipment"
+      ],
+      "keywords": [
+        "Auction",
+        "Swap Meet",
+        "SJAA",
+        "Fundraising",
+        "Astronomical Equipment",
+        "Donations",
+        "Volunteers",
+        "Mike Koop",
+        "Jay Freeman",
+        "Lick Observatory",
+        "Jaegers Refractor",
+        "Newtonian Telescope",
+        "Scope City",
+        "Sky Image Lab"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun03-sjaa-loaner-scope-status",
+      "documentId": "ephjun03",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an update on its telescope loaner program, detailing which scopes are currently available for immediate loan, those on loan with their due dates, and scopes with extended loan periods. SJAA members interested in borrowing a telescope can contact Mike Koop, with a waiting list available for popular models.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Club",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "astronomy club",
+        "telescopes",
+        "scopes",
+        "loaner scopes",
+        "available telescopes",
+        "borrowing equipment",
+        "waiting list",
+        "members"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0306/EphJun03.pdf",
+      "txtPath": "0306/EphJun03.md"
+    }
+  ]
+}

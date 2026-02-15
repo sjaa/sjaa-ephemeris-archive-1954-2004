@@ -1,0 +1,189 @@
+{
+  "articles": [
+    {
+      "id": "ephnov04-sjaa-ephemeris",
+      "documentId": "ephnov04",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA Ephemeris for November 2004 reports on Astronaut Russell Schweikart's lecture about the threat of near-Earth asteroids and the B612 Foundation's mission to develop asteroid deflection solutions. The article also provides a detailed calendar of the San Jose Astronomical Association's activities for November and December, including star parties, astronomy and ATM classes, and general meetings. Key events include a talk by comet discoverer Don Machholz and the SJAA 50th Anniversary celebration.",
+      "categories": [
+        "News",
+        "Events Calendar",
+        "Astronomy",
+        "Organizational Update",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Russell Schweikart",
+        "B612 Foundation",
+        "Near-Earth Asteroids",
+        "Asteroid Impact Threat",
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomy Lecture",
+        "Star Parties",
+        "Astronomy Classes",
+        "Amateur Telescope Making (ATM)",
+        "Don Machholz",
+        "Comet 2004Q2 (Machholz)",
+        "Silicon Valley Astronomy Lecture Series",
+        "Houge Park",
+        "November 2004",
+        "December 2004"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephnov04-slide-and-equipment-night",
+      "documentId": "ephnov04",
+      "title": "Slide and Equipment Night",
+      "summary": "The 'Slide and Equipment Night' event on September 25, 2004, featured a presentation by Schweikart on strategies for asteroid deflection, emphasizing the use of ion engine technology from the Prometheus project and arguing against nuclear weapon solutions. The event also showcased amateur-built equipment, specifically innovative 'string Dobsonian' telescopes crafted by Craig Colvin and Rob Hawley.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Space Exploration",
+        "Technical",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Slide and Equipment Night",
+        "September 25, 2004",
+        "asteroid deflection",
+        "ion engine",
+        "Prometheus project",
+        "B612 Foundation",
+        "nuclear weapons",
+        "Dobsonian telescope",
+        "string Dobsonian",
+        "amateur telescope making",
+        "space defense",
+        "asteroid impact"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov04-getting-it-right-the-second-time",
+      "documentId": "ephnov04",
+      "title": "Getting It Right The Second Time?",
+      "summary": "Dave North begins his column by correcting two past mistakes: a missed eclipse announcement and an incorrect explanation of neap tides. He then delves into a detailed discussion of tidal forces, clarifying that tides result from force gradients rather than direct gravitational pull, and addresses the role of centripetal force. Finally, North explains the counter-intuitive phenomenon of the Moon receding from Earth, attributing it to the Earth's rotation pulling tidal bulges ahead of the Moon, thereby accelerating its orbit.",
+      "categories": [
+        "Astronomy",
+        "Science Education",
+        "Tidal Mechanics",
+        "Lunar Dynamics",
+        "Column"
+      ],
+      "keywords": [
+        "Tides",
+        "Neap Tides",
+        "Centripetal Force",
+        "Differential Gravity",
+        "Force Gradients",
+        "Moon Recession",
+        "Orbital Dynamics",
+        "Tidal Locking",
+        "Earth-Moon System",
+        "Science Corrections"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephnov04-the-shallow-sky",
+      "documentId": "ephnov04",
+      "title": "The Shallow Sky",
+      "summary": "The article details planetary visibility for November, highlighting that most planetary activity occurs in the morning sky. A significant event is the close conjunction of Jupiter and Venus on November 4th, visible before sunrise, offering a great viewing opportunity. While Mars is also a morning object, Saturn appears in the evening, with Uranus, Neptune, and later Mercury visible in the western twilight.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "November",
+        "Planets",
+        "Jupiter",
+        "Venus",
+        "Conjunction",
+        "Morning Sky",
+        "Mars",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Mercury",
+        "Observing",
+        "Dawn",
+        "Twilight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov04-club-news-and-announcements",
+      "documentId": "ephnov04",
+      "title": "Club News and Announcements",
+      "summary": "The November 2004 \"Club News and Announcements\" details several upcoming astronomy-related events. These include a panel discussion on \"Mingling Planetary Microbes\" addressing planetary protection, an astronomical swap meet for equipment, and two lectures: one by comet discoverer Don Machholz, and another by Eliot Quataert on black holes. The bulletin also announces the availability of RASC Observer Handbooks and provides monthly solar system statistics for observers.",
+      "categories": [
+        "events",
+        "announcements",
+        "lectures",
+        "club news",
+        "observing aids",
+        "astronomy education",
+        "community"
+      ],
+      "keywords": [
+        "Planetary protection",
+        "Black Holes",
+        "Comet Machholz",
+        "Don Machholz",
+        "Astronomical swap meet",
+        "RASC Observer Handbooks",
+        "Solar System statistics",
+        "NASA",
+        "SETI Institute",
+        "The Planetary Society",
+        "November 2004",
+        "Astronomy events",
+        "Public lectures"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov04-sjaa-loaner-scope-status",
+      "documentId": "ephnov04",
+      "title": "SJAA loaner scope status",
+      "summary": "The article details the status of the San Jose Astronomical Association's (SJAA) loaner scope program, providing a comprehensive list of telescopes available for members to borrow. It categorizes scopes by immediate availability, those currently on loan with due dates, and those with extended loan periods, along with contact information for requesting equipment. The document also lists the members storing available scopes and those on a waiting list for specific items.",
+      "categories": [
+        "Club Services",
+        "Equipment Management",
+        "Astronomy Resources",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope loan",
+        "astronomy equipment",
+        "Dobson",
+        "Newtonian",
+        "refractor",
+        "Schmidt-Cassegrain",
+        "spectroscope",
+        "membership",
+        "availability"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0411/EphNov04.pdf",
+      "txtPath": "0411/EphNov04.md"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-24-09-corrections",
+      "documentId": "ephemeris-24-09",
+      "title": "Corrections",
+      "summary": "This document outlines corrections to the June 2024 Ephemeris, specifically addressing a misspelled name ('Thomson' instead of 'Thompson') on page 13. It also provides accreditation for two previously uncredited images: the North American Nebula / Cygnus Wall by Rick McIlmoil, and M65 and M66 by Bruce Braunstein, including details about their capture.",
+      "categories": [
+        "Corrections",
+        "Publication Update",
+        "Astronomy",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Corrections",
+        "June 2024 Ephemeris",
+        "Bob and Natti Thomson",
+        "North American Nebula",
+        "Cygnus Wall",
+        "Rick McIlmoil",
+        "M65",
+        "M66",
+        "Bruce Braunstein",
+        "Image Accreditation",
+        "Errata"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-24-09-sjaa-member-programs",
+      "documentId": "ephemeris-24-09",
+      "title": "SJAA Member Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a variety of programs designed to support amateur astronomers of all skill levels, from beginners to experienced observers. These programs include educational initiatives like Quick STARt and Astronomy 101, practical services such as Telescope Fix-It sessions and an equipment loaner program, and observing opportunities including regular solar and night sky star parties. Additionally, SJAA provides a library resource and conducts school star parties for community engagement.",
+      "categories": [
+        "member programs",
+        "educational programs",
+        "observing events",
+        "equipment services",
+        "community outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy",
+        "telescopes",
+        "solar observing",
+        "star parties",
+        "amateur astronomy",
+        "library",
+        "education",
+        "equipment loaner"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-24-09-astro-imaging-special-interest-group",
+      "documentId": "ephemeris-24-09",
+      "title": "ASTRO IMAGING SPECIAL INTEREST GROUP",
+      "summary": "The article describes the Astro Imaging Special Interest Group (SIG) which brings together individuals interested in astrophotography, meeting monthly at Hogue Park and welcoming all experience levels. Additionally, it introduces a separate, hands-on Astro Imaging Workshops and Field Clinics program, led by Glenn Newell, offering monthly workshops at Hogue Park and quarterly field clinics at dark sky sites for club members.",
+      "categories": [
+        "Clubs & Groups",
+        "Astrophotography",
+        "Education & Training",
+        "Events",
+        "Community"
+      ],
+      "keywords": [
+        "Astro Imaging",
+        "Astrophotography",
+        "Special Interest Group",
+        "Workshops",
+        "Field Clinics",
+        "Hogue Park",
+        "Dark Sky Sites",
+        "Night Sky Photography",
+        "Hy Murveit",
+        "Glenn Newell"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-24-09-announcements",
+      "documentId": "ephemeris-24-09",
+      "title": "Announcements",
+      "summary": "The San Jose Astronomical Association (SJAA) has announced several upcoming events and opportunities for its members. These include a 70th anniversary potluck celebration scheduled for November 16, 2024, and the return of their popular swap meet on September 15, 2024, at Hogue Park. Additionally, the SJAA is seeking to fill several key volunteer positions, including President, Vice-President, Speaker Coordinator, and Mendoza Ranch Chair.",
+      "categories": [
+        "Announcements",
+        "Events",
+        "Club News",
+        "Volunteer Opportunities",
+        "Organizational Updates",
+        "Social Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Anniversary",
+        "Potluck",
+        "Swap Meet",
+        "Club Positions",
+        "President",
+        "Vice-President",
+        "Speaker Coordinator",
+        "Mendoza Ranch Chair",
+        "Astronomy Club",
+        "Events 2024",
+        "Volunteer",
+        "Community"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-24-09-happy-70th-anniversary-sjaa",
+      "documentId": "ephemeris-24-09",
+      "title": "Happy 70th Anniversary, SJAA!",
+      "summary": "The article celebrates the San Jose Astronomical Association's (SJAA) 70th anniversary in 2024, inviting members to a commemorative potluck. It chronicles the club's history from its 1954 founding by William Weller, detailing its name change, various meeting locations, and the evolution of its newsletter, 'Ephemeris'. The piece also includes a first-hand account from long-time member Bob Fingerhut, highlighting significant events and key figures, including founding member Eugene Cisneros.",
+      "categories": [
+        "Club History",
+        "Anniversary",
+        "Events",
+        "Local Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "70th Anniversary",
+        "Amateur Astronomy",
+        "Club History",
+        "Ephemeris",
+        "William Weller",
+        "Bob Fingerhut",
+        "Eugene Cisneros",
+        "Hubble Space Telescope",
+        "Observing Clubs"
+      ],
+      "pageStart": 6,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-24-09-kids-corner",
+      "documentId": "ephemeris-24-09",
+      "title": "KIDS CORNER",
+      "summary": "This 'KIDS CORNER' article provides an educational segment for children, featuring a word search puzzle with terms related to meteors, meteorites, and astronomical events. It also includes fun facts explaining what bolides, meteors, and meteorites are, highlighting characteristics like fusion crusts and their appearance. The content is designed to introduce young readers to basic concepts of space rocks.",
+      "categories": [
+        "educational",
+        "children's content",
+        "astronomy basics",
+        "science outreach"
+      ],
+      "keywords": [
+        "meteorite",
+        "bolide",
+        "space rock",
+        "crater",
+        "geminids",
+        "orionids",
+        "leonids",
+        "iron",
+        "impact",
+        "meteor",
+        "fireball",
+        "fusion crust"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-24-09-splashdown-55",
+      "documentId": "ephemeris-24-09",
+      "title": "splashdown 55",
+      "summary": "SJAA volunteers hosted a successful \"Splashdown 55\" event on July 20th, 2024, aboard the USS Hornet Flight Deck, commemorating the 55th anniversary of the Apollo 11 splashdown. Guests enjoyed diverse solar views through various telescopes (white light, hydrogen-alpha, EAA) and binoculars, participated in crafts and trivia, and engaged with science-minded attendees. The event provided clear skies and excellent views of sunspots and prominences, drawing enthusiastic participation from all ages.",
+      "categories": [
+        "observing reports",
+        "events",
+        "outreach",
+        "historical commemoration"
+      ],
+      "keywords": [
+        "Splashdown 55",
+        "SJAA",
+        "USS Hornet",
+        "Apollo 11",
+        "solar viewing",
+        "telescopes",
+        "hydrogen-alpha",
+        "white light",
+        "sunspots",
+        "prominences",
+        "public astronomy",
+        "volunteering",
+        "EAA scopes"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-24-09-meet-cosmo-an-interview-with-creator-claire-zhao",
+      "documentId": "ephemeris-24-09",
+      "title": "Meet Cosmo: An Interview with Creator Claire Zhao",
+      "summary": "The article introduces \"Cosmo,\" an AI-powered chatbot created by high school junior Claire Zhao and the University of Washington Astronomy Department, designed to simplify complex astronomy concepts for various age groups. Cosmo offers tailored explanations, maintaining a friendly tone, and serves as an accessible tool for science communication. The piece also includes an interview with Zhao, discussing her inspiration, the age-group rationale, and future plans for the chatbot, while acknowledging common AI limitations like \"hallucinations.\"",
+      "categories": [
+        "New Product/Tool",
+        "Artificial Intelligence",
+        "Astronomy Education",
+        "Interview",
+        "Science Communication",
+        "Youth in STEM"
+      ],
+      "keywords": [
+        "Cosmo",
+        "AI chatbot",
+        "Claire Zhao",
+        "Astronomy education",
+        "Artificial Intelligence",
+        "Science communication",
+        "Large Language Model (LLM)",
+        "University of Washington",
+        "Age-tailored learning",
+        "UniverseStudio.org"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-24-09-what-is-a-star",
+      "documentId": "ephemeris-24-09",
+      "title": "What is a star?",
+      "summary": "This article defines what a star is, presenting explanations tailored for different age groups. It describes stars as large balls of hot, glowing gas, primarily hydrogen and helium, that generate light and heat through nuclear fusion. The text also touches upon the lifecycle of stars, from nebulae to their eventual end as red giants, supernovas, neutron stars, or black holes.",
+      "categories": [
+        "Astronomy",
+        "Education",
+        "Science Explanation",
+        "Space"
+      ],
+      "keywords": [
+        "Stars",
+        "Nuclear fusion",
+        "Hydrogen",
+        "Helium",
+        "Sun",
+        "Celestial bodies",
+        "Lifecycle of stars",
+        "Nebula",
+        "Light-years"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-24-09-stellar-aberration",
+      "documentId": "ephemeris-24-09",
+      "title": "Stellar Aberration",
+      "summary": "Stellar Aberration is the apparent displacement of stars from their charted positions, caused by the Earth's orbital motion around the Sun. Discovered by James Bradley in the 1720s while attempting to measure stellar parallax, this phenomenon results in a periodic shift that can be up to 20 arcseconds. Modern astronomers, particularly those using precision electronic telescopes, need to account for stellar aberration in their observations and calculations.",
+      "categories": [
+        "Technical",
+        "Observational Astronomy",
+        "History of Astronomy",
+        "Educational"
+      ],
+      "keywords": [
+        "Stellar Aberration",
+        "James Bradley",
+        "Earth's orbit",
+        "Apparent displacement",
+        "Astronomy",
+        "Telescopes",
+        "Stellar parallax",
+        "Declination",
+        "Gamma Draconis",
+        "35 Camelopardalis"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-24-09-board-minutes",
+      "documentId": "ephemeris-24-09",
+      "title": "Board Minutes",
+      "summary": "The SJAA Board Minutes highlight discussions and decisions from monthly meetings in June, July, and August 2024. Key topics included developing formal processes for recruiting and onboarding, planning for the organization's 70th-anniversary celebration, and approving budgets for events like 'Splashdown 55'. Additionally, the board addressed technical improvements such as a website overhaul, converting the membership form to Gravity Forms, and updating the organizational logo and apparel options.",
+      "categories": [
+        "Board Meetings",
+        "Organizational Development",
+        "Event Planning",
+        "Technical Updates",
+        "Community Engagement",
+        "Budget"
+      ],
+      "keywords": [
+        "SJAA Board",
+        "Recruitment",
+        "Onboarding",
+        "70th Anniversary",
+        "Website Overhaul",
+        "Splashdown 55",
+        "Apollo 11",
+        "Solar Observing",
+        "Certificate of Appreciation",
+        "Swap Meet",
+        "Membership Form",
+        "Gravity Forms",
+        "Astro Revolution",
+        "Collaboration",
+        "Logo",
+        "Apparel"
+      ],
+      "pageStart": 5,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-24-09-nasa-techrise",
+      "documentId": "ephemeris-24-09",
+      "title": "NASA TECHRISE",
+      "summary": "The NASA TechRise Student Challenge empowers teams of 6th to 12th-grade students to design, build, and launch experiments on NASA-supported high-altitude balloon test flights. Sixty winning teams will receive $1,500, technical support, and a flight slot for their experiment. The contest opens on August 1, 2024, with entries due by November 1, 2024.",
+      "categories": [
+        "Student Challenge",
+        "Education",
+        "STEM Program",
+        "Aerospace",
+        "Competition",
+        "Events"
+      ],
+      "keywords": [
+        "NASA TechRise Student Challenge",
+        "student experiments",
+        "high-altitude balloon",
+        "STEM education",
+        "Future Engineers",
+        "K-12 education",
+        "science competition",
+        "NASA"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-24-09",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 16",
+      "issueDate": null,
+      "pdfPath": "2409/Ephemeris_24-09.pdf",
+      "txtPath": "2409/Ephemeris_24-09.md"
+    }
+  ]
+}

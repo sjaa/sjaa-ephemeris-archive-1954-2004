@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1311-from-the-president-rob-jaworski",
+      "documentId": "ephemeris-1311",
+      "title": "From the President, Rob Jaworski",
+      "summary": "The November 2013 San Jose Astronomical Association (SJAA) newsletter, \"The Ephemeris,\" details upcoming events such as star parties and a general meeting featuring a talk on solar seismology. President Rob Jaworski reports on facility updates, including a new observing site permit, but primarily issues an urgent call for volunteers. Key positions, including the newsletter editor and a Board of Directors seat, are vacant due to staff relocations, prompting an appeal for member involvement.",
+      "categories": [
+        "Organizational News",
+        "Events Calendar",
+        "Volunteer Opportunities",
+        "Astronomy Club",
+        "Newsletter Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "The Ephemeris",
+        "November 2013",
+        "Rob Jaworski",
+        "Houge Park",
+        "Star Parties",
+        "Solar Observing",
+        "Volunteer Call",
+        "Newsletter Editor",
+        "Board of Directors",
+        "Mendoza Ranch",
+        "Solar Cycle",
+        "Helio-seismology"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1311",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1311/Ephemeris.1311.pdf",
+      "txtPath": "1311/Ephemeris.1311.md"
+    }
+  ]
+}

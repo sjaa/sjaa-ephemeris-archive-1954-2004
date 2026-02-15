@@ -1,0 +1,196 @@
+{
+  "articles": [
+    {
+      "id": "ephaug10-ephemeris",
+      "documentId": "ephaug10",
+      "title": "EPHEMERIS",
+      "summary": "This August 2010 publication from the San Jose Astronomical Association (SJAA) outlines their activities calendar for July, August, and September, including general meetings with guest speakers, astronomy classes, and star parties at Houge Park and Henry Coe Park. Additionally, it features an article discussing the critical impact of solar flares on modern technology and NOAA's development of new GOES-R satellites for enhanced space weather monitoring.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy",
+        "Space Weather",
+        "Science News",
+        "Association Activities"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomy events",
+        "Star parties",
+        "General meetings",
+        "Solar flares",
+        "Space weather",
+        "Technology disruption",
+        "NOAA",
+        "GOES-R satellites",
+        "SETI",
+        "Eclipsing binary stars",
+        "August 2010"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephaug10-nasa-space-place",
+      "documentId": "ephaug10",
+      "title": "NASA Space Place",
+      "summary": "The article details the advanced capabilities of the GOES-R satellite, highlighting its new sensors designed to improve space weather monitoring. Key instruments include the 'MPS-Low' particle detector for low-energy particles that can damage spacecraft exteriors, a faster magnetometer for anticipating geomagnetic storms, and X-ray/UV imagers to pinpoint solar flares and assess their threat to Earth. These improvements aim to protect satellites and better forecast space weather impacts on technology.",
+      "categories": [
+        "Space Weather",
+        "Satellite Technology",
+        "Technical",
+        "Astronomy",
+        "News",
+        "Science Communication"
+      ],
+      "keywords": [
+        "GOES-R",
+        "Space weather",
+        "Solar flares",
+        "Geomagnetic storms",
+        "Satellites",
+        "Low-energy particles",
+        "MPS-Low",
+        "Magnetometer",
+        "X-ray",
+        "Extreme UV",
+        "NASA",
+        "Spacecraft electronics",
+        "Earth's magnetic field"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephaug10-the-shallow-sky",
+      "documentId": "ephaug10",
+      "title": "The Shallow Sky",
+      "summary": "This article provides a skywatching guide for early August, highlighting a close conjunction of Venus, Mars, and Saturn visible in binoculars, alongside Mercury's appearance in the twilight. It also details viewing opportunities for Jupiter, including its moon transits and features like the South Equatorial Band, as well as Neptune's opposition and Uranus's morning visibility. The author additionally discusses the complexities of tide prediction, noting discrepancies between the RASC Observer's Handbook and local observations.",
+      "categories": [
+        "observing guide",
+        "planetary astronomy",
+        "celestial events",
+        "skywatching"
+      ],
+      "keywords": [
+        "Planetary conjunctions",
+        "Venus",
+        "Mars",
+        "Saturn",
+        "Mercury",
+        "Jupiter",
+        "Neptune opposition",
+        "Uranus",
+        "Tide prediction",
+        "RASC Observer's Handbook"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug10-solar-eclipse-2010-report",
+      "documentId": "ephaug10",
+      "title": "Solar Eclipse 2010 Report",
+      "summary": "Paul and Mary Kohlmiller report on their experience observing the spectacular July 11, 2010 total solar eclipse from aboard the cruise/cargo ship Aranui 3 in the Pacific Ocean, sailing through French Polynesia. The report details their journey, life on the unique vessel, the captain's skillful navigation to find clear skies near Hikueru atoll, and their awe-inspiring first-time view of totality, including phenomena like the diamond ring and visible corona. They also mention other notable eclipse chasers and their observations.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Event",
+        "Travelogue",
+        "Historical Event"
+      ],
+      "keywords": [
+        "Solar Eclipse 2010",
+        "Total Solar Eclipse",
+        "Aranui 3",
+        "French Polynesia",
+        "Pacific Ocean",
+        "Eclipse Chasers",
+        "Totality",
+        "Diamond Ring",
+        "Corona",
+        "Baily's Beads",
+        "Paul and Mary Kohlmiller",
+        "July 11, 2010",
+        "Hikueru"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephaug10-the-last-month-in-astronomy",
+      "documentId": "ephaug10",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article provides a round-up of recent astronomical news, highlighting significant milestones and discoveries from various space missions. Updates include Voyager 2 reaching a 12,000-day milestone, Rosetta's close-up images of asteroid Lutetia, Cassini's dive into Titan's atmosphere, and the Planck spacecraft's first all-sky microwave survey. Other notable findings include the study of IC 3418's turbulent gas tails and the discovery of a potential Martian cave by 7th-grade students.",
+      "categories": [
+        "news",
+        "space missions",
+        "planetary science",
+        "extragalactic astronomy",
+        "observational astronomy",
+        "education and outreach"
+      ],
+      "keywords": [
+        "Voyager 2",
+        "Rosetta",
+        "Lutetia",
+        "Cassini",
+        "Titan",
+        "IC 3418",
+        "Galaxy Evolution Explorer",
+        "Virgo cluster",
+        "Mars",
+        "Planck",
+        "Big Bang",
+        "Milky Way",
+        "spacecraft",
+        "asteroid",
+        "galaxy",
+        "microwave radiation",
+        "all-sky survey",
+        "lava tubes",
+        "solar system"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug10-it-must-be-astronomical",
+      "documentId": "ephaug10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This San Jose Astronomical Association (SJAA) newsletter announces upcoming membership dues changes, effective January 1, 2011, with varying rates for electronic versus print newsletters. It highlights several significant 'Hot Dates' for astronomical events, including SETIcon, the SJAA Yosemite Public Star Party, CalStar, and an Advanced Imaging Conference. The article also provides details on the SJAA telescope loaner program, educational resources for various age groups, and contact information for the organization's officers and staff.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Membership Information",
+        "Educational Resources",
+        "Publication Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Dues",
+        "Telescope Loaner Program",
+        "SETIcon",
+        "Yosemite Public Star Party",
+        "CalStar",
+        "Advanced Imaging Conference",
+        "Astronomy Events",
+        "Astrobiology",
+        "SETI",
+        "Climate Education",
+        "Newsletter",
+        "Carl Sagan"
+      ],
+      "pageStart": 7,
+      "pageEnd": 184
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1008/EphAug10.pdf",
+      "txtPath": "1008/EphAug10.md"
+    }
+  ]
+}

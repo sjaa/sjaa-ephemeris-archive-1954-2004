@@ -1,0 +1,480 @@
+{
+  "articles": [
+    {
+      "id": "2024-12-v6-digital-the-ephemeris",
+      "documentId": "2024-12-v6-digital",
+      "title": "The Ephemeris",
+      "summary": "This December 2024 issue of \"The Ephemeris\" highlights several astrophotography achievements by amateur astronomers. It features Bryan Marahashi's capture of a lunar occultation of Saturn, Alex Kanaes' extensive mosaic of the Sadr Region in Cygnus, and Francesco Meschia's image of Comet C/2023 A3 Tsuchinshan-ATLAS. Additionally, the back cover showcases Carl Svensson's detailed photograph of the Andromeda Galaxy, with each entry providing equipment and capture specifics.",
+      "categories": [
+        "Astrophotography",
+        "Observing Reports",
+        "Astronomical Images",
+        "Amateur Astronomy News"
+      ],
+      "keywords": [
+        "Lunar occultation",
+        "Saturn",
+        "Sadr Region",
+        "Cygnus",
+        "Comet C/2023 A3 Tsuchinshan-ATLAS",
+        "Andromeda Galaxy",
+        "Deep-sky astrophotography",
+        "Planetary imaging",
+        "Telescope",
+        "Camera",
+        "Image processing",
+        "Bortle scale"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "2024-12-v6-digital-member-programs",
+      "documentId": "2024-12-v6-digital",
+      "title": "Member Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers various member programs designed to support and educate amateur astronomers. These include a library, a free telescope fix-it service, and a 'Quick STARt' program for beginners. Members can also utilize an equipment loaner program and participate in both an Astro Imaging Special Interest Group (SIG) and hands-on astrophotography workshops and field clinics.",
+      "categories": [
+        "Member Services",
+        "Education & Training",
+        "Equipment Support",
+        "Special Interest Groups",
+        "Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy programs",
+        "Amateur astronomy",
+        "Telescope repair",
+        "Equipment loaner",
+        "Astro-imaging",
+        "Astrophotography",
+        "Beginner support",
+        "Astronomy library",
+        "Workshops"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2024-12-v6-digital-public-programs",
+      "documentId": "2024-12-v6-digital",
+      "title": "Public Programs",
+      "summary": "The 'Astronomy 101' program offers monthly sessions for beginner astronomers, led by Carl Svensson. These sessions cover topics from 'what's up in the night sky' to telescope basics and are held in conjunction with first quarter moon In Town Star Parties at Hogue Park. Attendees also receive a guided sky tour and opportunities to view celestial objects through SJAA telescopes.",
+      "categories": [
+        "Public Programs",
+        "Education",
+        "Events",
+        "Beginner Astronomy"
+      ],
+      "keywords": [
+        "Astronomy 101",
+        "beginner astronomy",
+        "star gazing",
+        "Intro to the Night Sky",
+        "monthly program",
+        "In Town Star Parties",
+        "Hogue Park",
+        "Carl Svensson",
+        "telescopes",
+        "celestial objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2024-12-v6-digital-school-star-party",
+      "documentId": "2024-12-v6-digital",
+      "title": "SCHOOL STAR PARTY",
+      "summary": "The San Jose Astronomical Association (SJAA) offers various observing sessions, including \"star parties\" for schools across mid-Santa Clara County and monthly public \"In-Town Star Parties\" at Houge Park in San Jose. Additionally, SJAA hosts solar observing sessions, led by Wolf Witt, typically on the first Sunday of each month at Houge Park, weather permitting. Details for all events are available on their respective websites or Meetup page.",
+      "categories": [
+        "events",
+        "observing reports",
+        "public outreach",
+        "astronomy club activities",
+        "community programs"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "star party",
+        "school program",
+        "solar observing",
+        "In-Town Star Party",
+        "ITSP",
+        "Houge Park",
+        "San Jose",
+        "Santa Clara County",
+        "Sunnyvale",
+        "Fremont",
+        "Morgan Hill",
+        "telescopes",
+        "Wolf Witt",
+        "Meetup"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2024-12-v6-digital-announcements",
+      "documentId": "2024-12-v6-digital",
+      "title": "Announcements",
+      "summary": "The San Jose Astronomical Association (SJAA) has launched an online apparel store offering branded merchandise, perfect for holiday gifts. Larry Zurbrick has assumed the role of president, succeeding Aroon Nair. Additionally, Marianne Damon recently represented SJAA in an interview on KKUP radio.",
+      "categories": [
+        "Organization News",
+        "Announcements",
+        "Merchandise",
+        "Leadership Change",
+        "Media"
+      ],
+      "keywords": [
+        "SJAA",
+        "apparel store",
+        "merchandise",
+        "Larry Zurbrick",
+        "president",
+        "Aroon Nair",
+        "KKUP",
+        "Marianne Damon",
+        "radio interview"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2024-12-v6-digital-from-the-sjaa-president",
+      "documentId": "2024-12-v6-digital",
+      "title": "From The SJAA President",
+      "summary": "The SJAA President welcomes readers to a new column, commending members for their dedication in sharing astronomical knowledge at public outreach events and star parties. The President also raises a critical concern regarding the lack of succession planning for Program Coordinators and encourages members to consider stepping up into assistant leadership roles, emphasizing the need for long-term commitment.",
+      "categories": [
+        "Message from President",
+        "Club Operations",
+        "Volunteerism",
+        "Amateur Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SJAA President",
+        "Amateur Astronomy",
+        "Public Outreach",
+        "Star Parties",
+        "Volunteers",
+        "Program Coordinators",
+        "Leadership",
+        "Succession Planning",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2024-12-v6-digital-board-minutes",
+      "documentId": "2024-12-v6-digital",
+      "title": "Board Minutes",
+      "summary": "These board minutes cover updates from September through November 2024, detailing progress on new membership forms and successful community outreach events, including the Santa Cruz Museum's First Friday and a STEM program at Morgan Hill Library. The board also discussed potential collaborations with Astro Revolution and the ongoing process of finalizing a Mendoza Ranch permit contact person.",
+      "categories": [
+        "Board Meeting Minutes",
+        "Membership Updates",
+        "Community Outreach",
+        "Event Reports",
+        "Collaborations",
+        "Operational Planning"
+      ],
+      "keywords": [
+        "Membership Forms",
+        "Gravity forms",
+        "PayPal",
+        "Santa Cruz Museum of Natural History",
+        "First Friday",
+        "STEAM Expo",
+        "Astro Revolution",
+        "Morgan Hill Library",
+        "ISS contact",
+        "Mendoza Ranch",
+        "Permit Contact"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "2024-12-v6-digital-join-hubble-s-night-sky-challenge",
+      "documentId": "2024-12-v6-digital",
+      "title": "Join Hubble's Night Sky Challenge",
+      "summary": "NASA is launching \"Hubble's Night Sky Challenge\" in 2025 to commemorate the Hubble Space Telescope's 35th anniversary, inviting amateur astronomers to observe various celestial objects. Participants can compare their ground-based observations with Hubble's images and earn monthly \"silver\" or annual \"gold\" certificates and pins for meeting specific observation and outreach requirements. This year-long program aims to connect amateur and professional astronomy while encouraging skygazing and public engagement.",
+      "categories": [
+        "events",
+        "news",
+        "observing challenge",
+        "astronomy",
+        "public engagement",
+        "education"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Night Sky Challenge",
+        "NASA",
+        "amateur astronomy",
+        "celestial observation",
+        "35th anniversary",
+        "astronomy challenge",
+        "certificates",
+        "outreach",
+        "2025",
+        "space exploration",
+        "Astronomical League"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "2024-12-v6-digital-sjaa-70th-anniversary-potluck",
+      "documentId": "2024-12-v6-digital",
+      "title": "SJAA 70th Anniversary Potluck",
+      "summary": "The San Jose Astronomical Association (SJAA) celebrated its 70th anniversary with a potluck dinner at Houge Park, featuring a variety of delicious food and a communal atmosphere. The event honored current and former members, including guests of honor Robert Garfinkle and Robert Fingerhut, who shared historical anecdotes and stories from the club's past. Attendees also enjoyed a trivia game highlighting SJAA's distinguished membership and accomplishments, such as members having astronomical objects named after them and the club sponsoring the first Cal Star Party.",
+      "categories": [
+        "Events",
+        "Anniversary Celebration",
+        "Club History",
+        "Social Gathering"
+      ],
+      "keywords": [
+        "SJAA",
+        "70th Anniversary",
+        "Potluck",
+        "Houge Park",
+        "Robert Garfinkle",
+        "Robert Fingerhut",
+        "Club History",
+        "Astronomy Club",
+        "Luna Cognita",
+        "Dr. Gregory",
+        "Celestron 8",
+        "Messier Marathon",
+        "Don Machholz",
+        "Cal Star Party"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "2024-12-v6-digital-observing-highlights",
+      "documentId": "2024-12-v6-digital",
+      "title": "Observing Highlights",
+      "summary": "This article highlights key astronomical observing events from December through February, including planetary oppositions for Jupiter, Mars, Venus, and Mercury's greatest elongation, providing optimal viewing times. It details major meteor showers such as the Geminids, Ursids, and Quadrantids, noting viewing conditions and dates for the December Solstice, as well as New Moon and Full Moon phases.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Celestial Phenomena",
+        "Astronomy Calendar"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Opposition",
+        "Geminids Meteor Shower",
+        "December Solstice",
+        "Ursids Meteor Shower",
+        "Mercury",
+        "Greatest Elongation",
+        "Quadrantids Meteor Shower",
+        "Venus",
+        "Mars",
+        "New Moon",
+        "Full Moon",
+        "Meteor Shower",
+        "Planetary Viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2024-12-v6-digital-kids-corner",
+      "documentId": "2024-12-v6-digital",
+      "title": "Kids Corner",
+      "summary": "This 'Kids Corner' article features a word search puzzle with terms related to comets and space, including Kuiper Belt, Oort Cloud, and various comet parts. It also provides 'Fun Facts' about comets, describing them as cosmic snowballs of frozen gases, rock, and dust that grow a giant glowing head and tail when they approach the Sun.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Children's Activities",
+        "科普"
+      ],
+      "keywords": [
+        "Comets",
+        "Kuiper Belt",
+        "Oort Cloud",
+        "Comet Tail",
+        "Comet Coma",
+        "Astronomy for Kids",
+        "Space Facts",
+        "Word Search",
+        "Snowball"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "2024-12-v6-digital-sjaa-recent-events",
+      "documentId": "2024-12-v6-digital",
+      "title": "SJAA Recent Events",
+      "summary": "The article details various recent events hosted by the San Jose Astronomical Association (SJAA), focusing on public outreach and education. These included solar observing sessions, a comprehensive telescope workshop, monthly public star parties at different locations, and \"Astronomy 101\" talks. Additionally, SJAA conducted an online Beginner's Astronomy Forum to answer questions for new enthusiasts, with a timeline highlighting events from September to November.",
+      "categories": [
+        "Public Outreach",
+        "Educational Programs",
+        "Observing Events",
+        "Workshops",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Solar Observing",
+        "Telescope Workshop",
+        "Star Parties",
+        "Astronomy Education",
+        "Beginner Astronomy",
+        "SJAA",
+        "Celestial Objects",
+        "Telescopes",
+        "Public Events",
+        "Astronomy Forum"
+      ],
+      "pageStart": 11,
+      "pageEnd": 70
+    },
+    {
+      "id": "2024-12-v6-digital-results-from-our-satisfaction-surveys",
+      "documentId": "2024-12-v6-digital",
+      "title": "Results from Our Satisfaction Surveys!",
+      "summary": "This article reports on the satisfaction survey results for public activities held at Houge Park from April 1 to September 30, 2024, fulfilling contractual obligations with the City of San Jose's PRNS. Across 21 public events like Astronomy 101 and Solar Observing, participants gave 100% good or excellent ratings for services and facilities, though the San Jose zip code goal was not met. The report also acknowledges staff and volunteers for data collection and announces a future initiative to automate sign-in sheets and surveys using QR codes.",
+      "categories": [
+        "Program Report",
+        "Survey Results",
+        "Community Engagement",
+        "Organizational Operations",
+        "Future Plans"
+      ],
+      "keywords": [
+        "Satisfaction Surveys",
+        "Houge Park",
+        "PRNS",
+        "Public Events",
+        "Program Performance",
+        "Attendance Reporting",
+        "Volunteer Recognition",
+        "Data Automation",
+        "QR Codes",
+        "Community Outreach"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "2024-12-v6-digital-school-star-party-award",
+      "documentId": "2024-12-v6-digital",
+      "title": "School Star Party Award",
+      "summary": "Jon Anderson and SJAA were recognized by the Fremont PTA with an award for their contributions through the School Star Party Program (SSP). This award signifies the strong interest in the program and the gratitude from Fremont schools, students, and teachers. The article congratulates Jon and all volunteers for their efforts in making the SSP a success.",
+      "categories": [
+        "News",
+        "Recognition",
+        "Community Outreach",
+        "Education"
+      ],
+      "keywords": [
+        "Jon Anderson",
+        "SJAA",
+        "Fremont PTA",
+        "School Star Party Program",
+        "SSP",
+        "Award",
+        "Volunteers",
+        "Community",
+        "Astronomy Education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2024-12-v6-digital-swap-meet-recap",
+      "documentId": "2024-12-v6-digital",
+      "title": "Swap Meet Recap",
+      "summary": "The San Jose Astronomical Association (SJAA) successfully revived its popular swap meet on September 15, 2024, at Houge Park, marking its first such event since before the pandemic. Author Rob Jaworski notes the event satisfied a significant demand for exchanging astronomy gear and fostering social connections among members and the local community. The club plans to reinstate the swap meet as a biannual event, held once in the spring and again in the fall each year, celebrating the SJAA's 70th anniversary.",
+      "categories": [
+        "Event Recap",
+        "Club Activities",
+        "Community Engagement",
+        "News"
+      ],
+      "keywords": [
+        "Swap Meet",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Astronomy Gear",
+        "Community Event",
+        "Pandemic Recovery",
+        "Rob Jaworski",
+        "Houge Park",
+        "70th Anniversary",
+        "September 15, 2024"
+      ],
+      "pageStart": 2,
+      "pageEnd": 14
+    },
+    {
+      "id": "2024-12-v6-digital-spot-the-king-of-planets",
+      "documentId": "2024-12-v6-digital",
+      "title": "Spot the King of Planets!",
+      "summary": "The article celebrates Jupiter as the \"King of Planets,\" detailing its immense size, mass, and significant gravitational influence on the solar system. It highlights how easily Jupiter and its four Galilean moons can be observed from Earth with modest instruments, echoing Galileo's historical observations and even providing an observing tip for December 15, 2024. Furthermore, it discusses the ongoing success of NASA's Juno mission in studying Jupiter's interior and moons, alongside future missions like Europa Clipper.",
+      "categories": [
+        "Observing Report",
+        "Planetary Science",
+        "Space Missions",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Planetary Observation",
+        "Galilean Moons",
+        "Juno Mission",
+        "Europa Clipper",
+        "Solar System",
+        "Gas Giant",
+        "Telescopes",
+        "Binoculars",
+        "Citizen Science"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "2024-12-v6-digital-c-2023-a3-tsuchinshan-atlas",
+      "documentId": "2024-12-v6-digital",
+      "title": "C/2023 A3 Tsuchinshan-ATLAS",
+      "summary": "The article details observations and astrophotography of comet C/2023 A3 Tsuchinshan-ATLAS by club members, showcasing images captured from June to October. Visible to the naked eye after its September 27th perihelion, the comet was considered a 'great comet' comparable to NEOWISE and Hale-Bopp. Members like Francesco, Yu Li, Rajah, Ed Wong, and Carl Svensson contributed diverse images, capturing its tail and development through various stages.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astrophotography",
+        "News"
+      ],
+      "keywords": [
+        "C/2023 A3 Tsuchinshan-ATLAS",
+        "Comet",
+        "Perihelion",
+        "Naked eye visibility",
+        "Great comet",
+        "Astrophotography",
+        "Observing",
+        "Starlink",
+        "NEOWISE",
+        "Hale-Bopp"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    }
+  ],
+  "documents": [
+    {
+      "id": "2024-12-v6-digital",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2412/2024.12_v6_digital.pdf",
+      "txtPath": "2412/2024.12_v6_digital.md"
+    }
+  ]
+}

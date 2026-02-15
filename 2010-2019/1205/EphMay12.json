@@ -1,0 +1,190 @@
+{
+  "articles": [
+    {
+      "id": "ephmay12-the-shallow-sky",
+      "documentId": "ephmay12",
+      "title": "The Shallow Sky",
+      "summary": "This article provides a guide to the May night sky, detailing the visibility of various planets including Saturn, Mercury, Venus, and Mars, while also highlighting two major astronomical events. It emphasizes the upcoming Venus transit on June 5 and an annular solar eclipse on May 20, providing viewing details, safety precautions (like using solar filters), and optimal locations. The piece also includes a brief report on an amateur astronomer's observation of clouds on Mars and a mention of the Golden State Star Party.",
+      "categories": [
+        "Sky Guide",
+        "Observing Reports",
+        "Astronomical Events",
+        "News",
+        "Technical Tips"
+      ],
+      "keywords": [
+        "Saturn",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Annular Solar Eclipse",
+        "Venus Transit",
+        "Solar Filter",
+        "Amateur Astronomy",
+        "Mars Clouds",
+        "Golden State Star Party",
+        "May Sky",
+        "Skywatching",
+        "Eclipse Photography",
+        "San Jose"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephmay12-magnetars",
+      "documentId": "ephmay12",
+      "title": "Magnetars",
+      "summary": "The article discusses how seemingly distinct astronomical phenomena, such as magnetars and pulsars, or quasars and blazars, are often later understood as different manifestations of the same underlying object. It elaborates on magnetars as neutron stars with strong magnetic fields, and then details how quasars and blazars are different views of active galactic nuclei (AGN). The text also highlights recent NASA WISE discoveries of many blazars, which are helping to understand the evolution of supermassive black holes and gamma-ray sources.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics Research",
+        "Stellar Objects",
+        "Galactic Phenomena",
+        "Scientific Discovery"
+      ],
+      "keywords": [
+        "Magnetars",
+        "Neutron Stars",
+        "Pulsars",
+        "Active Galactic Nuclei (AGN)",
+        "Quasars",
+        "Blazars",
+        "NASA WISE",
+        "Supermassive Black Holes",
+        "Gamma-ray Sources",
+        "X-rays",
+        "Radio Waves",
+        "Infrared Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmay12-nasa-space-place",
+      "documentId": "ephmay12",
+      "title": "NASA Space Place",
+      "summary": "Europe's Rosetta mission, with significant NASA contributions, is set to make history by orbiting and landing a probe on comet 67P/Churyumov-Gerasimenko to conduct the most comprehensive study ever, aiming to understand the early solar system. Additionally, the San Jose Astronomical Association (SJAA) announced its annual Yosemite Public Star Party in August, offering free admission and camping for participants, alongside regular telescope tune-up sessions held at Houge Park.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Astronomy Clubs",
+        "Events",
+        "Technical"
+      ],
+      "keywords": [
+        "Rosetta mission",
+        "comet 67P/Churyumov-Gerasimenko",
+        "NASA",
+        "ESA",
+        "Philae lander",
+        "solar system formation",
+        "SJAA",
+        "star party",
+        "Yosemite National Park",
+        "telescope maintenance",
+        "amateur astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay12-the-last-month-in-astronomy",
+      "documentId": "ephmay12",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article, titled \"The Last Month In Astronomy,\" provides a roundup of astronomy news from March and April 2012. Key updates include new insights into Centaurus A from combined infrared and X-ray data, reports on several close asteroid passes, a mystery cloud observed on Mars, and the potential for comet C/2011 L4 (PANSTARRS) to become a naked-eye object in 2013. Additionally, it covers the controlled deorbiting of the damaged Russian satellite Expres-AM4 and the release of the full WISE infrared space observatory catalog, detailing 560 million celestial objects and aiding in asteroid detection.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Space Missions",
+        "Discoveries",
+        "Data Release",
+        "Solar System",
+        "Galactic Astronomy"
+      ],
+      "keywords": [
+        "Centaurus A",
+        "black hole",
+        "galaxy collision",
+        "asteroids",
+        "Mars cloud",
+        "comet PANSTARRS",
+        "satellite deorbit",
+        "Expres-AM4",
+        "WISE observatory",
+        "infrared astronomy",
+        "NASA",
+        "ESA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay12-seticon-ii",
+      "documentId": "ephmay12",
+      "title": "SETICON II",
+      "summary": "SETIcon II is a unique public event organized by the SETI Institute, scheduled for June 22-24, 2012, in Santa Clara, CA. It aims to bridge science and imagination by bringing together scientists, science fiction authors, and artists with the public to explore space, real science, and technology. The event features panels, discussions, interactive exhibits, and awards, emphasizing a new channel for dialogue where real science meets imagination, distinct from traditional technical conferences.",
+      "categories": [
+        "Events",
+        "News",
+        "Science Communication",
+        "Public Engagement",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "SETIcon II",
+        "SETI Institute",
+        "Science fiction",
+        "Public event",
+        "Imagination",
+        "Space",
+        "Technology",
+        "Science education",
+        "Santa Clara",
+        "June 2012",
+        "Panels",
+        "Exhibits",
+        "Awards"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmay12-it-must-be-astronomical",
+      "documentId": "ephmay12",
+      "title": "It Must Be Astronomical ...",
+      "summary": "This article from the San Jose Astronomical Association (SJAA) announces that all board officers have retained their positions following recent elections. It also informs members about the rescheduling of the annual auction to May 6, 2012, and the temporary suspension of the telescope loaner program for inventory and repair. Additionally, the document provides statistics on completed school star parties and lists future scheduled events, alongside contact and publication information.",
+      "categories": [
+        "News",
+        "Events",
+        "Program Updates",
+        "Organizational Information",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "Board Elections",
+        "Officers",
+        "Auction",
+        "Telescope Loaner Program",
+        "School Star Parties",
+        "Astronomy Outreach",
+        "Event Schedule",
+        "Ephemeris Newsletter",
+        "May 6, 2012"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1205/EphMay12.pdf",
+      "txtPath": "1205/EphMay12.md"
+    }
+  ]
+}

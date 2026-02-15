@@ -1,0 +1,232 @@
+{
+  "articles": [
+    {
+      "id": "ephmar01-mooning",
+      "documentId": "ephmar01",
+      "title": "Mooning",
+      "summary": "Dave North describes an unusual \"grayscale\" sunrise effect he observed on the Moon's Ptolemaeus crater, where faint smudges gradually brightened over about 30 minutes, forming a 'comet shape.' This puzzled him due to the Moon's typical stark light-and-dark appearance without an atmosphere. A friend suggested the effect is caused by oblique sunlight illuminating microscopic high points on the crater's slightly rough floor, creating a pixel-like grayscale as more surface area catches the light.",
+      "categories": [
+        "Observing Report",
+        "Lunar Observation",
+        "Amateur Astronomy",
+        "Astronomical Phenomena"
+      ],
+      "keywords": [
+        "Moon",
+        "Ptolemaeus crater",
+        "Lunar sunrise",
+        "Grayscale effect",
+        "Shadows",
+        "Terminator",
+        "Observational astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmar01-the-shallow-sky",
+      "documentId": "ephmar01",
+      "title": "The Shallow Sky",
+      "summary": "The article \"The Shallow Sky\" offers a detailed guide to observational astronomy in March, featuring a fascinating report on the visual effects of solar illumination within the lunar crater Ptolemy. It announces an upcoming planetary observing class and provides extensive tips for viewing prominent planets like Venus, Jupiter, Saturn, and Mars, encouraging observers to look for specific features such as Venus's crescent phase, Jupiter's active northern equatorial band, Saturn's prominent rings, and Mars's increasing apparent size. The piece also suggests challenging observations like daylight viewing of Venus and spotting subtle details on other planets, while also mentioning the visibility of Pluto.",
+      "categories": [
+        "Observational Astronomy",
+        "Planetary Observing",
+        "Lunar Observing",
+        "Astronomy Events",
+        "Monthly Sky Guide",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Lunar Observing",
+        "Ptolemy Crater",
+        "Solar Illumination",
+        "Planetary Observing",
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Pluto",
+        "Astronomy Class",
+        "March Sky",
+        "Crescent Venus",
+        "Great Red Spot",
+        "Saturn's Rings",
+        "Observational Techniques",
+        "Akkana Peck"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmar01-you-ve-got-mail",
+      "documentId": "ephmar01",
+      "title": "You've Got Mail",
+      "summary": "The Santa Clara Valley Astronomical Association (SJAA) has updated its email communication system, offering members more tailored options. The old sjaa@seds.org list has been replaced by sjaa-announce@sjaa.net for moderated, low-traffic business announcements, which all members are encouraged to join. Additionally, a new unmoderated sjaa-chat@sjaa.net list is available for social discussions, and the sjaaboard list allows members to follow the board of directors' discussions.",
+      "categories": [
+        "News",
+        "Club Communication",
+        "Member Resources",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "email lists",
+        "sjaa-announce",
+        "sjaa-chat",
+        "sjaaboard",
+        "communication",
+        "moderated",
+        "unmoderated",
+        "announcements",
+        "members"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar01-book-review",
+      "documentId": "ephmar01",
+      "title": "Book Review",
+      "summary": "This article reviews *The Last Navigator* by Stephen D. Thomas, detailing his journey to Micronesia to learn ancient celestial navigation from Piailug, the last traditional navigator on Satawal island. The book explores methods like \"paalu\" (star numbering), wave patterns, and star-based weather prediction, offering insights for those interested in the history of astronomy and cultural star lore. The document also includes brief announcements about a foundation gift to the SJAA, new online astronomy resources, and a job opening at Orion Telescope Center.",
+      "categories": [
+        "Book Review",
+        "Ethnoastronomy",
+        "Celestial Navigation",
+        "Club News",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "The Last Navigator",
+        "Micronesian navigation",
+        "Celestial navigation",
+        "Star lore",
+        "Piailug",
+        "Andrah Foundation",
+        "SJAA",
+        "Astronomy resources",
+        "Book review"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar01-aanc-conference-of-astronomy-clubs",
+      "documentId": "ephmar01",
+      "title": "AANC Conference of Astronomy Clubs",
+      "summary": "The Astronomical Association of Northern California (AANC) is hosting its annual one-day Conference of Astronomy Clubs on April 7th at the Chabot Space and Science Center in Oakland. This event will bring together Northern California astronomy clubs for presentations, idea exchange, AANC award ceremonies, tours of Chabot's historic telescopes, evening observing, and a unique indoor Messier Marathon. Attendees can pre-register by April 1st for a discounted rate.",
+      "categories": [
+        "Events",
+        "News",
+        "Astronomy Community",
+        "Conferences"
+      ],
+      "keywords": [
+        "AANC",
+        "Astronomy Clubs",
+        "Conference",
+        "Chabot Space and Science Center",
+        "Oakland",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Messier Marathon",
+        "Planetarium",
+        "Awards",
+        "Observing",
+        "Northern California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar01-mars-on-earth-and-violent-universe",
+      "documentId": "ephmar01",
+      "title": "Mars on Earth and Violent Universe",
+      "summary": "The article announces two upcoming astronomy events open to the public. On March 7th, Dr. Pascal Lee will present \"Mars on Earth\" at Foothill College, focusing on polar research and Mars exploration. On March 24th, Andrew Fraknoi will lead a full-day program at UC Berkeley titled \"The Violent Universe,\" exploring destructive cosmic phenomena such as asteroids, exploding stars, and cannibal galaxies.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Lectures",
+        "Education"
+      ],
+      "keywords": [
+        "Mars",
+        "Mars exploration",
+        "Polar research",
+        "Violent Universe",
+        "Asteroids",
+        "Exploding stars",
+        "Galaxies",
+        "Cosmic phenomena",
+        "SETI Institute",
+        "Andrew Fraknoi",
+        "Public events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar01-loaner-notes",
+      "documentId": "ephmar01",
+      "title": "Loaner Notes",
+      "summary": "The article acknowledges recent donations of astronomical equipment, including an Orion tripod and a Jaegers refractor, to Mike Koop from Rich Neuschaefer and Bob Mclaren. It also announces an upcoming event on March 20, 2001, featuring Father George Coyne of the Vatican Observatory giving a presentation titled \"The Sacred Cows of Science and Religion Meet\" at Santa Clara. A \"BIG announcement\" is teased for the following month.",
+      "categories": [
+        "Donations",
+        "Events",
+        "News",
+        "Observatory"
+      ],
+      "keywords": [
+        "Astronomical equipment",
+        "Donations",
+        "Vatican Observatory",
+        "Father George Coyne",
+        "Science and Religion",
+        "Presentation",
+        "Santa Clara",
+        "Orion tripod",
+        "TeleVue mount",
+        "Jaegers refractor",
+        "Edmund eyepieces"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar01-sjaa-loaner-scope-status",
+      "documentId": "ephmar01",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article details the current status of the SJAA's loaner telescope program, providing information for members interested in borrowing astronomical equipment. It categorizes telescopes into immediately available, recently loaned with specified due dates, and those on extended loan, alongside a waiting list for popular instruments. Contact details for program coordinator Mike Koop are provided, and members are encouraged to offer space for scope storage.",
+      "categories": [
+        "Club Services",
+        "Program Status",
+        "Equipment Loan Program",
+        "Membership Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope Loan",
+        "Available Scopes",
+        "Scope Loans",
+        "Extended Loans",
+        "Waiting List",
+        "Amateur Astronomy",
+        "Astronomical Equipment",
+        "Dobsonian",
+        "Refractor",
+        "Schmidt-Cassegrain"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0103/EphMar01.pdf",
+      "txtPath": "0103/EphMar01.md"
+    }
+  ]
+}

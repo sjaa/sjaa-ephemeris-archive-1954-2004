@@ -1,0 +1,183 @@
+{
+  "articles": [
+    {
+      "id": "ephaug11-ephemeris",
+      "documentId": "ephaug11",
+      "title": "EPHEMERIS",
+      "summary": "This article outlines the San Jose Astronomical Association's (SJAA) activities from late July to September 2011, including star parties, astronomy classes, dark-sky weekends, and general meetings featuring a speaker on adaptive optics. It also reports on \"The Amazing Meeting 9 (TAM 9)\", which had a strong astronomical focus, featuring talks from prominent figures like Neil deGrasse Tyson and Bill Nye discussing topics such as science funding, alien life, and manned space flight.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Astronomy News",
+        "Conference Report",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star Parties",
+        "Astronomy Classes",
+        "Dark Sky Observing",
+        "General Meetings",
+        "The Amazing Meeting (TAM)",
+        "Neil deGrasse Tyson",
+        "Adaptive Optics",
+        "Science Communication",
+        "Space Exploration",
+        "Science Funding",
+        "Lick Observatory",
+        "Skepticism"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephaug11-the-shallow-sky",
+      "documentId": "ephaug11",
+      "title": "The Shallow Sky",
+      "summary": "The article provides an observing guide for planets in August, describing it as a generally quiet month for prime evening observations. It details the visibility and challenges of observing Saturn, Uranus (easy), Neptune (at opposition), Pluto (difficult near M24), Jupiter (late evening), Mars (early morning), and Mercury (brief early-month appearance), while Venus is too close to the sun.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Observing",
+        "Astronomy",
+        "Monthly Sky Report"
+      ],
+      "keywords": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Jupiter",
+        "Mars",
+        "Mercury",
+        "Venus",
+        "August",
+        "Planetary Observing",
+        "Opposition",
+        "Inferior Conjunction",
+        "Great Red Spot",
+        "M24",
+        "Sagittarius",
+        "Pisces",
+        "Aquarius"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug11-new-goes-r-to-give-more-tornado-warning-time",
+      "documentId": "ephaug11",
+      "title": "New GOES-R to Give More Tornado Warning Time",
+      "summary": "The article introduces the new GOES-R satellite, a next-generation weather spacecraft designed to significantly improve tornado warning times and accuracy. Equipped with advanced sensors, including the first geostationary lightning mapper and an Advanced Baseline Imager (ABI), GOES-R will provide meteorologists with crucial data on storm intensity, cloud growth, and lightning activity. These capabilities are expected to give forecasters more lead time, enabling better public safety measures despite the inherent unpredictability of tornadoes.",
+      "categories": [
+        "News",
+        "Weather Forecasting",
+        "Space Technology",
+        "Meteorology",
+        "Science & Technology"
+      ],
+      "keywords": [
+        "GOES-R satellite",
+        "Tornado warnings",
+        "Severe weather",
+        "Lightning mapper",
+        "Advanced Baseline Imager (ABI)",
+        "NOAA",
+        "Weather forecasting",
+        "Satellites"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephaug11-nasa-space-place",
+      "documentId": "ephaug11",
+      "title": "NASA Space Place",
+      "summary": "The article discusses the challenge of directly observing exoplanets due to the overwhelming brightness of their host stars. It highlights a new technique developed using NASA's Galaxy Evolution Explorer (GALEX) which identifies young, low-mass M-class stars, or red dwarfs, that emit a telltale ultraviolet glow. These dimmer red dwarfs are ideal targets for future direct imaging of exoplanets, offering a promising solution to a long-standing astronomical problem.",
+      "categories": [
+        "Astronomy Research",
+        "Exoplanet Discovery",
+        "Space Missions",
+        "Scientific News"
+      ],
+      "keywords": [
+        "Exoplanets",
+        "Red Dwarfs",
+        "M-class stars",
+        "Galaxy Evolution Explorer",
+        "GALEX",
+        "Ultraviolet light",
+        "Direct imaging",
+        "NASA",
+        "Planet hunting",
+        "Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug11-calstar-2011",
+      "documentId": "ephaug11",
+      "title": "CalStar 2011",
+      "summary": "The article announces CalStar 2011, an annual star party taking place from September 29 to October 1 at Lake San Antonio, south of King City, directing readers to sjaa.net for more information. Additionally, it provides detailed driving directions to Houge Park in San Jose, though the park's specific connection to the CalStar event is not specified.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Logistics",
+        "Astronomy"
+      ],
+      "keywords": [
+        "CalStar 2011",
+        "Star Party",
+        "Lake San Antonio",
+        "King City",
+        "Houge Park",
+        "San Jose",
+        "Directions",
+        "SJAA",
+        "September",
+        "October"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephaug11-the-last-month-in-astronomy",
+      "documentId": "ephaug11",
+      "title": "The Last Month in Astronomy",
+      "summary": "Recent astronomy news includes the Dawn spacecraft entering orbit around the asteroid Vesta, and a new calculation for Neptune's rotation period. Scientists have also discovered ULAS J1120+0641, the most distant quasar found to date, providing insights into the early universe. Furthermore, the Cassini spacecraft has found strong evidence of a subsurface salty ocean on Enceladus, suggesting potential conditions for life.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Planetary Science",
+        "Astrophysics",
+        "Discoveries"
+      ],
+      "keywords": [
+        "Dawn spacecraft",
+        "Vesta",
+        "Neptune",
+        "ULAS J1120+0641",
+        "Quasar",
+        "Big Bang",
+        "Cassini spacecraft",
+        "Enceladus",
+        "Salty Ocean",
+        "Hubble Space Telescope",
+        "Very Large Telescope",
+        "Ceres"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug11",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 7",
+      "issueDate": null,
+      "pdfPath": "1108/EphAug11.pdf",
+      "txtPath": "1108/EphAug11.md"
+    }
+  ]
+}

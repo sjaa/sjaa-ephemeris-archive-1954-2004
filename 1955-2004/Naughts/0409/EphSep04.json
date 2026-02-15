@@ -1,0 +1,223 @@
+{
+  "articles": [
+    {
+      "id": "ephsep04-book-review",
+      "documentId": "ephsep04",
+      "title": "Book Review",
+      "summary": "This article provides a review of four books on the space race, including \"A Man on the Moon\" by Andrew Chaikin, \"This New Ocean\" by William Burrows, \"Flight\" by Chris Kraft, and \"Failure is Not an Option\" by Gene Kranz. The reviewer offers insights into each book's content, style, and unique perspective, particularly praising the personal accounts from Kraft and Kranz. Additionally, the document includes an \"In Memoriam\" section dedicated to Florence Van Nuland, highlighting her creative spirit and impact on her husband's projects.",
+      "categories": [
+        "Book Review",
+        "Space History",
+        "Obituary",
+        "Community News"
+      ],
+      "keywords": [
+        "Space Race",
+        "Apollo program",
+        "NASA",
+        "Andrew Chaikin",
+        "William Burrows",
+        "Chris Kraft",
+        "Gene Kranz",
+        "Flight Control",
+        "Astronauts",
+        "Florence Van Nuland",
+        "Book Recommendations"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephsep04-voluminous",
+      "documentId": "ephsep04",
+      "title": "Voluminous",
+      "summary": "The article delves into the Moon's physical characteristics, comparing its size, mass, and density to Earth's. The author critically examines prevailing lunar formation theories, specifically the Giant Impact Hypothesis, by questioning the discrepancy between the Moon's similar isotopic composition to Earth but significantly lower iron content. He speculates on an alternative perspective involving binary system formation and gravitational sorting of materials during coalescence.",
+      "categories": [
+        "Planetary Science",
+        "Astrophysics",
+        "Lunar Formation Theories",
+        "Speculative Discussion",
+        "Opinion Piece"
+      ],
+      "keywords": [
+        "Moon",
+        "Earth",
+        "Lunar formation",
+        "Giant Impact Hypothesis",
+        "Co-accretion theory",
+        "Density",
+        "Mass",
+        "Volume",
+        "Iron content",
+        "Isotopic composition",
+        "Binary systems",
+        "Gravitational sorting",
+        "Harvest Moon"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep04-the-shallow-sky",
+      "documentId": "ephsep04",
+      "title": "The Shallow Sky",
+      "summary": "The 'Shallow Sky' column offers an observational guide for September's morning sky, detailing prime viewing opportunities for Mercury, Venus, Saturn, and the Zodiacal Light, and connecting these to recent discoveries of protoplanetary disks and exoplanets. Additionally, the article provides instructions for club members renewing Sky & Telescope subscriptions and directions to Houge Park.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Club Business",
+        "Logistics"
+      ],
+      "keywords": [
+        "Observing",
+        "Morning Sky",
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Saturn",
+        "Zodiacal Light",
+        "Protoplanetary Disks",
+        "Exoplanets",
+        "Spitzer Space Telescope",
+        "Sky & Telescope",
+        "Club Membership"
+      ],
+      "pageStart": 4,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephsep04-astrocon-2004-a-superior-conjunction",
+      "documentId": "ephsep04",
+      "title": "AstroCon 2004: A Superior Conjunction",
+      "summary": "AstroCon 2004, held in Berkeley from July 20-24, was a significant event marking the first joint meeting of four major astronomical organizations: ASP, AAVSO, AL, and ALPO. The conference, dedicated to Janet Akyüz Mattei, featured talks by prominent figures like David Levy and Dr. Louis Friedman, workshops, and exhibitors. Its culmination was a gala dinner on board the USS Hornet, commemorating the 35th anniversary of the Apollo 11 recovery, where Apollo 12 astronaut Alan Bean's paintings were auctioned.",
+      "categories": [
+        "Event Report",
+        "Astronomical Conference",
+        "News"
+      ],
+      "keywords": [
+        "AstroCon 2004",
+        "Astronomical Society of the Pacific (ASP)",
+        "American Association of Variable Star Observers (AAVSO)",
+        "Astronomical League (AL)",
+        "Association of Lunar and Planetary Observers (ALPO)",
+        "USS Hornet",
+        "Apollo 11",
+        "Apollo 12",
+        "Alan Bean",
+        "Janet Akyüz Mattei",
+        "David Levy",
+        "Louis Friedman",
+        "Berkeley",
+        "Astronomy"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep04-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephsep04",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "Apollo 9 astronaut Russell Schweickart will give a free, non-technical public lecture titled \"Asteroid Deflection: Hopes and Fears\" on October 6, 2004, at Foothill College. The talk will cover the threat of cosmic rocks and various methods for defending Earth from asteroid impacts. Schweickart, also Chairman of the B612 Foundation, will discuss both nuclear and non-nuclear alternatives.",
+      "categories": [
+        "events",
+        "lecture",
+        "astronomy",
+        "space exploration",
+        "planetary defense"
+      ],
+      "keywords": [
+        "Russell Schweickart",
+        "Asteroid Deflection",
+        "Planetary Defense",
+        "Apollo 9",
+        "Foothill College",
+        "B612 Foundation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep04-astronomy-magazine-renewal-time",
+      "documentId": "ephsep04",
+      "title": "ASTRONOMY magazine renewal time",
+      "summary": "Jim Van Nuland is organizing a group subscription renewal for Astronomy magazine for the 2004/2005 period, offering rates of $29 for one year or $55 for two. Instructions are provided for new subscribers, existing independent subscribers wishing to convert, and current group members to send checks for renewal. The announcement clarifies that this special group offer applies exclusively to Astronomy magazine.",
+      "categories": [
+        "Club Announcement",
+        "Subscription",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "Subscription renewal",
+        "Group rate",
+        "Jim Van Nuland",
+        "Membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep04-kteh-auction-september-15th",
+      "documentId": "ephsep04",
+      "title": "KTEH Auction September 15th",
+      "summary": "SJAA members successfully volunteered at KTEH on August 5th, helping raise over $13,000 during a pledge break for Nova's \"The Elegant Universe.\" Building on this success, the SJAA is now recruiting volunteers for \"The Great KTEH Auction\" on September 15th. Volunteers are needed for various tasks including phone support, bid entry, and setup, with training and food provided by KTEH.",
+      "categories": [
+        "Events",
+        "Volunteerism",
+        "Community Service",
+        "Club News",
+        "Fundraising"
+      ],
+      "keywords": [
+        "KTEH Auction",
+        "SJAA",
+        "Volunteer",
+        "Fundraising",
+        "Community Service",
+        "September 15th",
+        "Nova's The Elegant Universe",
+        "Pledge drive",
+        "Mike Koop"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep04-sjaa-loaner-scope-status",
+      "documentId": "ephsep04",
+      "title": "SJAA loaner scope status",
+      "summary": "This document outlines the status of the San Jose Astronomical Association's (SJAA) loaner telescope program, detailing which scopes are currently available for immediate loan, those on standard loan with due dates, and others on extended loan. SJAA members can contact Mike Koop to borrow equipment, which includes a variety of telescopes and accessories. The article also lists members on waiting lists for specific popular items.",
+      "categories": [
+        "Program Status",
+        "Equipment Loan",
+        "Astronomy Club Information",
+        "Resource Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope program",
+        "telescopes",
+        "astronomy equipment",
+        "member services",
+        "availability",
+        "waiting list",
+        "Dobson",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Solar Scope"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0409/EphSep04.pdf",
+      "txtPath": "0409/EphSep04.md"
+    }
+  ]
+}

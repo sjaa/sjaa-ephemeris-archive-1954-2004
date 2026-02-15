@@ -1,0 +1,182 @@
+{
+  "articles": [
+    {
+      "id": "ephaug12-astro-questions",
+      "documentId": "ephaug12",
+      "title": "Astro Questions",
+      "summary": "This document from the San Jose Astronomical Association's August 2012 publication features their activities calendar for August and September 2012, detailing general meetings, observing sessions (including H-alpha solar observations and star parties), and astronomy classes. Additionally, it explores eight profound \"Astro Questions\" highlighted by Science magazine, covering major unsolved mysteries in astronomy such as the nature of dark energy and dark matter, the whereabouts of missing baryons, how stars explode, the reionization of the universe, the origins of energetic cosmic rays, the bizarre characteristics of our solar system, and the enigmatic heating of the Sun's corona.",
+      "categories": [
+        "Community Events",
+        "Astronomical Research",
+        "Cosmology",
+        "Astrophysics",
+        "Local Astronomy Club",
+        "Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Events",
+        "Star Parties",
+        "General Meetings",
+        "Astronomy Classes",
+        "Dark Energy",
+        "Dark Matter",
+        "Missing Baryons",
+        "Supernovae",
+        "Cosmic Reionization",
+        "Cosmic Rays",
+        "Solar System Anomalies",
+        "Solar Corona",
+        "Tim DeBenedictis",
+        "Sky Safari",
+        "Science Magazine",
+        "James Webb Space Telescope"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephaug12-the-shallow-sky",
+      "documentId": "ephaug12",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an August sky guide, with a primary focus on a unique daytime occultation of Venus by the Moon on August 13th, observable in the afternoon. It also details the visibility of other planets, including Venus and Mercury in the morning sky, Mars and Saturn in the early evening, and the outer planets (Uranus, Neptune, Pluto) for challenging late-night viewing, alongside a Jupiter occultation specific to Hawaii.",
+      "categories": [
+        "Celestial Events",
+        "Observing Guide",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "Venus occultation",
+        "Daytime astronomy",
+        "Moon",
+        "Venus",
+        "August sky",
+        "Planetary observation",
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug12-the-last-month-in-astronomy",
+      "documentId": "ephaug12",
+      "title": "The Last Month In Astronomy",
+      "summary": "The past month in astronomy brought several key developments, including the upcoming landing of NASA's Curiosity rover on Mars and the Hubble Space Telescope's discovery of Pluto's fifth moon, P5. Scientists also confirmed the detection of the Higgs boson at the LHC, while new instruments are enhancing the direct imaging of exoplanets and studies support the concept of panspermia. Additionally, there were updates on the Mars Odyssey orbiter's repair and findings suggesting fewer brown dwarfs than expected near Earth.",
+      "categories": [
+        "Space Missions & Exploration",
+        "Planetary Science",
+        "Astrophysics & Cosmology",
+        "Astronomical Discoveries",
+        "Instrumentation & Technology",
+        "Astrobiology"
+      ],
+      "keywords": [
+        "Curiosity rover",
+        "Pluto's moons",
+        "Higgs boson",
+        "Exoplanets",
+        "Mars Odyssey",
+        "Brown dwarfs",
+        "Panspermia",
+        "Hubble Space Telescope",
+        "LHC",
+        "Adaptive optics"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug12-imaging-sig",
+      "documentId": "ephaug12",
+      "title": "Imaging SIG",
+      "summary": "The San Jose Astronomical Association (SJAA) held the inaugural meeting of its Imaging Special Interest Group (SIG) at Houge Park on June 29, attracting close to 30 attendees, including both novice and experienced astrophotographers. The group's primary goal is to foster discussion on technical issues, share information, and collectively address challenges related to astro-imaging equipment and techniques. Attendees expressed strong interest in monthly meetings, with future plans for workshops, tutorials, and organized imaging sessions to support and educate its members.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Astrophotography",
+        "Meeting Report",
+        "Special Interest Group"
+      ],
+      "keywords": [
+        "Imaging SIG",
+        "SJAA",
+        "Astrophotography",
+        "Astro-imagers",
+        "Technical issues",
+        "Equipment complexity",
+        "Workshops",
+        "Tutorials",
+        "Imaging sessions",
+        "Beginners",
+        "Experienced imagers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug12-at-the-general-meetings",
+      "documentId": "ephaug12",
+      "title": "At The General Meetings ...",
+      "summary": "General meetings included a presentation on the trial run of Astronomical League observation programs, encouraging attendees to participate and report feedback. Additionally, Dr. Peter Nugent delivered a talk on June 2nd about supernova 2011fe, highlighting its visibility to amateur astronomers and its location in the popular target M101.",
+      "categories": [
+        "Meetings",
+        "Observing Reports",
+        "Astronomy News",
+        "Amateur Astronomy",
+        "Events"
+      ],
+      "keywords": [
+        "General Meetings",
+        "Lick talk",
+        "Astronomical League",
+        "Observation programs",
+        "Dr. Peter Nugent",
+        "Supernova 2011fe",
+        "M101",
+        "Pinwheel Galaxy",
+        "Amateur astronomers",
+        "Astrophotographers"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug12-late-news",
+      "documentId": "ephaug12",
+      "title": "Late News",
+      "summary": "A significant M7.7 solar flare erupted on July 19 from sunspot AR1520, observed by the SDO spacecraft. Although large, the resulting coronal mass ejection (CME) is not projected to affect Earth. Solar activity, including such flares, is currently on the rise and anticipated to peak around 2013 or 2014.",
+      "categories": [
+        "news",
+        "space events",
+        "observing reports",
+        "solar activity"
+      ],
+      "keywords": [
+        "solar flare",
+        "SDO",
+        "CME",
+        "M7.7",
+        "AR1520",
+        "sunspot",
+        "solar activity",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1208/EphAug12.pdf",
+      "txtPath": "1208/EphAug12.md"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "articles": [
+    {
+      "id": "ephjun11-the-shallow-sky",
+      "documentId": "ephjun11",
+      "title": "The Shallow Sky",
+      "summary": "This article offers an in-depth guide for observing Saturn in June 2011, detailing how to identify its A, B, and C rings, including the Cassini and Encke divisions, and other planetary features. Additionally, it provides a comprehensive calendar of San Jose Astronomical Association (SJAA) events for late May, June, and July 2011, featuring star parties, astronomy classes, and general meetings.",
+      "categories": [
+        "observing guide",
+        "events calendar",
+        "amateur astronomy",
+        "astronomy club activities",
+        "planetary astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "Saturn's rings",
+        "Cassini division",
+        "Encke division",
+        "observing tips",
+        "star parties",
+        "astronomy classes",
+        "SJAA",
+        "June 2011",
+        "planetary observation",
+        "Mimas",
+        "Pan",
+        "Porrima",
+        "New Horizons spacecraft"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun11-talks-at-berkeley",
+      "documentId": "ephjun11",
+      "title": "Talks at Berkeley",
+      "summary": "The article announces two public astronomy talks at the Lawrence Hall of Science, University of California, Berkeley, in June 2011. The first, by Andrew Fraknoi, discusses future tourist destinations in the Solar System. The second is a seminar featuring NASA Kepler Mission investigators who will discuss exoplanet discoveries and the search for extraterrestrial life.",
+      "categories": [
+        "events",
+        "public talks",
+        "astronomy",
+        "exoplanets",
+        "solar system"
+      ],
+      "keywords": [
+        "Andrew Fraknoi",
+        "Lawrence Hall of Science",
+        "Berkeley",
+        "Solar System tourism",
+        "Venus",
+        "Mars",
+        "Miranda",
+        "NASA Kepler Mission",
+        "Exoplanets",
+        "Are We Alone?",
+        "Bill Borucki",
+        "Natalie Batalha",
+        "Gibor Basri"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun11-nasa-space-place",
+      "documentId": "ephjun11",
+      "title": "NASA Space Place",
+      "summary": "NASA Space Place highlights the Milky Way Project, a citizen science initiative where volunteers analyze infrared images from NASA's Spitzer Space Telescope to identify celestial objects like gas bubbles, dust knots, and 'red fuzzies.' This project, involving over 18,000 participants, helps astronomers map the galaxy, particularly focusing on active star formation regions, and catalog features that computers often miss due to their predefined search parameters.",
+      "categories": [
+        "Citizen Science",
+        "Astronomy",
+        "Space Exploration",
+        "Research Project",
+        "News"
+      ],
+      "keywords": [
+        "Milky Way Project",
+        "NASA Space Place",
+        "Spitzer Space Telescope",
+        "infrared images",
+        "star formation",
+        "gas bubbles",
+        "Zooniverse",
+        "citizen scientists",
+        "galaxy mapping",
+        "astrophysics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun11-milky-way-project-update",
+      "documentId": "ephjun11",
+      "title": "Milky Way Project Update",
+      "summary": "The Milky Way Project provides an update on its successful citizen science initiative, reporting that volunteers have analyzed over 242,000 images and drawn more than 1.2 million astronomical objects, such as bubbles and galaxies. The new \"Galactometer™\" tracks these impressive community contributions, which involve studying infrared images from the Spitzer Space Telescope as part of the Zooniverse platform.",
+      "categories": [
+        "Project Update",
+        "Citizen Science",
+        "Astronomy Research",
+        "Space Telescopes"
+      ],
+      "keywords": [
+        "Milky Way Project",
+        "Citizen Science",
+        "Zooniverse",
+        "Spitzer Space Telescope",
+        "Astronomy",
+        "Galactometer",
+        "Infrared Imagery",
+        "Volunteers",
+        "Galaxy Classification"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun11-golden-state-star-party",
+      "documentId": "ephjun11",
+      "title": "Golden State Star Party",
+      "summary": "The article announces two upcoming dark sky astronomy events: the Golden State Star Party (GSSP) starting June 29 near Mount Lassen, and CalStar commencing September 29 at Lake San Antonio. It also highlights the Milky Way Project, a Zooniverse citizen science initiative where over 400,000 volunteers analyze space images to identify cosmic structures, emphasizing human pattern recognition. Additionally, the document provides detailed driving directions to Houge Park in San Jose.",
+      "categories": [
+        "Astronomy Events",
+        "Citizen Science",
+        "Educational Resources",
+        "Location Information"
+      ],
+      "keywords": [
+        "Golden State Star Party",
+        "GSSP",
+        "CalStar",
+        "star party",
+        "dark sky event",
+        "Milky Way Project",
+        "Zooniverse",
+        "citizen science",
+        "astronomy volunteers",
+        "space images",
+        "Spitzer",
+        "Houge Park",
+        "directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun11-john-delaney-1914-2011",
+      "documentId": "ephjun11",
+      "title": "John Delaney, 1914 - 2011",
+      "summary": "John Delaney, a co-founder of the San Jose Astronomical Association (SJAA), passed away at age 96. He was instrumental in establishing the SJAA in 1955, serving on its first Board of Directors, and contributed a 12.5-inch telescope mirror that became part of the club's loaner program. Delaney also had a career at Ames Research Center from 1940 to 1974.",
+      "categories": [
+        "Obituary",
+        "Association News",
+        "History"
+      ],
+      "keywords": [
+        "John Delaney",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ames Research Center",
+        "Telescopes",
+        "Founders",
+        "Board of Directors",
+        "1955",
+        "2011"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun11-the-last-month-in-astronomy",
+      "documentId": "ephjun11",
+      "title": "The Last Month in Astronomy",
+      "summary": "The article 'The Last Month in Astronomy' compiles various astronomical developments and discoveries from April-May 2011. It highlights significant events such as the Messenger spacecraft's first images from Mercury, the Mars Reconnaissance Orbiter's findings on Martian atmospheric changes, and the Cassini mission's discovery of an electrical connection between Saturn and Enceladus. Other notable topics include Comet Elenin's approach, the Voyager probes nearing the edge of the solar system, and the application of space-developed technology in terrestrial industries.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Planetary Science",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Comet Elenin",
+        "Messenger spacecraft",
+        "Mercury orbit",
+        "Voyager probes",
+        "Mars Reconnaissance Orbiter",
+        "Martian atmosphere",
+        "GALEX spacecraft",
+        "stellar explosions",
+        "supernovae",
+        "Cassini mission",
+        "Saturn",
+        "Enceladus",
+        "electrical connection",
+        "technology transfer",
+        "ISS"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjun11-it-must-be-astronomical",
+      "documentId": "ephjun11",
+      "title": "It Must Be Astronomical...",
+      "summary": "This excerpt from the San Jose Astronomical Association's \"Ephemeris\" newsletter covers several club facets, including a telescope loaner program and the annual statistics for its school star parties. It also features a poem, \"FAR,\" associated with the 365 Days of Astronomy, and lists the club's officers, newsletter staff, and publication details for the \"Ephemeris.\"",
+      "categories": [
+        "Club Activities",
+        "Member Services",
+        "Event Reports",
+        "Organizational Information",
+        "Publications"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "Telescope loaner program",
+        "School Star Parties",
+        "Astronomy",
+        "365 Days of Astronomy",
+        "Club officers",
+        "Newsletter",
+        "Event statistics",
+        "Amateur astronomy"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1106/EphJun11.pdf",
+      "txtPath": "1106/EphJun11.md"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "articles": [
+    {
+      "id": "ephjan00-sjaa-ephemeris",
+      "documentId": "ephjan00",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The SJAA Ephemeris for January 2000 outlines the San Jose Astronomical Association's upcoming activities, including star parties, observational astronomy classes, and general meetings with guest speakers for January and February. Additionally, the publication features an account by Jane Houston detailing her participation in the 1999 Leonid MAC Mission, where she helped measure meteor flux from aboard a research aircraft.",
+      "categories": [
+        "Events Calendar",
+        "Observing Reports",
+        "Astronomy Club Activities",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Star Parties",
+        "Observational Astronomy",
+        "General Meetings",
+        "Leonid Meteor Shower",
+        "Meteor Flux Measurement",
+        "Astronomy Mission",
+        "Fremont Peak",
+        "Houge Park",
+        "1999 Leonid MAC Mission",
+        "Deep-Sky Night"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjan00-leonids-zenith-hourly-rate",
+      "documentId": "ephjan00",
+      "title": "Leonids Zenith Hourly Rate",
+      "summary": "This article details an airborne observation campaign for the 1999 Leonid meteor storm, conducted over several nights using various specialized cameras on an ARIA aircraft. The observations captured a peak Zenith Hourly Rate (ZHR) of 2300 Leonids per hour, with the author personally observing 2700, along with phenomena like sprites and meteors streaking through the Aurora Borealis. The report describes the observation techniques, equipment, and significant events from each night, culminating in a reflection on the successful scientific endeavor.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Meteor Shower",
+        "Scientific Research",
+        "Technical Description"
+      ],
+      "keywords": [
+        "Leonids",
+        "Meteor storm",
+        "1999 Leonid Storm",
+        "Zenith Hourly Rate (ZHR)",
+        "Airborne observations",
+        "Sprites",
+        "Aurora Borealis",
+        "Cameras",
+        "Fireballs",
+        "Atmospheric phenomena",
+        "Observation campaign",
+        "NHK",
+        "European Space Agency",
+        "ARIA aircraft"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjan00-mercury-transit-report",
+      "documentId": "ephjan00",
+      "title": "Mercury Transit Report",
+      "summary": "Akkana Peck recounts observing a Mercury transit from Henry Coe State Park, San Jose, CA, despite initial forecasts of poor weather. The event, observed with various filtered telescopes, was surprisingly easier to see than predicted, allowing for clear views of sunspots and Mercury's contacts. The author critically examines the \"black drop\" effect, suggesting its manifestation might be influenced by atmospheric seeing conditions.",
+      "categories": [
+        "Observing Report",
+        "Solar Astronomy",
+        "Planetary Transit"
+      ],
+      "keywords": [
+        "Mercury Transit",
+        "Solar Observation",
+        "Black Drop Effect",
+        "Sunspots",
+        "Astronomical Seeing",
+        "Telescope",
+        "Solar Filter",
+        "Observing Report"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan00-mooning",
+      "documentId": "ephjan00",
+      "title": "Mooning",
+      "summary": "# Mooning\nDavid North\n\n## Eclipse!\n\nNot only that, high in the sky, at a good time, with clear air! If the weather holds, this will be about as good as you can hope for.\n\nThe first hints of duskiness ...",
+      "categories": [
+        "uncategorized"
+      ],
+      "keywords": [],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan00-astronomy-educator-position-available",
+      "documentId": "ephjan00",
+      "title": "Astronomy Educator Position Available",
+      "summary": "The Astronomical Society of the Pacific is seeking a full-time Astronomy Educator to develop K-12 and family-focused educational programs, create hands-on activities, and assist with grant writing and public outreach. The article also provides a detailed January 2000 observing report for planets like Jupiter and Saturn, along with a schedule of upcoming school star parties.",
+      "categories": [
+        "Job Posting",
+        "Observing Report",
+        "Astronomy Education",
+        "Events"
+      ],
+      "keywords": [
+        "Astronomy Educator",
+        "Astronomical Society of the Pacific",
+        "K-12 Education",
+        "Family ASTRO",
+        "Public Outreach",
+        "Jupiter",
+        "Saturn",
+        "Planetary Observation",
+        "Star Parties",
+        "January 2000"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan00-comet-comments-for-january-2000",
+      "documentId": "ephjan00",
+      "title": "Comet Comments for January 2000",
+      "summary": "This January 2000 'Comet Comments' column discusses the current status of Periodic Comet Machholz 2, noting it's fainter than expected but may be glimpsed, and details its next good visibility in 2015. It also mentions recent comet discoveries by the Catalina Sky Survey and analysis of SOHO satellite data. The article reflects on the future of visual comet hunting, acknowledging increased competition from automated surveys but suggesting amateurs can still find comets, albeit at a reduced rate, especially in areas near the sun.",
+      "categories": [
+        "observing reports",
+        "comet discovery",
+        "astronomy news",
+        "observational astronomy",
+        "technical data"
+      ],
+      "keywords": [
+        "Comet Machholz 2",
+        "141P/Machholz 2",
+        "comet hunting",
+        "Catalina Sky Survey",
+        "SOHO satellite",
+        "ephemeris",
+        "orbital elements",
+        "visual discoveries",
+        "January 2000"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan00-celestial-calendar-january-2000",
+      "documentId": "ephjan00",
+      "title": "Celestial Calendar January 2000",
+      "summary": "This document outlines the \"Celestial Calendar\" for January 2000, providing comprehensive astronomical data for observers. It details lunar phases, planetary ephemerides (Mercury, Venus, Mars, Jupiter, Saturn) including their rise, transit, and set times, along with celestial coordinates. The calendar also includes information on the Sun's position, hours of darkness, astronomical twilight, and sidereal time for optimal skygazing.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Data",
+        "Ephemeris",
+        "Calendar"
+      ],
+      "keywords": [
+        "Celestial Calendar",
+        "January 2000",
+        "Lunar Phases",
+        "Planetary Ephemeris",
+        "Astronomical Data",
+        "Observing Guide",
+        "Sidereal Time"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan00-sjaa-loaner-scope-status",
+      "documentId": "ephjan00",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA Loaner Scope Status document provides an update on the availability of telescopes through the San Jose Astronomical Association's loaner program. It details which scopes are immediately available, which are currently on loan with due dates, and those with extended loan periods, along with a waiting list for popular equipment. Members interested in borrowing a scope are directed to contact Mike Koop for arrangements and pick-up at SJAA events.",
+      "categories": [
+        "Program Status",
+        "Membership Services",
+        "Equipment Loan",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope Program",
+        "Telescopes",
+        "Astronomy Equipment",
+        "Membership Benefits",
+        "Scope Availability",
+        "Waiting List",
+        "Donations",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan00",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0001/EphJan00.pdf",
+      "txtPath": "0001/EphJan00.md"
+    }
+  ]
+}

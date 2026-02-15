@@ -1,0 +1,266 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1402-shallow-sky",
+      "documentId": "ephemeris-1402",
+      "title": "Shallow Sky",
+      "summary": "The article details an astronomer's process for planning a 'shallow sky' column, using planetarium software like XEphem, a custom Jupiter moon web app, and the RASC Handbook to identify optimal viewing times for planets and specific celestial events like moon transits. It also describes methods for finding diverse astronomical topics beyond basic planet positions. Additionally, the article reports on the recent discovery of a bright supernova in the M82 galaxy, providing details for easy observation by sky watchers.",
+      "categories": [
+        "Observing Guides",
+        "Astronomy Software",
+        "Celestial Events",
+        "News Report",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Shallow Sky",
+        "XEphem",
+        "Planetarium software",
+        "Jupiter",
+        "Jupiter moon transits",
+        "Inner planets",
+        "Supernova",
+        "M82",
+        "Cigar Galaxy",
+        "Observing",
+        "Stargazing",
+        "Astronomy planning",
+        "RASC Handbook"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1402-eleven-great-astronomy-quotes",
+      "documentId": "ephemeris-1402",
+      "title": "Eleven Great Astronomy Quotes",
+      "summary": "This article presents a collection of eleven inspiring quotes about astronomy from various notable figures, highlighting its profound impact on human perspective and understanding. Additionally, it details recent scientific discoveries by NASA's Hubble Space Telescope, which characterized the cloudy atmospheres of two exoplanets, GJ 436b and GJ 1214b, marking an important milestone in understanding the diversity of planets outside our solar system and the road to characterizing potentially habitable worlds.",
+      "categories": [
+        "Astronomy",
+        "Quotes",
+        "Exoplanets",
+        "Scientific Discovery"
+      ],
+      "keywords": [
+        "Astronomy quotes",
+        "Inspiration",
+        "Philosophy",
+        "Exoplanets",
+        "Hubble Space Telescope",
+        "GJ 436b",
+        "GJ 1214b",
+        "Planetary atmospheres",
+        "Clouds",
+        "Super-Earth",
+        "Warm Neptune",
+        "Habitability",
+        "Space research"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1402-first-planet-found-around-solar-twin-in-star-cluster-m67",
+      "documentId": "ephemeris-1402",
+      "title": "First Planet Found Around Solar Twin in Star Cluster M67",
+      "summary": "Astronomers have discovered three exoplanets within the star cluster Messier 67 using ESO's HARPS instrument and other telescopes. Remarkably, one of these planets orbits a rare 'solar twin' star, which is almost identical to our Sun, marking the first such discovery in a star cluster. This finding challenges previous ideas about planet formation in crowded stellar environments, suggesting that planets are as common in open star clusters as they are around isolated stars.",
+      "categories": [
+        "Exoplanets",
+        "Astronomy",
+        "Scientific Discovery",
+        "Star Clusters",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Exoplanets",
+        "Messier 67",
+        "M67",
+        "Star Cluster",
+        "Solar Twin",
+        "HARPS",
+        "ESO",
+        "Planet Formation",
+        "Hot Jupiters",
+        "La Silla Observatory",
+        "Anna Brucalassi",
+        "Jupiter-mass planets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1402-one-way-ticket-to-mars",
+      "documentId": "ephemeris-1402",
+      "title": "One Way Ticket to Mars",
+      "summary": "Mars One, a Netherlands-based nonprofit, has selected 1,058 individuals from over 200,000 applicants for a one-way mission to Mars, intending to turn the colonization effort into a global reality show. These applicants, hailing from 107 countries, will undergo a series of physical and emotional tests over the next two years, with the final team expected to be chosen by a global audience vote for a 2025 launch.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Project Update"
+      ],
+      "keywords": [
+        "Mars One",
+        "Mars colonization",
+        "one-way mission",
+        "applicant selection",
+        "reality show",
+        "space travel",
+        "human exploration"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1402-tribute-to-john-dobson",
+      "documentId": "ephemeris-1402",
+      "title": "Tribute to John Dobson",
+      "summary": "John Dobson, celebrated inventor of the simple, low-cost Dobsonian telescope, passed away on January 15, 2014, at 98. He dedicated his life to making astronomy accessible to the public, co-founding the San Francisco Sidewalk Astronomers in 1968 and popularizing large, user-friendly telescopes made from inexpensive materials. His innovative alt-azimuth mount design revolutionized amateur astronomy, inspiring a global movement to share the night sky, despite his own unconventional cosmological views.",
+      "categories": [
+        "Obituary",
+        "Biography",
+        "Amateur Astronomy",
+        "Telescope Design",
+        "Astronomy Outreach",
+        "Interview"
+      ],
+      "keywords": [
+        "John Dobson",
+        "Dobsonian telescope",
+        "Sidewalk Astronomers",
+        "Amateur telescope making",
+        "Astronomy outreach",
+        "Alt-azimuth mount",
+        "Recycling Steady State Theory",
+        "ISAN",
+        "Coulter Optical",
+        "Cosmology",
+        "Telescope construction"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1402-kid-spot",
+      "documentId": "ephemeris-1402",
+      "title": "KID SPOT",
+      "summary": "This \"KID SPOT\" article offers an astronomy-themed section for children, featuring jokes, a quiz, and a \"Night Sky Challenge\" for February 2014. It also provides an in-depth look at the constellation Orion, detailing its brightest stars, the Orion Nebula, and its rich mythological history across various global cultures.",
+      "categories": [
+        "Educational",
+        "Astronomy",
+        "Constellation Study",
+        "Night Sky Observing",
+        "Mythology"
+      ],
+      "keywords": [
+        "KID SPOT",
+        "Astronomy for Kids",
+        "Night Sky Challenge",
+        "Orion",
+        "Andromeda Galaxy",
+        "Constellations",
+        "Mythology",
+        "Observing",
+        "February 2014"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1402-solar-observing-sunday-january-5th-two-thumbs-up",
+      "documentId": "ephemeris-1402",
+      "title": "Solar Observing Sunday, January 5th Two Thumbs Up!",
+      "summary": "Michael Packer reports on a highly successful solar observing event held on Sunday, January 5th, at Houge Park, attended by over 50 public and astronomy enthusiasts. Participants observed a spectacular, massive sunspot with intricate details and associated prominences, visible even with solar glasses and through telescopes. This active sunspot group was noted as the origin of recent flare and Coronal Mass Ejection reports.",
+      "categories": [
+        "observing report",
+        "events",
+        "solar astronomy",
+        "public outreach",
+        "astronomy safety"
+      ],
+      "keywords": [
+        "solar observing",
+        "sunspot",
+        "H-Alpha",
+        "prominences",
+        "Coronal Mass Ejection",
+        "solar flare",
+        "Houge Park",
+        "astronomy event",
+        "safe solar viewing"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1402-notices",
+      "documentId": "ephemeris-1402",
+      "title": "Notices",
+      "summary": "This collection of notices from the SJAA announces that several key programs—Advanced Loaner Telescope, Quick STARt, and the SJAA Library—are fully operational, with Sukhada Palav appointed as the new Club Librarian. Members are also informed about the availability of the RASC Observers Handbook, the Fix-It program (encouraging pre-registration), and the upcoming annual meeting on February 15, 2014, for Board elections, which will include a potluck dinner, voting, and awards.",
+      "categories": [
+        "Club News",
+        "Program Updates",
+        "Events",
+        "Administration",
+        "Resources"
+      ],
+      "keywords": [
+        "Loaner Telescope Program",
+        "Quick STARt Program",
+        "SJAA Library",
+        "Club Librarian",
+        "Observers Handbook",
+        "RASC",
+        "Fix-It Program",
+        "Board Elections",
+        "Annual Meeting",
+        "Membership Meeting",
+        "Potluck",
+        "Club Programs",
+        "Astronomy Resources",
+        "Governance",
+        "2014"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1402-board-meeting-january-11-2014-excerpts",
+      "documentId": "ephemeris-1402",
+      "title": "Board Meeting January 11, 2014 Excerpts",
+      "summary": "Excerpts from the January 11, 2014 Board Meeting detail various club initiatives and plans. Key discussions included preparations for handing out recognition awards, the launch of a website forum for board discussions with future general membership access, and the development of a twelve-month curriculum for a Beginner Class. Additionally, the board approved new roles for the Ephemeris publication, made plans for the annual auction, investigated an astro-camping event at Pinnacles, and sought a guest speaker for the February General Meeting.",
+      "categories": [
+        "Board Meeting",
+        "Club Operations",
+        "Events",
+        "Education",
+        "Publications",
+        "Website Development"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "Club Administration",
+        "Recognition Program",
+        "Website Forum",
+        "Beginner Class",
+        "Curriculum Development",
+        "Ephemeris",
+        "Annual Auction",
+        "Astro Camping",
+        "Pinnacles",
+        "Guest Speaker",
+        "Membership Meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1402",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1402/Ephemeris.1402.pdf",
+      "txtPath": "1402/Ephemeris.1402.md"
+    }
+  ]
+}

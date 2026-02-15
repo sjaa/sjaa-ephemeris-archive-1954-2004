@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "id": "bulletin-2025-12-sjaa-ephemeris-bulletin",
+      "documentId": "bulletin-2025-12",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin reviews 2025's astronomical highlights, including notable comets, the third known interstellar object, successful space missions like the Blue Ghost Moon landing and Solar Orbiter's south pole imaging, and various SJAA club events. It also provides a detailed observing guide for the Pleiades (Messier 45), covering its history, characteristics, cultural significance, and tips for locating it in the night sky.",
+      "categories": [
+        "Newsletter",
+        "Club Activities",
+        "Astronomical News",
+        "Observing Guide",
+        "Celestial Object Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Pleiades",
+        "Messier 45",
+        "Open Star Cluster",
+        "2025 astronomical highlights",
+        "Comets",
+        "Interstellar Object",
+        "Space Launches",
+        "Solar Orbiter",
+        "Club Events",
+        "Observing Guide",
+        "Taurus",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "bulletin-2025-12-announcements",
+      "documentId": "bulletin-2025-12",
+      "title": "Announcements",
+      "summary": "SJAA has updated the names and addresses for its Observers and Astroimaging email lists, urging members to update their profiles and contacts. The organization is also actively seeking volunteers for various roles, from telescope operation to content creation. Additionally, the results of a recent member survey are now available for review in the December issue of the Ephemeris.",
+      "categories": [
+        "Organizational Updates",
+        "Call to Action",
+        "Community Involvement",
+        "Member Communication",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Email Lists",
+        "Observers",
+        "Astroimaging",
+        "Volunteers",
+        "Member Survey",
+        "Ephemeris",
+        "Membership",
+        "70 Years"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "bulletin-2025-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2512/Bulletin.2025.12.pdf",
+      "txtPath": "2512/Bulletin.2025.12.md"
+    }
+  ]
+}

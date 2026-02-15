@@ -1,0 +1,268 @@
+{
+  "articles": [
+    {
+      "id": "ephmay04a-sjaa-ephemeris",
+      "documentId": "ephmay04a",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The article reports on the San Jose Astronomical Association's (SJAA) successful annual auction and swap meet held on April 4, 2004, which raised substantial funds for the club and offered a wide variety of astronomy items. It also provides a detailed calendar of SJAA activities for May and June 2004, including general meetings, ATM (Amateur Telescope Making) classes, astronomy classes, and various star parties.",
+      "categories": [
+        "Event Report",
+        "Fundraising",
+        "Community News",
+        "Activity Calendar",
+        "Club Newsletter"
+      ],
+      "keywords": [
+        "SJAA",
+        "Annual Auction",
+        "Swap Meet",
+        "Fundraising",
+        "Astronomy Equipment",
+        "Telescopes",
+        "Star Parties",
+        "General Meetings",
+        "ATM Class",
+        "Astronomy Class",
+        "Deep Sky Weekend",
+        "May 2004",
+        "June 2004",
+        "Houge Park",
+        "Robert Gendler",
+        "Ken Croswell"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephmay04a-mooning",
+      "documentId": "ephmay04a",
+      "title": "Mooning",
+      "summary": "The article discusses upcoming celestial events, lamenting that a total lunar eclipse and Venus transit will be largely invisible from the author's location, though the Moon's first quarter will be viewable. It critiques existing lunar maps for being overly complex for beginners and introduces a simple, customizable moon map template to facilitate observation. The author also reviews John Westfall's \"Atlas Of The Lunar Terminator,\" praising it as a good primer for lunar observation despite its dated images.",
+      "categories": [
+        "Astronomy Events",
+        "Lunar Observation",
+        "Astronomy Education",
+        "Observing Guides",
+        "Book Review"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar Eclipse",
+        "Venus Transit",
+        "Lunar Maps",
+        "Beginner Astronomy",
+        "Observing Aids",
+        "Rukl Atlas",
+        "John Westfall",
+        "SJAA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay04a-churning-whitecaps",
+      "documentId": "ephmay04a",
+      "title": "Churning Whitecaps",
+      "summary": "This article provides advanced tips for observing Jupiter, detailing how to spot features like the turbulence around the Great Red Spot, festoons, and the equatorial band, emphasizing the importance of steady seeing and high magnification. It also offers an update on the current visibility of other planets, including Saturn, Mars, Uranus, Neptune, Pluto, and Venus. A significant portion of the article is dedicated to the upcoming, rare Venus transit of the Sun, outlining its visibility zones, rarity, and necessary preparations like solar filters.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Celestial Events",
+        "Amateur Astronomy",
+        "Tips and Techniques"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Festoons",
+        "Equatorial Band",
+        "Venus",
+        "Venus transit",
+        "Planetary observing",
+        "Telescopes",
+        "Magnification",
+        "Solar filter",
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Pluto"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay04a-the-glow-of-creation",
+      "documentId": "ephmay04a",
+      "title": "The Glow of Creation",
+      "summary": "This article details an observing program focused on finding HII regions, or active star-forming areas, within external galaxies during \"galaxy season.\" It provides specific observing notes and descriptions, often drawing from deep-sky expert Steve Gottlieb's logs, for several NGC and IC galaxies across various constellations. The author emphasizes the profound experience of visually identifying these distant \"glows of creation,\" akin to local nebulae, using amateur telescopes.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Astronomy",
+        "Amateur Astronomy",
+        "Galaxies",
+        "Observing Programs"
+      ],
+      "keywords": [
+        "HII regions",
+        "galaxies",
+        "star formation",
+        "observing",
+        "deep-sky",
+        "amateur astronomy",
+        "NGC objects",
+        "IC objects",
+        "telescope",
+        "observing notes",
+        "galaxy season",
+        "Orion Nebula"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay04a-editor-s-semi-dark-matter",
+      "documentId": "ephmay04a",
+      "title": "Editor's Semi-Dark Matter",
+      "summary": "This \"Editor's Semi-Dark Matter\" column provides several updates and requests for reader input on future articles. It announces the May 7 deadline for Project Astro applications and highlights AstroCon 2004. The editor seeks comments for articles exploring amateur astronomers' contributions to the hobby and reviews of astronomy textbooks, while also discussing format and content changes in a special PDF-only issue of the newsletter.",
+      "categories": [
+        "News",
+        "Community",
+        "Editorial",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Project Astro",
+        "Application Deadline",
+        "Amateur Astronomy",
+        "Astronomy Books",
+        "Book Reviews",
+        "AstroCon 2004",
+        "Newsletter Updates",
+        "Reader Contributions",
+        "Observatories"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmay04a-attend-a-conjunction",
+      "documentId": "ephmay04a",
+      "title": "Attend A Conjunction!",
+      "summary": "AstroCon 2004, a \"once-in-a-lifetime conjunction\" of four major astronomical organizations (Astronomical League, AAVSO, ALPO, and ASP), is scheduled for July 20-24, 2004, in the San Francisco Bay Area. The convention will feature sessions, professional speakers, workshops, vendors, and special events including tours of Lick Observatory and Chabot Space & Science Center, an awards banquet, and a closing banquet on the USS Hornet.",
+      "categories": [
+        "events",
+        "conference announcement",
+        "astronomy",
+        "news"
+      ],
+      "keywords": [
+        "AstroCon 2004",
+        "Astronomical League",
+        "American Association of Variable Star Observers",
+        "AAVSO",
+        "Association of Lunar and Planetary Observers",
+        "ALPO",
+        "Astronomical Society of the Pacific",
+        "ASP",
+        "San Francisco Bay Area",
+        "Lick Observatory",
+        "Chabot Space & Science Center",
+        "USS Hornet",
+        "astronomy convention",
+        "amateur astronomy",
+        "professional astronomy",
+        "public outreach"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephmay04a-foothill-college-astronomy-lecture-series",
+      "documentId": "ephmay04a",
+      "title": "Foothill College Astronomy Lecture Series",
+      "summary": "Dr. Yvonne Pendleton of NASA's Ames Research Center will deliver a non-technical, illustrated talk titled \"In the Heat of the Night\" as part of the Foothill College Astronomy Lecture Series. The free lecture will cover the search for infant stars, comets, and the building blocks of life, featuring new images from the Spitzer Telescope. The event will take place at Foothill College in Los Altos Hills, California, with a $2 parking fee.",
+      "categories": [
+        "Events",
+        "Lectures",
+        "Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Foothill College",
+        "Astronomy Lecture Series",
+        "Dr. Yvonne Pendleton",
+        "NASA Ames Research Center",
+        "Infant Stars",
+        "Comets",
+        "Building Blocks of Life",
+        "Spitzer Telescope",
+        "Infrared astronomy",
+        "Star formation",
+        "Planet formation",
+        "Los Altos Hills"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay04a-author-and-astronomer-ken-croswell-to-speak-at-the-may-1st-general-meeting",
+      "documentId": "ephmay04a",
+      "title": "Author and Astronomer Ken Croswell to speak at the May 1st General Meeting",
+      "summary": "Astronomer and author Ken Croswell will be the guest speaker at the SJAA general meeting on May 1st at 8 p.m. at Houge Park. He will discuss his latest book, \"Magnificent Mars,\" showcasing stunning images from various spacecraft to explore Mars' geology, topography, and the potential for ancient life. Croswell's books will be available for sale and autograph at the event.",
+      "categories": [
+        "Events",
+        "Astronomy Lecture",
+        "Guest Speaker",
+        "Club Meeting",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Ken Croswell",
+        "SJAA",
+        "Magnificent Mars",
+        "Mars",
+        "Astronomy",
+        "Hubble Space Telescope",
+        "Planetary Geology",
+        "Life on Mars",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay04a-sjaa-loaner-scope-status",
+      "documentId": "ephmay04a",
+      "title": "SJAA loaner scope status",
+      "summary": "This article provides an update on the San Jose Astronomical Association (SJAA) loaner telescope program, detailing the availability status of various scopes. It lists numerous telescopes immediately available for loan, scopes currently borrowed with their due dates, and those with extended loan periods, some of which are undergoing repair. SJAA members interested in borrowing a scope are instructed to contact Mike Koop, and a waiting list is maintained for popular telescopes.",
+      "categories": [
+        "Club Services",
+        "Equipment Program",
+        "Astronomy Club Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy equipment",
+        "member services",
+        "observing equipment",
+        "Dobsonian",
+        "Newtonian",
+        "refractor"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay04a",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0405/EphMay04A.pdf",
+      "txtPath": "0405/EphMay04A.md"
+    }
+  ]
+}

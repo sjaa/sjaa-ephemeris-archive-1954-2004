@@ -1,0 +1,159 @@
+{
+  "articles": [
+    {
+      "id": "ephoct12-ephemeris",
+      "documentId": "ephoct12",
+      "title": "EPHEMERIS",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) calendar of events for October and November 2012, featuring star parties, astronomy classes, solar observing sessions, telescope tune-ups, and dark-sky weekends. A significant highlight is the \"Messier Half-Marathon\" event on October 13th at Henry Coe Park, an inclusive event challenging participants to locate 50 Messier objects. It serves as an official communication for SJAA members and enthusiasts regarding upcoming astronomical activities.",
+      "categories": [
+        "Events",
+        "Astronomy Club Activities",
+        "Observing",
+        "News",
+        "Calendar"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Calendar",
+        "Star Parties",
+        "Messier Half-Marathon",
+        "Solar Observing",
+        "Dark-Sky Weekends",
+        "Astronomy Classes",
+        "October 2012",
+        "November 2012"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephoct12-the-shallow-sky",
+      "documentId": "ephoct12",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an observing guide for October, detailing the positions of planets like Jupiter, Mercury, Mars, Uranus, Neptune, Pluto, and Venus, along with tips for locating them. It also extensively tracks the current locations and future trajectories of deep-space probes such as Voyager 1 & 2, Pioneer 10 & 11, and New Horizons, discussing their historical context, scientific missions, and the challenges of tracking them. Additionally, the piece includes a letter from the San Jose Astronomical Association president commending local city officials for their support.",
+      "categories": [
+        "Observing Guide",
+        "Space Exploration",
+        "Astronomy News",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Mars",
+        "Voyager 1",
+        "Spacecraft",
+        "Deep Space Probes",
+        "October Sky",
+        "Planetary Observing",
+        "Solar System",
+        "Heliopause",
+        "NASA",
+        "San Jose Astronomical Association",
+        "Mars Curiosity",
+        "Celestial Mechanics",
+        "Copyright"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct12-a-deeper-look-at-sunspots-and-related-magnetic-activity",
+      "documentId": "ephoct12",
+      "title": "A Deeper Look At Sunspots and Related Magnetic Activity",
+      "summary": "This article, \"A Deeper Look At Sunspots, Part 2,\" details the formation of sunspots, explaining how the Sun's differential rotation twists internal magnetic field lines until they buckle and emerge through the photosphere. It describes the 11-year solar cycle, where meridional circulation influences sunspot latitude and duration. Additionally, a \"Last Month In Astronomy\" section summarizes recent discoveries, including findings of sugar molecules around binary stars, the Dawn spacecraft's journey to Ceres, new black hole candidates from WISE, and the discovery of multiple circumbinary planets by Kepler.",
+      "categories": [
+        "Solar Physics",
+        "Observational Astronomy",
+        "Space Missions",
+        "Exoplanets",
+        "Astrobiology",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Sunspots",
+        "Magnetic Field",
+        "Solar Cycle",
+        "Differential Rotation",
+        "Meridional Circulation",
+        "Kepler Mission",
+        "Exosunspots",
+        "Geomagnetic Storm",
+        "Dawn Spacecraft",
+        "Vesta",
+        "Ceres",
+        "ALMA",
+        "Glycolaldehyde",
+        "WISE",
+        "Black Holes",
+        "Circumbinary Planets",
+        "Kepler-47"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct12-if-you-re-reading-this-we-want-you",
+      "documentId": "ephoct12",
+      "title": "If You're Reading This - We Want You!",
+      "summary": "Mark Wagner, President of the SJAA, issues a call to action, encouraging members and visitors to volunteer and get involved with the astronomy club. He highlights several new and successful programs, including solar observing, astro-gear 'Fix-It Day,' an Imaging Special Interest Group, beginner telescope training ('Quick STARt'), and dedicated social time before general meetings. The article emphasizes that the club is flexible, welcoming new ideas and participation to continue growing and offering engaging programs.",
+      "categories": [
+        "Club News",
+        "Membership Drive",
+        "Volunteer Recruitment",
+        "Program Announcements",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Volunteer",
+        "Membership",
+        "Solar Observing",
+        "Fix-It Day",
+        "Imaging SIG",
+        "Quick STARt",
+        "Telescopes",
+        "Astronomy Club",
+        "New Programs",
+        "Community Involvement",
+        "Mark Wagner"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct12-it-must-be-astronomical",
+      "documentId": "ephoct12",
+      "title": "It Must Be Astronomical ...",
+      "summary": "This article commemorates the passing of astronaut Neil Armstrong and highlights an upcoming Bay Area Science Festival. It also provides updates on the San Jose Astronomical Association's (SJAA) revamped telescope loaner program and details statistics and schedules for their school star parties. The document concludes with a list of SJAA officers, staff, and contact information for various programs and publications.",
+      "categories": [
+        "News",
+        "Events",
+        "Club Activities",
+        "Organizational Information",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "Neil Armstrong",
+        "Astronomy",
+        "San Jose Astronomical Association",
+        "Telescope loaner program",
+        "Star parties",
+        "Bay Area Science Festival",
+        "Club officers",
+        "Publication information",
+        "Astronomy education"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1210/EphOct12.pdf",
+      "txtPath": "1210/EphOct12.md"
+    }
+  ]
+}

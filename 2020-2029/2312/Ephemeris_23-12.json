@@ -1,0 +1,338 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-23-12-the-passing-of-an-sjaa-legend",
+      "documentId": "ephemeris-23-12",
+      "title": "The Passing of an SJAA Legend",
+      "summary": "This article is a tribute to Jim Van Nuland, a beloved and long-serving member of the San Jose Amateur Astronomy Association (SJAA), who passed away on September 30, 2023. Jim was instrumental in the SJAA's School Star Party program for decades, introducing astronomy to an estimated 100,000 children, and was a two-time recipient of the club's highest honor, the Gregory Award. Beyond his astronomy contributions, he had a distinguished career at IBM, where he was an early computer programmer and notably warned of the Y2K problem in the 1960s, and served in the US Navy completing scientific tours to Antarctica.",
+      "categories": [
+        "Obituary",
+        "Tribute",
+        "Club History",
+        "Astronomy Outreach",
+        "Community News"
+      ],
+      "keywords": [
+        "Jim Van Nuland",
+        "San Jose Amateur Astronomy Association",
+        "SJAA",
+        "Astronomy Outreach",
+        "School Star Party Program",
+        "Amateur Astronomy",
+        "IBM",
+        "Computer Science",
+        "Y2K problem",
+        "Gregory Award",
+        "Houge Park"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-23-12-our-annual-report-to-the-city-of-san-jose",
+      "documentId": "ephemeris-23-12",
+      "title": "Our Annual Report to the City of San Jose",
+      "summary": "This annual report details the activities and achievements from October 2022 to September 2023 submitted to the City of San Jose. Key accomplishments include establishing internet for hybrid programs, fully operationalizing QuickStart and loaner programs, and implementing satisfaction surveys, which reported 100% participant satisfaction across various astronomy events. The report also notes facility issues like poor ventilation and a lack of air conditioning.",
+      "categories": [
+        "Annual Report",
+        "Program Report",
+        "Community Outreach",
+        "Performance Review",
+        "Astronomy Programs"
+      ],
+      "keywords": [
+        "San Jose",
+        "Annual Report",
+        "Program Accomplishments",
+        "Community Programs",
+        "Satisfaction Surveys",
+        "Hybrid Lectures",
+        "QuickStart Program",
+        "Loaner Program",
+        "School Star Party",
+        "Solar Viewing",
+        "In Town Star Party",
+        "Astronomy Education",
+        "Facility Issues"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-23-12-sample-comments-for-astronomy-101-intro-to-astronomy",
+      "documentId": "ephemeris-23-12",
+      "title": "Sample Comments for Astronomy 101/Intro to Astronomy:",
+      "summary": "This document compiles positive feedback from attendees of Astronomy 101/Intro to Astronomy lectures and Speaker Night/General Meetings. Comments highlight engaging speakers, accessible content, well-organized events, and enjoyable topics such as science at Lick Observatory, gravity waves, and eclipse photography. It also acknowledges individuals responsible for collecting event data and includes details and a photo from a Lick Observatory speaker event.",
+      "categories": [
+        "feedback",
+        "event reports",
+        "public outreach",
+        "acknowledgments"
+      ],
+      "keywords": [
+        "Astronomy 101",
+        "Intro to Astronomy",
+        "Speaker Night",
+        "General Meeting",
+        "Lick Observatory",
+        "Dr. Elinor Gates",
+        "event feedback",
+        "lectures",
+        "presentations",
+        "event organization",
+        "public engagement",
+        "eclipse photography",
+        "gravity waves"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-23-12-scientific-process-at-work-and-the-formation-of-our-solar-system",
+      "documentId": "ephemeris-23-12",
+      "title": "Scientific Process At Work and The Formation Of Our Solar System",
+      "summary": "This article outlines the historical progression of scientific understanding, using the development of our knowledge of planetary motion (from Copernicus to Kepler and Galileo) as an example of the scientific process. It then applies this process to the formation of our Solar System, describing the Nebular Hypothesis proposed by Kant and Laplace, which posits that the Solar System formed from gravitationally compacting supernova debris. The piece concludes by emphasizing that scientific understanding is continuously refined through ongoing observation, data collection, and theory revision.",
+      "categories": [
+        "Scientific Process",
+        "History of Science",
+        "Astronomy",
+        "Solar System Formation",
+        "Education"
+      ],
+      "keywords": [
+        "Scientific Process",
+        "Solar System Formation",
+        "Nebular Hypothesis",
+        "Copernicus",
+        "Tycho Brahe",
+        "Johannes Kepler",
+        "Galileo",
+        "Immanuel Kant",
+        "Pierre-Simon Laplace",
+        "Planetary Motion",
+        "Theories",
+        "Observations",
+        "Data Collection",
+        "Supernovas"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-23-12-on-the-road-annular-eclipse-viewing-from-battle-mountain-nevada",
+      "documentId": "ephemeris-23-12",
+      "title": "On the Road: Annular Eclipse Viewing From Battle Mountain Nevada",
+      "summary": "This article recounts the experience of a small group from the SJAA who traveled to Battle Mountain, Nevada, to view the annular solar eclipse on October 14. Despite initial concerns about lodging and a completely cloudy morning, the group successfully viewed the 4 minutes and 18 seconds of annularity thanks to breaks in the clouds. The report highlights the shared viewing experience and offers a reminder about the upcoming total solar eclipse in April 2024.",
+      "categories": [
+        "observing report",
+        "solar eclipse",
+        "event recap",
+        "travelogue",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "annular solar eclipse",
+        "October 14",
+        "Battle Mountain Nevada",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "eclipse viewing",
+        "weather challenges",
+        "solar filters",
+        "binoculars",
+        "total solar eclipse 2024"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-23-12-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-23-12",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "The article presents the 'SJAA Member Astrophoto Gallery,' showcasing astrophotography submissions from various members. Each entry includes details such as the celestial object photographed, the photographer's name, capture dates, location, and the specific imaging telescope, camera, mount, and software used. Featured images include a Partial Solar Eclipse, the Flying Bat and Squid Nebula, M33 LRGBHa, and LBN-576.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Observing Reports",
+        "Technical Details"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophoto Gallery",
+        "Partial Solar Eclipse",
+        "Flying Bat and Squid Nebula",
+        "M33",
+        "LBN-576",
+        "Imaging Telescope",
+        "Imaging Camera",
+        "Mount",
+        "Software",
+        "Astrophotography Equipment",
+        "Celestial Objects"
+      ],
+      "pageStart": 9,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-23-12-reports-from-the-oct-14th-partial-eclipse-event",
+      "documentId": "ephemeris-23-12",
+      "title": "Reports from the Oct 14th Partial Eclipse Event",
+      "summary": "The San Jose Astronomical Association (SJAA) successfully hosted a public viewing of the October 14th partial solar eclipse at Houge Park, attracting approximately 300 attendees. Despite initial cloud cover, participants enjoyed views through eclipse glasses and multiple telescopes, with additional features like live streams from annularity paths and a scale model. The event, made possible by numerous volunteers, garnered overwhelmingly positive feedback for its engaging and welcoming atmosphere.",
+      "categories": [
+        "Event Report",
+        "Public Outreach",
+        "Astronomy Observation",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Partial Solar Eclipse",
+        "Public Viewing Event",
+        "San Jose",
+        "SJAA",
+        "Houge Park",
+        "Volunteers",
+        "Telescopes",
+        "Eclipse Glasses",
+        "Live Streaming",
+        "Community Feedback",
+        "Solar Observation",
+        "Annular Eclipse"
+      ],
+      "pageStart": 13,
+      "pageEnd": 17
+    },
+    {
+      "id": "ephemeris-23-12-kid-spot",
+      "documentId": "ephemeris-23-12",
+      "title": "Kid Spot",
+      "summary": "DarkSky International, formerly known as the International Dark-Sky Association (IDA), continues its crucial work in combating light pollution and raising awareness about the importance of dark skies. The organization reported significant accomplishments in 2023, including certifying ten new International Dark Sky Places globally and expanding its international presence through new chapters. DarkSky International actively educates the public through partnerships and initiatives like its monthly 'Night Matters' presentations, which promote dark sky advocacy and related fields such as astrotourism.",
+      "categories": [
+        "Organizational Update",
+        "Environmental Conservation",
+        "Light Pollution",
+        "Astronomy Education",
+        "Astrotourism"
+      ],
+      "keywords": [
+        "DarkSky International",
+        "IDA",
+        "Light Pollution",
+        "Dark Sky Places",
+        "Astrotourism",
+        "International Dark Sky Week",
+        "Night Matters",
+        "Environmental Advocacy",
+        "Michael Marlin",
+        "Stargazing"
+      ],
+      "pageStart": 17,
+      "pageEnd": 18
+    },
+    {
+      "id": "ephemeris-23-12-from-the-board-of-directors",
+      "documentId": "ephemeris-23-12",
+      "title": "From the Board of Directors",
+      "summary": "The article announces upcoming board member elections in February 2024 and officer elections (President, Vice-President, Treasurer, Secretary) in March 2024, inviting interested members to contact the Secretary for details. It also lists open volunteer positions and encourages members to join the organization's Meetup and Google groups for community engagement. The February 24th meeting is highlighted as an annual Elections and Member Recognition Pot-Luck event open to members, family, and friends.",
+      "categories": [
+        "Organizational",
+        "Elections",
+        "Events",
+        "Membership",
+        "Volunteering",
+        "Announcements"
+      ],
+      "keywords": [
+        "board elections",
+        "officer elections",
+        "President",
+        "Vice-President",
+        "Treasurer",
+        "Secretary",
+        "open positions",
+        "volunteer",
+        "SJAA",
+        "Meetup",
+        "Google group",
+        "member recognition",
+        "pot-luck",
+        "February 2024",
+        "March 2024",
+        "Astronomy 101",
+        "Guest Speaker program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-23-12-board-meeting-excerpts",
+      "documentId": "ephemeris-23-12",
+      "title": "Board Meeting Excerpts",
+      "summary": "The San Jose Astronomical Association (SJAA) board held several meetings in Q4 2023, making key decisions on organizational matters. These included approving funds for solar programs and an eclipse event, adopting a new Lifetime Membership Policy, and officially approving the 2024 SJAA Calendar. The board also oversaw a transition in Meetup ownership, approved a website hosting migration, appointed a new Fixit program coordinator, and noted a board resignation.",
+      "categories": [
+        "Board Meetings",
+        "Organizational Governance",
+        "Financial Approvals",
+        "Event Planning",
+        "Policy Development",
+        "Personnel Updates",
+        "Website Management",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Solar Program",
+        "Annular Eclipse",
+        "Houge Park",
+        "KIPAC",
+        "Minors Policy",
+        "Lifetime Memberships",
+        "2024 Calendar",
+        "Meetup",
+        "Website Hosting",
+        "SiteGround",
+        "Fixit Program",
+        "Organizational Changes"
+      ],
+      "pageStart": 18,
+      "pageEnd": 19
+    },
+    {
+      "id": "ephemeris-23-12-sjaa-library",
+      "documentId": "ephemeris-23-12",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a comprehensive range of programs and resources for its members and the community, designed to make astronomy accessible and engaging. These include a library, free telescope repair services, and various educational initiatives like the Quick STARt program and Intro to the Night Sky sessions. Additionally, SJAA provides equipment loaners, hosts solar observing and astrophotography groups/workshops, and conducts school star parties for community outreach.",
+      "categories": [
+        "Educational Programs",
+        "Community Services",
+        "Observing Events",
+        "Special Interest Groups",
+        "Equipment Resources",
+        "Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Programs",
+        "Telescope Repair",
+        "Solar Observing",
+        "Beginner Astronomy",
+        "Astrophotography",
+        "Equipment Loaner",
+        "Star Parties",
+        "Library",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-23-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2312/Ephemeris_23-12.pdf",
+      "txtPath": "2312/Ephemeris_23-12.md"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "articles": [
+    {
+      "id": "ephjan02-aussie-outback-meteors",
+      "documentId": "ephjan02",
+      "title": "Aussie Outback Meteors",
+      "summary": "The article features two distinct accounts of observing the spectacular Leonid meteor shower in November 2001. One report details a collaborative observation effort in the Australian Outback with NASA volunteers, where real-time meteor counts were conducted by amateur astronomers. The second describes a personal experience at Fremont Peak State Park, where the observer used specialized video equipment to capture the celestial display, highlighting the shower's intensity and beauty as an unforgettable event.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Event",
+        "Amateur Astronomy",
+        "Astronomical Society Activities",
+        "Meteor Shower"
+      ],
+      "keywords": [
+        "Leonid Meteor Shower",
+        "2001",
+        "Meteor Observation",
+        "Australian Outback",
+        "Fremont Peak State Park",
+        "NASA",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Star Party",
+        "Astronomical Societies"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan02-mooning",
+      "documentId": "ephjan02",
+      "title": "Mooning",
+      "summary": "This article offers an observing guide for amateur astronomers in January 2002, particularly targeting new telescope owners. It provides detailed advice for observing the Moon, emphasizing its suitability for beginners, explaining concepts like earthshine and the terminator, and dispelling common myths. Additionally, it outlines prime planetary observing opportunities, highlighting Jupiter's opposition for detailed views of its features and moons, Saturn's optimal ring tilt, and mentions for Mercury and Mars, while noting other planets are largely unobservable.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Celestial Events",
+        "Telescope Tips"
+      ],
+      "keywords": [
+        "Moon observing",
+        "Jupiter",
+        "Saturn",
+        "New telescopes",
+        "Earthshine",
+        "Terminator",
+        "Planetary opposition",
+        "Lunar occultation",
+        "January 2002"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan02-lecture-on-mars-exploration-january-23-at-foothill-college",
+      "documentId": "ephjan02",
+      "title": "Lecture on Mars Exploration January 23 at Foothill College",
+      "summary": "Dr. Scott Hubbard of NASA's Ames Research Center will deliver an illustrated lecture titled \"Following the Water: The New Program for Mars Exploration\" on January 23rd at Foothill College. This free public event, part of the Silicon Valley Astronomy Lecture Series, will cover new discoveries about Mars, evidence of past water, the potential for life, and future exploration missions. Dr. Hubbard, a key figure in Mars exploration and astrobiology, will share insights into the search for water on the red planet.",
+      "categories": [
+        "Event Announcement",
+        "Public Lecture",
+        "Astronomy",
+        "Space Exploration",
+        "Science Education"
+      ],
+      "keywords": [
+        "Mars Exploration",
+        "Scott Hubbard",
+        "NASA Ames Research Center",
+        "Foothill College",
+        "Silicon Valley Astronomy Lecture Series",
+        "Mars program",
+        "Water on Mars",
+        "Astrobiology",
+        "Mars Pathfinder",
+        "Mars Odyssey",
+        "Lunar Prospector",
+        "Public event",
+        "Los Altos Hills"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan02-sjaa-loaner-scope-status",
+      "documentId": "ephjan02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article outlines the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program for its members. It provides detailed lists of telescopes currently available for immediate loan, those recently loaned out with due dates, and scopes on extended loan. Members interested in borrowing equipment, including various types of telescopes and a star spectroscope, are instructed to contact Mike Koop, with a waiting list also mentioned for popular models.",
+      "categories": [
+        "Club Announcement",
+        "Member Services",
+        "Equipment Listing",
+        "Program Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Astronomy Equipment",
+        "Dobsonian",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Star Spectroscope",
+        "Member Benefits",
+        "Scope Availability",
+        "Loan Status"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0201/EphJan02.pdf",
+      "txtPath": "0201/EphJan02.md"
+    }
+  ]
+}

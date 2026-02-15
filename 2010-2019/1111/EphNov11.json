@@ -1,0 +1,235 @@
+{
+  "articles": [
+    {
+      "id": "ephnov11-the-unusual-making-of-a-planet",
+      "documentId": "ephnov11",
+      "title": "The (Unusual) Making of a Planet",
+      "summary": "The article discusses the discovery of an unusual exoplanet, nicknamed \"The Diamond Planet,\" orbiting the millisecond pulsar PSR J1719-1438. This planet, roughly Jupiter-sized but 20 times its mass and likely composed of crystallized carbon, challenges conventional definitions of planets due to its exotic formation from a former white dwarf. The discovery, reported in Science magazine, prompts a reconsideration of planetary classification as astronomical instruments detect diverse objects in extreme environments.",
+      "categories": [
+        "Exoplanets",
+        "Astrophysics",
+        "Planetary Science",
+        "Scientific Discovery",
+        "Pulsars"
+      ],
+      "keywords": [
+        "Pulsar planet",
+        "Diamond Planet",
+        "PSR J1719-1438",
+        "Exoplanet definition",
+        "Carbon white dwarf",
+        "Millisecond pulsar",
+        "Planetary formation",
+        "Science magazine",
+        "Frederic Rasio"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "ephnov11-contact-the-reel-and-the-real-humanity-s-search-for-extra-terrestrial-intelligence",
+      "documentId": "ephnov11",
+      "title": "Contact (The Reel and the Real): Humanity's Search for Extra-terrestrial Intelligence",
+      "summary": "The article announces a special evening event featuring a screening of the film \"Contact,\" followed by a talk and Q&A session with Dr. Jill Tarter of the SETI Institute. Dr. Tarter, whose work inspired the film's main character, will discuss her ongoing efforts to search for extra-terrestrial intelligence. The free event is co-sponsored by SF State's Department of Physics and Astronomy and is open to the public.",
+      "categories": [
+        "Events",
+        "Public Lecture",
+        "Film Screening",
+        "Astronomy",
+        "SETI",
+        "News"
+      ],
+      "keywords": [
+        "Contact (film)",
+        "Jill Tarter",
+        "SETI Institute",
+        "Extra-terrestrial Intelligence",
+        "San Francisco State University",
+        "Andrew Fraknoi",
+        "Science Fiction",
+        "Radio Signals"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov11-the-shallow-sky",
+      "documentId": "ephnov11",
+      "title": "The Shallow Sky",
+      "summary": "This article provides an observing guide for November, highlighting excellent views of Jupiter, along with Mercury, Venus, Mars, Saturn, Uranus, and Neptune. It also discusses recent scientific news from the Messenger and Dawn missions, revealing extensive flood basalts on Mercury and Vesta, drawing parallels to the Moon's maria and terrestrial volcanic features. The author encourages observers to look for \"ghost craters\" on the Moon as observable examples of lava-filled formations.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy News",
+        "Planetary Science",
+        "Lunar Observation",
+        "Geology"
+      ],
+      "keywords": [
+        "November Sky",
+        "Mercury",
+        "Jupiter",
+        "Flood Basalts",
+        "Vesta",
+        "Moon Craters",
+        "Planetary Observation",
+        "Spacecraft Missions",
+        "Amateur Astronomy",
+        "Daylight Savings Time",
+        "Messenger",
+        "Dawn"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephnov11-nasa-space-place",
+      "documentId": "ephnov11",
+      "title": "NASA Space Place",
+      "summary": "The article \"The Gray Cubicle You Want to Work In\" vividly portrays the diverse and exciting work conducted daily at NASA. It contrasts the mundane office environment with thrilling tasks like observing supernovas, analyzing global climate trends, troubleshooting spacecraft, and funding new robotic missions. The piece highlights that NASA careers, regardless of the office setting, involve a broad spectrum of scientific and technical expertise dedicated to studying Earth, the solar system, and the universe.",
+      "categories": [
+        "Science Communication",
+        "Careers in Space",
+        "NASA Activities"
+      ],
+      "keywords": [
+        "NASA",
+        "careers",
+        "space exploration",
+        "science",
+        "astronomy",
+        "engineering",
+        "supernova",
+        "Hubble",
+        "climate analysis",
+        "solar flares",
+        "robotic spacecraft"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephnov11-last-general-meeting",
+      "documentId": "ephnov11",
+      "title": "Last General Meeting",
+      "summary": "The article reports on the SJAA's last general meeting, held on October 8, 2011, featuring Dr. Puragra Guhathakurta discussing galaxy formation, and announces upcoming speakers for November, December, and January. It also provides an overview of NASA's Science Mission Directorate (SMD), detailing its four main research areas (Earth Science, Heliophysics, Astrophysics, Planetary Science) and the wide array of professionals needed for its diverse mission.",
+      "categories": [
+        "Meeting Report",
+        "Event Announcement",
+        "Astronomy News",
+        "Space Science",
+        "NASA Information",
+        "Science Outreach"
+      ],
+      "keywords": [
+        "SJAA General Meeting",
+        "Galaxy Formation",
+        "Lick Observatory",
+        "NASA Science Mission Directorate",
+        "Earth Science",
+        "Heliophysics",
+        "Astrophysics",
+        "Planetary Science",
+        "Hubble Space Telescope",
+        "Extreme Environments",
+        "Search for Life",
+        "Universe Evolution"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov11-the-last-month-in-astronomy",
+      "documentId": "ephnov11",
+      "title": "The Last Month in Astronomy",
+      "summary": "Recent astronomical news highlights new calculations for Neptune's day and theories regarding Uranus's tilt, alongside evidence from comet Hartley 2 suggesting Kuiper Belt objects delivered water to Earth. Major discoveries include the first directly imaged multi-exoplanet system and the 'Tatooine-like' circumbinary planet Kepler-16b. The month also featured the Nobel Prize for the discovery of the universe's accelerating expansion and impressive initial images from the new ALMA observatory.",
+      "categories": [
+        "Planetary Science",
+        "Exoplanets",
+        "Cosmology",
+        "Observational Astronomy",
+        "Space Missions",
+        "Awards"
+      ],
+      "keywords": [
+        "Neptune",
+        "Uranus",
+        "Exoplanets",
+        "Hubble Space Telescope",
+        "Kuiper Belt",
+        "Comets",
+        "Accelerating Universe",
+        "Dark Energy",
+        "Nobel Prize",
+        "ALMA",
+        "Near-Earth Asteroids",
+        "Kepler Space Telescope",
+        "Circumbinary Planet"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov11-alma",
+      "documentId": "ephnov11",
+      "title": "ALMA",
+      "summary": "This article introduces the ALMA observatory, highlighting an ALMA submillimeter image combined with a Hubble Space Telescope visible light image. It details the ALMA installation, mentioning the planned 66 antennae and explaining how increasing their separation up to 16 km will significantly boost image resolution. Photo credits for the images are also provided.",
+      "categories": [
+        "Observatory Description",
+        "Astronomy",
+        "Telescopes",
+        "Instrumentation",
+        "News"
+      ],
+      "keywords": [
+        "ALMA",
+        "Hubble Space Telescope",
+        "Submillimeter",
+        "Electromagnetic spectrum",
+        "Antennae",
+        "Resolution",
+        "NRAO",
+        "ESO",
+        "NAOJ"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephnov11-it-must-be-astronomical",
+      "documentId": "ephnov11",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article highlights the San Jose Astronomical Association's (SJAA) activities, including acknowledgments for contributors to its 'Ephemeris' newsletter and an update on their successful School Star Parties program with both completed and scheduled events. It announces a temporary hiatus for the Silicon Valley Astronomy Lecture Series due to facility renovations and promotes the club's telescope loaner program for members. The document concludes with organizational contact information, officer listings, and publication details for the monthly newsletter.",
+      "categories": [
+        "Newsletter updates",
+        "Event reports",
+        "Outreach programs",
+        "Organizational news",
+        "Member services",
+        "Club information"
+      ],
+      "keywords": [
+        "SJAA Ephemeris newsletter",
+        "San Jose Astronomical Association",
+        "School Star Parties",
+        "Silicon Valley Astronomy Lecture Series",
+        "SVALS",
+        "Astronomy outreach",
+        "Telescope loaner program",
+        "Amateur astronomy",
+        "Club news",
+        "Event statistics"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1111/EphNov11.pdf",
+      "txtPath": "1111/EphNov11.md"
+    }
+  ]
+}

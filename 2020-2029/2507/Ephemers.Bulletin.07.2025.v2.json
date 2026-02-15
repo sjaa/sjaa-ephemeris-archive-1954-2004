@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "id": "ephemers-bulletin-07-2025-v2-sjaa-ephemeris-bulletin-july-2025",
+      "documentId": "ephemers-bulletin-07-2025-v2",
+      "title": "SJAA Ephemeris Bulletin: July 2025",
+      "summary": "The SJAA Ephemeris Bulletin for July 2025 features Saturn's current southern hemisphere viewing period and highlights the Eagle Nebula (M16) as the 'Target of the Month,' including detailed observing notes and an astrophotography example. The bulletin also outlines numerous club announcements, volunteer opportunities, educational programs like Astro 101, and a comprehensive calendar of celestial events, meetings, and star parties for the month.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guide",
+        "Club News",
+        "Astronomical Calendar",
+        "Events",
+        "Education",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "SJAA",
+        "July 2025",
+        "Saturn",
+        "Eagle Nebula",
+        "M16",
+        "NGC 6611",
+        "Pillars of Creation",
+        "Star Parties",
+        "Astro 101",
+        "Volunteer Opportunities",
+        "Moon Phases",
+        "Celestial Events",
+        "Southern Delta Aquariid Meteor Shower",
+        "Observing Targets",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemers-bulletin-07-2025-v2",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2507/Ephemers.Bulletin.07.2025.v2.pdf",
+      "txtPath": "2507/Ephemers.Bulletin.07.2025.v2.md"
+    }
+  ]
+}

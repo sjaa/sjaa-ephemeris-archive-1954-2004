@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "id": "ephemers-bulletin-08-2025-sjaa-ephemeris-bulletin",
+      "documentId": "ephemers-bulletin-08-2025",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The August 2025 SJAA Ephemeris Bulletin from the San Jose Astronomical Association emphasizes its mission of public astronomical education and outreach through various star parties, including events at national parks. It presents Messier 20, the Trifid Nebula, as the \"Target of the Month,\" offering detailed descriptive and observational information for amateur astronomers. The bulletin also features an announcement for a public star party at Grant Ranch and a general call for volunteers to support SJAA's diverse activities.",
+      "categories": [
+        "News",
+        "Events",
+        "Outreach",
+        "Observing Guide",
+        "Astronomical Education",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Parties",
+        "Astronomical Outreach",
+        "Trifid Nebula (M20)",
+        "Observing Guide",
+        "Volunteer Opportunities",
+        "Astronomy Events",
+        "Night Sky Observation",
+        "Public Education",
+        "Sagittarius"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemers-bulletin-08-2025",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2508/Ephemers.Bulletin.08.2025.pdf",
+      "txtPath": "2508/Ephemers.Bulletin.08.2025.md"
+    }
+  ]
+}

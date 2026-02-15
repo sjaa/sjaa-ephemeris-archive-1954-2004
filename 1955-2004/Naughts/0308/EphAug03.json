@@ -1,0 +1,236 @@
+{
+  "articles": [
+    {
+      "id": "ephaug03-starblast",
+      "documentId": "ephaug03",
+      "title": "StarBlast",
+      "summary": "This article recounts an observing session at Fremont Peak where a 9-year-old, Larissa, was introduced to stargazing using a StarBlast telescope. With some guidance, she successfully located and observed 13 deep-sky objects, including several galaxies, nebulae, and star clusters. The latter part of the article provides brief observing notes for several other celestial objects like open clusters, a spiral galaxy, and a planetary nebula.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Outreach",
+        "Deep Sky Objects",
+        "Telescope Experience"
+      ],
+      "keywords": [
+        "StarBlast telescope",
+        "Fremont Peak",
+        "Stargazing",
+        "Deep-sky observing",
+        "Galaxies",
+        "Nebulae",
+        "Star clusters",
+        "Star-hopping",
+        "Astronomy education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug03-mid-summer-milky-way-meanderings",
+      "documentId": "ephaug03",
+      "title": "Mid-summer Milky Way meanderings",
+      "summary": "This article encourages amateur astronomers to utilize the good mid-summer observing conditions by exploring a specific swath of the Milky Way, detailing various deep-sky objects. It provides practical observing notes for double stars, open clusters, galaxies, globular clusters, and planetary nebulae across constellations like Cepheus, Cygnus, and Aquarius. Additionally, the piece reminds readers about the upcoming CalStar star party and includes directions to a local observing site.",
+      "categories": [
+        "observing guide",
+        "deep-sky astronomy",
+        "amateur astronomy",
+        "event announcement",
+        "practical astronomy"
+      ],
+      "keywords": [
+        "mid-summer observing",
+        "Milky Way",
+        "deep-sky objects",
+        "double stars",
+        "open clusters",
+        "galaxies",
+        "planetary nebulae",
+        "globular clusters",
+        "Cepheus",
+        "Cygnus",
+        "Pegasus",
+        "Aquarius",
+        "Vulpecula",
+        "Delphinus",
+        "Lacerta",
+        "CalStar",
+        "star party",
+        "telescope viewing",
+        "NGC 7009",
+        "Saturn Nebula",
+        "NGC 7331"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephaug03-tim-thompson-to-speak-at-the-august-sjaa-meeting",
+      "documentId": "ephaug03",
+      "title": "Tim Thompson to speak at the August SJAA meeting.",
+      "summary": "The San Jose Astronomical Association (SJAA) announced that Tim Thompson of the Los Angeles Astronomical Society will be the guest speaker at their August 9, 2003 meeting. His talk, \"Astrophysics, cosmology, and the age of the universe,\" will explore how stellar evolution, classical cosmology, and modern cosmology independently converge on an age of approximately 14 billion years for the universe.",
+      "categories": [
+        "Meeting Announcement",
+        "Astronomical Society",
+        "Science Talk",
+        "Astronomy Event"
+      ],
+      "keywords": [
+        "Tim Thompson",
+        "SJAA",
+        "August 2003",
+        "Astrophysics",
+        "Cosmology",
+        "Age of the Universe",
+        "Stellar Evolution",
+        "Expanding Universe",
+        "Cosmic Background Radiation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephaug03-why-you-see-spots",
+      "documentId": "ephaug03",
+      "title": "Why you see spots",
+      "summary": "The article explains the phenomenon of bright spots and halos on the Moon, addressing a reader's question about features near craters like Cayley and Dionysius. Author Dave North attributes these features to impacts exposing lighter, silicon-rich subsurface material that naturally floats above denser, darker layers, or through the formation of ejecta blankets. He also explores complex scenarios involving volcanic flows that can further enhance the brightness of these exposed or trapped silicic materials.",
+      "categories": [
+        "Astronomy Education",
+        "Lunar Geology",
+        "Column"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar geology",
+        "Bright spots",
+        "Craters",
+        "Ejecta blanket",
+        "Silicic material",
+        "Volcanic flows",
+        "Impacts",
+        "Astronomy observation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug03-the-shallow-sky",
+      "documentId": "ephaug03",
+      "title": "The shallow sky",
+      "summary": "This article discusses the highly anticipated Mars opposition in August 2003, the closest in 73,000 years, noting early concerns about dust storm activity over Hellas but offering tips for optimal viewing, including filter use and resources for Mars maps and software. It also announces upcoming SJAA star parties at Coyote Park in August and September 2003, inviting the public to observe through telescopes. Brief updates on the visibility of other planets are also provided.",
+      "categories": [
+        "Observing Report",
+        "Astronomy News",
+        "Events",
+        "Technical",
+        "Resources"
+      ],
+      "keywords": [
+        "Mars opposition",
+        "Mars",
+        "dust storm",
+        "Hellas",
+        "August 2003",
+        "Akkana Peck",
+        "SJAA",
+        "star parties",
+        "Coyote Park",
+        "celestial events",
+        "planet viewing",
+        "Mars maps",
+        "telescope observation",
+        "filters"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephaug03-calstar-2003",
+      "documentId": "ephaug03",
+      "title": "CalStar 2003",
+      "summary": "CalStar 2003, an annual end-of-season star party hosted by the SJAA, is scheduled for September 25-27, 2003, at Lake San Antonio. The event focuses solely on astronomy and camaraderie, without formal speakers or prizes. Attendees can find accommodation options ranging from campsites to rental cabins, with a park fee of $32.00 per vehicle for the three nights.",
+      "categories": [
+        "event announcement",
+        "observing event",
+        "astronomy club news"
+      ],
+      "keywords": [
+        "CalStar 2003",
+        "star party",
+        "Lake San Antonio",
+        "SJAA",
+        "astronomy",
+        "observing event",
+        "camping"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug03-board-meeting-synopsis",
+      "documentId": "ephaug03",
+      "title": "Board meeting synopsis",
+      "summary": "The SJAA board of directors held a meeting on June 14, outlining future club activities including a lunar eclipse star party on November 8 and Mars star parties in late August or early September. Key administrative updates included the plan to digitize all SJAA Ephemeris issues for the club's 50th anniversary, the appointment of Jim Bartolini as CalStar Czar, and Jack Zeiders being granted a life membership.",
+      "categories": [
+        "Board Meeting Synopsis",
+        "Club Activities",
+        "Events",
+        "Announcements",
+        "Club Administration"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Lunar Eclipse",
+        "Star Party",
+        "Mars",
+        "Coyote Lake Park",
+        "50th Anniversary",
+        "Ephemeris",
+        "Volunteers",
+        "CalStar Czar",
+        "Jim Bartolini",
+        "Jack Zeiders",
+        "Life Membership",
+        "Astronomy Club"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug03-sjaa-loaner-scope-status",
+      "documentId": "ephaug03",
+      "title": "SJAA loaner scope status",
+      "summary": "This article details the status of the San Jose Astronomical Association (SJAA) loaner telescope program, providing a list of scopes currently available to members, those recently loaned out, and those on extended loan. It includes contact information for Mike Koop to facilitate borrowing and mentions a waiting list for popular equipment. The document serves as an internal update for SJAA members regarding the availability of astronomical equipment.",
+      "categories": [
+        "Club Services",
+        "Observing Equipment",
+        "Internal Communication",
+        "Program Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomical equipment",
+        "members",
+        "availability",
+        "Dobson",
+        "Refractor",
+        "Newt/P Mount",
+        "Schmidt-Cassegrain",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0308/EphAug03.pdf",
+      "txtPath": "0308/EphAug03.md"
+    }
+  ]
+}

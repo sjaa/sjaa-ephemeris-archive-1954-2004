@@ -1,0 +1,324 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1912-sjaa-turns-65",
+      "documentId": "ephemeris-1912",
+      "title": "SJAA Turns 65",
+      "summary": "The San Jose Astronomical Association (SJAA) celebrates its 65th anniversary in 2019, reflecting on its enduring mission to inspire public curiosity in astronomy and science. The article highlights the invaluable role of dedicated volunteers in providing direct, awe-inspiring experiences that combat the dilution of digital viewing, offering educational events and access to telescopes. It expresses gratitude to its community, including members, volunteers, and the City of San Jose, while encouraging participation to ensure its continued legacy for future generations.",
+      "categories": [
+        "Organizational News",
+        "Anniversary",
+        "Community Outreach",
+        "Astronomy Club",
+        "Volunteerism",
+        "Editorial/Reflection"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "65th Anniversary",
+        "Astronomy",
+        "Science",
+        "Public Outreach",
+        "Volunteers",
+        "Telescope Loaner program",
+        "Community",
+        "Non-profit",
+        "San Jose",
+        "Curiosity",
+        "Inspiration",
+        "Space Exploration"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1912-current-open-positions",
+      "documentId": "ephemeris-1912",
+      "title": "Current Open Positions",
+      "summary": "The San Jose Astronomical Association (SJAA), an entirely volunteer-run organization, is actively seeking motivated individuals to fill several open positions. These roles include a Volunteer Coordinator to manage volunteer tasks and communication, an SJAA Liaison & Outreach Coordinator to handle collaboration requests and event participation, and an Ephemeris Content Editor to develop content for the quarterly newsletter.",
+      "categories": [
+        "volunteer opportunities",
+        "club operations",
+        "organization news",
+        "recruitment"
+      ],
+      "keywords": [
+        "SJAA",
+        "volunteer",
+        "open positions",
+        "Volunteer Coordinator",
+        "Liaison & Outreach Coordinator",
+        "Ephemeris Content Editor",
+        "astronomy club",
+        "non-profit",
+        "newsletter",
+        "community events",
+        "club management"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1912-introducing-the-new-additions-gerry-joyce-and-peter-melhus",
+      "documentId": "ephemeris-1912",
+      "title": "Introducing the new additions Gerry Joyce and Peter Melhus",
+      "summary": "This article introduces Gerry Joyce as the new Vice-President and Peter Melhus as a new Board Member for SJAA. Gerry, an active astrophotographer and docent since joining in 2016, aims to connect the public with SJAA's functions. Peter, a member since 2018, brings extensive professional and non-profit board experience, hoping to apply his governance skills while pursuing his lifelong interest in astronomy.",
+      "categories": [
+        "News",
+        "Organizational Update",
+        "Member Profile",
+        "Leadership"
+      ],
+      "keywords": [
+        "Gerry Joyce",
+        "Peter Melhus",
+        "SJAA",
+        "Vice-President",
+        "Board Member",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Governance",
+        "Santa Clara Valley Open Space Authority",
+        "Lick Observatory"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1912-fall-swap-meet",
+      "documentId": "ephemeris-1912",
+      "title": "Fall Swap Meet",
+      "summary": "The SJAA held its annual Fall Swap Meet on October 13, 2018, at Houge Park Hall, raising over $500 in donations. The next swap meet is tentatively scheduled for March 29, 2020, and members are advised to check the SJAA website for updates. The article also extends holiday wishes for the New Year 2020.",
+      "categories": [
+        "Event Report",
+        "Event Announcement",
+        "Club News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Swap Meet",
+        "Fall Swap Meet",
+        "Donations",
+        "Houge Park Hall",
+        "Happy Holidays",
+        "New Year 2020"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1912-transit-of-mercury-across-the-sun",
+      "documentId": "ephemeris-1912",
+      "title": "Transit Of Mercury Across the Sun",
+      "summary": "SJAA hosted a well-attended event on November 11th, Veterans Day, to observe the transit of Mercury across the Sun at Houge Park. Approximately 200 people, including many children, gathered to view the rare celestial event using 15-20 solar telescopes and binoculars, while enjoying refreshments. The article also notes that the next Mercury transit visible in North America is not expected until 2049.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy",
+        "Solar Observing"
+      ],
+      "keywords": [
+        "Mercury Transit",
+        "Solar Observing",
+        "SJAA",
+        "Houge Park",
+        "November 11",
+        "Veterans Day",
+        "Telescopes",
+        "Astronomy Event"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1912-voyager-2-illuminates-boundary-of-interstellar-space",
+      "documentId": "ephemeris-1912",
+      "title": "Voyager 2 Illuminates Boundary of Interstellar Space",
+      "summary": "On November 5, 2018, NASA's Voyager 2 spacecraft exited the heliosphere, becoming the second probe to enter interstellar space. Five new research papers published in Nature Astronomy detail findings from its instruments, characterizing the boundary between our Sun's protective bubble and the region between stars. The data confirms differences in plasma density, temperature, and particle composition, providing crucial insights into how the Sun interacts with the broader Milky Way galaxy.",
+      "categories": [
+        "Space Exploration",
+        "Astrophysics",
+        "Scientific Research",
+        "News"
+      ],
+      "keywords": [
+        "Voyager 2",
+        "Interstellar Space",
+        "Heliosphere",
+        "Heliopause",
+        "Plasma",
+        "Cosmic Rays",
+        "NASA JPL",
+        "Voyager 1",
+        "Solar Cycle"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1912-nasa-map-reveals-a-landslide-risk-factor",
+      "documentId": "ephemeris-1912",
+      "title": "NASA Map reveals a landslide risk factor",
+      "summary": "A new NASA-backed study reveals that the devastating soil liquefaction landslides during the 2018 Palu earthquake in Indonesia were triggered by a previously unknown risk factor: intensive irrigation of rice fields. This agricultural practice raised the local water table, making the soil highly susceptible to liquefaction during seismic shaking, even on gently sloping terrain. Researchers suggest that modifying farming methods and planting more trees could help mitigate this human-caused hazard.",
+      "categories": [
+        "Science",
+        "Natural Disasters",
+        "Geology",
+        "Remote Sensing",
+        "Agriculture",
+        "Risk Assessment"
+      ],
+      "keywords": [
+        "NASA",
+        "JPL",
+        "Palu earthquake",
+        "Indonesia",
+        "landslides",
+        "soil liquefaction",
+        "irrigation",
+        "rice fields",
+        "aqueduct",
+        "water table",
+        "seismic shaking",
+        "hazard mitigation"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1912-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-1912",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "The SJAA Member Astrophoto Gallery showcases a collection of astrophotographs taken by members of the San Jose Astronomical Association, as featured in the December 2019 SJAA Ephemeris. Each entry highlights celestial objects such as a meteor and the Milky Way, the Soul Nebula, the Pleiades, and the California Nebula. Detailed information is provided for each photo, including the photographer's name, capture date and location, and the specific imaging equipment (telescope, camera, mount) and software used for processing.",
+      "categories": [
+        "Astrophotography",
+        "Gallery",
+        "Technical Details",
+        "Observing Reports",
+        "Member Showcase",
+        "Publication Content"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "SJAA",
+        "Astrophoto Gallery",
+        "Celestial Photography",
+        "Imaging Equipment",
+        "Astrophoto Software",
+        "Deep-Sky Imaging",
+        "Meteor",
+        "Milky Way",
+        "Nebulae",
+        "Star Clusters",
+        "Pleiades",
+        "Soul Nebula",
+        "California Nebula"
+      ],
+      "pageStart": 9,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-1912-kid-spot",
+      "documentId": "ephemeris-1912",
+      "title": "Kid Spot",
+      "summary": "This article, titled 'Kid Spot,' features astronomy-themed jokes and an in-depth look at the spiral galaxy NGC 772, as observed by the Hubble Space Telescope. NGC 772 shares similarities with the Milky Way, including satellite galaxies, but is distinct as a peculiar, unbarred spiral galaxy with one of its arms distorted by a gravitational interaction with a satellite galaxy.",
+      "categories": [
+        "Astronomy News",
+        "Observing Report",
+        "Galaxies",
+        "Educational",
+        "Humor"
+      ],
+      "keywords": [
+        "NGC 772",
+        "Hubble Space Telescope",
+        "Spiral Galaxy",
+        "Milky Way",
+        "Satellite Galaxies",
+        "Unbarred Spiral Galaxy",
+        "Peculiar Galaxy",
+        "Star Formation",
+        "Astronomy Jokes"
+      ],
+      "pageStart": 13,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-1912-from-the-board-of-directors",
+      "documentId": "ephemeris-1912",
+      "title": "From the Board of Directors",
+      "summary": "This document from the SJAA Board of Directors details significant club announcements and excerpts from September and October 2019 board meetings. Key updates include personnel changes with new directors and a vice president appointed, upcoming elections for several board and officer positions, and a call for volunteers for open administrative roles. The article also covers successful outreach events, a planned Swap Meet, the migration of the club's website, and the transition of observer and member communication groups from Yahoo to Google.",
+      "categories": [
+        "Board Meetings",
+        "Announcements",
+        "Club Operations",
+        "Personnel Changes",
+        "Elections",
+        "Outreach Events",
+        "Technology Update",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Elections",
+        "Volunteer Positions",
+        "Outreach Events",
+        "Website Migration",
+        "Google Groups",
+        "Director",
+        "Vice President",
+        "Solar Program",
+        "Swap Meet",
+        "Club Administration"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1912-sjaa-library",
+      "documentId": "ephemeris-1912",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a diverse array of programs and resources for its members and the community, including an astronomy library, telescope repair services, and an equipment loaner program. They host regular observing events like solar and night sky sessions, along with educational programs such as the Quick STARt and Intro to the Night Sky. Additionally, the SJAA provides specialized groups and workshops for astrophotography and conducts star parties for schools, catering to all levels of astronomy enthusiasts.",
+      "categories": [
+        "Community Services",
+        "Educational Programs",
+        "Observing Events",
+        "Technical Assistance",
+        "Member Resources",
+        "Special Interest Groups"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy library",
+        "Telescope repair",
+        "Solar observing",
+        "Quick STARt Program",
+        "Intro to the Night Sky",
+        "Star parties",
+        "Loaner program",
+        "Astro imaging",
+        "Astrophotography",
+        "Amateur astronomy",
+        "Community outreach",
+        "Houge Park",
+        "Workshops",
+        "Field clinics",
+        "Collimation",
+        "Beginners astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1912",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1912/Ephemeris.1912.pdf",
+      "txtPath": "1912/Ephemeris.1912.md"
+    }
+  ]
+}

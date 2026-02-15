@@ -1,0 +1,152 @@
+{
+  "articles": [
+    {
+      "id": "ephjan12-analemma-dilemma",
+      "documentId": "ephjan12",
+      "title": "Analemma dilemma",
+      "summary": "This article provides an early January sky report, detailing visibility for planets like Jupiter, Venus, Uranus, Mercury, and Saturn, along with upcoming Mars observation opportunities and recent Mars rover news (Curiosity launch, Opportunity's gypsum discovery). It then delves into an explanation of the \"analemma\" and the \"Equation of Time,\" illustrating how Earth's eccentric orbit and axial tilt cause variations in the sun's apparent movement and timekeeping.",
+      "categories": [
+        "Observing Report",
+        "News",
+        "Celestial Mechanics",
+        "Planetary Science",
+        "Education"
+      ],
+      "keywords": [
+        "Analemma",
+        "Equation of Time",
+        "Jupiter",
+        "Venus",
+        "Mars",
+        "Curiosity rover",
+        "Opportunity rover",
+        "Orbital eccentricity",
+        "Axial tilt",
+        "Solar time",
+        "January sky"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan12-nasa-space-place",
+      "documentId": "ephjan12",
+      "title": "NASA Space Place",
+      "summary": "NASA's Dawn mission is the first spacecraft to orbit two separate solar system destinations, currently studying protoplanet Vesta in the main asteroid belt before heading to dwarf planet Ceres. Launched in 2007, Dawn arrived at Vesta in 2011 and is using its innovative ion propulsion system to perform complex orbital maneuvers, including changing orbit planes, to map Vesta's composition and gravity field efficiently. This technology allows the probe to gather extensive scientific data without the need for a massive propellant supply.",
+      "categories": [
+        "Space Exploration",
+        "Mission Update",
+        "Astronomy News",
+        "Technical"
+      ],
+      "keywords": [
+        "Dawn mission",
+        "Vesta",
+        "Ceres",
+        "Asteroid belt",
+        "Ion propulsion",
+        "NASA",
+        "Protoplanet",
+        "Dwarf planet",
+        "Orbital mechanics",
+        "Spacecraft technology"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan12-astronomical-spacecraft",
+      "documentId": "ephjan12",
+      "title": "Astronomical Spacecraft",
+      "summary": "This article provides a comprehensive list of currently operational astronomical spacecraft, detailing their names, current locations, and launch years, compiled from various online sources. It also features a detailed explanation of the Dawn spacecraft's complex orbital maneuvers around Vesta, illustrating how it utilizes the asteroid's heterogeneous gravity field to achieve its mission objectives. Additionally, the piece encourages community input for the spacecraft list and offers resources to track the Dawn mission's progress.",
+      "categories": [
+        "Spacecraft",
+        "Astronomy",
+        "Space Exploration",
+        "Reference",
+        "Planetary Science",
+        "Mission Operations"
+      ],
+      "keywords": [
+        "Astronomical spacecraft",
+        "Operational spacecraft",
+        "Space missions",
+        "Dawn spacecraft",
+        "Vesta",
+        "Orbital mechanics",
+        "Gravity field",
+        "Hubble Space Telescope",
+        "Voyager probes",
+        "NASA"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan12-the-last-month-in-astronomy",
+      "documentId": "ephjan12",
+      "title": "The Last Month In Astronomy",
+      "summary": "The 'Last Month In Astronomy' highlights recent astronomical events and discoveries, including a total lunar eclipse and the launch of the Curiosity Rover towards Mars. Significant findings include the Mars Opportunity Rover's strongest evidence yet for past liquid water, and new analysis of Galileo data suggesting active liquid water exchange on Europa, which could boost its habitability. Additionally, astronomers reported the discovery of 18 new exoplanets, the fastest-spinning star, and unidentified gamma-ray sources.",
+      "categories": [
+        "Space Missions",
+        "Planetary Science",
+        "Discoveries",
+        "Stellar Astronomy",
+        "Observing Reports",
+        "Instrumentation"
+      ],
+      "keywords": [
+        "Lunar Eclipse",
+        "Mars",
+        "Opportunity Rover",
+        "Europa",
+        "Liquid Water",
+        "Exoplanets",
+        "Gamma-Ray Sources",
+        "Fastest Spinning Star",
+        "Radio Astronomy",
+        "Curiosity Rover",
+        "Astrobiology"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan12-it-must-be-astronomical",
+      "documentId": "ephjan12",
+      "title": "It Must Be Astronomical...",
+      "summary": "The article from the San Jose Astronomical Association (SJAA) outlines the upcoming February board elections, with incumbents running for reelection. It also provides an update on the club's extensive school star party program, detailing both completed and scheduled events, and announces the availability of RASC Handbooks and Calendars. Additionally, the piece highlights the club's telescope loaner program and lists contact information for officers, staff, and various club services.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Outreach",
+        "Resources",
+        "Club Services",
+        "Contact Information",
+        "Newsletter"
+      ],
+      "keywords": [
+        "SJAA",
+        "board election",
+        "RASC Handbooks",
+        "RASC Calendars",
+        "school star parties",
+        "loaner program",
+        "Ephemeris",
+        "astronomy outreach",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1201/EphJan12.pdf",
+      "txtPath": "1201/EphJan12.md"
+    }
+  ]
+}

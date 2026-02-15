@@ -1,0 +1,155 @@
+{
+  "articles": [
+    {
+      "id": "ephdec12-a-month-of-subtle-challenges",
+      "documentId": "ephdec12",
+      "title": "A month of subtle challenges",
+      "summary": "This article serves as an astronomical observing guide for December, detailing prime viewing opportunities for planets like Jupiter (at opposition), its Galilean moons, Ceres, Mars, Uranus, Neptune, Venus, Mercury, and Saturn. It highlights observing challenges such as distinguishing Jupiter's moons and finding Ceres, while also touching on recent astronomical news including an amateur's albedo map of Ganymede and the Curiosity rover's search for methane on Mars. The piece concludes with directions to Houge Park, suggesting it is part of a local astronomy publication.",
+      "categories": [
+        "observing guide",
+        "astronomical news",
+        "amateur astronomy",
+        "planetary science",
+        "local information"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Galilean moons",
+        "Ganymede",
+        "Ceres",
+        "Mars",
+        "Curiosity rover",
+        "methane",
+        "opposition",
+        "astrophotography",
+        "December sky",
+        "planetary observation",
+        "Uranus",
+        "Neptune",
+        "Venus",
+        "Mercury",
+        "Saturn"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec12-quick-look-at-the-vixen-polarie",
+      "documentId": "ephdec12",
+      "title": "Quick Look at the Vixen Polarie",
+      "summary": "The article reviews the Vixen Polarie, a motorized mount designed for astrophotography to prevent star trails during long exposures. The author, Paul Kohlmiller, shares his experience moving from star trail photography to capturing untrailed celestial objects like constellations. He highlights the Polarie's effectiveness with comparison photos and discusses the additional costs associated with necessary accessories like solid tripods and ball mounts.",
+      "categories": [
+        "Equipment Review",
+        "Astrophotography",
+        "Observing Techniques"
+      ],
+      "keywords": [
+        "Vixen Polarie",
+        "Astrophotography",
+        "Star trails",
+        "Motorized mount",
+        "Night sky photography",
+        "Camera equipment",
+        "Long exposure",
+        "Tripod",
+        "Ball mount"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec12-the-last-month-in-astronomy",
+      "documentId": "ephdec12",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article, 'The Last Month In Astronomy,' summarizes key astronomical news from October-November 2012, featuring a new X-ray telescope launch, the breakup of Comet 168P/Hergenrother, and the re-affirmation of exoplanet Fomalhaut b. It also highlights new research on galactic evolution, the source of cosmic infrared glow, and recent exoplanet discoveries, including Alpha Centauri B b and PH1 in a quadruple star system. The article concludes with an announcement regarding the SJAA's Board Elections.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Exoplanetary Science",
+        "Galactic Astronomy",
+        "Solar System Studies",
+        "Observational Astronomy",
+        "Citizen Science",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "FOXSI launch",
+        "Comet 168P/Hergenrother",
+        "Exoplanets",
+        "Fomalhaut b",
+        "Alpha Centauri B b",
+        "PH1",
+        "Galactic evolution",
+        "Cosmic infrared glow",
+        "Centaurus A",
+        "Jupiter observations",
+        "Citizen science",
+        "SJAA elections"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec12-nasa-space-place",
+      "documentId": "ephdec12",
+      "title": "NASA Space Place",
+      "summary": "This article details \"radio science\" experiments, specifically occultation experiments, which utilize spacecraft radio signals to probe the atmospheres, ionospheres, and gravitational fields of planets and moons. From Mariner 4's pioneering study of Mars' thin atmosphere to Cassini's investigation of Saturn and the upcoming New Horizons mission at Pluto, these experiments demonstrate how observing signal changes as a spacecraft passes behind a celestial body yields valuable scientific data. NASA's Deep Space Network is essential for capturing and archiving these critical signals for study.",
+      "categories": [
+        "Space Science",
+        "Technical",
+        "Space Missions",
+        "Educational"
+      ],
+      "keywords": [
+        "Radio science",
+        "Occultation experiments",
+        "Spacecraft signals",
+        "Planetary atmospheres",
+        "Gravitational fields",
+        "Deep Space Network (DSN)",
+        "Mariner 4",
+        "Cassini",
+        "New Horizons",
+        "Mars",
+        "Saturn",
+        "Pluto"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec12-school-star-parties",
+      "documentId": "ephdec12",
+      "title": "School Star Parties",
+      "summary": "This article reports on the San Jose Astronomical Association's (SJAA) \"School Star Parties\" program, providing an update as of October 25, 2012. It details the success rates of 11 completed events from July to October 2012 and outlines the schedule for 35 upcoming events during the 2012/2013 school year. The report also includes contact information for scheduling new star parties and lists the SJAA's officers, board of directors, and publication staff.",
+      "categories": [
+        "Educational Outreach",
+        "Astronomy Events",
+        "Program Report",
+        "Community Astronomy",
+        "Event Scheduling"
+      ],
+      "keywords": [
+        "School Star Parties",
+        "SJAA",
+        "Astronomy outreach",
+        "Educational events",
+        "Star gazing",
+        "Event statistics",
+        "2012-2013 school year",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1212/EphDec12.pdf",
+      "txtPath": "1212/EphDec12.md"
+    }
+  ]
+}

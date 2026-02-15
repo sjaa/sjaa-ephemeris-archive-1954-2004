@@ -1,0 +1,260 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-21-12-the-great-bear-and-why-leaves-change-color-in-autumn",
+      "documentId": "ephemeris-21-12",
+      "title": "The Great Bear and Why Leaves Change Color in Autumn",
+      "summary": "This article explores how ancient cultures, particularly indigenous North American peoples, used constellations and oral traditions to explain natural phenomena and pass on vital knowledge. It highlights the Ursa Major constellation (the Great Bear/Big Dipper) through a Native American folktale that explains both the 'bear's' long tail and why leaves change color in autumn. The story connects celestial observations with seasonal changes, emphasizing the importance of preparing for winter based on the bear's position in the sky.",
+      "categories": [
+        "Folklore",
+        "Mythology",
+        "Astronomy",
+        "Cultural History",
+        "Indigenous Cultures",
+        "Nature"
+      ],
+      "keywords": [
+        "Ursa Major",
+        "Big Dipper",
+        "Constellations",
+        "Native American folklore",
+        "Indigenous mythology",
+        "Autumn leaves",
+        "Oral tradition",
+        "North Star",
+        "Seasonal changes",
+        "Cultural astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-21-12-nasa-s-james-webb-space-telescope-primed-to-lift-the-haze-surrounding-sub-neptunes",
+      "documentId": "ephemeris-21-12",
+      "title": "NASA's James Webb Space Telescope Primed to Lift the Haze Surrounding Sub-Neptunes",
+      "summary": "NASA's James Webb Space Telescope (JWST) is set to tackle the mystery of sub-Neptune exoplanets, which are common in the galaxy but unlike any in our solar system. Previous attempts to analyze their atmospheres using transmission spectroscopy have been hampered by dense haze and clouds. JWST will use its powerful instruments, including MIRI, to employ multiple techniques like transmission spectroscopy, thermal emission spectroscopy, and phase curve temperature mapping, to study archetypal sub-Neptunes GJ 1214 b and TOI-421 b and finally determine their atmospheric compositions.",
+      "categories": [
+        "Exoplanets",
+        "Space Telescopes",
+        "Astronomy",
+        "Scientific Research",
+        "News"
+      ],
+      "keywords": [
+        "James Webb Space Telescope",
+        "JWST",
+        "Sub-Neptune",
+        "Exoplanets",
+        "Atmospheres",
+        "Haze",
+        "Clouds",
+        "Transmission Spectroscopy",
+        "Thermal Emission Spectroscopy",
+        "Phase Curve Temperature Mapping",
+        "GJ 1214 b",
+        "TOI-421 b",
+        "NASA",
+        "MIRI",
+        "Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-21-12-some-fun-asterisms-recommended-for-viewing",
+      "documentId": "ephemeris-21-12",
+      "title": "Some Fun Asterisms Recommended for Viewing",
+      "summary": "This article recommends observing asterisms as an alternative to deep-sky objects, especially during periods of bright moonlight, and introduces Philip S. Harrington's 'Small Telescope Asterism Roster' (STAR list). It provides detailed instructions, including coordinates and finder charts, for locating two specific asterisms in Cassiopeia, 'Lucky 7' and 'Airplane', using binoculars.",
+      "categories": [
+        "Observing Guides",
+        "Amateur Astronomy",
+        "Deep-Sky Objects",
+        "Binocular Astronomy",
+        "Educational"
+      ],
+      "keywords": [
+        "Asterisms",
+        "STAR list",
+        "Philip S. Harrington",
+        "Lucky 7",
+        "Airplane",
+        "Cassiopeia",
+        "Binoculars",
+        "Telescopes",
+        "Observing",
+        "Amateur astronomy",
+        "Deep sky objects",
+        "Moonlight",
+        "Star charts"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-21-12-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-21-12",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This article showcases a gallery of astrophotography images captured by members of the SJAA (San Jose Astronomical Association), published in the December 2021 'SJAA Ephemeris'. Each featured image, such as Pickering's Triangle, The Bubble Nebula, Great Barred Spiral Galaxy NGC 1365, and Centaurus NGC5128, includes details about the photographer, capture dates, location, and the specific imaging telescope, camera, mount, and software used.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Observing Reports",
+        "Technical Details"
+      ],
+      "keywords": [
+        "astrophotography",
+        "SJAA",
+        "Pickering's Triangle",
+        "Bubble Nebula NGC7635",
+        "Great Barred Spiral Galaxy NGC 1365",
+        "Centaurus NGC5128",
+        "nebula",
+        "galaxy",
+        "telescope",
+        "imaging camera",
+        "mount",
+        "software",
+        "ZWO ASI294MM-Pro",
+        "ZWO ASI1600mm Pro Cooled",
+        "SBIG STL11000",
+        "FLI-PL09000",
+        "PixInsight",
+        "Adobe Photoshop",
+        "Mountain View, CA",
+        "El Sauce Observatory",
+        "Chile"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-21-12-the-road-to-launch-and-beyond-for-nasa-s-james-webb-space-telescope",
+      "documentId": "ephemeris-21-12",
+      "title": "The Road to Launch and Beyond for NASA's James Webb Space Telescope",
+      "summary": "NASA's James Webb Space Telescope (JWST) has arrived in French Guiana for 55 days of final launch preparations, including cleaning, testing, fueling, and integration with the Ariane 5 rocket. Following liftoff, the telescope will embark on a highly complex and critical 29-day deployment sequence involving hundreds of steps, such as unfolding its solar array, multi-layered sunshield, and segmented primary mirror. This intricate process is essential for the JWST to successfully reach its L2 orbit and begin its mission to observe the universe.",
+      "categories": [
+        "Space Exploration",
+        "Launch Preparations",
+        "Space Mission",
+        "Technical Details",
+        "News Update",
+        "Astronomy"
+      ],
+      "keywords": [
+        "James Webb Space Telescope",
+        "JWST",
+        "NASA",
+        "Launch",
+        "Deployment Sequence",
+        "Ariane 5",
+        "French Guiana",
+        "Sunshield",
+        "Primary Mirror",
+        "L2 Orbit",
+        "Space Mission",
+        "Telescope Deployments"
+      ],
+      "pageStart": 11,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-21-12-kid-spot",
+      "documentId": "ephemeris-21-12",
+      "title": "Kid Spot",
+      "summary": "This article discusses Snoopy's upcoming role as a zero-gravity indicator on NASA's Artemis I uncrewed Moon mission, continuing a long-standing partnership with Charles M. Schulz and Peanuts since the Apollo era. Snoopy's involvement aims to inspire generations and support educational activities about space exploration, gravity, and teamwork. The mission will also carry Silver Snoopy pins for future awards, a tradition from the Apollo era.",
+      "categories": [
+        "Space News",
+        "Space History",
+        "Education",
+        "NASA Programs"
+      ],
+      "keywords": [
+        "Snoopy",
+        "NASA",
+        "Artemis I",
+        "Moon Mission",
+        "Apollo Program",
+        "Zero Gravity Indicator",
+        "Space Exploration",
+        "STEM Education",
+        "Peanuts",
+        "Silver Snoopy Award"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-21-12-from-the-board-of-directors",
+      "documentId": "ephemeris-21-12",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) is adapting to the COVID-19 situation by canceling in-person events and moving some online, while also preparing for upcoming board and officer elections in February and March 2022. Recent board meetings addressed several key issues, including equipment donations, the search for an alternate home for SJAA activities, insurance authorization, and a shift in membership reporting from a lunar to a Gregorian calendar. Discussions also focused on potential partnerships with Evergreen Valley College and Montgomery Hill Observatory, ongoing relationships with the City of San Jose, future website monitoring and redesign, and the need for new volunteers for leadership positions.",
+      "categories": [
+        "Organizational Updates",
+        "Announcements",
+        "Board Meetings",
+        "Governance",
+        "Community Health Advisory",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "COVID-19",
+        "Coronavirus",
+        "Event Cancellations",
+        "Online Events",
+        "Board Elections",
+        "Officer Elections",
+        "Donations",
+        "Alternate Site",
+        "Houge Park",
+        "Evergreen Valley College",
+        "Montgomery Hill Observatory",
+        "Insurance",
+        "Membership Reporting",
+        "Website Monitoring",
+        "Leadership Positions",
+        "Santa Clara County"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-21-12-sjaa-library",
+      "documentId": "ephemeris-21-12",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a diverse range of resources and programs for its members and the wider community, aiming to foster interest and education in astronomy. Offerings include a library, free telescope repair sessions, regular solar observing, and educational programs like Quick STARt and Intro to the Night Sky. Additionally, SJAA supports members with an equipment loaner program, hosts astrophotography special interest groups and workshops, and conducts community outreach through school star parties.",
+      "categories": [
+        "Member Services",
+        "Educational Programs",
+        "Community Events",
+        "Technical Assistance",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy club",
+        "library",
+        "telescope repair",
+        "solar observing",
+        "beginner astronomy",
+        "astrophotography",
+        "star parties",
+        "loaner program",
+        "astronomy education",
+        "community outreach"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-21-12",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 6",
+      "issueDate": null,
+      "pdfPath": "2112/Ephemeris_21-12.pdf",
+      "txtPath": "2112/Ephemeris_21-12.md"
+    }
+  ]
+}

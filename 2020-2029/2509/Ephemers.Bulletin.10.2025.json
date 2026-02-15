@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "id": "ephemers-bulletin-10-2025-sjaa-ephemeris-bulletin",
+      "documentId": "ephemers-bulletin-10-2025",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin for October 2025 highlights the value of its community, announcing a new Discord server to enhance member connection. It features the Double Cluster as the \"Target of the Month,\" providing observational details and historical context. Additionally, the bulletin announces a 'Member Show and Tell' event, details a new membership renewal system, and encourages members to volunteer.",
+      "categories": [
+        "Astronomy Club News",
+        "Observing Guide",
+        "Community Engagement",
+        "Event Announcement",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris Bulletin",
+        "Astronomy Club",
+        "Community",
+        "Discord",
+        "Double Cluster",
+        "NGC 869",
+        "NGC 884",
+        "Open Clusters",
+        "Perseus",
+        "Deep-sky objects",
+        "Observation guide",
+        "Member Show and Tell",
+        "Volunteering",
+        "Membership renewal",
+        "Star party"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemers-bulletin-10-2025",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2509/Ephemers.Bulletin.10.2025.pdf",
+      "txtPath": "2509/Ephemers.Bulletin.10.2025.md"
+    }
+  ]
+}

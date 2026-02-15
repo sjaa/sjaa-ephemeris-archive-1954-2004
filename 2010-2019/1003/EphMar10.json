@@ -1,0 +1,158 @@
+{
+  "articles": [
+    {
+      "id": "ephmar10-sjaa-ephemeris",
+      "documentId": "ephmar10",
+      "title": "SJAA Ephemeris",
+      "summary": "The SJAA Ephemeris for March 2010 outlines upcoming activities for the San Jose Astronomical Association, including dark sky weekends, star parties, general meetings featuring astrophotography and Milky Way structure, and an astronomy class. It also includes \"The Shallow Sky\" column, which details observing opportunities for Mars and Saturn, provides an update on the Mars Spirit rover, and scientifically dismisses the gravitational impact of planetary alignments. Directions to Houge Park are also provided.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Club News",
+        "Astronomy Education",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Calendar",
+        "Star Parties",
+        "Dark Sky Observing",
+        "General Meetings",
+        "Astrophotography",
+        "Planetary Observation",
+        "Mars",
+        "Saturn",
+        "Spirit Rover",
+        "Planetary Alignment",
+        "Syzygy",
+        "Gravitational Forces",
+        "Astronomy Education",
+        "Messier Marathon"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmar10-building-a-case-against-ozone",
+      "documentId": "ephmar10",
+      "title": "Building a Case Against Ozone",
+      "summary": "This article highlights tropospheric ozone as a significant, though often overlooked, greenhouse gas, distinct from the beneficial stratospheric ozone layer. NASA's Tropospheric Emission Spectrometer (TES) has revealed its highly variable distribution near urban emission sources and its transport by winds across vast distances. Due to its short atmospheric lifespan compared to CO2, reducing emissions of ozone precursors could lead to more rapid climate benefits, making it a target for environmental policy and regulation.",
+      "categories": [
+        "Climate Science",
+        "Satellite Data",
+        "Environmental Policy",
+        "Atmospheric Science",
+        "NASA Research"
+      ],
+      "keywords": [
+        "Tropospheric Ozone",
+        "Greenhouse Gas",
+        "Climate Change",
+        "NASA Tropospheric Emission Spectrometer (TES)",
+        "Emissions",
+        "Ozone Precursors",
+        "Atmospheric Lifespan",
+        "Environmental Regulation",
+        "Remote Sensing",
+        "JPL"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar10-silicon-valley-astronomy-lectures",
+      "documentId": "ephmar10",
+      "title": "Silicon Valley Astronomy Lectures",
+      "summary": "The article announces the 11th Annual Silicon Valley Astronomy Lecture featuring Dr. Helen Quinn, who will discuss \"The Many Mysteries of Antimatter\" and its connection to dark matter on March 10, 2010. Additionally, an editorial explores the future of space exploration, emphasizing the role of robotic missions, the need for advanced drilling technology, and the challenges of expanding human presence beyond low Earth orbit to the Moon and Mars.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Physics",
+        "Space Exploration",
+        "Editorial"
+      ],
+      "keywords": [
+        "Antimatter",
+        "Dark Matter",
+        "Particle Physics",
+        "Silicon Valley Astronomy Lectures",
+        "Helen Quinn",
+        "Space Exploration",
+        "Robotic Missions",
+        "Human Spaceflight",
+        "Moon",
+        "Mars",
+        "Europa"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar10-the-last-month-in-astronomy",
+      "documentId": "ephmar10",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article, \"The Last Month In Astronomy,\" provides a concise recap of significant astronomical events and discoveries from January and February 2010. Key highlights include the successful launches of the Solar Dynamics Observatory (SDO) and Space Shuttle Endeavour to the ISS, along with the in-flight testing of the SOFIA observatory. Major scientific findings feature new details about water on Enceladus, a probable asteroid collision observed by Hubble, and the discovery of an exceptionally cool brown dwarf, while the Mars Rover Spirit began a new stationary phase of scientific exploration.",
+      "categories": [
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Spacecraft Launches",
+        "Observatory Operations",
+        "Planetary Science",
+        "Stellar Astronomy",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Solar Dynamics Observatory (SDO)",
+        "Space Shuttle Endeavour",
+        "International Space Station (ISS)",
+        "Enceladus",
+        "Cassini",
+        "Asteroid Collision",
+        "Hubble Space Telescope",
+        "Brown Dwarfs",
+        "Mars Rover Spirit",
+        "WISE",
+        "SOFIA",
+        "Betelgeuse",
+        "International Year of Astronomy (IYA 2009)"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar10-it-must-be-astronomical",
+      "documentId": "ephmar10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the San Jose Astronomical Association's 'Ephemeris' newsletter provides updates on their telescope loaner program and details for several upcoming astronomical events, including the Golden State Star Party, SETIcon, and CalStar. It also features a Q&A addressing the delta-V needed to deflect asteroid Apophis and lists the organization's officers, staff, and contact information.",
+      "categories": [
+        "Events",
+        "Organizational Updates",
+        "Astronomical Information",
+        "Member Resources"
+      ],
+      "keywords": [
+        "Telescope loaner program",
+        "Golden State Star Party",
+        "SETIcon",
+        "CalStar",
+        "Asteroid Apophis",
+        "Star party",
+        "San Jose Astronomical Association",
+        "Astrobiology",
+        "SETI research",
+        "Newsletter"
+      ],
+      "pageStart": 7,
+      "pageEnd": 25
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar10",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 4",
+      "issueDate": null,
+      "pdfPath": "1003/EphMar10.pdf",
+      "txtPath": "1003/EphMar10.md"
+    }
+  ]
+}

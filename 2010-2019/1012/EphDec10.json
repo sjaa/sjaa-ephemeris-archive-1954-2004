@@ -1,0 +1,211 @@
+{
+  "articles": [
+    {
+      "id": "ephdec10-1980-occultation-observation-of-a-satellite-of-asteroid-216",
+      "documentId": "ephdec10",
+      "title": "1980 occultation observation of a satellite of asteroid (216)",
+      "summary": "Recent observations by Marchis' team using the Keck II telescope confirmed the irregular shape of asteroid (216) Kleopatra and the existence of its two satellites, validating a 1980 amateur occultation observation by Rattley and Cooke. This validation marks a significant turning point, as professional astronomers are now recognizing the value of amateur occultation observations, which were previously often disregarded. The article emphasizes the belated acceptance of concepts like asteroid satellites and irregular asteroid shapes, initially proposed by amateur observations but met with skepticism by professionals.",
+      "categories": [
+        "Observational Astronomy",
+        "Asteroid Research",
+        "Amateur Astronomy",
+        "History of Astronomy",
+        "News and Updates"
+      ],
+      "keywords": [
+        "Asteroid (216) Kleopatra",
+        "Occultation",
+        "Asteroid Satellites",
+        "Amateur Observations",
+        "Keck II Telescope",
+        "Adaptive Optics",
+        "Marchis' Team",
+        "Gerry Rattley",
+        "Professional Recognition",
+        "Irregular Asteroid Shape"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "ephdec10-full-of-moon",
+      "documentId": "ephdec10",
+      "title": "Full of Moon",
+      "summary": "This article highlights the Moon as the primary astronomical focus for December, detailing a spectacular total lunar eclipse on the 20th with specific timing and visibility notes. Beyond the eclipse, it covers recent scientific discoveries, including the Lunar Orbiter Laser Altimeter (LOLA) team's identification of the Moon's highest point on the far side, and significant news about the presence of water on the Moon.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Astronomy",
+        "Space Science"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar eclipse",
+        "December",
+        "Planets",
+        "LOLA",
+        "Lunar Orbiter Laser Altimeter",
+        "Highest point",
+        "Water on the moon",
+        "Engel'gardt",
+        "Leibnitz Range",
+        "Orion",
+        "Totality"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec10-lcross-impact-remember-lcross",
+      "documentId": "ephdec10",
+      "title": "LCROSS impact. Remember LCROSS?",
+      "summary": "The article revisits the LCROSS mission, highlighting its spectral data which revealed more water ice than expected in the Moon's Cabeus crater. It analyzes the practical implications and feasibility of extracting this water for future manned lunar missions, calculating the volume of rock needed. The piece also includes a brief update on the Mars rover Spirit, noting its discovery of damp soil before it ceased communications.",
+      "categories": [
+        "Space Exploration",
+        "Lunar Science",
+        "Mars Exploration",
+        "Mission Analysis",
+        "News Update"
+      ],
+      "keywords": [
+        "LCROSS",
+        "Moon",
+        "Water Ice",
+        "Cabeus Crater",
+        "Lunar Resources",
+        "Manned Missions",
+        "Spirit Rover",
+        "Mars",
+        "Resource Extraction",
+        "Spectral Data"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec10-nasa-space-place",
+      "documentId": "ephdec10",
+      "title": "NASA Space Place",
+      "summary": "Astronomers discovered surprising blue, UV-emitting rings around 'red and dead' elliptical galaxies, challenging previous assumptions about their inactivity and suggesting new star formation from gas acquired during galactic encounters. This finding, made using NASA's Galaxy Evolution Explorer and Hubble Space Telescope, highlights the complex evolution of galaxies. The article also provides details on Alhena (Gamma Geminorum), a bright binary star in Gemini, and its role in an asteroid occultation study.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Space Exploration",
+        "Galactic Evolution",
+        "Stellar Astronomy",
+        "Scientific Discovery"
+      ],
+      "keywords": [
+        "Galaxies",
+        "Elliptical galaxies",
+        "Star formation",
+        "Ultraviolet radiation",
+        "Hubble Space Telescope",
+        "Galaxy Evolution Explorer",
+        "Galactic encounters",
+        "Alhena",
+        "Gamma Geminorum",
+        "Gemini",
+        "Binary stars",
+        "Asteroids",
+        "Occultation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec10-holiday-party-12-18-2010",
+      "documentId": "ephdec10",
+      "title": "Holiday Party - 12/18/2010",
+      "summary": "This article announces a holiday party scheduled for December 18, 2010, at Houge Park in San Jose. Attendees are encouraged to bring a dessert or appetizer to share, though contributions are not mandatory, and alcohol is prohibited. Detailed directions to Houge Park from major highways are provided.",
+      "categories": [
+        "Events",
+        "Social Gathering",
+        "Announcement"
+      ],
+      "keywords": [
+        "Holiday Party",
+        "San Jose",
+        "Houge Park",
+        "Directions",
+        "Food Contribution",
+        "December 2010"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec10-the-last-month-in-astronomy",
+      "documentId": "ephdec10",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article, dated November 2010, compiles recent astronomical news and discoveries. It covers updates on Eris possibly being smaller than Pluto, the Deep Impact mission's close study of Comet Hartley 2, and new theories on Martian gullies forming from CO2 frost. Other significant topics include the discovery of the most massive neutron star yet known, new statistical estimates suggesting a high prevalence of Earth-mass planets, and the redeployment of the THEMIS spacecraft as ARTEMIS.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Planetary Science",
+        "Astrophysics",
+        "Observing Reports",
+        "Solar System"
+      ],
+      "keywords": [
+        "Eris",
+        "Pluto",
+        "Dwarf Planet",
+        "Comet Hartley 2",
+        "Deep Impact mission",
+        "Mars gullies",
+        "Carbon dioxide frost",
+        "Neutron star",
+        "Pulsar",
+        "Exoplanets",
+        "Earth-mass planets",
+        "THEMIS",
+        "ARTEMIS",
+        "Lagrangian points"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec10-it-must-be-astronomical",
+      "documentId": "ephdec10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the SJAA Ephemeris newsletter details several club updates, including a telescope loaner program for members and an upcoming change in membership dues effective January 1, 2011, with different rates for electronic versus print newsletters. It also highlights a new educational aviation game from NOAA/NASA for kids and provides extensive statistics on completed and scheduled school star parties. Contact information for club officers, the Board of Directors, and publication details are also included.",
+      "categories": [
+        "Club News",
+        "Membership",
+        "Events",
+        "Outreach",
+        "Educational Resources",
+        "Club Administration"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner program",
+        "telescopes",
+        "membership dues",
+        "newsletter",
+        "School Star Parties",
+        "outreach",
+        "NOAA",
+        "NASA",
+        "Scijinks",
+        "aviation game",
+        "club officers",
+        "Ephemeris"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1012/EphDec10.pdf",
+      "txtPath": "1012/EphDec10.md"
+    }
+  ]
+}

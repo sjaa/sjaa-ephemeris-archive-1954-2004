@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "id": "ephjun04-yosemite-star-party-and-astrocon-2004",
+      "documentId": "ephjun04",
+      "title": "Yosemite Star Party and AstroCon 2004",
+      "summary": "The article provides a guide to navigating an astronomical publication database, detailing its search functionalities for historical and modern research papers, including examples of searching for meteor-related content and specific astronomical discoveries. It also announces two upcoming events: the San Jose Astronomical Society's annual Yosemite Public Star Party on July 16-17, 2004, at Glacier Point, and AstroCon 2004, a major astronomy convention in the San Francisco Bay Area from July 20-24, 2004, featuring professional astronomers and public outreach tips.",
+      "categories": [
+        "News",
+        "Events",
+        "Amateur Astronomy",
+        "Research Tools",
+        "Observing"
+      ],
+      "keywords": [
+        "Astronomical database",
+        "Yosemite Star Party",
+        "AstroCon 2004",
+        "Astronomy convention",
+        "San Jose Astronomical Association (SJAA)",
+        "Meteor astronomy",
+        "Public outreach",
+        "Lick Observatory",
+        "Astronomical publications"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun04-rates",
+      "documentId": "ephjun04",
+      "title": "Rates",
+      "summary": "This article discusses the challenge of 'moon rates' for equatorial drives, questioning if modern trackers account for the Moon's non-uniform motion as described by Kepler's laws. It also touches on upcoming celestial events, including the debunking of the 'Biggest Full Moon Of The Year' and an opportunity for an early new Moon sighting due to its high position on the ecliptic. Conversely, the author notes that this month will feature a 'Very Low full Moon' and generally poor elevation for other lunar phases.",
+      "categories": [
+        "Observing Tips",
+        "Celestial Mechanics",
+        "Astronomy News",
+        "Equipment Discussion"
+      ],
+      "keywords": [
+        "Moon rates",
+        "Equatorial drives",
+        "Kepler's laws",
+        "Full Moon",
+        "New Moon",
+        "Early Moon sighting",
+        "Ecliptic",
+        "Lunar elevation",
+        "Venus transit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun04-planet-quest-night-sky-network-introduction",
+      "documentId": "ephjun04",
+      "title": "Planet Quest / Night Sky Network Introduction",
+      "summary": "The article introduces the Planet Quest Activity Toolkit, developed by NASA and the ASP for the Night Sky Network, which the SJAA is a member of. This toolkit provides four hands-on activities designed for public astronomy outreach, covering topics like planet detection, star map usage, atmospheric effects on observation, and the radial velocity method. SJAA members are encouraged to use these educational materials for various settings, and demonstrations will be held at an upcoming meeting.",
+      "categories": [
+        "Outreach",
+        "Education",
+        "Astronomy Clubs",
+        "Resources",
+        "Meeting Announcement"
+      ],
+      "keywords": [
+        "Planet Quest",
+        "Night Sky Network",
+        "Astronomy Outreach",
+        "Educational Toolkit",
+        "Exoplanets",
+        "NASA",
+        "SJAA",
+        "Radial Velocity Method"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun04-two-nights-on-kitt-peak",
+      "documentId": "ephjun04",
+      "title": "Two Nights on Kitt Peak",
+      "summary": "Rob Hawley recounts his \"Two Nights on Kitt Peak\" as part of an Advanced Observers Program, where he sought to observe deep-sky objects and galaxy clusters with large telescopes. Despite severe spring weather, including high winds and clouds, which significantly limited his observing time, he found the experience rewarding due to the expert assistance and access to world-class equipment and astronomers. He plans a return trip for CCD imaging, acknowledging the unique challenges and opportunities of observing at a professional facility.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Astronomical Facilities",
+        "Travel"
+      ],
+      "keywords": [
+        "Kitt Peak",
+        "Advanced Observers Program",
+        "Telescope Observing",
+        "Galaxy Clusters",
+        "Deep-Sky Objects",
+        "Weather Challenges",
+        "Amateur Astronomers",
+        "CCD Astronomy",
+        "Astronomical Experience"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun04-domes-near-vallis-schroteri",
+      "documentId": "ephjun04",
+      "title": "Domes Near Vallis Schroteri",
+      "summary": "Jane Houston Jones recounts a successful sidewalk astronomy event where she and fellow astronomers shared views of the 12-day-old waxing Moon, Jupiter, and Saturn with nearly 200 visitors. The article details observations of the Moon's volcanic features, specifically Vallis Schroteri and the Marius Hills, offering viewing tips and encouraging others to explore these unique lunar domes. It combines a personal observing report with educational insights into lunar geology.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Lunar Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Vallis Schroteri",
+        "Marius Hills",
+        "Lunar Domes",
+        "Moon",
+        "Aristarchus",
+        "Sidewalk Astronomy",
+        "Volcanic Features",
+        "Lunar Observation",
+        "Oceanus Procellarum",
+        "Terminator"
+      ],
+      "pageStart": 5,
+      "pageEnd": 29
+    },
+    {
+      "id": "ephjun04-the-shadow-of-venus",
+      "documentId": "ephjun04",
+      "title": "The Shadow of Venus",
+      "summary": "This article details the rare Venus transit occurring on June 8, 2004, an event not visible from San Jose but noting a future transit in 2012 that will be. It stresses the crucial need for safe solar filters to view Venus's silhouette against the sun and advises on alternative viewing via live webcasts. Additionally, the piece provides a guide to observing other celestial objects visible in June, including Jupiter, Pluto, Uranus, Neptune, and sunspots.",
+      "categories": [
+        "Celestial Events",
+        "Observing Guides",
+        "Astronomy News",
+        "Planetary Astronomy",
+        "Solar Astronomy"
+      ],
+      "keywords": [
+        "Venus transit",
+        "Solar filter",
+        "June 8",
+        "2004",
+        "2012",
+        "Sun",
+        "Jupiter",
+        "Pluto",
+        "Sunspots",
+        "Rare event",
+        "Celestial mechanics",
+        "Webcast",
+        "Amateur astronomy",
+        "Uranus",
+        "Neptune",
+        "Mercury",
+        "Summer solstice"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun04-venus-transit-at-the-exploratorium",
+      "documentId": "ephjun04",
+      "title": "Venus Transit at the Exploratorium",
+      "summary": "The Exploratorium is hosting a special evening event on Monday, June 7, 2004, from 8:30 p.m. to 11:00 p.m. PDT, to celebrate the rare Transit of Venus. Since the transit is not visible from the West Coast, the event will feature a live webcast from Greece, scientific explanations, hands-on activities, Greek cultural performances, and refreshments. Attendees can also explore the entire museum.",
+      "categories": [
+        "event announcement",
+        "astronomy event",
+        "educational program",
+        "public outreach",
+        "cultural event"
+      ],
+      "keywords": [
+        "Venus Transit",
+        "Exploratorium",
+        "live webcast",
+        "Greece",
+        "astronomy",
+        "science",
+        "eclipses",
+        "Paul Doherty",
+        "Tory Brady",
+        "Minoan Dancers",
+        "June 7, 2004"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjun04-sjaa-loaner-scope-status",
+      "documentId": "ephjun04",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) operates a loaner telescope program for its members, managed by Mike Koop. This document provides an updated status of the program, categorizing scopes as immediately available, recently loaned with due dates, or on extended loan. It also includes a waiting list for popular telescope models, with contact information for members interested in borrowing equipment.",
+      "categories": [
+        "Member Services",
+        "Equipment Inventory",
+        "Club Operations",
+        "Status Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "astronomy equipment",
+        "member benefits",
+        "telescope availability",
+        "waiting list",
+        "Dobsonian",
+        "SCT",
+        "refractor"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0406/EphJun04.pdf",
+      "txtPath": "0406/EphJun04.md"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "articles": [
+    {
+      "id": "ephmay03-messier-marathon",
+      "documentId": "ephmay03",
+      "title": "Messier Marathon",
+      "summary": "This article details participants' experiences during the Messier Marathon 2003, an astronomical observing event. Vivek Mohan recounts using various telescopes, including an 18-inch and a 6-inch dob, to view Messier objects like M81 and M82, and even Saturn with M1 in the same field. Bob Brauer describes his equipment, observing strategy for maximizing finds, challenges like haze, and achieving a personal best of 103 Messier objects, highlighting the communal and challenging nature of the all-night event.",
+      "categories": [
+        "observing report",
+        "event recap",
+        "amateur astronomy",
+        "deep sky observing",
+        "community activity"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "2003",
+        "observing",
+        "telescopes",
+        "deep sky objects",
+        "galaxies",
+        "star clusters",
+        "planets",
+        "San Jose Astronomical Association",
+        "observing strategy",
+        "equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmay03-the-shallow-sky",
+      "documentId": "ephmay03",
+      "title": "The shallow sky",
+      "summary": "This article provides an update on May 2003 celestial events, highlighting the Mercury transit on May 7th (though not widely visible from North America) and current visibility of planets like Jupiter, Saturn, and Mars. It also delves into two 'why not' questions concerning lunar observation: the absence of a periodic survey for new craters on the Moon and the continued unavailability of the highly demanded Rukl's Atlas Of The Moon.",
+      "categories": [
+        "observing reports",
+        "celestial events",
+        "lunar astronomy",
+        "astronomy news",
+        "astronomy publications"
+      ],
+      "keywords": [
+        "Mercury transit",
+        "Venus transit",
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Moon craters",
+        "lunar observation",
+        "Rukl's Atlas of the Moon",
+        "May 2003",
+        "planetary visibility",
+        "amateur astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay03-between-the-serpents",
+      "documentId": "ephmay03",
+      "title": "Between the Serpents",
+      "summary": "This article provides an observing guide for the May 3rd new moon weekend, focusing on a two-hour window to explore deep-sky objects from Draco to Hydra. It details numerous galaxies and globular clusters, offering coordinates, magnitudes, and observational notes from various astronomers. The guide concludes by encouraging readers to seek darker skies and highlights upcoming star parties like Shingletown and CalStar.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Deep-Sky Observing",
+        "Star Parties",
+        "Instructional"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Galaxies",
+        "Globular clusters",
+        "Observing guide",
+        "New moon",
+        "Draco",
+        "Hydra",
+        "Virgo",
+        "Bootes",
+        "Canes Venatici",
+        "Libra",
+        "NGC 5907",
+        "NGC 5473",
+        "NGC 5676",
+        "NGC 5689",
+        "NGC 5557",
+        "NGC 5273",
+        "NGC 5363",
+        "NGC 5364",
+        "NGC 5746",
+        "NGC 5846",
+        "NGC 5634",
+        "NGC 5897",
+        "NGC 5694",
+        "Star parties",
+        "Telescopes",
+        "Astrophotography"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay03-may-program-norm-sperling",
+      "documentId": "ephmay03",
+      "title": "May program: Norm Sperling",
+      "summary": "Norm Sperling will deliver a \"May program\" presentation titled \"What your astronomy textbook won't tell you.\" He aims to address common misconceptions and \"oxymorons\" found in popular astronomy textbooks, such as the typical representation of spiral galaxies and concepts like \"frozen gases.\" Sperling will also highlight overlooked areas of research in astronomy, providing a critical perspective on standard educational materials.",
+      "categories": [
+        "Program Announcement",
+        "Education",
+        "Astronomy",
+        "Lecture"
+      ],
+      "keywords": [
+        "Norm Sperling",
+        "Astronomy textbooks",
+        "Misconceptions",
+        "Teaching Astronomy",
+        "Spiral galaxies",
+        "Frozen gases",
+        "Astronomy research"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay03-cam-and-kao",
+      "documentId": "ephmay03",
+      "title": "CAM and KAO",
+      "summary": "The article recounts a field trip by Peterson Middle School students to NASA/Ames Research Center, where they explored the Centrifuge Accommodation Module (CAM) and the historic Kuiper Airborne Observatory (KAO), a retired C-141 plane famous for its infrared astronomy, including the discovery of Uranus's rings. The author hopes the trip inspires future astronomers. Additionally, the article features an announcement from Project ASTRO, inviting amateur and professional astronomers to volunteer with 4th-9th grade students for the 2003-2004 school year.",
+      "categories": [
+        "Educational Outreach",
+        "Field Trip Report",
+        "Astronomy History",
+        "Volunteer Opportunities",
+        "Science Education"
+      ],
+      "keywords": [
+        "NASA/Ames Research Center",
+        "Kuiper Airborne Observatory (KAO)",
+        "Centrifuge Accommodation Module (CAM)",
+        "Project ASTRO",
+        "Peterson Middle School",
+        "Airborne astronomy",
+        "Infrared telescope",
+        "Uranus rings",
+        "Student education",
+        "Volunteer astronomers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay03-celestial-calendar-may-2003",
+      "documentId": "ephmay03",
+      "title": "Celestial calendar May 2003",
+      "summary": "This document provides a detailed celestial calendar for May 2003, outlining lunar phases with dates and times (PDT), and daily rise, transit, and set times. It also includes ephemeris data for the nearer planets (Mercury, Venus, Mars, Jupiter, Saturn), detailing their right ascension, declination, and magnitudes. Additionally, it lists solar information such as hours of darkness, astronomical twilight times, sidereal time, and a specific dark night observation opportunity.",
+      "categories": [
+        "Celestial Calendar",
+        "Observing Guide",
+        "Astronomy",
+        "Ephemeris Data",
+        "Planetary Motion"
+      ],
+      "keywords": [
+        "May 2003",
+        "Lunar Phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Hours of Darkness",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Celestial Events",
+        "Planetary Data"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmay03-sjaa-loaner-scope-status",
+      "documentId": "ephmay03",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an update on its telescope loaner program, detailing which scopes are currently available for immediate loan, which are out on standard loan with due dates, and those with extended loan periods. SJAA members can contact Mike Koop to borrow equipment, with a waiting list in place for popular items. The article also lists contact information for the program coordinator and the members storing or borrowing the telescopes.",
+      "categories": [
+        "Loaner Program",
+        "Equipment Status",
+        "Membership Services",
+        "Astronomy Club Management",
+        "Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "available scopes",
+        "loaned scopes",
+        "waiting list",
+        "Dobsonian",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Spectroscope",
+        "Solar Scope",
+        "astronomy equipment",
+        "club resources",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0305/EphMay03.pdf",
+      "txtPath": "0305/EphMay03.md"
+    }
+  ]
+}

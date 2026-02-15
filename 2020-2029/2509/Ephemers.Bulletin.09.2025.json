@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": "ephemers-bulletin-09-2025-sjaa-ephemeris-bulletin",
+      "documentId": "ephemers-bulletin-09-2025",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin for September 2025 explores Polycyclic Aromatic Hydrocarbons (PAHs) as potential building blocks of life, noting their suspected presence in the Iris Nebula. This reflection nebula in Cepheus is also featured as the 'Target of the Month,' with detailed observing information for visual and photographic viewing. The bulletin concludes with club announcements regarding an upcoming swap meet, a new membership renewal system, the launch of an SJAA Discord server, and calls for volunteers.",
+      "categories": [
+        "Astronomy Education",
+        "Observational Astronomy",
+        "Club News",
+        "Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "Polycyclic Aromatic Hydrocarbons (PAHs)",
+        "Iris Nebula",
+        "Reflection Nebulae",
+        "Deep Sky Objects",
+        "Observing Tips",
+        "Astronomy Club",
+        "Swap Meet",
+        "Membership",
+        "Volunteers"
+      ],
+      "pageStart": 2,
+      "pageEnd": 93
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemers-bulletin-09-2025",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2509/Ephemers.Bulletin.09.2025.pdf",
+      "txtPath": "2509/Ephemers.Bulletin.09.2025.md"
+    }
+  ]
+}

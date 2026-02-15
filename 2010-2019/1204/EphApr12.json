@@ -1,0 +1,196 @@
+{
+  "articles": [
+    {
+      "id": "ephapr12-the-shallow-sky",
+      "documentId": "ephapr12",
+      "title": "The Shallow Sky",
+      "summary": "This article explains why Venus reaches its peak brightness during its crescent phase, contrasting this with the Moon's behavior due to the planets' differing orbital distances from Earth. It also offers specific observing notes and tips for other planets, including Mars, Saturn, Jupiter, Mercury, Uranus, Neptune, and Pluto, visible in the April 2012 night sky. Additionally, it mentions the upcoming Golden State Star Party.",
+      "categories": [
+        "Observing Reports",
+        "Celestial Mechanics",
+        "Astronomy Tips",
+        "Events"
+      ],
+      "keywords": [
+        "Venus",
+        "Mars",
+        "Saturn",
+        "Jupiter",
+        "Mercury",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Crescent phase",
+        "Peak brightness",
+        "Orbital distance",
+        "Night sky",
+        "Astronomical observation",
+        "Golden State Star Party",
+        "April 2012"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephapr12-observing-report",
+      "documentId": "ephapr12",
+      "title": "Observing Report",
+      "summary": "This article features a first observing report by Harsh Kaushikkar, a newcomer to astronomy, detailing his successful deep-sky observation session at Ranch Cañada del Oro facilitated by the SJAA's mentoring and loaner telescope programs. He describes locating several open clusters (M41, M50, NGC 2360, M47, M46 with NGC 2438) and the M81/M82 galaxy pair using star-hopping techniques. The article also includes a brief solar observation report by Ernie Piini, featuring a photo taken with an 8-inch Newtonian telescope.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Society Programs",
+        "Deep Sky Objects",
+        "Solar Observation",
+        "Amateur Astronomy",
+        "Equipment Use"
+      ],
+      "keywords": [
+        "Observing report",
+        "Harsh Kaushikkar",
+        "SJAA",
+        "Mentoring program",
+        "Loaner telescope",
+        "Ranch Cañada del Oro",
+        "Deep Sky Objects",
+        "M41",
+        "M50",
+        "NGC 2360",
+        "M47",
+        "M46",
+        "NGC 2438",
+        "M81",
+        "M82",
+        "Open clusters",
+        "Galaxies",
+        "Planetary nebula",
+        "Star hopping",
+        "Sky Safari",
+        "Ernie Piini",
+        "Solar observation",
+        "Newtonian telescope"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr12-nasa-space-place",
+      "documentId": "ephapr12",
+      "title": "NASA Space Place",
+      "summary": "The article's main section, \"The Planet in the Machine,\" explains the complexity of Earth's climate and weather, likening it to a \"butterfly effect\" driven by global systems. It introduces Earth system science, which uses mathematical models and data from NASA's Earth-observing satellites (like Terra, Aqua, and CloudSat) to understand these interactions and predict future climate changes. Additionally, the document includes announcements for an SJAA Yosemite public star party and a report on a talk about the Moon's geological features.",
+      "categories": [
+        "Science Communication",
+        "Earth Science",
+        "Climate Studies",
+        "Space Missions",
+        "Astronomy",
+        "Events",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Earth system science",
+        "Climate modeling",
+        "Weather prediction",
+        "NASA Earth-observing satellites",
+        "CloudSat",
+        "Astronomy events",
+        "Yosemite Star Party",
+        "Lunar geology",
+        "Space Place"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr12-the-last-month-in-astronomy",
+      "documentId": "ephapr12",
+      "title": "The Last Month In Astronomy",
+      "summary": "The article summarizes various astronomical discoveries and updates from February and March 2012, covering new insights into Jupiter's atmosphere, the discovery of numerous stellar bubbles in the Milky Way by citizen scientists, and intriguing findings regarding dark matter, planetary atmospheres, and star formation. It also details updates on lunar geologic activity, the search for the Higgs boson, and the classification of new exoplanets, alongside the launch capabilities of the ESA.",
+      "categories": [
+        "news",
+        "scientific discoveries",
+        "space missions",
+        "planetary science",
+        "astrophysics",
+        "citizen science"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Cassini spacecraft",
+        "Milky Way Project",
+        "dark matter",
+        "Hubble Space Telescope",
+        "Dione",
+        "Rhea",
+        "Orion Nebula",
+        "Herschel Space Observatory",
+        "Near-Earth Objects (NEOs)",
+        "Higgs boson",
+        "Lunar Reconnaissance Orbiter",
+        "exoplanets",
+        "ESA launchers",
+        "astronomy 2012"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr12-it-must-be-astronomical",
+      "documentId": "ephapr12",
+      "title": "It Must Be Astronomical ...",
+      "summary": "The article announces that the SJAA board elections concluded with all officers retaining their current positions. It also reports that the annual SJAA auction has been rescheduled to May 6, 2012, at Houge Park, starting at noon.",
+      "categories": [
+        "News",
+        "Events",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Elections",
+        "Auction",
+        "Rescheduled",
+        "May 2012",
+        "Houge Park",
+        "Phil Plait"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr12-loaners",
+      "documentId": "ephapr12",
+      "title": "Loaners",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) loaner telescope program for members and lists the organization's officers and Ephemeris newsletter staff. It also provides comprehensive statistics for completed and scheduled school star parties, along with various contact methods and publication details for the monthly SJAA Ephemeris.",
+      "categories": [
+        "Club Information",
+        "Member Services",
+        "Events Reporting",
+        "Organizational Directory",
+        "Publications"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Program",
+        "Telescopes",
+        "Officers",
+        "Board of Directors",
+        "Ephemeris",
+        "Newsletter",
+        "School Star Parties",
+        "Event Statistics",
+        "Contact Information",
+        "Astronomy Club"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1204/EphApr12.pdf",
+      "txtPath": "1204/EphApr12.md"
+    }
+  ]
+}

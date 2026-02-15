@@ -1,0 +1,181 @@
+{
+  "articles": [
+    {
+      "id": "ephaug04-book-review",
+      "documentId": "ephaug04",
+      "title": "Book Review",
+      "summary": "This article reviews and compares three astronomy textbooks: \"Astronomy Today\" (Chaisson), \"The Cosmos\" (Filippenko), and briefly \"Voyages to the Stars and Galaxies\" (Fraknoi). It evaluates them for amateur astronomers as reference tools, considering aspects like index utility, illustrations, mathematical presentation, and supplementary materials. While Chaisson is recommended for students in formal courses, Filippenko is ultimately favored for self-study due to its more accessible writing style and affordability.",
+      "categories": [
+        "Book Review",
+        "Astronomy",
+        "Education",
+        "Textbooks",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astronomy textbooks",
+        "Book review",
+        "Chaisson and McMillan",
+        "Pasachoff and Filippenko",
+        "Andrew Fraknoi",
+        "Reference books",
+        "Amateur astronomers",
+        "Learning resources",
+        "Stellar spectra",
+        "Hertzsprung-Russell diagram",
+        "Olbers' paradox",
+        "SkyChart III",
+        "The Sky software"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephaug04-opposites-attract",
+      "documentId": "ephaug04",
+      "title": "Opposites Attract",
+      "summary": "This article discusses the celestial events surrounding a late August full Moon, noting its strong libration as an opportunity for lunar observation. It then delves into the concept of \"neap tides\" which occur during a full Moon due to the Sun and Moon's opposing gravitational pulls, partially canceling each other out. The author explains the mechanics of tidal bulges, regional tidal variations, the ecological importance of tides for coastal ecosystems, and recommends the xTide program for tidal pattern analysis.",
+      "categories": [
+        "Astronomy",
+        "Oceanography",
+        "Earth Science",
+        "Observational Astronomy",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Full Moon",
+        "Libration",
+        "Tides",
+        "Neap Tide",
+        "Gravitational Influence",
+        "Sun-Moon Opposition",
+        "Tidal Bulges",
+        "Lunar Observation",
+        "Coastal Ecosystems",
+        "xTide"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephaug04-scallops-and-wisps",
+      "documentId": "ephaug04",
+      "title": "Scallops and Wisps",
+      "summary": "The article details recent discoveries by the Cassini-Huygens probe at Saturn, highlighting intriguing features like the scalloped edges of the Encke gap, density waves, the complex F ring, and evidence of \"dirt\" in the rings suggesting a possible origin from broken moons. It also offers an August observing guide for various planets, including Uranus, Neptune, and Pluto, noting their visibility and challenges for backyard astronomers, and promotes local Perseid meteor shower events organized by the San Jose Astronomical Association.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Observational Astronomy",
+        "Astronomy News",
+        "Local Astronomy Events"
+      ],
+      "keywords": [
+        "Cassini-Huygens",
+        "Saturn",
+        "Encke gap",
+        "F ring",
+        "Saturn's rings",
+        "Planetary observing",
+        "Perseid meteor shower",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "SJAA",
+        "Orbital dynamics",
+        "Space probe",
+        "August astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug04-chasing-the-planet-venus",
+      "documentId": "ephaug04",
+      "title": "Chasing the Planet Venus",
+      "summary": "Ernie Piini recounts his challenging yet rewarding experience observing the rare 2004 Transit of Venus. After a hip injury forced the cancellation of a planned trip to Egypt, he rerouted to Boston, MA, where he successfully captured the event with his daughter and friends from Revere Beach Blvd. despite initial fog and later cloud cover, using specialized photographic equipment.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Personal Narrative",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Transit of Venus",
+        "2004",
+        "Ernie Piini",
+        "Boston, MA",
+        "Amateur Astronomy",
+        "Solar Observation",
+        "Celestial Events",
+        "Photography"
+      ],
+      "pageStart": 5,
+      "pageEnd": 87
+    },
+    {
+      "id": "ephaug04-solar-system-stats-for-august-2004",
+      "documentId": "ephaug04",
+      "title": "Solar System Stats for August 2004",
+      "summary": "This document provides detailed astronomical statistics for the Solar System objects (Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and the Sun) for August 2004. It includes ephemeris data such as Right Ascension (RA), Declination (Dec), distance from Earth (AU), apparent magnitude (Mag), and apparent size (Size) at three specific dates within the month. The data is adapted from official astronomical handbooks, offering a comprehensive guide for observers.",
+      "categories": [
+        "Ephemeris",
+        "Observational Data",
+        "Planetary Astronomy",
+        "Technical Data",
+        "Reference"
+      ],
+      "keywords": [
+        "Solar System",
+        "August 2004",
+        "Planets",
+        "Sun",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Distance",
+        "Apparent Size",
+        "Astronomy Data",
+        "Ephemeris"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug04-sjaa-loaner-scope-status",
+      "documentId": "ephaug04",
+      "title": "SJAA loaner scope status",
+      "summary": "This article details the status of the San Jose Astronomical Association's (SJAA) telescope loaner program, providing a comprehensive list of available scopes, those currently on loan with due dates, and scopes with extended loan periods. SJAA members interested in borrowing equipment are instructed to contact Mike Koop for arrangements. A waiting list is also provided for popular scopes.",
+      "categories": [
+        "Membership Services",
+        "Equipment Loan Program",
+        "Observing Resources",
+        "Club Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy equipment",
+        "Dobson",
+        "Schmidt-Cassegrain",
+        "refractor",
+        "Newtonian",
+        "spectroscope",
+        "members",
+        "borrowing",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0408/EphAug04.pdf",
+      "txtPath": "0408/EphAug04.md"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "articles": [
+    {
+      "id": "ephaug00-the-celestial-tourist-in-hawaii",
+      "documentId": "ephaug00",
+      "title": "The Celestial Tourist in Hawaii",
+      "summary": "Jay Freeman details his final two nights of observing from Mauna Kea, Hawaii, highlighting the breathtaking naked-eye view of the Milky Way and the surprising efficacy of large binoculars for wide-field southern sky astronomy. The report also includes several vivid eyewitness accounts from various locations in California of a spectacular, slow-moving celestial object on July 1, 2000, later identified as the re-entry of the Raduga 26 auxiliary motor, which captivated numerous amateur astronomers and public stargazers.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Celestial Phenomena",
+        "Equipment Review",
+        "Events",
+        "News"
+      ],
+      "keywords": [
+        "Mauna Kea",
+        "Hawaii",
+        "Milky Way",
+        "Naked-eye astronomy",
+        "Binoculars",
+        "Portable telescope",
+        "Deep-sky objects",
+        "Southern celestial objects",
+        "Dark nebulae",
+        "Satellite re-entry",
+        "Raduga 26",
+        "Star party",
+        "SJAA",
+        "Astronomical observation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephaug00-mooning",
+      "documentId": "ephaug00",
+      "title": "Mooning",
+      "summary": "This article, 'Mooning,' from August 2000, details several celestial events for observers. It covers the visibility of Comet C/1999 LINEAR, planetary observations (Jupiter, Saturn, Uranus, Neptune, Pluto), and a challenging semi-occultation of Venus by the Moon. Additionally, it provides extensive information on observing the Perseid meteor shower, including its peak and minor radiants, alongside tips for lunar observation and a report on a rocket launch.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Events",
+        "Guides & Tips",
+        "Planetary Observation",
+        "Lunar Observation",
+        "Meteor Showers",
+        "Safety Warnings",
+        "Space Launches"
+      ],
+      "keywords": [
+        "Comet C/1999 LINEAR",
+        "Perseid Meteor Shower",
+        "Venus Occultation",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Moon Observation",
+        "Mare Orientale",
+        "Minuteman Launch",
+        "Astronomical Observing",
+        "Safety",
+        "August 2000"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephaug00-fun-club-stuff-to-do",
+      "documentId": "ephaug00",
+      "title": "Fun Club Stuff To Do",
+      "summary": "This article, titled \"Fun Club Stuff To Do\" by Dave North, is a call for members of SJAA (likely an astronomy club) to get more involved in club activities and projects. It lists several areas where the club is understaffed, from administrative roles like Treasurer and event coordination to hands-on tasks such as mirror and telescope making, and encourages members to propose their own ideas. The author emphasizes that involvement should stem from genuine interest and a desire to have fun, rather than obligation, promising support for members' initiatives.",
+      "categories": [
+        "Volunteerism",
+        "Club Operations",
+        "Member Engagement",
+        "Club Projects"
+      ],
+      "keywords": [
+        "SJAA",
+        "volunteer",
+        "club projects",
+        "member involvement",
+        "tasks",
+        "treasurer",
+        "event coordination",
+        "mirror making",
+        "telescope making",
+        "club resources",
+        "board members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug00-fremont-peak-notes",
+      "documentId": "ephaug00",
+      "title": "Fremont Peak Notes",
+      "summary": "This article provides advice for astronomers visiting Fremont Peak, detailing the three main use areas: the Observatory, Coulter Row, and the Southwest Lot. The author strongly advises against using Coulter Row due to worsening conditions like loud music and light pollution, recommending the Southwest Lot as the best option for casual astronomers despite its limited southern, northern, and eastern horizons. The piece also expresses hope for a future improvement at Coulter Row.",
+      "categories": [
+        "Observing Sites",
+        "Observing Reports",
+        "Advice",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Coulter Row",
+        "Southwest Lot",
+        "SJAA",
+        "FPOA",
+        "Observing conditions",
+        "Light pollution",
+        "Astronomy advice",
+        "Dark sky sites"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephaug00-ptolemy-s-cafe",
+      "documentId": "ephaug00",
+      "title": "Ptolemy's Cafe",
+      "summary": "Bill Arnett details the creation of his backyard observatory, \"Ptolemy's Cafe,\" in the San Francisco Bay Area. He chose a \"Japanese tea house\" roll-off design for aesthetic appeal, overcoming challenges like light pollution, building codes requiring a substantial steel structure, and compromises in the roll-off support placement. The observatory, part of a larger landscaping project, features a unique adjustable pier to compensate for structural obstructions.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observatory Construction",
+        "Personal Experience",
+        "Design & Engineering"
+      ],
+      "keywords": [
+        "Ptolemy's Cafe",
+        "Bill Arnett",
+        "Home observatory",
+        "Backyard observatory",
+        "Roll-off roof",
+        "Japanese tea house design",
+        "San Francisco Bay Area",
+        "Light pollution",
+        "Telescope pier",
+        "Observatory design"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephaug00-paul-graves-1939-2000",
+      "documentId": "ephaug00",
+      "title": "Paul Graves, 1939-2000",
+      "summary": "Paul Graves, a beloved science teacher at Dartmouth Middle School for 34 years and an active member of the San Jose Astronomical Association (SJAA), passed away on June 29, 2000, after a year-long battle with pancreatic cancer. He was remembered for his passion for astronomy, including chasing solar eclipses and conducting star parties, and for his love of nature and adventure. His life was celebrated by friends, family, and students, who dedicated their yearbook to him shortly before his passing.",
+      "categories": [
+        "Obituary",
+        "Astronomy Club News",
+        "Personal History"
+      ],
+      "keywords": [
+        "Paul Graves",
+        "Obituary",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Dartmouth Middle School",
+        "Astronomy",
+        "Solar Eclipse",
+        "Star Parties",
+        "Pancreatic Cancer",
+        "Boy Scouts of America"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug00-sjaa-loaner-scope-status",
+      "documentId": "ephaug00",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article outlines the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program, detailing which scopes are available for immediate loan, those currently on loan with their due dates, and scopes with extended loan periods. It also provides contact information for Mike Koop to arrange borrowing and lists members on a waiting list for popular items. The program is exclusive to SJAA members.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Club Management",
+        "Member Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescopes",
+        "Dobson",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Solar Scope",
+        "Spectroscope",
+        "Astrophotography",
+        "Mike Koop",
+        "Waiting List",
+        "Astronomy Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug00",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0008/EphAug00.pdf",
+      "txtPath": "0008/EphAug00.md"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1407-observing-reports-activities",
+      "documentId": "ephemeris-1407",
+      "title": "Observing Reports & Activities",
+      "summary": "This article compiles several reports from the San Jose Astronomical Association (SJAA) activities in May and June 2014, including successful public star parties at Rancho Canada del Oro and a dark sky exploratory trip to Pinnacles National Park. It details a competitive Deep Sky Scavenger Hunt at Mendoza Ranch and highlights monthly solar observing. Additionally, the article introduces and reviews the 'Deep Sky Objects Browser,' a free web-based tool for planning astronomical observations, featuring an interview with its creator.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Events",
+        "Astronomical Tools",
+        "Club Activities",
+        "Dark Sky Exploration"
+      ],
+      "keywords": [
+        "Observing Reports",
+        "Star Parties",
+        "Deep Sky Objects",
+        "Dark Sky Sites",
+        "Astronomical Events",
+        "Deep Sky Objects Browser",
+        "San Jose Astronomical Association (SJAA)",
+        "Solar Observing",
+        "Pinnacles National Park",
+        "Rancho Canada del Oro",
+        "Mendoza Ranch",
+        "Telescopes",
+        "Binoculars",
+        "Milky Way",
+        "ISS"
+      ],
+      "pageStart": 2,
+      "pageEnd": 101
+    },
+    {
+      "id": "ephemeris-1407-ceres-and-vesta",
+      "documentId": "ephemeris-1407",
+      "title": "Ceres and Vesta",
+      "summary": "The article encourages observers to view asteroids Ceres and Vesta, which are currently visible together in the same binocular field and will be closest around July 4th. This conjunction is a rare event, occurring only once every 16 years, with the next very close approach not until 2081, making it a unique observing opportunity.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Event",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Ceres",
+        "Vesta",
+        "Asteroids",
+        "Observation",
+        "Binoculars",
+        "Telescope",
+        "Visibility",
+        "Rare event",
+        "July 4th"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1407-kid-spot",
+      "documentId": "ephemeris-1407",
+      "title": "KID SPOT",
+      "summary": "The \"Kid Spot\" section offers space-themed entertainment, including two jokes and a two-question quiz about the first space probe to leave the solar system. It also provides a \"Night Sky Challenge\" for July 2014, listing celestial objects like Saturn, Mars, Antares, and the M4 globular cluster for young observers to spot.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Observing Guide",
+        "Quizzes/Games",
+        "Kids Content"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Jokes",
+        "Quiz",
+        "Night Sky Challenge",
+        "July 2014",
+        "Saturn",
+        "Mars",
+        "Antares",
+        "M4",
+        "Globular Cluster",
+        "Scorpio",
+        "Space Probe",
+        "Solar System"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1407-constellations",
+      "documentId": "ephemeris-1407",
+      "title": "Constellations",
+      "summary": "The article provides a detailed profile of Scorpius, a prominent zodiac constellation in the southern hemisphere, known for its bright stars like Antares and numerous deep-sky objects, including the Butterfly and Ptolemy Clusters, and the globular cluster Messier 80. It also delves into the rich Greek mythology associated with Scorpius, particularly its legendary battle with Orion, highlighting its origin in the sky as a cautionary tale against pride.",
+      "categories": [
+        "Constellation Profile",
+        "Astronomy",
+        "Mythology",
+        "Deep-Sky Objects"
+      ],
+      "keywords": [
+        "Scorpius",
+        "constellation",
+        "zodiac",
+        "Antares",
+        "deep-sky objects",
+        "Messier objects",
+        "globular cluster",
+        "Greek Mythology",
+        "Orion",
+        "Milky Way"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1407-club-updates",
+      "documentId": "ephemeris-1407",
+      "title": "Club Updates",
+      "summary": "The San Jose Astronomical Association (SJAA) recently expanded its library with 14 new children's astronomy books, while its Advanced Loaner Telescope Program remains popular despite damage to the club's 20-inch scope. The club continues its monthly Fix-It sessions for equipment assistance and is preparing for its 60th anniversary celebration. Additionally, the board is exploring joining the Astronomical League, collaborating on the Mobile Observatory Project, and planning upgrades for the loaner equipment program.",
+      "categories": [
+        "Club Updates",
+        "Program Updates",
+        "Equipment",
+        "Member Services",
+        "Club Governance",
+        "Events",
+        "Education",
+        "Partnerships"
+      ],
+      "keywords": [
+        "SJAA Library",
+        "Loaner Telescope Program",
+        "Telescope Repair",
+        "Fix-It Program",
+        "60th Anniversary",
+        "Astronomical League",
+        "Mobile Observatory Project",
+        "Club Board",
+        "Astronomy Education",
+        "Telescope Maintenance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1407",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1407/Ephemeris.1407.pdf",
+      "txtPath": "1407/Ephemeris.1407.md"
+    }
+  ]
+}

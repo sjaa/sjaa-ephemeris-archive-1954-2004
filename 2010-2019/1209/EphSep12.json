@@ -1,0 +1,228 @@
+{
+  "articles": [
+    {
+      "id": "ephsep12-a-deeper-look-at-sunspots",
+      "documentId": "ephsep12",
+      "title": "A Deeper Look at Sunspots",
+      "summary": "The article \"A Deeper Look at Sunspots\" explains sunspots as deep, dark, and semi-transparent depressions on the Sun's surface, detailing the Wilson Effect and the scientific reasons for their appearance. It attributes their darkness to suppressed convection by strong magnetic fields and their semi-transparency to lower temperature and density. The author also emphasizes the enhanced viewing experience of sunspots, especially in 3D using H-Alpha telescopes, and provides a detailed activity calendar for the San Jose Astronomical Association for September and October 2012.",
+      "categories": [
+        "Astronomy Education",
+        "Solar Observation",
+        "Technical Explanation",
+        "Club Activities",
+        "Events Calendar"
+      ],
+      "keywords": [
+        "Sunspots",
+        "Solar observation",
+        "Wilson Effect",
+        "H-Alpha",
+        "Photosphere",
+        "Umbra",
+        "Penumbra",
+        "Magnetic field",
+        "Convection",
+        "Solar physics",
+        "SJAA",
+        "Star party",
+        "Telescope tune-up",
+        "Astronomy class",
+        "General Meeting"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephsep12-the-shallow-sky",
+      "documentId": "ephsep12",
+      "title": "The Shallow Sky",
+      "summary": "This article discusses the lunar multi-ring Orientale basin, detailing its formation theories, visibility due to libration, and a comparison with Mercury's geology. It also provides an observing guide for September, highlighting the positions of various planets and a unique \"appulsar\" event on September 23rd where Uranus makes a close approach with the star 44 Piscium, offering a rare opportunity for naked-eye and binocular observation.",
+      "categories": [
+        "Observing Guide",
+        "Lunar Science",
+        "Planetary Observation",
+        "Astronomical Events",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "Orientale basin",
+        "Moon",
+        "Libration",
+        "Uranus",
+        "44 Piscium",
+        "Appulse",
+        "Planetary observation",
+        "September sky",
+        "NASA Lunar conference",
+        "GRAIL mission",
+        "Multi-ring basins"
+      ],
+      "pageStart": 3,
+      "pageEnd": 28
+    },
+    {
+      "id": "ephsep12-a-brand-new-age-queue-observing-at-mt-paranal",
+      "documentId": "ephsep12",
+      "title": "A Brand New Age: Queue Observing at Mt. Paranal",
+      "summary": "The article describes the author's visit to the Mt. Paranal observatory in Chile, highlighting its modern \"queue observing\" system. This method involves resident astronomers specializing in instruments and collecting data for other scientists, a stark contrast to traditional individual observing. The author emphasizes the system's increased efficiency, collaborative nature, and environmental benefits, despite a personal reflection on a potential loss of observing romance.",
+      "categories": [
+        "Observatory Operations",
+        "Astronomical Observing Methods",
+        "Field Report",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Queue observing",
+        "Mt. Paranal",
+        "Observatory operations",
+        "Astronomical observing",
+        "Efficiency",
+        "Chile",
+        "Astronomer roles",
+        "Data collection",
+        "Modern observatories"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep12-fixit-program",
+      "documentId": "ephsep12",
+      "title": "Fixit Program",
+      "summary": "The SJAA Fixit program offers free telescope repair, tune-up, and setup assistance to club members and attendees on the first Sunday of each month at Houge Park, alongside the SJAA Solar Observing program. Recent activities included collimation, GOTO function setup, new telescope assembly, and repairs for the advanced scope loaner program. Members needing help are encouraged to contact the program in advance via the SJAA website.",
+      "categories": [
+        "Club Activity",
+        "Service Offering",
+        "Observing Report",
+        "Technical Assistance"
+      ],
+      "keywords": [
+        "SJAA",
+        "Fixit Program",
+        "Telescope Repair",
+        "Telescope Setup",
+        "Telescope Tune-up",
+        "Collimation",
+        "GOTO Function",
+        "Solar Observing",
+        "Houge Park",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep12-astronomy-magazine-renewal-time",
+      "documentId": "ephsep12",
+      "title": "ASTRONOMY magazine renewal time",
+      "summary": "Jim Van Nuland is organizing the group renewal for Astronomy magazine subscriptions for the 2013 year. Subscribers can renew at a special group rate of $34 for one year or $60 for two years by sending a check to him. Independent subscribers can convert to the group rate, and new subscribers can also join, with all checks to be held until late September.",
+      "categories": [
+        "Subscription Renewal",
+        "Announcement",
+        "Membership Services",
+        "Administrative"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "Subscription renewal",
+        "Group rate",
+        "2013",
+        "Jim Van Nuland",
+        "Magazine subscription",
+        "Payment",
+        "Deadline"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep12-the-last-month-in-astronomy",
+      "documentId": "ephsep12",
+      "title": "The Last Month In Astronomy",
+      "summary": "The last month in astronomy saw the successful landing of the Mars Science Laboratory 'Curiosity' on Mars using innovative sky crane technology. Tragically, America's first woman in space, Sally Ride, passed away at age 61. Additionally, the Spitzer Infrared Space Observatory detected a candidate for the smallest exoplanet discovered to date, UCF-1.01, orbiting its star every 1.4 days.",
+      "categories": [
+        "Space Exploration",
+        "Astronomical Discoveries",
+        "News",
+        "Obituary",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Curiosity rover",
+        "Mars",
+        "JPL",
+        "Sally Ride",
+        "Space Shuttle Challenger",
+        "Exoplanet",
+        "UCF-1.01",
+        "Spitzer Infrared Space Observatory",
+        "Transit Detection",
+        "NASA"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep12-if-you-re-reading-this-we-want-you",
+      "documentId": "ephsep12",
+      "title": "If You're Reading This - We Want You!",
+      "summary": "The article, penned by SJAA President Mark Wagner, serves as a direct appeal for members to volunteer, contribute new ideas, and actively participate in the astronomy club's growth. It showcases several successful new programs like Solar Observing, Fix-It Day, an Imaging SIG, and Quick STARt for beginners, demonstrating the club's adaptability and welcoming attitude towards new initiatives. Wagner emphasizes that the club's vibrancy stems from member involvement and encourages attendance at board meetings to help shape its future.",
+      "categories": [
+        "Call to Action",
+        "Club News",
+        "Volunteer Recruitment",
+        "Program Updates",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Volunteer recruitment",
+        "Astronomy club programs",
+        "Solar observing",
+        "Telescope repair",
+        "Astrophotography",
+        "Beginner astronomy",
+        "Club leadership",
+        "Member involvement",
+        "Public outreach"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephsep12-it-must-be-astronomical",
+      "documentId": "ephsep12",
+      "title": "It Must Be Astronomical...",
+      "summary": "The San Jose Astronomical Association (SJAA) has revamped its telescope loaner program, introducing \"QuickSTARt\" for new astronomers. The article details the successful completion of two school star parties in July 2012 and lists 8 more scheduled for the 2012/2013 school year. Additionally, it provides contact information for SJAA officers, staff, and publication details for their monthly newsletter, the Ephemeris.",
+      "categories": [
+        "Club News",
+        "Program Updates",
+        "Outreach Events",
+        "Contact Information",
+        "Publication Details"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Telescope Loaner Program",
+        "QuickSTARt",
+        "School Star Parties",
+        "Astronomy Outreach",
+        "Club Officers",
+        "Ephemeris Newsletter",
+        "Astronomy Events"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1209/EphSep12.pdf",
+      "txtPath": "1209/EphSep12.md"
+    }
+  ]
+}

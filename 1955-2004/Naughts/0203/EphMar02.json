@@ -1,0 +1,187 @@
+{
+  "articles": [
+    {
+      "id": "ephmar02-atm-class",
+      "documentId": "ephmar02",
+      "title": "ATM Class",
+      "summary": "This article discusses three distinct topics: a continuation of an ATM (Amateur Telescope Making) class, explaining concepts like sagitta, focal length, and focal ratio; an announcement for a free public lecture by Dr. Debra Fischer on exoplanets, scheduled for March 6, 2002; and a tribute to Dr. Boris Gregory, a former SJAA president, detailing his contributions to amateur astronomy and the origin of the A.B. Gregory award.",
+      "categories": [
+        "Amateur Telescope Making",
+        "Astronomy Lectures",
+        "Club History",
+        "Awards",
+        "Educational Content",
+        "Events"
+      ],
+      "keywords": [
+        "ATM Class",
+        "Telescope Making",
+        "Focal Length",
+        "Focal Ratio",
+        "Debra Fischer",
+        "Exoplanets",
+        "Planetary Systems",
+        "Silicon Valley Astronomy Lecture Series",
+        "Boris Gregory",
+        "SJAA",
+        "A.B. Gregory Award",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmar02-mooning",
+      "documentId": "ephmar02",
+      "title": "Mooning",
+      "summary": "Dave North presents his detailed lunar observation log for January 2002, aiming to inspire and guide fellow amateur astronomers. The log meticulously describes various lunar features, observing conditions, and specific equipment used, providing practical insights into moon observing techniques and the aesthetic appreciation of lunar topography. It covers challenges like seeing conditions and highlights prime observing nights for specific areas like Copernicus and Triesnecker.",
+      "categories": [
+        "Observing Reports",
+        "Lunar Astronomy",
+        "Amateur Astronomy",
+        "Observing Tips & Techniques",
+        "Events"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observations",
+        "Amateur astronomy",
+        "Observing log",
+        "Telescopes",
+        "Eyepieces",
+        "Seeing conditions",
+        "Terminator",
+        "Lunar features",
+        "Rilles",
+        "Craters",
+        "Domes",
+        "Mare",
+        "Montes",
+        "Crisium",
+        "Copernicus",
+        "Triesnecker",
+        "Aristarchus",
+        "Mare Humorum",
+        "Mare Orientale",
+        "Star parties",
+        "Dave North",
+        "January 2002"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar02-be-a-visiting-astronomer-in-your-local-school",
+      "documentId": "ephmar02",
+      "title": "Be a Visiting Astronomer in your Local School",
+      "summary": "Project ASTRO is recruiting amateur or professional astronomers, including graduate and undergraduate students, to partner with Bay Area 4th-9th grade teachers. This program involves attending a summer training workshop and making at least four classroom visits during the school year to foster ongoing astronomy and science education. Applications for the 2002-2003 school year are open until May 10th for this rewarding volunteer opportunity.",
+      "categories": [
+        "Education",
+        "Astronomy Outreach",
+        "Volunteer Opportunity",
+        "Program Announcement"
+      ],
+      "keywords": [
+        "Project ASTRO",
+        "Astronomy education",
+        "Science outreach",
+        "Volunteer astronomers",
+        "Teacher partnerships",
+        "K-9 classrooms",
+        "Bay Area",
+        "Astronomical Society of the Pacific"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar02-asp-and-astronomical-league-survey-amateur-outreach",
+      "documentId": "ephmar02",
+      "title": "ASP and Astronomical League Survey Amateur Outreach",
+      "summary": "The Astronomical Society of the Pacific (ASP) and the Astronomical League (AL), funded by the National Science Foundation (NSF), are conducting a web-based survey of amateur astronomers involved in or interested in public outreach. This initiative aims to understand amateurs' current outreach activities and needs to inform the development of materials and services that will help them improve and expand their public engagement efforts. The survey results, expected by late 2002, will contribute to enhancing activities like star parties and school visits.",
+      "categories": [
+        "News",
+        "Outreach",
+        "Surveys",
+        "Collaboration",
+        "Funding"
+      ],
+      "keywords": [
+        "ASP",
+        "Astronomical League",
+        "Amateur astronomers",
+        "Public outreach",
+        "Survey",
+        "National Science Foundation",
+        "Astronomy education",
+        "Star parties",
+        "School visits",
+        "Public engagement"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar02-comet-comments-the-return-of-machholz-1",
+      "documentId": "ephmar02",
+      "title": "Comet Comments — The Return of Machholz 1",
+      "summary": "This article discusses the return of Comet 96P/Machholz 1, discovered by Don Machholz in 1986. During its close approach to the Sun in January 2002, the comet was primarily observed by the ESA-NASA SOHO spacecraft using its LASCO and UVCS instruments. These observations provided unique views of the comet near the solar corona, with Venus also visible in some images.",
+      "categories": [
+        "Cometary Astronomy",
+        "Spacecraft Observations",
+        "Solar System Objects",
+        "Astronomical Instruments",
+        "News"
+      ],
+      "keywords": [
+        "Comet Machholz 1",
+        "SOHO",
+        "LASCO",
+        "UVCS",
+        "Comet observation",
+        "Solar corona",
+        "Venus",
+        "Coronagraph",
+        "Ultraviolet Spectrometer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar02-sjaa-loaner-scope-status",
+      "documentId": "ephmar02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA (San Jose Astronomical Association) maintains a loaner telescope program, detailing the current status of its available equipment. The article lists telescopes that are immediately available for loan to SJAA members, those currently loaned out with their due dates, and scopes with extended loan periods. Members interested in borrowing a scope are instructed to contact Mike Koop for arrangements.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Membership Information",
+        "Astronomy Club Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Astronomy Club",
+        "Available Scopes",
+        "Scope Loans",
+        "Dobson",
+        "Refractor",
+        "S/C",
+        "Spectroscope",
+        "Mike Koop"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0203/EphMar02.pdf",
+      "txtPath": "0203/EphMar02.md"
+    }
+  ]
+}

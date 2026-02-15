@@ -1,0 +1,259 @@
+{
+  "articles": [
+    {
+      "id": "ephjan04-mooning",
+      "documentId": "ephjan04",
+      "title": "Mooning",
+      "summary": "This document contains diverse content, including an announcement for upcoming Cassini mission outreach programs and directions to Houge Park. The main piece, \"Extreme Mooning\" by Dave North, is a passionate critique of conventional lunar observing guides, advocating for a more immersive, spontaneous, and at times unconventional approach to experiencing the Moon, concluding that the most 'extreme' view is often the very first through a telescope.",
+      "categories": [
+        "Astronomy Observation",
+        "Space Exploration",
+        "Public Outreach",
+        "Event Information",
+        "Commentary"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar Observation",
+        "Cassini Mission",
+        "JPL",
+        "Saturn",
+        "Outreach Programs",
+        "Telescopes",
+        "Observing Tips",
+        "Houge Park",
+        "Dave North",
+        "Extreme Mooning",
+        "Eclipses"
+      ],
+      "pageStart": 2,
+      "pageEnd": 33
+    },
+    {
+      "id": "ephjan04-january-speaker-dr-elinor-gates",
+      "documentId": "ephjan04",
+      "title": "January Speaker: Dr. Elinor Gates",
+      "summary": "Dr. Elinor Gates, a support scientist at Lick Observatory, specializes in natural and laser guide star adaptive optics. Her upcoming talk will detail how adaptive optics (AO) systems combat atmospheric blurring to improve telescope resolution, focusing on Lick Observatory's Laser Guide Star AO system and recent astronomical research results from the Shane 3-meter telescope.",
+      "categories": [
+        "Speaker Announcement",
+        "Events",
+        "Technical Astronomy",
+        "Observatory News"
+      ],
+      "keywords": [
+        "Dr. Elinor Gates",
+        "Lick Observatory",
+        "Adaptive Optics",
+        "Laser Guide Star",
+        "Telescopes",
+        "Atmospheric Turbulence",
+        "Shane 3-meter telescope",
+        "Astronomical Instrumentation",
+        "High Resolution Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan04-astro-quips",
+      "documentId": "ephjan04",
+      "title": "Astro Quips",
+      "summary": "This document, titled \"Astro Quips,\" features two short, humorous anecdotes related to astronomy. The first is a pun referencing Kepler's laws of planetary motion, while the second humorously points out the frequent occurrence of \"once-in-a-lifetime\" events in astronomy.",
+      "categories": [
+        "Humor",
+        "Anecdotes",
+        "Miscellaneous"
+      ],
+      "keywords": [
+        "Astronomy humor",
+        "Kepler's laws",
+        "Planetary orbits",
+        "Astronomical events",
+        "Puns",
+        "Quips"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan04-editor-s-semi-dark-matter",
+      "documentId": "ephjan04",
+      "title": "Editor's Semi-Dark Matter",
+      "summary": "This 'Editor's Semi-Dark Matter' section from the January 2004 SJAA Ephemeris provides a mix of astronomical and club-related information. It highlights new definitions for 'fusor,' 'planemo,' and 'planet' from a Gibor Basri article, alongside announcements for the Silicon Valley Astronomy Lecture Series and a recommendation for the 'Let's Talk Stars' webcast. Additionally, it informs members about upcoming board nominations and a significant website upgrade enabling online membership renewal.",
+      "categories": [
+        "News",
+        "Events",
+        "Club Administration",
+        "Astronomy Terminology",
+        "Resources"
+      ],
+      "keywords": [
+        "Fusor",
+        "Planemo",
+        "Planet",
+        "Gibor Basri",
+        "Silicon Valley Astronomy Lecture Series",
+        "SJAA",
+        "Website update",
+        "Membership renewal",
+        "Board nominations",
+        "Let's Talk Stars",
+        "January 2004"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan04-january-rings-and-rocks",
+      "documentId": "ephjan04",
+      "title": "January Rings and Rocks",
+      "summary": "This article details celestial observations for January 2004, highlighting Venus, Saturn, and Jupiter as prominent in the night sky, along with observing tips for Mars and Ceres. It also provides a schedule for upcoming Mars lander missions (Beagle 2, Spirit, Opportunity) and updates on the Cassini probe's approach to Saturn and Huygens' mission to Titan.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Space Missions",
+        "News"
+      ],
+      "keywords": [
+        "January 2004",
+        "Planetary Observation",
+        "Saturn",
+        "Jupiter",
+        "Venus",
+        "Mars",
+        "Ceres",
+        "Space Probes",
+        "Mars Landings",
+        "Cassini",
+        "Huygens",
+        "Opposition",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan04-exploratorium-happenings",
+      "documentId": "ephjan04",
+      "title": "Exploratorium Happenings",
+      "summary": "The Exploratorium is dedicating the entire month of January to the Mars Exploration Rover (MER) Spirit landing on Mars, featuring webcasts of the landing, visitor-controlled robots in simulated \"Mars yards,\" and a full-scale model of the MER provided by JPL. This program aims to bring the Mars exploration experience to museum visitors through interactive exhibits, special events, and educational content, with support from the National Science Foundation.",
+      "categories": [
+        "Events",
+        "Exhibits",
+        "Museum Programs",
+        "Space Exploration",
+        "Robotics"
+      ],
+      "keywords": [
+        "Exploratorium",
+        "Mars Exploration Rover",
+        "MER Spirit",
+        "Mars",
+        "JPL",
+        "Robotics",
+        "Museum",
+        "Exhibits",
+        "Webcasts",
+        "National Science Foundation",
+        "Carnegie-Mellon Robotics Institute"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan04-quadrantid-shower-parent-comet",
+      "documentId": "ephjan04",
+      "title": "Quadrantid Shower Parent Comet",
+      "summary": "This article identifies asteroid 2003 EH1 as the long-sought parent body of the Quadrantid meteor shower, a discovery made possible by precise meteoroid trajectory data and recent asteroid surveys. Author Peter Jenniskens found that 2003 EH1's orbit, likely an extinct comet nucleus, closely matches the Quadrantid meteoroids, indicating a young shower approximately 500 years old and potentially linked to the historic comet C1490 Y1. This identification has implications for studying cometary dust and future space missions.",
+      "categories": [
+        "Astronomy",
+        "Meteor Showers",
+        "Cometary Science",
+        "Near-Earth Objects",
+        "Scientific Discovery",
+        "Observing Events"
+      ],
+      "keywords": [
+        "Quadrantid meteor shower",
+        "2003 EH1",
+        "Parent comet",
+        "Extinct comet nucleus",
+        "Meteoroid stream",
+        "Orbital evolution",
+        "Comet C1490 Y1",
+        "Peter Jenniskens",
+        "LONEOS",
+        "Asteroids"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan04-celestial-calendar-january-2004",
+      "documentId": "ephjan04",
+      "title": "Celestial Calendar January 2004",
+      "summary": "This document provides a detailed celestial calendar for January 2004, offering essential astronomical data for observers. It includes precise timings for moon phases, positions (rise, set, R.A., Dec., magnitude) for the nearer planets (Mercury, Venus, Mars, Jupiter, Saturn), and information on solar data like hours of darkness and astronomical twilight. The calendar also highlights sidereal time and identifies January 24th as the 'Darkest Saturday Night' for optimal viewing.",
+      "categories": [
+        "observing reports",
+        "ephemeris",
+        "celestial calendar",
+        "astronomical data",
+        "planetary positions",
+        "moon phases"
+      ],
+      "keywords": [
+        "January 2004",
+        "Moon phases",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Hours of Darkness",
+        "Astronomical twilight",
+        "Sidereal time",
+        "Darkest Saturday Night",
+        "Celestial events",
+        "Observing guide"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan04-sjaa-loaner-scope-status",
+      "documentId": "ephjan04",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article outlines the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program, detailing which scopes are available for immediate loan, which are currently borrowed with their due dates, and those with extended loan periods. SJAA members can contact Mike Koop to borrow a scope or be added to a waiting list for popular items. The program offers various types of telescopes, including Newtonians, Dobsonian, Reflectors, and Schmidt-Cassegrains.",
+      "categories": [
+        "Club Operations",
+        "Equipment Loan Program",
+        "Astronomy Resources",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy club",
+        "equipment status",
+        "Dobsonian",
+        "Newtonian",
+        "Refractor",
+        "Schmidt-Cassegrain",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0401/EphJan04.pdf",
+      "txtPath": "0401/EphJan04.md"
+    }
+  ]
+}

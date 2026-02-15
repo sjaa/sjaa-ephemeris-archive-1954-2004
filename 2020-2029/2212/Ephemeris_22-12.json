@@ -1,0 +1,289 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-22-12-comet-c-2022-e3-ztf",
+      "documentId": "ephemeris-22-12",
+      "title": "Comet C/2022 E3 (ZTF)",
+      "summary": "The article introduces Comet C/2022 E3 (ZTF) as the first bright comet of 2023, expected to become visible to the naked eye with a maximum magnitude of 4.6 in early February. Unique for its proximity to Polaris in January, it will offer long observation periods for sky-watchers and astrophotographers. Telescope observation is possible in December in the constellation Corona Borealis.",
+      "categories": [
+        "observing reports",
+        "celestial events",
+        "astronomy news",
+        "observing guides"
+      ],
+      "keywords": [
+        "Comet C/2022 E3 (ZTF)",
+        "naked eye comet",
+        "2023",
+        "Polaris",
+        "January",
+        "February",
+        "telescope observation",
+        "astrophotography",
+        "magnitude",
+        "Comet Observation Database"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-22-12-sjaa-is-an-annual-supporter-of-the-international-dark-sky-association",
+      "documentId": "ephemeris-22-12",
+      "title": "SJAA is an Annual Supporter of the International Dark-Sky Association!",
+      "summary": "The San Jose Astronomical Association (SJAA) is an annual supporter of the International Dark-Sky Association (IDA), an organization dedicated to protecting the night sky from light pollution. The article highlights IDA's broad relevance to various fields beyond astronomy and details SJAA's increased financial contribution and collaborative efforts, such as supporting Pinnacles National Park's dark sky designation. It underscores the importance of supporting IDA's work and building public awareness through outreach.",
+      "categories": [
+        "Club News",
+        "Advocacy",
+        "Environmental Protection",
+        "Light Pollution",
+        "Conservation",
+        "Partnerships"
+      ],
+      "keywords": [
+        "International Dark-Sky Association (IDA)",
+        "San Jose Astronomical Association (SJAA)",
+        "Light Pollution",
+        "Night Sky Preservation",
+        "Dark Sky Park",
+        "Astronomy Outreach",
+        "Pinnacles National Park",
+        "Bortle Scale",
+        "Environmental Impact"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-22-12-congrats-karen-bieber",
+      "documentId": "ephemeris-22-12",
+      "title": "Congrats Karen Bieber!",
+      "summary": "Karen Bieber, a member of SJAA, won the Panstarrs Comet Image Contest for her stunning astrophotograph of K2 PanSTARRS comet passing by the M10 Globular Cluster. Despite considering herself a beginner in astrophotography, having only started in April 2021, her well-timed shot taken on July 14, 2022, earned her the recognition, which was first published in the Losmandy Press Newsletter. The article also details the specific imaging equipment and software she utilized for this award-winning photo.",
+      "categories": [
+        "News",
+        "Awards",
+        "Astrophotography",
+        "Member News"
+      ],
+      "keywords": [
+        "Karen Bieber",
+        "Panstarrs Comet Image Contest",
+        "K2 PanSTARRS",
+        "M10 Globular Cluster",
+        "Astrophotography",
+        "SJAA",
+        "Losmandy",
+        "Image Processing",
+        "William Optics Redcat 71",
+        "ZWO ASI2600MC Pro"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-22-12-pinnacles-star-party-report",
+      "documentId": "ephemeris-22-12",
+      "title": "Pinnacles Star Party Report",
+      "summary": "The San Jose Astronomical Association (SJAA) successfully restarted its popular public star parties at Pinnacles National Park after a pandemic-induced hiatus. Several events from April to September attracted hundreds of guests and numerous astronomers, offering impressive views of celestial objects and dark sky education. These highly praised gatherings provided memorable cosmic experiences for visitors and excellent observing opportunities for participants, with a planned October event canceled due to weather.",
+      "categories": [
+        "Observing Report",
+        "Community Outreach",
+        "Events",
+        "Club Activities",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Pinnacles National Park",
+        "Star Party",
+        "SJAA",
+        "Public Outreach",
+        "Dark Skies",
+        "Astronomy",
+        "Observing",
+        "Light Pollution",
+        "International Dark-Sky Association",
+        "Telescopes",
+        "Celestial Objects",
+        "Astrophotography",
+        "Rangers",
+        "Milky Way"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-22-12-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-22-12",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This document features a gallery of astrophotography submitted by members of the San Jose Astronomical Association (SJAA). Each entry details the photographer, celestial subject (e.g., Iris Nebula, Veil Nebula, Milky Way), date (September 24, 2022), primary location (Pinnacles National Park area), and the specific imaging equipment and software utilized for their capture.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Observing Reports",
+        "Technical Details"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophotography",
+        "Gallery",
+        "Pinnacles National Park",
+        "Telescope",
+        "Camera",
+        "Mount",
+        "Imaging Software",
+        "Iris Nebula",
+        "Veil Nebula",
+        "Milky Way"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-22-12-observing-algol-an-eclipsing-binary",
+      "documentId": "ephemeris-22-12",
+      "title": "Observing Algol an eclipsing binary",
+      "summary": "The article describes Algol, an eclipsing binary star in the constellation Perseus, known for its periodic changes in brightness. This occurs when a cooler, dimmer companion star passes in front of the hotter primary star. Observers can detect these changes without a telescope by comparing Algol's brightness to nearby stars like ε Persei and γ Andromedae, and can find predicted times for its dimming (minima) online to observe the rapid reduction in light.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Objects",
+        "Educational"
+      ],
+      "keywords": [
+        "Algol",
+        "Eclipsing binary",
+        "Variable star",
+        "Perseus",
+        "Magnitude",
+        "Observation",
+        "Light curve",
+        "Minima",
+        "Stargazing"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-22-12-hubble-views-a-billowing-cosmic-cloud",
+      "documentId": "ephemeris-22-12",
+      "title": "Hubble Views a Billowing Cosmic Cloud",
+      "summary": "The NASA/ESA Hubble Space Telescope has captured an image of CB 130-3, a dense core of gas and dust located in the constellation Serpens. This object is a stellar nursery, harboring a fledgling star deep within its structure. Astronomers used Hubble's Wide Field Camera 3 to study the environment of this developing star, measuring the cloud's density and the reddening effect on background stars to understand its inner composition and the star formation process.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Astrophysics",
+        "Space Telescopes"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "CB 130-3",
+        "Dense core",
+        "Star formation",
+        "Stellar nursery",
+        "Cosmic cloud",
+        "Gas and dust",
+        "Serpens",
+        "Wide Field Camera 3",
+        "Reddening effect"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-22-12-kid-spot",
+      "documentId": "ephemeris-22-12",
+      "title": "Kid Spot",
+      "summary": "This \"Kid Spot\" article features astronomy-themed jokes and an engaging scavenger hunt designed for observing the Moon's surface. It provides descriptions of various lunar features like craters, maria, rilles, and domes, encouraging readers to use optical aids for observation. The article also includes a brief history of the Moon's formation and geological evolution.",
+      "categories": [
+        "Educational",
+        "Astronomy Activities",
+        "Observing Guide",
+        "Lunar Studies"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar surface",
+        "Craters",
+        "Maria",
+        "Rilles",
+        "Lunar Highlands",
+        "Astronomy observation",
+        "Telescope",
+        "Binoculars",
+        "Scavenger hunt",
+        "Lunar history",
+        "Planetary geology",
+        "Kids activities"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-22-12-from-the-board-of-directors",
+      "documentId": "ephemeris-22-12",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) has resumed in-person activities like star parties following the lifting of mask mandates, while closely monitoring the COVID-19 situation. The article announces upcoming elections for board members and officers in February and March 2023, and details discussions from recent board meetings regarding volunteer roles, the 2023 calendar, minors policy, and lifetime membership. SJAA also issues a call for volunteers to help further its mission.",
+      "categories": [
+        "Announcements",
+        "Organizational Updates",
+        "Events",
+        "Governance",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "SJAA",
+        "COVID-19",
+        "In-person activities",
+        "Star Party",
+        "Board elections",
+        "Officer elections",
+        "Volunteer roles",
+        "2023 Calendar",
+        "Minors policy",
+        "Lifetime membership",
+        "Call for volunteers",
+        "Santa Clara County"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-22-12-sjaa-programs-resources",
+      "documentId": "ephemeris-22-12",
+      "title": "SJAA Programs & Resources",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a wide array of programs and resources for its members and the community, focusing on education, equipment access, and shared astronomical experiences. These offerings include a library, telescope repair services, solar and night sky observing sessions, beginner-friendly Quick STARt and Intro to the Night Sky programs, an equipment loaner program, and specialized Astro Imaging groups and workshops, alongside school outreach star parties.",
+      "categories": [
+        "Educational Programs",
+        "Member Resources",
+        "Community Outreach",
+        "Observing Sessions",
+        "Special Interest Groups",
+        "Technical Support"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Star Parties",
+        "Solar Observing",
+        "Library",
+        "Equipment Loaner",
+        "Telescope Repair",
+        "Beginner Astronomy",
+        "Amateur Astronomy",
+        "Imaging SIG"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-22-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2212/Ephemeris_22-12.pdf",
+      "txtPath": "2212/Ephemeris_22-12.md"
+    }
+  ]
+}

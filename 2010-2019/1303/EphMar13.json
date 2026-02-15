@@ -1,0 +1,210 @@
+{
+  "articles": [
+    {
+      "id": "ephmar13-ephemeris",
+      "documentId": "ephmar13",
+      "title": "EPHEMERIS",
+      "summary": "This 'EPHEMERIS' for March 2013 details the San Jose Astronomical Association's (SJAA) activities for March and April, including star parties, dark-sky weekends, solar observation sessions, and beginner astronomy classes. It also announces an advanced topics meeting, an auction, and a general meeting featuring Dr. Nathalie Cabrol on astrobiology. Additionally, the document provides information on two bright comets, ISON and PanSTARRS, predicted to be visible in 2013, offering guidance for observers.",
+      "categories": [
+        "Events Calendar",
+        "Club News",
+        "Observing Guides",
+        "Astronomy Education",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "March 2013",
+        "April 2013",
+        "Star Party",
+        "Dark-Sky Weekend",
+        "Houge Park",
+        "Henry Coe Park",
+        "H-alpha flares",
+        "Sunspots",
+        "Telescope Tune-up",
+        "Beginner Astronomy Class",
+        "Comet ISON",
+        "Comet PanSTARRS",
+        "Astrobiology",
+        "Nathalie Cabrol"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar13-comets",
+      "documentId": "ephmar13",
+      "title": "Comets",
+      "summary": "The article explores the unpredictable allure of comets, featuring prominent examples like Hale-Bopp and Hyakutake that spurred amateur astronomy, alongside anecdotes of amateur discoveries and a personal observation of Comet Holmes. It also briefly covers recent comet-focused space missions before shifting to Jupiter observing, detailing the \"Whac-a-moon\" phenomenon—brief appearances of Galilean moons due to eclipses—and offering specific viewing times for these celestial events.",
+      "categories": [
+        "Comets",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Space Exploration",
+        "Astronomical Events",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Comets",
+        "Jupiter Observing",
+        "Amateur Astronomy",
+        "Space Exploration",
+        "Bright Comets",
+        "Galilean Moons",
+        "Celestial Events",
+        "Comet Discovery",
+        "Oort Cloud",
+        "Whac-a-moon"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmar13-directions-to-houge-park",
+      "documentId": "ephmar13",
+      "title": "Directions to Houge Park",
+      "summary": "This document provides detailed driving directions to Houge Park, located in San Jose near Campbell and Los Gatos. It includes turn-by-turn instructions from both Hwy. 17 and Hwy. 85, guiding visitors to the park's entrance and parking lot.",
+      "categories": [
+        "Directions",
+        "Location Information",
+        "Travel Guide"
+      ],
+      "keywords": [
+        "Houge Park",
+        "San Jose",
+        "Directions",
+        "Hwy 17",
+        "Hwy 85",
+        "Camden Avenue",
+        "Bascom Avenue",
+        "Woodard Road",
+        "Twilight Drive"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmar13-silicon-valley-astronomy-lectures",
+      "documentId": "ephmar13",
+      "title": "Silicon Valley Astronomy Lectures",
+      "summary": "The free Silicon Valley Astronomy Lectures have restarted at Foothill College after a year-long sabbatical due to renovations, though parking costs $3. Upcoming talks include Gibor Basri on Brown Dwarfs and Free-floating Planets on April 17, and Lori Fenton discussing the Surface of Mars on May 15. Past lectures are available online.",
+      "categories": [
+        "Events",
+        "News",
+        "Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Silicon Valley Astronomy Lectures",
+        "Astronomy",
+        "Lectures",
+        "Foothill College",
+        "Brown Dwarfs",
+        "Free-floating Planets",
+        "Mars",
+        "SETI Institute",
+        "UC Berkeley",
+        "Gibor Basri",
+        "Lori Fenton"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmar13-nasa-space-place",
+      "documentId": "ephmar13",
+      "title": "NASA Space Place",
+      "summary": "This article explains how NASA develops ideas for new astronomy and astrophysics missions, primarily through the Decadal Survey conducted by the National Research Council. The 2010 survey, \"New Worlds, New Horizons,\" outlined high-priority research objectives for the next decade, focusing on early universe formation, exoplanets, and fundamental physics. The top recommended large mission for 2012-2021 is the Wide-field Infrared Survey Telescope (WFIRST), aimed at studying exoplanets and dark energy, though its timeline is subject to budget constraints.",
+      "categories": [
+        "Space Policy",
+        "Astronomy",
+        "Astrophysics",
+        "Future Missions",
+        "Science Planning"
+      ],
+      "keywords": [
+        "NASA",
+        "Decadal Survey",
+        "New Worlds, New Horizons",
+        "WFIRST",
+        "Wide-field Infrared Survey Telescope",
+        "Exoplanets",
+        "Dark Energy",
+        "James Webb Space Telescope",
+        "Astronomy Missions",
+        "Astrophysics Missions",
+        "National Research Council"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmar13-auction-xxiii",
+      "documentId": "ephmar13",
+      "title": "Auction XXIII",
+      "summary": "The article announces the annual SJAA Auction XXIII, scheduled for March 24th at Houge Park. Additionally, it features several astronomy news updates from early 2013, including the Curiosity rover's first successful drill operation on Mars, research on the potential for nearby Earth-like exoplanets orbiting red dwarfs, a description of the open cluster NGC 411, and the projected collision of Betelgeuse with a bar of interstellar material.",
+      "categories": [
+        "Events",
+        "Astronomy News",
+        "Space Exploration",
+        "Exoplanets",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "SJAA Auction",
+        "Curiosity Rover",
+        "Mars",
+        "Exoplanets",
+        "Red Dwarf Stars",
+        "NGC 411",
+        "Betelgeuse",
+        "NASA",
+        "JPL",
+        "Kepler Mission",
+        "Herschel Space Observatory"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmar13-it-must-be-astronomical",
+      "documentId": "ephmar13",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the SJAA Ephemeris provides updates on the San Jose Astronomical Association's activities, announcing upcoming Board of Directors elections for February and detailing a revamped telescope loaner program, including the new QuickSTARt initiative. It also presents a comprehensive report on school star parties, showing completed events from July to January and scheduled events for the 2012/2013 school year, alongside contact information for officers, staff, and various SJAA programs.",
+      "categories": [
+        "News",
+        "Organizational Updates",
+        "Events",
+        "Community Outreach",
+        "Program Information",
+        "Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Elections",
+        "Board of Directors",
+        "Telescope Loaner Program",
+        "QuickSTARt",
+        "School Star Parties",
+        "Astronomy Events",
+        "Ephemeris newsletter",
+        "Contact Information",
+        "Astronomy Club"
+      ],
+      "pageStart": 5,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmar13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1303/EphMar13.pdf",
+      "txtPath": "1303/EphMar13.md"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "articles": [
+    {
+      "id": "ephapr13-the-shallow-sky",
+      "documentId": "ephapr13",
+      "title": "The Shallow Sky",
+      "summary": "The author recounts their personal observation of Europa's re-appearance from behind Jupiter and subsequent eclipse, highlighting significant discrepancies between software predictions and the actual event's timing. This experience demonstrated that precise timing of Galilean moon events is challenging because the moons are not point sources, resulting in gradual appearances and eclipses. The article concludes with a look at upcoming similar events and other planetary viewing opportunities for the month.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Planetary Astronomy",
+        "Event Predictions"
+      ],
+      "keywords": [
+        "Jupiter's moons",
+        "Europa",
+        "eclipses",
+        "astronomical predictions",
+        "Galilean moons",
+        "observing",
+        "planetary viewing",
+        "Ganymede"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr13-board-elections",
+      "documentId": "ephapr13",
+      "title": "Board Elections",
+      "summary": "The San Jose Astronomical Association (SJAA) held its annual membership meeting, announcing the election of new board members: Teruo Utsumi, Dave Ittner, and Ed Wong. Leadership roles were also updated, with Rob Jaworski taking over as President, Lee Hoglan as Vice President, Teruo Utsumi as Secretary, and Michael Packer continuing as Treasurer. The article also expressed gratitude to departing board members and officers, and announced Mina Reyes-Wagner as the new editor for the SJAA Ephemeris.",
+      "categories": [
+        "organizational news",
+        "board elections",
+        "leadership changes",
+        "club announcements",
+        "volunteer recognition"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Elections",
+        "Rob Jaworski",
+        "Teruo Utsumi",
+        "Dave Ittner",
+        "Ed Wong",
+        "Lee Hoglan",
+        "Michael Packer",
+        "Mark Wagner",
+        "SJAA Ephemeris",
+        "Mina Reyes-Wagner",
+        "club officers",
+        "membership meeting"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr13-eyepieces-from-the-point-of-view-of-an-amateur-astronomer",
+      "documentId": "ephapr13",
+      "title": "Eyepieces from the point of view of an amateur astronomer",
+      "summary": "This article offers an amateur astronomer's perspective on telescope eyepieces, detailing common barrel sizes (1.25\" and 2\"), and explaining key optical concepts like true field, apparent field, exit pupil, magnification, and eye relief. It provides practical advice on choosing eyepieces based on observing targets (planets, nebulae, moon), discusses features like multi-coatings and zoom capabilities, and offers maintenance tips, emphasizing the benefits of trying eyepieces before purchase.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Equipment",
+        "Technical Guide",
+        "Equipment Tips"
+      ],
+      "keywords": [
+        "eyepieces",
+        "telescope accessories",
+        "1.25 inch eyepiece",
+        "2 inch eyepiece",
+        "true field",
+        "apparent field",
+        "exit pupil",
+        "magnification",
+        "focal length",
+        "eye relief",
+        "zoom eyepieces",
+        "multi-coated lenses",
+        "Barlow lens",
+        "observing tips",
+        "deep sky objects",
+        "planets",
+        "moon observing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr13-nasa-space-place",
+      "documentId": "ephapr13",
+      "title": "NASA Space Place",
+      "summary": "This article details the history and ongoing operation of NASA's Astronomy Picture of the Day (APOD) website, a widely popular daily astronomy image site. It highlights that two astrophysicists, Robert Nemiroff and Jerry Bonnell, have singularly managed the site since its 1995 inception, independently selecting and describing images despite their full-time research and teaching commitments. APOD utilizes simple HTML, draws images from diverse sources including space telescopes, and has grown to include numerous international mirror sites, attracting a million daily hits.",
+      "categories": [
+        "Astronomy",
+        "Websites",
+        "NASA",
+        "Science Communication",
+        "Digital Media",
+        "History"
+      ],
+      "keywords": [
+        "Astronomy Picture of the Day",
+        "APOD",
+        "NASA Space Place",
+        "Robert Nemiroff",
+        "Jerry Bonnell",
+        "Astrophysics",
+        "Website History",
+        "Image Curation",
+        "Online Content",
+        "Science Popularization"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr13-the-last-month-in-astronomy",
+      "documentId": "ephapr13",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article highlights several significant astronomy and space news items from February-March 2013, including the successful SpaceX Dragon resupply mission to the ISS and the discovery of a new Van Allen radiation belt. Key scientific advancements include the precise measurement of a supermassive black hole's spin rate and the Kepler mission's discovery of Kepler-37b, the smallest exoplanet found to date. Additionally, ESA's upcoming JUICE mission to Jupiter's icy moons was detailed, alongside an unexpected meteor impact near Chelyabinsk, Russia.",
+      "categories": [
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Planetary Science",
+        "Astrophysics",
+        "Space Exploration",
+        "News"
+      ],
+      "keywords": [
+        "SpaceX Dragon",
+        "ISS",
+        "Van Allen Belt",
+        "Black Hole Spin",
+        "NGC1365",
+        "ESA JUICE Mission",
+        "Jupiter's Icy Moons",
+        "Kepler-37b",
+        "Exoplanet Discovery",
+        "Chelyabinsk Meteor",
+        "NASA",
+        "ESA",
+        "Kepler Mission"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1304/EphApr13.pdf",
+      "txtPath": "1304/EphApr13.md"
+    }
+  ]
+}

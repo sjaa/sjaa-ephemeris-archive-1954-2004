@@ -1,0 +1,324 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1509-mars-orbiter-seasonal-flows-in-valles-marineris",
+      "documentId": "ephemeris-1509",
+      "title": "Mars Orbiter - Seasonal Flows in Valles Marineris",
+      "summary": "NASA's Mars Reconnaissance Orbiter has discovered recurring seasonal flows, consistent with shallow salty water, on steep slopes in Valles Marineris, identifying a potential, though chemically unverified, water source for future human missions. These 'recurring slope lineae' fade and reappear with the Martian seasons, being particularly prevalent in Valles Marineris. The article also details two solar filament eruptions on July 19, 2015, with the second one producing a significant coronal mass ejection observed by solar telescopes.",
+      "categories": [
+        "Planetary Science",
+        "Solar Physics",
+        "Space Exploration",
+        "Scientific Discovery",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Mars Reconnaissance Orbiter",
+        "Mars",
+        "Valles Marineris",
+        "recurring slope lineae",
+        "salty water",
+        "human exploration",
+        "solar filaments",
+        "Coronal Mass Ejection",
+        "Sun",
+        "Solar Dynamics Observatory",
+        "HiRISE"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1509-finding-yet-another-earth",
+      "documentId": "ephemeris-1509",
+      "title": "Finding Yet Another Earth",
+      "summary": "NASA's Kepler space telescope has discovered Kepler-452b, a super-Earth-sized exoplanet orbiting a sun-like star within its habitable zone. This makes it the most similar planet to Earth found to date, significantly advancing the search for a twin of our watery world. The article also explains the concept of the 'habitable zone' and highlights other potentially Earth-like exoplanets discovered by Kepler.",
+      "categories": [
+        "Science",
+        "Astronomy",
+        "Exoplanets",
+        "Space Exploration",
+        "News"
+      ],
+      "keywords": [
+        "Kepler-452b",
+        "Exoplanets",
+        "Habitable Zone",
+        "Goldilocks zone",
+        "Kepler Space Telescope",
+        "Earth-like planets",
+        "Super-Earth",
+        "NASA",
+        "Planetary discovery"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1509-pluto-in-true-color",
+      "documentId": "ephemeris-1509",
+      "title": "Pluto In True Color",
+      "summary": "The New Horizons spacecraft captured a sharper, 'true color' global view of Pluto by combining images from its LORRI and Ralph instruments. The mission also observed Pluto's atmosphere backlit by the sun, revealing unexpected layers of haze extending up to 80 miles high. These hazes are formed by ultraviolet sunlight breaking down methane, leading to complex hydrocarbons that condense and contribute to Pluto's distinctive reddish hue.",
+      "categories": [
+        "Science",
+        "News",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Pluto",
+        "New Horizons",
+        "LORRI",
+        "Ralph instrument",
+        "True Color",
+        "Atmosphere",
+        "Haze",
+        "Methane",
+        "Hydrocarbons",
+        "Tholins",
+        "Planetary Science"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1509-sjaa-member-observation-posts",
+      "documentId": "ephemeris-1509",
+      "title": "SJAA Member Observation Posts",
+      "summary": "This article compiles observation reports from several SJAA members, detailing diverse astronomical experiences. Rob Jaworski recounted naked-eye observations of the southern sky from Australia, while Mark Toney used a travel scope at Haleakala to view breathtaking southern objects like Omega Centauri. Other members reported on a successful backyard session during a power outage, a cloudy star party at Glacier Point, and dedicated observing nights at Mendoza Ranch and Fremont Peak, focusing on binary stars, carbon stars, and galaxies.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Astrotourism",
+        "Star Parties"
+      ],
+      "keywords": [
+        "Southern Hemisphere Astronomy",
+        "Deep-Sky Objects",
+        "Binary Stars",
+        "Carbon Stars",
+        "Telescope Observation",
+        "Light Pollution",
+        "Herschel 400"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1509-perseids-meteor-shower-at-coyote-valley",
+      "documentId": "ephemeris-1509",
+      "title": "Perseids Meteor Shower at Coyote Valley",
+      "summary": "This article reports on a highly successful Perseids Meteor Shower viewing event held at Coyote Valley Open Space Preserve, co-hosted by the Open Space Authority (OSA) and involving volunteers from the San Jose Astronomical Association (SJAA). The event drew 800-1000 attendees who enjoyed spectacular views of meteors and the Milky Way under clear skies. Participants, including those with telescopes and imagers, praised the experience as an amazing night of public astronomical engagement.",
+      "categories": [
+        "observing report",
+        "community event",
+        "public outreach",
+        "astronomy event"
+      ],
+      "keywords": [
+        "Perseids Meteor Shower",
+        "Coyote Valley Open Space Preserve",
+        "Open Space Authority (OSA)",
+        "San Jose Astronomical Association (SJAA)",
+        "meteor viewing",
+        "public astronomy",
+        "Milky Way",
+        "telescopes",
+        "Bay Area"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephemeris-1509-sjaa-pinnacles-outing",
+      "documentId": "ephemeris-1509",
+      "title": "SJAA Pinnacles Outing",
+      "summary": "The San Jose Astronomical Association (SJAA) held its first overnight camping star party at Pinnacles National Park on July 10th & 11th, attracting 40 members and family. The event combined social aspects like shared meals and camaraderie with excellent dark sky observing, noting SQM readings up to 21.68 and clear views of the Milky Way and deep-sky objects. Despite minor public interruptions, attendees enjoyed the dark sky experience and expressed interest in future outings with more dedicated viewing time.",
+      "categories": [
+        "Club Event",
+        "Observing Report",
+        "Star Party",
+        "Camping"
+      ],
+      "keywords": [
+        "SJAA",
+        "Pinnacles National Park",
+        "Star party",
+        "Camping",
+        "Dark skies",
+        "Observing",
+        "SQM reading",
+        "Milky Way",
+        "Deep Sky Scavenger Hunt",
+        "Astronomy club"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-1509-binocular-star-gazing-at-rcdo",
+      "documentId": "ephemeris-1509",
+      "title": "Binocular Star Gazing at RCDO",
+      "summary": "The \"Binocular Star Gazing at RCDO\" event, held on August 22, 2015, successfully introduced enthusiastic newcomers to affordable night sky observation. Organized by SJAA and the Open Space Authority, the program taught participants how to use binoculars, sky maps, and basic star-hopping techniques to identify constellations and celestial objects without expensive equipment. The event highlighted that effective stargazing doesn't require costly gear and that learning fundamental observation skills can be fun and rewarding.",
+      "categories": [
+        "observing report",
+        "events",
+        "public outreach",
+        "education"
+      ],
+      "keywords": [
+        "Binocular Star Gazing",
+        "RCDO",
+        "SJAA",
+        "Open Space Authority",
+        "night sky observing",
+        "beginner astronomy",
+        "star hopping",
+        "constellations",
+        "celestial objects",
+        "sky maps",
+        "astronomy education"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-1509-kid-spot",
+      "documentId": "ephemeris-1509",
+      "title": "KID SPOT",
+      "summary": "The 'KID SPOT' article is a children's section offering educational and entertaining content about astronomy. It includes kid-friendly jokes, a quiz on meteor showers, and a 'Did You Know?' segment filled with fascinating facts about stars, the solar system, astronomical terms, black holes, and the composition of sunlight and the Sun. The section aims to engage young readers with basic astronomical concepts.",
+      "categories": [
+        "Education",
+        "Children's Content",
+        "Astronomy Facts",
+        "Quizzes",
+        "Humor"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Astronomy",
+        "Jokes",
+        "Quiz",
+        "Meteor showers",
+        "Comets",
+        "Radiant",
+        "Stars",
+        "Sun",
+        "Earth",
+        "Solar system",
+        "Tropic of Cancer",
+        "Tropic of Capricorn",
+        "Black hole",
+        "Sunlight",
+        "Elements",
+        "Space education",
+        "Fun facts"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    },
+    {
+      "id": "ephemeris-1509-from-the-board-of-directors",
+      "documentId": "ephemeris-1509",
+      "title": "From the Board of Directors",
+      "summary": "The Board of Directors announced several key updates, including the 2015 Annual SJAA swap meet on November 22nd and the Cal Star event from September 10th-13th. Glenn Newell has filled an open Board seat, and the Houge Park clubhouse now offers DSL and Wi-Fi. Additionally, pre-orders are being taken for the RASC 2016 Observer's Guide and Calendar through October 24th.",
+      "categories": [
+        "Announcements",
+        "Events",
+        "Club News",
+        "Updates"
+      ],
+      "keywords": [
+        "SJAA",
+        "swap meet",
+        "Cal Star",
+        "Board of Directors",
+        "Glenn Newell",
+        "Houge Park",
+        "DSL",
+        "Wi-Fi",
+        "RASC Observer's Guide",
+        "RASC Calendar",
+        "pre-orders"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1509-board-meeting-excerpts",
+      "documentId": "ephemeris-1509",
+      "title": "Board Meeting Excerpts",
+      "summary": "The San Jose Astronomical Association (SJAA) board meetings from May to July 2015 addressed a range of administrative, financial, and operational topics. Key discussions included ensuring compliance for non-profit status, establishing the Dr. Robert Armstrong Scholarship for teachers, and implementing technological updates for member services. The board also focused on planning and supporting various community outreach events, exploring partnerships with organizations like Pinnacles National Park, and making important policy changes for the club.",
+      "categories": [
+        "Board Meetings",
+        "Organizational Management",
+        "Scholarships",
+        "Community Engagement",
+        "Financial Affairs",
+        "Technology & IT",
+        "Event Planning",
+        "Partnerships"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "Non-profit status",
+        "Robert Armstrong Scholarship",
+        "Project Astro",
+        "Website development",
+        "Source code license",
+        "GPLv3",
+        "Board appointments",
+        "Clearance sale",
+        "Club policies",
+        "Community events",
+        "Cambrian Festival",
+        "Coyote Valley",
+        "Pinnacles National Park",
+        "Member survey",
+        "Bank accounts",
+        "Advanced Imaging Conference"
+      ],
+      "pageStart": 16,
+      "pageEnd": 17
+    },
+    {
+      "id": "ephemeris-1509-club-updates",
+      "documentId": "ephemeris-1509",
+      "title": "Club Updates",
+      "summary": "The article provides an update on various programs and resources offered by the San Jose Astronomical Association (SJAA). It details services such as a member library, a telescope 'Fix It' program, a loaner equipment program, and educational initiatives like 'Quick STARt' for beginners and 'Intro to the Night Sky'. Additionally, it highlights regular solar observing sessions, school star parties, and lists key club contacts.",
+      "categories": [
+        "Club Updates",
+        "Member Services",
+        "Educational Programs",
+        "Observing Events",
+        "Community Outreach",
+        "Contact Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy club",
+        "library",
+        "telescope repair",
+        "collimation",
+        "solar observing",
+        "Quick STARt Program",
+        "amateur astronomy",
+        "loaner equipment",
+        "star parties",
+        "night sky observation",
+        "club contacts",
+        "Ephemeris newsletter"
+      ],
+      "pageStart": 17,
+      "pageEnd": 18
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1509",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1509/Ephemeris.1509.pdf",
+      "txtPath": "1509/Ephemeris.1509.md"
+    }
+  ]
+}

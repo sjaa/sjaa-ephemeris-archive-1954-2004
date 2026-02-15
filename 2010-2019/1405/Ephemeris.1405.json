@@ -1,0 +1,175 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1405-upcoming-programs-and-event-reports",
+      "documentId": "ephemeris-1405",
+      "title": "Upcoming Programs and Event Reports",
+      "summary": "The article announces an upcoming talk by Dr. Sandra Faber on the future of Lick Observatory, with SJAA matching donations to save it. It also details the annual SJAA Yosemite Star Party at Glacier Point and includes two observing reports from Hunting Hollow and Coyote Lake Dam, highlighting galaxy viewing and challenges encountered.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Fundraising",
+        "Astronomy Lectures",
+        "Star Parties"
+      ],
+      "keywords": [
+        "Dr. Sandra Faber",
+        "Lick Observatory",
+        "UC Observatories",
+        "SJAA",
+        "Fundraising",
+        "Yosemite Star Party",
+        "Glacier Point",
+        "Hunting Hollow",
+        "Coyote Lake Dam",
+        "Observing",
+        "Galaxies",
+        "Comets",
+        "Jupiter",
+        "Saturn",
+        "Markarian Chain",
+        "Leo Triplet",
+        "Omega Centauri"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1405-april-reports-and-science-feature",
+      "documentId": "ephemeris-1405",
+      "title": "April Reports and Science Feature",
+      "summary": "This article covers a presentation for amateur astronomers on observing asteroid occultations, explains the turquoise fringe phenomenon during lunar eclipses, and announces the discovery of Kepler-186f, the first Earth-sized exoplanet found in a habitable zone. Additionally, it details an update to the NASA Visualization Explorer app for iOS devices, making NASA's scientific data visualizations more widely accessible. The content spans practical observing techniques, new astronomical discoveries, and science communication efforts.",
+      "categories": [
+        "Amateur Astronomy",
+        "Space Exploration",
+        "Astronomical Phenomena",
+        "Scientific Discoveries",
+        "Technology & Apps"
+      ],
+      "keywords": [
+        "Asteroid occultations",
+        "Lunar eclipse",
+        "Kepler-186f",
+        "Exoplanets",
+        "Habitable zone",
+        "Kepler Space Telescope",
+        "NASA Visualization Explorer app",
+        "Ozone effect",
+        "Data visualization",
+        "Amateur astronomer"
+      ],
+      "pageStart": 3,
+      "pageEnd": 70
+    },
+    {
+      "id": "ephemeris-1405-cupertino-earth-day-sjaa-solar-observing",
+      "documentId": "ephemeris-1405",
+      "title": "Cupertino Earth Day & SJAA Solar Observing",
+      "summary": "The San Jose Astronomical Association (SJAA) hosted a successful solar observing outreach event at Cupertino Earth Day on April 6, 2014. Volunteers used various telescopes, including H-Alpha and Schmidt Cassegrain, to show sunspots and solar flares to 200-300 attendees. The event highlighted the active sun and educated the public on safe solar viewing and dark sky protection.",
+      "categories": [
+        "Outreach Event",
+        "Observing Report",
+        "Solar Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Cupertino Earth Day",
+        "SJAA",
+        "Solar Observing",
+        "Sunspots",
+        "H-Alpha flares",
+        "Public Outreach",
+        "Astronomy Event",
+        "Safe Solar Viewing",
+        "Volunteers",
+        "International Dark Sky Association"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1405-kid-spot",
+      "documentId": "ephemeris-1405",
+      "title": "KID SPOT",
+      "summary": "The 'KID SPOT' article offers engaging astronomy content for children, featuring space-themed jokes and a quiz. It includes a 'Night Sky Challenge' for May 2014, detailing visible planets, and provides an extensive overview of the constellation Virgo, covering its location, notable stars like Spica, associated celestial mechanics, exoplanets, galaxy clusters, and mythological connections. Quiz answers and a photo credit for a lunar eclipse are also included.",
+      "categories": [
+        "Kid-friendly",
+        "Astronomy",
+        "Observing Reports",
+        "Constellations",
+        "Space Science",
+        "Education",
+        "Trivia"
+      ],
+      "keywords": [
+        "KID SPOT",
+        "space jokes",
+        "astronomy quiz",
+        "Night Sky Challenge",
+        "May 2014",
+        "Jupiter",
+        "Venus",
+        "Mercury",
+        "Saturn",
+        "constellations",
+        "Virgo",
+        "Spica",
+        "Big Dipper",
+        "Arcturus",
+        "First Point of Libra",
+        "exoplanets",
+        "galaxy clusters",
+        "Messier objects",
+        "Sombrero Galaxy",
+        "M87",
+        "mythology",
+        "Mars",
+        "Neptune",
+        "Lunar Eclipse"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1405-club-updates",
+      "documentId": "ephemeris-1405",
+      "title": "Club Updates",
+      "summary": "This article from the San Jose Astronomical Association (SJAA) provides comprehensive updates on its various programs, including successful school star parties and the Astro Imaging Special Interest Group. It announces numerous upcoming events like Astronomy Day, the Yosemite star party, and the Golden State Star Party, alongside a recap of a well-attended lunar eclipse viewing. The report also covers recent board decisions and schedules for dark sky events in May and June 2014.",
+      "categories": [
+        "Club Updates",
+        "Programs",
+        "Events",
+        "Observing Reports",
+        "Board Information",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "Club Programs",
+        "School Star Parties",
+        "Loaner Telescopes",
+        "Astro Imaging",
+        "Astronomy Day",
+        "Star Parties",
+        "Yosemite Star Party",
+        "Golden State Star Party",
+        "Lunar Eclipse",
+        "Lick Observatory",
+        "Board Meetings",
+        "Event Schedule"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1405",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1405/Ephemeris.1405.pdf",
+      "txtPath": "1405/Ephemeris.1405.md"
+    }
+  ]
+}

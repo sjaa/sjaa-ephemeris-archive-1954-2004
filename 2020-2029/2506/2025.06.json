@@ -1,0 +1,301 @@
+{
+  "articles": [
+    {
+      "id": "2025-06-featured-astrophotography",
+      "documentId": "2025-06",
+      "title": "Featured Astrophotography",
+      "summary": "This article features three distinct astrophotography images: a 35-hour narrowband mosaic of Sh2-223 and Sh2-224 by Alex Ranous, a 24-hour LRGBHa image of The Whale Galaxy by Francesco Meschia, and an LRGB image of M88 (part of the Markarian Chain) by Carl Svensson. Each entry highlights the advanced equipment and extensive exposure times used to capture these deep-sky objects.",
+      "categories": [
+        "Astrophotography",
+        "Image Gallery",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Sh2-223",
+        "Sh2-224",
+        "Whale Galaxy",
+        "M88",
+        "Markarian Chain",
+        "Narrowband",
+        "LRGBHa",
+        "Deep-sky objects",
+        "Telescope",
+        "CCD camera",
+        "Exposure time",
+        "Mosaic"
+      ],
+      "pageStart": 2,
+      "pageEnd": 1100
+    },
+    {
+      "id": "2025-06-sjaa-programs",
+      "documentId": "2025-06",
+      "title": "SJAA Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a diverse range of programs for both its members and the general public. Member benefits include a library, telescope repair sessions, a quick-start guide to amateur astronomy, equipment loaners, and astro-imaging groups and workshops. Public programs encompass educational sessions like Astronomy 101 and a beginner forum, various star parties (in-town, school, dark sky), solar observing, and binocular stargazing events.",
+      "categories": [
+        "Astronomy Programs",
+        "Observing Events",
+        "Educational Resources",
+        "Technical Support",
+        "Community Services",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy",
+        "Star Parties",
+        "Telescopes",
+        "Astro-imaging",
+        "Beginner Astronomy",
+        "Observing",
+        "Library",
+        "Loaner Program",
+        "Solar Observing",
+        "Workshops",
+        "Houge Park"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "2025-06-seasons-of-the-solar-system",
+      "documentId": "2025-06",
+      "title": "Seasons of the Solar System",
+      "summary": "This article explores the concept of seasons across the Solar System, contrasting Earth's seasonal changes with those on other planets. It details how factors like axial tilt, orbital period, and distance from the Sun dramatically affect the duration and characteristics of seasons on Mars, Saturn, and Neptune. The article highlights that while axial tilts can be similar, the much longer orbital periods of outer planets result in seasons lasting decades or even a 'lifetime'.",
+      "categories": [
+        "Planetary Science",
+        "Astronomy",
+        "Educational",
+        "Solar System"
+      ],
+      "keywords": [
+        "seasons",
+        "Mars",
+        "Saturn",
+        "Neptune",
+        "Earth",
+        "axial tilt",
+        "orbital period",
+        "Sun",
+        "Gale Crater",
+        "Hubble Space Telescope",
+        "ring plane crossing",
+        "Uranus"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    },
+    {
+      "id": "2025-06-observing-highlights",
+      "documentId": "2025-06",
+      "title": "Observing Highlights",
+      "summary": "The article \"Observing Highlights\" provides a calendar of key astronomical events for skywatchers from June to September. It details specific dates for the June Solstice, two Mercury at Greatest Elongation events, the Delta Aquarids and Perseids meteor showers, and a Total Lunar Eclipse. Additionally, it lists dates for New Moon and Full Moon phases, offering a comprehensive guide for upcoming celestial observations.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Astronomy Calendar",
+        "Skywatching"
+      ],
+      "keywords": [
+        "June Solstice",
+        "Perseids Meteor Shower",
+        "Mercury at Greatest Elongation",
+        "Delta Aquarids Meteor Shower",
+        "Total Lunar Eclipse",
+        "New Moon",
+        "Full Moon",
+        "Comet Swift-Tuttle",
+        "Meteor Shower",
+        "Lunar Eclipse",
+        "Planetary Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2025-06-kids-corner",
+      "documentId": "2025-06",
+      "title": "KIDS CORNER",
+      "summary": "This 'Kids Corner' segment features an educational word search focused on solar terms like Photosphere, Chromosphere, Solar Flare, and Eclipse. It also includes several 'Fun Facts' about the Sun, detailing its size, composition, and gravitational influence on the Solar System. The content is designed to introduce children to basic solar astronomy concepts.",
+      "categories": [
+        "educational",
+        "children's activity",
+        "astronomy basics",
+        "solar system"
+      ],
+      "keywords": [
+        "Sun",
+        "Photosphere",
+        "Chromosphere",
+        "Sunspots",
+        "Solar Flare",
+        "Corona",
+        "Eclipse",
+        "Aurora",
+        "Solar System",
+        "gravity"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "2025-06-summer-space-and-science",
+      "documentId": "2025-06",
+      "title": "Summer Space and Science",
+      "summary": "This article, contributed by L.G. Boyll, provides a comprehensive list of science and space-themed summer adventures primarily located in California. It highlights various institutions such as the California Academy of Sciences, Chabot Space & Science Center, Children's Discovery Museum of San Jose, Fremont Peak Observatory, Lick Observatory, and The Tech Interactive. These locations offer a range of experiences, including interactive exhibits, planetariums, observatories, educational programs, and special events for all ages.",
+      "categories": [
+        "Science Education",
+        "Museums",
+        "Observing Reports",
+        "Events",
+        "Travel & Tourism",
+        "Family Activities"
+      ],
+      "keywords": [
+        "California",
+        "science museums",
+        "space centers",
+        "observatories",
+        "planetariums",
+        "interactive exhibits",
+        "summer activities",
+        "family fun",
+        "astronomy",
+        "NASA",
+        "San Francisco",
+        "Oakland",
+        "San Jose",
+        "Mt. Hamilton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2025-06-the-view-from-below-the-skies",
+      "documentId": "2025-06",
+      "title": "The View from Below the Skies",
+      "summary": "Star parties have undergone significant evolution, transitioning from manual star hopping to automated 'go-to' mounts, and now embracing Electronically Assisted Astronomy (EAA). This progression allows for greater public engagement by enabling clearer, more detailed, and colorful views of celestial objects on tablets, even in light-polluted environments, thereby enhancing the public viewing experience.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Techniques",
+        "Astronomy Technology",
+        "Public Outreach",
+        "Historical Perspective"
+      ],
+      "keywords": [
+        "Star parties",
+        "Amateur astronomy",
+        "Telescopes",
+        "Star hopping",
+        "Go-to mounts",
+        "Electronically Assisted Astronomy (EAA)",
+        "Visual astronomy",
+        "Public engagement",
+        "Light pollution",
+        "Image stacking",
+        "Astronomy evolution"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2025-06-board-minutes",
+      "documentId": "2025-06",
+      "title": "Board Minutes",
+      "summary": "The board minutes for March, April, and May 2025 detail various approved expenditures for operational costs, event supplies, and equipment. Key discussions included logistics for a 'Stars Over Yosemite' summer event, efforts to partner with other astronomy clubs, and initiatives to engage volunteers through meet-and-greets. The board also deliberated on internal projects like trialing Discord for communication, analyzing member survey results, and developing a new web-based membership database.",
+      "categories": [
+        "Board Meetings",
+        "Financial",
+        "Events Planning",
+        "Volunteer Management",
+        "Community Outreach",
+        "Technical Development",
+        "Membership Engagement"
+      ],
+      "keywords": [
+        "Board Minutes",
+        "Budget Approval",
+        "Expenditures",
+        "Stars Over Yosemite",
+        "Volunteer Program",
+        "Astronomy Clubs Partnership",
+        "Discord",
+        "Member Survey",
+        "Membership Database",
+        "SJAA"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "2025-06-how-to-get-involved-and-stay-in-touch",
+      "documentId": "2025-06",
+      "title": "How To Get Involved and Stay in Touch",
+      "summary": "This article outlines the various ways to connect and stay informed with SJAA (San Jose Astronomical Association), both for members and the public. It details their presence on multiple social media platforms, essential Google Groups for member communication, Meetup for public event listings and updates, and their website for a comprehensive calendar and member resources. The article encourages active participation and provides a contact email for assistance.",
+      "categories": [
+        "Communication",
+        "Member Engagement",
+        "Public Outreach",
+        "Resources",
+        "Community"
+      ],
+      "keywords": [
+        "SJAA",
+        "Social Media",
+        "Google Groups",
+        "Meetup",
+        "Website",
+        "Astronomy Club",
+        "Member Resources",
+        "Public Events",
+        "Astroimaging",
+        "Observing",
+        "Communication Platforms"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "2025-06-brief-updates",
+      "documentId": "2025-06",
+      "title": "Brief Updates",
+      "summary": "The San Jose Astronomical Association (SJAA) recently concluded its officer elections, with all four incumbent directors reelected for a one-year term. The organization is also enriching its historical archive by digitizing past editions of its newsletter, 'The Ephemeris,' dating back to 1991. Additionally, the article showcases stunning astrophotography by members Imran Badr (Eagle Nebula) and Alex Ranous (Raspberry Nebula), encouraging future submissions.",
+      "categories": [
+        "Organizational News",
+        "Governance",
+        "History & Archives",
+        "Astrophotography",
+        "Newsletter Updates",
+        "Member Contributions"
+      ],
+      "keywords": [
+        "SJAA",
+        "Officer Elections",
+        "Board of Directors",
+        "Reelection",
+        "Organizational History",
+        "Ephemeris",
+        "Astrophotography",
+        "Eagle Nebula",
+        "M16",
+        "Raspberry Nebula",
+        "SH2-263",
+        "Hubble Space Telescope",
+        "Amateur Astronomy",
+        "Newsletter"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    }
+  ],
+  "documents": [
+    {
+      "id": "2025-06",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 7",
+      "issueDate": null,
+      "pdfPath": "2506/2025.06.pdf",
+      "txtPath": "2506/2025.06.md"
+    }
+  ]
+}

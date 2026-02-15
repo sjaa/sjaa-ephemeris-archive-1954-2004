@@ -1,0 +1,236 @@
+{
+  "articles": [
+    {
+      "id": "ephsep02-dante-s-astronomy",
+      "documentId": "ephsep02",
+      "title": "Dante's Astronomy",
+      "summary": "The article \"Dante's Astronomy\" analyzes how Dante Alighieri integrated pre-Copernican, Ptolemaic astronomy into *The Divine Comedy*, using celestial observations to convey profound philosophical and transformative themes. It highlights Dante's depiction of a spherical Earth and the mechanics of seasons, emphasizing the work's connection to an ancient tradition of elevated contemplation through star-gazing. The piece concludes that Dante's astronomical insights reflect a timeless human curiosity, linking the poet's genius to the passion of modern amateur astronomers. The document also includes an activity calendar for the San Jose Astronomical Association.",
+      "categories": [
+        "History of Astronomy",
+        "Literature & Astronomy",
+        "Cultural Astronomy",
+        "Astronomical Concepts",
+        "Club Activities",
+        "Events Calendar"
+      ],
+      "keywords": [
+        "Dante Alighieri",
+        "Divine Comedy",
+        "Ptolemaic astronomy",
+        "Medieval astronomy",
+        "Philosophical astronomy",
+        "Spherical Earth",
+        "Literary analysis",
+        "Amateur astronomy",
+        "SJAA",
+        "Star parties",
+        "Astronomy events"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephsep02-bro-guy-consolmagno-to-speak-at-october-meeting",
+      "documentId": "ephsep02",
+      "title": "Bro. Guy Consolmagno to Speak at October Meeting",
+      "summary": "Brother Guy Consolmagno, a Vatican astronomer and author of popular science books, is scheduled to speak at the upcoming October general meeting. Known for his work with meteorites and observations of asteroids and comets, he also addresses the commonality between science and religion. His books will be available for purchase and signing at the event.",
+      "categories": [
+        "Events",
+        "News",
+        "Astronomy",
+        "Speaker Announcement"
+      ],
+      "keywords": [
+        "Bro. Guy Consolmagno",
+        "Vatican Observatory",
+        "Astronomer",
+        "October Meeting",
+        "Speaker",
+        "Meteorites",
+        "Asteroids",
+        "Kuiper Belt comets",
+        "Science and Religion",
+        "Book signing",
+        "Lecture"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep02-astronomy-magazine-renewal-time",
+      "documentId": "ephsep02",
+      "title": "ASTRONOMY Magazine Renewal Time",
+      "summary": "The article announces the renewal period for the group subscription to Astronomy magazine for 2003, managed by Jim Van Nuland. It details the group rates of $29 for one year or $55 for two years, and provides instructions for both current independent subscribers wishing to convert and new subscribers. Checks should be sent to Jim Van Nuland by early October.",
+      "categories": [
+        "Publication Renewal",
+        "Group Subscription",
+        "Announcement",
+        "Call to Action"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "Subscription renewal",
+        "Group rate",
+        "2003",
+        "Jim Van Nuland",
+        "Payment",
+        "Magazine"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephsep02-milky-way-from-fremont-peak",
+      "documentId": "ephsep02",
+      "title": "Milky Way from Fremont Peak",
+      "summary": "This article encourages amateur astronomers to visit Fremont Peak State Park, a premier dark sky site in the South San Francisco Bay Area, during the last new moon of summer 2002 (September 6th). It highlights the park's amenities and dark skies, then provides detailed observing notes for several deep-sky targets in Cygnus and Aquarius, including planetary nebulae like NGC7027 and NGC7293 (Helix Nebula), and open clusters like M39.",
+      "categories": [
+        "observing report",
+        "observing guide",
+        "dark sky site",
+        "deep-sky astronomy",
+        "amateur astronomy",
+        "location review"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Milky Way",
+        "new moon",
+        "September 2002",
+        "dark skies",
+        "deep sky objects",
+        "NGC7027",
+        "NGC7000",
+        "North American Nebula",
+        "Pelican Nebula",
+        "NGC7008",
+        "M39",
+        "NGC7067",
+        "NGC7082",
+        "NGC7293",
+        "Helix Nebula",
+        "Cygnus",
+        "Aquarius",
+        "planetary nebula",
+        "open cluster",
+        "UHC filter",
+        "Orion Ultrablock filter",
+        "FPOA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep02-out-there-mooning",
+      "documentId": "ephsep02",
+      "title": "Out There - Mooning",
+      "summary": "This article comprises three distinct sections: 'Out There' provides deep-sky observing targets and tips, highlighting NGC7331, Stephan's Quintet, and Fremont Peak as excellent observing sites. 'Mooning' delves into lunar geology, explaining the formation of mare basins as large impact structures and distinguishing them from smaller craters. Lastly, 'Teaching Astronomy with Project Astro' shares an amateur astronomer's rewarding experience participating in Project Astro, an outreach program pairing astronomers with K-9 teachers to educate schoolchildren.",
+      "categories": [
+        "observing reports",
+        "deep-sky astronomy",
+        "lunar geology",
+        "astronomy education",
+        "outreach",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Moon",
+        "lunar maria",
+        "deep-sky observing",
+        "galaxies",
+        "Project Astro",
+        "astronomy education",
+        "outreach",
+        "Fremont Peak",
+        "NGC7331",
+        "Stephan's Quintet",
+        "impact craters",
+        "Mare Nectaris"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep02-back-to-basics",
+      "documentId": "ephsep02",
+      "title": "Back To Basics",
+      "summary": "Dave North addresses common questions about the Moon's dark marks, the 'maria'. He explains that maria are smoother and darker due to massive impacts during the Moon's early formation, which created basins subsequently filled by multiple flows of basaltic lava. This lava is dark because of its high iron content (mafic), contrasting with the lighter, silica-rich lunar crust, and has become 'grit' over billions of years due to micrometeorite bombardment.",
+      "categories": [
+        "Astronomy Basics",
+        "Lunar Geology",
+        "Educational",
+        "Column"
+      ],
+      "keywords": [
+        "Moon",
+        "maria",
+        "lunar features",
+        "basaltic lava",
+        "impacts",
+        "iron content",
+        "silica",
+        "micrometeorites",
+        "lunar formation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep02-calstar-october-3-4-5-2002",
+      "documentId": "ephsep02",
+      "title": "Calstar October 3, 4, 5 2002",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting the Calstar 2002 dark sky star party at Lake San Antonio from October 3-5. Described as a basic, end-of-season gathering, attendees are advised to bring their own essentials like telescopes, water, shade, and sunscreen, as there will be no vendors, concessions, speakers, or prizes. Camping costs are $32 for three nights, with further details and registration available on the SJAA website.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Star Party"
+      ],
+      "keywords": [
+        "Calstar",
+        "2002",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Lake San Antonio",
+        "Star Party",
+        "Dark Sky",
+        "Camping",
+        "Astronomy Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep02-sjaa-loaner-scope-status",
+      "documentId": "ephsep02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The San Jose Astronomical Association (SJAA) operates a loaner telescope program, providing various scopes to its members. This document details the current status of the program, listing telescopes available for immediate loan, those currently out on loan with due dates, and scopes with extended loan periods. Members interested in borrowing a telescope are instructed to contact Mike Koop to arrange pick-up at SJAA events, with a waiting list in place for popular models.",
+      "categories": [
+        "Club Operations",
+        "Equipment Loan Program",
+        "Member Resources",
+        "Status Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Astronomy Club",
+        "Telescopes",
+        "Equipment Rental",
+        "Member Services",
+        "Availability",
+        "Waiting List"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0209/EphSep02.pdf",
+      "txtPath": "0209/EphSep02.md"
+    }
+  ]
+}

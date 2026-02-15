@@ -1,0 +1,255 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1403-member-recognition",
+      "documentId": "ephemeris-1403",
+      "title": "Member Recognition",
+      "summary": "The San Jose Astronomical Association (SJAA) recognized several volunteers at its February 15th annual meeting for their significant contributions. Individuals such as Phil Chambers, Terry Kahl, Carl Reisinger, Bill and Susan O'Neil, Frank Geefay, Richard Stone, and Paul Mancuso were honored for their diverse efforts, ranging from technical support and program development to extensive public outreach and website migration. Their dedication highlights the crucial role volunteers play in the success of SJAA's various programs and community engagement.",
+      "categories": [
+        "member recognition",
+        "volunteer awards",
+        "club news",
+        "annual meeting"
+      ],
+      "keywords": [
+        "SJAA",
+        "volunteer recognition",
+        "Fixit Program",
+        "Solar Program",
+        "public outreach",
+        "star parties",
+        "school star parties",
+        "website migration",
+        "Michael Packer",
+        "Phil Chambers",
+        "Terry Kahl",
+        "Carl Reisinger",
+        "Bill O'Neil",
+        "Susan O'Neil",
+        "Frank Geefay",
+        "Richard Stone",
+        "Paul Mancuso"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1403-sjaa-member-image-supernova-in-m82",
+      "documentId": "ephemeris-1403",
+      "title": "SJAA MEMBER IMAGE: SUPERNOVA IN M82!",
+      "summary": "Paul Colby and Marion Barker successfully imaged the supernova in M82, a galaxy 11 million light-years away, capturing data on January 25, 2014. They detailed their astrophotography setup, which included a Celestron C8 and Canon T3i, and their evolving technique of controlling the camera via laptop and stacking images using FIGI. The supernova remained bright at visual magnitude 11, making it visible with moderate amateur telescopes.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astrophotography",
+        "Technical Guide",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Supernova",
+        "M82",
+        "Galaxy",
+        "Paul Colby",
+        "Marion Barker",
+        "SJAA",
+        "Astrophotography",
+        "Celestron C8",
+        "Canon T3i",
+        "Orion Sirius EQ mount",
+        "RCDO",
+        "FIGI",
+        "Visual magnitude 11",
+        "Imaging technique",
+        "T-ring adapter",
+        "Image stacking",
+        "Camera control",
+        "Earth from Mars",
+        "Curiosity Rover",
+        "NASA",
+        "March 2014"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1403-nasa-s-8-billion-hubble-successor-is-set-for-2018-launch",
+      "documentId": "ephemeris-1403",
+      "title": "NASA's $8 billion Hubble Successor is Set for 2018 Launch",
+      "summary": "The James Webb Space Telescope (JWST), an $8 billion successor to Hubble, is set for a 2018 launch after overcoming delays and budget issues. This large infrared telescope, with its 6.5-meter primary mirror, is an international collaboration poised to study the universe from its earliest moments to the formation of life-supporting solar systems. It incorporates several innovative technologies, including a folding segmented mirror and ultra-lightweight beryllium optics.",
+      "categories": [
+        "Space Missions",
+        "Astronomy",
+        "News",
+        "Technology",
+        "Project Updates"
+      ],
+      "keywords": [
+        "James Webb Space Telescope",
+        "JWST",
+        "NASA",
+        "ESA",
+        "CSA",
+        "Hubble Successor",
+        "Infrared telescope",
+        "2018 Launch",
+        "Space exploration",
+        "Big Bang",
+        "Solar System formation",
+        "Northrop Grumman",
+        "Beryllium optics",
+        "Cryocooler"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1403-news-briefs",
+      "documentId": "ephemeris-1403",
+      "title": "News Briefs",
+      "summary": "Scientists have successfully produced the first complete global geologic map of Ganymede, Jupiter's largest moon, more than 400 years after its discovery. Separately, an Expedition 38 crew member aboard the International Space Station captured a nighttime photograph of the Sochi Olympic Park, clearly showing Fisht Olympic Stadium and the Olympic flame.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Planetary Science",
+        "Earth Observation",
+        "Space Photography"
+      ],
+      "keywords": [
+        "Ganymede",
+        "Jupiter",
+        "Galilean moon",
+        "Geologic Map",
+        "Icy Moon",
+        "International Space Station",
+        "Sochi Olympic Park",
+        "NASA",
+        "Galileo"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1403-kid-spot",
+      "documentId": "ephemeris-1403",
+      "title": "KID SPOT",
+      "summary": "This \"Kid Spot\" section provides astronomy-themed entertainment and educational content for children. It features space jokes, a short quiz on astronomical facts, and a \"Night Sky Challenge\" for March 2014, detailing the visibility of several planets.",
+      "categories": [
+        "Children's Content",
+        "Astronomy Education",
+        "Observing Guide",
+        "Night Sky Challenge",
+        "Quiz",
+        "Entertainment"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Astronomy",
+        "Night Sky",
+        "Planets",
+        "Jupiter",
+        "Venus",
+        "Mars",
+        "Saturn",
+        "Mercury",
+        "Quiz",
+        "Jokes",
+        "March 2014"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1403-constellations",
+      "documentId": "ephemeris-1403",
+      "title": "Constellations",
+      "summary": "This article provides an overview of the constellation Gemini, one of the 88 modern constellations and part of the zodiac. It details its historical recognition by Ptolemy, its position relative to other constellations, and notable astronomical features like the Eskimo and Medusa Nebulae, as well as the Geminid meteor shower. The piece also delves into the Greek and Babylonian mythological associations of Gemini, particularly the twins Castor and Pollux.",
+      "categories": [
+        "astronomy",
+        "constellation guide",
+        "mythology",
+        "celestial objects"
+      ],
+      "keywords": [
+        "Gemini",
+        "Zodiac",
+        "Ptolemy",
+        "Castor and Pollux",
+        "Greek mythology",
+        "Geminids",
+        "meteor shower",
+        "deep-sky objects",
+        "Eskimo Nebula",
+        "Medusa Nebula",
+        "M35"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1403-solar-observing",
+      "documentId": "ephemeris-1403",
+      "title": "Solar Observing",
+      "summary": "This article highlights the importance of safe solar observing and recounts a successful \"Sol Saturday\" event held at Campbell Park on January 25, 2014. Members of SJAA shared views of sunspots and active regions through various filtered telescopes with around 75 kids and adults, noting excellent public engagement despite minor parking challenges. The piece also mentions regular monthly solar programs.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Public Outreach",
+        "Astronomy Club Activities",
+        "Safety"
+      ],
+      "keywords": [
+        "Solar Observing",
+        "Sun Safety",
+        "Public Outreach",
+        "Campbell Park",
+        "Sunspots",
+        "H-Alpha",
+        "Telescopes",
+        "Astronomy Events",
+        "SJAA"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1403-club-updates",
+      "documentId": "ephemeris-1403",
+      "title": "Club Updates",
+      "summary": "The San Jose Astronomical Association (SJAA) is launching several new initiatives including a library program, an advanced learner telescope program for members to evaluate equipment, and a 'Fix-It' program for equipment repairs. The club also announced upcoming events such as the annual Club Auction, Earth Day Festival, and Astronomy Day, alongside a schedule of dark sky observing events. Board meeting excerpts highlight discussions on light pollution at Houge Park, exploring alternative viewing sites, and re-election of board members, with open board seats still available.",
+      "categories": [
+        "Club Updates",
+        "Programs & Services",
+        "Events & Calendar",
+        "Governance & Meetings",
+        "Observing Reports",
+        "Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "Library Program",
+        "Advanced Learner Telescope Program",
+        "Fix-It Program",
+        "Club Auction",
+        "Earth Day Festival",
+        "Astronomy Day",
+        "Board Meetings",
+        "Light Pollution",
+        "Viewing Sites",
+        "Telescopes",
+        "Volunteers",
+        "Dark Sky Events",
+        "Donations"
+      ],
+      "pageStart": 1,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1403",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 4",
+      "issueDate": null,
+      "pdfPath": "1403/Ephemeris.1403.pdf",
+      "txtPath": "1403/Ephemeris.1403.md"
+    }
+  ]
+}

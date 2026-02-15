@@ -1,0 +1,220 @@
+{
+  "articles": [
+    {
+      "id": "ephdec03-galaxy-song",
+      "documentId": "ephdec03",
+      "title": "Galaxy Song",
+      "summary": "This article provides an astronomical analysis of Eric Idle's 'Galaxy Song' from Monty Python's 'The Meaning of Life', evaluating the scientific accuracy of its lyrics against contemporary astronomical understanding. The author, Paul Kohlmiller, scrutinizes various claims about Earth's movement, the Sun's power, the Milky Way's dimensions, and the universe's expansion. The document also includes an activities calendar for the San Jose Astronomical Association, listing general meetings, ATM classes, and star parties for December and January.",
+      "categories": [
+        "Astronomical Analysis",
+        "Science Communication",
+        "Community Events",
+        "Observing Reports",
+        "News",
+        "Education"
+      ],
+      "keywords": [
+        "Galaxy Song",
+        "Eric Idle",
+        "Monty Python",
+        "astronomy",
+        "universe",
+        "Milky Way",
+        "Earth's orbit",
+        "Earth's rotation",
+        "speed of light",
+        "cosmic expansion",
+        "evolution",
+        "intelligent life",
+        "SETI",
+        "star party",
+        "general meeting",
+        "ATM class",
+        "Pluto mission",
+        "adaptive optics",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephdec03-the-cassini-division",
+      "documentId": "ephdec03",
+      "title": "The Cassini Division",
+      "summary": "This article describes the lunar crater Cassini, highlighting its unique 'goofy' and whimsical appearance due to its old, lava-flooded nature and subsequent impacts. The author expresses a personal fondness for this crater, detailing its features and context within the Moon's Imbrium region. It also briefly introduces Giovanni-Domenico Cassini, the crater's namesake, noting his significant astronomical discoveries, including the Cassini Division in Saturn's rings and Mars' polar caps.",
+      "categories": [
+        "Lunar Features",
+        "Observational Astronomy",
+        "Astronomical History",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Cassini Crater",
+        "Moon",
+        "Lunar features",
+        "Giovanni-Domenico Cassini",
+        "Saturn's rings",
+        "Cassini Division",
+        "Astronomical discoveries",
+        "Craters",
+        "Imbrium"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec03-mooning",
+      "documentId": "ephdec03",
+      "title": "Mooning",
+      "summary": "The article discusses the ongoing Cassini mission to Saturn, highlighting its scientific experiments and the upcoming arrival at the gas giant. It then pivots to announce that Mojo and Jane Houston Jones, influential figures in Bay Area amateur astronomy and editors of the 'Ephemeris' publication, are moving to the Jet Propulsion Laboratory to join the Cassini Division. The author expresses deep gratitude for their extensive contributions to the local astronomy community and the publication, noting this as their final issue.",
+      "categories": [
+        "Space Exploration",
+        "Amateur Astronomy",
+        "Community News",
+        "Astronomy Outreach",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Cassini mission",
+        "Saturn",
+        "Titan",
+        "JPL",
+        "Jane Houston Jones",
+        "Mojo",
+        "Amateur astronomy",
+        "Ephemeris",
+        "Huygens probe",
+        "Gravity assist",
+        "Bay Area astronomy",
+        "SJAA",
+        "Mare Orientale"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec03-the-shallow-sky",
+      "documentId": "ephdec03",
+      "title": "The shallow sky",
+      "summary": "This observing report for December details the visibility of various planets, highlighting Mars, Jupiter, Mercury, and Venus. The main focus is on Saturn, describing its prominent rings, including the Cassini Division, A, B, and C rings, and other subtle features observable with a telescope. The article also includes a farewell to contributors Jane Houston Jones and Mojo.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "Cassini Division",
+        "Planetary observation",
+        "December sky",
+        "Jupiter",
+        "Mars",
+        "Ring system",
+        "Encke Division",
+        "Gravitational perturbations"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec03-twas-the-night-before-solstice",
+      "documentId": "ephdec03",
+      "title": "'Twas the night before solstice",
+      "summary": "This article is a charming astronomy-themed adaptation of 'A Visit From St. Nicholas', describing a cloudy night that unexpectedly clears for a stargazing session with a telescope. The narrator observes various constellations and planets, eventually receiving a visit from an astronomer-like figure (Santa) who enjoys views through the telescope. The piece also includes a brief farewell message from the outgoing editors of the SJAA Ephemeris.",
+      "categories": [
+        "Astronomy",
+        "Creative Writing",
+        "Observing Report",
+        "Club News"
+      ],
+      "keywords": [
+        "Solstice",
+        "Stargazing",
+        "Telescope",
+        "Pleiades",
+        "Orion",
+        "Ursa Major",
+        "Winter Circle",
+        "Planets",
+        "Stars",
+        "Astronomy Club",
+        "Jane Houston Jones",
+        "Poem"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec03-celestial-calendar-december-2003",
+      "documentId": "ephdec03",
+      "title": "Celestial calendar December 2003",
+      "summary": "This document provides a celestial calendar for December 2003, detailing lunar phases, positions and magnitudes of nearer planets (Mercury, Venus, Mars, Jupiter, Saturn), hours of darkness, and astronomical twilight. It highlights December 20th as the 'Darkest Saturday Night' and announces a public lecture by Dr. Jeffrey Moore of NASA Ames Research Center on December 6th, discussing the New Horizons Pluto-Kuiper Belt mission, its scientific objectives, and scheduled launch.",
+      "categories": [
+        "Celestial Calendar",
+        "Observing Guide",
+        "Astronomical Data",
+        "Events",
+        "Space Exploration News"
+      ],
+      "keywords": [
+        "December 2003",
+        "Lunar phases",
+        "Planetary positions",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Hours of darkness",
+        "Astronomical twilight",
+        "Darkest Saturday Night",
+        "Dr. Jeffrey Moore",
+        "New Horizons mission",
+        "Pluto",
+        "Charon",
+        "Kuiper Belt",
+        "NASA Ames Research Center",
+        "Astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec03-sjaa-loaner-scope-status",
+      "documentId": "ephdec03",
+      "title": "SJAA loaner scope status",
+      "summary": "The article provides a detailed status update for the San Jose Astronomical Association's (SJAA) telescope loaner program, outlining which scopes are currently available, those on active loan with due dates, and those with extended loan periods or undergoing repair. SJAA members can contact Mike Koop to borrow equipment, with a waiting list maintained for popular telescopes. The program offers various types of telescopes, including Dobsonians, Newtonians, refractors, and Schmidt-Cassegrains, to its members.",
+      "categories": [
+        "Astronomy Club Services",
+        "Equipment Loan Program",
+        "Member Benefits",
+        "Inventory Status",
+        "Community Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope loaner program",
+        "Astronomy equipment",
+        "Telescopes",
+        "Dobsonian",
+        "Newtonian",
+        "Refractor",
+        "Schmidt-Cassegrain",
+        "Loan status",
+        "Waiting list",
+        "Member services"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0312/EphDec03.pdf",
+      "txtPath": "0312/EphDec03.md"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "articles": [
+    {
+      "id": "ephdec11-juno-mission-launch",
+      "documentId": "ephdec11",
+      "title": "Juno Mission Launch",
+      "summary": "This article details the author's engaging experience at the Juno Mission launch in August 2011, highlighting their roles in outreach activities like tweetups, star parties, and webcasts, while expressing personal excitement for space missions. The second part provides a December 2011 observing guide, focusing on Jupiter's visibility and events like double shadow transits, along with tips for spotting Uranus, Neptune, Mercury, and details for a total lunar eclipse.",
+      "categories": [
+        "Mission Launch",
+        "Astronomy Outreach",
+        "Observing Report",
+        "Astronomical Events",
+        "Planetary Science",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Juno Mission",
+        "NASA",
+        "Tweetup",
+        "Star Party",
+        "Planetary Science Mission Directorate",
+        "Jupiter",
+        "Galilean Satellites",
+        "Great Red Spot",
+        "Uranus",
+        "Neptune",
+        "Mercury",
+        "Lunar Eclipse",
+        "December 2011",
+        "Cape Canaveral",
+        "Kennedy Space Center",
+        "Cassini",
+        "Grail",
+        "Orion Nebula"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec11-nasa-space-place",
+      "documentId": "ephdec11",
+      "title": "NASA Space Place",
+      "summary": "NASA's Spitzer Space Telescope has provided new insights into the exoplanet 55 Cancri e, a \"super-Earth\" previously thought to be a barren rock. Contrary to earlier beliefs, new data suggests the planet may be much wetter and stranger, potentially harboring significant amounts of water in a supercritical fluid state despite its extreme heat. The article also includes a report from an SJAA General Meeting featuring astroimager Rogelio Bernal Andreo, who shared insights on astrophotography software and techniques, and lists upcoming speakers.",
+      "categories": [
+        "Exoplanet Research",
+        "Astronomy News",
+        "Space Telescopes",
+        "Scientific Discovery",
+        "Astrophotography",
+        "Local Astronomy Events"
+      ],
+      "keywords": [
+        "55 Cancri e",
+        "Exoplanets",
+        "Super-Earth",
+        "Spitzer Space Telescope",
+        "NASA",
+        "Supercritical fluid",
+        "Astrophotography",
+        "Rogelio Bernal Andreo",
+        "SJAA General Meeting",
+        "Hubble Space Telescope",
+        "Cosmology"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec11-the-last-month-in-astronomy",
+      "documentId": "ephdec11",
+      "title": "The Last Month In Astronomy",
+      "summary": "The article provides a digest of astronomy news from late October to mid-November 2011, covering a range of topics. Highlights include the impending launch of the Mars Curiosity rover, new findings suggesting the first stars were smaller than previously thought, and observations of near-Earth asteroid 2005 YU55. Other significant updates feature Voyager 2 switching to backup thrusters, the disintegration of Comet Elenin, LHC results constraining the Higgs particle, and the discovery of a massive watery disk around the young star TW Hydrae.",
+      "categories": [
+        "Space Missions",
+        "Planetary Science",
+        "Stellar Astronomy",
+        "Cosmology",
+        "Solar System",
+        "Particle Physics",
+        "Scientific Discoveries",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Mars Curiosity Rover",
+        "Mars Science Laboratory",
+        "First Stars",
+        "2005 YU55 Asteroid",
+        "Near-Earth Asteroid",
+        "Voyager 2",
+        "Mars Habitability",
+        "LHC",
+        "Higgs Particle",
+        "MESSENGER Spacecraft",
+        "Mercury Geysers",
+        "Comet Elenin",
+        "Herschel Spacecraft",
+        "TW Hydrae",
+        "Protoplanetary Disk",
+        "Water in Space"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec11-sjaa-club-announcements-and-programs",
+      "documentId": "ephdec11",
+      "title": "SJAA Club Announcements and Programs",
+      "summary": "This article outlines several key announcements for the San Jose Astronomical Association (SJAA), including upcoming board elections in February for four incumbent positions and one open seat. It also details the availability of RASC Handbooks and Calendars, promotes the club's telescope loaner program, and provides a comprehensive update on school star party activities, showing both completed and scheduled events. Additionally, the article lists current club officers and board members, and provides publication details for the monthly SJAA EPHEMERIS newsletter.",
+      "categories": [
+        "Club Announcements",
+        "Governance & Elections",
+        "Programs & Services",
+        "Outreach Events",
+        "Membership Information",
+        "Publications"
+      ],
+      "keywords": [
+        "SJAA",
+        "Club Elections",
+        "Board of Directors",
+        "RASC Handbooks",
+        "RASC Calendars",
+        "Telescope Loaner Program",
+        "School Star Parties",
+        "EPHEMERIS Newsletter",
+        "Astronomy Club",
+        "Membership"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1112/EphDec11.pdf",
+      "txtPath": "1112/EphDec11.md"
+    }
+  ]
+}

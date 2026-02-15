@@ -1,0 +1,210 @@
+{
+  "articles": [
+    {
+      "id": "ephoct02-my-first-night-laser-spotting",
+      "documentId": "ephoct02",
+      "title": "My first night laser spotting",
+      "summary": "This article details Bob Havner's inaugural night as a laser spotter at Lick Observatory's Shane 3-meter telescope. His crucial role involves monitoring for aircraft to ensure their safety from the 20-watt sodium laser used for adaptive optics, which creates a false guide star to improve image clarity. The report also includes observations of the guide star and celestial objects like Saturn, alongside a calendar of San Jose Astronomical Association events for October and November 2002.",
+      "categories": [
+        "Observing Report",
+        "Field Report",
+        "Technical",
+        "Laser Safety",
+        "Club Activities",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "Laser Spotting",
+        "Adaptive Optics",
+        "Sodium Laser",
+        "Shane 3-meter telescope",
+        "Guide Star",
+        "Aircraft Safety",
+        "Atmospheric Disturbances",
+        "Bob Havner",
+        "Geoff Marcy",
+        "Exoplanets",
+        "Saturn",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star Party",
+        "ATM Class"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephoct02-starry-starry-nights-with-don-machholz",
+      "documentId": "ephoct02",
+      "title": "Starry starry nights with Don Machholz",
+      "summary": "The article details Jane Houston Jones's experience at Don Machholz's \"Starry Starry Nights\" public astronomy event in the Sierra, highlighting the excellent dark skies, Machholz's effective observing method, and the gathering of skilled amateur astronomers. It also announces a lecture by Robert Garfinkle on Mimbres pottery and the Crab Nebula at the Chabot Space & Science Center, and includes a section by Mark Wagner with detailed observational reports on various deep-sky objects.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy Clubs/Community",
+        "Lectures/Speakers",
+        "Deep Sky Observing"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Starry Starry Nights",
+        "Public Star Party",
+        "Amateur Astronomy",
+        "Deep Sky Objects",
+        "Robert Garfinkle",
+        "Chabot Space & Science Center",
+        "Crab Nebula",
+        "Observing Techniques",
+        "Light Pollution"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct02-october-deep-sky-from-montebello",
+      "documentId": "ephoct02",
+      "title": "October deep sky from Montebello",
+      "summary": "This article encourages backyard astronomers to explore deep-sky objects from the Montebello Open Space Preserve, an observing site near Palo Alto. It highlights Montebello's accessibility and superior viewing conditions compared to suburban backyards, advising readers on how to access the site via permit holders. The author suggests specific objects, like NGC7662, for observation during moonless October nights, specifically between R.A. 22:00 and 00:00.",
+      "categories": [
+        "observing guide",
+        "observing site",
+        "deep sky",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Montebello Open Space Preserve",
+        "deep sky objects",
+        "October observing",
+        "NGC7662",
+        "backyard astronomy",
+        "Palo Alto",
+        "observing site access"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct02-mooning",
+      "documentId": "ephoct02",
+      "title": "Mooning",
+      "summary": "This article revises the common understanding of the relationship between impactor size and crater diameter, stating that the impactor is typically about 5% of the crater's diameter, rather than 10%, for both Earth and the Moon. It explains why atmospheric and gravitational factors are largely insignificant for large impacts and touches on unexplained lunar phenomena like differential cratering and hemispheric elevation, while expressing skepticism about the 'Big Impact' theory of Moon formation.",
+      "categories": [
+        "Planetary Science",
+        "Astronomy",
+        "Scientific Update",
+        "Astrogeology"
+      ],
+      "keywords": [
+        "Craters",
+        "Impactor size",
+        "Crater diameter",
+        "Moon",
+        "Planetary impacts",
+        "Lunar geology",
+        "Big Impact theory",
+        "Asymmetric cratering",
+        "Mare formation",
+        "Scientific revision"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct02-aanc-awards-for-2002",
+      "documentId": "ephoct02",
+      "title": "AANC Awards for 2002",
+      "summary": "The AANC announced its annual awards for 2002, recognizing individuals and businesses for their outstanding and continuous support in fostering amateur astronomy. Three SJAA members were honored: Jim Van Nuland received the Special award, Jane Houston Jones the John Hewitt Memorial Award for Amateur Astronomy, and Bob Naeye the Professional award. Bob Fies of Aluminum Coating was also awarded the Commercial award.",
+      "categories": [
+        "Awards",
+        "News",
+        "Amateur Astronomy",
+        "Organizational Recognition"
+      ],
+      "keywords": [
+        "AANC Awards",
+        "2002",
+        "Amateur Astronomy",
+        "SJAA",
+        "Jim Van Nuland",
+        "Jane Houston Jones",
+        "John Hewitt Memorial Award",
+        "Bob Naeye",
+        "Bob Fies",
+        "Astronomy Community",
+        "Recognition"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct02-october-celestial-events-and-observing-guide",
+      "documentId": "ephoct02",
+      "title": "October Celestial Events and Observing Guide",
+      "summary": "This article provides a detailed celestial calendar and observing guide for October 2002, authored by Richard Stanton and Akkana Peck. It includes data on lunar phases, planetary positions with their rise, transit, and set times, astronomical twilight, and sidereal time. The guide also offers specific observing tips for planets like Saturn and Jupiter, which become prominent in the evening sky, and notes the challenging visibility of others such as Mercury, Mars, and Venus.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Calendar",
+        "Ephemeris",
+        "Planetary Observation"
+      ],
+      "keywords": [
+        "October 2002",
+        "Lunar Phases",
+        "Planets",
+        "Observing",
+        "Celestial Events",
+        "Jupiter",
+        "Saturn",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Telescope",
+        "Binoculars"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct02-sjaa-loaner-scope-status",
+      "documentId": "ephoct02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA (San Jose Astronomical Association) provides a loaner scope program for its members, detailing the availability status of various telescopes. The article lists scopes ready for immediate loan, those currently borrowed with their due dates, and equipment with extended loan periods. Members can contact Mike Koop to borrow a scope or be added to a waiting list for popular items.",
+      "categories": [
+        "Club Resources",
+        "Equipment Loan Program",
+        "Member Services",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loan",
+        "astronomy equipment",
+        "member benefits",
+        "loaner scopes",
+        "availability",
+        "waiting list",
+        "Dobsonian",
+        "refractor",
+        "Schmidt-Cassegrain"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0210/EphOct02.pdf",
+      "txtPath": "0210/EphOct02.md"
+    }
+  ]
+}

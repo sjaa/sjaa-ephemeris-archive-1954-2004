@@ -1,0 +1,178 @@
+{
+  "articles": [
+    {
+      "id": "ephoct11-the-shallow-sky",
+      "documentId": "ephoct11",
+      "title": "The Shallow Sky",
+      "summary": "The article analyzes recent cometary observations, focusing on Comet C/2009 P1 Garradd and Comet C/2010 X1 Elenin, while actively debunking doomsday theories surrounding Elenin by highlighting its minuscule gravitational impact and potential break-up. It then shifts to an in-depth discussion of the Space Shuttle program's legacy, including its achievements, operational challenges post-retirement regarding ISS resupply, and future aspirations for NASA, such as Mars missions and heavy-lift rocket development.",
+      "categories": [
+        "Astronomy",
+        "Space Exploration",
+        "Science Communication",
+        "Space History",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Comet C/2009 P1 Garradd",
+        "Comet C/2010 X1 Elenin",
+        "Doomsday theories",
+        "Nibiru",
+        "NASA",
+        "Space Shuttle program",
+        "International Space Station",
+        "Mars missions",
+        "Heavy-lift rockets",
+        "Coronal Mass Ejection",
+        "Hubble Space Telescope",
+        "Webb Space Telescope"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct11-astronomy-magazine-renewal-time",
+      "documentId": "ephoct11",
+      "title": "ASTRONOMY magazine renewal time!",
+      "summary": "This article details the renewal process for a group subscription to Astronomy magazine for 2012, providing rates and instructions for existing, independent, and new subscribers. Additionally, it offers an observing report for late 2011, highlighting the visibility and characteristics of several comets (Elenin, Honda–Mrkos–Pajdušáková, Garradd) and planets (Jupiter, Uranus, Neptune, Pluto, Venus, Mercury, Mars, Saturn), along with their observational details.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Membership/Subscription",
+        "Astronomical Phenomena"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "subscription renewal",
+        "group rate",
+        "comets",
+        "planets",
+        "observing guide",
+        "celestial events",
+        "Jupiter opposition",
+        "C/2010 X1 Elenin",
+        "45P/Honda–Mrkos–Pajdušáková"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct11-contact-the-reel-and-the-real-humanity-s-search-for-extra-terrestrial-intelligence",
+      "documentId": "ephoct11",
+      "title": "Contact (The Reel and the Real): Humanity's Search for Extra-terrestrial Intelligence",
+      "summary": "An event featuring a screening of the film 'Contact' and a talk by Dr. Jill Tarter of the SETI Institute is scheduled for November 2nd at San Francisco State University. Dr. Tarter, whose work inspired the film's main character, will discuss humanity's search for extraterrestrial intelligence and her work at the SETI Institute. This free event, co-sponsored by SF State's Department of Physics and Astronomy, is open to the public.",
+      "categories": [
+        "Events",
+        "News",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SETI",
+        "Jill Tarter",
+        "Contact (Film)",
+        "Extraterrestrial Intelligence",
+        "Public Lecture",
+        "Astronomy",
+        "Science Fiction",
+        "San Francisco State University"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct11-nasa-space-place",
+      "documentId": "ephoct11",
+      "title": "NASA Space Place",
+      "summary": "The article explores Olbers' Paradox, questioning why the night sky appears dark despite the universe containing billions of stars. It explains that early theories of an infinite and unchanging universe presented a conundrum, but modern astronomy resolves the paradox by recognizing that the universe is finite in both size and age. Furthermore, the expansion of the universe contributes to the darkness by causing light from distant objects to dim and red-shift out of the visible spectrum.",
+      "categories": [
+        "Astronomy",
+        "Cosmology",
+        "Science Education",
+        "Physics"
+      ],
+      "keywords": [
+        "Olbers' Paradox",
+        "dark night sky",
+        "universe expansion",
+        "finite universe",
+        "red-shift",
+        "stars",
+        "galaxies",
+        "cosmology",
+        "light",
+        "NASA Space Place"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct11-samples-from-itokawa",
+      "documentId": "ephoct11",
+      "title": "Samples from Itokawa",
+      "summary": "The Hayabusa spacecraft's samples from asteroid Itokawa, returned in 2010, were analyzed, confirming S-type asteroids like Itokawa as the source of ordinary chondrite meteorites. Researchers resolved color discrepancies by identifying surface \"nanoblobs\" and solidified the connection through detailed mineral chemistry, oxygen isotopic composition, and iridium abundance comparisons. These studies also revealed Itokawa is a \"reformed\" asteroid, formed from a larger body, with a comparatively shorter lifespan due to ongoing surface loss.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Research Results",
+        "Astrophysics",
+        "Geochemistry"
+      ],
+      "keywords": [
+        "Hayabusa",
+        "Itokawa",
+        "Asteroid Samples",
+        "Ordinary Chondrites",
+        "S-type Asteroids",
+        "Nanoblobs",
+        "Meteorite Origin",
+        "Solar Nebula"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct11-astronomy-news-and-updates",
+      "documentId": "ephoct11",
+      "title": "Astronomy News and Updates",
+      "summary": "This article provides a roundup of recent astronomy news from September 2011, including NASA's GRAIL launch to the Moon, the controlled re-entry of the UARS satellite, the bright SN 2011fe supernova in M101, new Cassini images of Hyperion, and a new NASA solar system exploration tool. It also covers local San Jose Astronomical Association (SJAA) updates, such as the discovery of 50 new exoplanets (including a potential 'Super Earth'), upcoming school star parties, a hiatus for the Silicon Valley Astronomy Lecture Series, and the SJAA's telescope loaner program.",
+      "categories": [
+        "Astronomy News",
+        "Space Missions",
+        "Discoveries",
+        "Observing Reports",
+        "Exoplanets",
+        "Community Events",
+        "Astronomy Clubs",
+        "Announcements",
+        "Educational Programs"
+      ],
+      "keywords": [
+        "GRAIL",
+        "UARS satellite",
+        "SN 2011fe",
+        "Supernova",
+        "Pinwheel Galaxy M101",
+        "Cassini spacecraft",
+        "Hyperion",
+        "Exoplanets",
+        "HARPS",
+        "Kepler project",
+        "NASA",
+        "San Jose Astronomical Association",
+        "School Star Parties",
+        "Silicon Valley Astronomy Lecture Series",
+        "Telescope Loaner Program"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1110/EphOct11.pdf",
+      "txtPath": "1110/EphOct11.md"
+    }
+  ]
+}

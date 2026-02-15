@@ -1,0 +1,218 @@
+{
+  "articles": [
+    {
+      "id": "ephjul13-view-the-northern-lights-in-california-yes",
+      "documentId": "ephjul13",
+      "title": "View The Northern Lights In California? Yes!",
+      "summary": "This article details the rare but possible phenomenon of observing the Northern Lights (aurora borealis) in California, featuring astrophotographer Dirk Obudzinski's experiences and images from various local sites. It provides a practical, three-step guide for Californians to increase their chances of viewing an aurora, including signing up for alerts, finding dark sky locations, and monitoring space weather, particularly the Kp Index. The piece emphasizes that while challenging, catching an aurora this far south is a rewarding celestial event.",
+      "categories": [
+        "Astronomy Observation",
+        "Astrophotography",
+        "Space Weather",
+        "Observing Guide",
+        "Regional Astronomy"
+      ],
+      "keywords": [
+        "Northern Lights",
+        "Aurora Borealis",
+        "California",
+        "Astrophotography",
+        "Geomagnetic Storm",
+        "Kp Index",
+        "Space Weather",
+        "Dark Sky",
+        "Dirk Obudzinski",
+        "Solar Flare",
+        "CME"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul13-mad-moon-models",
+      "documentId": "ephjul13",
+      "title": "Mad Moon Models",
+      "summary": "Akkana Peck reviews \"The Moon\" (1885) by James Nasmyth and James Carpenter, a unique book that used detailed physical models of lunar features, photographed under specific lighting, to illustrate the moon's surface at a time when astrophotography was not advanced enough. The author praises the book's illustrative plates and observing advice, noting its historical value despite outdated theories of lunar geology. She recommends it for both new and experienced lunar observers for its insightful discussions of lunar regions and its fascinating historical perspective.",
+      "categories": [
+        "Book Review",
+        "Astronomy History",
+        "Lunar Observation",
+        "Astronomical Models"
+      ],
+      "keywords": [
+        "Mad Moon Models",
+        "James Nasmyth",
+        "James Carpenter",
+        "The Moon (book)",
+        "Lunar Models",
+        "Lunar Photography",
+        "Observing Advice",
+        "Lunar Geology",
+        "Volcanism",
+        "Lunar Craters",
+        "Copernicus",
+        "Plato",
+        "Apennines"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul13-shallow-sky",
+      "documentId": "ephjul13",
+      "title": "Shallow Sky",
+      "summary": "The article offers guidance for late-night skygazers to spot Uranus, Neptune, and Pluto, and highlights a notable morning conjunction between Mars and Jupiter occurring late in the month. Additionally, it reports on a significant 4th magnitude meteoroid impact detected on the Moon by NASA's monitoring program on March 17th, detailing the impactor's characteristics and the program's objective to study near-Earth asteroids.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "Mars",
+        "Jupiter",
+        "Conjunction",
+        "Lunar impact",
+        "Meteoroid",
+        "NASA",
+        "Lunar monitoring",
+        "Near-Earth asteroids",
+        "Amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul13-starry-starry-night-unukalhai",
+      "documentId": "ephjul13",
+      "title": "Starry, Starry Night Unukalhai",
+      "summary": "The article describes Unukalhai (Alpha Serpentis), a K2 orange giant star located in Serpens Caput, which means \"the serpent's neck.\" Despite its naked-eye visibility at magnitude 2.65, it appears dim, yet boasts a diameter 15 times that of our sun and distinct metallic spectral lines. The piece also provides guidance for finding the star, noting its proximity to several globular clusters and its meridian transit around 10 p.m. on July 4th.",
+      "categories": [
+        "Stellar Characteristics",
+        "Observing Guide",
+        "Astronomy Education",
+        "Constellation Study"
+      ],
+      "keywords": [
+        "Unukalhai",
+        "Alpha Serpentis",
+        "Serpens",
+        "Orange Giant",
+        "K2 Star",
+        "Stellar Classification",
+        "Stellar Spectra",
+        "Globular Clusters",
+        "Naked Eye Observation",
+        "Meridian Transit",
+        "Serpens Caput"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul13-houge-park-observing-targets-for-july",
+      "documentId": "ephjul13",
+      "title": "Houge Park Observing Targets for July",
+      "summary": "This article outlines celestial observing targets for two distinct events at Houge Park in July. For July 12, it provides a guide to four lunar features: Aristotlis, Lacus Somniorum, Rupes Altai, and Rabbi Levi, complete with descriptions and coordinates. For the July 14 'Houge Star Party', it lists four deep-sky objects: the M27 planetary nebula, M8 and M7 open clusters, and the M92 globular cluster, offering observing tips and celestial coordinates.",
+      "categories": [
+        "Observing Guide",
+        "Events",
+        "Astronomy",
+        "Lunar Astronomy",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "Houge Park",
+        "Observing Targets",
+        "July",
+        "Moon",
+        "Lunar Features",
+        "Deep Sky Objects",
+        "Star Party",
+        "Aristotlis",
+        "Lacus Somniorum",
+        "Rupes Altai",
+        "Rabbi Levi",
+        "M27",
+        "M8",
+        "M7",
+        "M92",
+        "Planetary Nebula",
+        "Open Cluster",
+        "Globular Cluster"
+      ],
+      "pageStart": 5,
+      "pageEnd": 67
+    },
+    {
+      "id": "ephjul13-a-few-board-reports",
+      "documentId": "ephjul13",
+      "title": "A Few Board Reports",
+      "summary": "This article provides updates on three key club programs: the Advanced Loaner Program, the Quick STARt program, and the Binocular Stargazing Program. The Advanced Loaner Program has been enhanced with a new XT8g go-to Dobsonian telescope, offering mobile device control. The Quick STARt program continues to successfully teach observing basics and foster community at RCDO, while the new Binocular Stargazing program is attracting significant interest and new members through its accessible approach to astronomy.",
+      "categories": [
+        "Club Programs",
+        "Outreach",
+        "Education",
+        "Equipment",
+        "News/Updates"
+      ],
+      "keywords": [
+        "Advanced Loaner Program",
+        "Quick STARt program",
+        "Binocular Stargazing Program",
+        "XT8g telescope",
+        "Go-to Dobsonian",
+        "Mobile control",
+        "Sky Safari",
+        "Star Seeker",
+        "Star hopping",
+        "Astronomy education",
+        "Member engagement",
+        "Dark skies",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul13-heard-and-overheard-by-mina-wagner",
+      "documentId": "ephjul13",
+      "title": "HEARD AND OVERHEARD... By Mina Wagner",
+      "summary": "This article discusses preparations for the GSSP event and the installation of a new screen in Hogue Park for future movie nights. It prominently highlights an upcoming event on July 19, 2013, where NASA's Cassini spacecraft will capture an image of Earth from Saturn during a total solar eclipse, an event dubbed \"Pale Blue Dot\" day for global celebration. Readers are encouraged to learn more and participate via the ciclops.org website.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Astronomy News",
+        "Space Exploration",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "GSSP",
+        "Hogue Park",
+        "Movie Nights",
+        "July 19, 2013",
+        "Pale Blue Dot",
+        "NASA",
+        "Cassini spacecraft",
+        "Saturn",
+        "Earth",
+        "Rings",
+        "Carolyn Porco",
+        "Interplanetary Photography"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1307/EphJul13.pdf",
+      "txtPath": "1307/EphJul13.md"
+    }
+  ]
+}

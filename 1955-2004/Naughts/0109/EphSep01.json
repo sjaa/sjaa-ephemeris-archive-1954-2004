@@ -1,0 +1,260 @@
+{
+  "articles": [
+    {
+      "id": "ephsep01-sjaa-ephemeris",
+      "documentId": "ephsep01",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The article features a first-hand account of a visit to Mt. Wilson Observatory, where the author describes the awe-inspiring experience of observing with and even manually steering the 100-inch telescope during double-star analysis for extrasolar planet research. It also includes the San Jose Astronomical Association's comprehensive activities calendar for September and October, outlining general meetings, various star parties, and astronomy classes.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Club News",
+        "Events Calendar",
+        "Telescope Operations",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Mt. Wilson Observatory",
+        "100-inch telescope",
+        "San Jose Astronomical Association",
+        "Star Parties",
+        "Astronomy Events",
+        "Extrasolar Planets",
+        "Telescope Control",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "SJAA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephsep01-the-big-eye-candy-mountains",
+      "documentId": "ephsep01",
+      "title": "The Big Eye Candy Mountains",
+      "summary": "This article recounts the San Jose Astronomical Association (SJAA) trip to Yosemite National Park on August 10-12, where attendees enjoyed public star parties and observed Perseid meteors. Inspired by the ideal stargazing conditions, the author, Jane Houston Jones, adapted the \"Big Rock Candy Mountain\" ballad into \"The Big Eye Candy Mountains\" to whimsically describe the perfect astronomical experience.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Astronomy Club Activities",
+        "Narrative"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite National Park",
+        "Stargazing",
+        "Perseid Meteors",
+        "Star Party",
+        "Astronomy",
+        "Jane Houston Jones",
+        "Big Eye Candy Mountains",
+        "Telescopes",
+        "Observing conditions",
+        "Lick Observatory"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephsep01-story-of-chi-si",
+      "documentId": "ephsep01",
+      "title": "Story of Chi-Si",
+      "summary": "This article recounts the Chinese folklore of \"Chi-Si,\" the 7th day of the 7th lunar month, which tells the tragic love story of the Weaver Girl (Chi-Neu) and a Cowherd. Separated by the Empress of Heaven who creates the Milky Way, they are allowed to reunite only once a year. The narrative explicitly links these characters to the celestial bodies Vega (Weaver Girl) and Altair (Cowherd), highlighting their astronomical representation across the Milky Way.",
+      "categories": [
+        "Folklore",
+        "Astronomy",
+        "Cultural Story",
+        "Mythology"
+      ],
+      "keywords": [
+        "Chi-Si",
+        "Weaver Girl",
+        "Cowherd",
+        "Vega",
+        "Altair",
+        "Milky Way",
+        "Chinese folklore",
+        "Summer Triangle",
+        "Lunar calendar",
+        "Constellations",
+        "Star lore"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep01-ringed-saturn-returns-in-september",
+      "documentId": "ephsep01",
+      "title": "Ringed Saturn Returns in September",
+      "summary": "This article outlines celestial observing opportunities for September, noting that Mars is currently obscured by a global dust storm, making it a less ideal target. However, Saturn returns with noticeably more open rings and will undergo a rare lunar occultation on September 10th, an event the author recommends. Observers can also find Venus in the morning, a difficult Mercury, Jupiter with visible shadow transits from all four Galilean moons, and the outer planets Uranus, Neptune, and Pluto, with Uranus having a close encounter with a 7th magnitude orange star.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Planetary Astronomy",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Saturn",
+        "Mars",
+        "Lunar Occultation",
+        "Jupiter",
+        "Uranus",
+        "September Sky",
+        "Planetary Observing",
+        "Dust Storm",
+        "Venus",
+        "Mercury",
+        "Neptune",
+        "Pluto"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep01-mooning",
+      "documentId": "ephsep01",
+      "title": "Mooning",
+      "summary": "This article describes a lunar observing session focusing on features like impact craters, Hyginus, Triesnecker, and the Alpine Valley. The observer, using a 60-inch telescope, notes that even this aperture felt insufficient for detailed lunar viewing under good seeing conditions, expressing a desire for larger instruments. The author concludes by advocating for more large observatories to host dedicated 'Moon nights'.",
+      "categories": [
+        "Observing Report",
+        "Opinion",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observation",
+        "Telescope",
+        "Observatory",
+        "Hyginus",
+        "Triesnecker",
+        "Alpine Valley",
+        "Rima Burt",
+        "Seeing conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep01-fried-eyes",
+      "documentId": "ephsep01",
+      "title": "Fried Eyes",
+      "summary": "The author debunks the myth that the Moon is too bright to view through a telescope, recounting an observing session at Mt. Wilson Observatory using the historic 60-inch reflector. Despite initial concerns, the experience was comfortable and yielded phenomenal views, particularly of lunar craters and rilles, thanks to excellent seeing conditions and the technique of leaving dome lights on. The article also touches upon the historical significance and unique features of the venerable telescope.",
+      "categories": [
+        "observing reports",
+        "debunking myths",
+        "astronomy",
+        "telescopes",
+        "observatories",
+        "lunar observing"
+      ],
+      "keywords": [
+        "Moon",
+        "Mt. Wilson Observatory",
+        "60-inch reflector",
+        "telescope",
+        "observing",
+        "lunar features",
+        "eyepiece",
+        "seeing conditions",
+        "Los Angeles Astronomical Association",
+        "Hubble",
+        "Autolycus",
+        "Hyginus",
+        "Triesnecker",
+        "Hadley-Bradley rilles"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep01-astronomy-magazine-renewal-time",
+      "documentId": "ephsep01",
+      "title": "Astronomy Magazine Renewal Time",
+      "summary": "This article announces the renewal period for a group subscription to Astronomy magazine for 2002 at a rate of $29. It provides instructions for current group members, independent subscribers wishing to convert, and new subscribers to send payment to Jim Van Nuland. Checks will be held until early October when the renewal package is sent.",
+      "categories": [
+        "Announcement",
+        "Subscription",
+        "Group Activities",
+        "News"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "Subscription renewal",
+        "Group rate",
+        "2002",
+        "Jim Van Nuland",
+        "Magazine subscription",
+        "Payment instructions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep01-homecoming-july-2001",
+      "documentId": "ephsep01",
+      "title": "Homecoming — July 2001",
+      "summary": "The author returns to Henry Coe State Park after a 19-month absence, initially troubled by dust but then enjoying a clear, cool night for astronomical observation. He reacquaints himself with various celestial objects, including the Moon, Comet C/2001a2 (Linear), deep-sky objects in the Scorpius-Sagittarius region, Uranus, and Neptune, noting excellent seeing conditions. Despite other club members being elsewhere, he was surprised to find at least 15 people enjoying the superb night with him.",
+      "categories": [
+        "observing report",
+        "personal experience"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Comet C/2001a2 (Linear)",
+        "Scorpius",
+        "Sagittarius",
+        "Uranus",
+        "Neptune",
+        "M24",
+        "M22",
+        "M11",
+        "M8",
+        "M20",
+        "NGC 7789",
+        "night sky",
+        "astronomy",
+        "observing conditions",
+        "July 2001"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep01-sjaa-loaner-scope-status",
+      "documentId": "ephsep01",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA (San Jose Astronomical Association) provides an update on the status of its telescope loaner program, detailing which scopes are currently available, those recently loaned out, and those with extended loan periods. Members can contact Mike Koop to borrow an available scope or be placed on a waiting list for others. The article also notes a recent donation of an 8\" f/8.5 telescope to the program.",
+      "categories": [
+        "Member Services",
+        "Equipment Management",
+        "Club News",
+        "Astronomy Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope program",
+        "astronomy equipment",
+        "dobson",
+        "newtonian",
+        "refractor",
+        "spectroscope",
+        "Celestron",
+        "Orion",
+        "availability",
+        "Mike Koop",
+        "member benefits"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0109/EphSep01.pdf",
+      "txtPath": "0109/EphSep01.md"
+    }
+  ]
+}

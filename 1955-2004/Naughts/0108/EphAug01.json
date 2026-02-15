@@ -1,0 +1,216 @@
+{
+  "articles": [
+    {
+      "id": "ephaug01-an-eclipse-over-zambia",
+      "documentId": "ephaug01",
+      "title": "An Eclipse Over Zambia",
+      "summary": "This article recounts an expedition to Lusaka, Zambia, for the total solar eclipse on June 21, 2001, where a group of \"migrant travelers\" observed the celestial event, witnessing a \"triple diamond ring\" and an unexpected marriage proposal. Beyond the eclipse, the narrative details extensive travels through Africa, including visits to Victoria Falls, the Hwange Game Preserve, and the Great Zimbabwe Ruins, alongside observations of the Southern night sky. The author also shares technical details about eclipse photography techniques and their overall 12-day adventure.",
+      "categories": [
+        "Solar Eclipse Report",
+        "Astronomical Expedition",
+        "Travelogue",
+        "Observational Astronomy",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Zambia",
+        "June 2001 Eclipse",
+        "Diamond Ring Effect",
+        "Solar Corona",
+        "Solar Prominences",
+        "Eclipse Photography",
+        "Victoria Falls",
+        "Great Zimbabwe Ruins",
+        "Hwange Game Preserve",
+        "Southern Sky Observation",
+        "Star Party",
+        "Astronomical Equipment",
+        "Winter Solstice",
+        "Lusaka"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephaug01-birdwatching-at-the-grand-canyon",
+      "documentId": "ephaug01",
+      "title": "Birdwatching at the Grand Canyon",
+      "summary": "This article recounts the author's experience at the 2001 Grand Canyon Star Party, blending terrestrial birdwatching with celestial observations of constellations named after birds. While observing the Milky Way and constellations like Cygnus, Aquila, and Corvus, the author also focuses on the remarkable California Condor, highlighting its history, conservation status, and majestic presence at the Grand Canyon. The narrative intertwines detailed descriptions of astronomical objects with the awe of observing an endangered bird in its natural habitat.",
+      "categories": [
+        "observing report",
+        "astronomy",
+        "nature observation",
+        "conservation",
+        "star party",
+        "travelogue"
+      ],
+      "keywords": [
+        "Grand Canyon Star Party",
+        "California Condor",
+        "Cygnus",
+        "Aquila",
+        "Corvus",
+        "Milky Way",
+        "North America Nebula",
+        "Pelican Nebula",
+        "Cygnus Loop",
+        "Veil Nebula",
+        "supernova remnant",
+        "O-III filter",
+        "dark nebulae",
+        "R Corvi",
+        "Ring Tail Galaxy",
+        "NGC4038",
+        "NGC4039",
+        "planetary nebula",
+        "Grand Canyon",
+        "birdwatching",
+        "conservation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephaug01-lessons-from-polyphemus",
+      "documentId": "ephaug01",
+      "title": "Lessons From Polyphemus",
+      "summary": "Andrew Pierce recounts his experience borrowing a 14.5-inch Dobsonian telescope from the SJAA loaner program, exploring the challenges and rewards of using a large-aperture instrument. He details his journey to become a \"Big Dob Guy,\" from navigating to star parties and learning to assemble and collimate the scope, to ultimately appreciating the deep-sky views it provided, even highlighting its unexpected capabilities in suburban settings. The article reflects on the trade-offs between aperture and portability, offering practical lessons for aspiring large-scope owners.",
+      "categories": [
+        "Amateur Astronomy",
+        "Telescope Review",
+        "Personal Experience",
+        "Observing Report",
+        "SJAA Loaner Program"
+      ],
+      "keywords": [
+        "Dobsonian telescope",
+        "Large aperture",
+        "SJAA loaner program",
+        "Deep-sky observing",
+        "Collimation",
+        "Fremont Peak",
+        "Telescope portability",
+        "Schmidt-Cassegrain",
+        "Polyphemus"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephaug01-mooning",
+      "documentId": "ephaug01",
+      "title": "Mooning",
+      "summary": "This article details a trip to Hawaii's Big Island, comparing its diverse volcanic landscapes to the Moon and Mars. The author explores how Hawaii's geologically young formations, such as collapsing lava tubes and shield volcanoes, offer insights into the early geology of other celestial bodies. A true 'moonscape' was found atop Mauna Kea, providing an Earth-based simulation of lunar and Martian terrains.",
+      "categories": [
+        "Travel",
+        "Geology",
+        "Astronomy",
+        "Observing Report",
+        "Educational"
+      ],
+      "keywords": [
+        "Hawaii",
+        "Big Island",
+        "Volcanism",
+        "Moonscapes",
+        "Mars",
+        "Lava tubes",
+        "Sinuous rilles",
+        "Mauna Loa",
+        "Shield volcanoes",
+        "Mauna Kea",
+        "Lunar geology",
+        "Planetary science"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug01-a-daytime-occultation-of-jupiter",
+      "documentId": "ephaug01",
+      "title": "A Daytime Occultation of Jupiter",
+      "summary": "This article details astronomical observing opportunities for August, emphasizing the diminishing but still discernible features of Mars in early August and the return of Saturn. The primary event highlighted is a daytime occultation of Jupiter by a thin crescent Moon on August 15, providing specific timings and practical observation tips, including safety precautions.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Planetary Observation",
+        "News"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Occultation",
+        "Moon",
+        "Mars",
+        "Saturn",
+        "Daytime Observation",
+        "August",
+        "Observing Tips",
+        "Celestial Events",
+        "Venus"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephaug01-around-the-galaxy",
+      "documentId": "ephaug01",
+      "title": "Around The Galaxy",
+      "summary": "This article reviews \"Around The Galaxy,\" an excellent 37-part BBC-produced series on the Discovery/Science Channel that covers astronomy topics from creation to black holes and future space exploration. Author Tom Zeglin highly recommends the educational series, featuring top scientists and animations, and is taping all episodes. Zeglin offers to make the recorded series available for community members to check out.",
+      "categories": [
+        "TV Show Review",
+        "Astronomy Education",
+        "Community Resource",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Around The Galaxy",
+        "Discovery/Science Channel",
+        "BBC",
+        "Astronomy series",
+        "Black holes",
+        "Steven Hawking",
+        "Seth Shostak",
+        "SETI",
+        "Video recording",
+        "Learning Channel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug01-sjaa-loaner-scope-status",
+      "documentId": "ephaug01",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article details the current status of the San Jose Astronomical Association (SJAA) telescope loaner program, providing comprehensive lists of scopes currently available, those recently loaned out, and those with extended loan periods. SJAA members can contact Mike Koop for borrowing information, to be placed on a waiting list, or to inquire about a scope on extended loan. The document also includes an update on a recently donated telescope undergoing repairs before becoming available.",
+      "categories": [
+        "Club News",
+        "Member Services",
+        "Equipment Loan Program",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope loaner program",
+        "Astronomy equipment",
+        "Dobsonian telescope",
+        "Refractor telescope",
+        "Newtonian telescope",
+        "Scope availability",
+        "Member benefits",
+        "Astrophotography"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0108/EphAug01.pdf",
+      "txtPath": "0108/EphAug01.md"
+    }
+  ]
+}

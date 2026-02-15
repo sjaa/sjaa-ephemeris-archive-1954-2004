@@ -1,0 +1,270 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-23-03-sjaa-board-and-officer-elections",
+      "documentId": "ephemeris-23-03",
+      "title": "SJAA Board and Officer Elections",
+      "summary": "The San Jose Astronomy Association (SJAA) announced its 2023 board and officer election results, with five directors reelected in February and new officers elected in March. Aroon Nair was named President, Chris Gottbrath Vice-President, Rob Jaworski reelected Treasurer, and Swami Nigam elected Secretary. The article also introduces Chris Gottbrath and Jonathan Lawton, the new QuickSTARt Leader, highlighting their astronomical passion and commitment to the SJAA.",
+      "categories": [
+        "News",
+        "Organizational Updates",
+        "Elections",
+        "Member Profiles",
+        "Astronomy Clubs/Societies"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Elections",
+        "Officer Elections",
+        "Leadership",
+        "Astronomy Club",
+        "Chris Gottbrath",
+        "Jonathan Lawton",
+        "Volunteer",
+        "Astronomy Outreach"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-23-03-in-memoriam-paul-mancuso",
+      "documentId": "ephemeris-23-03",
+      "title": "In Memoriam Paul Mancuso",
+      "summary": "The article 'In Memoriam Paul Mancuso' reports the passing of Paul Mancuso in December 2022, a dedicated long-time member, volunteer, and friend of the San Jose Astronomical Association (SJAA). Paul was deeply involved with the club since the 1970s, serving in various roles and consistently volunteering at School and In Town Star Parties, for which he received the SJAA's highest honor, the Gregory Award, in 2016. The piece includes personal remembrances from fellow members, highlighting his steadfast commitment to public outreach, his engaging personality, and his positive impact on many, especially children.",
+      "categories": [
+        "In Memoriam",
+        "Obituary",
+        "Club History",
+        "Community Outreach",
+        "Volunteerism"
+      ],
+      "keywords": [
+        "Paul Mancuso",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Obituary",
+        "Volunteer",
+        "Star Parties",
+        "School Star Parties",
+        "Outreach",
+        "Gregory Award",
+        "Amateur Astronomy",
+        "Club Member",
+        "Remembrance",
+        "Houge Park"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-23-03-school-star-parties",
+      "documentId": "ephemeris-23-03",
+      "title": "School Star Parties",
+      "summary": "The article details the San Jose Astronomical Association's (SJAA) School Star Party (SSP) program, a vital outreach initiative providing astronomy events to local schools from October to March. It highlights the successful return of these events after a COVID hiatus, describing several specific star parties at various schools, including P.A. Walsh Academy, Discovery Charter Falcon Elementary, Peterson Middle School, Hacienda Elementary, Campbell School of Innovation, and Mattos Elementary, often featuring views of planets and the Moon. The article also includes a call for volunteers and donations of astronomy magazines to support future events.",
+      "categories": [
+        "Outreach",
+        "Events",
+        "Observing Reports",
+        "Club Activities",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "School Star Parties",
+        "SJAA",
+        "astronomy outreach",
+        "telescopes",
+        "observing",
+        "schools",
+        "Jupiter",
+        "Saturn",
+        "Moon",
+        "volunteering",
+        "education",
+        "public astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-23-03-the-lives-of-the-stars",
+      "documentId": "ephemeris-23-03",
+      "title": "The Lives of the Stars",
+      "summary": "This article explores the lives of stars, from their observable colors and brightness to their classification on the Hertzsprung-Russell Diagram. It explains how stars form from hydrogen, fuse elements to create energy, and evolve through different stages, with more massive stars having shorter lifespans. The text encourages readers to observe these characteristics during starwatching.",
+      "categories": [
+        "Astronomy",
+        "Stellar Evolution",
+        "Educational",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Stars",
+        "Hertzsprung-Russell Diagram",
+        "Absolute Magnitude",
+        "Surface Temperature",
+        "Stellar Formation",
+        "Hydrogen Fusion",
+        "Main Sequence",
+        "Electromagnetic Radiation",
+        "Starwatching"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-23-03-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-23-03",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This article presents a gallery of astrophotographs submitted by members of the San Jose Astronomical Association (SJAA). It features stunning images of deep-sky objects such as the Dolphin Nebula, Fish Head Nebula, Seagull Nebula, and M82 Cigar Galaxy, each accompanied by comprehensive details on the imaging equipment, software used, dates, and locations.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Imaging Reports",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophotography",
+        "Deep-sky objects",
+        "Nebulae",
+        "Galaxies",
+        "Imaging equipment",
+        "Telescopes",
+        "Cameras",
+        "Mounts",
+        "Image processing software",
+        "Dolphin Nebula",
+        "Fish Head Nebula",
+        "Seagull Nebula",
+        "M82 Cigar Galaxy",
+        "Pleiades Astrophoto PixInsight",
+        "Adobe Photoshop"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-23-03-nasa-instruments-track-tropical-cyclones",
+      "documentId": "ephemeris-23-03",
+      "title": "NASA Instruments Track Tropical Cyclones",
+      "summary": "NASA's Compact Ocean Wind Vector Radiometer (COWVR) and Temporal Experiment for Storms and Tropical Systems (TEMPEST), two small and low-cost weather instruments aboard the International Space Station, have exceeded expectations in tracking tropical cyclones. Launched in late 2021 as part of the U.S. Space Force's STP-H8 mission, these sensors provide crucial data on ocean wind speed, direction, and atmospheric water vapor, aiding forecasters like the U.S. Joint Typhoon Warning Center in monitoring and predicting storm intensity and path, even through clouds, demonstrating the effectiveness of smaller-scale instrumentation.",
+      "categories": [
+        "Space Missions",
+        "Earth Science",
+        "Meteorology",
+        "Technology",
+        "News"
+      ],
+      "keywords": [
+        "NASA",
+        "COWVR",
+        "TEMPEST",
+        "Tropical Cyclones",
+        "Weather Forecasting",
+        "International Space Station",
+        "U.S. Space Force",
+        "STP-H8",
+        "Microwave Sensors",
+        "Joint Typhoon Warning Center",
+        "Satellite Instruments",
+        "Low-Cost Sensors"
+      ],
+      "pageStart": 11,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-23-03-galileo-s-telescopes-observing-venus-preserving-discoveries",
+      "documentId": "ephemeris-23-03",
+      "title": "Galileo's Telescopes, Observing Venus, Preserving Discoveries",
+      "summary": "The article details Galileo's pioneering use of telescopes, particularly his 20-power instrument with a long focal length, to observe celestial bodies. His observations of Venus, revealing its changing size and phases similar to the Moon, were crucial in supporting the heliocentric model, which he initially encoded to secure his discovery. It also touches upon the difficulty and safety precautions required for observing planets close to the Sun like Venus and Mercury.",
+      "categories": [
+        "History of Astronomy",
+        "Astronomical Discoveries",
+        "Observing Guides",
+        "Science Education"
+      ],
+      "keywords": [
+        "Galileo",
+        "telescopes",
+        "Venus",
+        "phases of Venus",
+        "heliocentrism",
+        "observing safety",
+        "Mercury",
+        "17th century astronomy",
+        "astronomical instruments"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-23-03-from-the-board-of-directors",
+      "documentId": "ephemeris-23-03",
+      "title": "From the Board of Directors",
+      "summary": "The article announces the re-election of several Board members and officers for the San Jose Astronomical Association (SJAA), with new officers including Aroon Nair as President and Chris Gottbrath as Vice-President. It also details key discussions and decisions from recent board meetings, such as updating the minor's policy, clarifying term end dates for board and officer positions, appointing a new QuickSTARt Program leader, and approving funds for a Solar program and printed newsletters for lifetime members.",
+      "categories": [
+        "Board Meetings",
+        "Elections",
+        "Organizational Updates",
+        "Announcements",
+        "Program Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Officer Elections",
+        "QuickSTARt Program",
+        "Astronomy Beginner's Forum",
+        "Minor's Policy",
+        "Bylaw Update",
+        "Solar Program",
+        "Lifetime Members",
+        "Aroon Nair",
+        "Chris Gottbrath",
+        "Rob Jaworski",
+        "Swami Nigam",
+        "Jonathan Lawton"
+      ],
+      "pageStart": 2,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-23-03-sjaa-library",
+      "documentId": "ephemeris-23-03",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a comprehensive range of programs and resources for its members and the community, designed to support various astronomy interests. These include a library, telescope repair services, solar and night sky observing sessions, and educational programs like Quick STARt for beginners. Additionally, SJAA provides an equipment loaner program, astrophotography special interest groups and workshops, and community outreach through school star parties.",
+      "categories": [
+        "Member Services",
+        "Educational Programs",
+        "Community Outreach",
+        "Observing Events",
+        "Astrophotography",
+        "Equipment Support"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy",
+        "library",
+        "telescope repair",
+        "solar observing",
+        "star parties",
+        "Quick STARt",
+        "loaner program",
+        "astrophotography",
+        "astro imaging",
+        "beginners astronomy",
+        "community programs"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-23-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2303/Ephemeris_23-03.pdf",
+      "txtPath": "2303/Ephemeris_23-03.md"
+    }
+  ]
+}

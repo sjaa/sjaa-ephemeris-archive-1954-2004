@@ -1,0 +1,149 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb01-the-night-between-the-centuries",
+      "documentId": "ephfeb01",
+      "title": "The Night between the Centuries",
+      "summary": "The main article, \"The Night between the Centuries,\" explores the historical evolution of our understanding of the cosmos, detailing shifts from geocentric models to the Titius-Bode Law and the subsequent discoveries of Uranus, Ceres, and other celestial bodies, emphasizing how such scientific advancements coincide with new eras. The document also includes a calendar of upcoming San Jose Astronomical Association (SJAA) events and an observing guide for February 2001, highlighting optimal viewing opportunities for planets like Jupiter, Saturn, Venus, and Mars, alongside the zodiacal light.",
+      "categories": [
+        "Astronomical History",
+        "Planetary Science",
+        "Observing Reports",
+        "Club News",
+        "Events"
+      ],
+      "keywords": [
+        "Titius-Bode Law",
+        "Planetary Discovery",
+        "Asteroids",
+        "Observational Astronomy",
+        "Jupiter",
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Zodiacal Light",
+        "SJAA Events"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb01-mooning",
+      "documentId": "ephfeb01",
+      "title": "Mooning",
+      "summary": "This article highlights lunar observing opportunities for February 13th, when the Moon reaches its greatest northern declination and appears nearly overhead. It guides observers to specific features near the terminator, including the unobtrusive crater Galileo and the distinctive lava-filled crater Wargentin, nicknamed \"The Thin Cheese.\" The author provides historical context for Galileo's naming and geological explanations for Wargentin's unusual, elevated floor, offering practical tips for telescopic observation.",
+      "categories": [
+        "Observing Guide",
+        "Lunar Astronomy",
+        "Popular Science"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observation",
+        "Crater",
+        "Terminator",
+        "Galileo",
+        "Wargentin",
+        "Aristarchus Plateau",
+        "Schroter's Valley",
+        "Lava flow",
+        "Declination",
+        "Telescopic observation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb01-meteor-field-notes",
+      "documentId": "ephfeb01",
+      "title": "Meteor Field Notes",
+      "summary": "The article details recent meteor shower observations and their implications. Analysis of the Leonids in 2000 confirmed predictive models, bolstering forecasts for intense meteor storms in November 2001 and 2002. Additionally, the Ursid shower in December 2000 flared up significantly as predicted, with observations revealing morphological resemblances to Leonid storms, particularly in the early release of sodium atoms.",
+      "categories": [
+        "observing reports",
+        "meteorology",
+        "astronomical research",
+        "predictions",
+        "technical analysis"
+      ],
+      "keywords": [
+        "meteors",
+        "Leonids",
+        "Ursids",
+        "meteor storm",
+        "dust trails",
+        "Peter Jenniskens",
+        "Comet 8P/Tuttle",
+        "Comet 55P/Tempel-Tuttle",
+        "spectroscopy",
+        "flux measurements",
+        "astronomy",
+        "observational data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb01-astronomy-club-conference-set-for-april-7",
+      "documentId": "ephfeb01",
+      "title": "Astronomy Club Conference Set For April 7",
+      "summary": "The annual Northern California Astronomy Club Conference, sponsored by the Astronomical Association of Northern California (AANC), is set for April 7th at the new Chabot Space and Science Center in Oakland. The event aims to foster idea exchange among Northern California astronomy clubs through presentations, workshops, and a special Full Moon Daytime Indoor Messier Marathon. Attendees will also receive a ticket for a planetarium show and have opportunities to explore the Chabot center.",
+      "categories": [
+        "Events",
+        "News",
+        "Astronomy Clubs",
+        "Conferences"
+      ],
+      "keywords": [
+        "Astronomy Club Conference",
+        "April 7",
+        "AANC",
+        "Chabot Space and Science Center",
+        "Oakland",
+        "Northern California",
+        "Messier Marathon",
+        "Planetarium",
+        "Workshops",
+        "Telescope restoration",
+        "Registration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb01-sjaa-loaner-scope-status",
+      "documentId": "ephfeb01",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The article details the current status of the SJAA (San Jose Astronomical Association) loaner telescope program, providing lists of available scopes for immediate loan, those currently on loan with due dates, and scopes with extended loan periods. SJAA members can contact Mike Koop to borrow available equipment or join waiting lists for currently loaned items, facilitating access to various telescopes for their astronomical pursuits.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Astronomy Club Activity",
+        "Member Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Astronomy Club",
+        "Observing Equipment",
+        "Newt",
+        "Dobson",
+        "Refractor",
+        "Celestron S/C",
+        "Orion XT",
+        "Astrophotography"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0102/EphFeb01.pdf",
+      "txtPath": "0102/EphFeb01.md"
+    }
+  ]
+}

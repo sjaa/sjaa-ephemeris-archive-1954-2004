@@ -1,0 +1,291 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-20-06-in-memoriam-to-gerry-joyce",
+      "documentId": "ephemeris-20-06",
+      "title": "In Memoriam to Gerry Joyce",
+      "summary": "This article is an 'In Memoriam' tribute to Gerry Joyce, the recently passed president of the San Jose Astronomical Association (SJAA). It details his life, from his birth in 1945, a career in computer technology, and his entrepreneurial ventures, to his marriage to Priscilla Wallace. In retirement, Gerry passionately pursued his lifelong interest in astronomy and astrophotography, serving as Vice-President and then President of the SJAA, where he made many friends and shared his enthusiasm for the sky before his passing on May 20, 2020.",
+      "categories": [
+        "Obituary",
+        "Club News",
+        "Biography",
+        "Astronomy Community"
+      ],
+      "keywords": [
+        "Gerry Joyce",
+        "San Jose Astronomical Association (SJAA)",
+        "Obituary",
+        "Astronomy",
+        "Astrophotography",
+        "Club President",
+        "Memorial",
+        "Computer Technology"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-20-06-armchair-star-party",
+      "documentId": "ephemeris-20-06",
+      "title": "Armchair Star Party",
+      "summary": "Due to the Corvid-19 crisis, the San Jose Astronomical Association (SJAA) launched the \"Armchair Star Party,\" a new virtual format combining their regular \"In Town Star Party\" and \"Starry Nights\" events. The inaugural two-hour event, dedicated to former SJAA president Gerry Joyce, featured virtual sky tours using Stellarium, an introduction to astronomy gear, live views from member residences, and a Q&A session. This online approach allowed for a greater focus on educational content and successfully attracted over 100 sign-ups.",
+      "categories": [
+        "Events",
+        "Observing Report",
+        "News",
+        "Education",
+        "Virtual Astronomy"
+      ],
+      "keywords": [
+        "Armchair Star Party",
+        "SJAA",
+        "Virtual Star Party",
+        "COVID-19 impact",
+        "Online astronomy",
+        "Live imaging",
+        "Stellarium",
+        "Astronomy education",
+        "Gerry Joyce"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-20-06-southern-sky-from-new-zealand-observation-report",
+      "documentId": "ephemeris-20-06",
+      "title": "Southern Sky from New Zealand—Observation Report",
+      "summary": "This article details Marilyn Perry's long-held ambition to observe the Southern Skies, specifically the Southern Cross and the Magellanic Clouds, during her November 2019 trip to New Zealand. Despite facing challenging weather, light pollution in Auckland, and haze from Australian wildfires, she persistently made observations using binoculars and telescopes. Through her determination, she successfully viewed her bucket-list items, including the Southern Cross, the Large and Small Magellanic Clouds, and other celestial objects, even under suboptimal conditions.",
+      "categories": [
+        "Observation Report",
+        "Travel",
+        "Personal Experience",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Southern Cross",
+        "Large Magellanic Cloud",
+        "Small Magellanic Cloud",
+        "New Zealand",
+        "Stargazing",
+        "Observation",
+        "Light pollution",
+        "Binoculars",
+        "Telescope",
+        "Auckland Stardome",
+        "Mount Cook",
+        "Globular clusters",
+        "Nebulae",
+        "Southern Hemisphere"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-20-06-nasa-contributes-expertise-ingenuity-to-covid-19-fight",
+      "documentId": "ephemeris-20-06",
+      "title": "NASA Contributes Expertise, Ingenuity to COVID-19 Fight",
+      "summary": "NASA has leveraged its expertise and ingenuity to combat the COVID-19 pandemic, launching an agency-wide call for ideas and developing critical medical equipment. Key initiatives include the VITAL ventilator, designed by JPL for patients with milder symptoms to preserve traditional ventilator supply, and the Aerospace Valley Positive Pressure Helmet, an oxygen device developed by Armstrong Flight Research Center in partnership with local entities. Both devices have undergone successful testing and are awaiting FDA emergency use authorization to augment the national response to medical equipment shortages.",
+      "categories": [
+        "news",
+        "technical",
+        "innovation",
+        "public health response",
+        "partnerships"
+      ],
+      "keywords": [
+        "NASA",
+        "COVID-19",
+        "coronavirus",
+        "ventilator",
+        "VITAL Ventilator",
+        "Aerospace Valley Positive Pressure Helmet",
+        "medical equipment",
+        "FDA",
+        "emergency use authorization",
+        "JPL",
+        "Armstrong Flight Research Center",
+        "engineering",
+        "pandemic response"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-20-06-hubble-marks-30-years-in-space-with-tapestry-of-blazing-starbirth",
+      "documentId": "ephemeris-20-06",
+      "title": "Hubble Marks 30 Years in Space With Tapestry of Blazing Starbirth",
+      "summary": "NASA celebrated the Hubble Space Telescope's 30th anniversary by releasing a new image, nicknamed the \"Cosmic Reef,\" showcasing a firestorm of starbirth in the Large Magellanic Cloud. This image, featuring the giant red nebula NGC 2014 and its blue neighbor NGC 2020, exemplifies Hubble's profound impact on modern astronomy. Since its launch, Hubble has revolutionized our understanding of the universe, providing 1.4 million observations and inspiring over 17,000 scientific publications while engaging the public with its breathtaking celestial snapshots.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Space Telescope",
+        "Anniversary",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "30th Anniversary",
+        "NASA",
+        "Starbirth",
+        "Cosmic Reef",
+        "Large Magellanic Cloud",
+        "NGC 2014",
+        "NGC 2020",
+        "Nebula",
+        "Space Exploration",
+        "Astronomy Achievements",
+        "ESA"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-20-06-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-20-06",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This article showcases the SJAA Member Astrophoto Gallery, featuring several astrophotographs taken by members of the San Jose Astronomical Association. Each entry details the celestial object, photographer, date, location, and the specific imaging equipment and software utilized for the capture.",
+      "categories": [
+        "Astrophotography Gallery",
+        "Member Showcase",
+        "Astronomical Association Content",
+        "Observing Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophotography",
+        "Member Gallery",
+        "Deep Sky Imaging",
+        "Nebula",
+        "Galaxy",
+        "Open Cluster",
+        "Telescope",
+        "Camera",
+        "Mount",
+        "Imaging Software"
+      ],
+      "pageStart": 3,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-20-06-earth-size-habitable-zone-planet-found-hidden-in-early-nasa-kepler-data",
+      "documentId": "ephemeris-20-06",
+      "title": "Earth-Size, Habitable Zone Planet Found Hidden in Early NASA Kepler Data",
+      "summary": "Scientists have discovered Kepler-1649c, an Earth-size exoplanet orbiting within its star's habitable zone, by reanalyzing old data from NASA's Kepler space telescope. Previously overlooked by an automated algorithm, this newly identified world is 1.06 times Earth's size and receives 75% of its star's light, suggesting a potentially similar temperature to Earth, making it the most Earth-like exoplanet found in both size and temperature in a habitable zone. While it orbits a red dwarf, which can be prone to stellar flares, its discovery highlights the value of meticulous data review and offers hope for finding other potentially habitable worlds.",
+      "categories": [
+        "Exoplanet Discovery",
+        "Space Exploration",
+        "Astrobiology",
+        "Data Analysis",
+        "Scientific Research"
+      ],
+      "keywords": [
+        "Kepler-1649c",
+        "Exoplanet",
+        "Habitable Zone",
+        "Kepler Space Telescope",
+        "Red Dwarf Star",
+        "Earth-size",
+        "NASA",
+        "Astrobiology",
+        "Data Reanalysis",
+        "False Positives",
+        "Transit Method",
+        "Orbital Resonance"
+      ],
+      "pageStart": 11,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-20-06-kid-spot",
+      "documentId": "ephemeris-20-06",
+      "title": "Kid Spot",
+      "summary": "This \"Kid Spot\" article features astronomical jokes and educational \"Fun Facts\" about celestial objects. It provides details on neutron stars, including their formation from supernova events, extreme density, and an example of a massive neutron star like J0740+6620. The article also discusses Betelgeuse, a red supergiant, explaining its recent dimming event due to a belched dust cloud, and detailing its immense size, age, and luminosity compared to our Sun.",
+      "categories": [
+        "Astronomy Education",
+        "Stellar Phenomena",
+        "Kids Content",
+        "Fun Facts"
+      ],
+      "keywords": [
+        "Neutron Stars",
+        "Betelgeuse",
+        "Supernova",
+        "Red Supergiant",
+        "J0740+6620",
+        "Green Bank Observatory",
+        "Stellar Brightness",
+        "Dust Cloud",
+        "Orion",
+        "Sun Comparison",
+        "Astronomy Jokes",
+        "Star Properties"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-20-06-from-the-board-of-directors",
+      "documentId": "ephemeris-20-06",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association's Board of Directors update details the significant impact of the COVID-19 pandemic on their events, leading to cancellations and a shift to online formats. The article also announces the sad passing of President Gerry Joyce and the appointment of Kenichi Miura as Acting President. It includes excerpts from recent board meetings, covering officer elections, virtual program adoption, and the uncertain status of astronomical events like 'Stars Over Yosemite'.",
+      "categories": [
+        "Organizational Updates",
+        "Event Management",
+        "COVID-19 Impact",
+        "Board Governance",
+        "Announcements"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "COVID-19",
+        "Event cancellations",
+        "Online events",
+        "Leadership change",
+        "Board of Directors",
+        "Gerry Joyce",
+        "Kenichi Miura",
+        "Stars Over Yosemite",
+        "Officer elections"
+      ],
+      "pageStart": 2,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-20-06-sjaa-library",
+      "documentId": "ephemeris-20-06",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a diverse range of resources and programs for its members and the community, catering to various skill levels and interests. Offerings include a library, telescope maintenance support, solar and night sky observing sessions, and beginner-focused guidance like the Quick STARt and Intro to the Night Sky programs. Additionally, SJAA offers an equipment loaner program, special interest groups and workshops for astrophotography, and educational outreach through school star parties.",
+      "categories": [
+        "Community Resources",
+        "Educational Programs",
+        "Observing Events",
+        "Technical Support",
+        "Special Interest Groups",
+        "Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy library",
+        "Telescope maintenance",
+        "Solar observing",
+        "Night sky observing",
+        "Beginner astronomy",
+        "Equipment loaner",
+        "Astrophotography",
+        "Star parties",
+        "Workshops"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-20-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2006/Ephemeris_20-06.pdf",
+      "txtPath": "2006/Ephemeris_20-06.md"
+    }
+  ]
+}

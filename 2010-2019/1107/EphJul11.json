@@ -1,0 +1,200 @@
+{
+  "articles": [
+    {
+      "id": "ephjul11-the-shallow-sky",
+      "documentId": "ephjul11",
+      "title": "The Shallow Sky",
+      "summary": "This article provides a guide to observing celestial objects in the July sky, highlighting Saturn's details and offering tips for sketching, while also noting the visibility of Mercury, Neptune, Uranus, and Pluto. It commemorates Neptune's 165-year orbital anniversary and details the impressive six-year mission and scientific legacy of the Mars Spirit rover, which recently concluded operations.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy News",
+        "Space Exploration",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "Mars Spirit Rover",
+        "Neptune",
+        "July astronomy",
+        "planetary observation",
+        "telescope tips",
+        "Mercury",
+        "Uranus",
+        "Pluto",
+        "Opportunity Rover",
+        "Mars exploration",
+        "cloud bands",
+        "astronomical sketching"
+      ],
+      "pageStart": 2,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephjul11-photographs-from-the-sjaa-general-meetings",
+      "documentId": "ephjul11",
+      "title": "Photographs from the SJAA General Meetings",
+      "summary": "The article presents photographs and brief descriptions of two SJAA General Meetings. The December 18th meeting featured Dr. Tim Dubbs speaking on Particle Physics and his work on the LHC. The May 14th meeting hosted Dr. Jessie Christiansen from the SETI Institute, who discussed the latest results from the NASA Kepler Mission in the search for exoplanets, attracting approximately 50 attendees.",
+      "categories": [
+        "Event Report",
+        "News",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "SJAA General Meetings",
+        "Particle Physics",
+        "LHC",
+        "Kepler Mission",
+        "Exoplanets",
+        "SETI Institute",
+        "Dr. Tim Dubbs",
+        "Dr. Jessie Christiansen"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul11-pictures-speak-wise",
+      "documentId": "ephjul11",
+      "title": "Pictures Speak WISE",
+      "summary": "NASA's Wide-field Infrared Survey Explorer (WISE) mission has released new galactic images, captured using four narrow-band infrared filters (3.4 to 22 microns). These images primarily show light from warm dust, with blue areas indicating older stars and red/yellow areas signifying new star growth. The article highlights several galaxies like M51, M81, and M83, and mentions accompanying statistics and a trivia quiz.",
+      "categories": [
+        "news",
+        "astronomy",
+        "space missions",
+        "image release",
+        "public outreach"
+      ],
+      "keywords": [
+        "NASA",
+        "WISE mission",
+        "Wide-field Infrared Survey Explorer",
+        "infrared images",
+        "galaxies",
+        "warm dust",
+        "star formation",
+        "M51",
+        "M81",
+        "M83",
+        "NGC 628",
+        "NGC 1398",
+        "NGC 2403",
+        "NGC 5907",
+        "NGC 6822",
+        "IC 342"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul11-descriptions-of-deep-sky-objects",
+      "documentId": "ephjul11",
+      "title": "Descriptions of Deep Sky Objects",
+      "summary": "This document lists nine deep-sky objects, primarily galaxies, detailing their estimated distances and physical sizes. It also includes a trivia section featuring common names, unique characteristics, and historical observations related to these specific celestial bodies, prompting readers to identify them.",
+      "categories": [
+        "Astronomy",
+        "Deep Sky Objects",
+        "Galaxies",
+        "Reference Data",
+        "Trivia"
+      ],
+      "keywords": [
+        "Deep Sky Objects",
+        "Galaxies",
+        "M51",
+        "M81",
+        "M83",
+        "NGC 628",
+        "NGC 1398",
+        "NGC 2403",
+        "NGC 5907",
+        "NGC 6822",
+        "IC342",
+        "Distance",
+        "Size",
+        "Southern Pinwheel",
+        "Perfect Spiral Galaxy",
+        "Hidden Galaxy",
+        "Bode's Galaxy",
+        "Knife Edge Galaxy",
+        "Supernova"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul11-the-last-month-in-astronomy",
+      "documentId": "ephjul11",
+      "title": "The Last Month In Astronomy",
+      "summary": "This astronomy update from June 2011 covers several key events, including the controversial cancellation of the Terrestrial Planet Finder (TPF) and the conclusion of Space Shuttle Endeavour's final mission, which installed the Alpha Magnetic Spectrometer. The article also highlights the end of the Mars Rover Spirit's operations, the discovery of numerous free-floating Jupiter-sized planets, and new observations of 'green rain' on a protostar by the Spitzer telescope. Additionally, it details the upcoming OSIRIS-REx asteroid sample return mission and new theories on Mars's rapid formation.",
+      "categories": [
+        "Space Missions",
+        "Planetary Science",
+        "Astrophysics",
+        "Space Policy",
+        "Discoveries",
+        "Solar System Exploration"
+      ],
+      "keywords": [
+        "Terrestrial Planet Finder (TPF)",
+        "Space Shuttle Endeavour",
+        "AMS-02",
+        "Spirit Rover",
+        "OSIRIS-REx",
+        "Asteroid 1999 RQ36",
+        "Free-floating planets",
+        "Protostar HOPS-68",
+        "Olivine",
+        "Mars formation",
+        "Exoplanets",
+        "NASA",
+        "Astronomy News"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul11-it-must-be-astronomical",
+      "documentId": "ephjul11",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the SJAA Ephemeris newsletter covers various club activities and information. It details a telescope loaner program, announces a new Pentax GPS add-on for astrophotography, and presents statistics on numerous successful school star parties held throughout the year. The document also includes answers to a galaxy quiz, contact information for club officers and staff, and publication details for the newsletter.",
+      "categories": [
+        "News",
+        "Events",
+        "Community Outreach",
+        "Member Services",
+        "Equipment",
+        "Astronomy",
+        "Club Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Loaner Program",
+        "Telescopes",
+        "Astrophotography",
+        "Pentax O-GPS1",
+        "School Star Parties",
+        "Community Outreach",
+        "Galaxies",
+        "M83",
+        "M74",
+        "M51",
+        "M81",
+        "NGC 6822",
+        "Club Administration",
+        "Newsletter"
+      ],
+      "pageStart": 5,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1107/EphJul11.pdf",
+      "txtPath": "1107/EphJul11.md"
+    }
+  ]
+}

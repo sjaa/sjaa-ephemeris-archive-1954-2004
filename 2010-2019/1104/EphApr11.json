@@ -1,0 +1,208 @@
+{
+  "articles": [
+    {
+      "id": "ephapr11-life-in-meteorites",
+      "documentId": "ephapr11",
+      "title": "Life in Meteorites",
+      "summary": "A recent paper by a NASA astrobiologist claims to have found fossilized evidence of life in a meteorite, sparking headlines. The article draws parallels to the 1996 ALH 84001 meteorite controversy, where similar claims of Martian bacteria were largely debunked after extensive testing revealed no biological compounds and alternative explanations for the markings. The current report implies skepticism towards the new findings by referencing the inconclusive nature of the previous, high-profile case.",
+      "categories": [
+        "Astrobiology",
+        "Meteoritics",
+        "Science News Analysis",
+        "Scientific Debate"
+      ],
+      "keywords": [
+        "Life in meteorites",
+        "Fossils",
+        "Astrobiology",
+        "ALH 84001",
+        "Mars",
+        "Bacteria",
+        "Scientific claims",
+        "Skepticism"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephapr11-the-shallow-sky",
+      "documentId": "ephapr11",
+      "title": "The Shallow Sky",
+      "summary": "The article discusses and critiques Dr. Richard B. Hoover's controversial claim of finding microfossils resembling cyanobacteria in meteorites, published in the generally disrespected Journal of Cosmology, noting widespread scientific skepticism. It highlights concerns about the journal's credibility and the potential for terrestrial contamination or misinterpretation of the findings. Additionally, the piece provides a brief overview of the April evening sky, noting only Saturn as a prominent planet for observation and mentioning recent solar activity.",
+      "categories": [
+        "News",
+        "Astrobiology",
+        "Science Analysis",
+        "Observing Report",
+        "Meteoritics"
+      ],
+      "keywords": [
+        "Richard B. Hoover",
+        "Journal of Cosmology",
+        "Meteorites",
+        "Microfossils",
+        "Cyanobacteria",
+        "Skepticism",
+        "Saturn",
+        "April sky",
+        "Planetary observation",
+        "Solar prominences"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr11-on-the-value-of-a-teensy-weensy-photograph",
+      "documentId": "ephapr11",
+      "title": "On the Value of a (teensy, weensy) Photograph",
+      "summary": "This article critically examines Richard Hoover's claims of finding fossilized bacteria in meteorites, suggesting evidence of extraterrestrial life. The author highlights skepticism due to the minuscule size of the 'fossils' (making them unconvincing as life forms), the 'sketchy' journal where the findings were published after being rejected by more reputable ones, and NASA's official stance emphasizing the need for robust peer review. The article uses an optical illusion analogy to underscore the importance of skepticism when presented with visual evidence, especially at microscopic scales.",
+      "categories": [
+        "Astrobiology",
+        "Skepticism in Science",
+        "Scientific Methodology",
+        "Meteoritics",
+        "Science Communication",
+        "Controversy"
+      ],
+      "keywords": [
+        "Richard Hoover",
+        "extraterrestrial life",
+        "meteorites",
+        "cyanobacteria",
+        "bacterial fossils",
+        "FESEM",
+        "peer review",
+        "NASA",
+        "scientific skepticism",
+        "optical illusion",
+        "Viking probe",
+        "Mars meteorite"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr11-nasa-space-place",
+      "documentId": "ephapr11",
+      "title": "NASA Space Place",
+      "summary": "In 2010, the Galaxy 15 telecommunications satellite became a \"zombie\" after a geomagnetic storm caused an electrostatic discharge, rendering it unresponsive and interfering with other satellites. Scientists attribute this to charged particles accumulating on its surface following a solar flare. The upcoming NOAA GOES-R satellite, launching in 2015, is designed to monitor low-energy electrons to provide warnings of such space weather events, helping satellite operators take protective action and aiding in the design of more resilient spacecraft.",
+      "categories": [
+        "Space Weather",
+        "Satellite Technology",
+        "Space Operations",
+        "News"
+      ],
+      "keywords": [
+        "GOES-R",
+        "Galaxy 15",
+        "space weather",
+        "geomagnetic storm",
+        "solar flare",
+        "electrostatic discharge",
+        "satellite malfunction",
+        "NOAA",
+        "NASA",
+        "communication satellite"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr11-sjaa-yosemite-public-star-party-2011",
+      "documentId": "ephapr11",
+      "title": "SJAA Yosemite Public Star Party 2011",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual Yosemite Public Star Party on August 26-27 at Glacier Point in Yosemite National Park. Up to 30 participants will receive free admission and camping in exchange for providing public viewing opportunities on both evenings. The article details participation requirements, including bringing at least one scope per two people and attending both events, while noting the primitive camping conditions.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Public Outreach",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite National Park",
+        "Glacier Point",
+        "Star Party",
+        "Astronomy",
+        "Public Viewing",
+        "Camping",
+        "August 2011"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr11-the-last-month-in-astronomy",
+      "documentId": "ephapr11",
+      "title": "The Last Month in Astronomy",
+      "summary": "The \"Last Month in Astronomy\" report covers significant events and discoveries from February and March 2011, including the Space Shuttle Discovery's final landing and the repeated failure of NASA's Glory mission. Key scientific findings feature an updated, much higher power estimate for Enceladus's geysers suggesting subsurface liquid water, evidence of superfluid and superconducting material in a neutron star's core, and new insights into dark matter's role in galaxy formation. The report also highlights new infrared images of the Sunflower galaxy, a record-setting galaxy distance measurement using the VLBA, and the development of a new spectrograph to characterize Kepler's exoplanet discoveries.",
+      "categories": [
+        "Spaceflight",
+        "Observational Astronomy",
+        "Astrophysics",
+        "Planetary Science",
+        "Instrumentation",
+        "Mission Failures"
+      ],
+      "keywords": [
+        "Space Shuttle Discovery",
+        "Enceladus",
+        "Glory Mission",
+        "NASA",
+        "M63 (Sunflower Galaxy)",
+        "Spitzer Telescope",
+        "Cassiopeia A",
+        "Neutron Stars",
+        "Superfluidity",
+        "Superconductivity",
+        "Chandra X-ray Observatory",
+        "Very Long Baseline Array (VLBA)",
+        "Galaxy Distance Measurement",
+        "Dark Matter",
+        "Galaxy Formation",
+        "Herschel Space Observatory",
+        "Kepler Spacecraft",
+        "Exoplanet Characterization",
+        "Spectrograph"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephapr11-it-must-be-astronomical",
+      "documentId": "ephapr11",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the San Jose Astronomical Association (SJAA) newsletter provides updates on organizational activities, including the re-election of all board directors and the upcoming selection of officers. It details the extensive School Star Parties program with comprehensive statistics on completed and scheduled events, and announces an upcoming talk by Dr. Thomas Berger on the Sun. Additionally, it highlights the telescope loaner program and provides contact information for the association and its 'Ephemeris' newsletter staff.",
+      "categories": [
+        "Organizational News",
+        "Events",
+        "Community Programs",
+        "Activity Report",
+        "Club Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Loaner program",
+        "School Star Parties",
+        "Board election",
+        "Astronomy events",
+        "Community outreach",
+        "Telescopes",
+        "Dr. Thomas Berger",
+        "Ephemeris newsletter"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1104/EphApr11.pdf",
+      "txtPath": "1104/EphApr11.md"
+    }
+  ]
+}

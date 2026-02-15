@@ -1,0 +1,179 @@
+{
+  "articles": [
+    {
+      "id": "ephjan13-the-shallow-sky",
+      "documentId": "ephjan13",
+      "title": "The Shallow Sky",
+      "summary": "The article offers an observing guide for Jupiter, detailing its complex storm features like the Great Red Spot, Oval BA, and various ovals and bands, alongside mentions of its moon transits. It also covers recent space news, including the Mars Curiosity rover's discovery of organic compounds and the Messenger spacecraft's definitive evidence of water ice and organic compounds in Mercury's shadowed polar craters. While other planets are noted as poorly placed for viewing, Jupiter offers abundant visual detail.",
+      "categories": [
+        "Observing Guide",
+        "Space News",
+        "Planetary Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Planetary Observation",
+        "Mars Curiosity",
+        "Organic Compounds",
+        "Mercury",
+        "Water Ice",
+        "Messenger Spacecraft",
+        "Amateur Astronomy",
+        "Storms"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjan13-the-dreamtime-eclipse-australia-2012",
+      "documentId": "ephjan13",
+      "title": "The Dreamtime Eclipse: Australia 2012",
+      "summary": "The author recounts his experience viewing the November 2012 total solar eclipse in northeast Australia from Green Island, emphasizing the swiftness of totality despite a clear view. Beyond the eclipse, the trip included extensive travel across Australia, opportunities to interact with prominent astronomers and authors like David Levy and Seth Shostak, and various cultural and natural attractions. Despite other memorable experiences, the two-minute eclipse, with its prominent corona and diamond ring, remained the highlight of the journey.",
+      "categories": [
+        "Observing Report",
+        "Travel",
+        "Personal Experience",
+        "Astronomy Event"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Australia 2012",
+        "Green Island",
+        "Cairns",
+        "Eclipse Chasing",
+        "David Levy",
+        "Seth Shostak",
+        "Dava Sobel",
+        "Paul Kohlmiller",
+        "Astronomy Tour",
+        "Corona",
+        "Diamond Ring"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan13-nasa-space-place",
+      "documentId": "ephjan13",
+      "title": "NASA Space Place",
+      "summary": "The article \"It Takes More Than Warm Porridge to Make a Goldilocks Zone\" explains that a planet's habitability extends beyond just being in the \"Goldilocks Zone\" for temperature. A new study suggests that Jupiter's specific orbital migration, which moderated the asteroid belt, was crucial for Earth's development, allowing for the delivery of water and organic molecules while preventing excessive impacts. This research, supported by Spitzer Space Telescope data, highlights the unique conditions that make our solar system suitable for life.",
+      "categories": [
+        "Planetary Science",
+        "Astrobiology",
+        "Astronomy Research",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Goldilocks Zone",
+        "Jupiter",
+        "Asteroid Belt",
+        "Spitzer Space Telescope",
+        "Solar System Formation",
+        "Habitability",
+        "Exoplanets",
+        "Water delivery",
+        "Organic molecules",
+        "Rebecca Martin",
+        "Mario Livio"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan13-the-last-month-in-astronomy",
+      "documentId": "ephjan13",
+      "title": "The Last Month in Astronomy",
+      "summary": "This article reviews key astronomical developments from late 2012, highlighting the potential discovery of five exoplanets, including a super-Earth candidate, orbiting the nearby star Tau Ceti. It also covers asteroid Toutatis's close approach to Earth, Voyager 1 entering a new, previously unknown region at the edge of the solar system, and seasonal weather changes observed on Saturn's moon Titan by the Cassini mission.",
+      "categories": [
+        "News",
+        "Exoplanets",
+        "Solar System Exploration",
+        "Asteroids",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Tau Ceti",
+        "exoplanets",
+        "habitable zone",
+        "radial velocity",
+        "Toutatis",
+        "near-Earth asteroid",
+        "Voyager 1",
+        "interstellar space",
+        "magnetic highway",
+        "Titan",
+        "Cassini mission",
+        "planetary weather",
+        "astronomy discoveries",
+        "December 2012"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan13-imaging-special-interest-group",
+      "documentId": "ephjan13",
+      "title": "Imaging Special Interest Group",
+      "summary": "The SJAA Imaging Special Interest Group met on November 17, 2012, to learn about \"Backyard EOS\" (BYE), a popular image acquisition software for deep-sky astrophotography. Paul Mahany presented a demo, sharing tips, tricks, and lessons learned, emphasizing the software's user-friendly design and the accessibility of astrophotography. The article highlights the importance of dedicated tools like BYE for streamlining the complex process of capturing multiple short exposures.",
+      "categories": [
+        "Events",
+        "Astrophotography",
+        "Technical",
+        "Software Review",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Imaging Special Interest Group",
+        "SJAA",
+        "Backyard EOS (BYE)",
+        "Image Acquisition",
+        "Astrophotography",
+        "Deep-sky astrophotography",
+        "Paul Mahany",
+        "Amateur astronomy software",
+        "Telescope",
+        "ASCOM"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan13-school-star-parties",
+      "documentId": "ephjan13",
+      "title": "School Star Parties",
+      "summary": "This article provides an update on the San Jose Astronomical Association's (SJAA) School Star Parties, detailing completed events from July to November 2012 and scheduled events for the 2012/2013 school year. It includes statistics on event success rates and future bookings. Additionally, the document lists SJAA officers, key staff, contact information, and publication details for its newsletter, the *SJAA Ephemeris*.",
+      "categories": [
+        "Event Report",
+        "Public Outreach",
+        "Organizational Update",
+        "Club News",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "School Star Parties",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy Outreach",
+        "Observing Events",
+        "Event Statistics",
+        "SJAA Ephemeris",
+        "Club Leadership",
+        "Community Events",
+        "Public Astronomy"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1301/EphJan13.pdf",
+      "txtPath": "1301/EphJan13.md"
+    }
+  ]
+}

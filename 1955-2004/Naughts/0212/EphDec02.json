@@ -1,0 +1,160 @@
+{
+  "articles": [
+    {
+      "id": "ephdec02-a-month-of-sun-days",
+      "documentId": "ephdec02",
+      "title": "A month of Sun days",
+      "summary": "Jane Houston Jones describes her month-long project observing and sketching the Sun, detailing her setup with a homemade dobsonian and H-alpha filter, and classifying various sunspots and active regions like AR0162 and AR0177. She highlights the educational aspect of solar observation and provides online resources for further study and verification. The document also includes the San Jose Astronomical Association's activity calendar for December and January, featuring star parties, ATM classes, and general meetings with speakers on topics like Mars exploration and celestial mapping.",
+      "categories": [
+        "Observing Report",
+        "Solar Astronomy",
+        "Amateur Astronomy",
+        "Education",
+        "Events",
+        "News",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Solar observing",
+        "Sunspots",
+        "Solar sketching",
+        "Active regions",
+        "Sunspot classification",
+        "H-alpha observation",
+        "Amateur astronomy",
+        "Mars exploration",
+        "Astronomical events",
+        "Club activities",
+        "Astronomy education"
+      ],
+      "pageStart": 2,
+      "pageEnd": 177
+    },
+    {
+      "id": "ephdec02-the-shallow-sky",
+      "documentId": "ephdec02",
+      "title": "The shallow sky",
+      "summary": "This article offers a guide to celestial observations for December 2002, detailing positions and notable events for gas giants (Saturn, Jupiter, Uranus, Neptune) and inner planets (Mercury, Venus, Mars), including rare occurrences like mutual Jupiter moon eclipses and Saturn's proximity to the Crab nebula. It also includes an account of a special student visit to Lick Observatory and provides specific deep-sky targets for observers in the Bay Area, such as galaxies in Cetus, M77, and M33, accessible from dark sites like Henry Coe State Park.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "News",
+        "Field Trip Report",
+        "Deep-Sky Observing"
+      ],
+      "keywords": [
+        "Saturn",
+        "Jupiter",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Lick Observatory",
+        "Deep-Sky Observing",
+        "Planetary Observing",
+        "Mutual Satellite Events",
+        "Crab Nebula",
+        "Galaxies",
+        "Open Clusters",
+        "December 2002",
+        "Astronomy Club",
+        "Sky Observing Guide"
+      ],
+      "pageStart": 3,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec02-december-deep-sky",
+      "documentId": "ephdec02",
+      "title": "December Deep Sky",
+      "summary": "This article serves as an observing guide for December, detailing various deep-sky objects like galaxies, open clusters, planetary nebulae, and double stars, with tips for amateur astronomers using telescopes and binoculars. It also explores lunar rilles, explaining the formation of arcuate and sinuous types, while highlighting the mysterious and debated origins of straight rilles such as Rima Ariadaeus and Rima Sirsalis.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Deep Sky Objects",
+        "Lunar Geology",
+        "Astronomy Tips"
+      ],
+      "keywords": [
+        "Deep-sky observing",
+        "Lunar rilles",
+        "Galaxies",
+        "Open clusters",
+        "Planetary nebulae",
+        "Double stars",
+        "Telescope observing",
+        "Binocular observing",
+        "Lunar geology",
+        "NGC1023",
+        "M34",
+        "NGC891",
+        "M76",
+        "Double Cluster",
+        "M103",
+        "Rima Ariadaeus",
+        "Rima Sirsalis",
+        "UHC filter",
+        "Lava tubes",
+        "Tectonic activity"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec02-brow-furrows",
+      "documentId": "ephdec02",
+      "title": "Brow Furrows",
+      "summary": "This article, titled \"Brow Furrows,\" defines rilles as challenging and interesting observational features on the Moon. It notes the Germanic origin of the word \"rille,\" meaning \"furrow,\" and introduces the three main types: arcuate, sinuous, and straight. While arcuate and sinuous rilles are associated with basaltic lavas, straight rilles remain a mystery.",
+      "categories": [
+        "Lunar Astronomy",
+        "Observational Features",
+        "Scientific Explanation",
+        "Geology"
+      ],
+      "keywords": [
+        "rilles",
+        "Moon",
+        "lunar features",
+        "arcuate rilles",
+        "sinuous rilles",
+        "straight rilles",
+        "basaltic lavas",
+        "observational astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec02-sjaa-loaner-scope-status",
+      "documentId": "ephdec02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a telescope loaner program for its members, managed by Mike Koop. This article outlines the current status of various telescopes, categorizing them as immediately available, recently loaned out, or on extended loan. It also includes contact information for borrowing scopes and lists members on a waiting list for popular equipment.",
+      "categories": [
+        "Club Services",
+        "Equipment Management",
+        "Member Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope Loaner Program",
+        "Astronomy Equipment",
+        "Scope Availability",
+        "Waiting List",
+        "Member Services",
+        "Dobson",
+        "Refractor",
+        "Schmidt-Cassegrain"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0212/EphDec02.pdf",
+      "txtPath": "0212/EphDec02.md"
+    }
+  ]
+}

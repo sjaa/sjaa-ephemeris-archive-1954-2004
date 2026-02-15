@@ -1,0 +1,168 @@
+{
+  "articles": [
+    {
+      "id": "ephdec04-community-news-and-program-updates",
+      "documentId": "ephdec04",
+      "title": "Community News and Program Updates",
+      "summary": "This document provides various community updates, including details on a holiday gift exchange and the winter closure of Fremont Peak State Park. It highlights an SJAA member's article on lunar features in Astronomy magazine and offers directions to Houge Park. A significant portion details the Advanced Imaging Conference, covering advanced astrophotography techniques, high-end equipment like Ritchey-Chrétien telescopes, and emerging technologies such as SBIG's Time Delay Integration cameras.",
+      "categories": [
+        "Community News",
+        "Events",
+        "Observing Site Information",
+        "Member Achievements",
+        "Astrophotography",
+        "Technical Astronomy"
+      ],
+      "keywords": [
+        "Community Updates",
+        "Holiday Exchange",
+        "Fremont Peak",
+        "Park Closure",
+        "Robert Garfinkle",
+        "Astronomy Magazine",
+        "Lunar Features",
+        "Houge Park",
+        "Advanced Imaging Conference",
+        "Astrophotography",
+        "CCD Imaging",
+        "Ritchey-Chrétien",
+        "SBIG",
+        "Time Delay Integration (TDI)",
+        "Amateur Astronomy",
+        "Imaging Techniques"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec04-actual-observing",
+      "documentId": "ephdec04",
+      "title": "Actual Observing",
+      "summary": "Dave North reviews recent and upcoming celestial events, including a missed October eclipse and a December lunar occultation of Jupiter. He then details a personal lunar observing session where, despite poor seeing, he used high-end equipment to explore features like Rumker and Schroter's Valley. A highlight was observing a Transient Lunar Phenomenon on Schickard crater, demonstrating the Moon's curvature as sunlight diffused shadows.",
+      "categories": [
+        "Observing Report",
+        "Lunar Observing",
+        "Astronomy Events",
+        "Equipment Discussion"
+      ],
+      "keywords": [
+        "Lunar Observing",
+        "Transient Lunar Phenomenon",
+        "Eclipse",
+        "Jupiter Occultation",
+        "Astronomy Equipment",
+        "Lunar Features",
+        "Seeing Conditions"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec04-the-shallow-sky",
+      "documentId": "ephdec04",
+      "title": "The Shallow Sky",
+      "summary": "This article discusses casual Moon observing and details the benefits of San Jose Astronomical Association (SJAA) membership, including discounts from vendors like Orion Telescopes, Sky Image Labs, and Scope City. It also provides an astronomical guide for December, highlighting several planetary conjunctions, updates on the Cassini-Huygens mission, and an analysis of apparent sizes of the Sun and Jupiter's moons from Jupiter's perspective.",
+      "categories": [
+        "Membership Benefits",
+        "Astronomical Events",
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Space Missions"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership benefits",
+        "Astronomy discounts",
+        "December sky",
+        "Planetary conjunctions",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Moon",
+        "Mercury",
+        "Saturn",
+        "Cassini-Huygens",
+        "Titan",
+        "Hubble Space Telescope",
+        "Galilean moons"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec04-event-reports-and-announcements",
+      "documentId": "ephdec04",
+      "title": "Event Reports and Announcements",
+      "summary": "This article reports on a Night Sky Network telecon featuring Dr. Massimo Stiavelli, who discussed the Hubble Ultra Deep Field and the upcoming James Webb Space Telescope, including a detailed comparison with the Hubble. It also announces upcoming astronomical events such as the Huygens probe's journey to Titan, a related lecture on the Cassini mission, and a volunteer opportunity for a KTEH pledge drive for NOVA's Origins series. Additionally, the document provides comprehensive solar system statistics for December 2004.",
+      "categories": [
+        "Event Reports",
+        "News",
+        "Observing Data",
+        "Educational Outreach",
+        "Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Night Sky Network",
+        "Telecon",
+        "Massimo Stiavelli",
+        "Hubble Ultra Deep Field",
+        "James Webb Space Telescope",
+        "Hubble Space Telescope",
+        "Huygens probe",
+        "Cassini mission",
+        "Titan",
+        "NOVA Origins",
+        "KTEH",
+        "Pledge Drive",
+        "Solar System Statistics",
+        "Reionization",
+        "Distant Galaxies",
+        "Astronomy Clubs"
+      ],
+      "pageStart": 4,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephdec04-sjaa-loaner-scope-status",
+      "documentId": "ephdec04",
+      "title": "SJAA loaner scope status",
+      "summary": "This document outlines the current status of the San Jose Astronomical Association's (SJAA) loaner scope program, detailing telescopes available for immediate loan, those currently borrowed, and those with extended loan periods. SJAA members can contact Mike Koop to arrange borrowing a scope, with a waiting list in place for popular instruments. The report includes descriptions of various telescopes, their current status, and who has them.",
+      "categories": [
+        "Club Services",
+        "Program Update",
+        "Equipment Inventory",
+        "Member Resources",
+        "Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scopes",
+        "telescopes",
+        "astronomy equipment",
+        "Dobsonian",
+        "Schmidt-Cassegrain",
+        "refractor",
+        "Newtonian",
+        "solar scope",
+        "spectroscope",
+        "binoculars",
+        "club membership",
+        "loan program",
+        "availability",
+        "waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0412/EphDec04.pdf",
+      "txtPath": "0412/EphDec04.md"
+    }
+  ]
+}

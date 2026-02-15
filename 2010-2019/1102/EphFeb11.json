@@ -1,0 +1,215 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb11-the-shallow-sky",
+      "documentId": "ephfeb11",
+      "title": "The Shallow Sky",
+      "summary": "This article outlines the San Jose Astronomical Association's (SJAA) calendar of events for early 2011, including astronomy classes, star parties, and general meetings. It also features an astronomical report discussing planetary visibility and the unexpectedly low sunspot activity, briefly touching on its historical link to Earth's climate. Additionally, the article provides a detailed appreciation for outgoing SJAA President Rich Neuschaefer's numerous accomplishments for the club.",
+      "categories": [
+        "Events",
+        "Observing Guide",
+        "Club News",
+        "Solar Astronomy",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Events",
+        "Star Parties",
+        "Astronomy Classes",
+        "Solar Activity",
+        "Sunspots",
+        "Planetary Observation",
+        "Maunder Minimum",
+        "Club Leadership",
+        "Rich Neuschaefer",
+        "Loaner Telescope Program",
+        "General Meeting"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb11-wise-guys-and-gals-at-work",
+      "documentId": "ephfeb11",
+      "title": "WISE Guys (and Gals) At Work",
+      "summary": "The article celebrates the one-year anniversary of the WISE (Wide-Field Infrared Explorer) mission launch by showcasing four false-color infrared images of galaxies, including NGC 300, M104 (Sombrero), M60, and M51 (Whirlpool). It details the specific infrared wavelengths used and their corresponding false colors for these images. The images were released by the WISE mission team.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Space Missions",
+        "Imaging",
+        "Anniversary"
+      ],
+      "keywords": [
+        "WISE",
+        "Infrared",
+        "Galaxies",
+        "NASA",
+        "JPL-Caltech",
+        "UCLA",
+        "NGC 300",
+        "M104 Sombrero Galaxy",
+        "M60",
+        "M51 Whirlpool Galaxy",
+        "False-color imaging",
+        "Astronomy imaging",
+        "Mission anniversary"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb11-nasa-space-place",
+      "documentId": "ephfeb11",
+      "title": "NASA Space Place",
+      "summary": "This article discusses surprising 2006 discoveries by the Spitzer Space Telescope, suggesting that planets may form around virtually any type or size of star, not exclusively Sun-like stars. These findings include observations of dust rings around R 66 and R 126, two blazing blue hypergiant stars located in the Large Magellanic Cloud, indicating potential sites for planet formation.",
+      "categories": [
+        "Astronomy Research",
+        "Planetary Science",
+        "Science News",
+        "Space Telescopes",
+        "Exoplanets"
+      ],
+      "keywords": [
+        "Planet formation",
+        "Spitzer Space Telescope",
+        "Hypergiant stars",
+        "Large Magellanic Cloud",
+        "Dust rings",
+        "Exoplanets",
+        "Infrared astronomy",
+        "R 66",
+        "R 126"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb11-club-announcements-and-important-information",
+      "documentId": "ephfeb11",
+      "title": "Club Announcements and Important Information",
+      "summary": "This document features club announcements, including an upcoming election for the board of directors and detailed directions to Houge Park. It also provides an update on the final scheduled Space Shuttle missions, Discovery and Endeavour, noting potential program closure. Additionally, the article highlights recent astronomical discoveries by the Spitzer Space Telescope regarding planet-forming dust disks found around both extremely massive hypergiant stars and tiny brown dwarfs, challenging existing theories on planetary system formation.",
+      "categories": [
+        "Club Announcements",
+        "Astronomy News",
+        "Space Exploration",
+        "Science",
+        "Local Information"
+      ],
+      "keywords": [
+        "Club Elections",
+        "Board of Directors",
+        "Space Shuttle Program",
+        "Discovery",
+        "Endeavour",
+        "NASA",
+        "Houge Park",
+        "Spitzer Space Telescope",
+        "Planet Formation",
+        "Hypergiants",
+        "Brown Dwarfs",
+        "Dust Disks",
+        "Exoplanets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb11-telescopes-for-a-curious-planet",
+      "documentId": "ephfeb11",
+      "title": "Telescopes for a Curious Planet",
+      "summary": "The San Jose Astronomical Association (SJAA) has launched a new program to donate astronomical equipment annually to deserving individuals or groups worldwide for educational purposes. The first recipient is Kedar Badu of the Galileo Astronomy Club in Kathmandu, Nepal, who received a 6-inch home-built Dobsonian telescope donated to SJAA by alumnus Nilesh Shah. Badu uses telescopes for educational outreach in remote villages and authors astronomy articles.",
+      "categories": [
+        "news",
+        "announcement",
+        "community outreach",
+        "astronomical equipment donation"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "astronomical equipment",
+        "telescope donation",
+        "educational outreach",
+        "Kedar Badu",
+        "Galileo Astronomy Club",
+        "Nepal",
+        "Nilesh Shah",
+        "Dobsonian reflector"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb11-the-last-month-in-astronomy",
+      "documentId": "ephfeb11",
+      "title": "The Last Month In Astronomy",
+      "summary": "Recent astronomy news highlights the discovery of Kepler 10b, the first Earth-sized rocky exoplanet, and unexpected gamma-ray dimming of the Crab Nebula, challenging its standard candle status. New research also suggests organics on Mars, proposes a \"peeling\" theory for Saturn's rings, and re-evaluates the origins of Active Galactic Nuclei, while the SDSS III released a massive astronomical image. The report also covers a 10-year-old's supernova discovery and a Japanese probe's failed Venus orbit insertion.",
+      "categories": [
+        "News",
+        "Discoveries",
+        "Space Missions",
+        "Planetary Science",
+        "Astrophysics",
+        "Cosmology",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Kepler 10b",
+        "Exoplanets",
+        "Crab Nebula",
+        "Gamma-ray astronomy",
+        "Active Galactic Nuclei (AGN)",
+        "Supernovae",
+        "Mars organics",
+        "Milky Way Galaxy",
+        "Saturn's rings",
+        "Big Bang theory",
+        "SDSS III",
+        "Kepler spacecraft",
+        "Phoenix lander",
+        "Akatsuki probe",
+        "Cosmology",
+        "Galaxy evolution",
+        "Stellar remnants"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephfeb11-it-must-be-astronomical",
+      "documentId": "ephfeb11",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the SJAA Ephemeris newsletter provides updates for its members, detailing a telescope loaner program and a change in membership dues effective January 1, 2011, based on newsletter format preference. It also presents comprehensive statistics for completed and scheduled school star parties, alongside listings of club officers, contact information, and publication details for the newsletter itself.",
+      "categories": [
+        "Club News",
+        "Membership Updates",
+        "Event Reports",
+        "Organizational Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Telescope Loaner Program",
+        "Membership Dues",
+        "School Star Parties",
+        "Astronomy Events",
+        "Club Management",
+        "Newsletter",
+        "Volunteer"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1102/EphFeb11.pdf",
+      "txtPath": "1102/EphFeb11.md"
+    }
+  ]
+}

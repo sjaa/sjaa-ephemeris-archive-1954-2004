@@ -1,0 +1,230 @@
+{
+  "articles": [
+    {
+      "id": "ephjul00-the-telescope",
+      "documentId": "ephjul00",
+      "title": "The Telescope",
+      "summary": "This article details the construction of a highly portable 10-inch truss-tube Dobsonian telescope, introducing an innovative \"beeswax trick\" for creating rigid yet easily disassembled truss pole joints. The author elaborates on material choices, unique fabrication methods for lightweight components, and practical considerations for packing the instrument into a compact cube for travel. The design emphasizes portability and ease of setup for amateur astronomers, showcasing several clever solutions for building a travel-friendly telescope.",
+      "categories": [
+        "Amateur Astronomy",
+        "Telescope Making",
+        "Technical",
+        "How-to Guide",
+        "DIY"
+      ],
+      "keywords": [
+        "Dobsonian telescope",
+        "truss-tube",
+        "portable telescope",
+        "telescope construction",
+        "amateur telescope making (ATM)",
+        "beeswax trick",
+        "telescope design",
+        "lightweight construction",
+        "travel telescope",
+        "plywood",
+        "Teflon bearings"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul00-last-man-on-the-moon-a-visit-with-gene-cernan",
+      "documentId": "ephjul00",
+      "title": "Last Man on the Moon: A Visit with Gene Cernan",
+      "summary": "The article recounts the author's serendipitous encounter with Apollo 17 astronaut Gene Cernan, the last man on the moon, at the Naval Postgraduate School. The author describes the excitement of getting Cernan to sign his lunar globe and taking a photo, followed by attending Cernan's engaging speech. Cernan, an alumnus, captivated the audience with humorous anecdotes and profound reflections on his moon missions, space exploration, and the spiritual significance of his voyages.",
+      "categories": [
+        "Personal Account",
+        "Events",
+        "Astronauts",
+        "Space History"
+      ],
+      "keywords": [
+        "Gene Cernan",
+        "Apollo 17",
+        "Moon missions",
+        "Naval Postgraduate School",
+        "Astronaut",
+        "Space exploration",
+        "Public speaking",
+        "Lunar samples",
+        "Autograph"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul00-through-an-astronaut-s-eye",
+      "documentId": "ephjul00",
+      "title": "Through An Astronaut's Eye",
+      "summary": "This article, 'Through An Astronaut's Eye,' by Craig Wandke and David North, encourages amateur astronomers to adopt a unique perspective for lunar observation. It details the specific guidelines given to Apollo 8 astronauts for examining the Moon's surface, suggesting these criteria can enhance telescopic viewing. The piece outlines what to look for on impact craters, uncratered surfaces, rilles, and at the terminator, offering a structured approach to selenography.",
+      "categories": [
+        "Lunar Observation",
+        "Observing Guides",
+        "Amateur Astronomy",
+        "Historical Astronomy",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observation",
+        "Apollo 8",
+        "Astronaut guidelines",
+        "Impact craters",
+        "Rilles",
+        "Terminator",
+        "Selenography",
+        "Amateur telescopes",
+        "Planetary geology"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul00-observe-the-very-inner-and-very-outer-solar-system",
+      "documentId": "ephjul00",
+      "title": "Observe The Very Inner And Very Outer Solar System",
+      "summary": "This article provides an observing guide for July, detailing how to spot various solar system objects including Jupiter, Saturn, Mercury, Uranus, Neptune, Pluto, and asteroid 4 Vesta. It also highlights three eclipses occurring during the month, including a partial solar eclipse and a lunar eclipse, offering advice for finding challenging objects and emphasizing safety precautions for solar observation. The author encourages early risers and nighttime astronomers to observe these celestial events.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Amateur Astronomy",
+        "Solar System"
+      ],
+      "keywords": [
+        "Solar System",
+        "Planetary Observation",
+        "Eclipses",
+        "Jupiter",
+        "Saturn",
+        "Mercury",
+        "Uranus",
+        "Neptune",
+        "Pluto",
+        "4 Vesta",
+        "Opposition",
+        "Binoculars",
+        "Telescope",
+        "Solar Filter",
+        "July"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephjul00-backyard-observatory-on-the-cheap",
+      "documentId": "ephjul00",
+      "title": "Backyard Observatory on the Cheap",
+      "summary": "Denny Woolaghan details the construction of an inexpensive backyard observatory using a Rubbermaid storage shed. The project involved modifying the shed to create a roll-off roof, adding mobility with wheels, and raising the floor to an optimal viewing height using readily available materials like 2x4s, concrete blocks, and plywood. The article emphasizes affordability and DIY construction.",
+      "categories": [
+        "DIY Project",
+        "Observatory Construction",
+        "Amateur Astronomy",
+        "How-To Guide"
+      ],
+      "keywords": [
+        "backyard observatory",
+        "cheap observatory",
+        "Rubbermaid shed",
+        "roll-off roof",
+        "DIY astronomy",
+        "concrete pad",
+        "telescope housing",
+        "home improvement",
+        "astronomy setup"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephjul00-meteors",
+      "documentId": "ephjul00",
+      "title": "Meteors",
+      "summary": "This article provides observing details for the 2000 Perseids meteor shower, including its connection to Comet Swift-Tuttle and predicted activity, despite a bright moon. It also highlights the eclipsing variable star Algol in the constellation Perseus, offering observation tips for its brightness minima. Additionally, the document includes information on subscribing to Sky & Telescope through the San Jose Astronomical Association (SJAA), an upcoming SJAA Yosemite star party, and a telescope for sale.",
+      "categories": [
+        "Observing Reports",
+        "Celestial Events",
+        "Astronomy",
+        "Technical",
+        "Organizational News",
+        "Events",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Meteors",
+        "Perseids Meteor Shower",
+        "Comet Swift-Tuttle",
+        "Algol",
+        "Eclipsing Variable Stars",
+        "Constellation Perseus",
+        "Star Parties",
+        "San Jose Astronomical Association",
+        "Sky & Telescope",
+        "Telescopes",
+        "Observing"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephjul00-sky-show-event-scheduled-for-davis",
+      "documentId": "ephjul00",
+      "title": "\"Sky Show\" Event Scheduled for Davis",
+      "summary": "Astronomy Magazine is organizing a \"Sky Show\" event in Davis, California, on August 4th and 5th, aiming to engage both the general public and expert amateurs. The event will feature keynote speakers, exhibits, family activities, solar viewing, and a large public star party with specialized observing stations for constellations, lunar/planetary objects, and deep-sky viewing. It also seeks volunteers and telescopes, and supports Davis's strong light pollution ordinance.",
+      "categories": [
+        "Event Announcement",
+        "Public Outreach",
+        "Astronomy Education",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Sky Show",
+        "Star Party",
+        "Davis California",
+        "Astronomy Magazine",
+        "Public Observing",
+        "Light Pollution",
+        "Telescopes",
+        "Volunteers",
+        "Keynote Speakers",
+        "Solar Viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul00-sjaa-loaner-scope-status",
+      "documentId": "ephjul00",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The San Jose Astronomical Association (SJAA) maintains a loaner telescope program for its members, managed by Mike Koop. This article provides a status update on the program, detailing which telescopes are immediately available, currently on loan, or on extended loan, and lists a waiting list for popular scopes. SJAA members can contact Mike Koop to inquire about borrowing a telescope or to be placed on a waiting list.",
+      "categories": [
+        "Club Operations",
+        "Equipment Loan Program",
+        "Member Services",
+        "Status Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "astronomy equipment",
+        "available scopes",
+        "loaned scopes",
+        "waiting list",
+        "amateur astronomy",
+        "club services",
+        "telescopes"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul00",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0007/EphJul00.pdf",
+      "txtPath": "0007/EphJul00.md"
+    }
+  ]
+}

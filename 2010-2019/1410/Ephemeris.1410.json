@@ -1,0 +1,178 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1410-rosetta-s-lander-to-land-on-comet-67p",
+      "documentId": "ephemeris-1410",
+      "title": "Rosetta's Lander to Land on Comet 67P",
+      "summary": "The European Space Agency's Rosetta mission is preparing for its Philae lander to target Site J on Comet 67P/Churyumov–Gerasimenko for an unprecedented landing scheduled for November 11. This challenging operation aims to characterize the comet's nucleus through in-depth measurements, including drilling, to study the solar system's origins and comets' potential role in seeding Earth. Site J was selected for its scientific potential and minimal risk, despite the comet's irregular shape.",
+      "categories": [
+        "Space Exploration",
+        "Mission Update",
+        "Astronomy",
+        "Science News",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Rosetta mission",
+        "Philae lander",
+        "Comet 67P/Churyumov-Gerasimenko",
+        "Comet Landing",
+        "European Space Agency (ESA)",
+        "Solar System Formation",
+        "Astrobiology",
+        "Scientific Research"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1410-curiosity-rover-arrives-at-mount-sharp",
+      "documentId": "ephemeris-1410",
+      "title": "Curiosity Rover Arrives at Mount Sharp",
+      "summary": "NASA's Curiosity rover has successfully reached Mount Sharp, its primary long-term destination within Mars' Gale Crater, after a two-year journey. The rover's route was adjusted due to wheel wear, leading it to a new entry point at Pahrump Hills to begin examining the mountain's lower slopes. This new phase of the mission will focus on assessing ancient habitable environments and major changes in Martian environmental conditions by studying the geological layers of Mount Sharp.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Mission Updates",
+        "Robotics"
+      ],
+      "keywords": [
+        "Curiosity Rover",
+        "Mount Sharp",
+        "Mars",
+        "NASA",
+        "Gale Crater",
+        "Planetary Science Division",
+        "Rover Operations",
+        "Geology",
+        "Wheel Wear",
+        "Pahrump Hills"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1410-kid-spot",
+      "documentId": "ephemeris-1410",
+      "title": "KID SPOT",
+      "summary": "The 'Kid Spot' section provides engaging astronomy content for children, featuring space-themed jokes and a quiz on basic astronomical facts. It includes a 'Night Sky Challenge' for October 2014, encouraging young stargazers to spot celestial events like a total lunar eclipse and planets such as Jupiter and Mercury. The page also touches upon constellations and features an image of sunspots, making it an accessible introduction to astronomy.",
+      "categories": [
+        "Educational",
+        "Astronomy",
+        "Observing Challenges",
+        "Trivia",
+        "Events"
+      ],
+      "keywords": [
+        "Astronomy for kids",
+        "Space jokes",
+        "Astronomy quiz",
+        "Night sky challenge",
+        "Lunar eclipse",
+        "Jupiter",
+        "Mercury",
+        "Sunspots",
+        "Constellations",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1410-delphinus",
+      "documentId": "ephemeris-1410",
+      "title": "Delphinus",
+      "summary": "Delphinus, also known as 'the Dolphin,' is a small northern constellation recognized since Ptolemy's time and by the IAU today. It features a distinctive asterism called Job's Coffin, formed by its brightest stars like the binary Beta Delphini (Rotanev), and is home to several deep-sky objects including planetary and globular clusters. The constellation is located in a rich Milky Way star field.",
+      "categories": [
+        "Constellation Analysis",
+        "Observational Astronomy",
+        "Celestial Objects",
+        "Descriptive Astronomy"
+      ],
+      "keywords": [
+        "Delphinus",
+        "constellation",
+        "northern sky",
+        "Ptolemy",
+        "IAU",
+        "Job's Coffin",
+        "Beta Delphini",
+        "Rotanev",
+        "Gamma Delphini",
+        "binary star",
+        "deep-sky objects",
+        "NGC 6891",
+        "planetary nebula",
+        "NGC 6934",
+        "globular cluster",
+        "NGC 7006",
+        "asterism",
+        "Milky Way"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1410-club-updates",
+      "documentId": "ephemeris-1410",
+      "title": "Club Updates",
+      "summary": "The San Jose Astronomical Association (SJAA) has announced new additions to its library collection, including a variety of astronomy books and DVDs thanks to recent donations. Additionally, the article provides information on SJAA's school star party program, detailing the service area and where to find setup procedures for schools interested in hosting an observing session.",
+      "categories": [
+        "Club Updates",
+        "Library Resources",
+        "Educational Programs",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Library",
+        "Books",
+        "DVDs",
+        "Astronomy",
+        "Star Parties",
+        "Schools",
+        "Donations",
+        "Observing Sessions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1410-from-the-board-of-directors",
+      "documentId": "ephemeris-1410",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) is preparing to celebrate its 60th anniversary later this year. Recent board meeting discussions included plans for a 30% solar eclipse event, assisting with a solar exhibit at West Valley College, renewing Mendoza Ranch permits, and organizing a beginners class. The board also reviewed the successful Celebrate Cambrian Festival and addressed concerns about board minutes accessibility and Ephemeris frequency.",
+      "categories": [
+        "Organizational News",
+        "Board Meeting Report",
+        "Events",
+        "Community Outreach",
+        "Projects",
+        "Announcements"
+      ],
+      "keywords": [
+        "SJAA",
+        "60th Anniversary",
+        "Board Meeting",
+        "Solar Eclipse",
+        "West Valley College",
+        "Solar Exhibit",
+        "Beginners Class",
+        "Mendoza Ranch",
+        "Ephemeris",
+        "Cambrian Festival"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1410",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1410/Ephemeris.1410.pdf",
+      "txtPath": "1410/Ephemeris.1410.md"
+    }
+  ]
+}

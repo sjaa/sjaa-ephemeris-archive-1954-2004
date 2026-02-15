@@ -1,0 +1,229 @@
+{
+  "articles": [
+    {
+      "id": "ephsep10-alien-life-wanna-bet",
+      "documentId": "ephsep10",
+      "title": "Alien Life: Wanna Bet?",
+      "summary": "The article discusses the increasing probability of alien life, starting with the Drake Equation and the historical \"Wow Signal.\" It highlights the widespread presence of water in our solar system and the adaptability of extremophiles, which thrive in harsh conditions, greatly expanding the potential for life. The author concludes that the odds of discovering extraterrestrial life, even microbial, are continuously improving, with Mars being a strong candidate.",
+      "categories": [
+        "Astrobiology",
+        "SETI",
+        "Extraterrestrial Life",
+        "Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Alien life",
+        "Extraterrestrial life",
+        "Drake Equation",
+        "Wow Signal",
+        "SETI",
+        "Water",
+        "Extremophiles",
+        "Mars",
+        "Enceladus",
+        "Europa",
+        "Astrobiology",
+        "Habitability",
+        "Exoplanets"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep10-advanced-technology-looks-like-magic",
+      "documentId": "ephsep10",
+      "title": "Advanced Technology Looks like Magic",
+      "summary": "The article explores the ongoing search for extraterrestrial intelligence (SETI), addressing the Fermi Paradox by suggesting advanced alien technology might be indistinguishable from magic, making detection challenging. It highlights SETI's methods, including analyzing planetary transits via the Kepler spacecraft and processing Allen Telescope Array data with initiatives like SETI Quest. The piece also emphasizes that discovering any form of extraterrestrial life, intelligent or not, would significantly bolster the belief in life as a natural cosmic process.",
+      "categories": [
+        "SETI Research",
+        "Astrobiology",
+        "Space Technology",
+        "Exoplanets",
+        "Scientific Philosophy"
+      ],
+      "keywords": [
+        "Fermi Paradox",
+        "SETI",
+        "Extraterrestrial Intelligence",
+        "Kepler spacecraft",
+        "Transit method",
+        "Allen Telescope Array",
+        "Jill Tarter",
+        "Advanced Technology",
+        "Alien life",
+        "Astrobiology"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep10-the-shallow-sky",
+      "documentId": "ephsep10",
+      "title": "The Shallow Sky",
+      "summary": "This article details celestial events and planetary viewing opportunities for September, emphasizing the autumnal equinox and Jupiter's opposition. It provides guidance on observing Jupiter, Uranus, Venus, Mars, Saturn, Neptune, Pluto, and Mercury, including tips for locating them and notable features to look for. The piece also includes directions to Houge Park, possibly for an observing event.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Monthly Sky Report"
+      ],
+      "keywords": [
+        "September skies",
+        "autumnal equinox",
+        "Jupiter opposition",
+        "Uranus",
+        "Venus",
+        "Mars",
+        "Saturn",
+        "Neptune",
+        "Pluto",
+        "Mercury",
+        "Galilean moons",
+        "South Equatorial Band",
+        "Great Red Spot",
+        "magnitude",
+        "telescope viewing",
+        "ecliptic",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep10-astronomy-magazine-renewal-time",
+      "documentId": "ephsep10",
+      "title": "ASTRONOMY magazine renewal time",
+      "summary": "Jim Van Nuland is organizing the group subscription renewal for Astronomy magazine for 2011, offering rates of $34 for one year or $60 for two years. Instructions are provided for members to renew, convert independent subscriptions, or start new ones by sending a check to his address. The article also includes contact information for questions and clarifies that these instructions apply only to Astronomy magazine, not Sky & Telescope.",
+      "categories": [
+        "Subscription Renewal",
+        "Club Announcement",
+        "Administrative"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "subscription renewal",
+        "group rate",
+        "2011",
+        "Jim Van Nuland",
+        "SJAA",
+        "payment"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephsep10-nasa-space-place",
+      "documentId": "ephsep10",
+      "title": "NASA Space Place",
+      "summary": "Astronomers have discovered a unique case of star formation in the turbulent wake of a tiny galaxy, IC 3418, as it plunges into the Virgo Cluster. Unlike typical star formation driven by gravity or tidal forces in large colliding galaxies, this phenomenon is caused by the interaction of the galaxy's gas with the cluster's hot atmosphere, creating a turbulent wake where eddy currents trap gas, allowing it to become dense enough to form new, young stars. This finding highlights the surprising role of turbulence in star formation, as revealed by observations from NASA's Galaxy Evolution Explorer satellite.",
+      "categories": [
+        "astronomy",
+        "galaxy evolution",
+        "star formation",
+        "observational astronomy",
+        "space science news",
+        "research findings"
+      ],
+      "keywords": [
+        "IC 3418",
+        "Virgo Cluster",
+        "star formation",
+        "turbulence",
+        "galaxy wake",
+        "Galaxy Evolution Explorer",
+        "ultraviolet imaging",
+        "ram pressure stripping",
+        "astrophysics",
+        "NASA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep10-the-last-month-in-astronomy",
+      "documentId": "ephsep10",
+      "title": "The Last Month In Astronomy",
+      "summary": "The past month in astronomy featured a surprising detection of gamma rays from a nova by NASA's Fermi Telescope, challenging previous theories about high-energy radiation. Citizen scientists also discovered a new pulsar through the Einstein@Home program, and the Spitzer Space Telescope identified buckyballs in a planetary nebula. Further insights included the discovery of UV rings around old galaxies indicating new star formation, a new composite image of the Antennae galaxies, increased solar activity, and updates on the Juno mission to Jupiter.",
+      "categories": [
+        "Astronomical Discoveries",
+        "Spacecraft Missions",
+        "Citizen Science",
+        "Galaxy Evolution",
+        "Solar System Exploration",
+        "Observational Astronomy",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Gamma Rays",
+        "Nova",
+        "Fermi Gamma-Ray Telescope",
+        "V407 Cyg",
+        "Pulsar",
+        "PSR J2007+2722",
+        "Einstein@Home",
+        "Arecibo Observatory",
+        "Galaxies",
+        "Ultraviolet Light",
+        "Antennae Galaxies",
+        "Chandra X-ray Observatory",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "Sun",
+        "Coronal Mass Emission",
+        "Titan",
+        "Cassini Spacecraft",
+        "Buckyballs",
+        "Juno Spacecraft",
+        "Jupiter",
+        "Radiation Shielding",
+        "White Dwarf",
+        "Red Giant",
+        "Neutron Star"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep10-it-must-be-astronomical",
+      "documentId": "ephsep10",
+      "title": "It Must Be Astronomical...",
+      "summary": "The San Jose Astronomical Association (SJAA) newsletter provides updates on its telescope loaner program and upcoming events, including the SJAA Yosemite Public Star Party, CalStar, and the Advanced Imaging Conference. It announces a change in membership dues effective January 2011, with print newsletters costing more than electronic versions. Additionally, the article lists SJAA officers, staff, contact details, and publication information for its monthly \"Ephemeris\" newsletter.",
+      "categories": [
+        "Announcements",
+        "Events",
+        "Membership",
+        "Organizational News",
+        "Astronomy Education",
+        "Publication Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy",
+        "Events",
+        "Membership",
+        "Telescope Loaner Program",
+        "Star Party",
+        "CalStar",
+        "Advanced Imaging Conference",
+        "Newsletter",
+        "Dues",
+        "Organizational Information",
+        "Ephemeris"
+      ],
+      "pageStart": 7,
+      "pageEnd": 280
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1009/EphSep10.pdf",
+      "txtPath": "1009/EphSep10.md"
+    }
+  ]
+}

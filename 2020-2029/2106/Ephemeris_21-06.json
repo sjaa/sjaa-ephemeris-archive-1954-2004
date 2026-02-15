@@ -1,0 +1,211 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-21-06-nasa-s-perseverance-mars-rover-extracts-first-oxygen-from-red-planet",
+      "documentId": "ephemeris-21-06",
+      "title": "NASA's Perseverance Mars Rover Extracts First Oxygen from Red Planet",
+      "summary": "NASA's Perseverance Mars rover successfully used its Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE) instrument to extract oxygen from the Martian atmosphere, marking a critical first step. This technology demonstration, conducted on April 20, 2021, paves the way for future human exploration by potentially providing breathable air for astronauts and producing rocket propellant on the Red Planet. MOXIE works by separating oxygen atoms from carbon dioxide molecules at high temperatures, emitting carbon monoxide as a waste product.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Technology Demonstration",
+        "Mars Missions",
+        "Human Spaceflight"
+      ],
+      "keywords": [
+        "NASA",
+        "Perseverance rover",
+        "Mars",
+        "MOXIE",
+        "Oxygen extraction",
+        "Carbon dioxide",
+        "In-Situ Resource Utilization (ISRU)",
+        "Rocket propellant",
+        "Human exploration"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-21-06-hubble-tracks-down-fast-radio-bursts-to-galaxies-spinal-nuts",
+      "documentId": "ephemeris-21-06",
+      "title": "Hubble Tracks Down Fast Radio Bursts to Galaxies' Spinal Nuts",
+      "summary": "Astronomers using the Hubble Space Telescope have successfully traced five powerful Fast Radio Bursts (FRBs) to the spiral arms of distant, massive, and star-forming galaxies. This high-resolution study marks the first time a population of FRBs has been localized, providing crucial contextual clues about their origins. The findings help researchers narrow down the list of potential FRB sources by ruling out explanations involving the youngest, most massive stars or the merger of neutron stars in older galaxies.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Observational Research",
+        "Space Telescope Discoveries",
+        "News"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Fast Radio Bursts (FRBs)",
+        "Galaxies",
+        "Spiral Arms",
+        "Radio Astronomy",
+        "Transient Radio Pulses",
+        "Star Formation",
+        "Cosmology",
+        "Astronomical Discoveries"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-21-06-crew-1-astronauts-safely-splash-down-after-space-station-mission",
+      "documentId": "ephemeris-21-06",
+      "title": "Crew-1 Astronauts Safely Splash Down After Space Station Mission",
+      "summary": "Four Crew-1 astronauts, including NASA's Michael Hopkins, Victor Glover, Shannon Walker, and JAXA's Soichi Noguchi, safely splashed down in the Gulf of Mexico on May 2, 2021, aboard SpaceX's Crew Dragon Resilience. This return concluded NASA's first commercial crew, long-duration mission to the International Space Station, setting a new American record for crewed spacecraft mission duration at 168 days. Throughout their mission, the crew conducted various scientific investigations, technology demonstrations, and public engagement events.",
+      "categories": [
+        "Space Exploration",
+        "Astronaut Mission",
+        "Spaceflight News",
+        "Commercial Space",
+        "International Space Station"
+      ],
+      "keywords": [
+        "Crew-1",
+        "Splashdown",
+        "SpaceX Crew Dragon Resilience",
+        "International Space Station",
+        "NASA",
+        "JAXA",
+        "Commercial Crew Program",
+        "Michael Hopkins",
+        "Victor Glover",
+        "Shannon Walker",
+        "Soichi Noguchi",
+        "Spaceflight Record",
+        "Gulf of Mexico",
+        "Falcon 9"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-21-06-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-21-06",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "The SJAA Member Astrophoto Gallery showcases astrophotography captured by members, detailing various celestial objects such as an eclipsed Moon, the Lobster Nebula, the Fish Head Nebula, and Messier 51. Each submission includes information about the dates, locations, and the specific imaging equipment and software used by the astrophotographer. The gallery highlights members' diverse skills and the results achievable with different setups, from phone cameras to advanced astronomical gear.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Observing Reports",
+        "Astronomy Club Activities",
+        "Equipment Showcase"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Lunar Eclipse",
+        "Lobster Nebula",
+        "Fish Head Nebula",
+        "Messier 51",
+        "Galaxy",
+        "Nebula",
+        "Moon",
+        "Telescope",
+        "Camera",
+        "Mount",
+        "Imaging Software",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 1100
+    },
+    {
+      "id": "ephemeris-21-06-kid-spot",
+      "documentId": "ephemeris-21-06",
+      "title": "Kid Spot",
+      "summary": "This 'Kid Spot' article provides a lighthearted introduction to astronomy with space-themed jokes. It then delves into fun facts about various types of full moons, including Blood Moons, Supermoons, Blue Moons, and Harvest Moons, explaining the astronomical phenomena behind each term. The content aims to educate readers about different lunar events.",
+      "categories": [
+        "education",
+        "astronomy",
+        "fun facts",
+        "lunar phenomena",
+        "kids' content"
+      ],
+      "keywords": [
+        "Blood Moon",
+        "Supermoon",
+        "Blue Moon",
+        "Harvest Moon",
+        "lunar eclipse",
+        "perigean full moon",
+        "full moon",
+        "moon",
+        "NASA"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephemeris-21-06-from-the-board-of-directors",
+      "documentId": "ephemeris-21-06",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) is actively monitoring the COVID-19 situation, leading to event cancellations and transitions to online formats, while also planning for future in-person activities. Recent officer elections saw reelections for President, Treasurer, and Secretary, with the Vice President position currently open. The board approved the purchase of an eVscope for school programs and discussed various operational updates, including reopening in-person events, the loaner program, and improving member communication.",
+      "categories": [
+        "Announcements",
+        "Organizational Updates",
+        "Board Meeting Report",
+        "Event Planning",
+        "Membership",
+        "Technology & Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "COVID-19",
+        "Officer Elections",
+        "Board of Directors",
+        "Event Management",
+        "Star Parties",
+        "eVscope",
+        "School Star Party",
+        "Outreach",
+        "Volunteer",
+        "Electronic Assisted Astronomy"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-21-06-sjaa-library",
+      "documentId": "ephemeris-21-06",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a wide array of programs and resources for its members and the community, catering to all ages and skill levels. These include a library, free telescope repair sessions, solar observing events, and beginner-focused programs like \"Quick STARt\" and \"Intro to the Night Sky.\" Additionally, SJAA provides an equipment loaner program, specialized Astro Imaging groups and workshops, and educational outreach through School Star Parties.",
+      "categories": [
+        "Programs & Activities",
+        "Education & Outreach",
+        "Community Services",
+        "Observing Events",
+        "Technical Support",
+        "Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy programs",
+        "telescope repair",
+        "solar observing",
+        "amateur astronomy",
+        "astrophotography",
+        "equipment loaner",
+        "star parties",
+        "beginner astronomy",
+        "astronomy library"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-21-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2106/Ephemeris_21-06.pdf",
+      "txtPath": "2106/Ephemeris_21-06.md"
+    }
+  ]
+}

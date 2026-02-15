@@ -1,0 +1,182 @@
+{
+  "articles": [
+    {
+      "id": "ephoct10-ephemeris-silicon-valley-astronomy-lectures",
+      "documentId": "ephoct10",
+      "title": "EPHEMERIS: Silicon Valley Astronomy Lectures",
+      "summary": "This article details the Silicon Valley Astronomy Lecture Series, a free, long-running program at Foothill College led by Andy Fraknoi, providing logistics for attendees and a schedule for Fall 2010. It also presents a comprehensive calendar of San Jose Astronomical Association (SJAA) events for late September through November 2010, including general meetings with guest speakers, astronomy classes, and star parties.",
+      "categories": [
+        "Astronomy Events",
+        "Educational Programs",
+        "Club Activities",
+        "Event Schedule"
+      ],
+      "keywords": [
+        "Silicon Valley Astronomy Lectures",
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomy classes",
+        "Star parties",
+        "Andy Fraknoi",
+        "Foothill College",
+        "Kepler Mission",
+        "Dark Energy",
+        "Public outreach"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephoct10-the-shallow-sky",
+      "documentId": "ephoct10",
+      "title": "The Shallow Sky",
+      "summary": "The article \"The Shallow Sky\" provides an observing guide for October 2010, primarily focusing on the gas giants Jupiter, Uranus, and Neptune. It highlights Jupiter's unusually close opposition, dynamic features like its faded South Equatorial Belt and upcoming shadow transits, and notes the receding inner planets. The article concludes with driving directions to Houge Park, presumably for local observers or events.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Local Information"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Opposition",
+        "Observing",
+        "Shadow Transit",
+        "South Equatorial Belt",
+        "Great Red Spot",
+        "Perihelion",
+        "October 2010",
+        "Houge Park"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephoct10-nasa-space-place",
+      "documentId": "ephoct10",
+      "title": "NASA Space Place",
+      "summary": "The Astro2010 Decadal Survey has prioritized the hunt for Earth-like extrasolar planets, a field that has seen an explosion of discoveries, increasing the known exoplanet count from 8 to almost 500 in 20 years. Missions like NASA's Kepler are identifying hundreds of planetary candidates, while the Spitzer Space Telescope has detected basic chemistry for life in exoplanet atmospheres. Though detecting life directly is still a distant goal, the search for exoplanets and signs of habitability is now vigorously underway.",
+      "categories": [
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Research",
+        "Exoplanets",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Astro2010 Decadal Survey",
+        "Exoplanets",
+        "Extrasolar planets",
+        "Earth-like planets",
+        "Kepler mission",
+        "Spitzer Space Telescope",
+        "Habitable zone",
+        "Search for life",
+        "NASA",
+        "National Research Council",
+        "51 Peg b"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct10-weird-star",
+      "documentId": "ephoct10",
+      "title": "Weird Star",
+      "summary": "Astronomers have observed a peculiar binary star, AFGL 3068, creating a distinct spiral shape. Intriguingly, this dim object's luminosity is believed to be caused by galactic starlight rather than its own stars, a theory supported by its increased brightness on the side facing the galactic plane. The article also highlights Dr. Phil Plait, whose 'Bad Astronomy' website initially reported this discovery, and his new TV series 'Bad Universe'.",
+      "categories": [
+        "Astronomy",
+        "Observational Astronomy",
+        "Stellar Evolution",
+        "News",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Binary star",
+        "Spiral nebula",
+        "AFGL 3068",
+        "Hubble Space Telescope",
+        "Galactic starlight",
+        "Phil Plait",
+        "Bad Astronomy",
+        "Bad Universe",
+        "Discovery Channel"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct10-the-last-month-in-astronomy",
+      "documentId": "ephoct10",
+      "title": "The Last Month in Astronomy",
+      "summary": "This article provides a 'Last Month in Astronomy' overview, detailing various discoveries and mission updates. It highlights the Lunar Reconnaissance Orbiter's transition to scientific research and the surprising finding that the Moon is still shrinking. Other key topics include the frequent asteroid impacts on Jupiter, new insights into Mercury's exosphere by the MESSENGER spacecraft, the detection of water vapor in space by Herschel, and observations of starburst galaxies and gravitational lensing that support current cosmological models.",
+      "categories": [
+        "Space Missions & Probes",
+        "Planetary Science",
+        "Cosmology & Astrophysics",
+        "Galactic Astronomy",
+        "Observational Astronomy",
+        "Scientific Discoveries"
+      ],
+      "keywords": [
+        "Lunar Reconnaissance Orbiter (LRO)",
+        "Moon geology",
+        "Jupiter impacts",
+        "Asteroids",
+        "Starburst galaxies",
+        "NGC 4666",
+        "Water formation",
+        "Herschel spacecraft",
+        "Mercury exosphere",
+        "MESSENGER",
+        "Cosmological model",
+        "Dark energy",
+        "Dark matter",
+        "Gravitational lensing",
+        "Planetary contraction",
+        "Space exploration",
+        "NASA",
+        "ESO",
+        "Amateur astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct10-it-must-be-astronomical",
+      "documentId": "ephoct10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article, from the San Jose Astronomical Association's (SJAA) 'Ephemeris' newsletter, announces an upcoming membership dues change effective January 2011, differentiating between electronic and print newsletter subscribers. It highlights the club's telescope loaner program and lists several 'hot dates' for astronomy-related events like CalStar, the Silicon Valley Astronomy Lecture Series, and the Advanced Imaging Conference. The piece also includes a science-themed Q&A, contact information for SJAA officers and staff, and publication details for the newsletter.",
+      "categories": [
+        "organizational news",
+        "events",
+        "member services",
+        "newsletter",
+        "astronomy education"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership dues",
+        "telescope loaner program",
+        "CalStar",
+        "Silicon Valley Astronomy Lecture Series",
+        "Advanced Imaging Conference",
+        "Kepler Mission",
+        "Ephemeris newsletter",
+        "astronomical association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1010/EphOct10.pdf",
+      "txtPath": "1010/EphOct10.md"
+    }
+  ]
+}

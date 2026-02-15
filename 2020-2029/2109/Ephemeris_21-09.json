@@ -1,0 +1,299 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-21-09-an-exploratory-trip-to-carson-pass-observation-report",
+      "documentId": "ephemeris-21-09",
+      "title": "An exploratory trip to Carson Pass - Observation Report",
+      "summary": "This article details an exploratory trip to the Carson Pass region in the Sierra Nevada mountains, driven by the search for a new, exceptionally dark sky location within a three-hour drive of the Bay Area for amateur astronomy and astrophotography. The author investigated spots along Highway 88, particularly near Silver Lake and Caples Lake, identifying Silver Lake near Kit Carson Lodge as a highly suitable site with wide spaces and previous use by the Sacramento Valley Astronomy Society. The report recommends the location for future astronomy trips, ideally before late September 2021 or in May-June 2022 due to winter road conditions.",
+      "categories": [
+        "Observation Report",
+        "Location Scouting",
+        "Amateur Astronomy",
+        "Travel"
+      ],
+      "keywords": [
+        "Carson Pass",
+        "Sierra Nevada",
+        "Dark Sky",
+        "Light Pollution",
+        "Bay Area",
+        "Silver Lake",
+        "Caples Lake",
+        "Astrophotography",
+        "Telescope Setup",
+        "Highway 88",
+        "Kit Carson Lodge",
+        "Sacramento Valley Astronomy Society"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-21-09-fizzing-sodium-could-explain-asteroid-phaethon-s-cometlike-activity",
+      "documentId": "ephemeris-21-09",
+      "title": "Fizzing Sodium Could Explain Asteroid Phaethon's Cometlike Activity",
+      "summary": "New research suggests that the asteroid Phaethon's unusual comet-like brightening and the ejection of debris forming the Geminid meteor shower are caused by fizzing sodium. As Phaethon orbits close to the Sun, intense heat causes sodium within its rocky interior to vaporize and vent into space through cracks. This steady efflux explains both the asteroid's activity and why the Geminid meteoroids are low in sodium.",
+      "categories": [
+        "Astrophysics",
+        "Planetary Science",
+        "Research News",
+        "Asteroids",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Phaethon",
+        "Asteroid",
+        "Geminid meteor shower",
+        "Sodium vaporization",
+        "Comet-like activity",
+        "Solar heating",
+        "Brightness",
+        "Meteoroids"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-21-09-astronomers-find-a-break-in-one-of-the-milky-way-s-spiral-arms",
+      "documentId": "ephemeris-21-09",
+      "title": "Astronomers Find a 'Break' in One of the Milky Way's Spiral Arms",
+      "summary": "Astronomers have discovered a previously unrecognized feature in the Milky Way's Sagittarius Arm: a 3,000 light-year-long contingent of young stars and gas clouds sticking out at a dramatic 60-degree pitch angle, significantly different from the arm's typical 12 degrees. This 'splinter-like' structure, identified using data from NASA's Spitzer Space Telescope and ESA's Gaia mission, offers new insights into the complex, large-scale architecture of our galaxy, which is challenging to map from Earth's interior position.",
+      "categories": [
+        "news",
+        "scientific discovery",
+        "astronomy",
+        "research"
+      ],
+      "keywords": [
+        "Milky Way galaxy",
+        "spiral arms",
+        "Sagittarius Arm",
+        "young stars",
+        "star-forming regions",
+        "nebulae",
+        "Spitzer Space Telescope",
+        "Gaia mission",
+        "pitch angle",
+        "galactic structure"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-21-09-measuring-the-milky-way",
+      "documentId": "ephemeris-21-09",
+      "title": "Measuring the Milky Way",
+      "summary": "Researchers have identified a complex, newly discovered structure within the Milky Way's Sagittarius Arm, incorporating iconic nebulae like the Eagle and Omega Nebulae. This detailed three-dimensional mapping was achieved by combining precise distance data from the Gaia mission with observations of newborn stars from the Spitzer Space Telescope. The findings provide crucial insights into the formation and intricate structure of our galaxy's spiral arms.",
+      "categories": [
+        "Astronomy",
+        "Galactic Structure",
+        "Astrophysics",
+        "Space Observatories",
+        "Research"
+      ],
+      "keywords": [
+        "Milky Way",
+        "Sagittarius Arm",
+        "Nebulae",
+        "Gaia",
+        "Spitzer Space Telescope",
+        "GLIMPSE",
+        "Spiral Structure",
+        "Distance Measurement",
+        "Galaxy Formation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-21-09-nasa-spacecraft-provides-insight-into-asteroid-bennu-s-future-orbit",
+      "documentId": "ephemeris-21-09",
+      "title": "NASA Spacecraft Provides Insight into Asteroid Bennu's Future Orbit",
+      "summary": "NASA's OSIRIS-REx spacecraft data has significantly improved the understanding of asteroid Bennu's future orbit, reducing uncertainties through the year 2300 and enhancing planetary defense capabilities. Scientists determined Bennu's total impact probability through 2300 to be approximately 1 in 1,750, with a notable date for potential impact on September 24, 2182. This precision tracking helps predict how Earth's gravity could alter Bennu's path and assess the risk of it passing through 'gravitational keyholes'.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy",
+        "Planetary Defense",
+        "Research",
+        "News"
+      ],
+      "keywords": [
+        "NASA",
+        "OSIRIS-REx",
+        "Asteroid Bennu",
+        "Orbit",
+        "Impact probability",
+        "Near-Earth Object",
+        "Planetary Defense",
+        "Gravitational keyholes",
+        "Trajectory",
+        "Deep Space Network",
+        "2135 close approach",
+        "2182 potential impact"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-21-09-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-21-09",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "The article presents a gallery of astrophotography images captured by members of the San Jose Astronomical Association (SJAA). Each entry showcases a different celestial object, providing details on the photographer, date, location, imaging telescope, camera, mount, and software used for each astrophoto. Notable images include 'The Flying Dragon in Cygnus,' 'Colorful Butterfly,' 'IC 1396 & Elephant's Trunk Nebula,' and an 'Emission Nebula.'",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Observing Reports",
+        "Equipment Details",
+        "Gallery"
+      ],
+      "keywords": [
+        "astrophotography",
+        "SJAA",
+        "member gallery",
+        "telescope",
+        "imaging camera",
+        "mount",
+        "software",
+        "nebula",
+        "The Flying Dragon",
+        "Butterfly Nebula",
+        "Elephant's Trunk Nebula",
+        "IC 1396",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-21-09-nasa-s-curiosity-mars-rover-explores-a-changing-landscape",
+      "documentId": "ephemeris-21-09",
+      "title": "NASA's Curiosity Mars Rover Explores a Changing Landscape",
+      "summary": "NASA's Curiosity Mars rover is exploring Mount Sharp within Gale Crater, focusing on a transition zone between clay and sulfate minerals. This study aims to understand how Mars' ancient, wet environment dried up over time and how long habitable conditions persisted. Nine years into its mission, Curiosity recently collected its 32nd rock sample and has driven 16 miles.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Mission Update",
+        "News"
+      ],
+      "keywords": [
+        "NASA",
+        "Curiosity Rover",
+        "Mars",
+        "Gale Crater",
+        "Mount Sharp",
+        "Clay Minerals",
+        "Sulfate Minerals",
+        "Ancient Environment",
+        "Habitable Environments",
+        "Rock Samples",
+        "Mastcam",
+        "JPL"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-21-09-fun-facts",
+      "documentId": "ephemeris-21-09",
+      "title": "Fun Facts",
+      "summary": "Comet C/2019 Y4 (ATLAS) was observed by the Hubble Space Telescope disintegrating into multiple fragments in April 2020. Astronomers suspect that Comet ATLAS is a piece of a larger comet that passed close to the Sun 5,000 years ago, based on its orbital path being identical to a comet observed in 1844, suggesting they are siblings from a common parent comet. This discovery sheds light on the origins and breakup of comets, similar to the well-known disintegration of Comet Shoemaker-Levy 9.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Observing Reports",
+        "Scientific Discovery",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Comet ATLAS",
+        "C/2019 Y4",
+        "Hubble Space Telescope",
+        "Comet breakup",
+        "Parent comet",
+        "Orbital mechanics",
+        "NASA",
+        "ESA",
+        "Quanzhi Ye",
+        "Comet Shoemaker-Levy 9"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-21-09-from-the-board-of-directors",
+      "documentId": "ephemeris-21-09",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association's Board of Directors addresses the ongoing impact of COVID-19 on events, while announcing personnel updates and the planned reopening of the School Star Party program. Board meeting excerpts detail discussions on securing Houge Park, restarting public observing events, acquiring new equipment for imaging, and actively seeking an alternate facility for SJAA's operations. The board is also focused on improving internal communication through a new monthly newsletter and broadening community outreach.",
+      "categories": [
+        "Organizational Updates",
+        "Event Management",
+        "Volunteer Opportunities",
+        "Board Meetings",
+        "Facilities & Logistics",
+        "Program Development",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "COVID-19",
+        "Event cancellations",
+        "Online events",
+        "School Star Party",
+        "Volunteer astronomers",
+        "Board of Directors",
+        "Personnel changes",
+        "Houge Park",
+        "Loaner program",
+        "SIG Imaging",
+        "Electronically Assisted Astronomy",
+        "Public observing events",
+        "Alternate site",
+        "Monthly newsletter",
+        "Santa Clara County"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-21-09-sjaa-library-and-programs",
+      "documentId": "ephemeris-21-09",
+      "title": "SJAA Library and Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a wide array of programs and resources for its members and the community, catering to all levels of astronomy enthusiasts. These include a library, telescope maintenance services, solar and night sky observing sessions, and introductory programs to amateur astronomy. Additionally, SJAA provides specialized activities like an equipment loaner program, astrophotography groups and workshops, and outreach events such as school star parties.",
+      "categories": [
+        "Programs",
+        "Services",
+        "Events",
+        "Education",
+        "Community Outreach",
+        "Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Library",
+        "Telescope Fix It",
+        "Solar Observing",
+        "Quick STARt Program",
+        "Intro to the Night Sky",
+        "Loaner Program",
+        "Astro Imaging SIG",
+        "Astrophotography Workshops",
+        "School Star Party",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Equipment Loaner"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-21-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2109/Ephemeris_21-09.pdf",
+      "txtPath": "2109/Ephemeris_21-09.md"
+    }
+  ]
+}

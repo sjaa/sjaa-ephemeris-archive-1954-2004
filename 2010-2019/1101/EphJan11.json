@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "id": "ephjan11-the-way-science-progresses",
+      "documentId": "ephjan11",
+      "title": "The Way Science Progresses",
+      "summary": "This article discusses the iterative and self-correcting nature of scientific progress, emphasizing that initial findings often require independent verification and additional data to be confirmed or refuted. It illustrates this process with historical and contemporary examples, including debates surrounding Gliese 581's exoplanets, cold fusion, Edwin Hubble's red shift data, stellar parallax measurements, the nature of spiral nebulae, and NASA's announcement of arsenic-based life. The document also includes the San Jose Astronomical Association's activity calendar for January and February 2011.",
+      "categories": [
+        "Science Philosophy",
+        "Astronomy",
+        "History of Science",
+        "Scientific Method",
+        "Community Events",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Scientific method",
+        "Peer review",
+        "Data verification",
+        "Gliese 581",
+        "Exoplanets",
+        "Cold fusion",
+        "Edwin Hubble",
+        "Red shift",
+        "Stellar parallax",
+        "Spiral nebulae",
+        "Arsenic-based life",
+        "NASA",
+        "SETI",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star party",
+        "Dark-sky weekend",
+        "General meeting",
+        "Astronomy class",
+        "January 2011",
+        "February 2011"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjan11-the-shallow-sky",
+      "documentId": "ephjan11",
+      "title": "The Shallow Sky",
+      "summary": "This article from early 2011 provides an update on evening sky observations, noting Jupiter's prominence and the return of its South Equatorial Band, along with the visibility of Uranus and Neptune. It also includes Mars Rover news, detailing ongoing efforts to re-establish contact with Spirit and Opportunity's continued exploration towards Santa Maria crater.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Science",
+        "Space Exploration News",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Jupiter",
+        "South Equatorial Band",
+        "Uranus",
+        "Neptune",
+        "Mars Rovers",
+        "Spirit rover",
+        "Opportunity rover",
+        "January 2011",
+        "Planetary Observation"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjan11-hubble-2010",
+      "documentId": "ephjan11",
+      "title": "Hubble 2010",
+      "summary": "The article \"Hubble 2010\" showcases a selection of top astronomical images released by NASA and the Space Telescope Science Institute (STScI) in 2010, as highlighted by Caroline Hirsch for the New Yorker. It details several breathtaking captures from the Hubble Space Telescope, including the Carina Nebula's star-forming regions, a multi-observatory composite of the Antennae galaxies, and the spiral galaxy NGC 3982.",
+      "categories": [
+        "Astronomy News",
+        "Space Imagery",
+        "Observatory Highlights"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "NASA",
+        "STScI",
+        "Astronomical images",
+        "Carina Nebula",
+        "Antennae galaxies",
+        "NGC 3982",
+        "Space photography",
+        "Chandra X-Ray Observatory",
+        "Spitzer Infrared Telescope"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan11-nasa-space-place",
+      "documentId": "ephjan11",
+      "title": "NASA Space Place",
+      "summary": "Using NASA's Spitzer Space Telescope, astronomers have discovered large, three-dimensional carbon molecules known as fullerenes—including \"buckyballs\" (C60) and C70—in a planetary nebula. These are the largest known molecules in space, suggesting that complex carbonaceous chemistry can occur spontaneously and potentially holding implications for the formation of life in the universe.",
+      "categories": [
+        "Scientific Discovery",
+        "Astronomy",
+        "Astrophysics",
+        "Space Exploration",
+        "Molecular Chemistry"
+      ],
+      "keywords": [
+        "NASA Space Place",
+        "Spitzer Space Telescope",
+        "Fullerenes",
+        "Buckyballs",
+        "C60",
+        "C70",
+        "Carbon molecules",
+        "Planetary nebula",
+        "Interstellar space",
+        "Jan Cami",
+        "Infrared astronomy",
+        "Origin of life"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan11-new-logo",
+      "documentId": "ephjan11",
+      "title": "New Logo",
+      "summary": "The article announces a new logo for the Ephemeris, designed by Peter Natscher and approved by the board in November. It also details an upcoming \"Astronomy 10A: An Introduction to the Planets & Life Out There\" course at Foothill College, taught by Andrew Fraknoi. This introductory course for non-science majors covers topics such as exoplanets, dwarf planets, and the latest planetary discoveries, and is set to begin in the Winter Quarter on January 3rd.",
+      "categories": [
+        "News",
+        "Organization Update",
+        "Education",
+        "Course Announcement",
+        "Astronomy"
+      ],
+      "keywords": [
+        "New Logo",
+        "Ephemeris",
+        "Peter Natscher",
+        "Foothill College",
+        "Astronomy 10A",
+        "Planets for Poets",
+        "Andrew Fraknoi",
+        "Extrasolar Planets",
+        "Exoplanets",
+        "Dwarf Planets",
+        "Mars Rover",
+        "Astronomy Course",
+        "Winter Quarter"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan11-the-last-month-in-astronomy",
+      "documentId": "ephjan11",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article summarizes recent astronomical findings from late 2010. It details Voyager 1's approach to interstellar space, new WISE observations revealing unusual composition in the supernova remnant IC 443, and an updated estimate for the universe's total star count, significantly increased by abundant red dwarfs in elliptical galaxies. Additionally, it covers the study of exoplanet GJ1214b, found to have a low density and an atmosphere dominated by water vapor.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Observational Discoveries",
+        "Astrophysical Research"
+      ],
+      "keywords": [
+        "Voyager 1",
+        "interstellar space",
+        "solar wind",
+        "WISE",
+        "supernova remnant",
+        "IC 443",
+        "exoplanet",
+        "GJ1214b",
+        "red dwarf stars",
+        "elliptical galaxies",
+        "universe",
+        "water vapor atmosphere"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan11-it-must-be-astronomical",
+      "documentId": "ephjan11",
+      "title": "It Must Be Astronomical...",
+      "summary": "The San Jose Astronomical Association (SJAA) newsletter provides updates on their loaner telescope program and an upcoming dues change effective January 1, 2011, which differentiates between electronic and print newsletter subscribers. It also promotes the \"Astronomy Cast\" podcast and details statistics for past and upcoming \"School Star Parties.\" The article concludes with a list of SJAA officers, board members, and contact information for the association and its monthly publication, \"SJAA Ephemeris.\"",
+      "categories": [
+        "Membership",
+        "Events",
+        "Announcements",
+        "Organization News",
+        "Resources",
+        "Newsletter"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Dues",
+        "Loaner Program",
+        "Telescopes",
+        "Astronomy Podcast",
+        "School Star Parties",
+        "Astronomical Events",
+        "Newsletter",
+        "Organization Updates",
+        "Contact Information",
+        "January 2011"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1101/EphJan11.pdf",
+      "txtPath": "1101/EphJan11.md"
+    }
+  ]
+}

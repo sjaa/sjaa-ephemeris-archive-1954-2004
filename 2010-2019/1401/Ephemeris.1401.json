@@ -1,0 +1,177 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1401-astonishing-number-of-extrasolar-planets",
+      "documentId": "ephemeris-1401",
+      "title": "Astonishing Number of Extrasolar Planets",
+      "summary": "Based on a statistical analysis of Kepler telescope data, astronomers estimate that one in five sun-like stars possesses an Earth-sized planet within its habitable zone. This suggests potentially tens of billions of such planets in the Milky Way Galaxy, with the nearest possibly as close as 12 light-years away. This abundance significantly simplifies future space missions aimed at imaging exoplanets, though habitability is not guaranteed.",
+      "categories": [
+        "Science News",
+        "Astronomical Discovery",
+        "Exoplanet Research",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Extrasolar Planets",
+        "Exoplanets",
+        "Kepler Space Telescope",
+        "Habitable Zone",
+        "Earth-sized Planets",
+        "Milky Way Galaxy",
+        "Potentially Habitable Planets",
+        "Statistical Analysis"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1401-curiosity-rover-finds-evidence-of-freshwater-lake-on-mars",
+      "documentId": "ephemeris-1401",
+      "title": "Curiosity Rover Finds Evidence of Freshwater Lake on Mars",
+      "summary": "The Curiosity Rover has discovered direct evidence of a freshwater lake on Mars that existed approximately 3.6 billion years ago. Drill tests and chemical analysis of rocks indicate conditions were suitable for microbial life, providing the strongest evidence yet for Mars' past habitability. The findings suggest the presence of essential elements for life and clay minerals, similar to environments where simple life thrives on Earth.",
+      "categories": [
+        "news",
+        "space exploration",
+        "scientific discovery",
+        "planetary science"
+      ],
+      "keywords": [
+        "Curiosity Rover",
+        "Mars",
+        "freshwater lake",
+        "habitability",
+        "microbial life",
+        "geology",
+        "astrobiology",
+        "drill tests",
+        "mudstone",
+        "sandstone"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1401-lick-observatory-may-be-shutting-down",
+      "documentId": "ephemeris-1401",
+      "title": "Lick Observatory May be Shutting Down",
+      "summary": "Lick Observatory, a 125-year-old institution, faces potential closure and conversion into a public museum due to budget cuts from the University of California. The university plans to reallocate funds to support newer projects like the W. M. Keck Observatory and the planned Thirty Meter Telescope. While supporters emphasize Lick's contributions to scientific instruments and exoplanet discoveries, the proposed changes are deemed necessary for future large-scale astronomical endeavors.",
+      "categories": [
+        "news",
+        "observatory news",
+        "funding",
+        "astronomy policy"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "University of California",
+        "budget cuts",
+        "closure",
+        "W. M. Keck Observatory",
+        "Thirty Meter Telescope",
+        "astronomy",
+        "Mount Hamilton",
+        "extrasolar planets"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1401-kid-spot",
+      "documentId": "ephemeris-1401",
+      "title": "KID SPOT",
+      "summary": "The \"Kid Spot\" section for January 2014 offers engaging content for young astronomers, including space-themed jokes and a quiz. It presents a \"Night Sky Challenge\" encouraging observation of celestial objects like Jupiter, lunar craters, and the Orion Nebula. The article also provides a detailed exploration of the constellation Auriga, describing its appearance, key stars like Capella, and notable deep-sky objects, alongside its connection to the Winter Hexagon.",
+      "categories": [
+        "Educational",
+        "Observing Guide",
+        "Astronomy Basics",
+        "Constellation Study",
+        "Monthly Feature"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Astronomy Education",
+        "Night Sky Challenge",
+        "Constellations",
+        "Auriga",
+        "Jupiter",
+        "Moon Craters",
+        "Orion Nebula",
+        "Big Dipper",
+        "Winter Hexagon",
+        "Capella",
+        "Messier Objects",
+        "Stargazing",
+        "Celestial Objects",
+        "January 2014"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1401-blast-from-the-past-sjaa-ephemeris-january-2003",
+      "documentId": "ephemeris-1401",
+      "title": "Blast from the Past - SJAA Ephemeris January 2003",
+      "summary": "This article from the January 2003 SJAA Ephemeris offers a star-hopping guide for observing several deep-sky objects, primarily open clusters and one planetary nebula, visible in the winter sky. It provides detailed star-hopping instructions and personal observing notes from various telescopes, suitable for backyard observers or local star parties, focusing on lesser-known targets in constellations like Camelopardalis, Taurus, Perseus, and Eridanus.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Observing",
+        "Amateur Astronomy",
+        "Star Hopping",
+        "Club Publication"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Open Clusters",
+        "Planetary Nebulae",
+        "Star Hopping",
+        "Observing Guide",
+        "Camelopardalis",
+        "Taurus",
+        "Perseus",
+        "Eridanus",
+        "Dobsonian",
+        "SJAA Ephemeris",
+        "M45",
+        "NGC 1535"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1401-notices-and-program-updates",
+      "documentId": "ephemeris-1401",
+      "title": "Notices and Program Updates",
+      "summary": "This article provides updates on various San Jose Astronomical Association (SJAA) programs and club news. It details how the Advanced Loaner Telescope, Quick STARt, and Library programs were impacted by hall renovations, which are now complete. Key announcements include the upcoming February 2014 Board elections with open seats, the availability of the RASC Observer's Handbook, and the cancellation of the swap meet, alongside the development of a volunteer recognition program and a Fix-It program report.",
+      "categories": [
+        "Club News",
+        "Program Updates",
+        "Membership Information",
+        "Governance",
+        "Facilities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Program Updates",
+        "Renovations",
+        "Board Elections",
+        "Observers Handbook",
+        "Volunteer Recognition",
+        "Fix-It Program",
+        "Swap Meet",
+        "Membership Benefits",
+        "Clubhouse"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1401",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1401/Ephemeris.1401.pdf",
+      "txtPath": "1401/Ephemeris.1401.md"
+    }
+  ]
+}

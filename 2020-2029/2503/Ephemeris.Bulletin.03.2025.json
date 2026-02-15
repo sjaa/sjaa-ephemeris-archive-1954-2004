@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-bulletin-03-2025-sjaa-ephemeris-bulletin",
+      "documentId": "ephemeris-bulletin-03-2025",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin for March 2025 highlights a total lunar eclipse on March 13th and features Messier 46 and NGC 2438 as the 'Target of the Month' for stargazers. It also details various club activities including observing sessions, star parties, a swap meet, and volunteer opportunities, alongside a comprehensive calendar of astronomical events for the month. The bulletin emphasizes community engagement and provides information for both seasoned and new astronomy enthusiasts.",
+      "categories": [
+        "Newsletter",
+        "Astronomical Events",
+        "Observing Guides",
+        "Club Activities",
+        "Volunteer Opportunities",
+        "News",
+        "Calendar"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris Bulletin",
+        "March 2025",
+        "Total Lunar Eclipse",
+        "Messier 46",
+        "NGC 2438",
+        "Stargazing",
+        "Observing Targets",
+        "Astronomical Events",
+        "Volunteer Opportunities",
+        "Astronomy Club",
+        "Star Parties",
+        "Swap Meet",
+        "Vernal Equinox",
+        "Deep-Sky Objects"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-bulletin-03-2025",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2503/Ephemeris.Bulletin.03.2025.pdf",
+      "txtPath": "2503/Ephemeris.Bulletin.03.2025.md"
+    }
+  ]
+}

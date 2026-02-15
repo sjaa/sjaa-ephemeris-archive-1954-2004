@@ -1,0 +1,217 @@
+{
+  "articles": [
+    {
+      "id": "ephapr10-the-shallow-sky",
+      "documentId": "ephapr10",
+      "title": "The Shallow Sky",
+      "summary": "This article details observable features on Mars throughout April, noting how different areas become visible depending on the date and suggesting what to look for with a telescope. It then explains a new scientific model called 'splashing' that accounts for the formation of large Martian sand dunes, despite the planet's thin atmosphere, by showing how initial sand grain movement can cascade into more widespread transport. The model helps explain how Martian dunes can be as extensive as those on Earth, like in the Mojave desert.",
+      "categories": [
+        "Observing Report",
+        "Planetary Science",
+        "Technical News",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Mars",
+        "Observing",
+        "Telescope",
+        "Martian Features",
+        "Mare Boreum",
+        "Olympus Mons",
+        "Tharsis plateau",
+        "Solis Lacos",
+        "Eye of Mars",
+        "Acidalium",
+        "Syrtis Major",
+        "Sand dunes",
+        "Saltation",
+        "Splashing",
+        "Atmosphere",
+        "Gravity",
+        "Mojave desert",
+        "HiRISE",
+        "Mars Reconnaissance Orbiter"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr10-flipping-the-lights-on-cosmic-darkness",
+      "documentId": "ephapr10",
+      "title": "Flipping the Lights on Cosmic Darkness",
+      "summary": "The Herschel Space Observatory, the largest infrared space telescope, has been launched, significantly expanding astronomers' ability to observe cold, dark celestial objects previously hidden. With superior resolution and the capacity to detect longer infrared wavelengths, Herschel is revealing distant galaxies, the intricacies of star and planet formation, and the chemical composition of cosmic environments. This mission promises a new era of discoveries, akin to \"flipping on the lights\" in the universe.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Space Exploration",
+        "Telescope Technology"
+      ],
+      "keywords": [
+        "Herschel Space Observatory",
+        "Infrared astronomy",
+        "Space telescope",
+        "Star formation",
+        "Galaxy evolution",
+        "Cold celestial objects",
+        "Chemical analysis",
+        "NASA",
+        "ESA"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr10-sjaa-honored",
+      "documentId": "ephapr10",
+      "title": "SJAA Honored",
+      "summary": "The San Jose Astronomical Association (SJAA) was recently honored by the City of San Jose for its outstanding commitment to community building, specifically mentioning its extensive star party programs. Separately, NASA launched \"Climate Kids,\" a new interactive website aimed at 4th-6th graders to demystify climate change through engaging content and games. The article also provides detailed driving directions to Houge Park.",
+      "categories": [
+        "Community News",
+        "Awards",
+        "Astronomy",
+        "Education",
+        "Climate Change",
+        "Web Resources",
+        "Local Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "City of San Jose",
+        "community award",
+        "star parties",
+        "NASA",
+        "Climate Kids",
+        "climate change",
+        "education website",
+        "Houge Park",
+        "directions"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr10-lick-observatory-historical-collections-project-from-eyeballs-to-electrons-part-i",
+      "documentId": "ephapr10",
+      "title": "Lick Observatory Historical Collections Project, From Eyeballs to Electrons, Part I",
+      "summary": "The Lick Observatory Historical Collections Project has launched its first online exhibit, \"From Eyeballs to Electrons, Part I.\" This exhibit showcases the evolution of light detection in astronomy, highlighting Lick Observatory's contributions, from the human eye to photography. The project aims to preserve and make accessible the observatory's historical holdings through various online resources.",
+      "categories": [
+        "news",
+        "observatory history",
+        "online exhibit",
+        "astronomy technology"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "Historical Collections Project",
+        "From Eyeballs to Electrons",
+        "online exhibit",
+        "light detection",
+        "astronomy",
+        "history of astronomy",
+        "photography",
+        "electronic detectors",
+        "archives"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr10-physics-for-poets",
+      "documentId": "ephapr10",
+      "title": "Physics for Poets",
+      "summary": "Foothill College is offering its award-winning \"Physics for Poets\" course, taught by Andrew Fraknoi, during the spring quarter 2010. This non-mathematical course explores modern physics concepts like relativity, black holes, and quantum mechanics, explaining complex ideas in everyday language and discussing their impact on the humanities. The article details the course content, schedule, and registration information for the class held from April 6 to June 22.",
+      "categories": [
+        "Education",
+        "Course Offering",
+        "Physics",
+        "College News"
+      ],
+      "keywords": [
+        "Physics for Poets",
+        "Andrew Fraknoi",
+        "Foothill College",
+        "Albert Einstein",
+        "Relativity",
+        "Black Holes",
+        "Quantum Mechanics",
+        "Stephen Hawking",
+        "Science education",
+        "Spring Quarter 2010"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr10-the-last-month-in-astronomy",
+      "documentId": "ephapr10",
+      "title": "The Last Month In Astronomy",
+      "summary": "Recent astronomical news includes findings that the Chilean earthquake shifted Earth's axis and that Titan's interior remains undifferentiated, implying slow formation. Scientists also found new evidence for the Moon's long-term water presence, discovered HM Cancri as the fastest stellar binary, and identified a primitive second-generation star supporting dwarf galaxy merger theories. Additionally, the Space Shuttle Endeavour completed its STS-130 mission to the ISS, and Hubble released striking images of Saturn's polar aurorae.",
+      "categories": [
+        "News",
+        "Observational Astronomy",
+        "Planetary Science",
+        "Stellar Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Earth's axis",
+        "Chile earthquake",
+        "Titan",
+        "Cassini",
+        "Moon water",
+        "Larry Taylor",
+        "HM Cancri",
+        "Binary stars",
+        "Primitive star",
+        "Sculptor dwarf galaxy",
+        "Galaxy formation",
+        "Space Shuttle Endeavour",
+        "STS-130",
+        "International Space Station",
+        "Saturn aurorae",
+        "Hubble Space Telescope"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephapr10-it-must-be-astronomical",
+      "documentId": "ephapr10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This April 2010 issue of the SJAA Ephemeris newsletter details the re-election of incumbent board members and announces a telescope loaner program for members. It features an astronomical Q&A regarding the Sun's energy production, and lists several upcoming 'Hot Dates' for astronomy enthusiasts, including lectures, star parties, and conferences. Additionally, the newsletter provides contact information for the San Jose Astronomical Association's officers, board of directors, and publication staff.",
+      "categories": [
+        "Organization News",
+        "Events",
+        "Astronomical Education",
+        "Member Resources",
+        "Publication Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "elections",
+        "telescope loaner program",
+        "Sun's energy",
+        "mass-energy conversion",
+        "astronomical events",
+        "star parties",
+        "conferences",
+        "Dr. David Morrison",
+        "SETI",
+        "newsletter",
+        "astronomy club"
+      ],
+      "pageStart": 7,
+      "pageEnd": 37
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1004/EphApr10.pdf",
+      "txtPath": "1004/EphApr10.md"
+    }
+  ]
+}

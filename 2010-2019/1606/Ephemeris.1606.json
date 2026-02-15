@@ -1,0 +1,418 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1606-guest-speaker-program-update-2016",
+      "documentId": "ephemeris-1606",
+      "title": "Guest Speaker Program Update - 2016",
+      "summary": "This document provides an update on the 2016 Guest Speaker Program, listing scheduled talks from April to September. Highlights include topics such as Mars, Planetary Nebulae, and the Messier Marathon, presented by various speakers including Dr. Chris McKay and Dr. David Clark. The update also solicits suggestions for future speakers.",
+      "categories": [
+        "program update",
+        "events",
+        "speaker series",
+        "announcement"
+      ],
+      "keywords": [
+        "2016",
+        "Guest Speaker Program",
+        "Mars",
+        "Dr. Chris McKay",
+        "Planetary Nebulae",
+        "Dr. David Clark",
+        "Francesca Fornasini",
+        "Movie Night",
+        "Messier Marathon",
+        "Don Machhotz",
+        "astronomy talks"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1606-spring-2016-sjaa-swap-meet",
+      "documentId": "ephemeris-1606",
+      "title": "Spring 2016 SJAA Swap Meet",
+      "summary": "The SJAA Spring 2016 Swap Meet was a resounding success, effectively replacing the annual auction due to its lower labor intensity and positive community feedback. The event facilitated the exchange of used astronomical equipment and allowed members to connect. Following its success, the board decided to host two swap meets annually, with the next one planned for the fall.",
+      "categories": [
+        "Event Report",
+        "Club News",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Swap Meet",
+        "Amateur Astronomy",
+        "Equipment Exchange",
+        "Club Activities",
+        "Spring 2016",
+        "Auction",
+        "Volunteer"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1606-transit-of-mercury-may-9th-2016",
+      "documentId": "ephemeris-1606",
+      "title": "Transit of Mercury - May 9th, 2016",
+      "summary": "The article details a successful public observation event for the May 9th, 2016 Transit of Mercury at Houge Park, sponsored by Teruo Utsumi. Despite initial cloud cover, attendees enjoyed hot chocolate and donuts while observing the rare celestial event. The text also notes that the next Mercury transit will occur on November 11, 2019.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Transit of Mercury",
+        "May 9, 2016",
+        "Astronomy event",
+        "Solar observation",
+        "Houge Park",
+        "Teruo Utsumi",
+        "November 11, 2019"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1606-grand-unified-sjaa-feb-2016",
+      "documentId": "ephemeris-1606",
+      "title": "Grand Unified SJAA, Feb 2016",
+      "summary": "The San Jose Astronomical Association (SJAA) has launched an automation initiative called GUS (Grand Unified SJAA) to streamline its growing operations. This project aims to automate critical functions such as membership management for its 350 members, event scheduling (around 150 unique events annually), library/equipment loaner programs, and digital event sign-in. A 'Coders Group' is developing systems utilizing various technologies like SMF, Tendenci, WordPress, and Django to enhance efficiency and member engagement.",
+      "categories": [
+        "Club Update",
+        "Technical Project",
+        "Automation",
+        "Organizational Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "GUS",
+        "Automation",
+        "Membership management",
+        "Event scheduling",
+        "Library loaner program",
+        "Digital sign-in",
+        "Web development",
+        "SMF",
+        "Tendenci",
+        "WordPress",
+        "Django",
+        "Database management"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1606-lens-cleaning",
+      "documentId": "ephemeris-1606",
+      "title": "Lens Cleaning",
+      "summary": "Mark Striebeck describes his experience cleaning the front lens of his TOA-130 telescope after three years of build-up. He followed Astro-Physics instructions, sharing before-and-after images and linking to his blog for more details, hoping the cleaning was successful.",
+      "categories": [
+        "Equipment Maintenance",
+        "Amateur Astronomy",
+        "How-To",
+        "Technical Tips"
+      ],
+      "keywords": [
+        "Lens Cleaning",
+        "Telescope Maintenance",
+        "TOA-130",
+        "Astro-Physics",
+        "Astrophotography",
+        "Optical Cleaning",
+        "Dew Heaters"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1606-gps-global-positioning-on-a-shoestring-march-2006-ephemeris",
+      "documentId": "ephemeris-1606",
+      "title": "GPS: Global Positioning on a Shoestring March 2006 Ephemeris",
+      "summary": "Bill Maney recounts his 'shoestring' experiment to determine his geographic coordinates using a simple string and celestial observations, a DIY approach to global positioning. While his method yielded surprisingly close (though largely coincidental) longitude results, the article also highlights the inherent difficulties and historical significance of celestial navigation, particularly the challenge of determining longitude at sea. The author contrasts his rudimentary technique with both traditional celestial navigation methods and modern GPS technology.",
+      "categories": [
+        "amateur astronomy",
+        "celestial navigation",
+        "DIY experiment",
+        "history of navigation",
+        "global positioning"
+      ],
+      "keywords": [
+        "GPS",
+        "celestial navigation",
+        "latitude",
+        "longitude",
+        "shoestring method",
+        "right ascension",
+        "declination",
+        "sextant",
+        "marine chronometer",
+        "Bill Maney",
+        "Ephemeris"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1606-cupertino-earth-day-solar-party",
+      "documentId": "ephemeris-1606",
+      "title": "Cupertino Earth Day & Solar Party",
+      "summary": "The article reports on a successful Earth Day & Solar Party held on April 30, 2016, at Cupertino's Civic Plaza. Several volunteers brought solar telescopes, drawing a large number of visitors for solar observations.",
+      "categories": [
+        "observing report",
+        "public outreach",
+        "events",
+        "solar astronomy"
+      ],
+      "keywords": [
+        "Cupertino",
+        "Earth Day",
+        "Solar Party",
+        "Civic Plaza",
+        "solar telescopes",
+        "astronomy event",
+        "public observation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1606-spacecraft-juno-set-to-arrive-at-jupiter-on-july-4",
+      "documentId": "ephemeris-1606",
+      "title": "Spacecraft Juno set to arrive at Jupiter on July 4",
+      "summary": "The Juno spacecraft, launched in 2011, is scheduled to arrive at Jupiter on July 4, 2016. It will orbit the giant planet 33 times, skimming its cloud tops to study its origins, structure, atmosphere, and magnetosphere, particularly probing beneath its obscuring cloud cover and examining its aurorae. This mission will achieve a new milestone in planetary exploration by operating in Jupiter's extreme radiation environment.",
+      "categories": [
+        "news",
+        "space exploration",
+        "planetary science",
+        "mission update"
+      ],
+      "keywords": [
+        "Juno spacecraft",
+        "Jupiter",
+        "July 4",
+        "mission",
+        "orbit",
+        "atmosphere",
+        "magnetosphere",
+        "aurorae",
+        "radiation environment",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1606-promising-worlds-found-around-nearby-ultra-cool-dwarf-star",
+      "documentId": "ephemeris-1606",
+      "title": "Promising Worlds Found Around Nearby Ultra-cool Dwarf Star",
+      "summary": "Astronomers using the TRAPPIST telescope discovered three Earth/Venus-sized planets orbiting TRAPPIST-1, an ultra-cool dwarf star located 40 light-years away. While two inner planets orbit close, the fainter star means they receive moderate radiation, and the outer planet's less defined orbit suggests it could lie within the habitable zone where liquid water might exist.",
+      "categories": [
+        "Astronomical Discovery",
+        "Exoplanets",
+        "Research News",
+        "Science"
+      ],
+      "keywords": [
+        "TRAPPIST-1",
+        "Exoplanets",
+        "Ultra-cool dwarf star",
+        "Habitable zone",
+        "ESO",
+        "TRAPPIST telescope",
+        "La Silla Observatory",
+        "Very Large Telescope",
+        "Aquarius"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1606-barred-spiral-galaxy-ngc-4394",
+      "documentId": "ephemeris-1606",
+      "title": "Barred Spiral Galaxy NGC 4394",
+      "summary": "NGC 4394 is a barred spiral galaxy discovered in 1784 by William Herschel, located about 55 million light-years away in the constellation Coma Berenices and a member of the Virgo Cluster. It exhibits bright spiral arms with young blue stars, cosmic dust, and active star formation regions emerging from a central bar. Its core features a low-ionization nuclear emission-line region (LINER).",
+      "categories": [
+        "Astronomy",
+        "Galaxies",
+        "Celestial Objects",
+        "Descriptive Article"
+      ],
+      "keywords": [
+        "NGC 4394",
+        "Barred spiral galaxy",
+        "William Herschel",
+        "Coma Berenices",
+        "Virgo Cluster",
+        "LINER",
+        "Star formation",
+        "Galaxy morphology",
+        "Cosmic dust"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1606-sjaa-member-observation-posts",
+      "documentId": "ephemeris-1606",
+      "title": "SJAA Member Observation Posts",
+      "summary": "This article compiles several astronomical observation reports from SJAA members. Mark McCarthy details his experiences observing deep-sky objects from a light-polluted red zone, noting the difficulty with galaxies versus the visibility of clusters and planetary nebulae, and provides a detailed account of viewing the Lunar Crater Copernicus at extremely high magnification. Other members share observations from a dark-sky trip to New Zealand, highlighting southern constellations and the Magellanic Clouds, and an unexpected sighting of the International Space Station and another satellite.",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Observing",
+        "Lunar Observing",
+        "Satellite Observing",
+        "Travel",
+        "Light Pollution",
+        "Equipment"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Galaxies",
+        "Planetary nebulae",
+        "Open clusters",
+        "Light pollution",
+        "High magnification",
+        "Lunar observing",
+        "Crater Copernicus",
+        "International Space Station",
+        "Satellite sightings",
+        "Southern Hemisphere astronomy",
+        "Magellanic Clouds",
+        "New Zealand",
+        "Amateur astronomy",
+        "Telescope observation"
+      ],
+      "pageStart": 9,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-1606-kid-spot",
+      "documentId": "ephemeris-1606",
+      "title": "Kid Spot",
+      "summary": "This 'Kid Spot' section offers a variety of astronomy-related content, including space-themed jokes and a quiz about the planet Mercury, complete with answers. It also provides a collection of 'Did You Know?' facts covering historical astronomy, physical phenomena, famous telescopes, and astronomical objects. The content appears to be from a June 2016 publication, likely aimed at a younger or general audience interested in space.",
+      "categories": [
+        "Astronomy Trivia",
+        "Educational Content",
+        "Space Facts",
+        "Historical Astronomy",
+        "Kid's Corner"
+      ],
+      "keywords": [
+        "Mercury",
+        "Sun",
+        "Stonehenge",
+        "Gravity",
+        "Hydrogen",
+        "John Dobson",
+        "Dobsonian mount",
+        "Hubble Space Telescope",
+        "Galaxies",
+        "Adhara",
+        "Meteorite",
+        "Ultra-violet radiation",
+        "Messenger spacecraft",
+        "Transit of Mercury"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    },
+    {
+      "id": "ephemeris-1606-announcements",
+      "documentId": "ephemeris-1606",
+      "title": "Announcements",
+      "summary": "This announcement details the results of the club's officer elections held on March 19, 2016, naming the President, Vice President, Treasurer, and Secretary. It also lists several upcoming events for 2016, including a binocular viewing session, Calstar 2016, Movie Night, the SJAA Yosemite Public Star Party, and the SJSS Deep Sky Scavenger Hunt.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Officer Elections",
+        "Club Officers",
+        "Binocular Viewing",
+        "Calstar",
+        "Movie Night",
+        "Yosemite Public Star Party",
+        "Deep Sky Scavenger Hunt",
+        "Astronomy Events",
+        "Dave Ittner",
+        "Ed Wong",
+        "Rob Jaworski",
+        "Rob Chapman"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1606-board-meeting-excerpts",
+      "documentId": "ephemeris-1606",
+      "title": "Board Meeting Excerpts",
+      "summary": "The SJAA board meetings from February to April 2016 focused on refining club operations and programs. Key discussions included significant progress on the Imaging Loaner Program with equipment purchases and a successful, sold-out Lick Observatory tour. The board also addressed technical developments such as the new Tendenci membership database becoming functional and an astronomical event scheduling app, alongside improvements to the Swap Meet and the Binocular Viewing Program.",
+      "categories": [
+        "Board Meetings",
+        "Club Administration",
+        "Program Management",
+        "Event Planning",
+        "Technical Development",
+        "Equipment Management"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "Loaner Program",
+        "Membership Management",
+        "Tendenci",
+        "Lick Observatory",
+        "Swap Meet",
+        "Binocular Program",
+        "Imaging Program",
+        "Volunteer Roles",
+        "Event Calendar",
+        "SJAA"
+      ],
+      "pageStart": 16,
+      "pageEnd": 17
+    },
+    {
+      "id": "ephemeris-1606-sjaa-programs-and-resources",
+      "documentId": "ephemeris-1606",
+      "title": "SJAA Programs and Resources",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a diverse range of programs and resources for its members and the community. These include a library, a telescope 'Fix It' service, various observing sessions (solar, night sky), and educational programs like Quick STARt and Intro to the Night Sky. Additionally, SJAA provides an equipment loaner program, specialized astro-imaging groups and workshops, and conducts school star parties for outreach.",
+      "categories": [
+        "Educational Programs",
+        "Member Resources",
+        "Observing Events",
+        "Technical Support",
+        "Outreach",
+        "Special Interest Groups",
+        "Workshops"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Programs",
+        "Library",
+        "Telescope Repair",
+        "Collimation",
+        "Solar Observing",
+        "Star Parties",
+        "Beginner Astronomy",
+        "Equipment Loaner",
+        "Astro Imaging",
+        "Astrophotography",
+        "Workshops",
+        "School Outreach",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1606",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1606/Ephemeris.1606.pdf",
+      "txtPath": "1606/Ephemeris.1606.md"
+    }
+  ]
+}

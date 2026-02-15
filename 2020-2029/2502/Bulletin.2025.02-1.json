@@ -1,0 +1,75 @@
+{
+  "articles": [
+    {
+      "id": "bulletin-2025-02-1-sjaa-ephemeris-bulletin",
+      "documentId": "bulletin-2025-02-1",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The San Jose Astronomical Association (SJAA) introduces its new \"Ephemeris Bulletin,\" a monthly publication designed to provide timely updates on club activities, volunteer opportunities, and time-sensitive announcements. This debut issue highlights an open leadership position for the \"Hands-On Imaging\" program, lists various volunteer needs across different initiatives like Astro 101 and In-Town Star Parties, and reminds members about the ongoing board and officer elections.",
+      "categories": [
+        "Club News",
+        "Volunteer Opportunities",
+        "Announcements",
+        "Membership Information",
+        "Program Updates"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris Bulletin",
+        "Volunteer Opportunities",
+        "Open Positions",
+        "Hands-On Imaging",
+        "Astrophotography",
+        "Club Elections",
+        "Board Members",
+        "Astro 101",
+        "In-Town Star Party"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "bulletin-2025-02-1-sjaa-february-2025",
+      "documentId": "bulletin-2025-02-1",
+      "title": "SJAA February 2025",
+      "summary": "The SJAA February 2025 calendar details a busy month for astronomy enthusiasts, featuring numerous celestial events and club activities. Highlights include a Triple Conjunction of Venus, Moon, and Saturn, a Centaurid Meteor Shower, and the Full Snow Moon, alongside various planetary close approaches and special alignments. Members can also participate in stargazing parties at Mendoza Ranch and RCDO, educational workshops like Solar Sunday and Astro 101, and attend club meetings, while also noting birthdates of historical astronomers.",
+      "categories": [
+        "Calendar",
+        "Astronomical Events",
+        "Club Activities",
+        "Observing Opportunities",
+        "Educational",
+        "Club News"
+      ],
+      "keywords": [
+        "SJAA",
+        "February 2025",
+        "Stargazing",
+        "Star Parties",
+        "Moon Phases",
+        "Planetary Conjunctions",
+        "Meteor Shower",
+        "Astronomical Events",
+        "Solar Sunday",
+        "Astro 101",
+        "Clyde Tombaugh",
+        "Galileo",
+        "Copernicus",
+        "Dark Sky Window",
+        "Board Meeting",
+        "Imaging SIG",
+        "Triple Conjunction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "bulletin-2025-02-1",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2502/Bulletin.2025.02-1.pdf",
+      "txtPath": "2502/Bulletin.2025.02-1.md"
+    }
+  ]
+}

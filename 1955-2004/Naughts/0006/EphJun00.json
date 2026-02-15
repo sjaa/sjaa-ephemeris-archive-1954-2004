@@ -1,0 +1,187 @@
+{
+  "articles": [
+    {
+      "id": "ephjun00-the-jet",
+      "documentId": "ephjun00",
+      "title": "The Jet",
+      "summary": "The author recounts his successful quest to visually observe the famous jet emanating from the nucleus of the M87 galaxy, a feature he had previously only 'suspected.' Achieving this challenging observation required exceptionally good seeing conditions at Henry Coe State Park, California, and high magnification with his Celestron 14 telescope, Harvey. The article details the observing conditions, the visual experience of the jet and other deep-sky objects like M13 and M57, and highlights the critical importance of seeing for deep-sky amateur astronomy.",
+      "categories": [
+        "observing report",
+        "amateur astronomy",
+        "deep-sky observing",
+        "equipment review (implied)"
+      ],
+      "keywords": [
+        "M87",
+        "galaxy jet",
+        "Virgo galaxy cluster",
+        "seeing conditions",
+        "Celestron 14",
+        "Harvey telescope",
+        "Henry Coe State Park",
+        "M13",
+        "M57",
+        "magnification",
+        "deep-sky objects",
+        "Jay Reynolds Freeman"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun00-the-jet",
+      "documentId": "ephjun00",
+      "title": "The Jet",
+      "summary": "This article provides an observing guide for June, detailing meteor activity including sporadic meteors, the Arietids, and the potentially strong June Bootids shower. It also features an observing report of the Ring Nebula (M57) and double stars, highlighting subtle details and seeing conditions. Additionally, it offers an overview of planetary visibility for the month, noting the positions of Mercury, Jupiter, Saturn, Uranus, Neptune, and Pluto.",
+      "categories": [
+        "Observing Reports",
+        "Meteor Astronomy",
+        "Planetary Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "Arietids",
+        "June Bootids",
+        "M57",
+        "Ring Nebula",
+        "Nu Scorpii",
+        "Antares",
+        "Planetary Visibility",
+        "Jupiter",
+        "Saturn",
+        "Pluto",
+        "Observing",
+        "Deep-Sky Objects",
+        "Double Stars",
+        "Seeing Conditions",
+        "June"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun00-mooning",
+      "documentId": "ephjun00",
+      "title": "Mooning",
+      "summary": "This article details two classic challenging lunar observation targets: the tiny craterlets within Plato and the elusive rille in the Alpine Valley. It highlights how factors like atmospheric seeing and lighting conditions critically influence the visibility of these features, often more so than telescope optics. The author encourages persistence in observing these targets, likening the pursuit to climbing Everest for the sheer challenge.",
+      "categories": [
+        "Observing Reports",
+        "Lunar Astronomy",
+        "Amateur Astronomy",
+        "Optical Tests"
+      ],
+      "keywords": [
+        "Lunar observation",
+        "Plato craterlets",
+        "Alpine Valley rille",
+        "Seeing conditions",
+        "Telescope optics",
+        "Observing challenges",
+        "Moon features",
+        "Amateur astronomy",
+        "Astronomical targets"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjun00-1999-leonid-mac-campaign-some-scientific-results",
+      "documentId": "ephjun00",
+      "title": "1999 Leonid MAC Campaign, Some Scientific Results",
+      "summary": "The article reports on the 1999 Leonid Multi-Instrument Aircraft Campaign (Leonid-MAC) Workshop, where researchers presented scientific results from airborne and ground-based experiments. Key findings across Astrobiology, Impact Hazards, and Environmental effects were discussed, including new insights into meteor lightcurves, atmospheric chemistry, and impact probability. The workshop also laid the groundwork for future Leonid MAC missions planned for 2000-2002 to gather fundamental data and test new astrobiology experiments.",
+      "categories": [
+        "observing reports",
+        "scientific research",
+        "astronomy research",
+        "meteor showers",
+        "conference summary",
+        "mission planning"
+      ],
+      "keywords": [
+        "Leonid MAC",
+        "Leonid meteor shower",
+        "meteor storms",
+        "Astrobiology",
+        "Impact hazard",
+        "upper atmosphere",
+        "atmospheric dynamics",
+        "meteoroids",
+        "airglow",
+        "VLF emissions",
+        "lunar impacts",
+        "observational techniques",
+        "space missions"
+      ],
+      "pageStart": 5,
+      "pageEnd": 2000
+    },
+    {
+      "id": "ephjun00-comet-p-1994-p1-machholz-2-1994o",
+      "documentId": "ephjun00",
+      "title": "Comet P/1994 P1 (Machholz 2) (1994o)",
+      "summary": "The article presents an image and description of Comet P/1994 P1 (Machholz 2), captured on September 9, 1994, by Jim Scotti. It details the comet's fragmented state, showing fragments 'A' and 'B', and discusses the rapid changes in its morphology, including a fan tail and coma, which evolved significantly post-observation. Additionally, the document contains classified advertisements for astronomy equipment, including a telescope trade offer and a telescope kit for sale.",
+      "categories": [
+        "Observing Report",
+        "Comet Analysis",
+        "Astronomy Equipment",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Comet P/1994 P1 (Machholz 2)",
+        "Comet fragmentation",
+        "Observational astronomy",
+        "Kitt Peak",
+        "Spacewatch telescope",
+        "Comet morphology",
+        "Telescope trade",
+        "Telescope sale",
+        "Astro Physics",
+        "Takahashi",
+        "AstroSystems"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "ephjun00-sjaa-loaner-scope-status",
+      "documentId": "ephjun00",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA Loaner Scope program provides various telescopes for members to borrow, with different categories for available, currently loaned, and extended loan scopes. Members can contact Mike Koop to arrange borrowing, and a waiting list is maintained for popular items. The article also acknowledges recent equipment donations to the program.",
+      "categories": [
+        "Loaner Program",
+        "Membership Services",
+        "Equipment Availability",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Astronomy Equipment",
+        "Member Benefits",
+        "San Jose Astronomical Association",
+        "Dobson",
+        "Refractor",
+        "Newtonian",
+        "Celestron",
+        "Spectroscope",
+        "Loan Status",
+        "Waiting List",
+        "Donations"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun00",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0006/EphJun00.pdf",
+      "txtPath": "0006/EphJun00.md"
+    }
+  ]
+}

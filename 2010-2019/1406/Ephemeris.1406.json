@@ -1,0 +1,171 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1406-sjaa-program-spotlight-sig",
+      "documentId": "ephemeris-1406",
+      "title": "SJAA PROGRAM SPOTLIGHT— SIG",
+      "summary": "The SJAA Astro Imaging Special Interest Group (SIG), led by Harsh Kaushikkar and John Wainwright, focuses on bringing together members interested in astrophotography. They regularly host presentations, like a recent \"Introduction to Astro Photography\" session which covered various aspects of the imaging process and equipment for about 25 attendees. The SIG serves as a crucial forum for members to learn, share knowledge, and enhance their astrophotography skills, often delving into technical details of setups and image processing.",
+      "categories": [
+        "Special Interest Group",
+        "Astrophotography",
+        "Workshops",
+        "Educational",
+        "Club News",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astro Imaging SIG",
+        "Astrophotography",
+        "Harsh Kaushikkar",
+        "John Wainwright",
+        "Image Processing",
+        "Astrophotography Equipment",
+        "Guiding",
+        "Focusing",
+        "Deep Sky Imaging",
+        "Newtonian",
+        "Refractor",
+        "DSLR",
+        "PHD",
+        "Deep Sky Stacker",
+        "Pixinsight",
+        "Photoshop"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1406-my-favorite-things-vol-1-3-trek-there-s-more",
+      "documentId": "ephemeris-1406",
+      "title": "My Favorite Things, Vol. 1.3 Trek/There's More",
+      "summary": "This article, \"My Favorite Things, Vol. 1.3 Trek/There's More,\" first highlights the inspiring legacy of Star Trek on science and engineering. It then delves into the concept of \"Electromagnetic Spectrum Blindness,\" explaining how modern technology has expanded astronomers' ability to observe the universe across various wavelengths beyond visible light, providing a more comprehensive understanding of phenomena like supernovae through multispectral imaging. The piece concludes with a brief report on Saturn's visibility in May 2014.",
+      "categories": [
+        "Astronomy",
+        "Science Communication",
+        "Observational Astronomy",
+        "Space Technology",
+        "Pop Culture Influence",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Star Trek",
+        "Electromagnetic Spectrum",
+        "Telescopes",
+        "Multispectral Imaging",
+        "Supernova",
+        "Hubble Space Telescope",
+        "Radio Telescopes",
+        "Infrared",
+        "X-ray",
+        "Gamma-ray",
+        "Saturn",
+        "NASA",
+        "Astronomy Education"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1406-cosmic-anniversary-big-bang-echo-discovered-50-years-ago",
+      "documentId": "ephemeris-1406",
+      "title": "Cosmic Anniversary: 'Big Bang Echo' Discovered 50 Years Ago",
+      "summary": "The article commemorates the 50th anniversary of Robert Wilson and Arno Penzias' accidental discovery of the cosmic microwave background (CMB) radiation in 1964, which provided crucial evidence for the Big Bang theory. It also details the 2002 discovery of Quaoar, a planetoid beyond Pluto in the Kuiper Belt, which contributed to the reclassification of Pluto as a dwarf planet.",
+      "categories": [
+        "Astronomy",
+        "Scientific Discovery",
+        "Cosmology",
+        "Planetary Science",
+        "History of Science",
+        "Anniversary"
+      ],
+      "keywords": [
+        "Big Bang theory",
+        "Cosmic Microwave Background (CMB)",
+        "Robert Wilson",
+        "Arno Penzias",
+        "Quaoar",
+        "Planetoid",
+        "Dwarf planet",
+        "Pluto",
+        "Kuiper Belt",
+        "1964",
+        "2002"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1406-mars-rover-curiosity-wraps-up-drilling-work-prepares-for-long-drive",
+      "documentId": "ephemeris-1406",
+      "title": "Mars Rover Curiosity Wraps Up Drilling Work, Prepares for Long Drive",
+      "summary": "NASA's Mars rover Curiosity has completed its drilling operations at the sandstone target \"Windjana,\" successfully collecting and delivering samples to its onboard instruments for analysis. The rover will now resume its long journey towards the base of Mount Sharp, its primary destination, where it aims to climb through the foothills to study the Red Planet's changing environmental conditions over time and understand its transition from a warm, wet world to its current cold, dry state. This marks the third full sample-collecting drilling activity for Curiosity since its August 2012 landing.",
+      "categories": [
+        "News",
+        "Space Mission",
+        "Planetary Science",
+        "Mission Update",
+        "Mars Exploration"
+      ],
+      "keywords": [
+        "Mars Rover Curiosity",
+        "Mount Sharp",
+        "Windjana",
+        "Drilling",
+        "Sample Analysis",
+        "Gale Crater",
+        "Yellowknife Bay",
+        "Microbial Life",
+        "Planetary Evolution",
+        "NASA",
+        "CheMin",
+        "SAM"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1406-community-educational-notes",
+      "documentId": "ephemeris-1406",
+      "title": "Community & Educational Notes",
+      "summary": "The article details an Astronomy Day event held at the MLK Library on May 10, 2014, which featured solar observations and engaged approximately 75 patrons. It also includes a \"Kid Spot\" section with astronomy jokes, a quiz, and a June 2014 night sky challenge, encouraging observation of objects like Saturn and M13. The latter part of the document provides an in-depth description of the constellation Hercules, its mythological background, and notable celestial objects within it.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Educational Content",
+        "Outreach",
+        "Night Sky Guide",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "MLK Library",
+        "Sunspots",
+        "Solar Flares",
+        "H-Alpha",
+        "Kid Spot",
+        "Hubble",
+        "Ganymede",
+        "Saturn",
+        "Mars",
+        "Hercules (constellation)",
+        "M13",
+        "M92",
+        "Globular Clusters",
+        "Planetary Nebula",
+        "Ptolemy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1406",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1406/Ephemeris.1406.pdf",
+      "txtPath": "1406/Ephemeris.1406.md"
+    }
+  ]
+}

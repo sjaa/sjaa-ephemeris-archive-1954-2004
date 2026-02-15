@@ -1,0 +1,238 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1512-sjaa-at-coyote-valley-harvest-feast",
+      "documentId": "ephemeris-1512",
+      "title": "SJAA at Coyote Valley Harvest Feast",
+      "summary": "The San Jose Astronomical Association (SJAA) participated in the inaugural Coyote Valley Harvest Feast on September 19, 2015, an event that drew nearly 2,000 visitors. SJAA set up an information booth and brought 8 solar telescopes, including a video setup displaying live solar flares on a large monitor, for public viewing and education. Volunteers from SJAA and the Eastbay Astronomical Society contributed to this successful outreach effort at the newly opened Coyote Valley Open Space Preserve.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Outreach",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Coyote Valley Harvest Feast",
+        "Solar Astronomy",
+        "Solar Telescopes",
+        "Public Outreach",
+        "Morgan Hill",
+        "Glenn Newell",
+        "Mallincam",
+        "Lunt telescope",
+        "Solar flares",
+        "Eastbay Astronomical Society",
+        "September 2015"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1512-eyepieces",
+      "documentId": "ephemeris-1512",
+      "title": "Eyepieces",
+      "summary": "This article, originally published in April 2013, serves as an amateur astronomer's guide to eyepieces, detailing their physical characteristics, performance metrics, and practical applications. It explains concepts such as barrel sizes, true and apparent fields, exit pupil, eye relief, and coatings, offering advice for selecting and using eyepieces for various celestial observations. The author also provides tips on maintenance and the benefits of trying eyepieces at star parties before purchase.",
+      "categories": [
+        "Technical",
+        "Observing Guide",
+        "Equipment Review",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Telescope accessories",
+        "True field",
+        "Apparent field",
+        "Exit pupil",
+        "Eye relief",
+        "Magnification",
+        "Barlow lens",
+        "Multi-coated lenses",
+        "Deep sky observing",
+        "Planetary observing",
+        "Star parties"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1512-science-articles",
+      "documentId": "ephemeris-1512",
+      "title": "Science Articles",
+      "summary": "The article presents three distinct science updates: the emergence of freeform optics, a new telescope mirror technology enabling diverse shapes for improved image quality and smaller instrument packages; the successful deep freeze thermal vacuum test of the James Webb Space Telescope's Integrated Science Instrument Module (ISIM) at NASA Goddard, confirming its readiness for the extreme cold of space; and new findings on the Milky Way's star formation history, revealing a rapid stellar 'baby boom' 10 billion years ago, with our Sun forming later amid a higher abundance of elements suitable for planet creation.",
+      "categories": [
+        "Technical",
+        "Research & Development",
+        "Astronomy",
+        "Space Technology",
+        "News",
+        "Astrophysics",
+        "Engineering"
+      ],
+      "keywords": [
+        "Freeform optics",
+        "Telescope mirrors",
+        "James Webb Space Telescope",
+        "JWST",
+        "ISIM",
+        "NASA Goddard",
+        "Star formation",
+        "Galaxy evolution",
+        "Milky Way",
+        "CubeSats",
+        "Small satellites",
+        "Cryogenic testing",
+        "3D printing",
+        "Space exploration",
+        "Optical engineering"
+      ],
+      "pageStart": 6,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1512-sjaa-member-observation-posts",
+      "documentId": "ephemeris-1512",
+      "title": "SJAA Member Observation Posts",
+      "summary": "The article compiles several observation reports from SJAA members, detailing a successful public star party at Pinnacles West featuring views of planets and various deep-sky objects. It also includes an account of observing a lunar occultation of Aldebaran and a collection of member experiences watching the September 2015 lunar eclipse from different locations. Additionally, a shared educational video on the solar system to scale is mentioned with member comments.",
+      "categories": [
+        "Observing Reports",
+        "Public Outreach",
+        "Events",
+        "Member Activities",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Pinnacles West",
+        "Public Star Party",
+        "Deep-sky objects",
+        "Planetary observation",
+        "Lunar occultation",
+        "Aldebaran",
+        "Lunar eclipse",
+        "Solar System to Scale",
+        "Amateur astronomy",
+        "SJAA"
+      ],
+      "pageStart": 9,
+      "pageEnd": 49
+    },
+    {
+      "id": "ephemeris-1512-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-1512",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This article showcases an astrophotography gallery featuring submissions from San Jose Astronomical Association (SJAA) members. It presents detailed technical specifications, locations, and dates for images of celestial objects such as LDN 1235 (Dark Shark Nebula), M33, and M31 (Andromeda Galaxy), as well as a solar flare. The gallery highlights members' equipment, processing techniques, and astrophotography achievements.",
+      "categories": [
+        "Astrophotography",
+        "Member Submissions",
+        "Gallery",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophotography",
+        "Dark Shark Nebula",
+        "LDN 1235",
+        "M33",
+        "M31",
+        "Andromeda Galaxy",
+        "Solar Flare",
+        "Takahashi",
+        "FLI MLx694",
+        "Canon T3i",
+        "Canon 60Da",
+        "Pixinsight",
+        "DSS",
+        "StarTools",
+        "Astrophoto Gallery",
+        "Telescopes",
+        "Cameras",
+        "Filters",
+        "Integration",
+        "Processing Software"
+      ],
+      "pageStart": 12,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-1512-kid-spot",
+      "documentId": "ephemeris-1512",
+      "title": "KID SPOT",
+      "summary": "This 'Kid Spot' section features astronomy-themed jokes, a multiple-choice quiz on basic astronomical concepts, and a 'Did You Know?' section with interesting facts about space, celestial bodies, and historical astronomical discoveries. It provides engaging, bite-sized information primarily aimed at a younger audience to spark interest in astronomy. The content covers topics ranging from Mars exploration and nebulae to star clusters and the speed of light.",
+      "categories": [
+        "Education",
+        "Astronomy",
+        "Trivia",
+        "Youth Content",
+        "科普"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Space",
+        "Kids",
+        "Quiz",
+        "Jokes",
+        "Facts",
+        "Mars",
+        "Meteorites",
+        "Nebula",
+        "Saturn",
+        "Stars",
+        "Light year",
+        "Hyades",
+        "Mariner 4",
+        "Boomerang Nebula",
+        "Altair",
+        "Christian Huygens"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    },
+    {
+      "id": "ephemeris-1512-club-updates-and-board-information",
+      "documentId": "ephemeris-1512",
+      "title": "Club Updates and Board Information",
+      "summary": "This article provides updates from the San Jose Astronomical Association's (SJAA) Board of Directors meetings from August to October 2015, detailing decisions on event planning, club resources, and board composition. It also outlines various SJAA programs and services available to members, including astro-imaging workshops, solar observing, a library, telescope loaner program, and community outreach initiatives. The document emphasizes the need for member participation and volunteerism to support the club's growing activities.",
+      "categories": [
+        "Board Meetings",
+        "Club Programs",
+        "Events",
+        "Membership",
+        "Volunteerism",
+        "Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Astro-imaging workshops",
+        "Membership report",
+        "Mendoza Ranch",
+        "Pinnacles",
+        "Star parties",
+        "Video astronomy",
+        "Solar observing",
+        "Quick STARt Program",
+        "Loaner program",
+        "Astro Imaging SIG",
+        "Library",
+        "Telescope Fix-it Session",
+        "Intro to the Night Sky",
+        "Volunteers",
+        "Robert Armstrong Scholarship",
+        "Houge Park",
+        "RASC Handbook"
+      ],
+      "pageStart": 16,
+      "pageEnd": 18
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1512",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 5",
+      "issueDate": null,
+      "pdfPath": "1512/Ephemeris.1512.pdf",
+      "txtPath": "1512/Ephemeris.1512.md"
+    }
+  ]
+}

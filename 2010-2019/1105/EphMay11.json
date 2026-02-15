@@ -1,0 +1,209 @@
+{
+  "articles": [
+    {
+      "id": "ephmay11-the-shallow-sky",
+      "documentId": "ephmay11",
+      "title": "The Shallow Sky",
+      "summary": "This document, the May 2011 'The Shallow Sky' publication from the San Jose Astronomical Association (SJAA), provides an ephemeris of upcoming events including star parties, astronomy classes, and general meetings. It also features an article discussing surprising facts about the Moon, such as its geological activity, tenuous exosphere, and extremely cold polar regions, while encouraging amateur astronomers to participate in lunar research.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "Observing",
+        "Education",
+        "News",
+        "Lunar Science"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "Star Parties",
+        "Astronomy Classes",
+        "General Meetings",
+        "Dark-Sky Weekend",
+        "Moon",
+        "Luna",
+        "Lunar Exosphere",
+        "Moonquakes",
+        "Lunar Research",
+        "Amateur Astronomy",
+        "MoonZoo.org",
+        "Lunar Reconnaissance Orbiter",
+        "May 2011"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmay11-future-planetary-missions",
+      "documentId": "ephmay11",
+      "title": "Future Planetary Missions",
+      "summary": "The article details the U.S. National Research Council committee's recommendations for planetary science missions for 2013-2022, highlighting the challenge of high mission costs, as exemplified by the Mars Science Laboratory (Curiosity)'s actual price tag. Chaired by Steven Squyres, the committee prioritized several expensive \"flagship\" missions like MAX-C, JEO, and a Uranus Orbiter, often with caveats about affordability, and also suggested funding two out of seven medium-sized missions, stressing the need for scientific community support to secure funding.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Missions",
+        "Science Policy",
+        "Budget & Funding"
+      ],
+      "keywords": [
+        "Planetary Missions",
+        "Space Exploration",
+        "Mission Costs",
+        "Decadal Survey",
+        "Mars Astrobiology Explorer-Cacher (MAX-C)",
+        "Jupiter Europa Orbiter (JEO)",
+        "Uranus Orbiter",
+        "Steven Squyres",
+        "NASA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay11-nasa-space-place",
+      "documentId": "ephmay11",
+      "title": "NASA Space Place",
+      "summary": "Astronomers traditionally estimate the total number of stars in distant galaxies by counting visible massive stars and applying an 'initial mass function' (IMF) to account for smaller, unseen stars. Recent findings from NASA's Galaxy Evolution Explorer suggest this long-used IMF might be incorrect, indicating that small stars are significantly more numerous than previously believed in some galaxies.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Discovery"
+      ],
+      "keywords": [
+        "Initial Mass Function",
+        "Star Count",
+        "Galaxy Evolution Explorer",
+        "Stars",
+        "Galaxies",
+        "Astronomy Research",
+        "NASA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephmay11-board-of-directors",
+      "documentId": "ephmay11",
+      "title": "Board of Directors",
+      "summary": "The incumbent board of directors was reelected at the February General Meeting. Subsequently, new officers were elected at the March board meeting, with Mark Wagner named President, Greg Claytor as Vice President, Rob Jaworski as Secretary, and Robert Armstrong as Treasurer, along with various chair positions.",
+      "categories": [
+        "Organizational News",
+        "Leadership",
+        "Appointments",
+        "Governance"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Reelection",
+        "Officers",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Chair positions",
+        "Mark Wagner",
+        "General Meeting",
+        "Board meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay11-directions-to-houge-park",
+      "documentId": "ephmay11",
+      "title": "Directions to Houge Park",
+      "summary": "This document provides driving directions to Houge Park in San Jose, detailing routes from both Hwy. 17 and Hwy. 85. Separately, it reports on a study led by Gerhardt R. Meurer, which suggests that the total mass of small stars in some newly forming galaxies could be up to four times greater than previously estimated, based on data from the Galaxy Evolution Explorer.",
+      "categories": [
+        "Local Information",
+        "Astronomy",
+        "Scientific Research",
+        "Space Exploration",
+        "News"
+      ],
+      "keywords": [
+        "Houge Park",
+        "San Jose",
+        "directions",
+        "star populations",
+        "galaxies",
+        "small stars",
+        "Gerhardt R. Meurer",
+        "Galaxy Evolution Explorer",
+        "astronomy",
+        "stellar mass",
+        "astrophysics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephmay11-sjaa-yosemite-public-star-party-2011",
+      "documentId": "ephmay11",
+      "title": "SJAA Yosemite Public Star Party 2011",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual Yosemite Public Star Party at Glacier Point in Yosemite National Park on August 26-27, 2011. Up to 30 participants will receive free admission and rustic camping in exchange for providing public telescope viewing on both evenings. Priority is given to SJAA members, who are expected to bring sufficient telescopes and attend both public sessions.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Astronomy Clubs",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite National Park",
+        "Glacier Point",
+        "Star Party",
+        "Public Event",
+        "Camping",
+        "Astronomy",
+        "Telescopes",
+        "2011"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay11-the-last-month-in-astronomy",
+      "documentId": "ephmay11",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article summarizes recent astronomy news, highlighting new techniques for detecting faint, young stars using the Galaxy Evolution Explorer and updates on planetary missions like Curiosity and the retired Stardust probe. It covers discoveries such as the likely cause of the Pioneer anomaly and the extremely cold temperature of a brown dwarf, alongside operational news including a new NASA facility, advancements in missile tracking, and a temporary glitch with the Kepler spacecraft.",
+      "categories": [
+        "Space Missions",
+        "Astronomical Discoveries",
+        "Planetary Science",
+        "Space Technology",
+        "Observational Astronomy",
+        "Mission Updates"
+      ],
+      "keywords": [
+        "Galaxy Evolution Explorer",
+        "faint stars",
+        "low-mass stars",
+        "Titan",
+        "volcanism",
+        "Curiosity rover",
+        "Mars Science Laboratory",
+        "Pioneer anomaly",
+        "Jupiter rings",
+        "Saturn rings",
+        "Stardust mission",
+        "brown dwarfs",
+        "Kepler spacecraft",
+        "NASA Wallops Island",
+        "missile defense",
+        "exoplanets"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay11",
+      "title": "⚠️  WARNING: The following pages failed to extract and were skipped: 7",
+      "issueDate": null,
+      "pdfPath": "1105/EphMay11.pdf",
+      "txtPath": "1105/EphMay11.md"
+    }
+  ]
+}

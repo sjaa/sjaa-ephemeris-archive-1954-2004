@@ -1,0 +1,206 @@
+{
+  "articles": [
+    {
+      "id": "ephnov02-sjaa-2002-fall-swap-meet",
+      "documentId": "ephnov02",
+      "title": "SJAA 2002 fall swap meet",
+      "summary": "The SJAA is holding its 2002 Fall Swap Meet on Sunday, November 10, 2002, at Houge Park in San Jose, from 1:00 p.m. to approximately 3:00 p.m. This event allows attendees to buy and sell various new and used astronomical equipment, books, space art, and science/tech items, with sellers paying a 10% commission on sales.",
+      "categories": [
+        "Events",
+        "Astronomy Community",
+        "Sale/Market",
+        "Amateur Astronomy News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Swap Meet",
+        "Astronomy Equipment",
+        "San Jose",
+        "Telescopes",
+        "Optical Equipment",
+        "Amateur Astronomy",
+        "Buying and Selling",
+        "Houge Park",
+        "Astronomical Gear"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov02-november-speaker-tony-misch",
+      "documentId": "ephnov02",
+      "title": "November speaker Tony Misch",
+      "summary": "The article announces Tony Misch of Lick Observatory as the November 16th speaker, who will present on the early solar eclipse expeditions of Lick Observatory. His talk, titled \"In the Shadow of the Moon,\" will be largely pictorial, based on recently rediscovered photographic glass plate negatives from these expeditions that occurred from 1889 for over forty years. These expeditions were crucial for studying the sun's corona and left behind invaluable scientific and historical records.",
+      "categories": [
+        "Events",
+        "Speaker Announcement",
+        "Astronomy History",
+        "Solar Eclipses",
+        "Observatory History"
+      ],
+      "keywords": [
+        "Tony Misch",
+        "Lick Observatory",
+        "Solar eclipse expeditions",
+        "November meeting",
+        "Astronomical history",
+        "Solar corona",
+        "Photography",
+        "Glass plates",
+        "University of California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephnov02-the-shallow-sky-saturn-spoken-here",
+      "documentId": "ephnov02",
+      "title": "The Shallow Sky Saturn spoken here",
+      "summary": "This article encourages amateur astronomers to observe Saturn in November, detailing key features visible through telescopes due to its high northern hemisphere position. It describes the A, B, and C rings, Cassini's division, and subtle planetary markings, while also challenging observers to look for the 'Encke smudge' and rare radial spokes. A brief mention of other visible planets like Uranus, Neptune, and Jupiter is also included.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "Planetary Observation",
+        "Telescopes",
+        "Saturn's Rings",
+        "Cassini's Division",
+        "Crepe Ring",
+        "Encke Smudge",
+        "November Sky",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 180
+    },
+    {
+      "id": "ephnov02-leonid-meteor-shower-observing-challenges",
+      "documentId": "ephnov02",
+      "title": "Leonid Meteor Shower Observing Challenges",
+      "summary": "The article provides advice for observing the Leonid Meteor Shower under the challenging conditions of a full Moon, suggesting strategies like using a Moon filter and a baseball cap to minimize glare. It also includes an extensive section detailing deep-sky observing targets for November 2002, featuring various galaxies, nebulae, and clusters in constellations such as Cetus, Sculptor, Andromeda, and Cassiopeia, complete with specific observer reports and tips.",
+      "categories": [
+        "Observing Guides",
+        "Meteor Showers",
+        "Deep Sky Astronomy",
+        "Lunar Observing",
+        "Amateur Astronomy Reports"
+      ],
+      "keywords": [
+        "Leonid Meteor Shower",
+        "Full Moon",
+        "Meteor Observing",
+        "Lunar Observing",
+        "Deep Sky Objects",
+        "Galaxies",
+        "Planetary Nebulae",
+        "Globular Clusters",
+        "Observing Tips",
+        "Telescope Equipment",
+        "Cetus",
+        "Andromeda"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephnov02-deep-sky-november",
+      "documentId": "ephnov02",
+      "title": "Deep Sky November",
+      "summary": "The article introduces Dinosaur Point as a prime dark-sky observing site for south bay amateur astronomers, particularly good between October and March. Access requires special arrangements, often coordinated through TAC's mailing list, and casual visits are discouraged. The site offers amenities like a paved lot, picnic benches, and bathrooms, located at the summit of Pacheco Pass.",
+      "categories": [
+        "Observing Sites",
+        "Amateur Astronomy",
+        "Location Guide",
+        "Community Information"
+      ],
+      "keywords": [
+        "Dinosaur Point",
+        "Dark sky",
+        "Observing site",
+        "Amateur astronomers",
+        "South Bay",
+        "Pacheco Pass",
+        "TAC mailing list",
+        "November"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephnov02-celestial-calendar-november-2002",
+      "documentId": "ephnov02",
+      "title": "Celestial Calendar November 2002",
+      "summary": "This document features a celestial calendar for November 2002, detailing lunar phases, planet positions, and observing conditions. It also reports on the successful Calstar star party organized by the San Jose Astronomical Association (SJAA), including suggestions for future improvements. Additionally, it announces a public lecture by Nobel laureate Dr. Arno Penzias on \"A Personal View of the Big Bang\" scheduled for November 13, 2002, at Foothill College.",
+      "categories": [
+        "Celestial Calendar",
+        "Astronomical Events",
+        "Observing Report",
+        "Star Party",
+        "Public Lecture",
+        "News"
+      ],
+      "keywords": [
+        "November 2002",
+        "Lunar Phases",
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Calstar",
+        "SJAA",
+        "Star Party",
+        "Arno Penzias",
+        "Nobel Prize",
+        "Big Bang",
+        "Astronomy Lecture",
+        "Foothill College",
+        "NASA Ames",
+        "SETI Institute"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephnov02-sjaa-loaner-scope-status",
+      "documentId": "ephnov02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article details the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program, available to all members. It provides lists of telescopes currently available for immediate loan, those currently on loan with their due dates, and scopes with extended loan periods. The document also includes contact information for borrowing a scope and a waiting list for popular equipment.",
+      "categories": [
+        "Membership Services",
+        "Equipment Lending Program",
+        "Organizational Update",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope Program",
+        "Astronomy Equipment",
+        "Telescope Loan",
+        "Membership Benefits",
+        "Dobson",
+        "Refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Star Spectroscope",
+        "Waiting List"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0211/EphNov02.pdf",
+      "txtPath": "0211/EphNov02.md"
+    }
+  ]
+}

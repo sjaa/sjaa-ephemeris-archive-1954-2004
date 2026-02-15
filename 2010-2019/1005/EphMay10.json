@@ -1,0 +1,162 @@
+{
+  "articles": [
+    {
+      "id": "ephmay10-a-menagerie-of-mad-moons",
+      "documentId": "ephmay10",
+      "title": "A Menagerie of Mad Moons",
+      "summary": "This article details celestial observations for May, primarily focusing on Saturn and its diverse collection of moons, from bright Titan to elusive 'flying saucer' shaped Pan and Atlas. It discusses their unique characteristics and observability with different telescopes. Additionally, it provides guidance on observing Venus, Mars, and other planets visible in both evening and morning skies.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Celestial Events",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Saturn",
+        "moons",
+        "Titan",
+        "Iapetus",
+        "Rhea",
+        "Tethys",
+        "Dione",
+        "Enceladus",
+        "Pan",
+        "Atlas",
+        "rings",
+        "Venus",
+        "Mars",
+        "telescope",
+        "observing",
+        "May sky",
+        "Cassini spacecraft",
+        "methane cycle"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephmay10-a-rock-hound-is-born",
+      "documentId": "ephmay10",
+      "title": "A Rock Hound is Born",
+      "summary": "NASA's Mars rover Opportunity received a significant software upgrade, called AEGIS, enabling it to autonomously identify and target interesting rocks for close-up imaging without human intervention. This new \"rock hound\" capability, developed by JPL's Artificial Intelligence Group, enhances the rover's geological exploration prowess and strengthens the human-robot partnership, allowing for more efficient scientific discovery on Mars.",
+      "categories": [
+        "Space Exploration",
+        "Robotics",
+        "Artificial Intelligence",
+        "Planetary Science",
+        "Mars Mission",
+        "Technology News"
+      ],
+      "keywords": [
+        "Opportunity rover",
+        "Mars",
+        "AEGIS software",
+        "Autonomous exploration",
+        "Geology",
+        "Rock identification",
+        "NASA",
+        "JPL",
+        "Software upgrade",
+        "Tara Estlin"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephmay10-photos",
+      "documentId": "ephmay10",
+      "title": "Photos",
+      "summary": "This article showcases photos and summaries of recent San Jose Astronomical Association (SJAA) general meetings, featuring various guest speakers discussing topics from meteorite hunting and astrophotography to the Milky Way's structure. It also provides details for the upcoming annual SJAA Yosemite Public Star Party, scheduled for September 3-5, inviting members to volunteer their telescopes at Glacier Point for public events.",
+      "categories": [
+        "Club News",
+        "Astronomical Events",
+        "Presentations",
+        "Observing Events",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meeting",
+        "Yosemite Public Star Party",
+        "Glacier Point",
+        "Meteorite hunting",
+        "Apochromats",
+        "Project ASTRO",
+        "Milky Way structure",
+        "Amateur astrophotography",
+        "Peter Jenniskens",
+        "Constance Rockosi",
+        "Rogelio Bernal Andreo",
+        "Lick Observatory",
+        "Public outreach"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephmay10-the-last-month-in-astronomy",
+      "documentId": "ephmay10",
+      "title": "The Last Month in Astronomy",
+      "summary": "This article summarizes significant astronomical and scientific news from March-April 2010, featuring new discoveries across the solar system and beyond. Highlights include evidence of active volcanoes on Venus, atmospheric changes on Triton, and a planet-like object around a brown dwarf challenging formation models, alongside technological advancements like NASA's Global Hawk flights, forensic studies of supernova Cassiopeia A, and initial results from the Planck spacecraft and LHC.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Space Exploration",
+        "Scientific Discoveries",
+        "Astrophysics",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Venus Express",
+        "Volcanoes",
+        "Global Hawk",
+        "Triton",
+        "Brown Dwarf",
+        "Supernova",
+        "Cassiopeia A",
+        "Light Echoes",
+        "LHC",
+        "Planck spacecraft",
+        "Infrared Astronomy"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephmay10-it-must-be-astronomical",
+      "documentId": "ephmay10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article, 'It Must Be Astronomical...', from the SJAA Ephemeris newsletter, provides updates on the San Jose Astronomical Association's activities. It highlights the availability of a telescope loaner program, announces the re-election of current officers, and lists several upcoming astronomical events including the Golden State Star Party, SETIcon, SJAA Yosemite Public Star Party, and CalStar. Additionally, the article features an astronomy Q&A about the closest black hole and lists contact information for SJAA officers and staff.",
+      "categories": [
+        "Community News",
+        "Events",
+        "Education",
+        "Organizational Updates",
+        "Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescope loaner program",
+        "elections",
+        "Golden State Star Party",
+        "SETIcon",
+        "Yosemite Public Star Party",
+        "CalStar",
+        "black holes",
+        "astronomy Q&A",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 161
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephmay10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1005/EphMay10.pdf",
+      "txtPath": "1005/EphMay10.md"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-22-03-sjaa-annual-awards-and-board-elections",
+      "documentId": "ephemeris-22-03",
+      "title": "SJAA Annual Awards and Board Elections",
+      "summary": "The SJAA announced the results of its annual board elections and awards at its February 19th, 2022 meeting, held online due to COVID-19. Rob Jaworski, Wolf Witt, and Glenn Newell were reelected, and Steven Nelson was elected to the Board. Peter Melhus was honored with the SJAA Award for his dedicated service, and President Ken Miura announced his upcoming transition from the presidency while continuing as a director.",
+      "categories": [
+        "Organizational News",
+        "Awards",
+        "Elections",
+        "Community Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Elections",
+        "Annual Awards",
+        "Peter Melhus",
+        "Ken Miura",
+        "Volunteer Service",
+        "Amateur Astronomy Community",
+        "Rob Jaworski",
+        "Wolf Witt",
+        "Glenn Newell",
+        "Steven Nelson"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-22-03-call-for-volunteers-and-open-positions",
+      "documentId": "ephemeris-22-03",
+      "title": "Call for Volunteers and Open Positions",
+      "summary": "The SJAA is issuing a call for volunteers to fill open positions, including executive committee officer roles such as President, Vice President, Secretary, and Treasurer. Additionally, the organization seeks program leaders for initiatives like Donations, QuickSTARt, School Star Party, and Armchair. Officer elections are scheduled for March 19, with a deadline of March 8 for interested members to contact the secretary.",
+      "categories": [
+        "Volunteering",
+        "Organization News",
+        "Elections",
+        "Community Engagement",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "SJAA",
+        "volunteers",
+        "open positions",
+        "officer elections",
+        "program leaders",
+        "executive committee",
+        "President",
+        "Vice President",
+        "Secretary",
+        "Treasurer",
+        "Donations",
+        "QuickSTARt",
+        "School Star Party",
+        "Armchair",
+        "March 8 deadline",
+        "March 19 election"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-22-03-how-dark-matter-could-be-measured-in-the-solar-system",
+      "documentId": "ephemeris-22-03",
+      "title": "How Dark Matter Could Be Measured in the Solar System",
+      "summary": "A new study calculates how dark matter's gravity affects objects in our solar system and proposes a future experiment to directly measure its influence. Researchers predict dark matter contributes significantly to the 'galactic force' in the outer solar system, subtly altering spacecraft trajectories and potentially impacting distant comets or the hypothetical Planet 9. The proposed experiment involves a spacecraft dropping a reflective ball at 100 astronomical units to isolate and measure dark matter's gravitational pull.",
+      "categories": [
+        "Astrophysics",
+        "Space Exploration",
+        "Scientific Research",
+        "Cosmology",
+        "Future Missions"
+      ],
+      "keywords": [
+        "Dark Matter",
+        "Solar System",
+        "Gravity",
+        "Galactic Force",
+        "Spacecraft",
+        "Measurement",
+        "Experiment",
+        "Oort Cloud",
+        "Voyager",
+        "Interstellar Probe",
+        "NASA",
+        "Milky Way",
+        "Astronomical Units",
+        "Planet 9",
+        "Oumuamua"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-22-03-nasa-asteroid-tracking-system-now-capable-of-full-sky-search",
+      "documentId": "ephemeris-22-03",
+      "title": "NASA Asteroid Tracking System Now Capable of Full Sky Search",
+      "summary": "NASA's Asteroid Terrestrial-impact Last Alert System (ATLAS) has achieved full-sky search capability, becoming the first system to scan the entire dark sky every 24 hours for near-Earth objects (NEOs). This milestone was reached by expanding from two telescopes in Hawai'i to include two new observatories in South Africa and Chile, significantly enhancing planetary defense efforts. ATLAS plays a critical role in detecting potential impact hazards and complements other NASA initiatives like the DART mission and the NEO Surveyor space telescope.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Planetary Defense",
+        "Space Technology",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "NASA",
+        "ATLAS",
+        "Asteroid tracking",
+        "Near-Earth Objects (NEOs)",
+        "Planetary Defense Coordination Office (PDCO)",
+        "Telescopes",
+        "Full sky search",
+        "DART",
+        "NEO Surveyor",
+        "University of Hawai'i"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-22-03-a-gallery-of-celestial-objects",
+      "documentId": "ephemeris-22-03",
+      "title": "A Gallery of Celestial Objects",
+      "summary": "This article highlights the importance of observing celestial objects across the entire electromagnetic spectrum, showcasing how data from various telescopes, including recent missions like JWST and IXPE, are combined. It presents a gallery of cosmic objects—R Aquarii, Cassiopeia A, Guitar Nebula, and Abell 2597—to illustrate how X-ray data from NASA's Chandra X-ray Observatory, integrated with optical and radio observations, provides unique insights into energetic processes throughout the universe.",
+      "categories": [
+        "Astrophysics",
+        "Observing Reports",
+        "Celestial Objects",
+        "Space Missions",
+        "Telescopes",
+        "Multi-wavelength Astronomy"
+      ],
+      "keywords": [
+        "X-ray astronomy",
+        "Chandra X-ray Observatory",
+        "Electromagnetic spectrum",
+        "James Webb Space Telescope",
+        "IXPE",
+        "Hubble Space Telescope",
+        "R Aquarii",
+        "Cassiopeia A",
+        "Guitar Nebula",
+        "Abell 2597",
+        "Supernova remnants",
+        "Pulsars",
+        "Galaxy clusters",
+        "Black holes",
+        "White dwarfs",
+        "Red giants",
+        "NASA"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-22-03-hubble-examines-a-star-forming-chamaeleon",
+      "documentId": "ephemeris-22-03",
+      "title": "Hubble Examines a Star-Forming Chamaeleon",
+      "summary": "The Hubble Space Telescope imaged Chamaeleon Cloud I, a segment of the 65-light-year wide Chamaeleon Cloud Complex, revealing active star formation with dusty clouds, reflection nebulae, and Herbig-Haro objects. Hubble's observations in this region were part of a search for extremely dim, low-mass brown dwarfs, leading to the discovery of six new candidates that help astronomers understand these 'failed stars'.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Research",
+        "Space Science News",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Chamaeleon Cloud Complex",
+        "Chamaeleon Cloud I",
+        "Star Formation",
+        "Protostars",
+        "Herbig-Haro objects",
+        "Brown Dwarfs",
+        "Reflection Nebulae",
+        "NASA",
+        "ESA"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-22-03-from-the-board-of-directors",
+      "documentId": "ephemeris-22-03",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) is monitoring the COVID-19 situation in Santa Clara County, potentially canceling events involving close contact and shared telescope surfaces. The article also announces the reelection of three board members, the election of Steven Nelson to the board, and upcoming online officer elections for President, Vice-President, Treasurer, and Secretary. Additionally, the SJAA is seeking volunteers to resume its public outreach programs, specifically the Starry Nights Program.",
+      "categories": [
+        "Announcements",
+        "Organizational Updates",
+        "Event Status",
+        "Elections",
+        "Volunteer Opportunities",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "COVID-19",
+        "Coronavirus",
+        "Santa Clara County",
+        "Event Cancellations",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Board of Directors",
+        "Officer Elections",
+        "Volunteers",
+        "Public Outreach Programs",
+        "Starry Nights Program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-22-03-board-meeting-excerpts-and-association-announcements",
+      "documentId": "ephemeris-22-03",
+      "title": "Board Meeting Excerpts and Association Announcements",
+      "summary": "SJAA Board Meeting excerpts from December 2021 to February 2022 highlight discussions on potential collaborations with West Valley College for meetings and star parties, along with planning for in-town public Electronically Assisted Astronomy (EAA) events and enforcing minor attendance policies. Key announcements include the addition of the 'International Observe the Moon' event to the 2022 calendar, election results for board members, Peter Meihus as the SJAA Award Winner, and Nancy Lieu as the new Volunteer Coordinator. Funds were also allocated for the solar program, and upcoming officer elections were scheduled.",
+      "categories": [
+        "Board Meetings",
+        "Club Governance",
+        "Event Planning",
+        "Public Outreach",
+        "Policy Updates",
+        "Awards & Recognition",
+        "Financial Decisions"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "West Valley College",
+        "Star Party",
+        "International Observe the Moon",
+        "EAA",
+        "COVID Protocols",
+        "Minor Policy",
+        "Elections",
+        "Peter Meihus",
+        "SJAA Award",
+        "Volunteer Coordinator",
+        "Solar Program",
+        "Funding"
+      ],
+      "pageStart": 2,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-22-03-sjaa-programs-and-resources",
+      "documentId": "ephemeris-22-03",
+      "title": "SJAA Programs and Resources",
+      "summary": "The article outlines various programs and resources offered by the San Jose Astronomical Association (SJAA) to engage its members and the community in astronomy. These include educational initiatives for beginners, specialized workshops and interest groups for astrophotography, telescope repair services, and opportunities for observational astronomy. Additionally, SJAA provides a library and an equipment loaner program to support astronomical learning and exploration.",
+      "categories": [
+        "Educational Programs",
+        "Observing Events",
+        "Member Resources",
+        "Technical Support",
+        "Special Interest Groups",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy education",
+        "Telescope repair",
+        "Solar observing",
+        "Astrophotography",
+        "Beginner astronomy",
+        "Night sky viewing",
+        "Equipment loan",
+        "Star parties",
+        "Library",
+        "Amateur astronomy",
+        "Collimation",
+        "Workshops",
+        "Field clinics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-22-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2203/Ephemeris_22-03.pdf",
+      "txtPath": "2203/Ephemeris_22-03.md"
+    }
+  ]
+}

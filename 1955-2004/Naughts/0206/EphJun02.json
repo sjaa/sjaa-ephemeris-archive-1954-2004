@@ -1,0 +1,148 @@
+{
+  "articles": [
+    {
+      "id": "ephjun02-constellations",
+      "documentId": "ephjun02",
+      "title": "Constellations",
+      "summary": "This document reviews 'The Starlore Handbook,' a book providing an accessible guide to the 88 constellations, their mythology, and how to locate them with the naked eye and binoculars. It also offers historical insights into celestial cartography, featuring a list of significant star atlases and an anecdote about the constellation Cor Caroli. Additionally, the document provides detailed directions to Houge Park in San Jose, a location used for public star parties.",
+      "categories": [
+        "Book Review",
+        "Astronomy Guide",
+        "Historical Astronomy",
+        "Celestial Cartography",
+        "Observing Location",
+        "Event Logistics"
+      ],
+      "keywords": [
+        "Constellations",
+        "The Starlore Handbook",
+        "Star maps",
+        "Mythology",
+        "Naked eye astronomy",
+        "Binoculars",
+        "Star atlases",
+        "Cor Caroli",
+        "Houge Park",
+        "Star parties",
+        "Directions",
+        "Polaris",
+        "Big Dipper",
+        "Planets"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun02-bad-moon-on-the-rise",
+      "documentId": "ephjun02",
+      "title": "Bad Moon On The Rise",
+      "summary": "This article discusses an upcoming challenging lunar observing opportunity on June 21st (Solstice), when the Moon will be low in the sky, nearly full, and likely subject to poor 'seeing' conditions. Despite these difficulties, the author encourages observers to look for fun, to understand orbital mechanics, and to enjoy the pleasant summer evening. The article also provides general tips for summer lunar observing, recommending nightly checks for good seeing and suggesting low-power identification with a reference book when conditions are poor.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Lunar Observing Tips",
+        "Events"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar Observing",
+        "Solstice",
+        "June 21",
+        "Seeing conditions",
+        "Telescope",
+        "Summer observing",
+        "Orbital dynamics",
+        "Mare Humorum",
+        "Cherrington's Moon Through Binoculars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun02-observing-projects-and-challenges",
+      "documentId": "ephjun02",
+      "title": "Observing Projects and Challenges",
+      "summary": "This article features an amateur astronomer's attempt to determine longitude using Jupiter's moon occultations and outlines the full theoretical process. It also provides a detailed observing report of a Messier Marathon event, highlighting equipment challenges and successes in locating various deep-sky objects. Additionally, the document includes announcements for an upcoming star party and a call for volunteers for an astronomy education program.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Events",
+        "Astronomy Education",
+        "Technical Astronomy"
+      ],
+      "keywords": [
+        "Longitude calculation",
+        "Jupiter's moons",
+        "Messier Marathon",
+        "Deep-sky observing",
+        "Star party",
+        "Clock synchronization",
+        "Telescope use",
+        "Astronomy outreach",
+        "Ephemeris"
+      ],
+      "pageStart": 3,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun02-sjaa-auction-xxii-results",
+      "documentId": "ephjun02",
+      "title": "SJAA Auction XXII Results",
+      "summary": "The SJAA Auction XXII generated a grand total net profit of $1,247.41. This profit was derived from commissions on the auction ($952.41) and swap ($286.60), as well as a small profit from soda sales. The event saw participation from 42 bidders.",
+      "categories": [
+        "Event Report",
+        "Financial Report",
+        "Auction Results",
+        "Organization News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Auction XXII",
+        "financial results",
+        "profit",
+        "commission",
+        "bidders",
+        "swap",
+        "soda sales"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun02-sjaa-loaner-scope-status",
+      "documentId": "ephjun02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides an update on its loaner telescope program, detailing the current availability status of various scopes for its members. The document categorizes scopes as immediately available, currently on loan with due dates, or on extended loan. Members interested in borrowing a telescope or inquiring about the waiting list are directed to contact Mike Koop.",
+      "categories": [
+        "Club News",
+        "Equipment Loan Program",
+        "Membership Services",
+        "Status Report"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy equipment",
+        "availability",
+        "loan status",
+        "Dobson",
+        "refractor",
+        "Schmidt-Cassegrain",
+        "Mike Koop",
+        "astronomy club"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0206/EphJun02.pdf",
+      "txtPath": "0206/EphJun02.md"
+    }
+  ]
+}

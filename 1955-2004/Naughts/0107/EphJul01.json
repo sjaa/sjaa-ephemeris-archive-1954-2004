@@ -1,0 +1,202 @@
+{
+  "articles": [
+    {
+      "id": "ephjul01-san-francisco-weather",
+      "documentId": "ephjul01",
+      "title": "San Francisco Weather",
+      "summary": "The article by Jane Houston Jones explores the unique and often \"wacky\" microclimates of the San Francisco Bay Area, detailing how the region's complex geography, including mountain ranges and the bay, creates distinct weather patterns. It explains how marine air is channeled inland through various 'gaps' in the Coast Range, leading to localized fog and wind variations. The author suggests that understanding these weather dynamics, such as seeking higher elevations, can greatly benefit local stargazers.",
+      "categories": [
+        "Local Weather",
+        "Microclimates",
+        "Astronomy",
+        "Observing Tips",
+        "Events",
+        "Newsletter"
+      ],
+      "keywords": [
+        "San Francisco Bay Area",
+        "Weather patterns",
+        "Microclimates",
+        "Fog",
+        "Wind",
+        "Coast Range",
+        "Golden Gate",
+        "Stargazing",
+        "Astronomy",
+        "Inversion layer",
+        "Mount Tamalpais",
+        "SJAA",
+        "Star party",
+        "El Niño",
+        "La Niña",
+        "Pioneer 10"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjul01-celebrate-aphelion",
+      "documentId": "ephjul01",
+      "title": "Celebrate Aphelion",
+      "summary": "The article highlights July's astronomical events, starting with Earth's aphelion on July 4th. Mars is a central focus, remaining exceptionally bright and large throughout the month, offering prime viewing opportunities for surface details and nearby deep-sky objects. The piece also details observing prospects for other planets, including Neptune's opposition, and a notable daytime occultation of Venus by the Moon on July 17th.",
+      "categories": [
+        "observing guide",
+        "current astronomical events",
+        "planetary astronomy",
+        "sky watching"
+      ],
+      "keywords": [
+        "Aphelion",
+        "Mars",
+        "Opposition",
+        "Planetary observation",
+        "Deep-sky objects",
+        "Moon occultation",
+        "Venus",
+        "Neptune",
+        "Uranus",
+        "Pluto",
+        "Jupiter",
+        "Saturn",
+        "Mercury",
+        "July",
+        "Northern hemisphere observing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul01-walking-on-the-moon",
+      "documentId": "ephjul01",
+      "title": "Walking On The Moon",
+      "summary": "Dave North recounts his visit to the Cinder Cone in Lassen National Park, emphasizing its striking similarities to lunar landscapes, such as its symmetry, steepness, and double crater. He suggests that exploring such terrestrial volcanic features offers an accessible way to experience \"walking on the Moon\" due to their shared geological characteristics. The document also includes a brief announcement for a talk by Greg Laughlin on the future of the Solar System.",
+      "categories": [
+        "Geology",
+        "National Parks",
+        "Analog Observing",
+        "Astronomy News",
+        "Events"
+      ],
+      "keywords": [
+        "Cinder Cone",
+        "Lassen National Park",
+        "Moon",
+        "Lunar geology",
+        "Volcanism",
+        "Terrestrial analogues",
+        "Geological features",
+        "Erosion",
+        "Greg Laughlin",
+        "Solar System evolution",
+        "Planet formation",
+        "Astronomy talks"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjul01-sjaa-contributes-to-under-african-skies-education-program",
+      "documentId": "ephjul01",
+      "title": "SJAA Contributes to \"Under African Skies\" Education Program",
+      "summary": "The San Jose Astronomical Association (SJAA) contributed to the \"Under African Skies\" education program, led by Stanford graduate student Kevin Hand, which aims to teach science, technology, and peaceful uses of outer space to schools across Africa. The article also provides directions to Houge Park for SJAA events, including public star parties, and announces a donation of astronomical magazines and space-themed tee-shirts to the association by Patty Winter.",
+      "categories": [
+        "News",
+        "Community Outreach",
+        "Education",
+        "Astronomy Club Activities",
+        "Donations",
+        "Event Logistics"
+      ],
+      "keywords": [
+        "SJAA",
+        "Under African Skies",
+        "Education program",
+        "Science education",
+        "Space technology",
+        "Kevin Hand",
+        "Donation",
+        "Houge Park",
+        "Star parties",
+        "Astronomical magazines",
+        "Patty Winter",
+        "Africa"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjul01-celestial-calendar-july-2001",
+      "documentId": "ephjul01",
+      "title": "Celestial Calendar July 2001",
+      "summary": "This document, the \"Celestial Calendar July 2001,\" serves as a comprehensive astronomical guide for the month. It provides detailed data on lunar phases, positions and magnitudes for Mercury, Venus, Mars, Jupiter, and Saturn, alongside information on solar activity, hours of darkness, astronomical twilight, and sidereal time. The calendar also highlights specific events like the darkest Saturday night of the month, with relevant sunset, moonset, and twilight times.",
+      "categories": [
+        "calendar",
+        "astronomical data",
+        "observing guide",
+        "ephemeris",
+        "monthly report"
+      ],
+      "keywords": [
+        "Celestial Calendar",
+        "July 2001",
+        "Lunar Phases",
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Astronomical Twilight",
+        "Sidereal Time",
+        "Hours of Darkness",
+        "Full Moon",
+        "New Moon",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Observing"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjul01-sjaa-loaner-scope-status",
+      "documentId": "ephjul01",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA (San Jose Astronomical Association) offers a loaner scope program for its members, managed by Mike Koop. This document details the current status of various telescopes, categorizing them as immediately available, recently loaned with due dates, or on extended loan, with some units undergoing repair. Members can contact Mike Koop to borrow a scope or be placed on a waiting list for specific models.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan",
+        "Astronomy Resources",
+        "Program Status"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner scope",
+        "Telescope",
+        "Astronomy club",
+        "Equipment loan",
+        "Dobsonian",
+        "Refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Spectroscope",
+        "Solar scope",
+        "Member services",
+        "Availability",
+        "Waiting list"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0107/EphJul01.pdf",
+      "txtPath": "0107/EphJul01.md"
+    }
+  ]
+}

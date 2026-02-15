@@ -1,0 +1,231 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1404-adventures-of-a-stargazer",
+      "documentId": "ephemeris-1404",
+      "title": "Adventures of a Stargazer",
+      "summary": "This article recounts various unexpected and often humorous misadventures experienced by an amateur astronomer, Lee Hoglan, while pursuing stargazing and observatory building. From confusing authorities about his equipment and construction projects to rescuing horses from an accident and searching for his father's lost dentures, the anecdotes highlight the less glamorous but memorable sides of an astronomer's life. Despite these challenges, the author shares the unique experiences that come with the hobby.",
+      "categories": [
+        "Personal Account",
+        "Amateur Astronomy",
+        "Observing Challenges",
+        "Humor",
+        "Anecdotes"
+      ],
+      "keywords": [
+        "stargazing",
+        "amateur astronomy",
+        "observatory construction",
+        "misadventures",
+        "telescopes",
+        "law enforcement encounters",
+        "animal rescue",
+        "personal stories",
+        "DARC observatory",
+        "Sonotube Newtonian"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1404-sjaa-yosemite-star-party",
+      "documentId": "ephemeris-1404",
+      "title": "SJAA Yosemite Star Party",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual Yosemite Star Party at Glacier Point on July 25-26. Up to 30 participants will receive free admission and camping in exchange for leading public stargazing events on both evenings. This event, prioritizing SJAA members, offers rough camping conditions and coincides with a new moon for optimal viewing.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Yosemite National Park",
+        "Star Party",
+        "Glacier Point",
+        "Stargazing",
+        "New Moon",
+        "Camping",
+        "Public Events",
+        "Astronomy Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1404-big-bang-theory-new-evidence",
+      "documentId": "ephemeris-1404",
+      "title": "Big-Bang Theory: New Evidence",
+      "summary": "Scientists announced in March 2014 the discovery of indirect evidence for gravitational waves from the earliest moments of the universe, offering strong support for the cosmic inflation theory. This evidence comes from detecting a unique 'B-mode' polarization pattern in the cosmic microwave background using the BICEP2 telescope. If confirmed, this finding would be a monumental discovery, providing the oldest evidence of the universe's initial expansion, occurring a tiny fraction of a second after the Big Bang.",
+      "categories": [
+        "Scientific Discovery",
+        "Cosmology",
+        "Observational Astronomy",
+        "Physics Research",
+        "News"
+      ],
+      "keywords": [
+        "Big Bang Theory",
+        "Cosmic Inflation",
+        "Gravitational Waves",
+        "Cosmic Microwave Background (CMB)",
+        "B-mode Polarization",
+        "BICEP2 Telescope",
+        "Early Universe",
+        "John Kovac",
+        "Alan Guth",
+        "Harvard-Smithsonian Center for Astrophysics"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1404-hubble-witnesses-asteroid-s-mysterious-disintegration",
+      "documentId": "ephemeris-1404",
+      "title": "Hubble Witnesses Asteroid's Mysterious Disintegration",
+      "summary": "NASA's Hubble Space Telescope has documented the unprecedented disintegration of asteroid P/2013 R3 into as many as 10 smaller fragments within the asteroid belt. This slow, mysterious breakup, distinct from comets or collision events, is attributed to a subtle effect of sunlight gradually increasing the asteroid's rotation, causing its weakly structured interior to pull apart due to centrifugal force. The observation provides crucial evidence for a previously theorized mechanism of asteroid destruction, contributing to our understanding of small asteroid evolution and future meteoroid sources.",
+      "categories": [
+        "Astronomy",
+        "Asteroids",
+        "Observational Astronomy",
+        "Space Telescopes",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Asteroid disintegration",
+        "P/2013 R3",
+        "Asteroid belt",
+        "David Jewitt",
+        "Sunlight pressure",
+        "Centrifugal force",
+        "Meteoroids",
+        "Keck Observatory",
+        "Catalina Sky Survey",
+        "Pan STARRS"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1404-kid-spot",
+      "documentId": "ephemeris-1404",
+      "title": "KID SPOT",
+      "summary": "This 'Kid Spot' article provides engaging astronomy content, including space-themed jokes and a quiz. It features a 'Night Sky Challenge' for March 2014, highlighting celestial objects like Jupiter, Mars, and a total lunar eclipse. The main educational section offers a detailed exploration of the constellation Leo, discussing its mythology, prominent stars, and notable deep-sky objects, alongside its historical significance.",
+      "categories": [
+        "Educational Astronomy",
+        "Observing Guide",
+        "Constellation Analysis",
+        "Astronomy History & Mythology",
+        "Youth Engagement"
+      ],
+      "keywords": [
+        "Leo",
+        "Constellations",
+        "Regulus",
+        "Denebola",
+        "Night Sky Challenge",
+        "Jupiter",
+        "Mars",
+        "Lunar Eclipse",
+        "Sputnik",
+        "Hubble Space Telescope",
+        "Astronomy Education",
+        "Mythology",
+        "Messier Objects"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1404-club-updates",
+      "documentId": "ephemeris-1404",
+      "title": "Club Updates",
+      "summary": "This SJAA 'Club Updates' article details several member services and upcoming events. It announces the SJAA library's recent makeover, a wishlist for children's books, and accepts donations and feedback. It also highlights the Advanced Loaner Telescope Program for equipment evaluation, the Fix-It Program for repairs, and lists key upcoming events including the Cupertino Earth Day Festival, Astronomy Day, the Yosemite Star Party, and the Golden State Star Party. Additionally, there is an open board seat available.",
+      "categories": [
+        "Club News",
+        "Member Services",
+        "Events",
+        "Programs",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "SJAA Library",
+        "Advanced Loaner Telescope Program",
+        "Fix-It Program",
+        "Earth Day Festival",
+        "Astronomy Day",
+        "Yosemite Star Party",
+        "Golden State Star Party",
+        "Equipment Loan",
+        "Donations",
+        "Board Seat"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1404-board-meeting-excerpts-march-15-2014",
+      "documentId": "ephemeris-1404",
+      "title": "Board Meeting Excerpts March 15, 2014",
+      "summary": "The Board Meeting Excerpts from March 15, 2014, detail the selection of 2014 officers, including Rob Jaworski as President. Key upcoming events discussed include an In-Town Start Party at Bear Creek Stables on April 4th and a Total Lunar Eclipse Party scheduled for April 14-15. Additionally, plans were made to generate an announcement regarding a new book wish list for the Club library.",
+      "categories": [
+        "Meeting Minutes",
+        "Club News",
+        "Events",
+        "Organizational Updates"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "Officer Selection",
+        "Club Officers",
+        "Rob Jaworski",
+        "Lee Hoglan",
+        "Michael Packer",
+        "Teruo Utsumi",
+        "Bear Creek Stables",
+        "In-Town Start Party",
+        "Library",
+        "Book Wish List",
+        "Total Lunar Eclipse Party",
+        "Rich Neuschaefer",
+        "April 2014"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1404-sjaa-auction-2014",
+      "documentId": "ephemeris-1404",
+      "title": "SJAA Auction 2014",
+      "summary": "The 34th annual SJAA Auction was a significant success, generating over $6700 in transactions from approximately 50 bidders and 10 sellers for more than 100 lots, netting the club over $2600. The event, which ran smoothly with food and entertainment provided by new auctioneer Greg Claytor, brought substantial value to the amateur astronomy community in the Bay Area and Northern California.",
+      "categories": [
+        "Event Report",
+        "Fundraiser",
+        "Club Activity",
+        "Community Event"
+      ],
+      "keywords": [
+        "SJAA Auction 2014",
+        "Amateur astronomy",
+        "San Jose Astronomical Association",
+        "Fundraising",
+        "Telescopes",
+        "Bidding",
+        "Community outreach",
+        "Greg Claytor",
+        "Bay Area astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1404",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1404/Ephemeris.1404.pdf",
+      "txtPath": "1404/Ephemeris.1404.md"
+    }
+  ]
+}

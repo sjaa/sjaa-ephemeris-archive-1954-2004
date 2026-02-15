@@ -1,0 +1,365 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1312-president-s-message",
+      "documentId": "ephemeris-1312",
+      "title": "President's Message",
+      "summary": "The SJAA President's message outlines ongoing building renovations, including floor replacement in Building 1 to eliminate tripping hazards. It announces the successful establishment of a new dark sky observing site at Mendoza Ranch and highlights the continued success of the solar viewing and telescope repair (\"FixIt\") programs. The message also updates members on the club's newsletter, Ephemeris, which is back on track with new editors and a new section for younger members, while emphasizing the critical role of volunteers in all club activities.",
+      "categories": [
+        "Club Updates",
+        "Facilities",
+        "Observing Sites",
+        "Programs",
+        "Community Outreach",
+        "Volunteerism",
+        "Communications"
+      ],
+      "keywords": [
+        "SJAA",
+        "Building Renovations",
+        "Mendoza Ranch",
+        "Dark Sky Site",
+        "Solar Program",
+        "FixIt Days",
+        "Ephemeris Newsletter",
+        "Volunteers",
+        "Club Operations",
+        "Astronomy",
+        "Telescope Maintenance"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "ephemeris-1312-shallow-sky",
+      "documentId": "ephemeris-1312",
+      "title": "Shallow Sky",
+      "summary": "This article discusses the uncertain fate of Comet ISON following its perihelion pass, noting it likely won't be a spectacular sight but might still be visible in the dawn sky during early December. It also highlights Comet Lovejoy as another faint, circumpolar comet, and provides a guide to observing various planets including Saturn, Mars, Mercury, Venus, Uranus, Neptune, and Jupiter throughout December.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Planetary Astronomy",
+        "News Update"
+      ],
+      "keywords": [
+        "Comet ISON",
+        "Comet Lovejoy",
+        "December Sky",
+        "Observing",
+        "Planets",
+        "Dawn Sky",
+        "Evening Sky",
+        "Perihelion",
+        "Mars",
+        "Saturn",
+        "Mercury",
+        "Venus",
+        "Uranus",
+        "Neptune",
+        "Jupiter",
+        "Skywatching"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1312-guest-speaker-november-2013-dr-junwei-zhao",
+      "documentId": "ephemeris-1312",
+      "title": "Guest Speaker (November 2013): Dr. Junwei Zhao",
+      "summary": "The article reports on a guest speaker, Dr. Junwei Zhao, who discussed solar cycles and helioseismology, noting that solar cycle 24 is the weakest in a century. It also features a stunning new natural color image of Saturn from the Cassini spacecraft, capturing Saturn, its rings, moons, Earth, Venus, and Mars in a single frame, highlighting the mission's scientific contributions.",
+      "categories": [
+        "Guest Speaker",
+        "Solar Physics",
+        "Planetary Science",
+        "Space Exploration",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Dr. Junwei Zhao",
+        "Solar cycles",
+        "Helioseismology",
+        "Sunspots",
+        "Solar Cycle 24",
+        "Cassini spacecraft",
+        "Saturn",
+        "Rings",
+        "Moons",
+        "Earth",
+        "Venus",
+        "Mars",
+        "NASA",
+        "Space Science Institute"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1312-two-missions-to-mars-maven-and-mangalyaan",
+      "documentId": "ephemeris-1312",
+      "title": "Two Missions to Mars – MAVEN and Mangalyaan",
+      "summary": "This article discusses two simultaneous missions to Mars: NASA's MAVEN, launched in November 2013, and India's Mangalyaan (Mars Orbiter Mission), both scheduled to reach Mars in September 2014. MAVEN will study the Martian atmosphere, while Mangalyaan will examine the planet's surface, atmosphere, satellites, and search for signs of life. Both space agencies anticipate their missions will complement each other's findings to enhance understanding of Mars.",
+      "categories": [
+        "news",
+        "space missions",
+        "planetary science",
+        "astronomy",
+        "international cooperation"
+      ],
+      "keywords": [
+        "MAVEN",
+        "Mangalyaan",
+        "Mars",
+        "NASA",
+        "ISRO",
+        "Mars Atmosphere and Volatile EvolutioN",
+        "Mars Orbiter Mission",
+        "space exploration",
+        "Martian atmosphere",
+        "Red Planet",
+        "satellite",
+        "Phobos",
+        "Deimos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1312-ice-cube-neutrino-observatory-bert-ernie-big-bird",
+      "documentId": "ephemeris-1312",
+      "title": "Ice Cube Neutrino Observatory – Bert, Ernie & Big Bird",
+      "summary": "The Ice Cube Neutrino Observatory in Antarctica has detected 28 high-energy cosmic neutrinos originating from beyond our solar system, marking the most energetic neutrinos ever observed. Discovered in November 2013, these subatomic particles, named Bert, Ernie, and Big Bird among others, travel at the speed of light and are unaffected by magnetic fields, pushing neutrino research to the forefront of astronomy.",
+      "categories": [
+        "News",
+        "Science",
+        "Astronomy",
+        "Discovery",
+        "Research"
+      ],
+      "keywords": [
+        "Ice Cube Neutrino Observatory",
+        "neutrinos",
+        "cosmic neutrinos",
+        "Antarctica",
+        "high energy neutrinos",
+        "Bert Ernie Big Bird",
+        "subatomic particles",
+        "astronomy research"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1312-blast-from-the-past-sjaa-ephemeris-march-2001",
+      "documentId": "ephemeris-1312",
+      "title": "Blast from the Past 🔭 — SJAA Ephemeris March 2001",
+      "summary": "Vivek Mohan recounts his family's memorable experience renting a special 6\" Dobsonian telescope from the San Jose Astronomical Association's (SJAA) loaner program. They found the volunteer-built \"Signature Scope\" easy to transport and use, leading to captivating views of celestial objects like Jupiter, Saturn, the Moon, and the Orion Nebula. The article emphasizes the positive impact of the telescope on their family's astronomy interest and highlights the ongoing success of the SJAA's loaner program.",
+      "categories": [
+        "Observing Report",
+        "Personal Experience",
+        "Club Program",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "Dobsonian telescope",
+        "telescope loaner program",
+        "observing",
+        "star party",
+        "Orion Nebula",
+        "Jupiter",
+        "Saturn",
+        "Moon",
+        "Andromeda Galaxy",
+        "Signature Scope"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1312-kid-spot",
+      "documentId": "ephemeris-1312",
+      "title": "KID SPOT",
+      "summary": "This 'Kid Spot' section features space-themed jokes and a short astronomy quiz with questions about light travel time and the zenith. It also includes a 'Night Sky Challenge' for December 2013, encouraging readers to locate celestial objects like Venus, Jupiter, Orion, Cassiopeia, Pleiades, and Aldebaran.",
+      "categories": [
+        "education",
+        "astronomy",
+        "observing challenges",
+        "entertainment",
+        "quiz"
+      ],
+      "keywords": [
+        "kid spot",
+        "jokes",
+        "quiz",
+        "night sky challenge",
+        "December 2013",
+        "Venus",
+        "Jupiter",
+        "Orion",
+        "Cassiopeia",
+        "Pleiades",
+        "Aldebaran",
+        "constellations",
+        "planets",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1312-constellations",
+      "documentId": "ephemeris-1312",
+      "title": "Constellations",
+      "summary": "The article details the constellation Cepheus, exploring its mythological origins as the husband of Cassiopeia and father of Andromeda, a figure from the Perseus legend who was turned to stone and placed among the stars. Astronomically, Cepheus is a circumpolar constellation visible year-round, home to the famous Delta Cephei variable star (a prototype Cepheid variable used for cosmic distance measurement) and rich in open clusters and nebulae, including NGC 188 and the Iris Nebula.",
+      "categories": [
+        "Astronomy",
+        "Mythology",
+        "Constellations",
+        "Variable Stars",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "Cepheus",
+        "Constellation",
+        "Greek Mythology",
+        "Cassiopeia",
+        "Andromeda",
+        "Perseus",
+        "Delta Cephei",
+        "Cepheid variables",
+        "Variable stars",
+        "Distance measurement",
+        "Circumpolar constellation",
+        "Star clusters",
+        "Nebulae",
+        "NGC 188",
+        "Iris Nebula",
+        "Milky Way"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1312-solar-observing-at-houge-park",
+      "documentId": "ephemeris-1312",
+      "title": "Solar Observing at Houge Park",
+      "summary": "This article details a successful solar observing session held at Houge Park, part of a monthly program, which saw a dedicated crowd despite the holiday weekend. Attendees observed a high sunspot count (104), various solar features like granularity, plage, faculae, and a notable Helix Prominence, using specialized equipment. The event showcased the dynamic nature of the Sun and attracted both club members and the public.",
+      "categories": [
+        "observing report",
+        "events",
+        "astronomy club activities",
+        "solar astronomy"
+      ],
+      "keywords": [
+        "solar observing",
+        "Houge Park",
+        "sunspots",
+        "prominences",
+        "granularity",
+        "Hershel Wedge",
+        "Continuum Filter",
+        "Wilson Effect",
+        "Comet ISON",
+        "H-Alpha Flares",
+        "astronomy event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-1312-holiday-gift-book-ideas",
+      "documentId": "ephemeris-1312",
+      "title": "Holiday Gift Book Ideas",
+      "summary": "This article provides a curated list of astronomy-themed books suitable as holiday gift ideas. The recommendations cater to a range of readers, from those interested in astronaut memoirs like Chris Hadfield's to practical guides for amateur astronomers, including compact star guides and comprehensive handbooks for both dark and urban skies. Featured titles include \"Collins Gem: Stars,\" \"Turn Left at Orion,\" \"The Backyard Astronomer's Guide,\" and \"The Urban Astronomer's Guide.\"",
+      "categories": [
+        "Book Recommendations",
+        "Gift Ideas",
+        "Astronomy Guides",
+        "Education"
+      ],
+      "keywords": [
+        "Holiday gifts",
+        "Astronomy books",
+        "Amateur astronomers",
+        "Stargazing",
+        "Night sky",
+        "Urban astronomy",
+        "Astronauts",
+        "Chris Hadfield",
+        "Collins Gem: Stars",
+        "Turn Left at Orion",
+        "The Backyard Astronomer's Guide",
+        "The Urban Astronomer's Guide",
+        "Book reviews"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1312-news",
+      "documentId": "ephemeris-1312",
+      "title": "News",
+      "summary": "This article details two exploratory trips by the San Jose Astronomical Association (SJAA) to potential dark sky observing sites. Ed Wong reports on a visit to Pinnacles National Park, highlighting its extremely dark skies (SQM 21.6-21.8) and potential for club use despite some horizon limitations. He also chronicles the SJAA's first official new moon viewing night at Mendoza Ranch, a newly accessible location praised for its very low horizons and good dark skies (SQM 21.2), alongside practical tips for observing.",
+      "categories": [
+        "Observing Reports",
+        "Club News",
+        "Site Reviews",
+        "Practical Advice"
+      ],
+      "keywords": [
+        "Pinnacles National Park",
+        "Mendoza Ranch",
+        "SJAA",
+        "Dark Sky",
+        "Astrophotography",
+        "Observing Sites",
+        "Light Pollution",
+        "SQM Meter",
+        "New Moon",
+        "Ed Wong"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1312-club-updates",
+      "documentId": "ephemeris-1312",
+      "title": "Club Updates",
+      "summary": "The San Jose Astronomical Association (SJAA) is experiencing program delays due to ongoing clubhouse construction at Houge Park, though the floor renovation is confirmed. The RASC Observers Handbook and Calendars are available for sale, and the club is preparing for its annual Board elections in February 2014 with several open positions. Additionally, the club is forming a volunteer recognition program and has rescheduled its swap meet.",
+      "categories": [
+        "Club Updates",
+        "Program Status",
+        "Facilities & Renovation",
+        "Governance & Elections",
+        "Merchandise & Sales",
+        "Volunteer Opportunities",
+        "Meeting Notes"
+      ],
+      "keywords": [
+        "SJAA",
+        "Clubhouse construction",
+        "Loaner Telescope Program",
+        "Quick STARt Program",
+        "RASC Handbooks",
+        "RASC Calendars",
+        "Board elections",
+        "Houge Park",
+        "Volunteer recognition",
+        "Swap meet",
+        "Beginner Class Instructor",
+        "December 2013"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1312",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1312/Ephemeris.1312.pdf",
+      "txtPath": "1312/Ephemeris.1312.md"
+    }
+  ]
+}

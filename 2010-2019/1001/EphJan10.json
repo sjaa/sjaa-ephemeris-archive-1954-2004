@@ -1,0 +1,226 @@
+{
+  "articles": [
+    {
+      "id": "ephjan10-2012-point-by-point",
+      "documentId": "ephjan10",
+      "title": "2012: Point by Point",
+      "summary": "This document features the San Jose Astronomical Association's activity calendar from late December through February, detailing general meetings, astronomy classes, and star parties, including speaker information. Additionally, it presents an article titled '2012: Point by Point' that systematically debunks popular doomsday predictions for December 21, 2012, addressing claims related to the Mayan Calendar, Planet Nibiru, galactic alignment, brown dwarfs, and alleged NASA cover-ups, reinforcing the importance of scientific skepticism.",
+      "categories": [
+        "Events",
+        "Astronomy Education",
+        "Skepticism",
+        "Local Astronomy Club News",
+        "Misconceptions",
+        "Science Communication"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy calendar",
+        "star party",
+        "general meeting",
+        "astronomy class",
+        "2012 predictions",
+        "doomsday",
+        "Mayan Calendar",
+        "Nibiru",
+        "galactic alignment",
+        "brown dwarfs",
+        "NASA",
+        "scientific debunking",
+        "astrophotography",
+        "meteor"
+      ],
+      "pageStart": 1,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan10-what-s-up-for-december-the-orion-nebula",
+      "documentId": "ephjan10",
+      "title": "What's Up for December? The Orion Nebula!",
+      "summary": "This article highlights the December 2009 \"What's Up\" podcast episode, which focused on the Orion Nebula and traced its observations from Galileo's time to the Hubble Telescope. As part of a series celebrating the International Year of Astronomy, the podcast explored 400 years of telescopic observations. The article also recaps other 2009 episodes that detailed the first observations of celestial objects like Venus, the Moon, Saturn, and the Whirlpool Galaxy.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy History",
+        "Astronomy Education",
+        "Podcasts",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Orion Nebula",
+        "International Year of Astronomy",
+        "Galileo",
+        "Telescopic Observations",
+        "Astronomy History",
+        "What's Up podcast",
+        "Venus",
+        "Moon",
+        "Saturn",
+        "Whirlpool Galaxy",
+        "Sunspots",
+        "Hubble Telescope"
+      ],
+      "pageStart": 2,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan10-the-shallow-sky",
+      "documentId": "ephjan10",
+      "title": "The Shallow Sky",
+      "summary": "The article details the January Mars opposition, noting it's a \"small\" one with Mars near aphelion, resulting in a 14.11\" apparent diameter. Despite this, observers are encouraged to seek out surface details like orographic clouds and dark regions, as Mars transits high and dust storms are unlikely due to it being northern spring. Practical observing tips are offered, along with a brief mention of other visible planets like Saturn and Uranus.",
+      "categories": [
+        "Events",
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Stargazing"
+      ],
+      "keywords": [
+        "Mars opposition",
+        "Planetary observing",
+        "Stargazing",
+        "Mars surface features",
+        "Astronomy tips",
+        "Saturn",
+        "Uranus",
+        "January sky",
+        "Aphelion",
+        "Orographic clouds"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan10-a-cosmic-crash",
+      "documentId": "ephjan10",
+      "title": "A Cosmic Crash",
+      "summary": "Astronomers using NASA's Spitzer Space Telescope have observed compelling evidence of a recent, massive collision between two planetary bodies around the distant star HD 172555. The detection of silicon monoxide gas and tektite rock indicates a high-speed impact that vaporized huge volumes of rock and ejected molten material, suggesting the colliding objects had a combined mass more than twice that of Earth's moon. This discovery provides further support for the theory that violent planet-altering collisions are common in other star systems, similar to those that shaped our own solar system.",
+      "categories": [
+        "Astronomy",
+        "Space Exploration",
+        "Planetary Science",
+        "Scientific Discovery",
+        "News"
+      ],
+      "keywords": [
+        "Cosmic collision",
+        "Spitzer Space Telescope",
+        "HD 172555",
+        "Planetary bodies",
+        "Silicon monoxide",
+        "Tektite",
+        "Extrasolar planets",
+        "Planet formation",
+        "Infrared astronomy",
+        "Solar system evolution",
+        "NASA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan10-what-s-up",
+      "documentId": "ephjan10",
+      "title": "What's Up",
+      "summary": "The article details a discovery by NASA's Spitzer Space Telescope of a high-speed collision between two celestial bodies around the young star HD 172555, providing evidence for early planet formation processes, similar to those that formed Earth's Moon and stripped Mercury's crust. Signatures of vaporized and melted rock were detected, supporting the theory that such impacts are crucial for planet development. Additionally, the document includes a series of brief historical astronomical facts and observation tips for various celestial objects and events from June 2009 to January 2010, marking the International Year of Astronomy.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Planet Formation",
+        "History of Astronomy",
+        "Observational Astronomy",
+        "Educational Resources"
+      ],
+      "keywords": [
+        "Spitzer Space Telescope",
+        "HD 172555",
+        "Celestial collision",
+        "Planet formation",
+        "Infrared light",
+        "Silicon monoxide",
+        "Obsidian",
+        "Mercury",
+        "Moon formation",
+        "Galileo",
+        "Charles Messier",
+        "Andromeda galaxy",
+        "Crab Nebula",
+        "Jupiter's moons",
+        "Meteor showers",
+        "International Year of Astronomy",
+        "Mars opposition",
+        "NASA",
+        "JPL"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan10-the-last-month-in-astronomy",
+      "documentId": "ephjan10",
+      "title": "The Last Month In Astronomy",
+      "summary": "Recent astronomical news highlights the discovery of four new super-massive black holes in active galactic nuclei using long-baseline interferometry, alongside significant findings of water on the Moon by the LCROSS mission. Mars missions face challenges, with the Spirit rover stuck and the MRO recovering from safe modes, while the mystery of methane concentrations on Mars continues. Additionally, the Large Hadron Collider has begun productive work, the Space Shuttle completed a successful year of missions, and oxygen was detected on two distant white dwarfs.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "Astrophysics Discoveries",
+        "Planetary Science",
+        "Space Missions",
+        "High-Energy Physics"
+      ],
+      "keywords": [
+        "Super-massive black holes",
+        "Active Galactic Nuclei (AGN)",
+        "Keck interferometer",
+        "Mars Rover Spirit",
+        "Mars Reconnaissance Orbiter (MRO)",
+        "Methane on Mars",
+        "Lunar water",
+        "LCROSS mission",
+        "White dwarfs",
+        "Large Hadron Collider (LHC)",
+        "Space Shuttle",
+        "Phil Plait"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan10-it-must-be-astronomical",
+      "documentId": "ephjan10",
+      "title": "It Must Be Astronomical...",
+      "summary": "This article from the San Jose Astronomical Association's (SJAA) newsletter highlights their telescope loaner program and provides resources to debunk the 2012 Doomsday hoax and the Nibiru myth, featuring experts like Neil deGrasse Tyson and Phil Plait. It also announces the upcoming 2010 board elections, lists current officers, and provides comprehensive contact information for the association and its monthly publication, Ephemeris.",
+      "categories": [
+        "Club Announcements",
+        "Public Education",
+        "Astronomy News",
+        "Club Governance",
+        "Member Resources",
+        "Science Communication"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Telescope Loaner Program",
+        "2012 Doomsday",
+        "Nibiru",
+        "Astronomy Hoaxes",
+        "Club Elections",
+        "Board of Directors",
+        "Ephemeris Newsletter",
+        "Public Education",
+        "Amateur Astronomy",
+        "Science Debunking"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1001/EphJan10.pdf",
+      "txtPath": "1001/EphJan10.md"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1906-president-s-note",
+      "documentId": "ephemeris-1906",
+      "title": "President's Note",
+      "summary": "SJAA President Swami Nigam addresses members, noting recent unfavorable weather but expressing anticipation for summer observing. He announces the results of the March officer elections, confirming his re-election as President, Rob Jaworski as Treasurer, and Sandy Mohan as Secretary, while thanking outgoing Secretary Rob Chapman for his service. The President also appeals for volunteers to fill the open Vice-President position and other newly created 'Leader' roles within the club.",
+      "categories": [
+        "Club Administration",
+        "News",
+        "Volunteer Opportunities",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "President's Note",
+        "Officer Elections",
+        "Volunteers",
+        "Club Governance",
+        "Swami Nigam",
+        "Rob Jaworski",
+        "Sandy Mohan",
+        "Rob Chapman",
+        "Vice-President position",
+        "Secretary",
+        "Treasurer",
+        "Astronomy Club"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1906-spring-swap-meet-recap",
+      "documentId": "ephemeris-1906",
+      "title": "Spring Swap Meet Recap",
+      "summary": "The late Spring SJAA Swap Meet was a successful event with near-capacity attendance, despite rain potentially affecting some participation. Attendees found good deals, and the club generated $540 from the swap meet itself and an additional $975 from donation sales. The next Swap Meet is scheduled for Sunday, October 13th.",
+      "categories": [
+        "Event Recap",
+        "News",
+        "Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Swap Meet",
+        "Spring Swap Meet",
+        "Event Recap",
+        "Donation Sales",
+        "October 13th"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1906-black-hole-image-makes-history",
+      "documentId": "ephemeris-1906",
+      "title": "Black Hole Image Makes History",
+      "summary": "Scientists have captured the first-ever image of a black hole and its shadow, a historic achievement by the Event Horizon Telescope (EHT) collaboration, focusing on the supermassive black hole in the M87 galaxy. This image, showing a bright ring of light around an extremely dense object, was made possible by an international network of radio telescopes working as one Earth-sized instrument. NASA spacecraft also contributed by observing the black hole's environment in various wavelengths, providing complementary data to understand its properties and the mystery of its powerful jets.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Scientific Discovery",
+        "Observational Science",
+        "Research News"
+      ],
+      "keywords": [
+        "Black hole image",
+        "Event Horizon Telescope (EHT)",
+        "M87 galaxy",
+        "Supermassive black hole",
+        "Radio astronomy",
+        "Multi-wavelength observations",
+        "NASA",
+        "Chandra X-ray Observatory",
+        "Black hole jets",
+        "Event horizon"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1906-nasa-s-lro-sheds-light-on-lunar-water-movement",
+      "documentId": "ephemeris-1906",
+      "title": "NASA's LRO sheds light on Lunar Water Movement",
+      "summary": "NASA's Lunar Reconnaissance Orbiter (LRO), using its LAMP instrument, has observed water molecules moving across the Moon's dayside, characterizing daily changes in lunar hydration. This research indicates that water molecules desorb and hop as surface temperatures peak, and importantly, the amount of observed water doesn't decrease when the Moon is shielded from solar wind, challenging previous assumptions about its direct source. These findings are crucial for understanding the lunar water cycle and its potential use by humans in future lunar missions.",
+      "categories": [
+        "Planetary Science",
+        "Space Exploration",
+        "Scientific Research",
+        "Mission Updates"
+      ],
+      "keywords": [
+        "NASA",
+        "LRO",
+        "Moon",
+        "Lunar Water",
+        "LAMP instrument",
+        "Lunar Hydration",
+        "Regolith",
+        "Solar Wind",
+        "Exosphere",
+        "Future Missions"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1906-kid-spot",
+      "documentId": "ephemeris-1906",
+      "title": "Kid Spot",
+      "summary": "This 'Kid Spot' article provides a blend of astronomy-themed entertainment and scientific updates. It features space-related jokes and a crossword puzzle designed for children, alongside an informative section detailing recent images from NASA's OSIRIS-REx spacecraft of asteroid Bennu's northern hemisphere, showcasing its rocky terrain and a regolith pond.",
+      "categories": [
+        "Kids Astronomy",
+        "Space Exploration",
+        "Astronomy News",
+        "Educational Content"
+      ],
+      "keywords": [
+        "Kids Spot",
+        "Astronomy jokes",
+        "OSIRIS-REx",
+        "Asteroid Bennu",
+        "Northern hemisphere",
+        "Spacecraft images",
+        "Regolith",
+        "Crossword puzzle",
+        "Planetary science",
+        "NASA mission"
+      ],
+      "pageStart": 11,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-1906-from-the-board-of-directors",
+      "documentId": "ephemeris-1906",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) Board of Directors announced Sandy Mohan as the new Secretary and confirmed July 26-27 for the Stars Over Yosemite party. The club is collaborating with the USS Hornet museum and the Tech Museum of Innovation for the 50th lunar landing anniversary and has an operational library for members. Board meetings detailed officer re-elections, successful outreach at Scout-o-Rama, ongoing efforts to address light pollution, and development of an outreach request policy.",
+      "categories": [
+        "Club Operations",
+        "Events",
+        "Outreach",
+        "Governance",
+        "Member Services",
+        "Partnerships"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Officer Elections",
+        "Sandy Mohan",
+        "Stars Over Yosemite",
+        "USS Hornet museum",
+        "Tech Museum of Innovation",
+        "Lunar Landing 50th Anniversary",
+        "SJAA Library",
+        "Scout-o-Rama",
+        "Outreach Policy",
+        "Light Pollution",
+        "QuickSTARt Program"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-1906-sjaa-library-programs",
+      "documentId": "ephemeris-1906",
+      "title": "SJAA Library & Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a wide range of resources and programs for its members and the community, including a library of astronomy books and DVDs. Key offerings encompass free telescope repair sessions, regular solar observing events, and beginner-friendly programs like Quick STARt and Intro to the Night Sky. Additionally, SJAA provides an equipment loaner program, specialized astrophotography groups and workshops, and conducts school star parties to foster interest in astronomy.",
+      "categories": [
+        "Astronomy Club Programs",
+        "Astronomy Education",
+        "Observational Astronomy",
+        "Astrophotography",
+        "Equipment Resources",
+        "Technical Support"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "astronomy library",
+        "telescope repair",
+        "solar observing",
+        "amateur astronomy",
+        "night sky",
+        "star parties",
+        "equipment loaner",
+        "astrophotography",
+        "astro imaging",
+        "beginner programs",
+        "community outreach",
+        "members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1906",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1906/Ephemeris.1906.pdf",
+      "txtPath": "1906/Ephemeris.1906.md"
+    }
+  ]
+}

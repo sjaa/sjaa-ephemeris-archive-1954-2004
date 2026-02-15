@@ -1,0 +1,237 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-24-06-introducing-director-2",
+      "documentId": "ephemeris-24-06",
+      "title": "Introducing Director 2",
+      "summary": "This article introduces Radhika Gupta, the new \"Director 2,\" who shares her lifelong passion for astronomy, cultivated through her background in physics and mathematics and a career in software engineering. She expresses her dedication to further exploring the universe with rigor and enthusiasm. The piece appears in the SJAA Ephemeris for March 2024.",
+      "categories": [
+        "introduction",
+        "personnel",
+        "news",
+        "magazine content"
+      ],
+      "keywords": [
+        "Radhika Gupta",
+        "Director 2",
+        "astronomy",
+        "physics",
+        "software engineer",
+        "SJAA EPHEMERIS",
+        "introduction",
+        "March 2024"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-24-06-introducing-astronomy-101-and-library-program-leaders",
+      "documentId": "ephemeris-24-06",
+      "title": "Introducing Astronomy 101 and Library Program Leaders",
+      "summary": "This article introduces Carl-Erik Svensson as the new Astro 101 Program Leader for SJAA, detailing his extensive amateur astronomy background including astrophotography, public outreach, and future observatory plans. It also presents David Kershaw as the new Librarian, highlighting his physics education, diverse engineering career, and prior library experience. Both individuals are new volunteer leaders within the organization.",
+      "categories": [
+        "News",
+        "Announcements",
+        "Volunteer Profiles",
+        "Club News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Carl-Erik Svensson",
+        "David Kershaw",
+        "SJAA",
+        "Astro 101 Program Leader",
+        "Librarian",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Public Outreach",
+        "Telescopes",
+        "Solar Eclipse",
+        "Observatory Build"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-24-06-observation-report-total-solar-eclipse",
+      "documentId": "ephemeris-24-06",
+      "title": "Observation Report Total Solar Eclipse",
+      "summary": "Joseph Fragola and his wife traveled 1,749 miles to Copperas Cove, Texas, to observe the total solar eclipse. Despite initial poor weather forecasts and cloudy conditions on eclipse day, breaks in the clouds allowed them to view totality, although the corona was somewhat muted. They continued to watch the partial phases and captured images using a Seestar S50.",
+      "categories": [
+        "observing report",
+        "astronomical event",
+        "personal account"
+      ],
+      "keywords": [
+        "total solar eclipse",
+        "eclipse observation",
+        "Copperas Cove",
+        "Texas",
+        "Seestar S50",
+        "totality",
+        "corona",
+        "weather conditions"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-24-06-marianne-s-meanderings",
+      "documentId": "ephemeris-24-06",
+      "title": "Marianne's Meanderings",
+      "summary": "The author recounts her successful 2024 total solar eclipse observation trip to China Spring, Texas, with family, motivated by a 2017 experience. Despite initial cloud anxiety, the group enjoyed clear views of totality, witnessing phenomena like Bailey's Beads and prominences through various filtered equipment. The experience fostered wonder, especially among the children, and concluded with a 'Planet Walk' activity.",
+      "categories": [
+        "observing report",
+        "personal narrative",
+        "astronomical event",
+        "travelogue",
+        "astronomy education"
+      ],
+      "keywords": [
+        "2024 Total Solar Eclipse",
+        "China Spring, Texas",
+        "Totality",
+        "Solar filters",
+        "Eclipse glasses",
+        "Bailey's Beads",
+        "Diamond Ring",
+        "Prominences",
+        "Planet Walk",
+        "Cloud anxiety",
+        "Family observation",
+        "Waco",
+        "BT-70",
+        "Celestron EclipseSmartTM",
+        "Pinhole projection"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-24-06-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-24-06",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This article presents a gallery of astrophotography images contributed by members of the SJAA (San Jose Astronomical Association). Each entry details a deep-sky object captured, such as galaxies and nebulae, along with comprehensive technical specifications including the imaging equipment (telescope, camera, mount), software used for processing, capture dates, and observation locations primarily in California. The gallery serves as a showcase of member talent and their astrophotography setups.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Observing Reports",
+        "Technical",
+        "Club Activity"
+      ],
+      "keywords": [
+        "astrophotography",
+        "deep-sky imaging",
+        "SJAA",
+        "telescope",
+        "camera",
+        "mount",
+        "image processing software",
+        "PixInsight",
+        "Adobe Photoshop",
+        "galaxy",
+        "nebula",
+        "Abell 2151",
+        "NGC 5005",
+        "NGC 5033",
+        "NGC 4565",
+        "Orion Nebula",
+        "California"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-24-06-solar-eclipse-trip",
+      "documentId": "ephemeris-24-06",
+      "title": "Solar Eclipse Trip",
+      "summary": "The author embarked on a 1,700-mile trip to Killeen, Texas, and later relocated to Grannis, Arkansas, to observe a solar eclipse. Despite initial poor weather forecasts and thick clouds on the day, a last-minute decision to move south led them to a patch of clear sky, allowing them to witness and photograph the total eclipse. They captured memorable photos even with a simplified setup, including views of the corona and prominences, and also used an H-alpha telescope upon returning to the campsite.",
+      "categories": [
+        "observing report",
+        "personal experience",
+        "astrophotography",
+        "events"
+      ],
+      "keywords": [
+        "solar eclipse",
+        "totality",
+        "Killeen Texas",
+        "Grannis Arkansas",
+        "weather",
+        "astrophotography",
+        "H-alpha telescope",
+        "corona",
+        "prominence"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-24-06-from-the-board-of-directors",
+      "documentId": "ephemeris-24-06",
+      "title": "From the Board of Directors",
+      "summary": "This article from the SJAA Board of Directors announces the re-election of the President, Secretary, and Treasurer, with the Vice President position remaining open. It details new appointments for Librarian and Astronomy 101 leader, along with several vacant volunteer positions, including Ephemeris Editors and Mendoza Ranch program leaders. Excerpts from recent board meetings highlight discussions on planning a swap meet, approving funds for solar equipment and a filter repair, and addressing resignations.",
+      "categories": [
+        "Board Governance",
+        "Announcements",
+        "Club Operations",
+        "Volunteer Opportunities",
+        "Financial Decisions",
+        "Event Planning"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Officer Elections",
+        "Volunteer Positions",
+        "Ephemeris Editor",
+        "Mendoza Ranch",
+        "Swap Meet",
+        "Funding",
+        "Astronomy Club",
+        "Meetup",
+        "Google Group"
+      ],
+      "pageStart": 2,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-24-06-sjaa-library",
+      "documentId": "ephemeris-24-06",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a diverse range of programs and resources designed for its members and the broader community. These include a library, free telescope repair sessions, regular solar observing events, and introductory programs like Quick STARt and Intro to the Night Sky. Additionally, SJAA provides an equipment loaner program, hosts an Astro Imaging Special Interest Group and workshops, and conducts school star parties, with many offerings exclusive to members to support astronomy enthusiasts.",
+      "categories": [
+        "Member Services",
+        "Educational Programs",
+        "Observing Events",
+        "Technical Support",
+        "Equipment Access",
+        "Special Interest Groups",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy programs",
+        "Telescope repair",
+        "Solar observing",
+        "Astrophotography",
+        "Beginner astronomy",
+        "Equipment loaner",
+        "Star parties",
+        "Member benefits",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-24-06",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2406/Ephemeris_24-06.pdf",
+      "txtPath": "2406/Ephemeris_24-06.md"
+    }
+  ]
+}

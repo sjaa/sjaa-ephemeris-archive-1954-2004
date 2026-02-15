@@ -1,0 +1,230 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb13-a-look-back-at-2012-for-the-sjaa",
+      "documentId": "ephfeb13",
+      "title": "A look back at 2012 for the SJAA",
+      "summary": "The San Jose Astronomical Association (SJAA) experienced a highly active 2012, launching and expanding several key programs including Quick STARt for new astronomers, a Solar Observing program with a new Lunt h-alpha telescope, Fix It sessions for gear assistance, and an Astro Imaging Special Interest Group. The club also secured a new dark-sky observing site at Rancho Cañada del Oro and celebrated numerous other accomplishments, such as hosting special viewing events, community outreach, revamping its telescope loaner program, and a 10% increase in membership.",
+      "categories": [
+        "Club Activities",
+        "Observing Programs",
+        "Education & Outreach",
+        "Community Engagement",
+        "Astrophotography",
+        "Club Administration"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "2012 review",
+        "Quick STARt program",
+        "Mentoring",
+        "Solar Observing",
+        "Lunt h-alpha telescope",
+        "Fix It session",
+        "Telescope repair",
+        "Astro Imaging SIG",
+        "Astrophotography",
+        "Rancho Cañada del Oro",
+        "Dark sky site",
+        "Venus Transit",
+        "Annular eclipse",
+        "Messier Half Marathon",
+        "Telescope loaner program",
+        "Membership growth",
+        "Houge Park"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephfeb13-planets-in-february",
+      "documentId": "ephfeb13",
+      "title": "Planets in February",
+      "summary": "This article provides an astronomical guide for February, detailing the visibility and notable events for various planets including Mercury, Venus, Mars, Jupiter, Saturn, Uranus, and Neptune. It also highlights the close approach of asteroid 2012 DA14, a lunar event with Spica, and potential viewing opportunities for comets ISON and PanSTARRS. Observers are encouraged to enjoy Jupiter's Galilean moon transits and observe Saturn's rings.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "February astronomy",
+        "Planetary viewing",
+        "Asteroid 2012 DA14",
+        "Mercury",
+        "Venus",
+        "Moon events",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Comets",
+        "Galilean moons",
+        "Saturn's rings",
+        "Night sky observation"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb13-nasa-space-place",
+      "documentId": "ephfeb13",
+      "title": "NASA Space Place",
+      "summary": "This article explains how spectacular space images, particularly those captured in non-visible light by telescopes like Spitzer, are created using a process called \"color translation\" rather than simple colorization. Scientists assign visible colors (like red, yellow, green, and blue) to different wavelengths of light detected by instruments, allowing them to visualize data and reveal details such as relative temperatures and structural features of celestial objects. The process involves converting grayscale images from individual detectors, each sensitive to a specific wavelength, into a composite image that makes complex cosmic phenomena comprehensible to the human eye.",
+      "categories": [
+        "Astronomy",
+        "Space Science",
+        "Image Processing",
+        "Technical Explanation",
+        "Science Communication",
+        "NASA"
+      ],
+      "keywords": [
+        "Space imagery",
+        "Image processing",
+        "Color translation",
+        "False color",
+        "Infrared light",
+        "Ultraviolet light",
+        "X-ray light",
+        "Visible light",
+        "Wavelengths",
+        "Spitzer Space Telescope",
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "Galaxy Evolution Explorer",
+        "IRAC",
+        "Detectors",
+        "Temperature mapping",
+        "Galaxies",
+        "Nebulae",
+        "Milky Way"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb13-so-long-and-thanks-for-all-the-fun",
+      "documentId": "ephfeb13",
+      "title": "So Long, And Thanks For All The Fun!",
+      "summary": "Mark Wagner, the SJAA President, announces his departure from the board of directors along with Rod Norden and Kevin Roberts after five years of service. He expresses gratitude for their contributions and emphasizes the importance of new, energized leadership to bring fresh ideas and prevent entrenchment within the club. Wagner recommends Rob Jaworski for the next president and suggests several active members for open board seats, looking forward to the SJAA's continued growth.",
+      "categories": [
+        "Club News",
+        "Leadership Transition",
+        "Volunteer Recognition",
+        "Internal Affairs"
+      ],
+      "keywords": [
+        "SJAA",
+        "Club President",
+        "Board of Directors",
+        "Leadership Change",
+        "Volunteer Service",
+        "Mark Wagner",
+        "Rod Norden",
+        "Kevin Roberts",
+        "Rob Jaworski",
+        "Astronomy Club",
+        "Club Growth",
+        "Annual Meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb13-school-star-parties-program",
+      "documentId": "ephfeb13",
+      "title": "School Star Parties Program",
+      "summary": "The San Jose Astronomical Association's (SJAA) School Star Parties program, led by Jim Van Nuland, relies on dedicated volunteers and a recent $500 grant from the City of San Jose, secured by Councilmember Donald Rocha, to cover essential insurance costs. The article provides an update on the program's activities, including statistics for completed and scheduled events for the 2012/2013 school year, highlighting its commitment to astronomy education within local schools. It also lists SJAA officers and contact information.",
+      "categories": [
+        "Community Outreach",
+        "Program Update",
+        "Funding",
+        "Education",
+        "Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "School Star Parties",
+        "San Jose",
+        "Grant",
+        "Astronomy Education",
+        "Volunteers",
+        "Insurance",
+        "Event Statistics"
+      ],
+      "pageStart": 5,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephfeb13-the-last-month-in-astronomy",
+      "documentId": "ephfeb13",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article summarizes recent astronomical discoveries and updates from December 2012 and January 2013. Key highlights include numerous exoplanet findings by projects like Kepler and Planet Hunters, including potentially habitable worlds. It also covers updates on the asteroid Apophis, the discovery of the most distant Type 1a Supernova, new insights into planetary systems like Vega's asteroid belts, and the identification of ultramassive black holes and an extragalactic microquasar.",
+      "categories": [
+        "Exoplanets",
+        "Solar System",
+        "Deep Space",
+        "Cosmology",
+        "Observational Astronomy",
+        "Space Missions",
+        "News",
+        "Citizen Science"
+      ],
+      "keywords": [
+        "Kepler",
+        "Planet Hunters",
+        "Exoplanets",
+        "Habitable Zone",
+        "Apophis",
+        "Asteroids",
+        "Supernovae",
+        "Dark Energy",
+        "Vega",
+        "Asteroid Belts",
+        "Mars",
+        "Meteorites",
+        "Black Holes",
+        "Microquasars",
+        "GRAIL Mission",
+        "Moon",
+        "Zooniverse"
+      ],
+      "pageStart": 6,
+      "pageEnd": 401
+    },
+    {
+      "id": "ephfeb13-it-must-be-astronomical",
+      "documentId": "ephfeb13",
+      "title": "It Must Be Astronomical ...",
+      "summary": "This article from the SJAA announces upcoming annual elections for its Board of Directors to be held at the February General meeting, encouraging nominations through Mark Wagner. It also highlights the revamp of its telescope loaner program, which now includes a QuickSTARt initiative specifically for new astronomy enthusiasts.",
+      "categories": [
+        "Club Business",
+        "Program Announcement",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "Elections",
+        "Board of Directors",
+        "SJAA",
+        "Telescope Loaner Program",
+        "QuickSTARt",
+        "Astronomy Beginners",
+        "Club Services"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1302/EphFeb13.pdf",
+      "txtPath": "1302/EphFeb13.md"
+    }
+  ]
+}

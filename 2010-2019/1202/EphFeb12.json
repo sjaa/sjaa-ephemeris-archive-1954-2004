@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb12-ephemeris",
+      "documentId": "ephfeb12",
+      "title": "EPHEMERIS",
+      "summary": "This article from the San Jose Astronomical Association (SJAA) details their activity calendar for February and March 2012, including star parties, dark-sky weekends, general meetings with guest speakers, and astronomy classes. It also highlights three significant astronomical breakthroughs from 2011 recognized by Science magazine: the Hayabusa mission's return of asteroid samples, discoveries of unusual exoplanets, and the identification of very low metallic regions in space.",
+      "categories": [
+        "Club Activities",
+        "Astronomy Events",
+        "Scientific News",
+        "Space Exploration",
+        "Astronomical Discoveries"
+      ],
+      "keywords": [
+        "SJAA",
+        "February 2012",
+        "March 2012",
+        "star party",
+        "dark-sky weekend",
+        "general meeting",
+        "astronomy class",
+        "Hayabusa",
+        "asteroid Iokawa",
+        "exoplanets",
+        "Kepler 11",
+        "HAT-P-6b",
+        "low metallic regions",
+        "scientific breakthroughs",
+        "telescopes",
+        "Moon",
+        "Henry Coe Park",
+        "Houge Park"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephfeb12-the-shallow-sky",
+      "documentId": "ephfeb12",
+      "title": "The Shallow Sky",
+      "summary": "This article provides a guide to celestial observations in early February, highlighting the visibility of several bright planets. Venus and Jupiter are prominent throughout the month, with Venus making a close pass with Uranus on February 9th. Mercury becomes visible late in the month, while Mars, despite its small angular size due to being at aphelion, will be high in the sky during its approach to opposition in March, making it suitable for detailed observation with high magnification. The article also recommends observing the zodiacal light, particularly during early February evenings.",
+      "categories": [
+        "observing reports",
+        "astronomical events",
+        "celestial mechanics",
+        "stargazing tips",
+        "planetary observation"
+      ],
+      "keywords": [
+        "February",
+        "planets",
+        "Venus",
+        "Jupiter",
+        "Mercury",
+        "Uranus",
+        "Mars",
+        "opposition",
+        "aphelion",
+        "Saturn",
+        "Neptune",
+        "Pluto",
+        "zodiacal light",
+        "ecliptic",
+        "star party",
+        "telescope",
+        "magnification",
+        "seeing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb12-alex-filippenko",
+      "documentId": "ephfeb12",
+      "title": "Alex Filippenko",
+      "summary": "Alex Filippenko served as the guest speaker at a San Jose Astronomical Association (SJAA) meeting on January 7, 2012, drawing a record crowd of over 150 attendees. His engaging presentation captivated the audience, who remained attentive and asked numerous excellent questions, making for a memorable evening. Filippenko also emphasized the importance of explaining complex topics simply, crediting Richard Feynman.",
+      "categories": [
+        "Event Report",
+        "Meeting Report",
+        "News"
+      ],
+      "keywords": [
+        "Alex Filippenko",
+        "SJAA",
+        "Guest Speaker",
+        "Astronomy Talk",
+        "January 7, 2012",
+        "Richard Feynman",
+        "Record Attendance"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephfeb12-nasa-space-place",
+      "documentId": "ephfeb12",
+      "title": "NASA Space Place",
+      "summary": "NASA and NOAA have developed an advanced Earth science satellite called GOES-R, set to launch in 2015, which features cutting-edge sensors for weather monitoring, lightning detection, and wildfire mapping. To educate the public about this next-generation spacecraft, the Jet Propulsion Laboratory created a free iPhone app named Satellite Insight, described as \"the nerdiest video game ever,\" where players sort simulated satellite data. The game provides an entertaining way to learn about the GOES-R mission and its significant technological advancements.",
+      "categories": [
+        "news",
+        "technology",
+        "education",
+        "space exploration",
+        "gaming",
+        "earth science"
+      ],
+      "keywords": [
+        "NASA Space Place",
+        "Satellite Insight",
+        "GOES-R",
+        "NOAA",
+        "Geostationary Operational Environmental Satellite",
+        "Earth science",
+        "mobile app",
+        "video game",
+        "Jet Propulsion Laboratory",
+        "weather forecasting",
+        "Advanced Baseline Imager",
+        "Geostationary Lightning Mapper",
+        "satellite technology"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb12-satellite-insight",
+      "documentId": "ephfeb12",
+      "title": "Satellite Insight",
+      "summary": "This document features two main topics: an announcement for 'Satellite Insight,' a new iPhone game based on the GOES-R weather satellite, which is the first NOAA and second NASA game app. It also provides a detailed historical log of early Mars missions launched by the US and USSR, highlighting the initial prevalence of failures before detailing successful missions like Mariner 4 and the Viking program. The missions table includes launch year, name, country, result, and reason for success or failure.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Gaming/Apps",
+        "History",
+        "Technology"
+      ],
+      "keywords": [
+        "Satellite Insight",
+        "GOES-R",
+        "iPhone game",
+        "NOAA app",
+        "NASA game",
+        "Mars missions",
+        "US space program",
+        "USSR space program",
+        "Mariner",
+        "Viking",
+        "Spacecraft failures",
+        "JPL",
+        "Weather data",
+        "Environmental data"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb12-the-last-month-in-astronomy",
+      "documentId": "ephfeb12",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article compiles astronomy news from late 2011 and early 2012, emphasizing breakthroughs in exoplanet discovery, such as Kepler's identification of Earth-sized planets and microlensing studies indicating widespread planetary systems. Other significant events include new insights into Type 1a supernovae, the GRAIL mission's lunar orbital insertion, and the renaming and upgrade of the Very Large Array, alongside developments in future interstellar travel concepts.",
+      "categories": [
+        "Astrophysics",
+        "Exoplanets",
+        "Space Missions",
+        "Telescopes",
+        "Space Exploration",
+        "Astronomical Discoveries"
+      ],
+      "keywords": [
+        "Exoplanets",
+        "Kepler Mission",
+        "Type 1a Supernova",
+        "GRAIL Mission",
+        "Moon",
+        "Microlensing",
+        "Very Large Array (VLA)",
+        "Radio Astronomy",
+        "Hubble Space Telescope",
+        "Distant Galaxies",
+        "100 Year Starship",
+        "White Dwarfs",
+        "Earth-sized Planets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb12-it-must-be-astronomical",
+      "documentId": "ephfeb12",
+      "title": "It Must Be Astronomical...",
+      "summary": "The San Jose Astronomical Association (SJAA) is preparing for its February General Meeting, which includes elections for board members, with incumbents running for re-election. The article also details the club's loaner telescope program for members and provides statistics for past and upcoming school star party events. Key contact information and publication details for the 'SJAA EPHEMERIS' newsletter are also included.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Member Resources",
+        "Outreach",
+        "Club Governance",
+        "Newsletter Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Election",
+        "Loaner Program",
+        "School Star Parties",
+        "Telescopes",
+        "Outreach",
+        "Ephemeris",
+        "Newsletter",
+        "Club Membership",
+        "February Meeting",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1202/EphFeb12.pdf",
+      "txtPath": "1202/EphFeb12.md"
+    }
+  ]
+}

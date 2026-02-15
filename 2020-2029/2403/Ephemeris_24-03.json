@@ -1,0 +1,310 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-24-03-sjaa-potluck-and-awards-ceremony",
+      "documentId": "ephemeris-24-03",
+      "title": "SJAA Potluck and Awards Ceremony",
+      "summary": "The San Jose Astronomical Association (SJAA) recently hosted its first post-pandemic potluck and awards ceremony on February 24, 2024, gathering over 20 attendees. During the event, Rob Jaworski and Swami Nigam received the prestigious Doctor A.B. Gregory Award for their significant contributions to amateur astronomy and the club. Additionally, several other members, including Renuka Veeraswami, Jonathan Lawton, and Joe Fragola, were honored with Volunteer Awards for their diverse efforts in outreach, education, and club operations.",
+      "categories": [
+        "Events",
+        "Awards",
+        "Volunteer Recognition",
+        "Club News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Potluck",
+        "Awards Ceremony",
+        "Doctor A.B. Gregory Award",
+        "Volunteer Award",
+        "Rob Jaworski",
+        "Swami Nigam",
+        "Renuka Veeraswami",
+        "Jonathan Lawton",
+        "Hy Murveit",
+        "Jordan Makowar",
+        "Richie Senegal",
+        "Joe Fragola",
+        "Gary Mitchell",
+        "Mike Madden",
+        "Jon Anderson",
+        "Amateur Astronomy",
+        "Club Contributions",
+        "Outreach",
+        "Starry Nights",
+        "School Star Parties",
+        "Quick STAR program",
+        "Imaging Special Interest Group",
+        "RCDO"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-24-03-introducing-director-9",
+      "documentId": "ephemeris-24-03",
+      "title": "Introducing Director 9",
+      "summary": "Marianne Damon has been appointed to the Director 9 position on the Board of Directors, filling the vacancy left by Sukhada Palav. A long-time member since 2013, Damon is known for her extensive involvement in SJAA outreach events, creating astronomy-themed activities, and contributing to internal club initiatives like the 24\" Dob Task Force and Compliance Team. She shares her lifelong passion for astronomy, which she has actively pursued since retiring, and mentions her upcoming trip for the Total Solar Eclipse.",
+      "categories": [
+        "Club News",
+        "Board Announcement",
+        "Member Profile",
+        "Outreach Activities"
+      ],
+      "keywords": [
+        "Marianne Damon",
+        "Director 9",
+        "Board of Directors",
+        "SJAA",
+        "Outreach",
+        "Star Parties",
+        "Volunteer",
+        "Total Solar Eclipse",
+        "Club Involvement"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-24-03-introducing-speaker-and-fix-it-program-leaders",
+      "documentId": "ephemeris-24-03",
+      "title": "Introducing Speaker and Fix It Program Leaders",
+      "summary": "The SJAA announces two new program leaders: Larry Zurbick for the returning 'Fix It' program, which offers assistance with telescope collimation, mechanical adjustments, and minor repairs on the first Sunday of each month, and Leo Lipkin as the new Speaker Coordinator. Zurbick brings decades of amateur astronomy experience, while Lipkin, a Firmware Test Engineer, will connect members with engaging speakers. Both roles aim to enhance member services and club activities.",
+      "categories": [
+        "news",
+        "club announcement",
+        "volunteer spotlight",
+        "observing reports",
+        "technical assistance"
+      ],
+      "keywords": [
+        "SJAA",
+        "Fix It program",
+        "Larry Zurbick",
+        "Leo Lipkin",
+        "Speaker Coordinator",
+        "telescope repair",
+        "collimation",
+        "mechanical adjustments",
+        "star parties",
+        "astronomy club",
+        "volunteer",
+        "Houge Park",
+        "March 2024"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-24-03-radio-signals-from-space",
+      "documentId": "ephemeris-24-03",
+      "title": "Radio Signals From Space",
+      "summary": "An amateur radio operator and astronomer, tuning 10- and 15-meter bands during high sunspot activity, encountered unusual radio signals leading to research into natural radio emissions from celestial bodies like the Sun, Earth, and Jupiter. The article explains how electrons accelerated through magnetic fields emit radio waves, noting that Jupiter's emissions (enhanced by Io) are theoretically detectable by amateur equipment. It then provides practical methods for enthusiasts to detect and observe these signals, including using Radio JOVE kits, online spectrographs, and NASA's project website, alongside tools for tracking Jupiter's position.",
+      "categories": [
+        "Amateur Radio",
+        "Radio Astronomy",
+        "Observing Report",
+        "Educational",
+        "How-To"
+      ],
+      "keywords": [
+        "Radio signals from space",
+        "Jupiter radio emissions",
+        "Radio JOVE Project",
+        "Io",
+        "Sunspots",
+        "Amateur radio",
+        "SDR radio",
+        "Natural radio emissions",
+        "HF radio astronomy",
+        "Spectrograph"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-24-03-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-24-03",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This article presents a gallery of astrophotography images captured by members of the SJAA (San Jose Astronomical Association). Each entry features a specific celestial object, such as the IC 342 Galaxy or the Tadpoles Nebula, and provides detailed information including the photographer's name, capture dates, location, and the specific telescope, camera, mount, and software used for imaging and processing.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Image Gallery",
+        "Technical Details"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "SJAA",
+        "Deep-sky imaging",
+        "Celestial objects",
+        "Nebula",
+        "Galaxy",
+        "Supernova remnant",
+        "Telescope",
+        "Camera",
+        "Mount",
+        "Image processing software",
+        "PixInsight",
+        "Photoshop"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-24-03-fight-the-dew",
+      "documentId": "ephemeris-24-03",
+      "title": "Fight the Dew",
+      "summary": "This article addresses the common problem of dew in amateur astronomy, explaining how water droplets form on telescope lenses and mirrors, often ruining observing sessions. It details two primary prevention methods: active dew heaters and passive dew shields, noting their respective advantages and disadvantages. The author also provides practical DIY solutions, including a simple cardboard shield and a more advanced 3D-printed design, encouraging astronomers to combat dew creatively and affordably.",
+      "categories": [
+        "Technical Advice",
+        "Equipment",
+        "Observing Tips",
+        "DIY Projects",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "dew",
+        "dew heaters",
+        "dew shields",
+        "telescope",
+        "astronomy",
+        "observing",
+        "astrophotography",
+        "3D printing",
+        "guide scope",
+        "dew point"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-24-03-the-comet-c-2023-a3-tsuchin-atlas-could-be-the-next-hale-bopp",
+      "documentId": "ephemeris-24-03",
+      "title": "The comet C/2023 A3 (Tsuchinан-ATLAS) could be the next Hale-Bopp",
+      "summary": "Comet C/2023 A3 (Tsuchinshan-ATLAS), originating from the Oort cloud, is predicted to become visible to the naked eye in October 2024, passing closest to Earth on October 12, 2024. Currently, the comet is in Libra with a magnitude of 13, requiring long-exposure astroimaging for observation, as demonstrated by recent images taken from Australia. Its light curve suggests it could be a significant astronomical event, potentially comparable to Hale-Bopp.",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Reports",
+        "Astronomical Predictions",
+        "Astrophotography",
+        "Amateur Astronomy News"
+      ],
+      "keywords": [
+        "C/2023 A3 (Tsuchinshan-ATLAS)",
+        "Hale-Bopp",
+        "Oort cloud",
+        "Naked eye visibility",
+        "October 2024",
+        "Perihelion",
+        "Closest approach",
+        "Comet magnitude",
+        "Libra constellation",
+        "Astroimaging",
+        "Light curve",
+        "Nikola Nikolov"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-24-03-observing-highlights",
+      "documentId": "ephemeris-24-03",
+      "title": "OBSERVING HIGHLIGHTS",
+      "summary": "This article highlights key astronomical events from March to June, including equinoxes, solstices, lunar and solar eclipses, and prominent meteor showers. It provides specific dates and brief descriptions for each event, such as the Spring Equinox, Penumbral Lunar Eclipse, Total Solar Eclipse, and the Lyrid and Eta Aquarid meteor showers. Additionally, it lists dates for Mercury's greatest elongations and the phases of the New Moon and Full Moon during this period.",
+      "categories": [
+        "events",
+        "observing guide",
+        "astronomy calendar",
+        "news"
+      ],
+      "keywords": [
+        "Spring Equinox",
+        "Penumbral Lunar Eclipse",
+        "Mercury Greatest Elongation",
+        "Total Solar Eclipse",
+        "Lyrid Meteor Shower",
+        "Eta Aquarid meteor shower",
+        "Summer Solstice",
+        "New Moon",
+        "Full Moon",
+        "astronomy",
+        "celestial events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-24-03-from-the-board-of-directors",
+      "documentId": "ephemeris-24-03",
+      "title": "From the Board of Directors",
+      "summary": "The Board of Directors announced the re-election of Rob Jaworski, Glenn Newell, and Wolf Witt, along with the election of Radhika Gupta, to the board until February 2026. Upcoming officer elections for President, Vice-President, Treasurer, and Secretary will be held online, and new appointments include Leo Lipkin as Speaker Coordinator. Board meetings on January 27 and February 24, 2024, approved expenditures for a website plugin, new fence banners, and A/V equipment for Houge Park, and discussed open positions for Librarian and Astronomy 101 leader.",
+      "categories": [
+        "Organizational News",
+        "Board Meetings",
+        "Elections",
+        "Member Announcements",
+        "Financial Approvals"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Elections",
+        "Officer Elections",
+        "SJAA",
+        "Announcements",
+        "Meeting Minutes",
+        "Rob Jaworski",
+        "Glenn Newell",
+        "Wolf Witt",
+        "Radhika Gupta",
+        "Leo Lipkin",
+        "Open Positions",
+        "Meetup plugin",
+        "A/V Setup",
+        "Fence Banners",
+        "Ephemeris"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-24-03-sjaa-library",
+      "documentId": "ephemeris-24-03",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a diverse range of resources and programs for its members and the wider community. Offerings include a library, a free Telescope Fix It service, and a Loaner Program for astronomy equipment. SJAA also hosts various observing sessions, educational programs like Quick STARt and Intro to the Night Sky, specialized astrophotography groups and workshops, and conducts outreach through School Star Parties.",
+      "categories": [
+        "Member Services",
+        "Educational Programs",
+        "Observing Events",
+        "Technical Support",
+        "Community Outreach",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy",
+        "Telescope Repair",
+        "Solar Observing",
+        "Night Sky",
+        "Astrophotography",
+        "Quick STARt Program",
+        "Loaner Program",
+        "Star Parties",
+        "Amateur Astronomy",
+        "Astronomy Library"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-24-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2403/Ephemeris_24-03.pdf",
+      "txtPath": "2403/Ephemeris_24-03.md"
+    }
+  ]
+}

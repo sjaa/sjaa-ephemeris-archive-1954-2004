@@ -1,0 +1,313 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-20-09-greetings-from-the-president",
+      "documentId": "ephemeris-20-09",
+      "title": "Greetings from the President",
+      "summary": "Ken Miura, the new President of the SJAA, introduces himself, sharing his background in experimental physics and computer science with a history at Fujitsu and experience with the NAOJ and ALMA Project. He discusses the challenges posed by COVID-19, which led the club to successfully transition to virtual activities like 'Armchair Star Party' and 'Online Solar Observation.' Miura also highlights recent astronomical events such as Comet NEOWISE and upcoming observations of Mars, expressing hope for a return to in-person activities while continuing to grow the club's online presence and strategic planning.",
+      "categories": [
+        "President's Message",
+        "Club News",
+        "Astronomy Events",
+        "Organizational Update",
+        "COVID-19 Impact"
+      ],
+      "keywords": [
+        "Ken Miura",
+        "SJAA",
+        "President",
+        "COVID-19",
+        "online observations",
+        "virtual events",
+        "Comet NEOWISE",
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "astronomical events",
+        "strategic planning",
+        "Fujitsu",
+        "NAOJ",
+        "ALMA Project"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-20-09-in-memoriam-to-marilyn-perry",
+      "documentId": "ephemeris-20-09",
+      "title": "In Memoriam to Marilyn Perry",
+      "summary": "Marilyn Perry, a cherished long-term member of the SJAA, passed away on July 4th, 2020, at the age of 75. The article serves as an 'In Memoriam,' sharing her birth and death dates, surviving family, and heartfelt tributes from fellow club members. Friends fondly recall her passion for visual observing, dedication to sharing astronomical knowledge, mentoring, and enthusiastic participation in star parties and STEM programs.",
+      "categories": [
+        "In Memoriam",
+        "Club News",
+        "Community",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Marilyn Perry",
+        "Obituary",
+        "SJAA",
+        "Astronomy",
+        "Star Parties",
+        "Mentoring",
+        "STEM",
+        "Observing",
+        "Tributes"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-20-09-nasa-s-parker-solar-probe-spies-newly-discovered-comet-neowise",
+      "documentId": "ephemeris-20-09",
+      "title": "NASA's Parker Solar Probe Spies Newly-Discovered Comet NEOWISE",
+      "summary": "NASA's Parker Solar Probe uniquely captured detailed images of Comet NEOWISE on July 5, 2020, shortly after its closest approach to the Sun. The probe's WISPR instrument provided an unparalleled view of the comet's distinct dust and ion tails, offering valuable data for scientists to study dust grain sizes and a potential division in the ion tail. This observation adds to sightings by other NASA spacecraft and astronauts, highlighting the comet's visibility across multiple platforms.",
+      "categories": [
+        "observing reports",
+        "spacecraft mission",
+        "astronomy news",
+        "cometary science"
+      ],
+      "keywords": [
+        "Parker Solar Probe",
+        "Comet NEOWISE",
+        "WISPR instrument",
+        "dust tail",
+        "ion tail",
+        "perihelion",
+        "NASA",
+        "solar wind",
+        "C/2020 F3 NEOWISE"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-20-09-nasa-astronauts-safely-splash-down-after-first-commercial-crew-flight-to-space-station",
+      "documentId": "ephemeris-20-09",
+      "title": "NASA Astronauts Safely Splash Down after First Commercial Crew Flight to Space Station",
+      "summary": "NASA astronauts Robert Behnken and Douglas Hurley safely splashed down in the Gulf of Mexico, completing the SpaceX Demo-2 test flight and marking the first return of a commercially built and operated American crew spacecraft. This mission signifies a new era in human spaceflight, paving the way for regular commercial crew transportation to the International Space Station. During their 62 days aboard the ISS, the astronauts conducted scientific experiments, spacewalks, and public engagement events.",
+      "categories": [
+        "Spaceflight",
+        "Commercial Space",
+        "NASA",
+        "SpaceX",
+        "Astronauts",
+        "International Space Station",
+        "Mission Completion",
+        "News"
+      ],
+      "keywords": [
+        "NASA",
+        "SpaceX",
+        "Crew Dragon",
+        "Demo-2",
+        "Robert Behnken",
+        "Douglas Hurley",
+        "International Space Station (ISS)",
+        "Commercial Crew Program",
+        "Splashdown",
+        "Human spaceflight",
+        "Gulf of Mexico",
+        "Space exploration",
+        "Spacewalks"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-20-09-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-20-09",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This document presents a gallery of astrophotography images contributed by members of the San Jose Astronomical Association (SJAA). Each entry details the celestial object captured, the photographer's name, dates of imaging, location, and the specific equipment used, including telescopes, cameras, mounts, and software. Featured images include the Milky Way, Skull and Crossbones Nebula, Elephant's Trunk Nebula, and Iris Nebula.",
+      "categories": [
+        "Astrophotography",
+        "Member Gallery",
+        "Amateur Astronomy",
+        "Club Publication",
+        "Equipment Reviews/Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astrophotography",
+        "Member Gallery",
+        "Milky Way",
+        "Skull and Crossbones Nebula",
+        "Elephant's Trunk Nebula",
+        "Iris Nebula",
+        "Imaging Equipment",
+        "Imaging Software",
+        "Nikon",
+        "ZWO ASI1600MM-Cool",
+        "Starlight Express Lodestar X2",
+        "Adobe Photoshop",
+        "PixInsight",
+        "Sequence Generator Pro",
+        "PHD2",
+        "Astro-Physics Mach1 GTO",
+        "Stellarvue SV4",
+        "Orion Astrograph",
+        "FSQ-106ED",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-20-09-nasa-announces-new-james-webb-space-telescope-target-launch-date",
+      "documentId": "ephemeris-20-09",
+      "title": "NASA Announces New James Webb Space Telescope Target Launch Date",
+      "summary": "NASA has announced a new target launch date of October 31, 2021, for the James Webb Space Telescope (JWST), delayed from March 2021 due to impacts from the COVID-19 pandemic and ongoing technical challenges. Despite the delay, the project team is confident they can complete the remaining integration and test activities within the existing $8.8 billion development cost cap without requiring additional funds. Webb, described as the world's most complex space observatory, aims to build upon the legacies of Hubble and Spitzer by exploring the infrared universe, detecting early galaxies, and studying exoplanet atmospheres.",
+      "categories": [
+        "news",
+        "space exploration",
+        "astronomy",
+        "mission updates",
+        "technical"
+      ],
+      "keywords": [
+        "James Webb Space Telescope",
+        "JWST",
+        "NASA",
+        "launch date",
+        "space observatory",
+        "COVID-19",
+        "space telescope",
+        "infrared astronomy",
+        "exoplanets",
+        "French Guiana"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-20-09-fun-facts",
+      "documentId": "ephemeris-20-09",
+      "title": "Fun Facts",
+      "summary": "This article, titled \"Fun Facts,\" provides details about Comet NEOWISE (C/2020 F3), highlighting its extremely long orbital period around the Sun, its close approach to Earth, and its observable two-tailed structure composed of gas/ions and dust. It also introduces \"Hot Jupiters,\" a class of giant exoplanets characterized by very short orbital periods, high surface-atmosphere temperatures due to their proximity to host stars, and low densities, with the large radii of these massive planets still being a subject of study.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Exoplanets",
+        "Educational Content"
+      ],
+      "keywords": [
+        "Comet NEOWISE",
+        "Hot Jupiters",
+        "Exoplanets",
+        "Comets",
+        "Orbital period",
+        "Celestial bodies",
+        "Gas giants",
+        "Astronomy facts",
+        "C/2020 F3",
+        "NASA Spitzer Space Telescope"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-20-09-from-the-board-of-directors",
+      "documentId": "ephemeris-20-09",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) is adapting to the COVID-19 pandemic by canceling some events, moving others online, and planning to restart its Loaner program with safety guidelines. Ken Miura has been appointed as the new President, leaving the VP position open. Additionally, the National Park Service has canceled summer activities and star parties for next year due to maintenance, with a resumption scheduled for 2022.",
+      "categories": [
+        "Organizational Updates",
+        "Event Status",
+        "Announcements",
+        "Leadership Changes",
+        "Public Health Impact"
+      ],
+      "keywords": [
+        "SJAA",
+        "COVID-19",
+        "coronavirus",
+        "event cancellations",
+        "online events",
+        "president appointment",
+        "Loaner program",
+        "National Park Service",
+        "star party",
+        "Santa Clara County"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephemeris-20-09-board-meeting-excerpts",
+      "documentId": "ephemeris-20-09",
+      "title": "Board Meeting Excerpts",
+      "summary": "Excerpts from SJAA board meetings in July and August 2020 cover initiatives to broaden the reach of online events via NASA's Night Sky Network and a new YouTube channel, enhance social media engagement, and introduce a new Electronically Assisted Astronomy program. Discussions also included administrative items like Ephemeris editor appointments, planning interactive 'Astronomy Hangout' events, the status of the swap meet due to COVID-19, and managing club equipment through a loaner program and the potential sale/donation of a 24\" Dobsonian telescope.",
+      "categories": [
+        "Board Meetings",
+        "Club Operations",
+        "Online Events",
+        "Outreach",
+        "Programs",
+        "Equipment Management",
+        "Social Media"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Online Events",
+        "NASA Night Sky Network",
+        "Social Media",
+        "YouTube Channel",
+        "Electronically Assisted Astronomy",
+        "Ephemeris Editor",
+        "Astronomy Hangout",
+        "Swap Meet",
+        "COVID-19",
+        "Loaner Program",
+        "24\" Dobsonian Telescope",
+        "Google Meet",
+        "Zoom"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-20-09-sjaa-library",
+      "documentId": "ephemeris-20-09",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a diverse range of resources and programs for its members and the community, catering to various age groups and skill levels. These initiatives include a library, equipment loaner program, telescope repair services, and educational programs covering beginner astronomy, solar observing, and astrophotography. Additionally, SJAA hosts regular observing sessions and provides outreach through school star parties.",
+      "categories": [
+        "Community Programs",
+        "Educational Resources",
+        "Equipment Support",
+        "Observing Events",
+        "Special Interest Groups",
+        "Outreach",
+        "Member Services"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Library",
+        "Telescope Fix It",
+        "Solar Observing",
+        "Quick STARt Program",
+        "Intro to the Night Sky",
+        "Telescope Loaner Program",
+        "Astro Imaging SIG",
+        "Astrophotography Workshops",
+        "School Star Party",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Telescope Maintenance",
+        "Beginner Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-20-09",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2009/Ephemeris_20-09.pdf",
+      "txtPath": "2009/Ephemeris_20-09.md"
+    }
+  ]
+}

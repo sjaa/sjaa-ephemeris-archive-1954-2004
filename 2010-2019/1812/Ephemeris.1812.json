@@ -1,0 +1,268 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1812-fall-swap-meet",
+      "documentId": "ephemeris-1812",
+      "title": "Fall Swap Meet",
+      "summary": "The SJAA successfully held its annual Fall Swap Meet on October 28, 2018, at Houge Park Hall, drawing a large crowd of buyers and raising nearly $2,000. The event, which featured various astronomy equipment, was well-received by attendees. The next Swap Meet is tentatively planned for March 17, 2019, with further details to be announced on the SJAA website.",
+      "categories": [
+        "Event Report",
+        "News",
+        "Community Event"
+      ],
+      "keywords": [
+        "Fall Swap Meet",
+        "SJAA",
+        "Astronomy equipment",
+        "Telescopes",
+        "San Jose",
+        "Event",
+        "Fundraising"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-1812-welcome-new-directors-ken-miura-and-sandy-mohan",
+      "documentId": "ephemeris-1812",
+      "title": "Welcome New Directors: Ken Miura and Sandy Mohan",
+      "summary": "The San Jose Astronomical Association (SJAA) welcomes Ken Miura and Sandy Mohan as new members to its Board of Directors, filling the remaining terms of departing members. Both new directors provide brief self-introductions, detailing their professional backgrounds, extensive history with SJAA, and personal interests in astronomy, including telescope ownership and participation in star parties. The article also includes a note about SJAA's presence on Instagram for event updates and astronomy news.",
+      "categories": [
+        "Organizational News",
+        "Member Profile",
+        "Board Appointments",
+        "Astronomy Club",
+        "Social Media"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Ken Miura",
+        "Sandy Mohan",
+        "Astronomy",
+        "San Jose Astronomical Association",
+        "Telescopes",
+        "Star Parties",
+        "Ephemeris",
+        "Instagram",
+        "Volunteer"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1812-isaac-kikawada-farewell",
+      "documentId": "ephemeris-1812",
+      "title": "Isaac Kikawada Farewell",
+      "summary": "Isaac Kikawada, a dedicated long-time member of SJAA and a former UC Berkeley professor of Near Eastern Studies, passed away in July 2018. He was a passionate amateur astronomer who loved teaching young people through 'Project Astro' and organizing engaging sky parties. Isaac enjoyed observing diverse celestial phenomena, from planetary movements and double stars to solar eclipses and the Northern Lights, making memorable trips to witness events like the 2017 total solar eclipse.",
+      "categories": [
+        "Obituary",
+        "Amateur Astronomy",
+        "Community News",
+        "Education & Outreach"
+      ],
+      "keywords": [
+        "Isaac Kikawada",
+        "SJAA",
+        "Amateur Astronomy",
+        "Project Astro",
+        "Astronomy Education",
+        "Sky Parties",
+        "Observing",
+        "Solar Eclipse",
+        "2017 Eclipse",
+        "Double Stars",
+        "Northern Lights"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-1812-superflares-from-young-red-dwarf-stars-imperil-planets",
+      "documentId": "ephemeris-1812",
+      "title": "Superflares From Young Red Dwarf Stars Imperil Planets",
+      "summary": "NASA's Hubble Space Telescope, through the HAZMAT program, is studying powerful flares from red dwarf stars across different ages to understand their impact on planetary habitability. Researchers found that young red dwarfs, approximately 40 million years old, produce superflares 100 to 1,000 times more energetic than older stars, releasing intense ultraviolet radiation. These frequent and potent flares, like the observed 'Hazflare,' occur during the critical period of terrestrial planet formation and could potentially strip away planetary atmospheres, significantly influencing the potential for life on orbiting worlds.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Planetary Science",
+        "Space Exploration",
+        "Scientific Research",
+        "Stellar Astronomy"
+      ],
+      "keywords": [
+        "Superflares",
+        "Red Dwarf Stars",
+        "HAZMAT Program",
+        "Hubble Space Telescope",
+        "Planetary Habitability",
+        "Atmospheric Stripping",
+        "Ultraviolet Radiation",
+        "Young Stars",
+        "M dwarf",
+        "Exoplanets",
+        "Hazflare"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-1812-nasa-voyager-2-could-be-nearing-interstellar-space",
+      "documentId": "ephemeris-1812",
+      "title": "NASA Voyager 2 Could Be Nearing Interstellar Space",
+      "summary": "NASA's Voyager 2 probe has detected a 5 percent increase in cosmic rays, a signal similar to what Voyager 1 experienced before crossing into interstellar space in 2012. This suggests Voyager 2 may be nearing the heliopause, the outer boundary of the heliosphere, which would make it the second human-made object to enter interstellar space. However, scientists caution that differences in location and the Sun's activity cycle mean it's not yet a definitive sign of an imminent crossing.",
+      "categories": [
+        "Space Exploration",
+        "News",
+        "Scientific Discovery",
+        "Astronomy",
+        "Missions"
+      ],
+      "keywords": [
+        "Voyager 2",
+        "Interstellar space",
+        "Heliopause",
+        "Heliosphere",
+        "Cosmic rays",
+        "NASA",
+        "Voyager 1",
+        "Solar system",
+        "Spacecraft",
+        "Heliophysics"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-1812-european-built-service-module-arrives-in-u-s-for-first-orion-moon-mission",
+      "documentId": "ephemeris-1812",
+      "title": "European-Built Service Module Arrives in U.S. for First Orion Moon Mission",
+      "summary": "The European Service Module, a critical component built by ESA's Airbus, has arrived at NASA's Kennedy Space Center for integration with the Orion spacecraft. This module will propel, power, and cool Orion during its uncrewed Exploration Mission-1 to the Moon, marking a significant expansion of international cooperation in deep space human exploration. It will undergo extensive testing and integration before its launch with the Space Launch System rocket.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "International Cooperation",
+        "Spacecraft Development",
+        "Program Updates"
+      ],
+      "keywords": [
+        "European Service Module",
+        "NASA Orion spacecraft",
+        "Exploration Mission-1",
+        "Moon mission",
+        "Deep space exploration",
+        "ESA",
+        "Airbus",
+        "Kennedy Space Center",
+        "Space Launch System (SLS)",
+        "Spacecraft integration",
+        "Human spaceflight"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1812-kid-spot",
+      "documentId": "ephemeris-1812",
+      "title": "Kid Spot",
+      "summary": "This article features a \"Kid Spot\" section with astronomy-themed jokes and a multiple-choice quiz covering celestial objects like nebulae, constellations, and star clusters. It also includes a brief news update detailing a MarCO CubeSat's flyby image of Mars on November 26, 2018, as it relayed communications for NASA's InSight lander.",
+      "categories": [
+        "Youth Education",
+        "Astronomy News",
+        "Space Exploration",
+        "Quiz",
+        "Observing"
+      ],
+      "keywords": [
+        "Mars",
+        "NASA",
+        "InSight",
+        "MarCO",
+        "CubeSats",
+        "Hubble Space Telescope",
+        "Pillars of Creation",
+        "Nebula",
+        "Pleiades",
+        "Albireo",
+        "Constellations",
+        "Astronomy",
+        "Kids",
+        "Quiz"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-1812-from-the-board-of-directors",
+      "documentId": "ephemeris-1812",
+      "title": "From the Board of Directors",
+      "summary": "This article from the SJAA Board of Directors announces Sandy Mohan's appointment to the board and Dave Ittner's departure from Membership and Donations Chair positions. It also details board meeting discussions, including the formalization of the Mendoza Ranch observing program, efforts to secure Houge Park storage, and the development of a policy regarding star party requests. A tentative Spring Swap Meet date and the 2019 club calendar are also noted.",
+      "categories": [
+        "Board Governance",
+        "Club Administration",
+        "Events",
+        "Outreach Programs",
+        "Announcements"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Appointments",
+        "Resignations",
+        "Club Operations",
+        "Mendoza Ranch Observing Program",
+        "Star Parties",
+        "Club Events",
+        "Policies",
+        "Storage Security",
+        "Calendar",
+        "Volunteer Recruitment"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-1812-sjaa-library",
+      "documentId": "ephemeris-1812",
+      "title": "SJAA Library",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a diverse range of programs and resources for both its members and the wider community, catering to all levels of astronomy enthusiasts. These include a library, equipment loaner program, and various educational initiatives like 'Quick STARt' and 'Intro to the Night Sky' sessions. The SJAA also provides practical services such as telescope 'Fix It' sessions, regular solar observing events, and specialized groups and workshops for astrophotography, alongside organizing school star parties.",
+      "categories": [
+        "Educational Programs",
+        "Community Outreach",
+        "Observing Events",
+        "Technical Support",
+        "Member Resources",
+        "Special Interest Groups"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy library",
+        "Telescope repair",
+        "Collimation",
+        "Solar observing",
+        "Amateur astronomy",
+        "Beginner astronomy",
+        "Night sky tours",
+        "Star parties",
+        "Equipment loaner program",
+        "Astrophotography",
+        "Astro Imaging SIG",
+        "Workshops",
+        "Field clinics",
+        "School programs",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1812",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1812/Ephemeris.1812.pdf",
+      "txtPath": "1812/Ephemeris.1812.md"
+    }
+  ]
+}

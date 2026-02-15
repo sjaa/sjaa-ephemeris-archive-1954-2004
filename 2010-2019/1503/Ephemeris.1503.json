@@ -1,0 +1,271 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-1503-sjaa-annual-meeting-and-potluck-report",
+      "documentId": "ephemeris-1503",
+      "title": "SJAA Annual Meeting and Potluck Report",
+      "summary": "The SJAA held its annual meeting and potluck on February 7th, where elections for open board seats were conducted and new board members were announced. The event also served to recognize several dedicated members for their significant contributions, including securing dark sky sites, providing meeting refreshments, outreach efforts, editing the newsletter, and establishing an astronomy library. Award recipients were honored with constellation mugs for their outstanding service to the club.",
+      "categories": [
+        "Events",
+        "Meeting Report",
+        "Organizational News",
+        "Awards & Recognition"
+      ],
+      "keywords": [
+        "SJAA",
+        "Annual Meeting",
+        "Potluck",
+        "Elections",
+        "Board Members",
+        "Member Recognition",
+        "Awards",
+        "Dark Sky Observing",
+        "Outreach",
+        "Astronomy Library",
+        "Ephemeris Newsletter"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-1503-sjaa-member-observation-posts",
+      "documentId": "ephemeris-1503",
+      "title": "SJAA Member Observation Posts",
+      "summary": "This collection of SJAA member posts details various amateur astronomical experiences, prominently featuring discussions and personal accounts of observing the challenging double star Sirius B. Other members share successful backyard observing sessions using new equipment and a detailed report from an astronomy trip to the tropical southern hemisphere, highlighting diverse celestial targets and observing conditions.",
+      "categories": [
+        "Observing Reports",
+        "Double Stars",
+        "Amateur Astronomy",
+        "Travel Astronomy",
+        "Equipment Review"
+      ],
+      "keywords": [
+        "Sirius B",
+        "double star",
+        "white dwarf",
+        "astronomical observation",
+        "telescope",
+        "magnification",
+        "seeing conditions",
+        "southern sky",
+        "Rarotonga",
+        "Cook Islands",
+        "Jupiter",
+        "Orion Nebula",
+        "tripod",
+        "Burnham's Celestial Handbook",
+        "SJAA",
+        "deep-sky objects",
+        "Southern Cross",
+        "Magellanic Clouds",
+        "Omega Centauri"
+      ],
+      "pageStart": 4,
+      "pageEnd": 397
+    },
+    {
+      "id": "ephemeris-1503-sjaa-s-3rd-year-solar-anniversary-a-big-hit",
+      "documentId": "ephemeris-1503",
+      "title": "SJAA's 3rd Year Solar Anniversary A Big Hit",
+      "summary": "The San Jose Astronomical Association (SJAA) successfully hosted its 3rd Year Solar Anniversary event at Campbell Park, drawing approximately 60 attendees. Participants observed impressive solar activity, including a sunspot count of 193 and a massive H-Alpha flare. Various club members demonstrated solar observing setups, making the event a significant public outreach success.",
+      "categories": [
+        "events",
+        "observing reports",
+        "public outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Solar Anniversary",
+        "Sunspots",
+        "H-Alpha flare",
+        "Solar Observing",
+        "Campbell Park",
+        "Astronomy club",
+        "Public outreach"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephemeris-1503-dawn-captures-sharper-images-of-ceres",
+      "documentId": "ephemeris-1503",
+      "title": "Dawn Captures Sharper Images of Ceres",
+      "summary": "NASA's Dawn spacecraft captured sharper images of the dwarf planet Ceres on Feb. 12, 2015, revealing craters and mysterious bright spots, puzzling scientists as the mission approaches Ceres for orbital capture on March 6. The article also describes the Chandra X-ray Observatory's study of the supernova remnant G299.2-2.9, a Type Ia supernova, highlighting their importance as cosmic mileposts for measuring distances and the universe's expansion.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy",
+        "Planetary Science",
+        "Astrophysics",
+        "Space Missions",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Dawn spacecraft",
+        "Ceres",
+        "Dwarf planet",
+        "NASA",
+        "Images",
+        "Craters",
+        "Bright spots",
+        "Vesta",
+        "Chandra X-ray Observatory",
+        "Supernova remnant",
+        "G299.2-2.9",
+        "Type Ia supernova",
+        "White dwarf star",
+        "Universe expansion"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephemeris-1503-valentine-s-day-special-for-nasa-s-voyager-mission",
+      "documentId": "ephemeris-1503",
+      "title": "Valentine's Day Special for NASA's Voyager Mission",
+      "summary": "On Valentine's Day, February 14, 1990, NASA's Voyager 1 spacecraft captured the first-ever \"family portrait\" of the solar system, including the iconic \"Pale Blue Dot\" image of Earth, from beyond Neptune. This unplanned series of images, inspired by Carl Sagan, were the last ever taken by Voyager 1 before its camera was turned off to repurpose its computer. The spacecraft, launched in 1977, continues to operate and has since entered interstellar space, becoming the farthest human-made object from Earth.",
+      "categories": [
+        "news",
+        "space exploration",
+        "mission update",
+        "historical event",
+        "astronomy"
+      ],
+      "keywords": [
+        "Voyager 1",
+        "Pale Blue Dot",
+        "Carl Sagan",
+        "Valentine's Day",
+        "solar system portrait",
+        "interstellar space",
+        "NASA",
+        "spacecraft",
+        "Earth",
+        "1990",
+        "2015"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "ephemeris-1503-sjaa-astrophoto-gallery",
+      "documentId": "ephemeris-1503",
+      "title": "SJAA Astrophoto Gallery",
+      "summary": "This article presents the SJAA Astrophoto Gallery, showcasing a collection of celestial images captured by its members. The gallery features diverse astrophotography, including deep-sky objects like nebulae and galaxies, comets (specifically Comet Lovejoy), and a solar eclipse. Each entry details the specific astronomical target, the equipment used, and the imaging and processing techniques employed by the photographers.",
+      "categories": [
+        "Astrophotography Gallery",
+        "Observing Reports",
+        "Technical Details",
+        "Astronomy Club Content"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Deep Sky Objects",
+        "Comets",
+        "Solar Eclipse",
+        "Nebulae",
+        "Galaxies",
+        "Telescopes",
+        "Cameras",
+        "Image Processing",
+        "Astronomical Equipment",
+        "SJAA"
+      ],
+      "pageStart": 10,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-1503-winter-deep-sky-scavenger-hunt-dssh",
+      "documentId": "ephemeris-1503",
+      "title": "Winter Deep Sky Scavenger Hunt (DSSH)",
+      "summary": "Ed Wong reports on the Winter Deep Sky Scavenger Hunt (DSSH) held on February 14th, attended by about 10 people despite holiday conflicts. Participants enjoyed a clear but not perfectly dark night (SQM 20.65) while observing deep-sky objects. The event concluded with Shelley Ahn-Wong, Patrick & Emmanuelle Debaumarche, and Gary Chock winning in the beginner, intermediate, and advanced lists, respectively, for successfully finding multiple celestial objects.",
+      "categories": [
+        "Observing Report",
+        "Event Recap",
+        "Astronomy Event",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "Deep Sky Scavenger Hunt",
+        "DSSH",
+        "Astronomy Event",
+        "Observing Report",
+        "Deep Sky Objects",
+        "Competition",
+        "SQM",
+        "NGC404"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-1503-kid-spot",
+      "documentId": "ephemeris-1503",
+      "title": "KID SPOT",
+      "summary": "This document features a 'Kid Spot' section offering space-themed jokes, a quiz about planets, and a word challenge. It also provides an in-depth description of the constellation Canis Major, detailing its history, prominent stars like Sirius, and its significance in Greek Mythology. The document concludes with the answers to the 'Kid Spot' quiz and word challenge, making it an engaging and educational piece.",
+      "categories": [
+        "Astronomy",
+        "Education",
+        "Mythology",
+        "Trivia",
+        "Constellations"
+      ],
+      "keywords": [
+        "Kid Spot",
+        "Canis Major",
+        "Sirius",
+        "Constellation",
+        "Greek Mythology",
+        "Planets",
+        "Space",
+        "Quiz",
+        "Jokes",
+        "Orion"
+      ],
+      "pageStart": 14,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-1503-club-updates",
+      "documentId": "ephemeris-1503",
+      "title": "Club Updates",
+      "summary": "The San Jose Astronomical Association (SJAA) provides members with a range of resources including a library, telescope repair sessions, equipment loaner program, and various observing and educational programs like Solar Observing, Quick STARt, and Intro to the Night Sky. The article also details upcoming events such as the Half Messier Marathon and annual auction, alongside updates from Board meetings regarding elections, officer transitions, and discussions on new initiatives like the Mount Umunhum Project and future overnight star parties.",
+      "categories": [
+        "Club Programs",
+        "Member Services",
+        "Events",
+        "Organizational News",
+        "Board Meetings"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomy Club",
+        "Library",
+        "Telescope Fix It",
+        "Solar Observing",
+        "Quick STARt Program",
+        "Intro to the Night Sky",
+        "Loaner Program",
+        "School Star Party",
+        "Board Elections",
+        "Half Messier Marathon",
+        "Annual Auction",
+        "Mount Umunhum Project",
+        "Overnight Star Party",
+        "Amateur Astronomy",
+        "Member Resources",
+        "Volunteers"
+      ],
+      "pageStart": 7,
+      "pageEnd": 17
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-1503",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1503/Ephemeris.1503.pdf",
+      "txtPath": "1503/Ephemeris.1503.md"
+    }
+  ]
+}

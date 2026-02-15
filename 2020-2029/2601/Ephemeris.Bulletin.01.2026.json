@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-bulletin-01-2026-sjaa-ephemeris-bulletin",
+      "documentId": "ephemeris-bulletin-01-2026",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin for January 2026 welcomes the new year by highlighting upcoming celestial events, including a total lunar eclipse in March and a total solar eclipse in August, alongside encouraging participation in SJAA elections. It features Messier 42, the Orion Nebula, as the 'Target of the Month,' providing detailed observational history and physical characteristics. Additionally, the bulletin announces a new 'Weekly Newsletter' launched to keep members informed between Bulletin issues.",
+      "categories": [
+        "Astronomical Events",
+        "Club News",
+        "Observing Reports",
+        "Organizational Updates",
+        "Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris Bulletin",
+        "2026",
+        "Celestial Events",
+        "Total Lunar Eclipse",
+        "Total Solar Eclipse",
+        "Quadrantids",
+        "M42",
+        "Orion Nebula",
+        "Star Formation",
+        "Club Elections",
+        "Weekly Newsletter",
+        "Astronomy Club",
+        "Observational Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-bulletin-01-2026",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2601/Ephemeris.Bulletin.01.2026.pdf",
+      "txtPath": "2601/Ephemeris.Bulletin.01.2026.md"
+    }
+  ]
+}

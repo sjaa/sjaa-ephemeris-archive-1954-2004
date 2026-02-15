@@ -1,0 +1,166 @@
+{
+  "articles": [
+    {
+      "id": "ephsep11-charcoal-and-light",
+      "documentId": "ephsep11",
+      "title": "Charcoal and light",
+      "summary": "This article serves as an astronomical guide for September, outlining the visibility of various planets and celestial events like the autumnal equinox. It details optimal viewing times for planets such as Saturn, Venus, Jupiter, and Mars, and highlights the oppositions of Neptune, Uranus, and especially asteroids Ceres and Vesta. The piece contrasts Vesta's ease of observation due to its high albedo with Ceres' darker surface, noting their relevance to NASA's Dawn mission and providing tips for amateur astronomers.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Planetary Science",
+        "Space Missions",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Autumnal Equinox",
+        "Planetary Observation",
+        "Saturn",
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Mercury",
+        "Neptune",
+        "Uranus",
+        "Asteroid",
+        "Ceres",
+        "Vesta",
+        "NASA Dawn Mission",
+        "Opposition",
+        "Albedo",
+        "Amateur Astronomy",
+        "September Sky"
+      ],
+      "pageStart": 2,
+      "pageEnd": 910
+    },
+    {
+      "id": "ephsep11-nasa-space-place",
+      "documentId": "ephsep11",
+      "title": "NASA Space Place",
+      "summary": "Recent findings from NASA's Voyager 1 probe, announced in June 2011, suggest that the solar system may be significantly smaller than previously estimated, potentially by a billion or more kilometers. Researchers observed \"zero outward flow velocity\" for plasma in the heliosheath, indicating Voyager 1 is closer to the edge of the heliosphere—the bubble of plasma and magnetism defining the solar system's boundary. This recalculation comes as Voyager 1, launched in 1977, approaches interstellar space, having traveled 18 billion kilometers from Earth.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Astronomy",
+        "Research Findings"
+      ],
+      "keywords": [
+        "Voyager 1",
+        "Solar System",
+        "Heliosphere",
+        "Interstellar Space",
+        "NASA",
+        "Space Probe",
+        "Tom Krimigis",
+        "Jet Propulsion Laboratory",
+        "Nature (journal)"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep11-2011-gregory-award",
+      "documentId": "ephsep11",
+      "title": "2011 Gregory Award",
+      "summary": "The article reports the presentation of the 2011 Gregory Award to Rick Morales (Ranger Rick) at the July General Meeting. It also features a significant update on the Voyager 1 mission, indicating the spacecraft is much closer to interstellar space than previously thought. New analysis combining data from Voyager and Cassini spacecraft suggests the heliosphere's edge is approximately 18 billion kilometers from the Sun, implying Voyager 1 could cross into interstellar space very soon.",
+      "categories": [
+        "Awards",
+        "Events",
+        "Space Exploration",
+        "Science News",
+        "Research Findings"
+      ],
+      "keywords": [
+        "Gregory Award",
+        "Rick Morales",
+        "Voyager 1",
+        "Interstellar space",
+        "Heliosphere",
+        "Solar wind",
+        "Cassini spacecraft",
+        "NASA",
+        "JPL",
+        "Astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep11-the-last-month-in-astronomy",
+      "documentId": "ephsep11",
+      "title": "The Last Month in Astronomy",
+      "summary": "The 'Last Month in Astronomy' covers a range of significant astronomical discoveries and mission updates. Highlights include the first extragalactic detection of fullerene and possible graphene, the discovery of molecular oxygen in the Orion nebula, and evidence of contemporary flowing briny water on Mars. Other notable events include the detection of the first Earth Trojan asteroid, the discovery of nearly 100 new open star clusters, and updates on the Mars rover Opportunity and the Juno mission to Jupiter.",
+      "categories": [
+        "Space Discoveries",
+        "Planetary Science",
+        "Astrophysics",
+        "Space Missions",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Graphene",
+        "Fullerenes",
+        "Molecular Oxygen",
+        "Mars",
+        "Water",
+        "Opportunity Rover",
+        "Juno Spacecraft",
+        "Jupiter",
+        "Earth Trojan",
+        "Asteroids",
+        "Quasars",
+        "Black Holes",
+        "Open Clusters",
+        "Spitzer Space Telescope",
+        "Mars Reconnaissance Orbiter",
+        "VISTA Telescope",
+        "Herschel Space Observatory",
+        "WISE Spacecraft",
+        "Magellanic Clouds",
+        "Orion Nebula",
+        "Milky Way"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephsep11-club-news-and-events",
+      "documentId": "ephsep11",
+      "title": "Club News and Events",
+      "summary": "This San Jose Astronomical Association (SJAA) newsletter covers the 2012 group subscription renewal for Astronomy magazine and announces several upcoming events, including the annual Slide and Equipment Night, the inaugural Bay Area Science Festival (featuring an SJAA astronomy night), and CalStar 2011. It also includes an astronomical discussion on the albedo mystery of Vesta and Ceres, provides statistics on school star parties, and invites members to contribute articles to the newsletter.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Astronomy Discussion",
+        "Membership Information",
+        "Community Outreach",
+        "Star Parties"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "SJAA",
+        "Subscription Renewal",
+        "Vesta",
+        "Ceres",
+        "Dawn mission",
+        "Slide and Equipment Night",
+        "Bay Area Science Festival",
+        "CalStar 2011",
+        "School Star Parties",
+        "Telescope Loaner Program"
+      ],
+      "pageStart": 3,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1109/EphSep11.pdf",
+      "txtPath": "1109/EphSep11.md"
+    }
+  ]
+}

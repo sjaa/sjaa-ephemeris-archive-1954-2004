@@ -1,0 +1,202 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb03-sjaa-ephemeris",
+      "documentId": "ephfeb03",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This SJAA Ephemeris outlines the San Jose Astronomical Association's activities calendar for February and March, including general meetings, star parties, ATM classes, and astronomy classes held at Houge Park. It also details significant improvements made to the Fremont Peak Observatory, such as the removal of trees obstructing views and the addition of new observing pads, walkways, and a multi-use area as part of a volunteer improvement program.",
+      "categories": [
+        "Events Calendar",
+        "Club Activities",
+        "Observatory News",
+        "Astronomy Classes",
+        "Star Parties",
+        "Facility Improvements",
+        "Meetings"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Fremont Peak Observatory",
+        "Houge Park",
+        "Deep Sky Weekend",
+        "Star Party",
+        "ATM Class",
+        "General Meeting",
+        "Astronomy Class",
+        "Leonids",
+        "Binocular Observing",
+        "Extra Dimensions",
+        "Observatory Renovation",
+        "February 2003",
+        "March 2003"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephfeb03-mooning-simplified-eyepiece-selection",
+      "documentId": "ephfeb03",
+      "title": "Mooning: Simplified Eyepiece Selection",
+      "summary": "Dave North's article \"Mooning: Simplified Eyepiece Selection\" offers practical advice for choosing eyepieces specifically for lunar observation, distinguishing it from planetary viewing due to the Moon's high contrast and brightness. He advocates for a 7mm Nagler eyepiece for its wide field and enjoyable experience, despite acknowledging other eyepieces might offer slightly better contrast or data. The author also touches upon telescope mounts and advises trying different eyepieces firsthand at star parties rather than relying solely on theoretical advice.",
+      "categories": [
+        "Observing Guide",
+        "Equipment Review",
+        "Amateur Astronomy",
+        "Lunar Observation"
+      ],
+      "keywords": [
+        "Eyepiece selection",
+        "Lunar observation",
+        "Telescope eyepieces",
+        "Nagler eyepiece",
+        "Telescope mounts",
+        "Magnification",
+        "Contrast",
+        "Binoviewers",
+        "Amateur astronomy equipment"
+      ],
+      "pageStart": 2,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb03-out-there",
+      "documentId": "ephfeb03",
+      "title": "Out there",
+      "summary": "This article, \"Out there\" by Mark Wagner, serves as an observing guide for February, focusing on numerous deep-sky objects, primarily NGC clusters and nebulae, visible during the winter season. It offers detailed descriptions and observer comments for objects with right ascensions from 5:15 to 7:49, emphasizing the need to seize rare clear winter nights due to challenging weather. The guide encourages optimal viewing by suggesting specific filters and magnifications.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Observing",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Monthly Sky Report"
+      ],
+      "keywords": [
+        "February observing",
+        "Winter skies",
+        "Deep-sky objects",
+        "NGC clusters",
+        "Planetary nebulae",
+        "Open clusters",
+        "Globular clusters",
+        "Observing guide",
+        "Amateur astronomy",
+        "Auriga",
+        "Gemini",
+        "Monoceros",
+        "Orion",
+        "Flame Nebula",
+        "Christmas Tree Cluster"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb03-the-shallow-sky-observing-jupiter",
+      "documentId": "ephfeb03",
+      "title": "The Shallow Sky: Observing Jupiter",
+      "summary": "This article provides an observing guide for Jupiter, particularly during its opposition, detailing how to spot its Galilean moons, equatorial belts, polar regions, and the elusive Great Red Spot. It emphasizes that planetary observing is a skill that improves with practice, encouraging observers to look for subtle features like festoons, white spots, and barges. Additionally, the article briefly covers observing other planets like Saturn and Mars, and lists local astronomical events and educational opportunities.",
+      "categories": [
+        "Observing Guides",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Local Events",
+        "Education & Outreach"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Planetary observing",
+        "Galilean moons",
+        "Great Red Spot",
+        "Equatorial belts",
+        "Atmospheric features",
+        "Telescope observing",
+        "Saturn",
+        "Star parties",
+        "Astronomical events"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb03-celestial-calendar-february-2003",
+      "documentId": "ephfeb03",
+      "title": "Celestial calendar February 2003",
+      "summary": "The \"Celestial calendar February 2003\" provides comprehensive astronomical data for the month, detailing lunar phases with specific dates and times. It includes ephemeris information for Mercury, Venus, Mars, Jupiter, and Saturn, listing their magnitudes, distances (A.U.), rise, transit, and set times, along with their Right Ascension and Declination coordinates. Additionally, the calendar offers practical observing details such as hours of darkness, astronomical twilight periods, sidereal time, and highlights the darkest Saturday night for optimal viewing.",
+      "categories": [
+        "astronomy calendar",
+        "observing guide",
+        "ephemeris",
+        "celestial events",
+        "astronomical data"
+      ],
+      "keywords": [
+        "celestial calendar",
+        "February 2003",
+        "lunar phases",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "ephemeris data",
+        "rise times",
+        "set times",
+        "transit times",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "astronomical unit",
+        "hours of darkness",
+        "astronomical twilight",
+        "sidereal time",
+        "observing conditions"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephfeb03-sjaa-loaner-scope-status",
+      "documentId": "ephfeb03",
+      "title": "SJAA loaner scope status",
+      "summary": "The article details the status of the SJAA's telescope loaner program, providing an updated list of telescopes available for immediate loan, those currently on loan with due dates, and scopes with extended loan periods. SJAA members can contact Mike Koop to borrow available scopes or to be added to a waiting list for popular models. The program includes a variety of telescopes, from refractors and Newtonians to large Dobsonians and specialized instruments like a star spectroscope and solar scope.",
+      "categories": [
+        "Club Services",
+        "Equipment Management",
+        "Astronomy Programs",
+        "Internal Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope loan program",
+        "available scopes",
+        "scope loans",
+        "extended loans",
+        "waiting list",
+        "astronomical equipment",
+        "Dobson",
+        "Celestron",
+        "Orion",
+        "Spectroscope",
+        "Solar Scope"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0302/EphFeb03.pdf",
+      "txtPath": "0302/EphFeb03.md"
+    }
+  ]
+}

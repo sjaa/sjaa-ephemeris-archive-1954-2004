@@ -1,0 +1,164 @@
+{
+  "articles": [
+    {
+      "id": "ephnov12-a-comet-a-dim-eclipse-and-some-red-blueberries",
+      "documentId": "ephnov12",
+      "title": "A comet, a dim eclipse, and some red blueberries",
+      "summary": "The article discusses the newly discovered Comet C/2012 S1 (ISON), a potential sun-grazer predicted to offer a spectacular show in late 2013, while cautioning against overly optimistic predictions due to comet unpredictability. It also provides a detailed November 2012 observing guide, covering visible planets like Jupiter, Uranus, Neptune, and Mars, including a discussion of Mars's unique 'blueberry' spherules. Additionally, it highlights an upcoming penumbral lunar eclipse and other general astronomy news for the month.",
+      "categories": [
+        "Astronomical News",
+        "Observing Guide",
+        "Future Astronomical Events",
+        "Planetary Science",
+        "Skywatching"
+      ],
+      "keywords": [
+        "Comet ISON",
+        "C/2012 S1",
+        "Observing Guide",
+        "Jupiter",
+        "Mars",
+        "Martian Spherules",
+        "Opportunity Rover",
+        "Penumbral Lunar Eclipse",
+        "November 2012",
+        "Sun-grazer Comet",
+        "Planetary Viewing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephnov12-messier-half-marathon",
+      "documentId": "ephnov12",
+      "title": "Messier Half-Marathon",
+      "summary": "The San Jose Astronomical Association (SJAA) successfully hosted a \"Half Messier Marathon\" at Henry Coe State Park on October 13, an event initiated by member Teruo Utsumi. Designed to engage new, inexperienced members with a manageable observing project and foster community, the gathering brought together over twenty-five participants for a BBQ, star-hopping, and deep-sky observation. Despite muted sky conditions, the event was lauded as a great success, reigniting club camaraderie and providing new observers with a positive dark-sky experience, with plans for a second half next spring.",
+      "categories": [
+        "observing report",
+        "club event",
+        "amateur astronomy",
+        "deep sky observing",
+        "community outreach"
+      ],
+      "keywords": [
+        "Messier Half-Marathon",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Henry Coe State Park",
+        "astronomy club",
+        "observing event",
+        "deep sky objects",
+        "star hopping",
+        "telescopes",
+        "dark skies",
+        "Messier objects"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephnov12-nasa-space-place",
+      "documentId": "ephnov12",
+      "title": "NASA Space Place",
+      "summary": "This article describes a meeting of an international team of astronomers analyzing data from the Herschel Infrared Observatory. They are investigating potential new types of icy and rocky debris disks around nearby stars, identified through anomalous bolometer readings. The team faces the challenge of confirming these discoveries by differentiating them from background galaxies, all while under pressure to publish before the data becomes publicly accessible in January.",
+      "categories": [
+        "astronomy",
+        "space exploration",
+        "science news",
+        "research updates"
+      ],
+      "keywords": [
+        "Herschel Space Telescope",
+        "Infrared Observatory",
+        "debris disks",
+        "bolometer",
+        "NASA",
+        "astronomers",
+        "data analysis",
+        "exoplanetary systems",
+        "Marc J. Kuchner"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephnov12-the-last-month-in-astronomy",
+      "documentId": "ephnov12",
+      "title": "The Last Month in Astronomy",
+      "summary": "This astronomy update from October and September 2012 covers various space missions and scientific discoveries. Highlights include the Dragon spacecraft's resupply mission to the ISS, NASA's Deep Impact probe re-targeting an asteroid, and the discovery of dry ice snow in Venus's atmosphere. Significant advancements were made in cosmology with a more accurate measurement of the Hubble constant using the Spitzer telescope, alongside observations of a new X-ray nova and insights into the Milky Way's hot gas halo.",
+      "categories": [
+        "Space Missions",
+        "Planetary Science",
+        "Astrophysics",
+        "Cosmology",
+        "Galactic Astronomy",
+        "Observational Astronomy",
+        "Space Telescopes",
+        "Scientific Discoveries"
+      ],
+      "keywords": [
+        "Dragon spacecraft",
+        "ISS",
+        "SpaceX",
+        "Venus atmosphere",
+        "carbon dioxide snow",
+        "X-ray nova",
+        "black hole",
+        "Swift telescope",
+        "Deep Impact",
+        "comets",
+        "asteroids",
+        "Hubble constant",
+        "universe expansion",
+        "Spitzer telescope",
+        "Cepheid variables",
+        "Milky Way halo",
+        "baryonic matter",
+        "Arp 116",
+        "Hubble Space Telescope",
+        "galaxies"
+      ],
+      "pageStart": 5,
+      "pageEnd": 882
+    },
+    {
+      "id": "ephnov12-sjaa-club-programs-and-activities",
+      "documentId": "ephnov12",
+      "title": "SJAA Club Programs and Activities",
+      "summary": "This article details the San Jose Astronomical Association's (SJAA) recent activities and programs, including solar viewing at a festival, a general meeting with a guest speaker, and an Imaging Special Interest Group session. It also highlights the revamped telescope loaner program, the successful school star party initiative, and provides organizational contacts and publication information for the \"SJAA Ephemeris\" newsletter.",
+      "categories": [
+        "Club News and Updates",
+        "Community Outreach",
+        "Educational Programs",
+        "Event Reports",
+        "Organizational Information",
+        "Observing Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Solar Viewing",
+        "Almaden Art&Wine Festival",
+        "General Meeting",
+        "Imaging Special Interest Group",
+        "Telescope Loaner Program",
+        "QuickSTARt",
+        "School Star Parties",
+        "Astronomy Club",
+        "Ephemeris Newsletter",
+        "November 2012"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephnov12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1211/EphNov12.pdf",
+      "txtPath": "1211/EphNov12.md"
+    }
+  ]
+}

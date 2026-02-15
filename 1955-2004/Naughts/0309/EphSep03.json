@@ -1,0 +1,189 @@
+{
+  "articles": [
+    {
+      "id": "ephsep03-sjaa-ephemeris-feature-observing-reports",
+      "documentId": "ephsep03",
+      "title": "SJAA EPHEMERIS Feature: Observing Reports",
+      "summary": "This issue of the SJAA Ephemeris features multiple astronomy reports and resources. It includes a recounting of a successful club observing weekend at Yosemite's Glacier Point, a comprehensive calendar of upcoming San Jose Astronomical Association activities, and articles discussing planetary science concepts like the 'high side' and 'low side' of celestial bodies. Additionally, it offers observing tips for Mars after its closest opposition and a detailed guide to various deep-sky objects for amateur astronomers.",
+      "categories": [
+        "Observing Reports",
+        "Club Events",
+        "Astronomy Calendar",
+        "Planetary Science",
+        "Deep Sky Observing",
+        "Observing Guides",
+        "Amateur Astronomy Tips"
+      ],
+      "keywords": [
+        "SJAA",
+        "Glacier Point",
+        "Yosemite",
+        "Mars",
+        "Moon",
+        "celestial topography",
+        "tidal locking",
+        "star parties",
+        "astronomy events",
+        "deep-sky objects",
+        "telescopes",
+        "observing tips",
+        "planetary observation",
+        "open clusters",
+        "galaxies",
+        "planetary nebulae",
+        "double stars"
+      ],
+      "pageStart": 2,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephsep03-calstar-deep-sky-event",
+      "documentId": "ephsep03",
+      "title": "CalStar Deep Sky Event",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting the fourth annual CalStar deep sky observing event from September 25-27, 2003, at Lake San Antonio, coinciding with the new moon. This relaxed \"end of season star party\" is for deep sky enthusiasts to gather for observing, offering campsites and rental cabins, and includes suggested observing targets like NGC 7510 and NGC 7380.",
+      "categories": [
+        "Event Announcement",
+        "Deep Sky Observing",
+        "Star Party",
+        "Club Activities"
+      ],
+      "keywords": [
+        "CalStar",
+        "Deep Sky",
+        "Observing Event",
+        "Star Party",
+        "SJAA",
+        "Lake San Antonio",
+        "September 2003",
+        "NGC 7510",
+        "NGC 7380",
+        "Cepheus",
+        "Open Cluster",
+        "New Moon"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephsep03-evc-mho-grand-opening",
+      "documentId": "ephsep03",
+      "title": "EVC MHO grand opening",
+      "summary": "The Montgomery Hill Observatory (MHO) at Evergreen Valley College (EVC) is hosting its grand opening on Thursday, Sept. 4, starting at 3:30 p.m. The event includes a ribbon cutting, observatory tours, and \"first light\" viewing through its new TMB 180mm refractor and C-14 telescopes, coinciding with a close Mars opposition. A star party is also scheduled for Saturday, Sept. 6, offering additional public viewing opportunities.",
+      "categories": [
+        "Events",
+        "News",
+        "Observing Opportunities",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Montgomery Hill Observatory",
+        "MHO",
+        "Evergreen Valley College",
+        "EVC",
+        "grand opening",
+        "Mars opposition",
+        "TMB 180mm f/9 EDstar APO refractor",
+        "C-14",
+        "observatory tours",
+        "first light",
+        "star party",
+        "SJAA",
+        "September 4",
+        "September 6"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep03-member-magazine-subscription-updates",
+      "documentId": "ephsep03",
+      "title": "Member Magazine Subscription Updates",
+      "summary": "The article announces updates to magazine subscriptions available through the SJAA club. The *Sky & Telescope* club rate is increasing to $33 (making combined membership $48) for subscriptions expiring or starting January 1, 2004, or later. Conversely, the *Astronomy* magazine group subscription rate remains $29 for one year or $55 for two years, with instructions for renewal provided by Jim Van Nuland.",
+      "categories": [
+        "Club Announcements",
+        "News",
+        "Subscriptions",
+        "Financial Updates"
+      ],
+      "keywords": [
+        "Sky & Telescope",
+        "Astronomy magazine",
+        "SJAA",
+        "Subscription rates",
+        "Magazine discount",
+        "Renewal",
+        "Club membership",
+        "2004",
+        "Cost increase"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephsep03-celestial-calendar-september-2003",
+      "documentId": "ephsep03",
+      "title": "Celestial calendar September 2003",
+      "summary": "This document, titled \"Celestial calendar September 2003,\" provides a detailed astronomical ephemeris for the month. It includes data on lunar phases, rise/transit/set times and coordinates for naked-eye planets (Mercury, Venus, Mars, Jupiter, Saturn), hours of darkness, astronomical twilight, and sidereal time. Additionally, it highlights the 'Darkest Saturday Night' for optimal viewing and gives directions to Houge Park, suggesting it as an observing location.",
+      "categories": [
+        "Astronomical Calendar",
+        "Ephemeris",
+        "Observing Guide",
+        "Celestial Events",
+        "Planetary Data"
+      ],
+      "keywords": [
+        "September 2003",
+        "Lunar Phases",
+        "Planets",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Astronomical Data",
+        "Observing",
+        "Dark Sky",
+        "Twilight",
+        "Sidereal Time",
+        "Houge Park",
+        "Richard Stanton"
+      ],
+      "pageStart": 6,
+      "pageEnd": 2003
+    },
+    {
+      "id": "ephsep03-sjaa-loaner-scope-status",
+      "documentId": "ephsep03",
+      "title": "SJAA loaner scope status",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a detailed status report on its telescope loaner program, accessible to all SJAA members. It lists scopes currently available for immediate loan, those on loan with their due dates, and scopes with extended loan periods. Members interested in borrowing a scope, or being placed on a waiting list, are instructed to contact Mike Koop.",
+      "categories": [
+        "membership services",
+        "resource management",
+        "astronomy club",
+        "program status update"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy club",
+        "member benefit",
+        "Dobson",
+        "refractor",
+        "Newtonian",
+        "Schmidt-Cassegrain"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephsep03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0309/EphSep03.pdf",
+      "txtPath": "0309/EphSep03.md"
+    }
+  ]
+}

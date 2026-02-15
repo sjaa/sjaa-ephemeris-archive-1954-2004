@@ -1,0 +1,259 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-20-12-houge-park-facility-storage-cleanup",
+      "documentId": "ephemeris-20-12",
+      "title": "Houge Park Facility Storage Cleanup",
+      "summary": "The Houge Park Facility Storage, used by various SJAA programs, underwent a much-needed cleanup and reorganization. Proposed and approved in 2019, the effort was carried out by several members in October 2020, leading to designated and locked storage for valuable items and improved overall organization.",
+      "categories": [
+        "Club Operations",
+        "Facilities Management",
+        "Volunteer Activity"
+      ],
+      "keywords": [
+        "Houge Park Facility Storage",
+        "SJAA",
+        "Storage Organization",
+        "Cleanup",
+        "Locked Cabinets",
+        "Volunteer Effort",
+        "Club Programs"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-20-12-november-armchair-star-party",
+      "documentId": "ephemeris-20-12",
+      "title": "November Armchair Star Party",
+      "summary": "The SJAA Armchair Star Party returned in November after a three-month summer hiatus. This virtual event showcased five celestial objects: Mars, the Wizard nebula, the Elephant trunk nebula, the Owl/ET cluster, and the Andromeda galaxy. The event was supported by a team of hosts and interns, with plans to resume Armchair events next year.",
+      "categories": [
+        "Event Report",
+        "Astronomy Event",
+        "Observing Highlights",
+        "Community"
+      ],
+      "keywords": [
+        "November Armchair Star Party",
+        "SJAA",
+        "Mars",
+        "Wizard nebula",
+        "Elephant trunk nebula",
+        "Owl/ET cluster",
+        "Andromeda galaxy",
+        "Virtual Star Party",
+        "Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-20-12-lemonade-from-lemons-in-the-heart-of-auriga",
+      "documentId": "ephemeris-20-12",
+      "title": "Lemonade from lemons in the heart of Auriga",
+      "summary": "The author embarked on an astrophotography trip to Pinnacles West during the October New Moon, initially hoping to image IC342 at high resolution. Despite meticulous equipment preparation, poor seeing conditions forced a change of plans. Adapting to the 'twinkly' stars, the author switched to a smaller telescope and successfully captured images of IC405 and IC410 in Auriga, turning a challenging night into a productive one.",
+      "categories": [
+        "Astrophotography",
+        "Observing Report",
+        "Technical",
+        "Personal Narrative"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Auriga",
+        "IC405",
+        "IC410",
+        "Pinnacles West",
+        "Seeing conditions",
+        "Equatorial mount",
+        "Flattener",
+        "Nebulae",
+        "AT65EDQ",
+        "Nikon D5500Ha",
+        "PixInsight"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-20-12-the-sky-shed",
+      "documentId": "ephemeris-20-12",
+      "title": "The Sky Shed",
+      "summary": "The author recounts his experience building a Sky Shed backyard observatory in 2004, detailing the challenges of site selection, sourcing materials from generic hardware stores instead of specialized lumberyards, and improvising construction techniques. Despite the amateur process and difficulties, the rolling-roof observatory, built over weekends, proved functional and durable for over four years, demonstrating that a personal observatory is an achievable project for enthusiasts.",
+      "categories": [
+        "DIY Project",
+        "Personal Experience",
+        "Astronomy Equipment",
+        "Observatory Construction"
+      ],
+      "keywords": [
+        "Sky Shed",
+        "backyard observatory",
+        "DIY",
+        "construction",
+        "rolling roof observatory",
+        "Paul Kohlmiller",
+        "astronomy equipment",
+        "home improvement"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephemeris-20-12-earth-and-moon-once-shared-a-magnetic-shield-protecting-their-atmospheres",
+      "documentId": "ephemeris-20-12",
+      "title": "Earth and Moon Once Shared a Magnetic Shield, Protecting Their Atmospheres",
+      "summary": "A NASA-led study suggests that 4 to 3.5 billion years ago, Earth and the Moon shared connected magnetic fields, creating a combined shield against the Sun's harsh radiation and solar wind. This lunar protection was critical for Earth to retain its early atmosphere, eventually enabling the development of life. The research also indicates atmospheric exchange between the two bodies and highlights the importance of future Artemis missions to collect samples from the lunar South Pole to further test these findings.",
+      "categories": [
+        "Planetary Science",
+        "Astrophysics",
+        "Astrobiology",
+        "Space Exploration",
+        "Scientific Research",
+        "Early Earth History"
+      ],
+      "keywords": [
+        "Earth",
+        "Moon",
+        "Magnetic Field",
+        "Atmosphere",
+        "Solar Wind",
+        "Habitability",
+        "Early Earth",
+        "NASA",
+        "Artemis Program",
+        "Apollo Missions",
+        "Magnetosphere",
+        "Planetary Evolution",
+        "Science Advances"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-20-12-solar-cycle-25-is-here-nasa-noaa-scientists-explain-what-that-means",
+      "documentId": "ephemeris-20-12",
+      "title": "Solar Cycle 25 Is Here. NASA, NOAA Scientists Explain What That Means",
+      "summary": "NASA and NOAA scientists have officially announced the start of Solar Cycle 25, with the solar minimum occurring in December 2019. This new cycle signifies an upcoming increase in solar activity, predicted to reach its maximum in July 2025, which will bring heightened space weather. Experts emphasize the importance of understanding and preparing for these changes, as increased solar activity can impact technology on Earth, as well as astronauts and spacecraft during missions like Artemis.",
+      "categories": [
+        "News",
+        "Space Weather",
+        "Astronomy",
+        "Solar Physics",
+        "Science Communication",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Solar Cycle 25",
+        "solar minimum",
+        "solar maximum",
+        "space weather",
+        "NASA",
+        "NOAA",
+        "sunspots",
+        "solar flares",
+        "coronal mass ejections",
+        "Artemis program",
+        "space radiation",
+        "heliophysics",
+        "forecasting"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-20-12-kid-spot",
+      "documentId": "ephemeris-20-12",
+      "title": "Kid Spot",
+      "summary": "This \"Kid Spot\" article features a collection of astronomy and physics-themed jokes, designed to entertain and offer a lighthearted take on scientific concepts. It also includes brief \"Did You Know?\" sections, providing fascinating facts about significant astronomical phenomena. These facts cover the large-scale gamma-ray structures known as Fermi Bubbles near the Galactic center and the intensely magnetic neutron stars called Magnetars.",
+      "categories": [
+        "Educational Content",
+        "Astronomy",
+        "Humor"
+      ],
+      "keywords": [
+        "Astronomy jokes",
+        "Physics humor",
+        "Fermi Bubbles",
+        "Magnetars",
+        "Neutron stars",
+        "Galactic center",
+        "Space facts"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-20-12-from-the-board-of-directors",
+      "documentId": "ephemeris-20-12",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) is adapting its operations due to the COVID-19 pandemic, leading to event cancellations, a shift to online formats for some activities like the Armchair Star Party, and the rescheduling of the Fall Swap Meet. The article also announces upcoming online elections for both board members and officer positions in February and March 2021, and provides excerpts from recent board meetings detailing calendar progress, volunteer projects, and the status of the loaner program.",
+      "categories": [
+        "Organizational Updates",
+        "Events",
+        "Announcements",
+        "Governance",
+        "COVID-19 Impact"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "COVID-19",
+        "Event Cancellations",
+        "Online Events",
+        "Elections",
+        "San Jose Astronomical Association",
+        "Board Meetings",
+        "Loaner Program",
+        "Armchair Star Party",
+        "Volunteer Projects",
+        "Santa Clara County",
+        "Donations",
+        "Swap Meet"
+      ],
+      "pageStart": 2,
+      "pageEnd": 15
+    },
+    {
+      "id": "ephemeris-20-12-sjaa-library",
+      "documentId": "ephemeris-20-12",
+      "title": "SJAA Library",
+      "summary": "The article details a variety of programs and resources offered by the San Jose Astronomical Association (SJAA) for its members and the wider community. These include a library, equipment loaner program, and services like telescope 'Fix It' sessions. SJAA also hosts numerous educational initiatives and events such as solar observing, 'Quick STARt' sessions for beginners, 'Intro to the Night Sky' events, astro imaging groups and workshops, and school star parties, catering to all ages and skill levels in amateur astronomy.",
+      "categories": [
+        "Programs",
+        "Services",
+        "Events",
+        "Education",
+        "Community Outreach",
+        "Resources",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Amateur Astronomy",
+        "Telescope Fix It",
+        "Solar Observing",
+        "Star Parties",
+        "Astro Imaging",
+        "Astrophotography",
+        "Night Sky",
+        "Beginner Astronomy",
+        "Loaner Equipment",
+        "Educational Programs",
+        "Community Engagement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-20-12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2012/Ephemeris_20-12.pdf",
+      "txtPath": "2012/Ephemeris_20-12.md"
+    }
+  ]
+}

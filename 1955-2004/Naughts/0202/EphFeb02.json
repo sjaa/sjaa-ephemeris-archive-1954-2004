@@ -1,0 +1,133 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb02-observing-through-60-inches",
+      "documentId": "ephfeb02",
+      "title": "Observing Through 60 Inches",
+      "summary": "The author recounts her memorable experience observing through the historic 60-inch telescope at Mount Wilson, detailing breathtaking views of celestial objects like Saturn, Jupiter's Red Spot, various nebulae, and galaxies such as M87 and gravitationally lensed quasars. This unique opportunity, shared with the Los Angeles Sidewalk Astronomers, provided profound visual insights beyond typical star parties, showcasing the power of a large instrument and the educational value of experienced guides. The article emphasizes the unique visual details discernible through such a powerful telescope, especially concerning objects like the M87 jet and the double quasar Q957+561.",
+      "categories": [
+        "Observing Report",
+        "Personal Experience",
+        "Telescope Observing",
+        "Astronomy History",
+        "Deep-Sky Observing"
+      ],
+      "keywords": [
+        "Mount Wilson Observatory",
+        "60-inch telescope",
+        "Deep-sky objects",
+        "Planetary observing",
+        "Quasars",
+        "Gravitational lensing",
+        "M87 jet",
+        "Saturn",
+        "Jupiter",
+        "Nebulae",
+        "Galaxies",
+        "Astronomical observations",
+        "Los Angeles Sidewalk Astronomers",
+        "Telescope history"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb02-the-shallow-sky",
+      "documentId": "ephfeb02",
+      "title": "The Shallow Sky",
+      "summary": "This article details how to observe Jupiter, which is at opposition, describing its turbulent atmosphere, named belts, zones, and features like the Great Red Spot. It also provides brief observing guides for Saturn, Mars, and Venus, and discusses astronomy software for Palm Pilots. The piece includes updates on club activities such as a donation, a classified ad, and future meeting events.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Astronomy",
+        "Practical Astronomy",
+        "Educational",
+        "Club News",
+        "Events",
+        "Software",
+        "Community"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "Great Red Spot",
+        "Opposition",
+        "Planetary Observation",
+        "Atmospheric Features",
+        "Telescopes",
+        "Observing Tips",
+        "Astronomy Software",
+        "SJAA",
+        "Mars",
+        "Venus",
+        "ALPO",
+        "Fremont Peak"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephfeb02-mooning",
+      "documentId": "ephfeb02",
+      "title": "Mooning",
+      "summary": "The article describes February as a 'Bad Moon month' for observers in the author's region, missing out on magnificent occultations of Saturn and Vesta due to location and timing. However, it highlights February, March, and April as prime months for general lunar observation, particularly the first quarter Moon, due to high elevations and often surprisingly good seeing conditions in late winter/early spring, making it an ideal time for early evening viewing despite potential weather challenges.",
+      "categories": [
+        "Observing Guide",
+        "Lunar Observation",
+        "Astronomical Events",
+        "Observing Conditions"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar observation",
+        "Occultation",
+        "Saturn",
+        "Vesta",
+        "February",
+        "Observing conditions",
+        "Seeing",
+        "First quarter Moon",
+        "Full Moon",
+        "Weather"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephfeb02-sjaa-loaner-scope-status",
+      "documentId": "ephfeb02",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The document outlines the current status of the San Jose Astronomical Association (SJAA) loaner telescope program, detailing which scopes are available for immediate loan, which are currently on loan, and those with extended loan periods. It provides contact information for Mike Koop, who manages the program, and explains how members can borrow a telescope or be added to a waiting list. Various types of telescopes, including Dobsonians, Newtonians, refractors, and specialized scopes like spectrographs, are listed with their status.",
+      "categories": [
+        "Club Information",
+        "Membership Services",
+        "Equipment Loan Program",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Astronomy Equipment",
+        "Dobsonian",
+        "Newtonian",
+        "Refractor",
+        "Star Spectroscope",
+        "Solar Scope",
+        "Schmidt-Cassegrain",
+        "Waiting List",
+        "Mike Koop"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb02",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0202/EphFeb02.pdf",
+      "txtPath": "0202/EphFeb02.md"
+    }
+  ]
+}

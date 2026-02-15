@@ -1,0 +1,161 @@
+{
+  "articles": [
+    {
+      "id": "ephoct04-the-discovery-of-comet-machholz-comet-2004-q2",
+      "documentId": "ephoct04",
+      "title": "The Discovery of Comet Machholz (Comet 2004 Q2)",
+      "summary": "Don Machholz recounts his discovery of Comet C/2004 Q2 (Machholz) on August 27, 2004, detailing his methodical visual comet hunting approach using a 6-inch reflector and various verification methods. The narrative highlights the persistence of amateur astronomers in an era of automated sky surveys and the process of official comet confirmation. The article also provides a calendar of events for the San Jose Astronomical Association.",
+      "categories": [
+        "Comet Discovery",
+        "Amateur Astronomy",
+        "Observational Reports",
+        "Astronomical Equipment",
+        "Club News & Events"
+      ],
+      "keywords": [
+        "Comet Machholz",
+        "C/2004 Q2",
+        "Don Machholz",
+        "Comet hunting",
+        "Visual observation",
+        "Amateur astronomy",
+        "Telescopes",
+        "Star charts",
+        "CBAT",
+        "San Jose Astronomical Association",
+        "Star parties",
+        "Automated sky surveys"
+      ],
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephoct04-james-lick",
+      "documentId": "ephoct04",
+      "title": "James Lick",
+      "summary": "James Lick, born in 1796, led an unusual life, starting as a carpenter and piano maker before building a fortune through successful businesses in South America and subsequent land ownership in California during the Gold Rush. At 77, advised by astronomer George Davidson, Lick decided to dedicate his wealth to funding a great astronomical observatory. This resulted in the famed Lick Observatory on Mt. Hamilton, where he is interred beneath the pier of its 36-inch refractor telescope.",
+      "categories": [
+        "Biography",
+        "History",
+        "Astronomy History",
+        "Philanthropy"
+      ],
+      "keywords": [
+        "James Lick",
+        "Lick Observatory",
+        "Mt. Hamilton",
+        "Astronomy",
+        "Observatory",
+        "Biography",
+        "California Gold Rush",
+        "San Francisco",
+        "George Davidson",
+        "36-inch refractor",
+        "Piano making",
+        "Land ownership",
+        "19th Century History",
+        "Philanthropy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephoct04-silicon-valley-astronomy-lecture-series",
+      "documentId": "ephoct04",
+      "title": "Silicon Valley Astronomy Lecture Series",
+      "summary": "Apollo 9 astronaut Russell Schweickart is scheduled to deliver a non-technical, illustrated lecture titled \"Asteroid Deflection: Hopes and Fears\" on October 6, 2004, at Foothill College in Los Altos Hills, California. The free public event, part of the Silicon Valley Astronomy Lecture Series, will cover the threat of cosmic rocks and methods for protecting Earth from asteroid impacts. Schweickart, also chairman of the B612 Foundation, will discuss both nuclear and non-nuclear deflection alternatives.",
+      "categories": [
+        "Events",
+        "Public Lecture",
+        "Astronomy",
+        "Space Exploration",
+        "News"
+      ],
+      "keywords": [
+        "Russell Schweickart",
+        "Apollo 9",
+        "Asteroid Deflection",
+        "Planetary Defense",
+        "B612 Foundation",
+        "Silicon Valley Astronomy Lecture Series",
+        "Foothill College",
+        "NASA Ames Research Center",
+        "SETI Institute",
+        "Astronomical Society of the Pacific",
+        "Public Outreach"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephoct04-solar-system-stats-for-october-2004",
+      "documentId": "ephoct04",
+      "title": "Solar System Stats for October 2004",
+      "summary": "This document provides an astronomical ephemeris for October 2004, detailing key statistics for planets in our solar system (Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune) and the Sun. For specific dates within the month (1st, 11th, 21st), it lists their Right Ascension, Declination, distance from Earth in Astronomical Units, apparent magnitude, and apparent angular size. The data is adapted from the Observer's Handbook published by The Royal Astronomical Society of Canada.",
+      "categories": [
+        "observing data",
+        "astronomy",
+        "ephemeris",
+        "technical"
+      ],
+      "keywords": [
+        "Solar System",
+        "October 2004",
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Sun",
+        "Right Ascension",
+        "Declination",
+        "distance (AU)",
+        "magnitude",
+        "apparent size",
+        "Observer's Handbook",
+        "RASC",
+        "astronomical statistics"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephoct04-sjaa-loaner-scope-status",
+      "documentId": "ephoct04",
+      "title": "SJAA loaner scope status",
+      "summary": "This document outlines the status of the San Jose Astronomical Association's (SJAA) loaner telescope program for its members. It provides contact information for borrowing scopes and lists various telescopes currently available, those out on loan with due dates, and scopes with extended loan periods. A waiting list for popular items is also included, detailing different types of telescopes such as Dobsonians, Newtonians, and Schmidt-Cassegrains.",
+      "categories": [
+        "Club Resources",
+        "Equipment Loan Program",
+        "Member Services",
+        "Astronomy Club Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "loaner scope",
+        "telescope",
+        "astronomy equipment",
+        "Dobson",
+        "Refractor",
+        "Schmidt-Cassegrain",
+        "borrowing",
+        "availability",
+        "waiting list",
+        "members"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephoct04",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0410/EphOct04.pdf",
+      "txtPath": "0410/EphOct04.md"
+    }
+  ]
+}

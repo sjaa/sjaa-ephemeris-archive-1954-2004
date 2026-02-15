@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "id": "bulletin-2025-11-sjaa-ephemeris-bulletin",
+      "documentId": "bulletin-2025-11",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin for November 2025 highlights current celestial events, specifically the ongoing visibility of comets C/2025 R2 Swan and C/2025 A6 Lemmon, and encourages members to attend observing nights. It features the Helix Nebula as the \"Target of the Month,\" providing detailed observation guidance including location and characteristics. Additionally, the bulletin includes important club announcements regarding upgraded email lists, a new membership renewal system, and a call for volunteers.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guides",
+        "Club News",
+        "Deep Sky Objects",
+        "Comets"
+      ],
+      "keywords": [
+        "Comets",
+        "C/2025 R2 Swan",
+        "C/2025 A6 Lemmon",
+        "Helix Nebula",
+        "NGC 7293",
+        "Planetary Nebula",
+        "Aquarius",
+        "SJAA",
+        "Observing",
+        "Membership",
+        "Volunteers",
+        "Astronomy Club",
+        "Ephemeris"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "bulletin-2025-11",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2511/Bulletin.2025.11.pdf",
+      "txtPath": "2511/Bulletin.2025.11.md"
+    }
+  ]
+}

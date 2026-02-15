@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-bulletin-06-2025-sjaa-ephemeris-bulletin",
+      "documentId": "ephemeris-bulletin-06-2025",
+      "title": "SJAA Ephemeris Bulletin",
+      "summary": "The SJAA Ephemeris Bulletin for June 2025 announces the summer solstice, upcoming SJAA events, and celebrates astronomical birthdays. It features M51, the Whirlpool Galaxy, as the 'Target of the Month,' detailing its discovery, characteristics, and the recent detection of an exoplanet within it. The bulletin also solicits volunteers for various SJAA programs, including the Imaging SIG, Loaner Program, and School Star Party Program, and promotes a free telescope 'fix-it' clinic for members.",
+      "categories": [
+        "news",
+        "observing reports",
+        "events",
+        "community outreach",
+        "technical"
+      ],
+      "keywords": [
+        "June 2025",
+        "Summer Solstice",
+        "SJAA",
+        "M51 Whirlpool Galaxy",
+        "Exoplanet",
+        "Canes Venatici",
+        "Telescope Maintenance",
+        "Collimation",
+        "Volunteer Opportunities",
+        "Astrophotography",
+        "Astronomy Education",
+        "Charles Messier",
+        "Kip Thorne",
+        "Carolyn Shoemaker"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-bulletin-06-2025",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2506/Ephemeris.Bulletin.06.2025.pdf",
+      "txtPath": "2506/Ephemeris.Bulletin.06.2025.md"
+    }
+  ]
+}

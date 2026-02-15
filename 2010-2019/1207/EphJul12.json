@@ -1,0 +1,149 @@
+{
+  "articles": [
+    {
+      "id": "ephjul12-the-shallow-sky",
+      "documentId": "ephjul12",
+      "title": "The Shallow Sky",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) activity calendar for July and August 2012, including general meetings, solar observing events, astronomy classes, and star parties. It also features an article detailing personal observations and techniques used during the May 2012 annular eclipse and Venus transit, discussing phenomena like the Venusian aureole. The article concludes with a guide to celestial objects visible in July and highlights the SJAA telescope loaner program and the Golden State Star Party.",
+      "categories": [
+        "Events Calendar",
+        "Observing Reports",
+        "Astronomy Education",
+        "Club Activities",
+        "Celestial Viewing Guide"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "July 2012",
+        "August 2012",
+        "Annular Eclipse",
+        "Venus Transit",
+        "Solar Observing",
+        "Star Party",
+        "Astronomy Class",
+        "Houge Park",
+        "Henry Coe Park",
+        "H-alpha observing",
+        "Telescope Tune-up",
+        "Astronomical League",
+        "Sky Safari",
+        "Planetarium software",
+        "Binocular Projection",
+        "Solar Filter",
+        "Venus Aureole",
+        "Planetary Observing",
+        "Moon",
+        "Sunspots",
+        "Telescope Loaner Program",
+        "Golden State Star Party",
+        "Amateur Astronomy",
+        "Observing Techniques"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "ephjul12-the-last-month-in-astronomy",
+      "documentId": "ephjul12",
+      "title": "The Last Month In Astronomy",
+      "summary": "The article recaps significant astronomy events from the past month, highlighting the successful launch of NASA's NuSTAR X-ray telescope on June 13, 2012, designed to provide much clearer images. It also reports the cancellation of the $119 million GEMS project due to budget overruns on June 7, 2012. Finally, it details observations of the rare Venus Transit across the Sun on June 5, 2012, including public viewing events and images from solar telescopes.",
+      "categories": [
+        "news",
+        "space missions",
+        "observing reports",
+        "astronomy events",
+        "project updates"
+      ],
+      "keywords": [
+        "NuSTAR",
+        "X-ray telescope",
+        "NASA",
+        "Pegasus XL",
+        "GEMS project",
+        "Venus Transit",
+        "Sun",
+        "solar observing",
+        "SJAA"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjul12-recent-astronomical-news-and-features",
+      "documentId": "ephjul12",
+      "title": "Recent Astronomical News and Features",
+      "summary": "This article from July 2012's SJAA Ephemeris highlights several astronomical developments: the confirmed direct collision course of the Andromeda Galaxy with the Milky Way in 4 billion years; the discovery of volcanic, not biological, organic chemistry on Mars; and an annular solar eclipse observed in May 2012. It also covers the Herschel space observatory's finding of a massive galactic filament and NASA's new program loaning the GALEX space observatory to Caltech for continued operation.",
+      "categories": [
+        "Astronomy News",
+        "Galactic Dynamics",
+        "Planetary Science",
+        "Observational Events",
+        "Space Telescopes",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Andromeda Galaxy",
+        "Milky Way Collision",
+        "Mars Organic Chemistry",
+        "Annular Solar Eclipse",
+        "Herschel Observatory",
+        "Galactic Filaments",
+        "GALEX",
+        "NASA Loaner Program",
+        "M31",
+        "M33",
+        "Supermoon",
+        "Hubble"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjul12-it-must-be-astronomical",
+      "documentId": "ephjul12",
+      "title": "It Must Be Astronomical...",
+      "summary": "NASA's Astrophysics Division is making a rapid succession of groundbreaking astronomical discoveries, announcing numerous planetary systems, galaxy clusters, and cosmic phenomena monthly, driven by observatories like Hubble, Spitzer, Chandra, Fermi, and Kepler. Future missions such as the James Webb Space Telescope are poised to further expand our understanding of exoplanets, dark matter, galaxy evolution, and the early universe. This continuous stream of findings is guided by an ambitious research program focused on key priorities, while local astronomical associations also host educational 'star parties'.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Space Exploration",
+        "Scientific Discoveries",
+        "Space Telescopes",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "NASA",
+        "Astrophysics",
+        "Astronomical Discoveries",
+        "Exoplanets",
+        "Planetary Systems",
+        "James Webb Space Telescope",
+        "JWST",
+        "Kepler Spacecraft",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "Chandra X-ray Observatory",
+        "Fermi Gamma-ray Space Telescope",
+        "Dark Energy",
+        "Dark Matter",
+        "Galaxies",
+        "Black Holes",
+        "Big Bang",
+        "Space Observatories",
+        "School Star Parties"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjul12",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1207/EphJul12.pdf",
+      "txtPath": "1207/EphJul12.md"
+    }
+  ]
+}

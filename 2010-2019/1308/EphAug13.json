@@ -1,0 +1,182 @@
+{
+  "articles": [
+    {
+      "id": "ephaug13-grand-canyon-star-party-june-2013",
+      "documentId": "ephaug13",
+      "title": "Grand Canyon Star Party, June 2013",
+      "summary": "The author details her 2013 trip to Arizona, attending a Road Scholar program focused on astronomy that culminated in the 23rd Annual Grand Canyon Star Party. Her journey included visits to Lowell Observatory and Meteor Crater, along with personal stargazing experiences in Flagstaff and at the Grand Canyon's South Rim. She recounts observing various celestial objects, solar phenomena, and participating in public astronomy events, highlighting the region's dark skies and the dedication of amateur astronomers.",
+      "categories": [
+        "Observing Report",
+        "Event",
+        "Travel",
+        "Astronomy",
+        "Public Outreach",
+        "Education"
+      ],
+      "keywords": [
+        "Grand Canyon Star Party",
+        "Lowell Observatory",
+        "Meteor Crater",
+        "Flagstaff",
+        "Stargazing",
+        "Amateur Astronomy",
+        "Clark Telescope",
+        "Pluto Discovery Telescope",
+        "Venus",
+        "Mercury",
+        "M13",
+        "Solar Viewing",
+        "Road Scholar"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephaug13-golden-state-star-party-report",
+      "documentId": "ephaug13",
+      "title": "Golden State Star Party Report",
+      "summary": "The 6th Golden State Star Party (GSSP), held near Adin, California, hosted 400 observers who enjoyed exceptionally clear skies for remarkable deep-sky observations, including detailed views of nebulae and interacting galaxies. The report highlights specific astronomical observations, showcases astrophotography by San Jose Astronomical Association members, and notes the presence of diverse telescopes and local community involvement in catering.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Star Party"
+      ],
+      "keywords": [
+        "Golden State Star Party",
+        "GSSP",
+        "Star Party",
+        "Deep-sky objects",
+        "Nebulae",
+        "Galaxies",
+        "Globular Clusters",
+        "Astrophotography",
+        "Telescopes",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Adin"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephaug13-shallow-sky-there-are-no-vulcans-in-the-underworld",
+      "documentId": "ephaug13",
+      "title": "Shallow Sky - There Are No Vulcans in the Underworld",
+      "summary": "This article guides observers on locating various celestial objects in the August sky, particularly focusing on the outer solar system planets like Uranus, Neptune, and the challenging Pluto, along with an early hunt for Comet ISON. It also details the recent naming of Pluto's smaller moons, Kerberos and Styx, explaining why the popular name \"Vulcan\" was rejected to maintain mythological themes. The piece concludes with an update on the New Horizons mission's progress towards Pluto and its moons.",
+      "categories": [
+        "observing guide",
+        "astronomy news",
+        "planetary science",
+        "solar system",
+        "comets"
+      ],
+      "keywords": [
+        "August observing",
+        "Pluto",
+        "New Horizons mission",
+        "Comet ISON",
+        "outer solar system",
+        "Pluto's moons",
+        "IAU naming",
+        "celestial mechanics",
+        "star gazing",
+        "Uranus",
+        "Neptune"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephaug13-star-party-targets-for-august-houge-park",
+      "documentId": "ephaug13",
+      "title": "Star Party Targets for August Houge Park",
+      "summary": "This article, authored by Mark Wagner, outlines specific celestial targets for several August star parties at Houge Park. It provides four Moon targets, including craters and features like Sinus Iridum, for an August 16 event, complete with descriptive notes and references to the Rukl Lunar Atlas. Additionally, it lists four Deep Sky targets—two open clusters (M11, M52), a planetary nebula (NGC 7662), and a double star (Epsilon Lyrae)—for August 2 and 30 star parties, offering coordinates and observing tips for suburban skies.",
+      "categories": [
+        "Observing Guide",
+        "Events",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Star Party",
+        "Observing Targets",
+        "Moon",
+        "Deep Sky Objects",
+        "Lunar Atlas",
+        "Open Clusters",
+        "Planetary Nebula",
+        "Double Stars",
+        "Houge Park",
+        "Astronomy"
+      ],
+      "pageStart": 9,
+      "pageEnd": 30
+    },
+    {
+      "id": "ephaug13-sjaa-board-of-directors",
+      "documentId": "ephaug13",
+      "title": "SJAA Board of Directors",
+      "summary": "The article reports on positive feedback and a $100 donation received by the SJAA from a new member, who particularly appreciated their in-town star parties and other community events. It also celebrates the success of the SJAA School Star Party program for the 2012-13 school year, led by Jim Van Nuland, which involved numerous astronomy outreach events at schools across the South Bay Area.",
+      "categories": [
+        "Organizational News",
+        "Community Outreach",
+        "Educational Programs",
+        "Member Appreciation"
+      ],
+      "keywords": [
+        "SJAA",
+        "Donation",
+        "Star Parties",
+        "Community Events",
+        "School Star Party",
+        "Astronomy Education",
+        "Member Feedback",
+        "Rob Jaworski",
+        "Jim Van Nuland",
+        "South Bay Area"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephaug13-heard-and-overheard-by-mina-wagner",
+      "documentId": "ephaug13",
+      "title": "HEARD AND OVERHEARD... By Mina Wagner",
+      "summary": "This article details numerous updates and upcoming events for local astronomy clubs, particularly the San Jose Astronomical Association (SJAA). It covers SJAA's initiatives like a search for a dark sky site, website modernization, equipment budget increases for the Quick STARt program, and a new Binocular Astronomy program. Also mentioned are the CalStar dark sky star party, SJAA's \"Fix-It\" program, a unique binocular donation, and the Fremont Peak Observatory Association's annual Star-B-Que, which coincides with the Perseid meteor shower.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing",
+        "Community Programs",
+        "Equipment"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "CalStar",
+        "Fremont Peak Observatory Association (FPOA)",
+        "Star party",
+        "Dark sky site",
+        "Binoculars",
+        "Telescopes",
+        "Quick STARt program",
+        "Fix-It program",
+        "Perseid meteor shower",
+        "Astronomy clubs",
+        "Web development",
+        "Board meetings"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephaug13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1308/EphAug13.pdf",
+      "txtPath": "1308/EphAug13.md"
+    }
+  ]
+}

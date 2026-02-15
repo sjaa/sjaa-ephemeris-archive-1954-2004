@@ -1,0 +1,310 @@
+{
+  "articles": [
+    {
+      "id": "ephemeris-21-03-sjaa-annual-awards-and-board-elections",
+      "documentId": "ephemeris-21-03",
+      "title": "SJAA Annual Awards and Board Elections",
+      "summary": "The San Jose Astronomical Association (SJAA) announced the results of its annual board member elections and presented awards at its February 27th board meeting. Emi Nikolov and Rashi Girdhar were recognized for their outstanding contributions, while five existing directors were re-elected. The customary potluck dinner was cancelled due to COVID-19 restrictions.",
+      "categories": [
+        "Club News",
+        "Awards",
+        "Elections",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Annual Awards",
+        "Board Elections",
+        "Emi Nikolov",
+        "Rashi Girdhar",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "Starry Nights",
+        "Armchair Star Party",
+        "COVID-19"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephemeris-21-03-in-memoriam-bob-ayers",
+      "documentId": "ephemeris-21-03",
+      "title": "In Memoriam Bob Ayers",
+      "summary": "This article is an 'In Memoriam' for Bob Ayers, a long-time member of the SJAA, who passed away in October 2020. Ayers, a Harvard astronomy graduate and tech industry veteran, was a significant benefactor to the astronomy community, establishing the Robert Martin Ayers Sciences Fund and having an asteroid named in his honor. Although a proposed land gift to the SJAA did not materialize, his support for amateur astronomy and science education, including grants and a bequest to the club, was greatly appreciated and aligned with the SJAA's mission.",
+      "categories": [
+        "Obituary",
+        "Memorial",
+        "Community News",
+        "Philanthropy",
+        "Amateur Astronomy History"
+      ],
+      "keywords": [
+        "Bob Ayers",
+        "SJAA",
+        "In Memoriam",
+        "Lowell Observatory",
+        "Robert Martin Ayers Sciences Fund",
+        "Astronomy Education",
+        "Willow Springs 3000",
+        "Asteroid 25154 Ayers",
+        "Harvard",
+        "Technology",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephemeris-21-03-nasa-s-mars-perseverance-rover-safely-lands-on-red-planet",
+      "documentId": "ephemeris-21-03",
+      "title": "NASA's Mars Perseverance Rover Safely Lands on Red Planet",
+      "summary": "NASA's Mars Perseverance rover successfully landed on the Red Planet on February 18, 2021, after a 203-day journey. Its primary mission is to conduct astrobiology research, including searching for signs of ancient microbial life in Jezero Crater, characterize Mars' geology and past climate, and collect and cache Martian rock and regolith for future return to Earth. The rover, equipped with advanced instruments, also aims to pave the way for future human exploration of Mars and demonstrated technologies like the Ingenuity helicopter.",
+      "categories": [
+        "Space Exploration",
+        "News",
+        "Science",
+        "Technology",
+        "Planetary Missions",
+        "Astrobiology"
+      ],
+      "keywords": [
+        "Perseverance Rover",
+        "Mars",
+        "NASA",
+        "Jezero Crater",
+        "Astrobiology",
+        "Ancient Microbial Life",
+        "Sample Return",
+        "Human Exploration",
+        "Mars 2020 Mission",
+        "JPL",
+        "Ingenuity Helicopter",
+        "Red Planet",
+        "Planetary Science"
+      ],
+      "pageStart": 4,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephemeris-21-03-hubble-uncovers-concentration-of-small-black-holes",
+      "documentId": "ephemeris-21-03",
+      "title": "Hubble Uncovers Concentration of Small Black Holes",
+      "summary": "The Hubble Space Telescope, along with data from Gaia, uncovered a concentration of smaller black holes, rather than a single intermediate-mass black hole, at the heart of the globular cluster NGC 6397. These black holes are stellar remnants that accumulated in the cluster's core due to dynamical friction. This discovery provides the first comprehensive characterization of such a collection and suggests that mergers of these tightly packed black holes could be a significant source of gravitational waves.",
+      "categories": [
+        "Astronomy",
+        "Astrophysics",
+        "Space Exploration",
+        "Scientific Discovery",
+        "Research News"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "Black Holes",
+        "Globular Cluster",
+        "NGC 6397",
+        "Stellar-mass Black Holes",
+        "Intermediate-mass Black Holes",
+        "Dynamical Friction",
+        "Gravitational Waves",
+        "LIGO",
+        "Stellar Remnants",
+        "Gaia Space Observatory"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephemeris-21-03-sjaa-member-astrophoto-gallery",
+      "documentId": "ephemeris-21-03",
+      "title": "SJAA Member Astrophoto Gallery",
+      "summary": "This document showcases an astrophotography gallery featuring images captured by members of the San Jose Astronomical Association (SJAA), published in their March 2021 'Ephemeris'. Each entry details the celestial object photographed, the photographer's name, date, location, and the specific imaging equipment and software used. The gallery includes deep-sky objects like Thor's Helmet, Wizard Nebula, Seagull Nebula, and Carina Nebula, with submissions from various locations including California, Texas, and Chile.",
+      "categories": [
+        "Astrophotography",
+        "Member Showcase",
+        "Technical Details",
+        "Club Publication"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "SJAA",
+        "Deep-sky imaging",
+        "Nebulae",
+        "Amateur astronomy",
+        "Imaging equipment",
+        "Image processing software"
+      ],
+      "pageStart": 7,
+      "pageEnd": 11
+    },
+    {
+      "id": "ephemeris-21-03-nasa-s-tess-discovers-new-worlds-in-a-river-of-young-stars",
+      "documentId": "ephemeris-21-03",
+      "title": "NASA's TESS Discovers New Worlds in a River of Young Stars",
+      "summary": "NASA's Transiting Exoplanet Survey Satellite (TESS) has discovered TOI 451, a triple-planet system orbiting a young, Sun-like star within the recently identified Pisces-Eridanus stellar stream. This stream, located 400 light-years away, is only 120 million years old, making the system an ideal target for studying planetary atmosphere evolution and the formation of stars and planets. The discovery was supported by data from other missions like Spitzer and NEOWISE, as well as ground-based facilities.",
+      "categories": [
+        "Exoplanet Discovery",
+        "Astronomy Research",
+        "Space Telescopes",
+        "Stellar Streams",
+        "Planetary Systems",
+        "Star Formation"
+      ],
+      "keywords": [
+        "TESS",
+        "Exoplanets",
+        "TOI 451",
+        "Pisces-Eridanus stream",
+        "Young stars",
+        "Planetary evolution",
+        "Spitzer Space Telescope",
+        "NEOWISE",
+        "Transits",
+        "NASA",
+        "Stellar formation"
+      ],
+      "pageStart": 11,
+      "pageEnd": 12
+    },
+    {
+      "id": "ephemeris-21-03-kid-spot",
+      "documentId": "ephemeris-21-03",
+      "title": "Kid Spot",
+      "summary": "The article, titled \"Kid Spot,\" presents a collection of four space and astronomy-themed jokes tailored for children. These lighthearted jokes play on words related to astronomical concepts such as \"light year,\" \"sun glasses,\" \"asteroid belt,\" and \"launch time,\" offering simple entertainment.",
+      "categories": [
+        "Humor",
+        "Kids Content",
+        "Astronomy-themed Entertainment"
+      ],
+      "keywords": [
+        "Jokes",
+        "Kids",
+        "Space humor",
+        "Astronomy jokes",
+        "Light year",
+        "Astronauts",
+        "Solar system",
+        "Asteroid belt"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-21-03-goddard-s-core-flight-software-chosen-for-nasa-s-lunar-gateway",
+      "documentId": "ephemeris-21-03",
+      "title": "Goddard's Core Flight Software Chosen for NASA's Lunar Gateway",
+      "summary": "NASA's Goddard Space Flight Center's Core Flight System (cFS) has been selected and is undergoing Class A certification for the Lunar Gateway, a key component of the Artemis program. This reusable, open-source flight software will provide the foundational system for Gateway's day-to-day operations, managing instruments and systems. Its adaptable, component-based design, developed since 2004, allows for rapid assembly of software for new missions, significantly reducing development time and cost while ensuring astronaut safety.",
+      "categories": [
+        "News",
+        "Space Technology",
+        "Space Exploration",
+        "NASA Programs",
+        "Software Development"
+      ],
+      "keywords": [
+        "NASA",
+        "Lunar Gateway",
+        "Artemis program",
+        "Core Flight System (cFS)",
+        "Goddard Space Flight Center",
+        "Flight software",
+        "Spacecraft operations",
+        "Software certification",
+        "Lunar exploration",
+        "Open-source software"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "ephemeris-21-03-from-the-board-of-directors",
+      "documentId": "ephemeris-21-03",
+      "title": "From the Board of Directors",
+      "summary": "The San Jose Astronomical Association (SJAA) is monitoring the COVID-19 situation in Santa Clara County, potentially canceling events and advising members to check Meetup for updates. The article also covers recent reelections for Board of Directors and upcoming online officer elections, alongside various board meeting discussions including improving member communication, utilizing a 24\" Dob telescope, managing Houge Park facilities, and considering virtual outreach requests.",
+      "categories": [
+        "Club Announcements",
+        "Governance",
+        "Operations",
+        "Events",
+        "Financial",
+        "Facilities Management"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Elections",
+        "COVID-19",
+        "Event Cancellations",
+        "Officer Elections",
+        "Houge Park",
+        "24\" Dob Telescope",
+        "Virtual Outreach",
+        "Member Communication"
+      ],
+      "pageStart": 3,
+      "pageEnd": 14
+    },
+    {
+      "id": "ephemeris-21-03-sjaa-library-and-programs",
+      "documentId": "ephemeris-21-03",
+      "title": "SJAA Library and Programs",
+      "summary": "The San Jose Astronomical Association (SJAA) offers a variety of resources and programs for its members and the community. These include a library, telescope repair sessions, monthly solar observing and 'Intro to the Night Sky' events, and an equipment loaner program. Additionally, SJAA provides specialized groups and workshops for astrophotography enthusiasts and organizes star parties for local schools.",
+      "categories": [
+        "Programs",
+        "Resources",
+        "Events",
+        "Education",
+        "Technical Support",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomy library",
+        "telescope repair",
+        "solar observing",
+        "night sky introduction",
+        "equipment loaner",
+        "astrophotography",
+        "astro imaging",
+        "star parties",
+        "Houge Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephemeris-21-03-ephemeris-printing-questionnaire",
+      "documentId": "ephemeris-21-03",
+      "title": "Ephemeris Printing Questionnaire",
+      "summary": "This document is a questionnaire from the Ephemeris production team, seeking input from its readers on the newsletter's printing format. It asks for feedback on the recent change to color astronomy pictures in the center pages and explores preferences for future printing options (full B&W, 4 color pages, or all color) and their associated annual cost increases for members. Readers can respond online or by mail.",
+      "categories": [
+        "questionnaire",
+        "publication management",
+        "member feedback",
+        "printing options",
+        "newsletter"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "questionnaire",
+        "printing",
+        "cost",
+        "color images",
+        "newsletter",
+        "SJAA",
+        "member feedback",
+        "publication format"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephemeris-21-03",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "2103/Ephemeris_21-03.pdf",
+      "txtPath": "2103/Ephemeris_21-03.md"
+    }
+  ]
+}

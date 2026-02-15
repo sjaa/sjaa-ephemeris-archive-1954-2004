@@ -1,0 +1,259 @@
+{
+  "articles": [
+    {
+      "id": "ephapr00-star-fingerprints",
+      "documentId": "ephapr00",
+      "title": "Star Fingerprints",
+      "summary": "This article details an observational project using a spectroscope to analyze the spectral \"fingerprints\" of various star types, from B-class to C-subclass. It describes the characteristic spectral lines (e.g., hydrogen, helium, calcium, magnesium) and molecular bands (e.g., titanium oxide) that differentiate each stellar class, listing specific observed stars. The author also provides a brief explanation of how spectral lines are formed by electrons jumping between energy levels.",
+      "categories": [
+        "Observing Reports",
+        "Stellar Classification",
+        "Spectroscopy",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "Stellar spectroscopy",
+        "Star classification",
+        "Spectral lines",
+        "Absorption lines",
+        "Molecular bands",
+        "Hydrogen spectrum",
+        "Helium spectrum",
+        "Calcium lines",
+        "Titanium oxide",
+        "OBAFGKM stars",
+        "Spectroscope",
+        "Observational astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephapr00-loaner-program-to-include-spectrograph",
+      "documentId": "ephapr00",
+      "title": "Loaner Program to Include Spectrograph",
+      "summary": "The SJAA loaner program is adding a Rainbow Optics Star Spectroscope, an easy-to-use tool that attaches to a telescope eyepiece to observe stellar spectra and absorption lines. This slitless spectroscope is useful for identifying stellar planetaries and CCD imaging, though not for extended objects. Members interested in borrowing it should contact Loaner Program director Mike Koop.",
+      "categories": [
+        "Astronomy Club News",
+        "Observing Equipment",
+        "Technical Guide",
+        "Observing Report"
+      ],
+      "keywords": [
+        "SJAA loaner program",
+        "spectrograph",
+        "Rainbow Optics Star Spectroscope",
+        "stellar spectra",
+        "diffraction grating",
+        "absorption lines",
+        "astronomical observing",
+        "CCD imaging",
+        "stellar planetaries",
+        "Wolf-Rayet stars",
+        "carbon stars",
+        "spectral classification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr00-star-spectra-in-orion",
+      "documentId": "ephapr00",
+      "title": "Star Spectra in Orion",
+      "summary": "This article describes the \"Winter Circle of Stars\" visible in the constellations around Orion, highlighting the distinct colors and apparent positions of bright stars like Capella, Aldebaran, Rigel, Sirius, Procyon, Castor, and Pollux. It explains that observing these stars through a spectroscope reveals their age and temperature through absorption and emission lines in their unique spectrographs, providing insights into stellar properties.",
+      "categories": [
+        "observing guide",
+        "stellar properties",
+        "astronomy education",
+        "spectroscopy"
+      ],
+      "keywords": [
+        "Orion",
+        "Winter Circle of Stars",
+        "star colors",
+        "spectroscope",
+        "spectrograph",
+        "absorption lines",
+        "emission lines",
+        "stellar age",
+        "stellar temperature",
+        "Capella",
+        "Aldebaran",
+        "Rigel",
+        "Sirius",
+        "Procyon",
+        "Castor",
+        "Pollux",
+        "Betelgeuse",
+        "Alnitak",
+        "Mintaka"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephapr00-mooning",
+      "documentId": "ephapr00",
+      "title": "Mooning",
+      "summary": "This article encourages observers to focus on the Moon's first quarter phase, particularly exploring the 'dark side' for phenomena like earthshine. It provides guidance on spotting specific lunar features such as Aristarchus, Grimaldi, Tycho's rays, and high spots near the terminator, even under minimal illumination. Additionally, it highlights opportunities to observe Sinus Iridum and the eastern limb (Crisium) due to favorable libration just before full moon.",
+      "categories": [
+        "Observing Guide",
+        "Lunar Observation",
+        "Astronomy Tips"
+      ],
+      "keywords": [
+        "Moon",
+        "Earthshine",
+        "Terminator",
+        "First Quarter Moon",
+        "Lunar features",
+        "Aristarchus",
+        "Grimaldi",
+        "Tycho",
+        "Sinus Iridum",
+        "Libration",
+        "Crisium",
+        "Full Moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr00-meteors-and-april-showers",
+      "documentId": "ephapr00",
+      "title": "Meteors and April Showers",
+      "summary": "This article details the Lyrid meteor shower, active from April 16-25 and peaking around April 21-22, providing specific data such as radiant location, velocity, and average magnitude. It notes that a bright moon will unfortunately reduce visibility for the Lyrids this year and offers tips for comfortable observing. Additionally, the article lists and briefly describes several other minor meteor showers occurring in April, including the Pi Puppids and Alpha Virginids.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guides",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Lyrids",
+        "Meteor Shower",
+        "April Showers",
+        "Observing Conditions",
+        "Radiant",
+        "Lyra",
+        "Pi Puppids",
+        "Alpha Virginids",
+        "Comet Grigg-Skjellerup",
+        "Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephapr00-uranus-jokes-banned",
+      "documentId": "ephapr00",
+      "title": "Uranus Jokes Banned",
+      "summary": "This article serves as an astronomical observing guide for April 2000, detailing the visibility, magnitude, and positions of various planets including Jupiter, Saturn, Uranus, Neptune, Venus, and noting the unobservability of Pluto and Earth. It also highlights the upcoming Lyrid Meteor Shower, providing an image and optimal viewing details. The piece subtly incorporates an April Fool's Day joke regarding Earth's moons.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Planetary observation",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Venus",
+        "Lyrid Meteor Shower",
+        "April 2000",
+        "Magnitude",
+        "Aries",
+        "Capricorni",
+        "Ophiuchus",
+        "April Fool's"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephapr00-comet-comments-for-april-2000",
+      "documentId": "ephapr00",
+      "title": "Comet Comments for April 2000",
+      "summary": "Don Machholz's \"Comet Comments for April 2000\" details numerous comet discoveries, primarily from the SOHO satellite, LINEAR, and CATALINA programs. SOHO images yielded many comets, though their discoverers didn't receive formal credit, while LINEAR and CATALINA often identified small comets initially mistaken for asteroids. The article also provides an update on Comet LINEAR (1999 S4) and contrasts professional satellite/program discoveries with amateur visual comet hunting.",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Comet Discovery",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "SOHO satellite",
+        "LINEAR program",
+        "CATALINA program",
+        "Comet discovery",
+        "Amateur astronomy",
+        "Comet LINEAR (1999 S4)",
+        "April 2000"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephapr00-celestial-calendar-april-2000",
+      "documentId": "ephapr00",
+      "title": "Celestial Calendar April 2000",
+      "summary": "This article, 'Celestial Calendar April 2000,' provides a detailed astronomical guide for the month, listing lunar phases, planetary positions (Mercury, Venus, Mars, Jupiter, Saturn) with their coordinates and magnitudes, and various solar and twilight times. It serves as an ephemeris for skygazers, highlighting optimal dark sky periods like the 'Darkest Saturday Night.' Additionally, it briefly notes a past presentation by Dr. Jeff Moore on Galileo spacecraft findings and the Mars Polar Lander.",
+      "categories": [
+        "Astronomical Calendar",
+        "Observing Guide",
+        "Celestial Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Celestial Calendar",
+        "April 2000",
+        "Lunar Phases",
+        "Planetary Positions",
+        "Skywatching",
+        "Astronomical Data",
+        "Twilight Times",
+        "Galileo spacecraft",
+        "Mars Polar Lander"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephapr00-sjaa-loaner-scope-status",
+      "documentId": "ephapr00",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "The SJAA Loaner Scope program provides telescopes to its members, managed by Mike Koop. The article details the current status of various scopes, including those immediately available for loan, those currently out with due dates, and those on extended loan. It also lists members on a waiting list for specific scopes and requests volunteers for scope storage.",
+      "categories": [
+        "Club Program",
+        "Equipment Management",
+        "Member Services",
+        "Inventory Status"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scope",
+        "Telescope",
+        "Astronomy Club",
+        "Equipment",
+        "Availability",
+        "Waiting List",
+        "Due Dates",
+        "Members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephapr00",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0004/EphApr00.pdf",
+      "txtPath": "0004/EphApr00.md"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "articles": [
+    {
+      "id": "ephjan01-lasers-in-the-sky",
+      "documentId": "ephjan01",
+      "title": "Lasers in the Sky",
+      "summary": "This article presents three distinct astronomy-related pieces: a brief note on the cost and eye safety precautions for 'Lasers in the Sky,' an heartwarming account of introducing an 8-year-old niece to astronomy through Skymap software, a Dobsonian telescope, and binoculars, and a review of a 14\" loaner Dobsonian telescope, detailing its setup, challenges, and rewarding deep-sky observations from dark sites. The common thread highlights practical experiences and the joy of astronomical discovery.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Outreach",
+        "Equipment Review",
+        "Public Education",
+        "Safety"
+      ],
+      "keywords": [
+        "Lasers",
+        "Telescopes",
+        "Dobsonian",
+        "First Light",
+        "Planetary observation",
+        "Deep-sky observation",
+        "Astronomy education",
+        "Telescope loaner program",
+        "Binoculars",
+        "Skymap software"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "ephjan01-the-shallow-sky",
+      "documentId": "ephjan01",
+      "title": "The Shallow Sky",
+      "summary": "This article, 'The Shallow Sky', provides an observing guide for planet watchers at the start of a new year, compensating for missed eclipses with excellent planetary views. It details observable features and events for Jupiter, Saturn, and Venus, including Jupiter's active bands and Saturn's lengthening ring shadow. It also mentions observing prospects for Mars, Mercury, Neptune, Uranus, and Pluto, noting their positions and visibility.",
+      "categories": [
+        "observing reports",
+        "planetary astronomy",
+        "sky watching",
+        "astronomy guide"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Neptune",
+        "Uranus",
+        "Pluto",
+        "solar eclipse",
+        "lunar eclipse",
+        "Great Red Spot",
+        "planetary observation",
+        "opposition",
+        "elongation",
+        "rings",
+        "phases"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjan01-are-good-planets-hard-to-find",
+      "documentId": "ephjan01",
+      "title": "\"Are Good Planets Hard to Find?\"",
+      "summary": "Drs. Frank Drake and Peter Ward will discuss the controversial \"Rare Earth\" hypothesis at Foothill College on January 24th, questioning the rarity of habitable planets and life in the cosmos. This free, non-technical public lecture is part of the Silicon Valley Astronomy Lecture Series and will feature insights from the co-author of the \"Rare Earth\" book and the founder of the SETI Institute. Attendees are invited to explore whether scientists are too optimistic about finding other Earth-like worlds.",
+      "categories": [
+        "Events",
+        "Lecture",
+        "Astronomy",
+        "Science Discussion",
+        "News"
+      ],
+      "keywords": [
+        "Rare Earth hypothesis",
+        "Habitable planets",
+        "Exoplanets",
+        "Extraterrestrial life",
+        "SETI",
+        "Drake Equation",
+        "Astronomy lecture",
+        "Frank Drake",
+        "Peter Ward",
+        "Foothill College"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjan01-mooning",
+      "documentId": "ephjan01",
+      "title": "Mooning",
+      "summary": "This article discusses lunar observing during January, dubbed 'Official Moon Season' due to the Moon's high elevation in the evening sky, which promises better seeing conditions. The author encourages viewing the 'nearly full Moon,' dispelling the myth of it being too bright, and provides specific targets like Mare Humboldtianum, emphasizing its geological significance and visible features. It guides observers to explore the terminator for interesting details and other prominent craters.",
+      "categories": [
+        "Lunar Astronomy",
+        "Observing Guide",
+        "Beginner Astronomy",
+        "Monthly Sky Notes",
+        "Education"
+      ],
+      "keywords": [
+        "Moon",
+        "Lunar Observation",
+        "Mare Humboldtianum",
+        "Seeing Conditions",
+        "Terminator",
+        "Full Moon",
+        "January Astronomy",
+        "Telescope Viewing",
+        "Lunar Geology",
+        "Lunar Prospector",
+        "Mascon"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephjan01-hawaiian-eyes",
+      "documentId": "ephjan01",
+      "title": "Hawaiian Eyes",
+      "summary": "The article recounts Jane Houston Jones's astronomy trip to Hawaii, detailing observing sessions with fellow astronomers despite variable weather. Highlights include a Hawaiian Astronomical Society star party at Dillingham Airfield and a highly successful sidewalk astronomy event on Waikiki Beach, where over a hundred members of the public enthusiastically viewed Jupiter and Saturn through their telescopes. The experience emphasized the joy of sharing celestial wonders with new observers.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Outreach/Public Engagement",
+        "Travel"
+      ],
+      "keywords": [
+        "Hawaii",
+        "Astronomy",
+        "Observing",
+        "Sidewalk Astronomy",
+        "Star Party",
+        "Jupiter",
+        "Saturn",
+        "Venus",
+        "Telescopes",
+        "Hawaiian Astronomical Society",
+        "Waikiki Beach",
+        "Dillingham Airfield"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjan01-sjaa-loaner-scope-status",
+      "documentId": "ephjan01",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This article details the current status of the San Jose Astronomical Association's (SJAA) loaner telescope program. It provides a comprehensive list of available scopes, those currently on loan with due dates, and scopes with extended loan periods. SJAA members interested in borrowing equipment are directed to contact Mike Koop for arrangements or to be placed on a waiting list.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan Program",
+        "Member Resources",
+        "Status Update"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scopes",
+        "Telescopes",
+        "Astronomy Equipment",
+        "Member Program",
+        "Borrowing",
+        "Availability",
+        "Waiting List",
+        "Dobsonian",
+        "Newtonian",
+        "SCT",
+        "Refractor"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjan01",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0101/EphJan01.pdf",
+      "txtPath": "0101/EphJan01.md"
+    }
+  ]
+}

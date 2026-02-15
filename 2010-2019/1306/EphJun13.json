@@ -1,0 +1,301 @@
+{
+  "articles": [
+    {
+      "id": "ephjun13-june-planets",
+      "documentId": "ephjun13",
+      "title": "June Planets",
+      "summary": "This article provides an observing guide for planets in June, noting that most are low or morning objects, with Saturn being a highlight due to its well-placed position and a recently observed massive hurricane within its north polar hexagon. It then shifts to discuss challenges in spacecraft engineering, particularly the autonomy required for Mars rovers like Curiosity due to light-speed delays, and common failure points in embedded systems, using the Mars Polar Lander as an example.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Science",
+        "Space Exploration",
+        "Spacecraft Technology",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "June Planets",
+        "Saturn",
+        "Jupiter",
+        "Mercury",
+        "Venus",
+        "Pluto",
+        "Uranus",
+        "Neptune",
+        "Mars",
+        "Curiosity rover",
+        "Cassini",
+        "Mars Polar Lander",
+        "Planetary Observing",
+        "Saturn's hurricane",
+        "North Polar Hexagon",
+        "Spacecraft autonomy",
+        "Embedded systems",
+        "JPL"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun13-heard-and-overheard-by-mina-wagner",
+      "documentId": "ephjun13",
+      "title": "HEARD AND OVERHEARD... By Mina Wagner",
+      "summary": "Mina Wagner's column highlights upcoming SJAA enhancements like a large meeting screen and movie nights, alongside a successful Texas Star Party. An update from Ed Wong details recent telescope repairs and modifications at a 'FixIt' session, requesting more program promotion. The 'Shallow Sky' section recounts multiple historical space mission failures, attributing them primarily to human error, overworked engineering teams, and insufficient testing protocols.",
+      "categories": [
+        "Local Astronomy Club News",
+        "Events",
+        "Telescope Maintenance",
+        "Space Mission Analysis",
+        "Technical",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Texas Star Party",
+        "Telescope Repair",
+        "Space Mission Failures",
+        "Human Error",
+        "Software Bugs",
+        "Testing",
+        "Astronomy Club",
+        "FixIt Program",
+        "Mars Missions",
+        "Lunar Missions",
+        "Engineering",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephjun13-celestial-observing-targets",
+      "documentId": "ephjun13",
+      "title": "Celestial Observing Targets",
+      "summary": "This document provides a guide to celestial observing targets for June, featuring lunar landmarks for June 14 and deep-sky objects for June 28, often associated with Houge Park events. It also includes an update on an \"Advanced Loaner program\" for astronomy equipment, detailing new acquisitions, repairs, and a unique training requirement. Additionally, the article offers detailed observing notes for several challenging Arp galaxies, describing their appearance and characteristics through a 7mm eyepiece.",
+      "categories": [
+        "Observing Guides",
+        "Astronomy Events",
+        "Club News",
+        "Equipment",
+        "Deep Sky Astronomy",
+        "Lunar Observing",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Lunar observing",
+        "Deep-sky observing",
+        "Astronomy club",
+        "Equipment loaner program",
+        "Arp galaxies",
+        "Celestial targets",
+        "Amateur astronomy",
+        "Telescope mounts",
+        "Sombrero Galaxy",
+        "Ring Nebula",
+        "Hercules Cluster",
+        "Alpine Valley",
+        "Observing notes",
+        "Star hopping",
+        "Polar alignment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 310
+    },
+    {
+      "id": "ephjun13-solar-viewing-activities-and-reports",
+      "documentId": "ephjun13",
+      "title": "Solar Viewing Activities and Reports",
+      "summary": "The article describes solar viewing events and observations in early May. Michael Swartz and Michael Packer hosted a public \"Cinco de Solar\" event at Houge Park on May 5th, observing sunspots, filaments, and prominences despite challenging weather. Separately, a massive solar flare with a large quiescent prominence and active surge was reported on May 8th, detailing its features and active regions. The article concludes by promoting \"Solar Sundays,\" a regular monthly public solar viewing event at Houge Park, highlighting the club's new Lunt 100mm solar scope.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "News",
+        "Technical Astronomy",
+        "Solar Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Solar viewing",
+        "Solar flare",
+        "Sunspots",
+        "Prominences",
+        "Filaments",
+        "H-alpha",
+        "Houge Park",
+        "Lunt telescope",
+        "Solar Sundays",
+        "Astronomy observation",
+        "Active regions"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "ephjun13-sjaa-board-information-and-minutes",
+      "documentId": "ephjun13",
+      "title": "SJAA Board Information and Minutes",
+      "summary": "This document contains a notice for the San Jose Astronomical Association's (SJAA) June 2013 board meeting, which was rescheduled to June 28th, along with the raw minutes from their May 17, 2013 board meeting. The May minutes detail discussions on volunteer sign-ups, plans for a website overhaul, updates on the Calstar event, adoption of new signup infrastructure, the purchase of a telescope for the advanced loaner program, development of a plan for a dark sky site, and the acquisition of a large projection screen. The document also includes a publication statement for the SJAA Ephemeris newsletter.",
+      "categories": [
+        "Board Meetings",
+        "Organizational News",
+        "Event Planning",
+        "Technical Infrastructure",
+        "Equipment Acquisition",
+        "Volunteer Coordination"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "June 2013",
+        "May 2013",
+        "Houge Park",
+        "Website Overhaul",
+        "Calstar",
+        "Loaner Program",
+        "Dark Sky Site",
+        "Projection Screen",
+        "Volunteers",
+        "Jooners",
+        "Google Forms",
+        "Ephemeris",
+        "Astronomy Class",
+        "Star Party"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephjun13-report-a-mixed-night-at-willow-springs-deep-sky-observing",
+      "documentId": "ephjun13",
+      "title": "Report: A Mixed Night At Willow Springs - Deep Sky Observing",
+      "summary": "Mark Wagner reports on a deep sky observing session at Willow Springs with several other intrepid observers, despite mixed conditions caused by varying high clouds and transparency. Using telescopes up to 33.4 inches, the group focused on targets like Abell Galaxy Clusters, Arp galaxies, and Messiers, with the author noting challenges and interesting discoveries such as mis-plotted galaxies. Despite the variable conditions and waning energy, the night was deemed worthwhile for its good views and company, marking a return to regular observing.",
+      "categories": [
+        "Observing Report",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Galaxy Observing"
+      ],
+      "keywords": [
+        "Deep Sky Observing",
+        "Willow Springs",
+        "Abell Galaxy Clusters",
+        "Arp Galaxies",
+        "Galaxy Observing",
+        "Astronomical Observations",
+        "Observing Conditions"
+      ],
+      "pageStart": 7,
+      "pageEnd": 310
+    },
+    {
+      "id": "ephjun13-sjaa-s-june-22-2013-special-guest-speaker",
+      "documentId": "ephjun13",
+      "title": "SJAA's June 22, 2013 Special Guest Speaker",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting Dr. Dana Backman from SOFIA as a special guest speaker on June 22, 2013, to discuss NASA's Stratospheric Observatory for Infrared Astronomy. Dr. Backman, an infrared astronomer and manager of SOFIA's E/PO program, will present on the science from 41,000 feet. The article also includes details about his professional background and a preview of a future Movie Night event.",
+      "categories": [
+        "Event Announcement",
+        "Astronomy Lecture",
+        "Guest Speaker",
+        "Science Communication"
+      ],
+      "keywords": [
+        "SJAA",
+        "Dana Backman",
+        "SOFIA",
+        "NASA",
+        "Infrared Astronomy",
+        "Stratospheric Observatory for Infrared Astronomy",
+        "Astronomy",
+        "SETI Institute",
+        "Kuiper Airborne Observatory",
+        "Kitt Peak Observatory"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephjun13-creatv-in-sjaa-s-future",
+      "documentId": "ephjun13",
+      "title": "CreaTV in SJAA's Future?",
+      "summary": "SJAA members Rob Jaworski and Paul Kohlmiller are initiating a video production project with CreaTV San Jose, aiming to create educational and promotional content for the San Jose Astronomical Association. They plan a \"proof-of-concept\" video at an upcoming Houge Park star party to demonstrate the experience, addressing technical challenges like filming in the dark and capturing audio. The resulting videos would be used for school outreach, community access TV, and SJAA general meetings.",
+      "categories": [
+        "Project Announcement",
+        "Video Production",
+        "Outreach & Education",
+        "Star Party Logistics",
+        "Club Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "CreaTV",
+        "Video production",
+        "Star party",
+        "Astronomy outreach",
+        "Educational video",
+        "Community access TV",
+        "Houge Park",
+        "Paul Kohlmiller",
+        "Rob Jaworski"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephjun13-need-to-get-fixed-up",
+      "documentId": "ephjun13",
+      "title": "Need To Get Fixed Up?",
+      "summary": "The SJAA (San Jose Astronomical Association) offers a free \"Fix-It\" Program designed to help members repair or learn to use their astronomy equipment, such as telescopes. This service aims to reignite interest in astronomy by making gear functional again. Additionally, solar viewing opportunities are available during Fix-It Day events.",
+      "categories": [
+        "Club Services",
+        "Events",
+        "Equipment Maintenance",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "Fix-It Program",
+        "Telescope repair",
+        "Astronomy equipment",
+        "Solar viewing",
+        "Free service",
+        "Collimation",
+        "Club activity"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephjun13-darker-skies-are-close-by-starry-nights-at-rcdo",
+      "documentId": "ephjun13",
+      "title": "Darker Skies Are Close-By! Starry Nights at RCDO",
+      "summary": "The San Jose Astronomical Association (SJAA) partners with the Santa Clara County Open Space Authority to provide public stargazing events at Rancho Canada del Oro (RCDO), a nearby location offering dark skies comparable to Henry Coe State Park. SJAA members can also arrange private access to RCDO for observing and imaging. To receive notifications for these opportunities, interested individuals must sign up for the SJAA's Announcements email list.",
+      "categories": [
+        "Events",
+        "Observing Locations",
+        "Club Activities",
+        "News"
+      ],
+      "keywords": [
+        "Stargazing",
+        "Dark Skies",
+        "Rancho Canada del Oro",
+        "RCDO",
+        "SJAA",
+        "Astronomical Observing",
+        "Public Events",
+        "Member Benefits",
+        "Santa Clara County"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephjun13",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1306/EphJun13.pdf",
+      "txtPath": "1306/EphJun13.md"
+    }
+  ]
+}

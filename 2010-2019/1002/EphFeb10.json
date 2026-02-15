@@ -1,0 +1,160 @@
+{
+  "articles": [
+    {
+      "id": "ephfeb10-do-the-math",
+      "documentId": "ephfeb10",
+      "title": "Do the Math",
+      "summary": "This article emphasizes the importance of basic mathematical concepts for understanding astronomy, even for those who typically dislike math. It explains five fundamental formulas: the Kelvin scale for absolute temperature, Wien's Law to relate temperature to peak emission wavelength, Kepler's 3rd Law for planetary orbits, the Distance Modulus to calculate celestial distances, and Telescope Magnification.",
+      "categories": [
+        "Astronomy Education",
+        "Mathematical Concepts",
+        "Basic Astronomy",
+        "Explanatory Article",
+        "Physics"
+      ],
+      "keywords": [
+        "Kelvin scale",
+        "Wien's Law",
+        "Kepler's 3rd Law",
+        "Distance Modulus",
+        "Telescope Magnification",
+        "astronomy math",
+        "celestial mechanics",
+        "stellar temperature",
+        "orbital periods",
+        "apparent magnitude",
+        "absolute magnitude"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephfeb10-the-shallow-sky",
+      "documentId": "ephfeb10",
+      "title": "The Shallow Sky",
+      "summary": "This article provides a comprehensive guide for observing Mars throughout February, detailing various surface features visible at different times, such as the \"Eye of Mars,\" Syrtis Major, and Hellas. It encourages amateur astronomers to use high power and sketching techniques to explore the planet's dynamic appearance, noting its favorable high altitude post-opposition. The author also briefly mentions Saturn and offers an update on the Mars Spirit rover.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Mars",
+        "Planetary Observation",
+        "February Sky",
+        "Telescopic Viewing",
+        "Mars Surface Features",
+        "Spirit Rover",
+        "Saturn",
+        "Astronomy",
+        "Opposition"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephfeb10-sunglasses-for-a-solar-observatory",
+      "documentId": "ephfeb10",
+      "title": "Sunglasses for a Solar Observatory",
+      "summary": "A powerful solar flare in 2006 damaged the Solar X-Ray Imager (SXI) on NOAA's GOES-13 satellite, highlighting the challenge of monitoring intense solar events without sensor overexposure. In response, NASA engineers developed new flight-software \"sunglasses\" for the GOES-14 satellite. This innovation allows its SXI sensor to safely observe even extreme solar flares through five graduated levels of protection, balancing data collection with crucial sensor safety for space weather forecasting.",
+      "categories": [
+        "Space Weather",
+        "Satellite Technology",
+        "Astronomy News",
+        "Engineering",
+        "Observatory Instrumentation"
+      ],
+      "keywords": [
+        "Solar flare",
+        "Coronal Mass Ejection (CME)",
+        "Solar X-Ray Imager (SXI)",
+        "GOES-13",
+        "GOES-14",
+        "NASA",
+        "NOAA",
+        "Geomagnetic activity",
+        "X-rays",
+        "Satellite protection",
+        "Sensor technology",
+        "Space weather forecasting",
+        "Solar maximum",
+        "Goddard Space Flight Center"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephfeb10-hubble-ultra-deep-field-infrared-and-other-notes",
+      "documentId": "ephfeb10",
+      "title": "Hubble Ultra Deep Field - Infrared and other notes",
+      "summary": "This article highlights the new Hubble Ultra Deep Field infrared image, captured by the rehabbed Hubble Space Telescope's WFC3/IR instrument, revealing galaxies 13 billion years distant and intrinsically blue. It also includes a Q&A about supernova progenitor candidates and features local news for the San Jose Astronomical Association (SJAA), such as upcoming board elections and information about their telescope loaner program.",
+      "categories": [
+        "Astronomy News",
+        "Observational Astronomy",
+        "Club News",
+        "Education"
+      ],
+      "keywords": [
+        "Hubble Ultra Deep Field",
+        "infrared astronomy",
+        "Hubble Space Telescope",
+        "WFC3/IR",
+        "galaxies",
+        "early universe",
+        "supernova",
+        "Spica",
+        "Betelgeuse",
+        "Eta Carinae",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "club elections",
+        "telescope loaner program"
+      ],
+      "pageStart": 5,
+      "pageEnd": 311
+    },
+    {
+      "id": "ephfeb10-the-last-month-in-astronomy",
+      "documentId": "ephfeb10",
+      "title": "The Last Month In Astronomy",
+      "summary": "This article, summarizing 'The Last Month In Astronomy' (late 2009 - early 2010), highlights significant advancements including the discovery of new exoplanets by Keck and Kepler, and updated estimates on the prevalence of Earth-like planets. Key space missions saw milestones with ALMA linking antennae, WISE launching for an infrared sky map, and Cassini confirming liquid hydrocarbons on Titan. Additionally, NASA selected finalists for future unmanned missions, and astronaut John Grunsfeld took a leadership role at STScI.",
+      "categories": [
+        "Exoplanet Discovery",
+        "Space Missions",
+        "Observatory Development",
+        "Solar System Exploration",
+        "Astronomical News",
+        "Stellar Phenomena",
+        "Astronomy Research"
+      ],
+      "keywords": [
+        "exoplanets",
+        "Kepler",
+        "ALMA",
+        "WISE",
+        "Cassini",
+        "Titan",
+        "NASA",
+        "supernova",
+        "Drake Equation",
+        "Hubble",
+        "Keck Observatory",
+        "microlensing",
+        "wobble method",
+        "Space Telescope Science Institute"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephfeb10",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "1002/EphFeb10.pdf",
+      "txtPath": "1002/EphFeb10.md"
+    }
+  ]
+}

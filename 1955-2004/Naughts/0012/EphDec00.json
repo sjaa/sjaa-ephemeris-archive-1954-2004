@@ -1,0 +1,213 @@
+{
+  "articles": [
+    {
+      "id": "ephdec00-two-days-on-the-moon",
+      "documentId": "ephdec00",
+      "title": "Two Days on the Moon",
+      "summary": "The author recounts an exhilarating visit to the National Space Science Data Center (NSSDC) at Goddard, where they meticulously examined vast collections of Lunar Orbiter images and Apollo 15 film canisters, experiencing profound awe and excitement. This was followed by a research visit to the Library of Congress to further explore lunar documentation. The narrative highlights the personal impact of encountering these historical space exploration artifacts and documents.",
+      "categories": [
+        "Personal Experience",
+        "Space Exploration History",
+        "Archival Research",
+        "Lunar Studies",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Lunar Orbiter",
+        "Apollo 15",
+        "NSSDC",
+        "Goddard Space Flight Center",
+        "Moon",
+        "Space Photography",
+        "Library of Congress",
+        "Space History",
+        "Hadley Region",
+        "Film Canisters"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "ephdec00-won-t-you-lend-me-a-telescope",
+      "documentId": "ephdec00",
+      "title": "Won't You Lend Me a Telescope?",
+      "summary": "This article features two personal accounts from members of the SJAA (San Jose Astronomical Association) detailing their experiences with the club's loaner telescope program. Steven Nelson describes using an H-Alpha solar scope, highlighting its manual tuning benefits and the challenges of explaining solar phenomena to novices, while Jamie Dillon recounts his introduction to the club through a Dobsonian loaner, which quickly led him and his son to purchase their own telescope after positive early observing experiences.",
+      "categories": [
+        "Club Programs",
+        "Observing Reports",
+        "Equipment Review",
+        "Personal Narrative",
+        "Astronomy Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Telescope Program",
+        "H-Alpha Solar Scope",
+        "Solar Observation",
+        "Dobsonian Telescope",
+        "Star Parties",
+        "Telescope Tuning",
+        "Solar Prominences",
+        "Sunspots",
+        "Messier Objects"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "ephdec00-a-christmas-eclipse",
+      "documentId": "ephdec00",
+      "title": "A Christmas Eclipse",
+      "summary": "The article highlights a partial solar eclipse occurring on Christmas morning, detailing its visibility in eastern North America and emphasizing the crucial need for safe viewing methods like solar filters or projection. It also offers comprehensive observing guides for other December celestial objects, including Jupiter, Saturn, Venus, Uranus, Neptune, and the asteroid Vesta, providing specific features to look for with telescopes. Observing tips cover planetary features, moon transits, and ring structures, alongside warnings for safe telescope use.",
+      "categories": [
+        "Celestial Events",
+        "Observing Guide",
+        "Practical Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Solar eclipse",
+        "Christmas eclipse",
+        "Solar filter",
+        "Projection technique",
+        "Pinhole camera",
+        "Jupiter",
+        "Saturn",
+        "Venus",
+        "Uranus",
+        "Neptune",
+        "Vesta",
+        "Galilean moons",
+        "Great Red Spot",
+        "Cassini division",
+        "Encke Minimum",
+        "Telescope observing",
+        "Skywatching",
+        "December astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "ephdec00-how-to-look-at-the-moon",
+      "documentId": "ephdec00",
+      "title": "How To Look At The Moon",
+      "summary": "This article provides a beginner's guide to viewing the Moon, particularly beneficial for new telescope owners during the \"Moon Season\" from December to June. It highlights the Moon as an exceptionally \"telescope friendly\" object due to its high contrast and visible detail, making it an ideal starting point for astronomical observation. Practical advice includes focusing on the terminator for optimal viewing, understanding magnification ranges, and suggestions for lunar atlases and key features to memorize.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Telescopes",
+        "Lunar Observation",
+        "Beginner Tips"
+      ],
+      "keywords": [
+        "Moon viewing",
+        "Telescope use",
+        "Lunar observation",
+        "Astronomy tips",
+        "New telescope owners",
+        "Contrast",
+        "Terminator",
+        "Magnification",
+        "Eyepieces",
+        "Lunar maps",
+        "December",
+        "Moon Season"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "ephdec00-school-star-parties",
+      "documentId": "ephdec00",
+      "title": "School Star Parties",
+      "summary": "The article shares a glowing testimonial from a teacher following a school star party, highlighting the profound positive impact of volunteer astronomers. The event successfully sparked interest in astronomy among students and parents, reinforced classroom concepts, and left attendees highly impressed with the volunteers' expertise and equipment. It strongly suggests that such outreach efforts are well worth the time and travel.",
+      "categories": [
+        "Outreach",
+        "Education",
+        "Community Engagement",
+        "Volunteerism",
+        "Testimonial"
+      ],
+      "keywords": [
+        "School star parties",
+        "Astronomy outreach",
+        "Volunteer astronomers",
+        "STEM education",
+        "Public engagement",
+        "Telescope viewing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "ephdec00-the-celestial-tourist-column",
+      "documentId": "ephdec00",
+      "title": "The Celestial Tourist Column",
+      "summary": "This article features a comprehensive 2001 meteor calendar, detailing major meteor showers like the Quadrantids, Lyrids, Perseids, Leonids, and Geminids with their active dates, ZHRs, characteristics, and moon phases to assist observers in planning. Additionally, it provides an observing report from October-November 2000, chronicling various deep-sky observations, challenges with weather and equipment, and site-specific experiences using different telescopes and binoculars. Minor sections cover an equipment loaner program update and a club holiday party announcement.",
+      "categories": [
+        "Celestial Events",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Astronomical Calendar",
+        "Club News"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "Quadrantids",
+        "Lyrids",
+        "Eta Aquarids",
+        "Perseids",
+        "Orionids",
+        "Leonids",
+        "Geminids",
+        "Observing",
+        "Deep-sky objects",
+        "Galaxies",
+        "Nebulae",
+        "Globular Clusters",
+        "Telescopes",
+        "Binoculars",
+        "Observing Sites",
+        "Sky Atlas",
+        "Astronomy Club"
+      ],
+      "pageStart": 6,
+      "pageEnd": 8
+    },
+    {
+      "id": "ephdec00-sjaa-loaner-scope-status",
+      "documentId": "ephdec00",
+      "title": "SJAA Loaner Scope Status",
+      "summary": "This document details the status of the San Jose Astronomical Association's (SJAA) loaner telescope program, indicating which scopes are available, currently on loan, or have extended loan periods. SJAA members can contact Mike Koop to borrow a telescope or be added to a waiting list for popular models.",
+      "categories": [
+        "Club Services",
+        "Equipment Management",
+        "Astronomy Club",
+        "Membership Benefits"
+      ],
+      "keywords": [
+        "SJAA",
+        "Loaner Scopes",
+        "Telescopes",
+        "Astronomy Equipment",
+        "Membership",
+        "Borrowing Program",
+        "San Jose Astronomical Association",
+        "Scope Availability"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    }
+  ],
+  "documents": [
+    {
+      "id": "ephdec00",
+      "title": "<!-- PAGE 1 -->",
+      "issueDate": null,
+      "pdfPath": "0012/EphDec00.pdf",
+      "txtPath": "0012/EphDec00.md"
+    }
+  ]
+}
